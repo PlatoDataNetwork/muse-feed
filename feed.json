@@ -20,8 +20,190 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-09T17:55:20.838355+00:00",
+  "updated": "2026-10-09T18:55:26.076755+00:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-09_1454-edt-0",
+      "title": "BofA's Hartnett: a Democratic sweep could knock stocks 10%+",
+      "summary": "Bank of America's chief equity strategist says the Dem sweep probability, priced at 64% on betting markets (up from under 50% a month ago), poses a \"meaningful\" threat to risk appetite; he'd also expect the dollar and Treasury yields to fall and international stocks to outperform. Split outcome (R Senate, D House) priced at 28% .",
+      "tags": [
+        "Senate"
+      ],
+      "links": [
+        {
+          "label": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-1",
+      "title": "WSJ: Kalshi and Polymarket eyeing $20bn valuations",
+      "summary": "Both platforms are in talks with investors on new rounds targeting ~$20bn valuations, following Kalshi's $1bn Series E at $11bn in December and Polymarket's $2bn ICE investment at $8bn+; both deals landed as listed sports-betting operators' market caps slid .",
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "GambleRss",
+          "url": "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-2",
+      "title": "Midterm board: Dem sweep 63% on Polymarket, 60.5% on Kalshi",
+      "summary": "DeFi Rate's live snapshot (observed ~2:28 PM ET) shows Democrats Sweep 63% on Polymarket (down 2 pts this week), R Senate/D House at 29%; Kalshi prices Dem House control at 90.1% and Dem Senate at 60.5%. Polymarket's Balance of Power market has done $20.8M lifetime volume .",
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Midterms"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/prediction-markets/2026-midterms/#evidence"
+        },
+        {
+          "label": "Polymarket",
+          "url": "https://polymarket.com/event/balance-of-power-2026-midterms"
+        },
+        {
+          "label": "Election Central",
+          "url": "https://www.uspresidentialelectionnews.com/2026-midterm-election-odds/"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-3",
+      "title": "Tennessee vs. Arkansas: 83% Vols on both platforms, prop splits",
+      "summary": "Polymarket and Kalshi both price No. 15 Tennessee at exactly 83% to win Saturday's game, but moved opposite ways on first-quarter/total-points contracts after reports that George MacIntyre will start at QB; Kalshi has just $56k traded on the game .",
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "Rocky Top Insider",
+          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-4",
+      "title": "Iowa/Maine Senate toss-ups tighten",
+      "summary": "Hinson 54¢ / Turek 46¢ on Polymarket (56¢/44¢ on Kalshi) for Iowa; Maine's Jackson–Collins race near a coin flip with a slight Jackson lean on both exchanges as Nov. 3 approaches .",
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "links": [
+        {
+          "label": "Action Network",
+          "url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
+        },
+        {
+          "label": "Action Network",
+          "url": "https://www.actionnetwork.com/news/maine-senate-race-2026-polls-prediction-markets-troy-jackson-vs-susan-collins-polls-live-polymarket-kalshi-odds"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-5",
+      "title": "BTC rebounds above $82k after Trump rules out pre-midterm Iran strike",
+      "summary": "BTC ~$82,500–83,200 (off Thursday's low near $80,300/$80,544) after Trump's Truth Social post said the U.S. would not strike Iran before Nov. 3 while keeping the blockade \"in full force\"; Thursday's sell-off saw ~$1B in crypto liquidations and $487M in spot BTC ETF outflows Wednesday; BTC still down ~2.4% on the week and ~5.8% YTD .",
+      "tags": [
+        "Bitcoin",
+        "ETF",
+        "Midterms"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        },
+        {
+          "label": "Morningstar/Dow Jones",
+          "url": "https://www.morningstar.com/news/dow-jones/202610091775/bitcoin-recovers-some-ground-on-falling-yields-oil"
+        },
+        {
+          "label": "Blockchain Reporter",
+          "url": "https://blockchainreporter.net/bitcoin-price-today-btc-rebounds-above-82000/"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-6",
+      "title": "Macro: gold at records, oil eases, 10Y near 24-year highs",
+      "summary": "Gold futures +1.5% to ~$4,215; WTI ~$91.65–91.90 and Brent ~$104.35–104.65 as Iran-strike risk fades for now; 10Y Treasury ~5.24–5.25%, off Wednesday's 24-year high near 5.37%; futures point to a higher Friday open with indexes on track for weekly gains .",
+      "tags": [
+        "Gold",
+        "Oil"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-7",
+      "title": "Crypto breadth: ETH ~$2,460–2,500, SOL ~$109–110, ETF pressure",
+      "summary": "Ether trimmed losses alongside BTC but with $356M+ in ether long liquidations Thursday; Solana ~$109 (−6.5%); combined BTC+ETH spot ETF outflows hit $648M midweek; fear & greed index neutral at 55; BTC dominance 59.4% .",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "ETF"
+      ],
+      "links": [
+        {
+          "label": "The Hindu BusinessLine",
+          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-october-2026/article71560336.ece/amp/"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1454-edt-8",
+      "title": "Kalshi live commodity odds",
+      "summary": "Monthly Brent \"above $103.99\" 4.73x, \"above $101.99\" 1.29x ($107k vol); monthly gold \"above $4,181.99\" 1.33x, \"above $4,201.99\" 3.40x ($51k vol); natgas \"above $3.299\" 1.04x ($140k vol); daily silver \"above $59.99\" 1.02x ($14k vol); daily copper \"above $6.72\" 1.60x .",
+      "tags": [
+        "Kalshi",
+        "Gold",
+        "Silver",
+        "Oil",
+        "Natural Gas",
+        "Copper"
+      ],
+      "links": [
+        {
+          "label": "Kalshi commodities",
+          "url": "https://kalshi.com/category/commodities"
+        }
+      ],
+      "published": "2026-10-09T18:55:24.192127+00:00",
+      "source": "2026-10-09_1454-edt.md"
+    },
     {
       "id": "infiniti-2026-10-09_1354-edt-0",
       "title": "CNN: midterm \"mention markets\" fuel insider-trading alarms",
@@ -980,174 +1162,6 @@
       ],
       "published": "2026-10-09T10:54:53.314059+00:00",
       "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-1",
-      "title": "NFL tells Supreme Court prediction-market sports contracts are gambling, not swaps",
-      "summary": "In an amicus brief, the league asked SCOTUS to take the case, arguing the growing circuit split has created regulatory uncertainty over whether sports event contracts can be sold nationwide under CFTC oversight. The NFL says nearly $2B of $3.3B in first-Sunday NFL-season volume was tied to NFL events .",
-      "tags": [
-        "NFL",
-        "CFTC",
-        "SCOTUS"
-      ],
-      "links": [
-        {
-          "label": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-2",
-      "title": "Kalshi's 15-minute gold markets overtook Ether within weeks of launch",
-      "summary": "September data from Predict Charts: gold 15-min contracts hit 542M contracts ($5M est. fees) vs Ether's 318M ($2.6M), while Bitcoin stayed far ahead at $60.4M. Short-duration markets were ~80% of Kalshi's non-sports fees in the week through Oct 5; Kalshi has filed for perpetuals on gold, silver, and platinum .",
-      "tags": [
-        "Kalshi",
-        "Bitcoin",
-        "Gold",
-        "Silver"
-      ],
-      "links": [
-        {
-          "label": "CoinTelegraph",
-          "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-3",
-      "title": "Polymarket US keeps gaining share on NFL weekends",
-      "summary": "NFL Week 3 generated $8.5B in weekend notional volume (sports/combo = 86% of Sunday trade); Kalshi processed 68% of Sunday volume while Polymarket US rose 28% week-over-week to a 17% share .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "links": [
-        {
-          "label": "Bonus",
-          "url": "https://www.bonus.com/news/prediction-markets-hit-8-5b-in-nfl-week-3-weekend-volume-led-by-kalshi/"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-4",
-      "title": "Q3 record still the macro frame",
-      "summary": "Zubiqo/industry data: record $188B in Q3 notional volume (~70% QoQ, 21x YoY), with Kalshi permanently ahead of Polymarket since mid-April and sports ~40% of Kalshi's Q3 flow; 69.2% of 2.9M human Polymarket retail accounts finished below break-even .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Zubiqo",
-          "url": "https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-5",
-      "title": "Oil surged ~4% Thursday: WTI ~$92.40, Brent ~$105",
-      "summary": "Bond selloff, firm dollar, and renewed inflation fears weighed on risk assets. Gold held ~$4,120/oz (+0.3%), silver fell to fresh lows below $59, and Bitcoin slipped below $83k to ~$82,965, ~1% lower on the day .",
-      "tags": [
-        "Bitcoin",
-        "Gold",
-        "Silver",
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-6",
-      "title": "Kalshi commodity odds (live this morning)",
-      "summary": "Natgas 15-min target $3.26104 with \"above $3.299\" at ~59% ($75.9k vol); monthly Brent \"above $100.99\" ~55% ($74k vol), \"above $98.99\" ~58%; monthly gold \"above $4,192.99\" ~52% ($11.6k vol); silver \"above $59.99\" ~57% ($13.4k vol); copper \"above $6.63\" ~58%; year-end WTI \"90 or above\" ~49% ($133.8k vol) .",
-      "tags": [
-        "Kalshi",
-        "Gold",
-        "Silver",
-        "Oil",
-        "Natural Gas",
-        "Copper"
-      ],
-      "links": [
-        {
-          "label": "Kalshi commodities",
-          "url": "https://kalshi.com/category/commodities"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-7",
-      "title": "Year-end gold odds steady",
-      "summary": "Gold \"4,300 or above\" ~52%, \"4,400 or above\" ~43% on $302k volume .",
-      "tags": [
-        "Gold"
-      ],
-      "links": [
-        {
-          "label": "Kalshi commodities",
-          "url": "https://kalshi.com/category/commodities"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt-8",
-      "title": "Crypto: BTC ~$82.9k, year-end expectations deeply reset",
-      "summary": "Kalshi's end-of-2026 Bitcoin range series prices $100–104.999k at just 4.5% and $150k+ at 1.8%; the modal outcome is $75–79.999k at ~13.7% .",
-      "tags": [
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "Kalshi BTC EOY",
-          "url": "https://kalshi.com/markets/kxbtcy/btc-price-range-eoy"
-        }
-      ],
-      "published": "2026-10-09T10:54:53.314059+00:00",
-      "source": "2026-10-09_0654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_0554-edt-0",
-      "title": "Quiet hour — nothing new broke in the last hour",
-      "summary": "No fresh prediction-markets headlines since the 04:54 briefing. The most recent drivers: Kalshi pricing Flávio Bolsonaro at ~83% for Brazil's presidency after his first-round showing , and the Nobel Peace Prize announced today — Polymarket has Sudan's Emergency Response Rooms as frontrunner at 15% .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Brazil",
-        "Nobel Prize"
-      ],
-      "links": [
-        {
-          "label": "Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4651414-prediction-markets-put-flavio-bolsonaro-at-83-to-win-brazils-presidency"
-        },
-        {
-          "label": "rg.org",
-          "url": "https://rg.org/news/prediction-markets/polymarket-daily-odds-october-7-2026"
-        }
-      ],
-      "published": "2026-10-09T09:56:44.183086+00:00",
-      "source": "2026-10-09_0554-edt.md"
     }
   ]
 }
