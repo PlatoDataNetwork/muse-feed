@@ -20,8 +20,213 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-09T23:56:24.989489+00:00",
+  "updated": "2026-10-10T00:56:24.189868+00:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-09_2054-edt-0",
+      "title": "$1B+ in crypto liquidations as BTC wobbles near $82K",
+      "summary": "Over $1.09B in crypto positions were liquidated in 24h as Bitcoin slid from ~$86K toward $82K before recovering to ~$82,991 Friday afternoon; longs ate ~85–86% of the losses (~$930M), the largest single wipeout a ~$20M ETH position on Hyperliquid. Trigger: US authorities transferred 17,733 seized BTC (~$1.48B) to Coinbase Prime over three days, spooking a market already jittery on geopolitics .",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "links": [
+        {
+          "label": "Hokanews",
+          "url": "https://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html"
+        },
+        {
+          "label": "u.today",
+          "url": "https://u.today/xrp-defies-market-bloodbath-as-bitcoin-hits-october-lows-main-crypto-news-this-morning?from=related"
+        },
+        {
+          "label": "CryptoCompass",
+          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-1",
+      "title": "Zacharia probe still live: Kalshi & White House stay silent",
+      "summary": "WSJ's piece on the three suspiciously timed Katie Zacharia bets ($19→$1,896; $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman still declines comment and the White House hasn't responded; the separate CFTC probe into billions in near-identical crypto \"wash trades\" on Kalshi also looms .",
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "links": [
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-2",
+      "title": "Oil holds its diesel-deal losses into the weekend",
+      "summary": "Brent eased ~0.7% to ~$103.53 and WTI settled near $91.20 after Trump's announced Putin diesel-supply deal; traders still weigh Houthi attacks on Saudi Arabia and Hurricane Isaias against the Iran de-escalation .",
+      "tags": [
+        "Oil"
+      ],
+      "links": [
+        {
+          "label": "CryptoCompass",
+          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
+        },
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-3",
+      "title": "Gold's rally holds above $4,200; silver above $60",
+      "summary": "Gold futures closed +1.5% at ~$4,220 on easing yields and a softer dollar; ETF inflows have run 12 straight weeks and the PBOC bought for a 23rd straight month .",
+      "tags": [
+        "Gold",
+        "Silver",
+        "ETF"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-4",
+      "title": "BTC ~$82,991, up 0.6% 24h and 3.2% off Thursday's $80,427 low",
+      "summary": "Range was wide: daily high ~$83,398, support watched at $81K then $80.3K, resistance at $87.1K (Oct 2 high); ~34% below the Oct 2025 record near $126.2K .",
+      "tags": [
+        "Bitcoin"
+      ],
+      "links": [
+        {
+          "label": "CryptoCompass",
+          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
+        },
+        {
+          "label": "EuropeSays",
+          "url": "https://www.europesays.com/britain/140777/"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-5",
+      "title": "BTC ETFs bled again: -$244.1M Thursday after -$487.1M Wednesday",
+      "summary": "October now ~$407M net outflows six trading days in; ETH ETFs lost $72.5M Thursday .",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "links": [
+        {
+          "label": "EuropeSays",
+          "url": "https://www.europesays.com/britain/140777/"
+        },
+        {
+          "label": "u.today",
+          "url": "https://u.today/xrp-defies-market-bloodbath-as-bitcoin-hits-october-lows-main-crypto-news-this-morning?from=related"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-6",
+      "title": "Alts bruised but off lows: ETH ~$2,500 (-2.7% 24h), SOL ~$110.66, XRP $1.38",
+      "summary": "ETH liquidations were the heaviest at $327.6M; total crypto cap ~$2.83T, 24h volume ~$107B, BTC dominance ~59%; Fear & Greed 60, back in \"Greed\" .",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "links": [
+        {
+          "label": "u.today",
+          "url": "https://u.today/xrp-defies-market-bloodbath-as-bitcoin-hits-october-lows-main-crypto-news-this-morning?from=related"
+        },
+        {
+          "label": "The Hindu BusinessLine",
+          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-8th-october-2026/article71556978.ece"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-7",
+      "title": "Gold futures ~$4,220 (+1.5%), spot ~$4,194; silver ~$60.62",
+      "summary": "Easing 10Y (below 5.25%) and a softer dollar did the work; bond markets closed Monday for Columbus Day .",
+      "tags": [
+        "Gold",
+        "Silver"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        },
+        {
+          "label": "BProud",
+          "url": "https://bproud.blog/crypto-market-today-2026-10-09/"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-8",
+      "title": "Oil: WTI ~$91.20 (-0.4%), Brent ~$103.53 (-0.7%)",
+      "summary": "Down on the Putin diesel deal and Trump's \"no Iran strikes before midterms\" post, though the US blockade stays in force .",
+      "tags": [
+        "Oil"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        },
+        {
+          "label": "CryptoCompass",
+          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2054-edt-9",
+      "title": "Prediction markets ~$3.1–3.17B in 24h across 9 exchanges",
+      "summary": "Kalshi holds ~76% of 30-day volume; sports and crypto dominate outside election season .",
+      "tags": [
+        "Kalshi",
+        "Elections"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/prediction-markets/volume/"
+        }
+      ],
+      "published": "2026-10-10T00:56:18.640721+00:00",
+      "source": "2026-10-09_2054-edt.md"
+    },
     {
       "id": "infiniti-2026-10-09_1954-edt-0",
       "title": "CFTC probing possible \"wash trading\" on Kalshi",
@@ -940,206 +1145,6 @@
       ],
       "published": "2026-10-09T19:56:09.467113+00:00",
       "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-0",
-      "title": "BofA's Hartnett: a Democratic sweep could knock stocks 10%+",
-      "summary": "Bank of America's chief equity strategist says the Dem sweep probability, priced at 64% on betting markets (up from under 50% a month ago), poses a \"meaningful\" threat to risk appetite; he'd also expect the dollar and Treasury yields to fall and international stocks to outperform. Split outcome (R Senate, D House) priced at 28% .",
-      "tags": [
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-1",
-      "title": "WSJ: Kalshi and Polymarket eyeing $20bn valuations",
-      "summary": "Both platforms are in talks with investors on new rounds targeting ~$20bn valuations, following Kalshi's $1bn Series E at $11bn in December and Polymarket's $2bn ICE investment at $8bn+; both deals landed as listed sports-betting operators' market caps slid .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-2",
-      "title": "Midterm board: Dem sweep 63% on Polymarket, 60.5% on Kalshi",
-      "summary": "DeFi Rate's live snapshot (observed ~2:28 PM ET) shows Democrats Sweep 63% on Polymarket (down 2 pts this week), R Senate/D House at 29%; Kalshi prices Dem House control at 90.1% and Dem Senate at 60.5%. Polymarket's Balance of Power market has done $20.8M lifetime volume .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/prediction-markets/2026-midterms/#evidence"
-        },
-        {
-          "label": "Polymarket",
-          "url": "https://polymarket.com/event/balance-of-power-2026-midterms"
-        },
-        {
-          "label": "Election Central",
-          "url": "https://www.uspresidentialelectionnews.com/2026-midterm-election-odds/"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-3",
-      "title": "Tennessee vs. Arkansas: 83% Vols on both platforms, prop splits",
-      "summary": "Polymarket and Kalshi both price No. 15 Tennessee at exactly 83% to win Saturday's game, but moved opposite ways on first-quarter/total-points contracts after reports that George MacIntyre will start at QB; Kalshi has just $56k traded on the game .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Rocky Top Insider",
-          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-4",
-      "title": "Iowa/Maine Senate toss-ups tighten",
-      "summary": "Hinson 54¢ / Turek 46¢ on Polymarket (56¢/44¢ on Kalshi) for Iowa; Maine's Jackson–Collins race near a coin flip with a slight Jackson lean on both exchanges as Nov. 3 approaches .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
-        },
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/maine-senate-race-2026-polls-prediction-markets-troy-jackson-vs-susan-collins-polls-live-polymarket-kalshi-odds"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-5",
-      "title": "BTC rebounds above $82k after Trump rules out pre-midterm Iran strike",
-      "summary": "BTC ~$82,500–83,200 (off Thursday's low near $80,300/$80,544) after Trump's Truth Social post said the U.S. would not strike Iran before Nov. 3 while keeping the blockade \"in full force\"; Thursday's sell-off saw ~$1B in crypto liquidations and $487M in spot BTC ETF outflows Wednesday; BTC still down ~2.4% on the week and ~5.8% YTD .",
-      "tags": [
-        "Bitcoin",
-        "ETF",
-        "Midterms"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "Morningstar/Dow Jones",
-          "url": "https://www.morningstar.com/news/dow-jones/202610091775/bitcoin-recovers-some-ground-on-falling-yields-oil"
-        },
-        {
-          "label": "Blockchain Reporter",
-          "url": "https://blockchainreporter.net/bitcoin-price-today-btc-rebounds-above-82000/"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-6",
-      "title": "Macro: gold at records, oil eases, 10Y near 24-year highs",
-      "summary": "Gold futures +1.5% to ~$4,215; WTI ~$91.65–91.90 and Brent ~$104.35–104.65 as Iran-strike risk fades for now; 10Y Treasury ~5.24–5.25%, off Wednesday's 24-year high near 5.37%; futures point to a higher Friday open with indexes on track for weekly gains .",
-      "tags": [
-        "Gold",
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-7",
-      "title": "Crypto breadth: ETH ~$2,460–2,500, SOL ~$109–110, ETF pressure",
-      "summary": "Ether trimmed losses alongside BTC but with $356M+ in ether long liquidations Thursday; Solana ~$109 (−6.5%); combined BTC+ETH spot ETF outflows hit $648M midweek; fear & greed index neutral at 55; BTC dominance 59.4% .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana",
-        "ETF"
-      ],
-      "links": [
-        {
-          "label": "The Hindu BusinessLine",
-          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-october-2026/article71560336.ece/amp/"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt-8",
-      "title": "Kalshi live commodity odds",
-      "summary": "Monthly Brent \"above $103.99\" 4.73x, \"above $101.99\" 1.29x ($107k vol); monthly gold \"above $4,181.99\" 1.33x, \"above $4,201.99\" 3.40x ($51k vol); natgas \"above $3.299\" 1.04x ($140k vol); daily silver \"above $59.99\" 1.02x ($14k vol); daily copper \"above $6.72\" 1.60x .",
-      "tags": [
-        "Kalshi",
-        "Gold",
-        "Silver",
-        "Oil",
-        "Natural Gas",
-        "Copper"
-      ],
-      "links": [
-        {
-          "label": "Kalshi commodities",
-          "url": "https://kalshi.com/category/commodities"
-        }
-      ],
-      "published": "2026-10-09T18:55:24.192127+00:00",
-      "source": "2026-10-09_1454-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt-0",
-      "title": "CNN: midterm \"mention markets\" fuel insider-trading alarms",
-      "summary": "A new CNN investigation reports prediction sites now offer an average of 44 granular markets per race, and Kalshi has suspended at least six 2026 candidates this year for betting on their own races; the piece revisits the summer case of Trump's White House teleprompter operator settling an insider-trading probe for $65,000 over \"mention markets\" in Trump speeches. Kalshi's head of enforcement says screening for irregular activity is continuous; Polymarket hired a former FBI official and says it regularly refers cases to the DOJ .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Midterms"
-      ],
-      "links": [
-        {
-          "label": "CNN",
-          "url": "https://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta"
-        }
-      ],
-      "published": "2026-10-09T17:55:17.675142+00:00",
-      "source": "2026-10-09_1354-edt.md"
     }
   ]
 }
