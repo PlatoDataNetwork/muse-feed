@@ -20,8 +20,157 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-10T04:55:05.072375+00:00",
+  "updated": "2026-10-10T05:55:02.060329+00:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-10_0154-edt-0",
+      "title": "Polymarket sues Massachusetts AG in federal court",
+      "summary": "the newest state-vs-federal jurisdiction fight: Polymarket argues Congress gave the CFTC exclusive authority over event contracts, seeking to block Massachusetts from enforcing gambling laws against federally regulated exchanges; it cites the injunction Massachusetts obtained against Kalshi's sports contracts in February .",
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Congress",
+        "CFTC"
+      ],
+      "links": [
+        {
+          "label": "GambleRSS",
+          "url": "https://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665"
+        }
+      ],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-1",
+      "title": "CFTC emergency order tells Kalshi to keep operating in New York",
+      "summary": "Chair Michael Selig says Congress did not intend derivatives exchanges to face a \"patchwork of state gaming laws\"; the order doesn't resolve NY's lawsuit, which seeks treble damages and $100k per unauthorized sports contract .",
+      "tags": [
+        "Kalshi",
+        "Congress",
+        "CFTC"
+      ],
+      "links": [
+        {
+          "label": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit"
+        }
+      ],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-2",
+      "title": "Illinois win deepens the court split",
+      "summary": "on Oct 2 a federal judge shielded Kalshi/Coinbase sports-event contracts from Illinois licensing law, bucking Sixth/Ninth Circuit rulings that called them bets; New Jersey's AG has asked the Supreme Court to decide whether sports contracts are swaps .",
+      "tags": [
+        "Kalshi",
+        "SCOTUS"
+      ],
+      "links": [
+        {
+          "label": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/securities-law/illinois-prediction-market-ruling-deepens-high-court-urgency"
+        }
+      ],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-3",
+      "title": "Tennessee–Arkansas kicks off today with the Vols at 83%",
+      "summary": "Polymarket and Kalshi both price Tennessee at 83% to win at Arkansas this afternoon; QB uncertainty already moved the first-drive contracts ~7 points .",
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "Rocky Top Insider",
+          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
+        }
+      ],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-4",
+      "title": "Iowa Senate: Hinson holds a narrow edge",
+      "summary": "Kalshi prices Hinson at 56¢ vs Turek's 44¢, Polymarket at 54¢/46¢, with $4.7M+ traded on the race; the 2-point gap reflects Kalshi's more U.S.-weighted flow .",
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "links": [
+        {
+          "label": "Action Network",
+          "url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
+        }
+      ],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-5",
+      "title": "BTC ~$82.6k (+0.4%), ETH ~$2,495",
+      "summary": "BTC holding above $82.5k overnight, up modestly on the weaker dollar .",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "links": [
+        {
+          "label": "bestcryptochecker",
+          "url": "https://bestcryptochecker.com/coin/BTC-to-usd-price"
+        }
+      ],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-6",
+      "title": "Gold back above $4,200, silver ~$60.6",
+      "summary": "NY gold futures rose 1.4% to ~$4,216.70 Friday on a softer dollar; China's central bank added 740k oz in September, its biggest increase in three years.",
+      "tags": [
+        "Gold",
+        "Silver"
+      ],
+      "links": [],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-7",
+      "title": "Oil: WTI ~$90.57, Brent ~$102.70",
+      "summary": "both off Thursday's highs as Trump ruled out strikes before Nov 3; Hormuz tanker-attack risk keeps a ~$22/bbl risk premium in Brent.",
+      "tags": [
+        "Oil"
+      ],
+      "links": [],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-8",
+      "title": "Fed October: hike odds ~19%",
+      "summary": "up from ~15.5% in the last prediction-market read; December priced at 83%.",
+      "tags": [],
+      "links": [],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-10_0154-edt-9",
+      "title": "2026 midterms: House Dems ~90%, Senate Dems ~62%",
+      "summary": "carried from the 11:14 PM DeFi Rate snapshot; Texas Senate Talarico 67¢ vs Paxton 35–36¢ on both exchanges.",
+      "tags": [
+        "Senate"
+      ],
+      "links": [],
+      "published": "2026-10-10T05:55:00.636547+00:00",
+      "source": "2026-10-10_0154-edt.md"
+    },
     {
       "id": "infiniti-2026-10-10_0054-edt-0",
       "title": "CNN: insider-trading risk becomes the midterm-market storyline",
@@ -911,190 +1060,6 @@
       ],
       "published": "2026-10-09T23:56:22.691749+00:00",
       "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-1",
-      "title": "Kalshi's press-secretary probe: still no new comment",
-      "summary": "WSJ's piece on the three well-timed Katie Zacharia bets ($19→$1,896, $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman declined further comment and the White House didn't respond; the incident keeps feeding the Washington insider-trading drumbeat, with a federal bill to ban federal officials/employees from betting on prediction markets already in motion .",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546"
-        },
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-2",
-      "title": "Trump announces Putin diesel-supply deal; oil eases into the close",
-      "summary": "Trump said he struck a deal with Putin for Russia to supply diesel to US and global markets, sending WTI down 0.4% to ~$91.20 and Brent down 0.4% to ~$104; Houthi attacks on Saudi Arabia and Hurricane Isaias still hang over supply .",
-      "tags": [
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-3",
-      "title": "Friday close: stocks post weekly gains, 10Y eases below 5.25%",
-      "summary": "Indexes jumped Friday, locking in weekly gains (S&P +~0.6% on the week) as AI stocks rebounded; the 10-year Treasury settled below 5.25%, off Wednesday's 24-year high near 5.37%; bond markets are closed Monday for Columbus Day .",
-      "tags": [],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-4",
-      "title": "BTC ~$82,300, up modestly on the day after Thursday's ~$80.3K low",
-      "summary": "The Iran de-escalation (no US strikes before midterms) plus a weaker dollar lifted BTC ~2% on the day; ~$87,000 capped earlier in the week, support at $82–83K .",
-      "tags": [
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-5",
-      "title": "Gold futures +1.5% to $4,220; silver holding above $60",
-      "summary": "Easing yields and the softer dollar extended gold's rally back above $4,200 (COMEX silver ~$60.62); ETF inflows run 12 straight weeks, PBOC buying gold for a 23rd straight month .",
-      "tags": [
-        "Gold",
-        "Silver",
-        "ETF"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-6",
-      "title": "Oil: WTI ~$91.20 (-0.4%), Brent ~$104 (-0.4%)",
-      "summary": "Down from Thursday's highs on the Putin diesel deal and Trump's \"productive\" Iran talks, though the US blockade stays in force .",
-      "tags": [
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-7",
-      "title": "Alts still lagging: ETH ~$2,578 (-2.7% 24h), SOL ~$110.66, XRP $1.38",
-      "summary": "Total crypto cap ~$2.83T, 24h volume ~$107B, BTC dominance ~59%; Fear & Greed 60, back in \"Greed\" .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "links": [
-        {
-          "label": "The Hindu BusinessLine",
-          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-8th-october-2026/article71556978.ece"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-8",
-      "title": "Prediction markets ~$3.1–3.17B in 24h across 9 exchanges",
-      "summary": "Kalshi holds ~76% of 30-day volume; sports and crypto dominate outside election season .",
-      "tags": [
-        "Kalshi",
-        "Elections"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/prediction-markets/volume/"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1854-edt-0",
-      "title": "Kalshi probes suspicious trades on Trump's press secretary pick",
-      "summary": "Kalshi has opened an investigation after the WSJ found at least three small but well-timed wagers on conservative commentator Katie Zacharia being named White House press secretary, placed before the NYT reported the pick at ~2 p.m. ET Friday; a $19 bet placed ~10:43 p.m. Thursday is slated to pay $1,896, and two Friday bets ($74, $80) expect $3,689 and $4,023. Zacharia had been priced near 1% on Kalshi; Trump confirmed the appointment in a Truth Social post Friday afternoon .",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
-        },
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546"
-        }
-      ],
-      "published": "2026-10-09T22:55:30.381542+00:00",
-      "source": "2026-10-09_1854-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1854-edt-1",
-      "title": "Norway moves to block Kalshi, Polymarket and 60 other unlicensed sites",
-      "summary": "The Norwegian Gaming Authority notified 62 companies that their sites could face DNS blocking for serving Norwegian consumers in breach of gambling law; the regulator has already blocked 238 gambling sites, and companies have until Oct 15 to respond before a final decision .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "iGamingToday",
-          "url": "https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/"
-        }
-      ],
-      "published": "2026-10-09T22:55:30.381542+00:00",
-      "source": "2026-10-09_1854-edt.md"
     }
   ]
 }
