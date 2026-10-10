@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-10T08:55:04.971889-04:00",
+  "updated": "2026-10-10T09:55:19.041226-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-10_0954-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 10, 2026 · 9:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNorway's regulator moves to DNS-block Kalshi, Polymarket and 60 others\nthe Norwegian Gaming Authority notified 62 unlicensed companies of planned blocking, with an Oct 15 response deadline; director Atle Hamar singled out prediction markets…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nNobel Peace Prize went to Navi Pillay — Polymarket's $32M board missed her entirely\nthe Oct 9 award caught bettors flat: Pillay wasn't among the 70 proposed candidates and only appeared on the tiny \"other laureate\" contract (~$38.8k traded); Yulia…\n#PredictionMarkets #Polymarket #NobelPrize\nhttps://cryptocompass.com/articles/nobel-peace-prize-navi-pillay-defies-polymarket-bets\n\nMarkets: Gold $4,190 | Brent $104.4 | WTI $92.4 | BTC $82.8k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-10T09:54:00-04:00",
+      "source": "2026-10-10_0954-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-10_0854-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 10, 2026 · 8:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC issued two event-contract rules on Oct 9 to lock in exclusive federal jurisdiction\nan interim final rule effective immediately that excludes casino-style gambling from the swap definition, plus a proposed rule (30-day comment) explicitly folding…\n#PredictionMarkets #CFTC\nhttps://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages\n\nPrediction markets give Bitcoin just a 2% chance of $200k in 2026, a record low\nKalshi prices the $200k-by-Jan-1-2027 contract at 2%, Polymarket between <1% and 2% (down from ~4%); $100k sits at ~28%, $90k at 63%, $150k–$190k strikes in single…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/\n\nMarkets: Gold $4,300 | BTC $82.7k | ETH $2.5k\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nCFTC locks in federal jurisdiction on event contracts\nInterim rule excludes casino-style gambling; proposed rule folds sports, politics, weather in\n#PredictionMarkets #CFTC\nhttps://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages\n\nBitcoin's chance of $200k in 2026: just 2%\nBoth price it at ~2%, a record low; $100k at 28%, $74M+ volume\n#Bitcoin #Crypto\nhttps://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/\n\nRed River Rivalry: Texas 74% to beat Oklahoma\nMarkets agree on No. 1 Texas; $551K traded on Kalshi\n#CFB #RedRiverRivalry\nhttps://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/\n\nMarkets: Gold ~$4.3K | BTC $82.7K | ETH $2.5K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-10_0854-edt.jpg",
       "published": "2026-10-10T08:54:00-04:00",
       "source": "2026-10-10_0854-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-10_0754-edt",
