@@ -3,7 +3,7 @@
   "site_url": "https://infiniti.w3ai.io",
   "feed_url": "https://muse-feed-psi.vercel.app/feed.json",
   "feed_page_url": "https://infiniti.w3ai.io/infiniti-feed",
-  "description": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This feed publishes hourly briefings on Polymarket, Kalshi and beyond — major market movements, volume records, regulatory and legal developments, new notable markets, and high-signal political, economic and crypto predictions — plus live commodities and crypto stats blocks tracking gold, oil, natural gas and BTC/ETH/SOL price action.",
+  "description": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This feed mirrors the Infiniti Markets Facebook Page: every hourly \"Infiniti Intelligence Hourly Briefing\" post, with the same text and image, published here as it goes live on Facebook.",
   "language": "en",
   "author": {
     "name": "Infiniti Oracle"
@@ -19,1047 +19,408 @@
     "trading"
   ],
   "refresh_interval_minutes": 60,
-  "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-10T05:55:02.060329+00:00",
+  "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
+  "updated": "2026-10-10T02:44:46.108383-04:00",
   "items": [
     {
-      "id": "infiniti-2026-10-10_0154-edt-0",
-      "title": "Polymarket sues Massachusetts AG in federal court",
-      "summary": "the newest state-vs-federal jurisdiction fight: Polymarket argues Congress gave the CFTC exclusive authority over event contracts, seeking to block Massachusetts from enforcing gambling laws against federally regulated exchanges; it cites the injunction Massachusetts obtained against Kalshi's sports contracts in February .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Congress",
-        "CFTC"
-      ],
-      "links": [
-        {
-          "label": "GambleRSS",
-          "url": "https://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665"
-        }
-      ],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-10_0154-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 10, 2026 · 1:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nthe newest state-vs-federal jurisdiction fight: Polymarket argues Congress gave the CFTC exclusive authority over event contracts, seeking to block Massachusetts from…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\nCFTC emergency order tells Kalshi to keep operating in New York\nChair Michael Selig says Congress did not intend derivatives exchanges to face a \"patchwork of state gaming laws\"; the order doesn't resolve NY's lawsuit, which seeks…\n#PredictionMarkets #Kalshi #Congress #CFTC\nhttps://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82.6k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-10T01:54:00-04:00",
+      "source": "2026-10-10_0154-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-1",
-      "title": "CFTC emergency order tells Kalshi to keep operating in New York",
-      "summary": "Chair Michael Selig says Congress did not intend derivatives exchanges to face a \"patchwork of state gaming laws\"; the order doesn't resolve NY's lawsuit, which seeks treble damages and $100k per unauthorized sports contract .",
-      "tags": [
-        "Kalshi",
-        "Congress",
-        "CFTC"
-      ],
-      "links": [
-        {
-          "label": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit"
-        }
-      ],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-10_0054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 10, 2026 · 12:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nCNN: insider-trading risk becomes the midterm-market storyline\nan investigation into midterm prediction markets reports an average of 44 granular markets per race (endorsements, rallies, dropouts); Kalshi has suspended at least six…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\nhttps://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta\n\nFed October hike odds tick up to ~19%\nCME FedWatch via Barron's/WSJ shows a 19% chance of an October hike (83% for December) after hawkish Waller/Musalem remarks; Kalshi and Polymarket both sat at ~15.5¢ on…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.barrons.com/livecoverage/stock-market-news-today-100926/card/gold-rises-on-softer-u-s-dollar-lower-oil-prices-ljZIoLWG6e83y7Hsh0qc\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82.7k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-10T00:54:00-04:00",
+      "source": "2026-10-10_0054-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-2",
-      "title": "Illinois win deepens the court split",
-      "summary": "on Oct 2 a federal judge shielded Kalshi/Coinbase sports-event contracts from Illinois licensing law, bucking Sixth/Ninth Circuit rulings that called them bets; New Jersey's AG has asked the Supreme Court to decide whether sports contracts are swaps .",
-      "tags": [
-        "Kalshi",
-        "SCOTUS"
-      ],
-      "links": [
-        {
-          "label": "Bloomberg Law",
-          "url": "https://news.bloomberglaw.com/securities-law/illinois-prediction-market-ruling-deepens-high-court-urgency"
-        }
-      ],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_2354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 11:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi's insider-trading probe on the Zacharia press secretary bets remains the day's top story\nWSJ reported the investigation into precisely-timed wagers, including a $19 bet placed ~10:43 p.m. Thursday that stood to net $1,896; Kalshi declined to comment.\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nAggregator snapshot (DeFi Rate, 11:14 PM ET): Dems slid this week on the Senate board\nSenate Dem control 65% → 62% (-3pts), Michigan Senate Dem 72% → 68% (-4pts), House Dems 92% → 90% (-2pts); 2028 Dem win steady at 61% and JD Vance holds 46% for the GOP…\n#PredictionMarkets #Senate\nhttps://defirate.com/?ref=steemhunt\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82.7k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T23:54:00-04:00",
+      "source": "2026-10-09_2354-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-3",
-      "title": "Tennessee–Arkansas kicks off today with the Vols at 83%",
-      "summary": "Polymarket and Kalshi both price Tennessee at 83% to win at Arkansas this afternoon; QB uncertainty already moved the first-drive contracts ~7 points .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Rocky Top Insider",
-          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
-        }
-      ],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_2254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 10:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi launches insider-trading probe on Zacharia press secretary bets\nWSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia's appointment as Trump's new White House press secretary, including a…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nPolymarket's $32M Nobel market whiffed on the Peace Prize winner\nTraders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82,650\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T22:54:00-04:00",
+      "source": "2026-10-09_2254-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-4",
-      "title": "Iowa Senate: Hinson holds a narrow edge",
-      "summary": "Kalshi prices Hinson at 56¢ vs Turek's 44¢, Polymarket at 54¢/46¢, with $4.7M+ traded on the race; the 2-point gap reflects Kalshi's more U.S.-weighted flow .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
-        }
-      ],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_2154-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 9:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\n39 state AGs pile into SCOTUS fight as NFL presses for quick review\nFresh detail on the Flaherty v. Kalshi amicus wave: attorneys general from 39 states plus DC filed a brief alongside the NFL, and the league is asking the Court to act…\n#PredictionMarkets #Kalshi #NFL #CFTC\nhttps://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/\n\nNorway regulator moves to block Kalshi and Polymarket\nThe Norwegian Gaming Authority notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS blocking for serving Norwegian consumers; companies have…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nMarkets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T21:54:00-04:00",
+      "source": "2026-10-09_2154-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-5",
-      "title": "BTC ~$82.6k (+0.4%), ETH ~$2,495",
-      "summary": "BTC holding above $82.5k overnight, up modestly on the weaker dollar .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "links": [
-        {
-          "label": "bestcryptochecker",
-          "url": "https://bestcryptochecker.com/coin/BTC-to-usd-price"
-        }
-      ],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_2054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 8:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\n$1B+ in crypto liquidations as BTC wobbles near $82K\nOver $1.09B in crypto positions were liquidated in 24h as Bitcoin slid from ~$86K toward $82K before recovering to ~$82,991 Friday afternoon; longs ate ~85–86% of the…\n#PredictionMarkets #Bitcoin #Ethereum\nhttps://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html\n\nZacharia probe still live: Kalshi & White House stay silent\nWSJ's piece on the three suspiciously timed Katie Zacharia bets ($19→$1,896; $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman still…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546\n\nMarkets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82,991\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T20:54:00-04:00",
+      "source": "2026-10-09_2054-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-6",
-      "title": "Gold back above $4,200, silver ~$60.6",
-      "summary": "NY gold futures rose 1.4% to ~$4,216.70 Friday on a softer dollar; China's central bank added 740k oz in September, its biggest increase in three years.",
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "links": [],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_1954-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 7:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC probing possible \"wash trading\" on Kalshi\nPer the NY Post, the CFTC has launched a probe of unusual trading activity on Kalshi after billions of dollars of near-identical crypto trades raised questions about…\n#PredictionMarkets #Kalshi #CFTC\nhttps://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/\n\nKalshi's press-secretary probe: still no new comment\nWSJ's piece on the three well-timed Katie Zacharia bets ($19→$1,896, $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman declined further…\n#PredictionMarkets #Kalshi\nhttps://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546\n\nMarkets: Gold $4,220 | Brent $104 | WTI $91.20 | BTC $82,300\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T19:54:00-04:00",
+      "source": "2026-10-09_1954-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-7",
-      "title": "Oil: WTI ~$90.57, Brent ~$102.70",
-      "summary": "both off Thursday's highs as Trump ruled out strikes before Nov 3; Hormuz tanker-attack risk keeps a ~$22/bbl risk premium in Brent.",
-      "tags": [
-        "Oil"
-      ],
-      "links": [],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_1854-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 6:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi probes suspicious trades on Trump's press secretary pick\nKalshi has opened an investigation after the WSJ found at least three small but well-timed wagers on conservative commentator Katie Zacharia being named White House…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nNorway moves to block Kalshi, Polymarket and 60 other unlicensed sites\nThe Norwegian Gaming Authority notified 62 companies that their sites could face DNS blocking for serving Norwegian consumers in breach of gambling law; the regulator…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nMarkets: Gold $4,200 | Brent $102.9 | WTI $90.69 | BTC $82.4K\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T18:54:00-04:00",
+      "source": "2026-10-09_1854-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-8",
-      "title": "Fed October: hike odds ~19%",
-      "summary": "up from ~15.5% in the last prediction-market read; December priced at 83%.",
-      "tags": [],
-      "links": [],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_1754-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 5:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\n39 states side with New Jersey against prediction markets in SCOTUS brief\n39 states filed an amicus brief backing NJ in its fight with Kalshi, urging the Supreme Court to let states restrict sports-event contracts; separately, TickerTracker…\n#PredictionMarkets #Kalshi #Polymarket #SCOTUS\nhttps://nexteventhorizon.substack.com/p/39-states-side-with-new-jersey-against-prediction-markets\n\nKalshi launches prediction apps with Native American tribes, dividing Indian country\nThe Kletsel Dehe and three other tribes in California and Oklahoma launched prediction apps with Kalshi on Wednesday, breaking ranks with hundreds of other tribes that…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://nexteventhorizon.substack.com/p/39-states-side-with-new-jersey-against-prediction-markets\n\nMarkets: Gold $4,100 | BTC $82.4K | ETH $2,479 | Silver $59\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T17:54:00-04:00",
+      "source": "2026-10-09_1754-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0154-edt-9",
-      "title": "2026 midterms: House Dems ~90%, Senate Dems ~62%",
-      "summary": "carried from the 11:14 PM DeFi Rate snapshot; Texas Senate Talarico 67¢ vs Paxton 35–36¢ on both exchanges.",
-      "tags": [
-        "Senate"
-      ],
-      "links": [],
-      "published": "2026-10-10T05:55:00.636547+00:00",
-      "source": "2026-10-10_0154-edt.md"
+      "id": "infiniti-2026-10-09_1654-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 4:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi sports ban takes effect in Massachusetts today\nA judge's injunction blocking Kalshi's sports-event contracts goes into effect Friday; the court said Kalshi \"mirrors other digital gambling experiences,\" and Kalshi is…\n#PredictionMarkets #Kalshi\nhttps://gamblerss.com/kalshi-can-t-offer-sports-prediction-markets-in-massachusetts-rules-court-54751\n\nPolymarket counter-sues Massachusetts in federal court\nPolymarket filed Monday in the U.S. District Court for the District of Massachusetts against AG Andrea Campbell and gaming officials, arguing the Commodity Exchange Act…\n#PredictionMarkets #Polymarket #Congress #CFTC\nhttps://gamblerss.com/polymarket-takes-massachusetts-to-court-over-limits-on-sports-contracts-56641\n\nMarkets: Gold $4,100 | Brent $105 | WTI $92.40 | BTC $83K\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T16:54:00-04:00",
+      "source": "2026-10-09_1654-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-0",
-      "title": "CNN: insider-trading risk becomes the midterm-market storyline",
-      "summary": "an investigation into midterm prediction markets reports an average of 44 granular markets per race (endorsements, rallies, dropouts); Kalshi has suspended at least six 2026 candidates for betting on their own races, Polymarket hired a former FBI official to lead investigations, and the summer teleprompter-operator case ended with a $65,000 fine .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Midterms"
-      ],
-      "links": [
-        {
-          "label": "CNN",
-          "url": "https://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta"
-        }
-      ],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_1554-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 3:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNorway moves to block Kalshi and Polymarket\nNorway's gambling regulator has notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS-blocking measures, with a deadline of Oct. 15 to…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nTexas Senate is today's #2 most-traded market: Talarico 64¢ vs Paxton 37¢\nJames Talarico leads Ken Paxton on Kalshi with $599K in 24h volume across venues, trailing only the Pineda/Ruane MMA fight ($802K) on DeFi Rate's live table; other heavy…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://defirate.com/odds/\n\nMarkets: Gold $4,200 | Brent $104 | WTI $91.20 | BTC $100K\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T15:54:00-04:00",
+      "source": "2026-10-09_1554-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-1",
-      "title": "Fed October hike odds tick up to ~19%",
-      "summary": "CME FedWatch via Barron's/WSJ shows a 19% chance of an October hike (83% for December) after hawkish Waller/Musalem remarks; Kalshi and Polymarket both sat at ~15.5¢ on the Oct 28 hike in the last read .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-100926/card/gold-rises-on-softer-u-s-dollar-lower-oil-prices-ljZIoLWG6e83y7Hsh0qc"
-        }
-      ],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_1454-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 2:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nBofA's Hartnett: a Democratic sweep could knock stocks 10%+\nBank of America's chief equity strategist says the Dem sweep probability, priced at 64% on betting markets (up from under 50% a month ago), poses a \"meaningful\" threat…\n#PredictionMarkets #Senate\nhttps://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8\n\nWSJ: Kalshi and Polymarket eyeing $20bn valuations\nBoth platforms are in talks with investors on new rounds targeting ~$20bn valuations, following Kalshi's $1bn Series E at $11bn in December and Polymarket's $2bn ICE…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nMarkets: Gold $4,215 | Brent $104.35 | WTI $91.65 | BTC $82k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T14:54:00-04:00",
+      "source": "2026-10-09_1454-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-2",
-      "title": "Oil eases after Trump says no Iran strike before midterms",
-      "summary": "Brent front-month fell 1.5% to ~$102.70 and WTI ~$90.57 on \"productive\" Tehran talks, though Hurricane Isaias and Houthi attacks keep a ~$22/bbl risk premium in Brent .",
-      "tags": [
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
-        }
-      ],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_1354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 1:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nCNN: midterm \"mention markets\" fuel insider-trading alarms\nA new CNN investigation reports prediction sites now offer an average of 44 granular markets per race, and Kalshi has suspended at least six 2026 candidates this year…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\nhttps://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta\n\nPolymarket signs with the Rangers; NHL remains the only league aboard\nTwo weeks after Kalshi's Blackhawks deal, Polymarket announced a partnership with the NHL's Rangers (via Madison Square Garden Sports, Rangers only, not the Knicks). The…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533\n\nMarkets: Gold $4,215 | Brent $104.35 | WTI $91.65 | BTC $82,700\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T13:54:00-04:00",
+      "source": "2026-10-09_1354-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-3",
-      "title": "Tennessee–Arkansas markets price the Vols at 83%, but doubt the QB",
-      "summary": "Polymarket and Kalshi both price Tennessee at 83% to win Saturday at Arkansas, while QB uncertainty moved the Vols' first-drive/first-TD contracts ~7 points .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Rocky Top Insider",
-          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
-        }
-      ],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_1254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 12:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nTorres formally introduces insider-trading bill Friday, backed by Pelosi\nThe Public Integrity in Financial Prediction Markets Act of 2026 was introduced with 30+ Democratic co-sponsors including former Speaker Nancy Pelosi, Rep. Andre Carson…\n#PredictionMarkets #Kalshi\nhttps://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633\n\nSenate version from Merkley/Klobuchar; Murphy bill coming too\nSens. Merkley and Klobuchar's companion proposal would bar government officials from trading prediction markets and strengthen the CFTC's power to go after bad actors,…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://gamblerss.com/merkley-klobuchar-want-to-ban-government-officials-from-trading-on-prediction-markets-58898\n\nMarkets: Gold $91.65 | Brent $104.35 | WTI $91.65 | BTC $82,700\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T12:54:00-04:00",
+      "source": "2026-10-09_1254-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-4",
-      "title": "Iowa Senate: Hinson holds a narrow edge",
-      "summary": "Kalshi prices Hinson at 56¢ vs Turek's 44¢, Polymarket at 54¢/46¢, with $4.7M+ traded on the race; the 2-point gap reflects Kalshi's more U.S.-weighted flow .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
-        }
-      ],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_1054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 10:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nFederal judge blocks Minnesota's prediction markets ban\nJudge Menendez granted a preliminary injunction, finding the state's statute likely at least partially preempted by the CEA since the CFTC has exclusive jurisdiction…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705\n\nPolymarket sues Massachusetts over crackdown\nPolymarket filed in federal court against AG Andrea Campbell, arguing \"Congress gave the CFTC, not states, exclusive authority over event contracts\" and seeking to block…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\nMarkets: Gold $90.75 | Brent $102.90 | WTI $90.75 | BTC $82,500\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T10:54:00-04:00",
+      "source": "2026-10-09_1054-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-5",
-      "title": "BTC ~$82.7k (+0.5%), ETH ~$2,495 (+0.3%)",
-      "summary": "BTC ranged $82.2k–83.5k overnight after dipping below $83k Thursday; WSJ notes bitcoin bounced ~2% to ~$83.3k Friday on the weaker dollar .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "links": [
-        {
-          "label": "Finnhub",
-          "url": "https://finnhub.io/?q=%22BTC%22"
-        },
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
-        }
-      ],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_0954-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 9:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nBaltimore sues Kalshi and Polymarket\nMayor Brandon Scott and the City Council filed suits Thursday under the city's Consumer Protection Ordinance, accusing both companies of running illegal, unlicensed…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639\n\nSeminole Tribe sues DraftKings and CEO Jason Robins\nThe tribe holding Florida's sports-betting monopoly wants a Broward County court to shut down DraftKings' prediction-market sports tab and its Pick6 game, and accuses…\n#PredictionMarkets #DraftKings\nhttps://igaming-times.com/news/prediction-markets\n\nMarkets: Gold $102.70 | Brent $102.70 | WTI $90.57 | BTC $82,600\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T09:54:00-04:00",
+      "source": "2026-10-09_0954-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-6",
-      "title": "Gold back above $4,200, silver ~$60.6",
-      "summary": "NY gold futures rose 1.4% to ~$4,216.70 on a softer dollar and easing oil; China's central bank added 740k oz in September, its biggest increase in three years .",
-      "tags": [
-        "Gold",
-        "Silver",
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-100926/card/gold-rises-on-softer-u-s-dollar-lower-oil-prices-ljZIoLWG6e83y7Hsh0qc"
-        }
-      ],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_0854-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 8:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC fires back at the NFL: league declined cooperation MOU\nAfter the NFL's amicus brief urging SCOTUS to review the Kalshi case, the CFTC said \"it's unfortunate the NFL declined to sign an MOU\" that would let the league share…\n#PredictionMarkets #Kalshi #NFL #CFTC\nhttps://www.reuters.com/legal/government/nfl-backs-supreme-court-review-betting-oversight-case-2026-10-08/\n\nNFL's numbers: $1.8B of $3.3B on NFL Sunday, and no 21+ floor\nThe league says nearly $2B of first-Sunday volume was NFL-tied, the CFTC has just 543 staff nationwide, and neither the agency nor platforms have banned…\n#PredictionMarkets #Kalshi #NFL #CFTC\nhttps://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/\n\nMarkets: Gold $103 | Brent $103 | WTI $90.50 | BTC $83k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T08:54:00-04:00",
+      "source": "2026-10-09_0854-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-7",
-      "title": "Oil: WTI ~$90.57, Brent ~$102.70",
-      "summary": "both off Thursday's highs as Trump ruled out strikes before Nov 3; tradingnews notes Brent touched $103.20 intra-day with Hormuz tanker-attack risk still live.",
-      "tags": [
-        "Oil"
-      ],
-      "links": [],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_0754-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 7:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nTrump rules out Iran strike before Nov 3 midterms — oil slides, gold pops\nWTI slipped ~1% to ~$90.50 and Brent ~1.4% to ~$102.80 as Middle East supply fears eased; gold futures rose ~1.3% to ~$4,210 on the softer dollar, and BTC steadied near…\n#PredictionMarkets #Bitcoin #Gold #Oil\nhttps://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767\n\n$1.19B crypto flush — ether liquidations ran at 6x Bitcoin's rate\nOver $1B in longs were wiped in 24h as rate-hike fears, AI-quantum \"bunker mode\" warnings, and Iran headlines hit leverage; ETH fell ~3% to ~$2,490 (−9% on the week)…\n#PredictionMarkets #Bitcoin #Ethereum\nhttps://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush\n\nMarkets: Gold $90.50 | Brent $102.80 | WTI $90.50 | BTC $82.5k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T07:54:00-04:00",
+      "source": "2026-10-09_0754-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-8",
-      "title": "Fed October: hike odds ~19%",
-      "summary": "up from ~15.5% in the last prediction-market read; December priced at 83%.",
-      "tags": [],
-      "links": [],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_0654-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 6:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nSenate Democrats push for full Banking Committee hearing on Kalshi/Polymarket\nDemocrats want the full committee to examine consumer risk, market integrity, and whether some event contracts belong under SEC oversight. Meanwhile, Republicans…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://adbytes.media/blog/senate-democrats-push-public-hearing-on-kalshi-and-polymarket-as-prediction-markets-surge\n\nNFL tells Supreme Court prediction-market sports contracts are gambling, not swaps\nIn an amicus brief, the league asked SCOTUS to take the case, arguing the growing circuit split has created regulatory uncertainty over whether sports event contracts…\n#PredictionMarkets #NFL #CFTC #SCOTUS\nhttps://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064\n\nMarkets: Gold $4,120 | Brent $105 | WTI $92.40 | BTC $82.9k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T06:54:00-04:00",
+      "source": "2026-10-09_0654-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-10_0054-edt-9",
-      "title": "2026 midterms: House Dems ~90%, Senate Dems ~62%",
-      "summary": "carried from the 11:14 PM DeFi Rate snapshot; Texas Senate Talarico 67¢ vs Paxton 35–36¢ on both exchanges.",
-      "tags": [
-        "Senate"
-      ],
-      "links": [],
-      "published": "2026-10-10T04:55:03.567561+00:00",
-      "source": "2026-10-10_0054-edt.md"
+      "id": "infiniti-2026-10-09_0554-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 5:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — nothing new broke in the last hour\nNo fresh prediction-markets headlines since the 04:54 briefing. The most recent drivers: Kalshi pricing Flávio Bolsonaro at ~83% for Brazil's presidency after his…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://seekingalpha.com/news/4651414-prediction-markets-put-flavio-bolsonaro-at-83-to-win-brazils-presidency\n\nOil pulls back on \"no Iran strike before midterms\"\nTrump said the U.S. won't attack Iran before the midterms, citing \"productive\" talks with Tehran; Brent fell ~1% to ~$103.20 and WTI ~0.9% to ~$90.64. Kalshi's monthly…\n#PredictionMarkets #Kalshi #Oil\nhttps://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2\n\nMarkets: Gold $4,200 | Brent $103.20 | WTI $90.64 | BTC $82.4k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T05:54:00-04:00",
+      "source": "2026-10-09_0554-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-0",
-      "title": "Kalshi's insider-trading probe on the Zacharia press secretary bets remains the day's top story",
-      "summary": "WSJ reported the investigation into precisely-timed wagers, including a $19 bet placed ~10:43 p.m. Thursday that stood to net $1,896; Kalshi declined to comment .",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
-        }
-      ],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-09_0454-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 4:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — no new prediction-markets headlines\nNothing fresh has broken in the last hour; today's top items were all covered in earlier briefings (NFL's amicus backing New Jersey's Supreme Court petition,…\n#PredictionMarkets #Kalshi #Polymarket #NFL\n\nMarkets: Gold $92.4 | Brent $105 | WTI $92.4 | BTC $82.9k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T04:54:00-04:00",
+      "source": "2026-10-09_0454-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-1",
-      "title": "Aggregator snapshot (DeFi Rate, 11:14 PM ET): Dems slid this week on the Senate board",
-      "summary": "Senate Dem control 65% → 62% (-3pts), Michigan Senate Dem 72% → 68% (-4pts), House Dems 92% → 90% (-2pts); 2028 Dem win steady at 61% and JD Vance holds 46% for the GOP nod .",
-      "tags": [
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?ref=steemhunt"
-        }
-      ],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-09_0354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 3:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — no new prediction-markets headlines\nNothing new has broken in the last hour; all of today's top items (the NFL's amicus backing New Jersey's Supreme Court petition, the $3M lobbying analysis, FCA's UK…\n#PredictionMarkets #NFL #SCOTUS #FCA\n\n$1.19B crypto liquidation flush hits ether 6x harder than bitcoin\nCoinDesk reports over $1B of liquidations were longs in the last 24h; ether saw ~$356M in wipeouts vs bitcoin's ~$298M — about 6x bitcoin's rate relative to market cap,…\n#PredictionMarkets #Bitcoin\nhttps://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush\n\nMarkets: Gold $4,178 | Brent $103.0 | WTI $90.4 | BTC $82.5k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T03:54:00-04:00",
+      "source": "2026-10-09_0354-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-2",
-      "title": "$3.2B traded in the last 24 hours",
-      "summary": "DeFi Rate's 9-exchange volume tracker logged $3.2B in the last 24h, a strong Thursday print .",
-      "tags": [],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?ref=steemhunt"
-        }
-      ],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-09_0254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 2:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\n$3M lobbying push goes public\nKalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M in 2026 on lobbying and campaign contributions at federal/state level, per an OpenSecrets…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://usa-today-news.com/news/prediction-markets-spend-millions-to-influence-state-federal-governments/\n\nNFL amicus remains the lead legal item\nThe league's amicus brief backs New Jersey's cert petition in *Flaherty v. KalshiEX*, telling the court \"billions of dollars in NFL wagers\" have already been placed on…\n#PredictionMarkets #Polymarket #NFL #CFTC\nhttps://foxnews.com/outkick-sports/nfl-calls-prediction-markets-form-sports-gambling-urges-courts-let-states-regulate\n\nMarkets: Gold $4,169 | Brent $101.53 | WTI $92.71 | BTC $80.4k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T02:54:00-04:00",
+      "source": "2026-10-09_0254-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-3",
-      "title": "NFL: Rams favored at 12% to win Super Bowl LXI",
-      "summary": "Kalshi 11.5¢, Polymarket 12.5¢ on the top board; the two platforms nearly matched on tonight's Bucs–Cowboys props (Lamb anytime TD 49¢ on both) before the 8:15 p.m. ET kickoff .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?ref=steemhunt"
-        },
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/nfl-prediction-market-promos-for-buccaneers-vs-cowboys-on-thursday-night-football"
-        }
-      ],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-09_0154-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 1:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet overnight; NFL's SCOTUS amicus remains the lead story\nNo fresh developments in the last hour. The league's friend-of-the-court brief backing New Jersey's cert petition in *Flaherty v. KalshiEX* — arguing CFTC staffing (543…\n#PredictionMarkets #NFL #CFTC\nhttps://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/\n\nSenate 2026 boards steady into Nov. 3\nIowa still the toss-up to watch: Hinson 54¢/Turek 46¢ on Polymarket, 56¢/44¢ on Kalshi, with the poll-vs-market disconnect persisting (late-September polls had Turek up…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-predictions\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T01:54:00-04:00",
+      "source": "2026-10-09_0154-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-4",
-      "title": "BTC ~$82.7k, ETH ~$2,528 — risk off",
-      "summary": "Polymarket's Oct 10 BTC price market has the $82,000–84,000 band at 86.5¢ with ~$77k 24h volume; CoinDesk has BTC near $82,200 after breaking below $83k on the oil/yield spike, ETH ~$2,528, XRP down 3%+ .",
-      "tags": [
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum",
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "Polymarket",
-          "url": "https://polymarket.com"
-        },
-        {
-          "label": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
-        }
-      ],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-09_0054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 9, 2026 · 12:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNFL files SCOTUS amicus urging prediction markets be ruled gambling apps\nThe league's brief backs New Jersey's cert petition in *Flaherty v. KalshiEX*, joined by AGs of 39 states + DC, arguing football accounted for $1.8B in prediction-market…\n#PredictionMarkets #NFL #CFTC\nhttps://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/\n\nOpenSecrets: prediction markets spent $3M+ lobbying this year\nKalshi, Polymarket and the Coalition for Prediction Markets' spending across federal and state levels includes Kalshi lobbyists in 41 states, six-figure donations to…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://usa-today-news.com/news/prediction-markets-spend-millions-to-influence-state-federal-governments/\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-09T00:54:00-04:00",
+      "source": "2026-10-09_0054-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-5",
-      "title": "Gold ~$4,200, silver ~$60.6",
-      "summary": "Gold held above $4,100 with Dec futures ~$4,138 and silver ~$60.3 per TradingView's latest data (carried from the earlier Friday reading of gold back above $4,200 and silver ~$60.6–60.8).",
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "links": [],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-08_2354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 11:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nDemocrats flip to Senate favorites for the first time\nKalshi and Polymarket now price Democrats at ~51% to win Senate control, a dramatic reversal from 18% a year ago. Kalshi spokesperson Jack Such says the move accelerated…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://decrypt.co/361190/democrats-overtake-republicans-kalshi-polymarket\n\nQuiet last hour; day's anchor remains the Iran oil spike\nAfter Trump's \"no strike before the midterms\" walk-back, oil markets are holding elevated: WTI ~$92.40 and Brent ~$105 after 4%+ daily gains, with Hurricane Isaias…\n#PredictionMarkets #Polymarket #Oil\nhttps://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T23:54:00-04:00",
+      "source": "2026-10-08_2354-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-6",
-      "title": "Oil: WTI ~$90.57, Brent ~$102.70",
-      "summary": "Carried from Friday's reading; Goldman estimates Brent still carries a ~$22/bbl September risk premium and Hurricane Isaias has shut ~63% of Gulf production.",
-      "tags": [
-        "Oil"
-      ],
-      "links": [],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-08_2254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 10:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nTrump says no Iran strike before the midterms\nTrump told reporters he \"will not attack Iran\" prior to the midterms, a walk-back from Thursday's reports that the White House asked the Pentagon for strike options —…\n#PredictionMarkets #Kalshi #Polymarket #Oil\nhttps://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify?post-id=d22a7a665a4c\n\nSCOTUS timeline: ruling by June 2027 at earliest\nGaming attorney Daniel Wallach says the fastest realistic timetable has the Court granting cert in December/January, arguments in March/April, and a decision by June…\n#PredictionMarkets #Kalshi\nhttps://igaming.org/sports-news/supreme-court-could-decide-sports-prediction-market-fight-by-june-2027/\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T22:54:00-04:00",
+      "source": "2026-10-08_2254-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-7",
-      "title": "Fed October: hike odds at 16%",
-      "summary": "Kalshi 15.5¢, Polymarket 15.5¢ on an Oct 28 hike, down 2pts this week; \"No change\" remains the heavy favorite .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?ref=steemhunt"
-        }
-      ],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-08_2154-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 9:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNFL lays out its case: $1.8B in football trading, \"exploiting the gap\"\nIn today's amicus filing, the NFL says prediction platforms traded $1.8B in football on just the opening Sunday of the season and warns operators are \"exploiting the gap…\n#PredictionMarkets #NFL\nhttps://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/\n\n41-state lobbying drive: $3M+ spent in 2026\nKalshi, Polymarket and the Coalition for Prediction Markets have poured at least $3 million into lobbying and campaign contributions at the state and federal level this…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamingamerica.com/news/1103666/prediction-markets-lobbying-fight\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T21:54:00-04:00",
+      "source": "2026-10-08_2154-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2354-edt-8",
-      "title": "2026 midterms: House Dems 90–91¢, Senate Dems ~62%",
-      "summary": "Fresh DeFi Rate read; Texas Senate Talarico holds 67¢ vs Paxton's 35–36¢ (carried from earlier).",
-      "tags": [
-        "Senate"
-      ],
-      "links": [],
-      "published": "2026-10-10T03:55:09.381464+00:00",
-      "source": "2026-10-09_2354-edt.md"
+      "id": "infiniti-2026-10-08_2054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 8:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNFL urges SCOTUS to take Kalshi case; 39 state AGs pile on\nThe NFL filed an amicus brief today backing New Jersey's push for Supreme Court review of whether federal law preempts state gambling rules on prediction markets,…\n#PredictionMarkets #Kalshi #NFL #SCOTUS\nhttps://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/\n\nLeagues split: NFL sues while MLB, MLS, NHL sign deals\nThe NFL's brief underscores a growing divide: MLB (reported $150–300M Polymarket exclusivity), MLS (Polymarket), and the NHL (both Kalshi and Polymarket, incl. this…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionmarketsworld.com/en-gb/news/czech-republic-blocks-kalshi-unauthorized-gambling-october-2026/\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T20:54:00-04:00",
+      "source": "2026-10-08_2054-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-0",
-      "title": "Kalshi launches insider-trading probe on Zacharia press secretary bets",
-      "summary": "WSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia's appointment as Trump's new White House press secretary, including a $19 bet placed ~10:43 p.m. Thursday that stood to net $1,896, and $74/$80 bets Friday poised to win $7,712 combined. Kalshi declined to comment on the ongoing probe .",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
-        },
-        {
-          "label": "NY Post",
-          "url": "https://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1954-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 7:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nSpain regulator opens probe into Polymarket & Kalshi\nSpain's regulator launched a formal investigation into both platforms over suspected law breaches, with a decision expected in roughly 3–4 months; it caps a bruising…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://coinsnews.com/polymarket-kalshi-hit-new-roadblock-in-spain-regulator-opens-probe-over-law-breaches\n\nKalshi names and suspends three candidates for trading on themselves\nKalshi fined two candidates $784 and $540 with 5-year suspensions, and a third — a Virginia state-senate candidate who admitted trading on himself deliberately to \"prove…\n#PredictionMarkets #Kalshi #Senate\nhttps://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T19:54:00-04:00",
+      "source": "2026-10-08_1954-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-1",
-      "title": "Polymarket's $32M Nobel market whiffed on the Peace Prize winner",
-      "summary": "Traders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi Pillay, who wasn't among the named candidates on Polymarket or Kalshi .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Nobel Prize"
-      ],
-      "links": [
-        {
-          "label": "Crypto Digital Currency News",
-          "url": "https://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1854-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 6:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nIndonesia bans Polymarket access\nIndonesia's Ministry of Communication and Digital Affairs blocked Polymarket on Monday (Oct 5) after a bet on the President's term drew local attention; the restriction…\n#PredictionMarkets #Polymarket\nhttps://coinsnews.com/polymarket-kalshi-hit-new-roadblock-in-spain-regulator-opens-probe-over-law-breaches\n\nComer opens probe into insider trading on prediction markets\nRep. James Comer asked the CEOs of Polymarket and Kalshi to explain how their platforms detect and prevent insider trading, prompted by suspicious trades linked to…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://coinsnews.com/polymarket-kalshi-hit-new-roadblock-in-spain-regulator-opens-probe-over-law-breaches\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T18:54:00-04:00",
+      "source": "2026-10-08_1854-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-2",
-      "title": "Jefferies: SCOTUS likely to take prediction-market cases in 2027, outcomes favor states",
-      "summary": "Analyst David Katz calls it \"highly probable\" the high court hears prediction-market case(s) next year, rating Kalshi's odds of losing the Nevada, New Jersey, and related cases as \"medium,\" \"high,\" and \"very high.\" Kalshi's SCOTUS response in Flaherty v. Kalshi is due Nov 9 .",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/prediction-markets-could-be-facing-scotus-losses-in-2027-says-analyst-60752"
-        },
-        {
-          "label": "crypto.news",
-          "url": "https://crypto.news/sports-prediction-markets-reach-the-supreme-courts-doorstep/"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1754-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 5:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNFL asks Supreme Court to rule sports contracts are gambling, not swaps\nThe NFL filed an amicus brief in Flaherty v. KalshiEX (No. 26-299) urging SCOTUS to hear New Jersey's case, arguing Kalshi's sports contracts are gambling, not…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064\n\nPolymarket sues Massachusetts AG over crackdown\nPolymarket filed suit in federal court against AG Andrea Joy Campbell seeking to block state gambling-law enforcement, arguing \"Congress gave the CFTC, not states,…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T17:54:00-04:00",
+      "source": "2026-10-08_1754-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-3",
-      "title": "Prediction-market pricing on Saturday's Tennessee–Arkansas game splits on game flow",
-      "summary": "Polymarket and Kalshi both price the Vols at 83% to win, but diverged sharply after QB news: Polymarket's first-quarter winner dropped 7 points on Tennessee while Kalshi's first-touchdown contract moved 7 points off the Vols .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Rocky Top Insider",
-          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1654-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 4:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nTrump rules out Iran attack before midterms; oil pares spike\nTrump said on Truth Social the US will not strike Iran before the Nov 3 midterms, knocking WTI off session highs (~$93 → ~$91) though crude still ended +3%+ on the day…\n#PredictionMarkets #Oil\nhttps://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify?post-id=e431f28db93e\n\nWaller turns hawkish: Fed may need multiple hikes\nGov. Christopher Waller said the Fed may need \"additional hikes\" for a timelier return to 2% inflation, speaking at the Istanbul Economic Forum. The 10Y Treasury eased…\n#PredictionMarkets\nhttps://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-treasury-yields-oil-prices/\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T16:54:00-04:00",
+      "source": "2026-10-08_1654-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-4",
-      "title": "BTC ~$82,650, ETH ~$2,494 — steady after the options expiry",
-      "summary": "$2.16B in BTC/ETH options settled on Deribit at 08:00 UTC Friday with both assets below max pain; BTC bounced ~2% to ~$83,300 intraday per WSJ. Fear & Greed reads 59 (\"Greed\"). BTC ETF outflows hit $487M Wednesday .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETF"
-      ],
-      "links": [
-        {
-          "label": "Finnhub",
-          "url": "https://finnhub.io/?q=%22BTC%22"
-        },
-        {
-          "label": "CryptoTimes",
-          "url": "https://www.cryptotimes.io/2026/10/09/bitcoin-ethereum-options-expiry-2-16b-settles-today-as-btc-trades-below-84k-max-pain/"
-        },
-        {
-          "label": "₿Proud",
-          "url": "https://bproud.blog/crypto-market-today-2026-10-09/"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1554-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 3:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNFL urges courts to let states regulate prediction markets\nthe league filed calling prediction markets \"a form of sports gambling\" and pushed for the Supreme Court to act soon on the jurisdictional fight, noting billions in NFL…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://foxnews.com/outkick-sports/nfl-calls-prediction-markets-form-sports-gambling-urges-courts-let-states-regulate\n\nJump Trading taking stakes in Kalshi and Polymarket for liquidity\nBloomberg reports the prop trading house will receive equity in Kalshi plus a potentially expanding stake in Polymarket in exchange for market-making across event…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T15:54:00-04:00",
+      "source": "2026-10-08_1554-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-5",
-      "title": "Gold futures back above $4,200, silver ~$60.6–60.8",
-      "summary": "Softer dollar and lower yields after the strong 30Y auction lifted spot gold to ~$4,194 and silver to ~$60.83, as crude's pullback eased near-term inflation fears .",
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "links": [
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
-        },
-        {
-          "label": "ZeroHedge",
-          "url": "https://www.zeroHedge.com/markets/futures-rise-after-openai-damage-control-sparks-tech-rebound-oil-slides"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1454-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 2:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nWSJ: Kalshi and Polymarket both targeting ~$20bn valuations in new funding talks\nboth platforms are speaking with investors at 10-figure valuations, per WSJ via GambleRss; talks are early and nothing is guaranteed. Separately, Bonus.com reports…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nNHL deepens ties with both platforms; Rangers strike deal with Polymarket\nMadison Square Garden Sports (Rangers owner) signed an agreement with Polymarket, two weeks after Kalshi's deal with the Blackhawks — the first formal pacts between…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T14:54:00-04:00",
+      "source": "2026-10-08_1454-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-6",
-      "title": "Oil slides: WTI ~$90.57, Brent ~$102.70",
-      "summary": "Both fell after Trump said the US won't strike Iran before the midterms and cited \"productive\" talks with Tehran, though Goldman estimates Brent still carries a ~$22/bbl September risk premium; Hurricane Isaias has shut ~63% of Gulf of Mexico production .",
-      "tags": [
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-prices-likely-to-remain-high-in-short-term-c7024a73"
-        },
-        {
-          "label": "ZeroHedge",
-          "url": "https://www.zeroHedge.com/markets/futures-rise-after-openai-damage-control-sparks-tech-rebound-oil-slides"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 1:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nCombined prediction-market volume hit an all-time high of $50.59B in July\nup 7.8% MoM per The Block, with Kalshi at $37.7B (+14%); Polymarket US surged 54% to $5B as the waitlist fully opened, while offshore Polymarket contracted 26% to $7.9B.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019\n\nUK's FCA says it is \"engaging\" with prediction-market platforms as Kalshi and Polymarket line up UK entries\nexecutive director Simon Walls said at the watchdog's Oct 6 annual public meeting that the FCA is \"interested in their plans for the UK\" and weighing a relaxation of the…\n#PredictionMarkets #Kalshi #Polymarket #FCA\nhttps://www.fnlondon.com/articles/fca-engaging-with-prediction-markets-as-polymarket-and-kalshi-mull-uk-entry-0a23856e\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T13:54:00-04:00",
+      "source": "2026-10-08_1354-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-7",
-      "title": "Fed October: ~84% odds of no change",
-      "summary": "Polymarket's October Fed decision market holds at 84% \"No change\" with the Oct 28 hike contract around ~16% (carried from earlier reading; ).",
-      "tags": [
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Polydict",
-          "url": "https://polydict.app/markets"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 12:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi and Polymarket have flagged 100+ potential insider-trading cases in 2026, CFTC slow to act\nKalshi flagged ~50 instances and Polymarket ~90, in the US and overseas, but a pared-down CFTC (Chicago bureau lost all trial attorneys, cost cuts) has been slow to…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593\n\nPrediction-market volume hit a record $188B in Q3 as CFTC pushes clearer rules\nvolume up ~70% QoQ and 21x YoY, with Kalshi driving the growth and sports ~40% of its volume; CryptoRank tracked ~$1.4B in combined open interest. Chairman Selig's CFTC…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.ccn.com/news/crypto/prediction-markets-188-billion-cftc-rules/\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T12:54:00-04:00",
+      "source": "2026-10-08_1254-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2254-edt-8",
-      "title": "House Dems at 90–91¢, Dem Senate control ~62–63%",
-      "summary": "Talarico holds 67¢ vs Paxton's 35–36¢ on the Texas Senate boards; Dems priced at ~62% for the 2026 midterms sweep (carried from earlier readings; ).",
-      "tags": [
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026"
-        }
-      ],
-      "published": "2026-10-10T02:54:58.648478+00:00",
-      "source": "2026-10-09_2254-edt.md"
+      "id": "infiniti-2026-10-08_1154-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 11:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi and Polymarket eyeing ~$20bn valuations in new funding rounds\nper WSJ, both platforms are in early investor talks at 10-figure valuations. Comes after Kalshi's December Series E ($1bn at $11bn) and Polymarket's ~$2bn ICE investment…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nRep. Ritchie Torres fast-tracking federal insider-trading bill after Maduro trades\na newly created anonymous account made >$400k in under 24 hours on Polymarket betting Nicolás Maduro would be removed from power; Torres plans to introduce his Public…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/venezuela-trades-not-sports-drive-new-prediction-market-legislation-53146\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T11:54:00-04:00",
+      "source": "2026-10-08_1154-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2154-edt-0",
-      "title": "39 state AGs pile into SCOTUS fight as NFL presses for quick review",
-      "summary": "Fresh detail on the Flaherty v. Kalshi amicus wave: attorneys general from 39 states plus DC filed a brief alongside the NFL, and the league is asking the Court to act fast, warning \"billions of dollars will be bet on NFL games through prediction markets each season\" (ESPN). The NFL also fired back at the CFTC's capacity, noting the regulator has just 543 employees nationwide .",
-      "tags": [
-        "Kalshi",
-        "NFL",
-        "CFTC"
-      ],
-      "links": [
-        {
-          "label": "ESPN via The Sports Leader",
-          "url": "https://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/"
-        },
-        {
-          "label": "The Block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064"
-        },
-        {
-          "label": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
+      "id": "infiniti-2026-10-08_1054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 10:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi fined three political candidates for trading on themselves\ntwo Democrats and one Republican — in its latest insider-trading enforcement push; two accepted five-year suspensions and small fines ($784.20, $539.85). A Virginia…\n#PredictionMarkets #Kalshi #Senate\nhttps://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024\n\nPolymarket beat the polls in Brazil's first round\nFlávio Bolsonaro took 47.03% over Lula's 45.16%, the ordering Polymarket had priced for weeks while late polls showed a near tie; the race now heads to an Oct 25 runoff.\n#PredictionMarkets #Polymarket\nhttps://www.crowdfundinsider.com/2026/10/315779-prediction-markets-polymarket-beat-traditional-polls-in-the-brazilian-election/\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T10:54:00-04:00",
+      "source": "2026-10-08_1054-edt.md",
+      "matches_facebook_post": false
     },
     {
-      "id": "infiniti-2026-10-09_2154-edt-1",
-      "title": "Norway regulator moves to block Kalshi and Polymarket",
-      "summary": "The Norwegian Gaming Authority notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS blocking for serving Norwegian consumers; companies have until Oct 15 to respond. Director Atle Hamar said \"in practice, we have concluded\" .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "iGamingToday",
-          "url": "https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-2",
-      "title": "July was the biggest volume month on record: $50.59B",
-      "summary": "The Block data via GambleRss puts combined Kalshi + Polymarket (+ US) volume at $50.59B in July (+7.8% m/m); Kalshi did $37.7B of it. Open interest faded from ~$2B to ~$1.2B after the World Cup ended July 19 .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-3",
-      "title": "Fed October decision: 84% odds of no change",
-      "summary": "Polymarket's \"Fed Decision in October?\" sits at 84% \"No change\" with $843K in 24h volume; the related Oct 28 hike contract is down 2pts on the week to ~16% .",
-      "tags": [
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Polydict",
-          "url": "https://polydict.app/markets"
-        },
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?s"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-4",
-      "title": "BTC holds above $82K on Polymarket's daily markets",
-      "summary": "\"Bitcoin above $82,000 on October 10?\" trades at 88¢ with $384K in 24h volume; the October price market favors ↑85,000 at 73% with $322K 24h volume .",
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "Polydict",
-          "url": "https://polydict.app/markets"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-5",
-      "title": "BTC ~$82–83K, still consolidating after Thursday's $80,427 low",
-      "summary": "Traders see ~88% odds BTC holds above $82K on Oct 10 and 73% odds October touches $85K; ETF outflows kept bleeding (-$244.1M Thursday, ~$407M net in October) .",
-      "tags": [
-        "Bitcoin",
-        "ETF"
-      ],
-      "links": [
-        {
-          "label": "Polydict",
-          "url": "https://polydict.app/markets"
-        },
-        {
-          "label": "Coincu",
-          "url": "https://coincu.com/predictions/what-price-will-bitcoin-hit-in-october-2026"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-6",
-      "title": "Alts weak: ETH ~$2,500, SOL ~$110.66, XRP ~$1.38",
-      "summary": "ETH suffered the heaviest liquidations at $327.6M; crypto Fear & Greed reads 60 (\"Greed\") after Thursday's flush.",
-      "tags": [
-        "Ethereum",
-        "Solana"
-      ],
-      "links": [],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-7",
-      "title": "Gold futures ~$4,220 (+1.5%), spot ~$4,194; silver ~$60.62",
-      "summary": "Easing 10Y yields and a softer dollar extended the rally; PBOC buying ran a 23rd straight month.",
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "links": [],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-8",
-      "title": "Oil: WTI ~$91.20, Brent ~$103.53",
-      "summary": "Both softer on Trump's announced Putin diesel-supply deal, with Houthi attacks on Saudi Arabia and Hurricane Isaias still in the mix.",
-      "tags": [
-        "Oil"
-      ],
-      "links": [],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-9",
-      "title": "Prediction markets ~$3.3B in 24h across 9 exchanges",
-      "summary": "Kalshi holds ~76% of 30-day volume; top 24h Polymarket contracts today are Brazil election ($1.4M vol) and US-Iran ceasefire ($1.4M) .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Elections",
-        "Brazil"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?s"
-        },
-        {
-          "label": "Polydict",
-          "url": "https://polydict.app/markets"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt-10",
-      "title": "Elections: House Dems at 90–91¢, Senate control Dem 65%→62% this week",
-      "summary": "Michigan Senate (Dem) slipped 4pts to 68%; Dem sweep of 2026 midterms at 62% .",
-      "tags": [
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?s"
-        },
-        {
-          "label": "Polydict",
-          "url": "https://polydict.app/markets"
-        }
-      ],
-      "published": "2026-10-10T01:55:08.517492+00:00",
-      "source": "2026-10-09_2154-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-0",
-      "title": "$1B+ in crypto liquidations as BTC wobbles near $82K",
-      "summary": "Over $1.09B in crypto positions were liquidated in 24h as Bitcoin slid from ~$86K toward $82K before recovering to ~$82,991 Friday afternoon; longs ate ~85–86% of the losses (~$930M), the largest single wipeout a ~$20M ETH position on Hyperliquid. Trigger: US authorities transferred 17,733 seized BTC (~$1.48B) to Coinbase Prime over three days, spooking a market already jittery on geopolitics .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "links": [
-        {
-          "label": "Hokanews",
-          "url": "https://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html"
-        },
-        {
-          "label": "u.today",
-          "url": "https://u.today/xrp-defies-market-bloodbath-as-bitcoin-hits-october-lows-main-crypto-news-this-morning?from=related"
-        },
-        {
-          "label": "CryptoCompass",
-          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-1",
-      "title": "Zacharia probe still live: Kalshi & White House stay silent",
-      "summary": "WSJ's piece on the three suspiciously timed Katie Zacharia bets ($19→$1,896; $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman still declines comment and the White House hasn't responded; the separate CFTC probe into billions in near-identical crypto \"wash trades\" on Kalshi also looms .",
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "links": [
-        {
-          "label": "WSJ",
-          "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546"
-        },
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-2",
-      "title": "Oil holds its diesel-deal losses into the weekend",
-      "summary": "Brent eased ~0.7% to ~$103.53 and WTI settled near $91.20 after Trump's announced Putin diesel-supply deal; traders still weigh Houthi attacks on Saudi Arabia and Hurricane Isaias against the Iran de-escalation .",
-      "tags": [
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "CryptoCompass",
-          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
-        },
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-3",
-      "title": "Gold's rally holds above $4,200; silver above $60",
-      "summary": "Gold futures closed +1.5% at ~$4,220 on easing yields and a softer dollar; ETF inflows have run 12 straight weeks and the PBOC bought for a 23rd straight month .",
-      "tags": [
-        "Gold",
-        "Silver",
-        "ETF"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-4",
-      "title": "BTC ~$82,991, up 0.6% 24h and 3.2% off Thursday's $80,427 low",
-      "summary": "Range was wide: daily high ~$83,398, support watched at $81K then $80.3K, resistance at $87.1K (Oct 2 high); ~34% below the Oct 2025 record near $126.2K .",
-      "tags": [
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "CryptoCompass",
-          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
-        },
-        {
-          "label": "EuropeSays",
-          "url": "https://www.europesays.com/britain/140777/"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-5",
-      "title": "BTC ETFs bled again: -$244.1M Thursday after -$487.1M Wednesday",
-      "summary": "October now ~$407M net outflows six trading days in; ETH ETFs lost $72.5M Thursday .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "links": [
-        {
-          "label": "EuropeSays",
-          "url": "https://www.europesays.com/britain/140777/"
-        },
-        {
-          "label": "u.today",
-          "url": "https://u.today/xrp-defies-market-bloodbath-as-bitcoin-hits-october-lows-main-crypto-news-this-morning?from=related"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-6",
-      "title": "Alts bruised but off lows: ETH ~$2,500 (-2.7% 24h), SOL ~$110.66, XRP $1.38",
-      "summary": "ETH liquidations were the heaviest at $327.6M; total crypto cap ~$2.83T, 24h volume ~$107B, BTC dominance ~59%; Fear & Greed 60, back in \"Greed\" .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "links": [
-        {
-          "label": "u.today",
-          "url": "https://u.today/xrp-defies-market-bloodbath-as-bitcoin-hits-october-lows-main-crypto-news-this-morning?from=related"
-        },
-        {
-          "label": "The Hindu BusinessLine",
-          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-8th-october-2026/article71556978.ece"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-7",
-      "title": "Gold futures ~$4,220 (+1.5%), spot ~$4,194; silver ~$60.62",
-      "summary": "Easing 10Y (below 5.25%) and a softer dollar did the work; bond markets closed Monday for Columbus Day .",
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "BProud",
-          "url": "https://bproud.blog/crypto-market-today-2026-10-09/"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-8",
-      "title": "Oil: WTI ~$91.20 (-0.4%), Brent ~$103.53 (-0.7%)",
-      "summary": "Down on the Putin diesel deal and Trump's \"no Iran strikes before midterms\" post, though the US blockade stays in force .",
-      "tags": [
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "CryptoCompass",
-          "url": "https://cryptocompass.com/articles/bitcoin-price-at-82-991-as-brent-slips-to-103-53-what-to-watch-in-the-oil-price-now"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt-9",
-      "title": "Prediction markets ~$3.1–3.17B in 24h across 9 exchanges",
-      "summary": "Kalshi holds ~76% of 30-day volume; sports and crypto dominate outside election season .",
-      "tags": [
-        "Kalshi",
-        "Elections"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/prediction-markets/volume/"
-        }
-      ],
-      "published": "2026-10-10T00:56:18.640721+00:00",
-      "source": "2026-10-09_2054-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt-0",
-      "title": "CFTC probing possible \"wash trading\" on Kalshi",
-      "summary": "Per the NY Post, the CFTC has launched a probe of unusual trading activity on Kalshi after billions of dollars of near-identical crypto trades raised questions about possible wash trading; the item surfaced in Friday's reporting on the Zacharia probe, alongside Kalshi's fresh \"we can't comment on ongoing investigations\" line to the Post .",
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "links": [
-        {
-          "label": "NY Post",
-          "url": "https://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/"
-        }
-      ],
-      "published": "2026-10-09T23:56:22.691749+00:00",
-      "source": "2026-10-09_1954-edt.md"
+      "id": "infiniti-2026-10-08_04-54",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 4:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nPolymarket's legal team filed in Massachusetts federal court, arguing Congress gave the CFTC, not states, exclusive authority over event contracts. Names AG Andrea Joy…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\n6th Circuit rules Ohio and Tennessee can regulate Kalshi event contracts\nMajor blow for Kalshi: the 6th U.S. Circuit Court of Appeals in Cincinnati ruled states can apply local gambling laws to event contracts, with Circuit Judge Julia Smith…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T04:54:00-04:00",
+      "source": "2026-10-08_04-54.md",
+      "matches_facebook_post": false
     }
   ]
 }
