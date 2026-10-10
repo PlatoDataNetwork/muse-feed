@@ -20,14 +20,14 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-10T02:44:46.108383-04:00",
+  "updated": "2026-10-10T02:45:55.374071-04:00",
   "items": [
     {
       "id": "infiniti-2026-10-10_0154-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 10, 2026 · 1:54 AM ET",
       "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nthe newest state-vs-federal jurisdiction fight: Polymarket argues Congress gave the CFTC exclusive authority over event contracts, seeking to block Massachusetts from…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\nCFTC emergency order tells Kalshi to keep operating in New York\nChair Michael Selig says Congress did not intend derivatives exchanges to face a \"patchwork of state gaming laws\"; the order doesn't resolve NY's lawsuit, which seeks…\n#PredictionMarkets #Kalshi #Congress #CFTC\nhttps://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82.6k\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-10_0154-edt.jpg",
       "published": "2026-10-10T01:54:00-04:00",
       "source": "2026-10-10_0154-edt.md",
       "matches_facebook_post": false
@@ -410,16 +410,6 @@
       "image_url": null,
       "published": "2026-10-08T10:54:00-04:00",
       "source": "2026-10-08_1054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_04-54",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 8, 2026 · 4:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nPolymarket's legal team filed in Massachusetts federal court, arguing Congress gave the CFTC, not states, exclusive authority over event contracts. Names AG Andrea Joy…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\n6th Circuit rules Ohio and Tennessee can regulate Kalshi event contracts\nMajor blow for Kalshi: the 6th U.S. Circuit Court of Appeals in Cincinnati ruled states can apply local gambling laws to event contracts, with Circuit Judge Julia Smith…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-10-08T04:54:00-04:00",
-      "source": "2026-10-08_04-54.md",
       "matches_facebook_post": false
     }
   ]
