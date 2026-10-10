@@ -20,8 +20,150 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-10T02:55:00.146788+00:00",
+  "updated": "2026-10-10T03:55:11.824766+00:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-09_2354-edt-0",
+      "title": "Kalshi's insider-trading probe on the Zacharia press secretary bets remains the day's top story",
+      "summary": "WSJ reported the investigation into precisely-timed wagers, including a $19 bet placed ~10:43 p.m. Thursday that stood to net $1,896; Kalshi declined to comment .",
+      "tags": [
+        "Kalshi"
+      ],
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
+        }
+      ],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-1",
+      "title": "Aggregator snapshot (DeFi Rate, 11:14 PM ET): Dems slid this week on the Senate board",
+      "summary": "Senate Dem control 65% → 62% (-3pts), Michigan Senate Dem 72% → 68% (-4pts), House Dems 92% → 90% (-2pts); 2028 Dem win steady at 61% and JD Vance holds 46% for the GOP nod .",
+      "tags": [
+        "Senate"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/?ref=steemhunt"
+        }
+      ],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-2",
+      "title": "$3.2B traded in the last 24 hours",
+      "summary": "DeFi Rate's 9-exchange volume tracker logged $3.2B in the last 24h, a strong Thursday print .",
+      "tags": [],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/?ref=steemhunt"
+        }
+      ],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-3",
+      "title": "NFL: Rams favored at 12% to win Super Bowl LXI",
+      "summary": "Kalshi 11.5¢, Polymarket 12.5¢ on the top board; the two platforms nearly matched on tonight's Bucs–Cowboys props (Lamb anytime TD 49¢ on both) before the 8:15 p.m. ET kickoff .",
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/?ref=steemhunt"
+        },
+        {
+          "label": "Action Network",
+          "url": "https://www.actionnetwork.com/news/nfl-prediction-market-promos-for-buccaneers-vs-cowboys-on-thursday-night-football"
+        }
+      ],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-4",
+      "title": "BTC ~$82.7k, ETH ~$2,528 — risk off",
+      "summary": "Polymarket's Oct 10 BTC price market has the $82,000–84,000 band at 86.5¢ with ~$77k 24h volume; CoinDesk has BTC near $82,200 after breaking below $83k on the oil/yield spike, ETH ~$2,528, XRP down 3%+ .",
+      "tags": [
+        "Polymarket",
+        "Bitcoin",
+        "Ethereum",
+        "Oil"
+      ],
+      "links": [
+        {
+          "label": "Polymarket",
+          "url": "https://polymarket.com"
+        },
+        {
+          "label": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
+        }
+      ],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-5",
+      "title": "Gold ~$4,200, silver ~$60.6",
+      "summary": "Gold held above $4,100 with Dec futures ~$4,138 and silver ~$60.3 per TradingView's latest data (carried from the earlier Friday reading of gold back above $4,200 and silver ~$60.6–60.8).",
+      "tags": [
+        "Gold",
+        "Silver"
+      ],
+      "links": [],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-6",
+      "title": "Oil: WTI ~$90.57, Brent ~$102.70",
+      "summary": "Carried from Friday's reading; Goldman estimates Brent still carries a ~$22/bbl September risk premium and Hurricane Isaias has shut ~63% of Gulf production.",
+      "tags": [
+        "Oil"
+      ],
+      "links": [],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-7",
+      "title": "Fed October: hike odds at 16%",
+      "summary": "Kalshi 15.5¢, Polymarket 15.5¢ on an Oct 28 hike, down 2pts this week; \"No change\" remains the heavy favorite .",
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/?ref=steemhunt"
+        }
+      ],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2354-edt-8",
+      "title": "2026 midterms: House Dems 90–91¢, Senate Dems ~62%",
+      "summary": "Fresh DeFi Rate read; Texas Senate Talarico holds 67¢ vs Paxton's 35–36¢ (carried from earlier).",
+      "tags": [
+        "Senate"
+      ],
+      "links": [],
+      "published": "2026-10-10T03:55:09.381464+00:00",
+      "source": "2026-10-09_2354-edt.md"
+    },
     {
       "id": "infiniti-2026-10-09_2254-edt-0",
       "title": "Kalshi launches insider-trading probe on Zacharia press secretary bets",
@@ -989,162 +1131,6 @@
       ],
       "published": "2026-10-09T22:55:30.381542+00:00",
       "source": "2026-10-09_1854-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-0",
-      "title": "39 states side with New Jersey against prediction markets in SCOTUS brief",
-      "summary": "39 states filed an amicus brief backing NJ in its fight with Kalshi, urging the Supreme Court to let states restrict sports-event contracts; separately, TickerTracker shows Kalshi at ~$2.18B (parlays 60.9%, sports 19.8%, crypto 16%) and trailing 7-day volume of $18.5B for Kalshi vs $2.65B Polymarket US .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "SCOTUS"
-      ],
-      "links": [
-        {
-          "label": "Next Event Horizon",
-          "url": "https://nexteventhorizon.substack.com/p/39-states-side-with-new-jersey-against-prediction-markets"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-1",
-      "title": "Kalshi launches prediction apps with Native American tribes, dividing Indian country",
-      "summary": "The Kletsel Dehe and three other tribes in California and Oklahoma launched prediction apps with Kalshi on Wednesday, breaking ranks with hundreds of other tribes that say platforms like Kalshi and Polymarket are illegally encroaching on tribal gaming rights; tribal casino gaming generated $46B in revenue in 2025 .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Next Event Horizon",
-          "url": "https://nexteventhorizon.substack.com/p/39-states-side-with-new-jersey-against-prediction-markets"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-2",
-      "title": "Kalshi and Polymarket eyeing ~$20bn valuations in new funding talks",
-      "summary": "Per the WSJ, both platforms are in early talks with investors; Kalshi's Dec. Series E raised $1bn at an $11bn valuation, Polymarket's ICE deal valued it above $8bn, while Flutter is down >60% and DraftKings down ~45% over six months .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "DraftKings"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-3",
-      "title": "Seminole Tribe sues DraftKings over sports event contracts in Florida",
-      "summary": "New front in the tribal legal war as the Seminole Tribe challenges DraftKings' sports-event contract offerings .",
-      "tags": [
-        "DraftKings"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?s"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-4",
-      "title": "Market snapshot: Dems 62% Senate, 90% House; JD Vance ~46% 2028 GOP nominee",
-      "summary": "Dems down 2 pts on the week in both chambers; an October Fed hike is priced at just 16% (Kalshi 17¢, Polymarket 15.5¢), and Polymarket runs ~1.2 pts above Kalshi on a Democratic Senate .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?s"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-5",
-      "title": "No fresh breaking stories in the last hour",
-      "summary": "Newest items remain the 39-state SCOTUS brief, the tribal Kalshi apps (both Oct 8), and today's MA Kalshi sports-ban effective date; SCOTUS cert decision on NJ/Kalshi expected \"in the coming days.\"",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-6",
-      "title": "BTC ~$82.4K, down ~4% on the day to a one-month low",
-      "summary": "Broke below $83K support; total crypto market cap $2.80T (-3.6% 24h), 24h crypto volume $118.6B; Fear & Greed index down to 59 from 72 a week ago .",
-      "tags": [
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify"
-        },
-        {
-          "label": "BProud",
-          "url": "https://bproud.blog/crypto-market-today-2026-10-09/"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-7",
-      "title": "$893M US-government BTC overhang",
-      "summary": "The US government moved 11,000 BTC to Coinbase Prime this week, roughly 24 days of post-halving issuance; no sale confirmed, but the block sits over every bounce; spot ETFs bled ~$487M Wednesday .",
-      "tags": [
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "TradingNEWS",
-          "url": "https://www.tradingnews.com/news/bitcoin-loses-october-support-as-ibit-etf-bleeds-207m-usd-and-oil-tops-105-usd"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-8",
-      "title": "Alts bleeding harder: ETH ~$2,479 (-3.9%), SOL ~$110 (-5.0%), XRP $1.38",
-      "summary": "Altcoin underperformance vs BTC (~-3.4% 7d) signals risk-off rotation; ETH/BTC at 0.0303; State Street survey: 51% of institutions expect digital assets mainstream within 5 years, up from 11% in 2024 .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "links": [
-        {
-          "label": "CoinPaper",
-          "url": "https://coinpaper.com/37013/bitcoin-falls-to-81k-as-ethereum-and-solana-extend-crypto-selloff"
-        },
-        {
-          "label": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
     }
   ]
 }
