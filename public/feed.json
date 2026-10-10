@@ -20,8 +20,204 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-10T00:56:24.189868+00:00",
+  "updated": "2026-10-10T01:55:09.936556+00:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-09_2154-edt-0",
+      "title": "39 state AGs pile into SCOTUS fight as NFL presses for quick review",
+      "summary": "Fresh detail on the Flaherty v. Kalshi amicus wave: attorneys general from 39 states plus DC filed a brief alongside the NFL, and the league is asking the Court to act fast, warning \"billions of dollars will be bet on NFL games through prediction markets each season\" (ESPN). The NFL also fired back at the CFTC's capacity, noting the regulator has just 543 employees nationwide .",
+      "tags": [
+        "Kalshi",
+        "NFL",
+        "CFTC"
+      ],
+      "links": [
+        {
+          "label": "ESPN via The Sports Leader",
+          "url": "https://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/"
+        },
+        {
+          "label": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064"
+        },
+        {
+          "label": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-1",
+      "title": "Norway regulator moves to block Kalshi and Polymarket",
+      "summary": "The Norwegian Gaming Authority notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS blocking for serving Norwegian consumers; companies have until Oct 15 to respond. Director Atle Hamar said \"in practice, we have concluded\" .",
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "iGamingToday",
+          "url": "https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-2",
+      "title": "July was the biggest volume month on record: $50.59B",
+      "summary": "The Block data via GambleRss puts combined Kalshi + Polymarket (+ US) volume at $50.59B in July (+7.8% m/m); Kalshi did $37.7B of it. Open interest faded from ~$2B to ~$1.2B after the World Cup ended July 19 .",
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "GambleRss",
+          "url": "https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-3",
+      "title": "Fed October decision: 84% odds of no change",
+      "summary": "Polymarket's \"Fed Decision in October?\" sits at 84% \"No change\" with $843K in 24h volume; the related Oct 28 hike contract is down 2pts on the week to ~16% .",
+      "tags": [
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "Polydict",
+          "url": "https://polydict.app/markets"
+        },
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/?s"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-4",
+      "title": "BTC holds above $82K on Polymarket's daily markets",
+      "summary": "\"Bitcoin above $82,000 on October 10?\" trades at 88¢ with $384K in 24h volume; the October price market favors ↑85,000 at 73% with $322K 24h volume .",
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "links": [
+        {
+          "label": "Polydict",
+          "url": "https://polydict.app/markets"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-5",
+      "title": "BTC ~$82–83K, still consolidating after Thursday's $80,427 low",
+      "summary": "Traders see ~88% odds BTC holds above $82K on Oct 10 and 73% odds October touches $85K; ETF outflows kept bleeding (-$244.1M Thursday, ~$407M net in October) .",
+      "tags": [
+        "Bitcoin",
+        "ETF"
+      ],
+      "links": [
+        {
+          "label": "Polydict",
+          "url": "https://polydict.app/markets"
+        },
+        {
+          "label": "Coincu",
+          "url": "https://coincu.com/predictions/what-price-will-bitcoin-hit-in-october-2026"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-6",
+      "title": "Alts weak: ETH ~$2,500, SOL ~$110.66, XRP ~$1.38",
+      "summary": "ETH suffered the heaviest liquidations at $327.6M; crypto Fear & Greed reads 60 (\"Greed\") after Thursday's flush.",
+      "tags": [
+        "Ethereum",
+        "Solana"
+      ],
+      "links": [],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-7",
+      "title": "Gold futures ~$4,220 (+1.5%), spot ~$4,194; silver ~$60.62",
+      "summary": "Easing 10Y yields and a softer dollar extended the rally; PBOC buying ran a 23rd straight month.",
+      "tags": [
+        "Gold",
+        "Silver"
+      ],
+      "links": [],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-8",
+      "title": "Oil: WTI ~$91.20, Brent ~$103.53",
+      "summary": "Both softer on Trump's announced Putin diesel-supply deal, with Houthi attacks on Saudi Arabia and Hurricane Isaias still in the mix.",
+      "tags": [
+        "Oil"
+      ],
+      "links": [],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-9",
+      "title": "Prediction markets ~$3.3B in 24h across 9 exchanges",
+      "summary": "Kalshi holds ~76% of 30-day volume; top 24h Polymarket contracts today are Brazil election ($1.4M vol) and US-Iran ceasefire ($1.4M) .",
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Brazil"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/?s"
+        },
+        {
+          "label": "Polydict",
+          "url": "https://polydict.app/markets"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2154-edt-10",
+      "title": "Elections: House Dems at 90–91¢, Senate control Dem 65%→62% this week",
+      "summary": "Michigan Senate (Dem) slipped 4pts to 68%; Dem sweep of 2026 midterms at 62% .",
+      "tags": [
+        "Senate"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/?s"
+        },
+        {
+          "label": "Polydict",
+          "url": "https://polydict.app/markets"
+        }
+      ],
+      "published": "2026-10-10T01:55:08.517492+00:00",
+      "source": "2026-10-09_2154-edt.md"
+    },
     {
       "id": "infiniti-2026-10-09_2054-edt-0",
       "title": "$1B+ in crypto liquidations as BTC wobbles near $82K",
@@ -933,218 +1129,6 @@
       ],
       "published": "2026-10-09T20:55:48.809597+00:00",
       "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-7",
-      "title": "$100K-by-year-end still 34–34.5% on both platforms",
-      "summary": "Kalshi ~34¢ ($110K 19¢, $120K 13¢, $150K 4¢); Polymarket 34.5% by Dec. 31; spot ~$82.6–83.3K, off overnight lows near $81.6K .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "news.bitcoin.com",
-          "url": "https://news.bitcoin.com/price-predictions/bitcoin-100k-odds-kalshi-polymarket-2026/"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-8",
-      "title": "ETH ~$2,478, SOL ~$110.66",
-      "summary": "Broad crypto consolidating; ~$1.02B in liquidations over 24h across 164,899 traders; spot BTC ETFs saw $487M net outflows Wednesday .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "links": [
-        {
-          "label": "The Hindu BusinessLine",
-          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-october-2026/article71560336.ece"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-9",
-      "title": "Gold holding above $4,100; silver slides below $59",
-      "summary": "Gold gained ~0.95% on the defensive bid while silver hit fresh lows under $59/oz .",
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "links": [
-        {
-          "label": "The Hindu BusinessLine",
-          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-october-2026/article71560336.ece"
-        },
-        {
-          "label": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify?post-id=75388ed8be06"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-0",
-      "title": "Norway moves to block Kalshi and Polymarket",
-      "summary": "Norway's gambling regulator has notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS-blocking measures, with a deadline of Oct. 15 to respond before a final decision; director Atle Hamar told TV 2 that in practice the decision is concluded — authorities have previously blocked 238 gambling sites .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "iGamingToday",
-          "url": "https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/"
-        }
-      ],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-1",
-      "title": "Texas Senate is today's #2 most-traded market: Talarico 64¢ vs Paxton 37¢",
-      "summary": "James Talarico leads Ken Paxton on Kalshi with $599K in 24h volume across venues, trailing only the Pineda/Ruane MMA fight ($802K) on DeFi Rate's live table; other heavy tapes: Polymarket's BTC 5pm-EDT daily market and the Elon Musk weekly tweet-count market ($572K each), pro baseball champion $542K (Dodgers 43.7¢ Kalshi) .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/odds/"
-        }
-      ],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-2",
-      "title": "$3.1B traded in 24h; Dem Senate odds slip to ~62%",
-      "summary": "DeFi Rate's snapshot across 9 exchanges shows Dem Senate control 64%→62% over the past week; biggest 7-day midterm moves: Alaska Senate Dem 68%→74%, Michigan Senate Dem 73%→69%; Oct. 28 Fed hike priced ~16% (Kalshi 16.5¢ / Polymarket 15.5¢); House Dem ~90%, 2028 winner Dem 62%, JD Vance GOP nominee ~45% .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?s"
-        }
-      ],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-3",
-      "title": "Iowa Senate stays a toss-up; Hinson's edge is platform-dependent",
-      "summary": "Ashley Hinson 54¢ vs Josh Turek 46¢ on Polymarket, 56¢/44¢ on Kalshi for the open seat vacated by Joni Ernst, narrowing on one exchange and widening on the other as Nov. 3 nears .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
-        }
-      ],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-4",
-      "title": "No major new breaking stories in the last hour",
-      "summary": "newest developments remain the Norway blocking move (~19h) and the WSJ-reported $20bn valuation talks for both Kalshi and Polymarket covered in earlier briefs today.",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-5",
-      "title": "BTC $100K by year-end held at 34–34.5% on both platforms",
-      "summary": "Kalshi ~34¢ ($110K 19¢, $120K 13¢, $150K 4¢); Polymarket 34.5% by Dec. 31, 50.5% by Mar. 31 2027, 61.5% by Jun. 30 2027, 81% by Dec. 31 2027; the two platforms landing within ~1.5 pts makes the 33–35% range the crowd's fair read; spot BTC ~$82,600–83,300, +~2% off overnight lows near $81,600 after Trump ruled out an Iran strike before Nov. 3 .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "links": [
-        {
-          "label": "news.bitcoin.com",
-          "url": "https://news.bitcoin.com/price-predictions/bitcoin-100k-odds-kalshi-polymarket-2026/"
-        },
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "The Block",
-          "url": "https://www.theblock.co/data/decentralized-finance/prediction-markets"
-        }
-      ],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-6",
-      "title": "ETH ~$2,497 (+1.13%), SOL ~$110 (+0.55%)",
-      "summary": "The Block's live board shows broad crypto recovery alongside BTC; both remain deep in drawdown from 2026 highs .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "links": [
-        {
-          "label": "The Block",
-          "url": "https://www.theblock.co/data/decentralized-finance/prediction-markets"
-        }
-      ],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1554-edt-7",
-      "title": "Gold back above $4,200, oil slips on fading Iran-strike risk",
-      "summary": "Gold futures +1.5% to $4,215 (COMEX ~$4,200); silver +1.6% to $60.37/oz; WTI −0.4% to $91.20, Brent −0.4% to $104 after Trump said the U.S. wouldn't attack Iran before the midterms; copper +1.0% to $6.7155/lb; 10Y Treasury ~5.24%, off Wednesday's 24-year high near 5.37% .",
-      "tags": [
-        "Gold",
-        "Silver",
-        "Oil",
-        "Copper"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        },
-        {
-          "label": "The Hindu BusinessLine",
-          "url": "https://www.thehindubusinessline.com/markets/markets-stage-sharp-rebound-it-and-consumption-stocks-lead-nifty-past-22490/article71563154.ece"
-        },
-        {
-          "label": "FXStreet",
-          "url": "https://www.fxstreet.com/analysis/uneventful-cn-mainland-trade-after-extended-holiday-samsungs-q3-figures-looked-light-202610090607"
-        }
-      ],
-      "published": "2026-10-09T19:56:09.467113+00:00",
-      "source": "2026-10-09_1554-edt.md"
     }
   ]
 }
