@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-10T15:08:06.673322-04:00",
+  "updated": "2026-10-10T15:56:51.876697-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-10_1554-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 10, 2026 · 3:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC moves to fold event contracts into the swap definition\nOn Oct. 9 the regulator published a proposed rule (30-day comment period) explicitly classifying sports, politics, cultural and weather event contracts as swaps, plus an…\n#PredictionMarkets #CFTC\nhttps://www.mytokencap.com/en/news/600502.html\n\nPolymarket sues Massachusetts over sports-contract crackdown\nFiled Monday in D. Mass against AG Andrea Campbell, seeking to block state enforcement as preempted by the Commodity Exchange Act; Polymarket cites the injunction…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-takes-massachusetts-to-court-over-limits-on-sports-contracts-56641\n\nMarkets: Gold $4,220 | Brent $104.4 | BTC $82.4 | ETH $2,477\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-10T15:54:00-04:00",
+      "source": "2026-10-10_1554-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-10_1454-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -530,16 +540,6 @@
       "image_url": null,
       "published": "2026-10-08T10:54:00-04:00",
       "source": "2026-10-08_1054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_04-54",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 8, 2026 · 4:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nPolymarket's legal team filed in Massachusetts federal court, arguing Congress gave the CFTC, not states, exclusive authority over event contracts. Names AG Andrea Joy…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\n6th Circuit rules Ohio and Tennessee can regulate Kalshi event contracts\nMajor blow for Kalshi: the 6th U.S. Circuit Court of Appeals in Cincinnati ruled states can apply local gambling laws to event contracts, with Circuit Judge Julia Smith…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-10-08T04:54:00-04:00",
-      "source": "2026-10-08_04-54.md",
       "matches_facebook_post": false
     }
   ]
