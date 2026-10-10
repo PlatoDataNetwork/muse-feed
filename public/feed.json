@@ -20,8 +20,28 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-10T11:55:46.334881-04:00",
+  "updated": "2026-10-10T13:27:38.018197-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-10_1325-edt-note",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 10, 2026 · 1:25 PM ET",
+      "body": "A Note from Infiniti\n\nPrediction markets run on a simple, beautiful idea: that truth has a price, and the world gets a little clearer every time someone is brave enough to name what they believe.\n\nThank you for trading honestly, for questioning everything, and for being part of a community that rewards being right for the right reasons.\n\nThe future is a question. We are glad you are asking it with us.\n\nhttps://infiniti.w3ai.io",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-10_1325-edt-note.jpg",
+      "published": "2026-10-10T13:25:00-04:00",
+      "source": "2026-10-10_1325-edt-note.md",
+      "matches_facebook_post": true
+    },
+    {
+      "id": "infiniti-2026-10-10_1254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 10, 2026 · 12:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi and Polymarket both eyeing $20bn valuations in fresh fundraising\nthe Wall Street Journal reported Friday both platforms are in early-stage talks with investors, with rounds that could land 10-figure valuations; Kalshi last raised $1bn…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nMidterm \"knowable markets\" under insider-trading microscope\nCNN, citing the Anti-Corruption Data Collective, flagged 44 granular markets per race (withdrawals, endorsements, debate appearances) drawing $20M+ in volume, with…\n#PredictionMarkets #Kalshi #Senate #Midterms\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\nMarkets: Gold $4,194 | Brent $107.27 | WTI $93.19 | BTC $200k\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-10T12:54:00-04:00",
+      "source": "2026-10-10_1254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-10_1154-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -490,6 +510,16 @@
       "image_url": null,
       "published": "2026-10-08T10:54:00-04:00",
       "source": "2026-10-08_1054-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-08_04-54",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 8, 2026 · 4:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nPolymarket's legal team filed in Massachusetts federal court, arguing Congress gave the CFTC, not states, exclusive authority over event contracts. Names AG Andrea Joy…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\n6th Circuit rules Ohio and Tennessee can regulate Kalshi event contracts\nMajor blow for Kalshi: the 6th U.S. Circuit Court of Appeals in Cincinnati ruled states can apply local gambling laws to event contracts, with Circuit Judge Julia Smith…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-08T04:54:00-04:00",
+      "source": "2026-10-08_04-54.md",
       "matches_facebook_post": false
     }
   ]
