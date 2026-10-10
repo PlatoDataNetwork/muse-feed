@@ -20,8 +20,182 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-10T01:55:09.936556+00:00",
+  "updated": "2026-10-10T02:55:00.146788+00:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-09_2254-edt-0",
+      "title": "Kalshi launches insider-trading probe on Zacharia press secretary bets",
+      "summary": "WSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia's appointment as Trump's new White House press secretary, including a $19 bet placed ~10:43 p.m. Thursday that stood to net $1,896, and $74/$80 bets Friday poised to win $7,712 combined. Kalshi declined to comment on the ongoing probe .",
+      "tags": [
+        "Kalshi"
+      ],
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
+        },
+        {
+          "label": "NY Post",
+          "url": "https://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-1",
+      "title": "Polymarket's $32M Nobel market whiffed on the Peace Prize winner",
+      "summary": "Traders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi Pillay, who wasn't among the named candidates on Polymarket or Kalshi .",
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Nobel Prize"
+      ],
+      "links": [
+        {
+          "label": "Crypto Digital Currency News",
+          "url": "https://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-2",
+      "title": "Jefferies: SCOTUS likely to take prediction-market cases in 2027, outcomes favor states",
+      "summary": "Analyst David Katz calls it \"highly probable\" the high court hears prediction-market case(s) next year, rating Kalshi's odds of losing the Nevada, New Jersey, and related cases as \"medium,\" \"high,\" and \"very high.\" Kalshi's SCOTUS response in Flaherty v. Kalshi is due Nov 9 .",
+      "tags": [
+        "Kalshi"
+      ],
+      "links": [
+        {
+          "label": "GambleRss",
+          "url": "https://gamblerss.com/prediction-markets-could-be-facing-scotus-losses-in-2027-says-analyst-60752"
+        },
+        {
+          "label": "crypto.news",
+          "url": "https://crypto.news/sports-prediction-markets-reach-the-supreme-courts-doorstep/"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-3",
+      "title": "Prediction-market pricing on Saturday's Tennessee–Arkansas game splits on game flow",
+      "summary": "Polymarket and Kalshi both price the Vols at 83% to win, but diverged sharply after QB news: Polymarket's first-quarter winner dropped 7 points on Tennessee while Kalshi's first-touchdown contract moved 7 points off the Vols .",
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "Rocky Top Insider",
+          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-4",
+      "title": "BTC ~$82,650, ETH ~$2,494 — steady after the options expiry",
+      "summary": "$2.16B in BTC/ETH options settled on Deribit at 08:00 UTC Friday with both assets below max pain; BTC bounced ~2% to ~$83,300 intraday per WSJ. Fear & Greed reads 59 (\"Greed\"). BTC ETF outflows hit $487M Wednesday .",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "ETF"
+      ],
+      "links": [
+        {
+          "label": "Finnhub",
+          "url": "https://finnhub.io/?q=%22BTC%22"
+        },
+        {
+          "label": "CryptoTimes",
+          "url": "https://www.cryptotimes.io/2026/10/09/bitcoin-ethereum-options-expiry-2-16b-settles-today-as-btc-trades-below-84k-max-pain/"
+        },
+        {
+          "label": "₿Proud",
+          "url": "https://bproud.blog/crypto-market-today-2026-10-09/"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-5",
+      "title": "Gold futures back above $4,200, silver ~$60.6–60.8",
+      "summary": "Softer dollar and lower yields after the strong 30Y auction lifted spot gold to ~$4,194 and silver to ~$60.83, as crude's pullback eased near-term inflation fears .",
+      "tags": [
+        "Gold",
+        "Silver"
+      ],
+      "links": [
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
+        },
+        {
+          "label": "ZeroHedge",
+          "url": "https://www.zeroHedge.com/markets/futures-rise-after-openai-damage-control-sparks-tech-rebound-oil-slides"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-6",
+      "title": "Oil slides: WTI ~$90.57, Brent ~$102.70",
+      "summary": "Both fell after Trump said the US won't strike Iran before the midterms and cited \"productive\" talks with Tehran, though Goldman estimates Brent still carries a ~$22/bbl September risk premium; Hurricane Isaias has shut ~63% of Gulf of Mexico production .",
+      "tags": [
+        "Oil"
+      ],
+      "links": [
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-prices-likely-to-remain-high-in-short-term-c7024a73"
+        },
+        {
+          "label": "ZeroHedge",
+          "url": "https://www.zeroHedge.com/markets/futures-rise-after-openai-damage-control-sparks-tech-rebound-oil-slides"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-7",
+      "title": "Fed October: ~84% odds of no change",
+      "summary": "Polymarket's October Fed decision market holds at 84% \"No change\" with the Oct 28 hike contract around ~16% (carried from earlier reading; ).",
+      "tags": [
+        "Polymarket"
+      ],
+      "links": [
+        {
+          "label": "Polydict",
+          "url": "https://polydict.app/markets"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_2254-edt-8",
+      "title": "House Dems at 90–91¢, Dem Senate control ~62–63%",
+      "summary": "Talarico holds 67¢ vs Paxton's 35–36¢ on the Texas Senate boards; Dems priced at ~62% for the 2026 midterms sweep (carried from earlier readings; ).",
+      "tags": [
+        "Senate"
+      ],
+      "links": [
+        {
+          "label": "Action Network",
+          "url": "https://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026"
+        }
+      ],
+      "published": "2026-10-10T02:54:58.648478+00:00",
+      "source": "2026-10-09_2254-edt.md"
+    },
     {
       "id": "infiniti-2026-10-09_2154-edt-0",
       "title": "39 state AGs pile into SCOTUS fight as NFL presses for quick review",
@@ -971,164 +1145,6 @@
       ],
       "published": "2026-10-09T21:55:24.589570+00:00",
       "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-9",
-      "title": "Prediction markets did $3.17B in the last 24h across 9 exchanges",
-      "summary": "Kalshi holds ~76% of 30-day volume ($68.0B Sep 9–Oct 8); sports and crypto still dominate; politics a small share outside election season .",
-      "tags": [
-        "Kalshi",
-        "Elections"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/prediction-markets/volume/"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt-10",
-      "title": "Gold holding above $4,100; silver below $59",
-      "summary": "Defensive bid intact for gold while crypto sells off; Kalshi's 15-min gold markets recorded 542M contracts in Sept (~$5M est. fees, 2x Ether) .",
-      "tags": [
-        "Kalshi",
-        "Gold",
-        "Silver"
-      ],
-      "links": [
-        {
-          "label": "CoinCentral",
-          "url": "https://coincentral.com/gold-trading-explodes-on-kalshi-leaving-ethereum-behind/"
-        }
-      ],
-      "published": "2026-10-09T21:55:24.589570+00:00",
-      "source": "2026-10-09_1754-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-0",
-      "title": "Kalshi sports ban takes effect in Massachusetts today",
-      "summary": "A judge's injunction blocking Kalshi's sports-event contracts goes into effect Friday; the court said Kalshi \"mirrors other digital gambling experiences,\" and Kalshi is eligible to appeal .",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/kalshi-can-t-offer-sports-prediction-markets-in-massachusetts-rules-court-54751"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-1",
-      "title": "Polymarket counter-sues Massachusetts in federal court",
-      "summary": "Polymarket filed Monday in the U.S. District Court for the District of Massachusetts against AG Andrea Campbell and gaming officials, arguing the Commodity Exchange Act gives the CFTC exclusive jurisdiction over event contracts; CLO Neal Kumar: \"Congress gave the CFTC, not states, exclusive authority over event contracts\" .",
-      "tags": [
-        "Polymarket",
-        "Congress",
-        "CFTC"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/polymarket-takes-massachusetts-to-court-over-limits-on-sports-contracts-56641"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-2",
-      "title": "Kalshi's 15-minute gold markets out-fee ether markets 2:1",
-      "summary": "The short-duration gold contracts, launched weeks ago, generated nearly twice the trading fees of Kalshi's Ether-linked markets in September, with the live 15-min gold market showing $140,707 volume .",
-      "tags": [
-        "Kalshi",
-        "Gold"
-      ],
-      "links": [
-        {
-          "label": "Crypto Economy",
-          "url": "https://crypto-economy.com/nfl-takes-aim-at-kalshi-telling-supreme-court-its-sports-contracts-are-gambling/"
-        },
-        {
-          "label": "Kalshi",
-          "url": "https://kalshi.com/markets/kxgold15m/gold-15minute/kxgold15m-26sep111715"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-3",
-      "title": "Traders trim year-end gold optimism as prices slide",
-      "summary": "Gold at ~$4,312 is down >8% in a month; Kalshi traders now price gold finishing 2026 at $4,300+ at 60% (down from 72% earlier this month), $4,500 at ~31%, and $5,000 at just 12% .",
-      "tags": [
-        "Kalshi",
-        "Gold"
-      ],
-      "links": [
-        {
-          "label": "Kalshi",
-          "url": "https://news.kalshi.com/p/bitcoin-vs-gold-odds-which-asset-will-perform-better-in-2026"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-4",
-      "title": "Tennessee–Arkansas markets split on QB uncertainty",
-      "summary": "No. 15 Vols priced 83% on both Polymarket and Kalshi to win Saturday, but Polymarket's first-quarter winner dropped 7 points on Tennessee while Kalshi's first-TD market dropped 7 points, as George MacIntyre is expected to start; Kalshi volume just $56,245 .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Rocky Top Insider",
-          "url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-5",
-      "title": "No new breaking stories in the last hour",
-      "summary": "The newest items remain the MA injunction/effective-date and Polymarket's countersuit (~20h), plus the Norway DNS-blocking move (~20h); SCOTUS cert decision on the NJ/Kalshi case still expected \"in the coming days\" .",
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "links": [
-        {
-          "label": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1654-edt-6",
-      "title": "BTC slipped below $83K to ~$82,965",
-      "summary": "Risk assets under pressure as 10Y hit 5.352%, 30Y set fresh highs above 5.73%, and WTI jumped >4% in 24h to $92.40 (Brent ~$105) on Middle East energy-supply disruption; DXY at 102.4 .",
-      "tags": [
-        "Bitcoin",
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify?post-id=75388ed8be06"
-        }
-      ],
-      "published": "2026-10-09T20:55:48.809597+00:00",
-      "source": "2026-10-09_1654-edt.md"
     }
   ]
 }
