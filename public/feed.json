@@ -20,8 +20,172 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline",
-  "updated": "2026-10-09T22:55:32.753676+00:00",
+  "updated": "2026-10-09T23:56:24.989489+00:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-09_1954-edt-0",
+      "title": "CFTC probing possible \"wash trading\" on Kalshi",
+      "summary": "Per the NY Post, the CFTC has launched a probe of unusual trading activity on Kalshi after billions of dollars of near-identical crypto trades raised questions about possible wash trading; the item surfaced in Friday's reporting on the Zacharia probe, alongside Kalshi's fresh \"we can't comment on ongoing investigations\" line to the Post .",
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "links": [
+        {
+          "label": "NY Post",
+          "url": "https://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-1",
+      "title": "Kalshi's press-secretary probe: still no new comment",
+      "summary": "WSJ's piece on the three well-timed Katie Zacharia bets ($19→$1,896, $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman declined further comment and the White House didn't respond; the incident keeps feeding the Washington insider-trading drumbeat, with a federal bill to ban federal officials/employees from betting on prediction markets already in motion .",
+      "tags": [
+        "Kalshi"
+      ],
+      "links": [
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-2",
+      "title": "Trump announces Putin diesel-supply deal; oil eases into the close",
+      "summary": "Trump said he struck a deal with Putin for Russia to supply diesel to US and global markets, sending WTI down 0.4% to ~$91.20 and Brent down 0.4% to ~$104; Houthi attacks on Saudi Arabia and Hurricane Isaias still hang over supply .",
+      "tags": [
+        "Oil"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        },
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-3",
+      "title": "Friday close: stocks post weekly gains, 10Y eases below 5.25%",
+      "summary": "Indexes jumped Friday, locking in weekly gains (S&P +~0.6% on the week) as AI stocks rebounded; the 10-year Treasury settled below 5.25%, off Wednesday's 24-year high near 5.37%; bond markets are closed Monday for Columbus Day .",
+      "tags": [],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-4",
+      "title": "BTC ~$82,300, up modestly on the day after Thursday's ~$80.3K low",
+      "summary": "The Iran de-escalation (no US strikes before midterms) plus a weaker dollar lifted BTC ~2% on the day; ~$87,000 capped earlier in the week, support at $82–83K .",
+      "tags": [
+        "Bitcoin"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        },
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-5",
+      "title": "Gold futures +1.5% to $4,220; silver holding above $60",
+      "summary": "Easing yields and the softer dollar extended gold's rally back above $4,200 (COMEX silver ~$60.62); ETF inflows run 12 straight weeks, PBOC buying gold for a 23rd straight month .",
+      "tags": [
+        "Gold",
+        "Silver",
+        "ETF"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-6",
+      "title": "Oil: WTI ~$91.20 (-0.4%), Brent ~$104 (-0.4%)",
+      "summary": "Down from Thursday's highs on the Putin diesel deal and Trump's \"productive\" Iran talks, though the US blockade stays in force .",
+      "tags": [
+        "Oil"
+      ],
+      "links": [
+        {
+          "label": "Investopedia",
+          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+        },
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-7",
+      "title": "Alts still lagging: ETH ~$2,578 (-2.7% 24h), SOL ~$110.66, XRP $1.38",
+      "summary": "Total crypto cap ~$2.83T, 24h volume ~$107B, BTC dominance ~59%; Fear & Greed 60, back in \"Greed\" .",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "links": [
+        {
+          "label": "The Hindu BusinessLine",
+          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-8th-october-2026/article71556978.ece"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
+    {
+      "id": "infiniti-2026-10-09_1954-edt-8",
+      "title": "Prediction markets ~$3.1–3.17B in 24h across 9 exchanges",
+      "summary": "Kalshi holds ~76% of 30-day volume; sports and crypto dominate outside election season .",
+      "tags": [
+        "Kalshi",
+        "Elections"
+      ],
+      "links": [
+        {
+          "label": "DeFi Rate",
+          "url": "https://defirate.com/prediction-markets/volume/"
+        }
+      ],
+      "published": "2026-10-09T23:56:22.691749+00:00",
+      "source": "2026-10-09_1954-edt.md"
+    },
     {
       "id": "infiniti-2026-10-09_1854-edt-0",
       "title": "Kalshi probes suspicious trades on Trump's press secretary pick",
@@ -976,179 +1140,6 @@
       ],
       "published": "2026-10-09T17:55:17.675142+00:00",
       "source": "2026-10-09_1354-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt-1",
-      "title": "Polymarket signs with the Rangers; NHL remains the only league aboard",
-      "summary": "Two weeks after Kalshi's Blackhawks deal, Polymarket announced a partnership with the NHL's Rangers (via Madison Square Garden Sports, Rangers only, not the Knicks). The NHL is still the only major sports league formally partnered with prediction-market platforms; the NFL, MLB and NBA have stayed away while CNBC and CNN integrate market data .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533"
-        }
-      ],
-      "published": "2026-10-09T17:55:17.675142+00:00",
-      "source": "2026-10-09_1354-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt-2",
-      "title": "Midterm board: Dems ~90% to take the House, Senate drifting back",
-      "summary": "Polymarket/Kalshi both price Democrats at ~90–91% to win the House, but the Senate moved slightly against Dems (Polymarket 64% → ~63%, Kalshi combo ~61.8%); biggest 7-day movers: Alaska Senate Dem 68% → 74% (+6), Michigan Senate Dem 73% → 68% (−5), Fed hike Oct. 28 19% → 16% (−3). Polymarket has a 63% Dem sweep; Kalshi 61%. ~$3.1B traded across 9 exchanges in 24h .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "links": [
-        {
-          "label": "DeFi Rate",
-          "url": "https://defirate.com/?s"
-        },
-        {
-          "label": "NorthJersey",
-          "url": "https://www.northjersey.com/story/news/2026/10/09/who-is-winning-midterm-election-2026-midterms-polls-odds-forecasts-congress-house-senate-races/92150963007/"
-        }
-      ],
-      "published": "2026-10-09T17:55:17.675142+00:00",
-      "source": "2026-10-09_1354-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt-3",
-      "title": "Insider-trading bills advance: Torres formally introduces Friday",
-      "summary": "The Public Integrity in Financial Prediction Markets Act of 2026 was introduced today with 30+ Democratic co-sponsors including Pelosi, Carson and Tlaib, barring federal officials/staff from trading event contracts tied to government action on MNPI; companion Senate version from Merkley/Klobuchar cites the ~$400k Maduro-contract win .",
-      "tags": [
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633"
-        }
-      ],
-      "published": "2026-10-09T17:55:17.675142+00:00",
-      "source": "2026-10-09_1354-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt-4",
-      "title": "BTC rebounds to ~$82,700 ahead of $2.16B options expiry",
-      "summary": "BTC ~$82,704 (+2.6% on the day, off lows near $80,300) and ETH ~$2,486 (+3%) after ~$2.16B in BTC/ETH options settled 08:00 UTC today, both trading below cited max-pain levels; spot BTC ETFs saw $487M net outflows Wednesday and combined BTC+ETH ETF outflows hit $648M; October is defying its \"Uptober\" reputation with BTC down ~1.35% MTD as the 10Y hits 5.33%, a 24-year high .",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "ETF"
-      ],
-      "links": [
-        {
-          "label": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated?post-id=593daa59a5e9"
-        },
-        {
-          "label": "CryptoTimes",
-          "url": "https://www.cryptotimes.io/2026/10/09/bitcoin-ethereum-options-expiry-2-16b-settles-today-as-btc-trades-below-84k-max-pain/"
-        },
-        {
-          "label": "Baystreet",
-          "url": "http://baystreet.ca/articles/CryptoNews.aspx"
-        }
-      ],
-      "published": "2026-10-09T17:55:17.675142+00:00",
-      "source": "2026-10-09_1354-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt-5",
-      "title": "Macro: gold at records, oil choppy on Iran signals",
-      "summary": "Gold futures +1.5% to ~$4,215; WTI ~$91.65 and Brent ~$104.35 as Trump pledged no Iran strike before the Nov. 3 midterms while keeping the blockade \"in full force\"; 10Y ~5.26% .",
-      "tags": [
-        "Gold",
-        "Oil"
-      ],
-      "links": [
-        {
-          "label": "Investopedia",
-          "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
-        }
-      ],
-      "published": "2026-10-09T17:55:17.675142+00:00",
-      "source": "2026-10-09_1354-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt-6",
-      "title": "Kalshi live commodity odds",
-      "summary": "Monthly Brent \"above $103.99\" 4.73x, \"above $101.99\" 1.29x ($107k vol); monthly gold \"above $4,181.99\" 1.33x, \"above $4,201.99\" 3.40x ($51k vol); natgas \"above $3.299\" 1.04x ($140k vol); daily silver \"above $59.99\" 1.02x ($14k vol); daily copper \"above $6.72\" 1.60x .",
-      "tags": [
-        "Kalshi",
-        "Gold",
-        "Silver",
-        "Oil",
-        "Natural Gas",
-        "Copper"
-      ],
-      "links": [
-        {
-          "label": "Kalshi commodities",
-          "url": "https://kalshi.com/category/commodities"
-        }
-      ],
-      "published": "2026-10-09T17:55:17.675142+00:00",
-      "source": "2026-10-09_1354-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1254-edt-0",
-      "title": "Torres formally introduces insider-trading bill Friday, backed by Pelosi",
-      "summary": "The Public Integrity in Financial Prediction Markets Act of 2026 was introduced with 30+ Democratic co-sponsors including former Speaker Nancy Pelosi, Rep. Andre Carson and Rep. Rashida Tlaib; it bars federal elected officials, appointees, executive staff and congressional aides from trading event contracts tied to government action when holding or able to reasonably obtain material nonpublic information. Torres: \"all the hallmarks of potential insider trading.\" Kalshi says it already prohibits MNPI-based trading .",
-      "tags": [
-        "Kalshi"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633"
-        }
-      ],
-      "published": "2026-10-09T16:55:44.746619+00:00",
-      "source": "2026-10-09_1254-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1254-edt-1",
-      "title": "Senate version from Merkley/Klobuchar; Murphy bill coming too",
-      "summary": "Sens. Merkley and Klobuchar's companion proposal would bar government officials from trading prediction markets and strengthen the CFTC's power to go after bad actors, citing the ~$400k Maduro-contract win and similar suspect Iran-linked trades; last month Israeli authorities brought securities charges over Polymarket trades on Iran military actions. Sen. Murphy (D-CT) plans his own bill this month targeting \"mention\" markets on government actions, while leaving economic derivatives untouched .",
-      "tags": [
-        "Polymarket",
-        "Senate",
-        "CFTC"
-      ],
-      "links": [
-        {
-          "label": "GambleRss",
-          "url": "https://gamblerss.com/merkley-klobuchar-want-to-ban-government-officials-from-trading-on-prediction-markets-58898"
-        }
-      ],
-      "published": "2026-10-09T16:55:44.746619+00:00",
-      "source": "2026-10-09_1254-edt.md"
-    },
-    {
-      "id": "infiniti-2026-10-09_1254-edt-2",
-      "title": "Iowa Senate: markets still back Hinson despite fresh polling",
-      "summary": "Polymarket has Hinson YES 54¢ / Turek 46¢ and Kalshi 56¢ / 44¢ even as late-September Fox News polling showed Turek up two; Polymarket shaved Turek 3¢ while Kalshi barely moved. Watch Trump/Obama trail activity, Beacon/Shaw and Emerson polls, and late fundraising before Nov. 3 .",
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "links": [
-        {
-          "label": "Action Network",
-          "url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
-        }
-      ],
-      "published": "2026-10-09T16:55:44.746619+00:00",
-      "source": "2026-10-09_1254-edt.md"
     }
   ]
 }
