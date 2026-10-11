@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T16:56:07.791315-04:00",
+  "updated": "2026-10-11T17:56:11.297184-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_1754-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 5:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNFC division odds reshuffle: Eagles -15 pts, Vikings take NFC North lead\nAfter the London loss, Philadelphia fell 15 points to 36-38% to win the NFC East on Kalshi/Polymarket, level with Dallas at 36-38% (+9) and with the Giants up 7 to…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nLate window live: 49ers lead Seahawks 14-13 late in Q2, flipping the pregame board\nSan Francisco, priced as the underdog at ~39-41%, leads Seattle 14-13 near halftime at Lumen Field after a Christian McCaffrey touchdown off a fumble recovery; Seattle…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://sportradar.com/?q=1798477776833878236\n\nMarkets: Gold $4,195 | Brent $104.72 | WTI $92.40 | BTC $83,000\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T17:54:00-04:00",
+      "source": "2026-10-11_1754-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_1654-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T04:54:00-04:00",
       "source": "2026-10-09_0454-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 3:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — no new prediction-markets headlines\nNothing new has broken in the last hour; all of today's top items (the NFL's amicus backing New Jersey's Supreme Court petition, the $3M lobbying analysis, FCA's UK…\n#PredictionMarkets #NFL #SCOTUS #FCA\n\n$1.19B crypto liquidation flush hits ether 6x harder than bitcoin\nCoinDesk reports over $1B of liquidations were longs in the last 24h; ether saw ~$356M in wipeouts vs bitcoin's ~$298M — about 6x bitcoin's rate relative to market cap,…\n#PredictionMarkets #Bitcoin\nhttps://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush\n\nMarkets: Gold $4,178 | Brent $103.0 | WTI $90.4 | BTC $82.5k\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T03:54:00-04:00",
-      "source": "2026-10-09_0354-edt.md",
       "matches_facebook_post": false
     }
   ]
