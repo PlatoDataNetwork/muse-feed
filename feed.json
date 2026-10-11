@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T08:55:27.266548-04:00",
+  "updated": "2026-10-11T09:56:59.475556-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_0954-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 9:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nBrazil bans prediction markets nationwide\nThe Banco Central do Brasil and National Monetary Council published Resolution №5,298, strictly prohibiting derivative contracts linked to sports, politics, gaming,…\n#PredictionMarkets #Polymarket\nhttps://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi\n\nWSJ: Kalshi and Polymarket eyeing $20bn valuations in new funding talks\nBoth companies are in early-stage talks with investors targeting ~$20bn valuations, per the Wall Street Journal. Kalshi last closed a $1bn Series E in December at an…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nMarkets: Gold $4,193.60 | Brent $105 | WTI $92.40 | BTC $83,053\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T09:54:00-04:00",
+      "source": "2026-10-11_0954-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_0854-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-08T20:54:00-04:00",
       "source": "2026-10-08_2054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_1954-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 8, 2026 · 7:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nSpain regulator opens probe into Polymarket & Kalshi\nSpain's regulator launched a formal investigation into both platforms over suspected law breaches, with a decision expected in roughly 3–4 months; it caps a bruising…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://coinsnews.com/polymarket-kalshi-hit-new-roadblock-in-spain-regulator-opens-probe-over-law-breaches\n\nKalshi names and suspends three candidates for trading on themselves\nKalshi fined two candidates $784 and $540 with 5-year suspensions, and a third — a Virginia state-senate candidate who admitted trading on himself deliberately to \"prove…\n#PredictionMarkets #Kalshi #Senate\nhttps://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-08T19:54:00-04:00",
-      "source": "2026-10-08_1954-edt.md",
       "matches_facebook_post": false
     }
   ]
