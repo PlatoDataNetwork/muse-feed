@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T14:55:49.813182-04:00",
+  "updated": "2026-10-11T15:55:25.946098-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_1554-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 3:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nMidterm \"knowable markets\" face insider-trading scrutiny\nA CNN-reported analysis by the Anti-Corruption Data Collective flags Kalshi and Polymarket contracts on hyper-specific, advance-knowable events — candidate withdrawals,…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\n69.2% of Polymarket retail accounts are losing money\nGalaxy Research analysis cited alongside the Q3 volume record finds 69.2% of 2.9M human retail accounts on Polymarket finished below break-even, with $338.9M in…\n#PredictionMarkets #Polymarket\nhttps://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc\n\nMarkets: Gold $4,205 | Brent $104.42 | WTI $104.42 | BTC $83,027\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T15:54:00-04:00",
+      "source": "2026-10-11_1554-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_1454-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T02:54:00-04:00",
       "source": "2026-10-09_0254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0154-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 1:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet overnight; NFL's SCOTUS amicus remains the lead story\nNo fresh developments in the last hour. The league's friend-of-the-court brief backing New Jersey's cert petition in *Flaherty v. KalshiEX* — arguing CFTC staffing (543…\n#PredictionMarkets #NFL #CFTC\nhttps://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/\n\nSenate 2026 boards steady into Nov. 3\nIowa still the toss-up to watch: Hinson 54¢/Turek 46¢ on Polymarket, 56¢/44¢ on Kalshi, with the poll-vs-market disconnect persisting (late-September polls had Turek up…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-predictions\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T01:54:00-04:00",
-      "source": "2026-10-09_0154-edt.md",
       "matches_facebook_post": false
     }
   ]
