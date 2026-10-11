@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T13:55:49.814717-04:00",
+  "updated": "2026-10-11T14:55:49.813182-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_1454-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 2:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nJaguars beat Eagles 19-17 in London, AFC South odds jump 11 pts\nJacksonville won on a 57-yard field goal at the buzzer to go 4-1, settling Polymarket's $6.3M game market that had tightened to 55¢ Jaguars / 46¢ Eagles in live trade.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://sportradar.com/?q=4893668925644990726\n\nPrediction markets did $188B in Q3, up ~70% quarter-on-quarter\nCryptoRank data cited by CCN puts Q3 2026 volume at $188B, 21 times Q3 2025, with Kalshi the main growth driver and sports about 40% of its quarterly volume. Scale is…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.ccn.com/news/crypto/prediction-markets-188-billion-cftc-rules/\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,040\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T14:54:00-04:00",
+      "source": "2026-10-11_1454-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_1354-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T01:54:00-04:00",
       "source": "2026-10-09_0154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 12:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nNFL files SCOTUS amicus urging prediction markets be ruled gambling apps\nThe league's brief backs New Jersey's cert petition in *Flaherty v. KalshiEX*, joined by AGs of 39 states + DC, arguing football accounted for $1.8B in prediction-market…\n#PredictionMarkets #NFL #CFTC\nhttps://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/\n\nOpenSecrets: prediction markets spent $3M+ lobbying this year\nKalshi, Polymarket and the Coalition for Prediction Markets' spending across federal and state levels includes Kalshi lobbyists in 41 states, six-figure donations to…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://usa-today-news.com/news/prediction-markets-spend-millions-to-influence-state-federal-governments/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T00:54:00-04:00",
-      "source": "2026-10-09_0054-edt.md",
       "matches_facebook_post": false
     }
   ]
