@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T01:54:44.724001-04:00",
+  "updated": "2026-10-11T02:55:25.484160-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_0254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 2:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — Tennessee cease-and-desist trio is the latest state move\nNo new headline broke in the last hour; the most recent state action is Tennessee's Sports Wagering Council ordering Kalshi, Polymarket and Crypto.com to stop offering…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845\n\nFederal judge blocks Minnesota's proposed ban\nIn the opposite direction, a federal judge blocked enforcement of Minnesota's prediction-market ban, finding the statute is likely at least partially preempted by the…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705\n\nMarkets: Gold $4,194.65 | Brent $105 | WTI $92.40 | BTC $82,900\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-11T02:54:00-04:00",
+      "source": "2026-10-11_0254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_0154-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-08T13:54:00-04:00",
       "source": "2026-10-08_1354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_1254-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 8, 2026 · 12:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi and Polymarket have flagged 100+ potential insider-trading cases in 2026, CFTC slow to act\nKalshi flagged ~50 instances and Polymarket ~90, in the US and overseas, but a pared-down CFTC (Chicago bureau lost all trial attorneys, cost cuts) has been slow to…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593\n\nPrediction-market volume hit a record $188B in Q3 as CFTC pushes clearer rules\nvolume up ~70% QoQ and 21x YoY, with Kalshi driving the growth and sports ~40% of its volume; CryptoRank tracked ~$1.4B in combined open interest. Chairman Selig's CFTC…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.ccn.com/news/crypto/prediction-markets-188-billion-cftc-rules/\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-10-08T12:54:00-04:00",
-      "source": "2026-10-08_1254-edt.md",
       "matches_facebook_post": false
     }
   ]
