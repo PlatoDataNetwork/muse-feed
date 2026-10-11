@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-10T23:54:59.894282-04:00",
+  "updated": "2026-10-11T01:08:05.101239-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_0054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 12:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — Kalshi $22B raise remains the lead story\nNo new headline broke overnight; the latest confirmed move is Kalshi closing $1B led by Coatue Management at a $22B valuation, roughly double its December $11B round,…\n#PredictionMarkets #Kalshi\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nNBA talks advance to deal terms\nFollow-up reporting says the NBA has circulated a proposal and terms are on the table, with Kalshi, Polymarket, Novig, Fanatics and Rothera (Robinhood/Susquehanna) all…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://gamblerss.com/deal-terms-on-the-table-inside-the-nba-s-prediction-market-talks-68716\n\nMarkets: Gold $4,194 | Brent $104.42 | WTI $91.7 | BTC $83,015\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-11T00:54:00-04:00",
+      "source": "2026-10-11_0054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-10_2354-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 10, 2026 · 11:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi raised $1B at a $22B valuation\nWSJ reports investors led by Coatue Management joined the latest financing round, doubling Kalshi's valuation in under four months from December's $11B (Paradigm-led)…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/kalshi-raises-1-billion-sends-valuation-soaring-to-22-billion-59903\n\nJump Trading takes stakes in Kalshi and Polymarket for market-making\nBloomberg reports the prop trading house will receive a fixed equity stake in Kalshi, while its Polymarket stake could grow if capacity targets are met; Susquehanna has…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nMarkets: Gold $4,100 | Brent $104 | WTI $91.7 | BTC $83,500\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nKalshi raised $1B at a $22B valuation\nWSJ reports Coatue-led investors joined the round, doubling Kalshi's valuation in under four months from $11B.\n#Kalshi #PredictionMarkets #Fintech\nhttps://gamblerss.com/kalshi-raises-1-billion-sends-valuation-soaring-to-22-billion-59903\n\nJump Trading takes stakes in Kalshi and Polymarket\nBloomberg reports Jump will receive a fixed equity stake in Kalshi, with its Polymarket stake tied to capacity targets.\n#JumpTrading #Kalshi #Polymarket\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nNBA in talks with Kalshi and Polymarket\nFront Office Sports reports talks ramped up as the CFTC engaged leagues on sports-market integrity rules.\n#NBA #Kalshi #Polymarket\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nMarkets: Gold $4,100 | Brent $104 | BTC $83.5K | ETH down 5%\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-10_2354-edt.jpg",
       "published": "2026-10-10T23:54:00-04:00",
       "source": "2026-10-10_2354-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-10_2254-edt",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-08T11:54:00-04:00",
       "source": "2026-10-08_1154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_1054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 8, 2026 · 10:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi fined three political candidates for trading on themselves\ntwo Democrats and one Republican — in its latest insider-trading enforcement push; two accepted five-year suspensions and small fines ($784.20, $539.85). A Virginia…\n#PredictionMarkets #Kalshi #Senate\nhttps://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024\n\nPolymarket beat the polls in Brazil's first round\nFlávio Bolsonaro took 47.03% over Lula's 45.16%, the ordering Polymarket had priced for weeks while late polls showed a near tie; the race now heads to an Oct 25 runoff.\n#PredictionMarkets #Polymarket\nhttps://www.crowdfundinsider.com/2026/10/315779-prediction-markets-polymarket-beat-traditional-polls-in-the-brazilian-election/\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-10-08T10:54:00-04:00",
-      "source": "2026-10-08_1054-edt.md",
       "matches_facebook_post": false
     }
   ]
