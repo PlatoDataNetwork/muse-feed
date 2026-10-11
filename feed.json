@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T02:55:25.484160-04:00",
+  "updated": "2026-10-11T03:55:07.336895-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_0354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 3:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — no new headline since the state C&D wave\nNothing broke in the last hour; the latest state actions remain Tennessee's cease-and-desist orders to Kalshi, Polymarket and Crypto.com and the federal block of…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/connecticut-sues-kalshi-for-offering-unlicensed-sports-wagers-68289\n\nKalshi wins Third Circuit appeal vs. New Jersey\nA 2–1 panel ruled New Jersey cannot block Kalshi from offering sports event contracts in the state, finding the products fall under the CFTC's exclusive jurisdiction as…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-wins-key-legal-battle-against-new-jersey-regulators-61130\n\nMarkets: Gold $4,194.65 | Brent $105 | WTI $92.40 | BTC $82,900\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-11T03:54:00-04:00",
+      "source": "2026-10-11_0354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_0254-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-08T14:54:00-04:00",
       "source": "2026-10-08_1454-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_1354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 8, 2026 · 1:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nCombined prediction-market volume hit an all-time high of $50.59B in July\nup 7.8% MoM per The Block, with Kalshi at $37.7B (+14%); Polymarket US surged 54% to $5B as the waitlist fully opened, while offshore Polymarket contracted 26% to $7.9B.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019\n\nUK's FCA says it is \"engaging\" with prediction-market platforms as Kalshi and Polymarket line up UK entries\nexecutive director Simon Walls said at the watchdog's Oct 6 annual public meeting that the FCA is \"interested in their plans for the UK\" and weighing a relaxation of the…\n#PredictionMarkets #Kalshi #Polymarket #FCA\nhttps://www.fnlondon.com/articles/fca-engaging-with-prediction-markets-as-polymarket-and-kalshi-mull-uk-entry-0a23856e\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-10-08T13:54:00-04:00",
-      "source": "2026-10-08_1354-edt.md",
       "matches_facebook_post": false
     }
   ]
