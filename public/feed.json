@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T01:08:05.101239-04:00",
+  "updated": "2026-10-11T01:54:44.724001-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_0154-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 1:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — midterm insider-trading scrutiny is the latest development\nNo new headline broke in the last hour; the most recent is fresh scrutiny of Kalshi and Polymarket midterm markets, with the Anti-Corruption Data Collective (via CNN)…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\nKalshi $22B raise and NBA talks still lead\nKalshi's $1B raise at a $22B valuation remains the sector's biggest corporate move, while NBA prediction-market talks have advanced to deal terms with Kalshi,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nMarkets: Gold $4,130 | Brent $104 | WTI $92 | BTC $83,064\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-11T01:54:00-04:00",
+      "source": "2026-10-11_0154-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_0054-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 11, 2026 · 12:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — Kalshi $22B raise remains the lead story\nNo new headline broke overnight; the latest confirmed move is Kalshi closing $1B led by Coatue Management at a $22B valuation, roughly double its December $11B round,…\n#PredictionMarkets #Kalshi\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nNBA talks advance to deal terms\nFollow-up reporting says the NBA has circulated a proposal and terms are on the table, with Kalshi, Polymarket, Novig, Fanatics and Rothera (Robinhood/Susquehanna) all…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://gamblerss.com/deal-terms-on-the-table-inside-the-nba-s-prediction-market-talks-68716\n\nMarkets: Gold $4,194 | Brent $104.42 | WTI $91.7 | BTC $83,015\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nKalshi $22B raise remains the lead story\nKalshi closed $1B led by Coatue at a $22B valuation, double its December $11B round.\n#PredictionMarkets #Kalshi\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nNBA talks advance to deal terms\nThe NBA has circulated a proposal with Kalshi, Polymarket, Novig, Fanatics and Rothera in talks.\n#NBA #PredictionMarkets\nhttps://gamblerss.com/deal-terms-on-the-table-inside-the-nba-s-prediction-market-talks-68716\n\nMidterm sweep odds hold at 61-62% for Democrats\nPolymarket prices a Democratic sweep at 62%; Kalshi is near-identical at 61%.\n#Midterms #Polymarket #Kalshi\nhttps://news.bitcoin.com/featured/polymarket-gives-dems-62-midterm-sweep-odds-clarity-act-in-jeopardy/\n\nMarkets: Gold $4,194 | Brent $104.42 | BTC $83,015 | ETH $2,508\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_0054-edt.jpg",
       "published": "2026-10-11T00:54:00-04:00",
       "source": "2026-10-11_0054-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-10_2354-edt",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-08T12:54:00-04:00",
       "source": "2026-10-08_1254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_1154-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 8, 2026 · 11:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi and Polymarket eyeing ~$20bn valuations in new funding rounds\nper WSJ, both platforms are in early investor talks at 10-figure valuations. Comes after Kalshi's December Series E ($1bn at $11bn) and Polymarket's ~$2bn ICE investment…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nRep. Ritchie Torres fast-tracking federal insider-trading bill after Maduro trades\na newly created anonymous account made >$400k in under 24 hours on Polymarket betting Nicolás Maduro would be removed from power; Torres plans to introduce his Public…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/venezuela-trades-not-sports-drive-new-prediction-market-legislation-53146\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-10-08T11:54:00-04:00",
-      "source": "2026-10-08_1154-edt.md",
       "matches_facebook_post": false
     }
   ]
