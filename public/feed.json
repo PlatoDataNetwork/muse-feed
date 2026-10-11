@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T15:55:25.946098-04:00",
+  "updated": "2026-10-11T16:56:07.791315-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_1654-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 4:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nJump Trading to take small stakes in Kalshi and Polymarket for liquidity\nBloomberg reporting via GambleRss says the prop trading house will receive a set amount of equity in Kalshi, while its Polymarket stake can expand if it hits…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nEarly window settles: Patriots rout Raiders 45-17, Packers rout Bears 31-7\nNew England covered its prediction-market pricing (Kalshi ~62%, Polymarket ~64% pregame) with Drake Maye accounting for five touchdowns in Foxborough. Green Bay flipped…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.reuters.com/sports/nfl/patriots-rout-raiders-drake-maye-5-total-tds-leads-attack--flm-2026-10-11/\n\nMarkets: Gold $4,205 | Brent $104.42 | WTI $104.42 | BTC $83,700\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T16:54:00-04:00",
+      "source": "2026-10-11_1654-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_1554-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T03:54:00-04:00",
       "source": "2026-10-09_0354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0254-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 2:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\n$3M lobbying push goes public\nKalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M in 2026 on lobbying and campaign contributions at federal/state level, per an OpenSecrets…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://usa-today-news.com/news/prediction-markets-spend-millions-to-influence-state-federal-governments/\n\nNFL amicus remains the lead legal item\nThe league's amicus brief backs New Jersey's cert petition in *Flaherty v. KalshiEX*, telling the court \"billions of dollars in NFL wagers\" have already been placed on…\n#PredictionMarkets #Polymarket #NFL #CFTC\nhttps://foxnews.com/outkick-sports/nfl-calls-prediction-markets-form-sports-gambling-urges-courts-let-states-regulate\n\nMarkets: Gold $4,169 | Brent $101.53 | WTI $92.71 | BTC $80.4k\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T02:54:00-04:00",
-      "source": "2026-10-09_0254-edt.md",
       "matches_facebook_post": false
     }
   ]
