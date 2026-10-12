@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 60,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline (website Intelligence Feed)",
-  "updated": "2026-10-12T11:57:34.330362-04:00",
+  "updated": "2026-10-12T12:58:31.852551-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -165,8 +165,8 @@
       "id": "infiniti-2026-10-12_1054-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1054-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nMichigan Senate (Dem) slips to 68%, down 6 points in 7 days — biggest move on the board\nDeFi Rate's Oct. 12 snapshot, observed 10:52 AM ET, puts the Michigan Senate Democratic contract at 68% on Kalshi, down from 74%, the largest 7-day move across tracked…\n#PredictionMarkets #Kalshi #Senate\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms at 84% on Polymarket ($32.1M traded); December hike at 75%\nPolymarket's market of the day prices no change at 84%, a 25bp hike at 17% and a cut at 1% for the Oct. 28 decision, with traders pushing the expected second hike to…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026\n\nMarkets: Gold $4,200 | Brent $107 | WTI $93.85 | BTC $82,900\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Michigan Senate (Dem) slips to 68%, down 6 points in 7 days — biggest move on the board<br/>DeFi Rate&#x27;s Oct. 12 snapshot, observed 10:52 AM ET, puts the Michigan Senate Democratic contract at 68% on Kalshi, down from 74%, the largest 7-day move across tracked…<br/>#PredictionMarkets #Kalshi #Senate<br/>https://defirate.com/?ref=steemhunt<br/><br/>Fed October hold firms at 84% on Polymarket ($32.1M traded); December hike at 75%<br/>Polymarket&#x27;s market of the day prices no change at 84%, a 25bp hike at 17% and a cut at 1% for the Oct. 28 decision, with traders pushing the expected second hike to…<br/>#PredictionMarkets #Polymarket<br/>https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026<br/><br/>Markets: Gold $4,200 | Brent $107 | WTI $93.85 | BTC $82,900<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nMichigan Senate Dem slips to 68%, down 6 pts in 7 days\nKalshi contract down from 74% — largest 7-day move across tracked markets.\n#Michigan #Senate #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms at 84% on Polymarket\nNo change priced at 84% for Oct. 28, hike at 17%; December hike at 75% ahead of CPI.\n#Fed #Polymarket #PredictionMarkets\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026\n\nJaguars surge clear in AFC South at 72-73%\nJacksonville at 72% Kalshi, 73% Polymarket, up 10 pts, clear of Houston at 16%/14%.\n#NFL #Jaguars #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nMarkets: Gold $4,180 | Brent $107 | BTC $82.9K | ETH $2,533\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Michigan Senate Dem slips to 68%, down 6 pts in 7 days<br/>Kalshi contract down from 74% — largest 7-day move across tracked markets.<br/>#Michigan #Senate #Kalshi<br/>https://defirate.com/?ref=steemhunt<br/><br/>Fed October hold firms at 84% on Polymarket<br/>No change priced at 84% for Oct. 28, hike at 17%; December hike at 75% ahead of CPI.<br/>#Fed #Polymarket #PredictionMarkets<br/>https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026<br/><br/>Jaguars surge clear in AFC South at 72-73%<br/>Jacksonville at 72% Kalshi, 73% Polymarket, up 10 pts, clear of Houston at 16%/14%.<br/>#NFL #Jaguars #Kalshi<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>Markets: Gold $4,180 | Brent $107 | BTC $82.9K | ETH $2,533<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_1054-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-12T10:54:00-04:00",
       "date_modified": "2026-10-12T10:54:00-04:00",
       "authors": [
@@ -176,23 +176,28 @@
         }
       ],
       "tags": [
-        "PredictionMarkets",
-        "Kalshi",
+        "Michigan",
         "Senate",
-        "Polymarket"
+        "Kalshi",
+        "Fed",
+        "Polymarket",
+        "PredictionMarkets",
+        "NFL",
+        "Jaguars"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_1054-edt.jpg",
       "external_url": "https://defirate.com/?ref=steemhunt",
       "links": [
         "https://defirate.com/?ref=steemhunt",
-        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026"
+        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026",
+        "https://ipredicta.co/insights/nfl-division-winners-2026/"
       ],
       "timestamp": "Oct 12, 2026 · 10:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nMichigan Senate (Dem) slips to 68%, down 6 points in 7 days — biggest move on the board\nDeFi Rate's Oct. 12 snapshot, observed 10:52 AM ET, puts the Michigan Senate Democratic contract at 68% on Kalshi, down from 74%, the largest 7-day move across tracked…\n#PredictionMarkets #Kalshi #Senate\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms at 84% on Polymarket ($32.1M traded); December hike at 75%\nPolymarket's market of the day prices no change at 84%, a 25bp hike at 17% and a cut at 1% for the Oct. 28 decision, with traders pushing the expected second hike to…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026\n\nMarkets: Gold $4,200 | Brent $107 | WTI $93.85 | BTC $82,900\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nMichigan Senate Dem slips to 68%, down 6 pts in 7 days\nKalshi contract down from 74% — largest 7-day move across tracked markets.\n#Michigan #Senate #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms at 84% on Polymarket\nNo change priced at 84% for Oct. 28, hike at 17%; December hike at 75% ahead of CPI.\n#Fed #Polymarket #PredictionMarkets\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026\n\nJaguars surge clear in AFC South at 72-73%\nJacksonville at 72% Kalshi, 73% Polymarket, up 10 pts, clear of Houston at 16%/14%.\n#NFL #Jaguars #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nMarkets: Gold $4,180 | Brent $107 | BTC $82.9K | ETH $2,533\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_1054-edt.jpg",
       "published": "2026-10-12T10:54:00-04:00",
       "source": "2026-10-12_1054-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-12_0954-edt",
