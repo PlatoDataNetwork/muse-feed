@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T17:03:12.817072-04:00",
+  "updated": "2026-10-12T17:33:27.384904-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,126 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-12_1730-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1730-edt-0",
+      "title": "Polymarket and Kalshi founders launch 5c(c) Capital fund for prediction-market startups",
+      "content_text": "- **Polymarket and Kalshi founders launch 5c(c) Capital fund for prediction-market startups** — Polymarket CEO Shayne Coplan and Kalshi co-founder Tarek Mansour are launching 5c(c) Capital, a venture fund named after the Commodity Exchange Act section governing prediction markets. The fund targets up to $35 million across roughly 20 early-stage investments in data analytics, liquidity, and compliance startups built around prediction market infrastructure. ([TokenPost](https://www.tokenpost.com/news/business/19235))",
+      "content_html": "<p>- **Polymarket and Kalshi founders launch 5c(c) Capital fund for prediction-market startups** — Polymarket CEO Shayne Coplan and Kalshi co-founder Tarek Mansour are launching 5c(c) Capital, a venture fund named after the Commodity Exchange Act section governing prediction markets. The fund targets up to $35 million across roughly 20 early-stage investments in data analytics, liquidity, and compliance startups built around prediction market infrastructure. ([TokenPost](https://www.tokenpost.com/news/business/19235))</p>",
+      "date_published": "2026-10-12T17:32:29-04:00",
+      "date_modified": "2026-10-12T17:32:29-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.tokenpost.com/news/business/19235",
+      "links": [
+        "https://www.tokenpost.com/news/business/19235"
+      ],
+      "timestamp": "Oct 12, 2026 · 5:32 PM ET",
+      "body": "- **Polymarket and Kalshi founders launch 5c(c) Capital fund for prediction-market startups** — Polymarket CEO Shayne Coplan and Kalshi co-founder Tarek Mansour are launching 5c(c) Capital, a venture fund named after the Commodity Exchange Act section governing prediction markets. The fund targets up to $35 million across roughly 20 early-stage investments in data analytics, liquidity, and compliance startups built around prediction market infrastructure. ([TokenPost](https://www.tokenpost.com/news/business/19235))",
+      "image_url": null,
+      "published": "2026-10-12T17:32:29-04:00",
+      "source": "2026-10-12_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1730-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1730-edt-1",
+      "title": "Kalshi hires former FBI agent to lead anti-money-laundering efforts",
+      "content_text": "- **Kalshi hires former FBI agent to lead anti-money-laundering efforts** — Kalshi has hired a former FBI agent to lead its anti-money-laundering efforts as regulatory scrutiny of the prediction-market industry intensifies alongside surging trading volumes. The move reflects growing compliance expectations for real-money platforms that now straddle financial-exchange and wagering categories. ([Complete iGaming](https://completeigaming.com/kalshi-hires-former-fbi-agent-to-lead-anti-money-laundering-efforts/))",
+      "content_html": "<p>- **Kalshi hires former FBI agent to lead anti-money-laundering efforts** — Kalshi has hired a former FBI agent to lead its anti-money-laundering efforts as regulatory scrutiny of the prediction-market industry intensifies alongside surging trading volumes. The move reflects growing compliance expectations for real-money platforms that now straddle financial-exchange and wagering categories. ([Complete iGaming](https://completeigaming.com/kalshi-hires-former-fbi-agent-to-lead-anti-money-laundering-efforts/))</p>",
+      "date_published": "2026-10-12T17:32:29-04:00",
+      "date_modified": "2026-10-12T17:32:29-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://completeigaming.com/kalshi-hires-former-fbi-agent-to-lead-anti-money-laundering-efforts/",
+      "links": [
+        "https://completeigaming.com/kalshi-hires-former-fbi-agent-to-lead-anti-money-laundering-efforts/"
+      ],
+      "timestamp": "Oct 12, 2026 · 5:32 PM ET",
+      "body": "- **Kalshi hires former FBI agent to lead anti-money-laundering efforts** — Kalshi has hired a former FBI agent to lead its anti-money-laundering efforts as regulatory scrutiny of the prediction-market industry intensifies alongside surging trading volumes. The move reflects growing compliance expectations for real-money platforms that now straddle financial-exchange and wagering categories. ([Complete iGaming](https://completeigaming.com/kalshi-hires-former-fbi-agent-to-lead-anti-money-laundering-efforts/))",
+      "image_url": null,
+      "published": "2026-10-12T17:32:29-04:00",
+      "source": "2026-10-12_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1730-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1730-edt-2",
+      "title": "FCA confirms talks as Polymarket and Kalshi explore UK entry",
+      "content_text": "- **FCA confirms talks as Polymarket and Kalshi explore UK entry** — The UK's Financial Conduct Authority has confirmed talks with Polymarket and Kalshi as both platforms explore entering the British market. A UK launch would require navigating both FCA rules on financial contracts and the Gambling Commission's stance on sports and political markets. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))",
+      "content_html": "<p>- **FCA confirms talks as Polymarket and Kalshi explore UK entry** — The UK&#x27;s Financial Conduct Authority has confirmed talks with Polymarket and Kalshi as both platforms explore entering the British market. A UK launch would require navigating both FCA rules on financial contracts and the Gambling Commission&#x27;s stance on sports and political markets. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))</p>",
+      "date_published": "2026-10-12T17:32:29-04:00",
+      "date_modified": "2026-10-12T17:32:29-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "FCA"
+      ],
+      "image": null,
+      "external_url": "https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/",
+      "links": [
+        "https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/"
+      ],
+      "timestamp": "Oct 12, 2026 · 5:32 PM ET",
+      "body": "- **FCA confirms talks as Polymarket and Kalshi explore UK entry** — The UK's Financial Conduct Authority has confirmed talks with Polymarket and Kalshi as both platforms explore entering the British market. A UK launch would require navigating both FCA rules on financial contracts and the Gambling Commission's stance on sports and political markets. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))",
+      "image_url": null,
+      "published": "2026-10-12T17:32:29-04:00",
+      "source": "2026-10-12_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1730-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1730-edt-3",
+      "title": "Ninth Circuit ruling against Kalshi in Nevada brings Supreme Court fight closer",
+      "content_text": "- **Ninth Circuit ruling against Kalshi in Nevada brings Supreme Court fight closer** — The Ninth Circuit unanimously ruled Friday that Nevada can enforce its gambling laws against Kalshi, rejecting the company's broad reading of the Commodity Exchange Act and clearing the way for states to restrict sports event contracts. The decision brings a Supreme Court fight over the industry's future one step closer. ([GambleRss](https://gamblerss.com/what-kalshi-s-big-court-loss-means-for-prediction-markets-68486))",
+      "content_html": "<p>- **Ninth Circuit ruling against Kalshi in Nevada brings Supreme Court fight closer** — The Ninth Circuit unanimously ruled Friday that Nevada can enforce its gambling laws against Kalshi, rejecting the company&#x27;s broad reading of the Commodity Exchange Act and clearing the way for states to restrict sports event contracts. The decision brings a Supreme Court fight over the industry&#x27;s future one step closer. ([GambleRss](https://gamblerss.com/what-kalshi-s-big-court-loss-means-for-prediction-markets-68486))</p>",
+      "date_published": "2026-10-12T17:32:29-04:00",
+      "date_modified": "2026-10-12T17:32:29-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/what-kalshi-s-big-court-loss-means-for-prediction-markets-68486",
+      "links": [
+        "https://gamblerss.com/what-kalshi-s-big-court-loss-means-for-prediction-markets-68486"
+      ],
+      "timestamp": "Oct 12, 2026 · 5:32 PM ET",
+      "body": "- **Ninth Circuit ruling against Kalshi in Nevada brings Supreme Court fight closer** — The Ninth Circuit unanimously ruled Friday that Nevada can enforce its gambling laws against Kalshi, rejecting the company's broad reading of the Commodity Exchange Act and clearing the way for states to restrict sports event contracts. The decision brings a Supreme Court fight over the industry's future one step closer. ([GambleRss](https://gamblerss.com/what-kalshi-s-big-court-loss-means-for-prediction-markets-68486))",
+      "image_url": null,
+      "published": "2026-10-12T17:32:29-04:00",
+      "source": "2026-10-12_1730-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-12_1700-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1700-edt-0",
