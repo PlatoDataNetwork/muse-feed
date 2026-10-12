@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T18:03:38.568775-04:00",
+  "updated": "2026-10-12T18:19:12.942222-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,120 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-12_1815-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1815-edt-0",
+      "title": "New York sues to ban Polymarket as unlicensed illegal gambling",
+      "content_text": "- **New York sues to ban Polymarket as unlicensed illegal gambling** — New York Attorney General Letitia James and Governor Kathy Hochul filed a lawsuit seeking to ban Polymarket in the state, calling the crypto-based prediction platform an unlicensed illegal gambling operation. The case pits decentralized prediction markets directly against state gambling regulators. ([WeeBet](https://weebet.com/news/new-york-lawsuit-polymarket-illegal-gambling-ban-2026))",
+      "content_html": "<p>- **New York sues to ban Polymarket as unlicensed illegal gambling** — New York Attorney General Letitia James and Governor Kathy Hochul filed a lawsuit seeking to ban Polymarket in the state, calling the crypto-based prediction platform an unlicensed illegal gambling operation. The case pits decentralized prediction markets directly against state gambling regulators. ([WeeBet](https://weebet.com/news/new-york-lawsuit-polymarket-illegal-gambling-ban-2026))</p>",
+      "date_published": "2026-10-12T18:17:00-04:00",
+      "date_modified": "2026-10-12T18:17:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://weebet.com/news/new-york-lawsuit-polymarket-illegal-gambling-ban-2026",
+      "links": [
+        "https://weebet.com/news/new-york-lawsuit-polymarket-illegal-gambling-ban-2026"
+      ],
+      "timestamp": "Oct 12, 2026 · 6:17 PM ET",
+      "body": "- **New York sues to ban Polymarket as unlicensed illegal gambling** — New York Attorney General Letitia James and Governor Kathy Hochul filed a lawsuit seeking to ban Polymarket in the state, calling the crypto-based prediction platform an unlicensed illegal gambling operation. The case pits decentralized prediction markets directly against state gambling regulators. ([WeeBet](https://weebet.com/news/new-york-lawsuit-polymarket-illegal-gambling-ban-2026))",
+      "image_url": null,
+      "published": "2026-10-12T18:17:00-04:00",
+      "source": "2026-10-12_1815-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1815-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1815-edt-1",
+      "title": "Seminole Tribe sues DraftKings over Florida prediction markets",
+      "content_text": "- **Seminole Tribe sues DraftKings over Florida prediction markets** — The Seminole Tribe of Florida filed a 72-page lawsuit against DraftKings and CEO Jason Robins, alleging the company's prediction markets and Pick6 product amount to unauthorized sports wagering in Florida. DraftKings says its prediction markets comply with federal law. ([Deadspin](https://deadspin.com/legal-betting/seminole-tribe-takes-draftkings-to-court-over-florida-betting-dispute/))",
+      "content_html": "<p>- **Seminole Tribe sues DraftKings over Florida prediction markets** — The Seminole Tribe of Florida filed a 72-page lawsuit against DraftKings and CEO Jason Robins, alleging the company&#x27;s prediction markets and Pick6 product amount to unauthorized sports wagering in Florida. DraftKings says its prediction markets comply with federal law. ([Deadspin](https://deadspin.com/legal-betting/seminole-tribe-takes-draftkings-to-court-over-florida-betting-dispute/))</p>",
+      "date_published": "2026-10-12T18:17:00-04:00",
+      "date_modified": "2026-10-12T18:17:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://deadspin.com/legal-betting/seminole-tribe-takes-draftkings-to-court-over-florida-betting-dispute/",
+      "links": [
+        "https://deadspin.com/legal-betting/seminole-tribe-takes-draftkings-to-court-over-florida-betting-dispute/"
+      ],
+      "timestamp": "Oct 12, 2026 · 6:17 PM ET",
+      "body": "- **Seminole Tribe sues DraftKings over Florida prediction markets** — The Seminole Tribe of Florida filed a 72-page lawsuit against DraftKings and CEO Jason Robins, alleging the company's prediction markets and Pick6 product amount to unauthorized sports wagering in Florida. DraftKings says its prediction markets comply with federal law. ([Deadspin](https://deadspin.com/legal-betting/seminole-tribe-takes-draftkings-to-court-over-florida-betting-dispute/))",
+      "image_url": null,
+      "published": "2026-10-12T18:17:00-04:00",
+      "source": "2026-10-12_1815-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1815-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1815-edt-2",
+      "title": "Novig sues New York, seeking ruling that federal law shields its markets",
+      "content_text": "- **Novig sues New York, seeking ruling that federal law shields its markets** — Prediction market Novig filed a preemptive lawsuit against New York, asking a federal court to declare that federal commodities law preempts state gambling laws for its event contracts. Novig says it expects an imminent New York enforcement action and cites more than $6 billion in cumulative trading volume. ([DeviceDaily](https://www.devicedaily.com/pin/novig-sues-new-york-claiming-federal-law-shields-sports-prediction-markets/))",
+      "content_html": "<p>- **Novig sues New York, seeking ruling that federal law shields its markets** — Prediction market Novig filed a preemptive lawsuit against New York, asking a federal court to declare that federal commodities law preempts state gambling laws for its event contracts. Novig says it expects an imminent New York enforcement action and cites more than $6 billion in cumulative trading volume. ([DeviceDaily](https://www.devicedaily.com/pin/novig-sues-new-york-claiming-federal-law-shields-sports-prediction-markets/))</p>",
+      "date_published": "2026-10-12T18:17:00-04:00",
+      "date_modified": "2026-10-12T18:17:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.devicedaily.com/pin/novig-sues-new-york-claiming-federal-law-shields-sports-prediction-markets/",
+      "links": [
+        "https://www.devicedaily.com/pin/novig-sues-new-york-claiming-federal-law-shields-sports-prediction-markets/"
+      ],
+      "timestamp": "Oct 12, 2026 · 6:17 PM ET",
+      "body": "- **Novig sues New York, seeking ruling that federal law shields its markets** — Prediction market Novig filed a preemptive lawsuit against New York, asking a federal court to declare that federal commodities law preempts state gambling laws for its event contracts. Novig says it expects an imminent New York enforcement action and cites more than $6 billion in cumulative trading volume. ([DeviceDaily](https://www.devicedaily.com/pin/novig-sues-new-york-claiming-federal-law-shields-sports-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-12T18:17:00-04:00",
+      "source": "2026-10-12_1815-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1815-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1815-edt-3",
+      "title": "Nevada gaming regulator sues Polymarket's Blockratize over sports contracts",
+      "content_text": "- **Nevada gaming regulator sues Polymarket's Blockratize over sports contracts** — The Nevada Gaming Control Board sued Blockratize Inc., Polymarket's corporate entity, in Carson City district court seeking to bar it from offering what it calls unlicensed wagering in the state. The move pulls Polymarket into Nevada's legal fight over sports event contracts for the first time. ([GambleRss](https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416))",
+      "content_html": "<p>- **Nevada gaming regulator sues Polymarket&#x27;s Blockratize over sports contracts** — The Nevada Gaming Control Board sued Blockratize Inc., Polymarket&#x27;s corporate entity, in Carson City district court seeking to bar it from offering what it calls unlicensed wagering in the state. The move pulls Polymarket into Nevada&#x27;s legal fight over sports event contracts for the first time. ([GambleRss](https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416))</p>",
+      "date_published": "2026-10-12T18:17:00-04:00",
+      "date_modified": "2026-10-12T18:17:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416",
+      "links": [
+        "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416"
+      ],
+      "timestamp": "Oct 12, 2026 · 6:17 PM ET",
+      "body": "- **Nevada gaming regulator sues Polymarket's Blockratize over sports contracts** — The Nevada Gaming Control Board sued Blockratize Inc., Polymarket's corporate entity, in Carson City district court seeking to bar it from offering what it calls unlicensed wagering in the state. The move pulls Polymarket into Nevada's legal fight over sports event contracts for the first time. ([GambleRss](https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416))",
+      "image_url": null,
+      "published": "2026-10-12T18:17:00-04:00",
+      "source": "2026-10-12_1815-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-12_1800-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1800-edt-0",
@@ -644,8 +758,8 @@
       "id": "infiniti-2026-10-12_1654-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1654-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nHSI raid on Ilhan Omar's DC home floods prediction markets on her legal fate\nKalshi's contract on who will be charged with a federal crime this year lists Omar among the named options, with tens of thousands of dollars moving through related…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid\n\nNBA in active talks with Kalshi and Polymarket on a prediction-market deal\nFront Office Sports reports the informal talks, running for over a year, ramped up since CFTC Chair Michael Selig began engaging leagues and signaled the agency will…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>HSI raid on Ilhan Omar&#x27;s DC home floods prediction markets on her legal fate<br/>Kalshi&#x27;s contract on who will be charged with a federal crime this year lists Omar among the named options, with tens of thousands of dollars moving through related…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid<br/><br/>NBA in active talks with Kalshi and Polymarket on a prediction-market deal<br/>Front Office Sports reports the informal talks, running for over a year, ramped up since CFTC Chair Michael Selig began engaging leagues and signaled the agency will…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nHSI raid on Ilhan Omar's DC home floods prediction markets on her legal fate\nKalshi's federal-charges contract lists Omar among the options; Polymarket hosts 100+ markets on her fate.\n#IlhanOmar #PredictionMarkets #Kalshi\nhttps://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid\n\nNBA in active talks with Kalshi and Polymarket\nTalks ramped up as the CFTC engages leagues; the NBA wants control over permitted markets and monitoring.\n#NBA #Kalshi #Polymarket\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nKalshi discussing raise at $40B; both eye IPOs next year\nReport puts Polymarket above $20B and Kalshi at $40B; nothing confirmed.\n#Polymarket #Kalshi #IPO\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nMarkets: Gold $4,173 | Brent $105.6 | BTC $83K | ETH $2,524\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>HSI raid on Ilhan Omar&#x27;s DC home floods prediction markets on her legal fate<br/>Kalshi&#x27;s federal-charges contract lists Omar among the options; Polymarket hosts 100+ markets on her fate.<br/>#IlhanOmar #PredictionMarkets #Kalshi<br/>https://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid<br/><br/>NBA in active talks with Kalshi and Polymarket<br/>Talks ramped up as the CFTC engages leagues; the NBA wants control over permitted markets and monitoring.<br/>#NBA #Kalshi #Polymarket<br/>https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665<br/><br/>Kalshi discussing raise at $40B; both eye IPOs next year<br/>Report puts Polymarket above $20B and Kalshi at $40B; nothing confirmed.<br/>#Polymarket #Kalshi #IPO<br/>https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/<br/><br/>Markets: Gold $4,173 | Brent $105.6 | BTC $83K | ETH $2,524<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_1654-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-12T16:54:00-04:00",
       "date_modified": "2026-10-12T16:54:00-04:00",
       "authors": [
@@ -655,23 +769,26 @@
         }
       ],
       "tags": [
+        "IlhanOmar",
         "PredictionMarkets",
         "Kalshi",
+        "NBA",
         "Polymarket",
-        "CFTC"
+        "IPO"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_1654-edt.jpg",
       "external_url": "https://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid",
       "links": [
         "https://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid",
-        "https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665"
+        "https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665",
+        "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/"
       ],
       "timestamp": "Oct 12, 2026 · 4:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nHSI raid on Ilhan Omar's DC home floods prediction markets on her legal fate\nKalshi's contract on who will be charged with a federal crime this year lists Omar among the named options, with tens of thousands of dollars moving through related…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid\n\nNBA in active talks with Kalshi and Polymarket on a prediction-market deal\nFront Office Sports reports the informal talks, running for over a year, ramped up since CFTC Chair Michael Selig began engaging leagues and signaled the agency will…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nHSI raid on Ilhan Omar's DC home floods prediction markets on her legal fate\nKalshi's federal-charges contract lists Omar among the options; Polymarket hosts 100+ markets on her fate.\n#IlhanOmar #PredictionMarkets #Kalshi\nhttps://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid\n\nNBA in active talks with Kalshi and Polymarket\nTalks ramped up as the CFTC engages leagues; the NBA wants control over permitted markets and monitoring.\n#NBA #Kalshi #Polymarket\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nKalshi discussing raise at $40B; both eye IPOs next year\nReport puts Polymarket above $20B and Kalshi at $40B; nothing confirmed.\n#Polymarket #Kalshi #IPO\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nMarkets: Gold $4,173 | Brent $105.6 | BTC $83K | ETH $2,524\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_1654-edt.jpg",
       "published": "2026-10-12T16:54:00-04:00",
       "source": "2026-10-12_1654-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-12_1645-edt-0",
