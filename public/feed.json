@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T22:55:33.999939-04:00",
+  "updated": "2026-10-11T23:55:39.223100-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_2354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 11:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nRavens beat Falcons 30-23 in overtime after a late tie\nBaltimore tied it 23-23 with under a minute left in regulation on a Tyler Huntley touchdown pass followed by a Derrick Henry two-point conversion, then won 30-23 in OT…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://sportradar.com/?q=2507264939980786529\n\nBrewers beat Dodgers 2-1, final — Milwaukee leads NLCS 1-0\nMilwaukee held its 2-1 lead through a scoreless ninth, despite two late walks, to take Game 1 in Milwaukee. Brice Turang's solo homer tied it in the 4th and a…\n#PredictionMarkets #Polymarket\nhttps://www.usatoday.com/story/sports/mlb/playoffs/2026/10/11/dodgers-vs-brewers-watch-score-highlights-channel-nlcs-game-1--live/92204173007/\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,681\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T23:54:00-04:00",
+      "source": "2026-10-11_2354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_2254-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T10:54:00-04:00",
       "source": "2026-10-09_1054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0954-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 9:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nBaltimore sues Kalshi and Polymarket\nMayor Brandon Scott and the City Council filed suits Thursday under the city's Consumer Protection Ordinance, accusing both companies of running illegal, unlicensed…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639\n\nSeminole Tribe sues DraftKings and CEO Jason Robins\nThe tribe holding Florida's sports-betting monopoly wants a Broward County court to shut down DraftKings' prediction-market sports tab and its Pick6 game, and accuses…\n#PredictionMarkets #DraftKings\nhttps://igaming-times.com/news/prediction-markets\n\nMarkets: Gold $102.70 | Brent $102.70 | WTI $90.57 | BTC $82,600\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T09:54:00-04:00",
-      "source": "2026-10-09_0954-edt.md",
       "matches_facebook_post": false
     }
   ]
