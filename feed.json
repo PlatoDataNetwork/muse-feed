@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T23:55:39.223100-04:00",
+  "updated": "2026-10-12T00:55:24.753787-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-12_0054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 12, 2026 · 12:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nSpain orders Polymarket and Kalshi blocked, opens sanctioning probe\nSpain's gambling regulator has launched a formal sanctioning process against both platforms and ordered their websites blocked across Spanish territory as a precaution,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://coinsnews.com/polymarket-kalshi-hit-new-roadblock-in-spain-regulator-opens-probe-over-law-breaches\n\nESMA flags EU authorization gaps for both platforms\nThe European Securities and Markets Authority warned this week that Polymarket and Kalshi may be operating in EU jurisdictions without proper authorization, citing…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://weebet.com/news/esma-questions-polymarket-kalshi-eu-access-authorization\n\nMarkets: Gold $4,206 | Brent $103.18 | WTI $90.31 | BTC $84,078\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T00:54:00-04:00",
+      "source": "2026-10-12_0054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_2354-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T12:54:00-04:00",
       "source": "2026-10-09_1254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_1054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 10:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nFederal judge blocks Minnesota's prediction markets ban\nJudge Menendez granted a preliminary injunction, finding the state's statute likely at least partially preempted by the CEA since the CFTC has exclusive jurisdiction…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705\n\nPolymarket sues Massachusetts over crackdown\nPolymarket filed in federal court against AG Andrea Campbell, arguing \"Congress gave the CFTC, not states, exclusive authority over event contracts\" and seeking to block…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\nMarkets: Gold $90.75 | Brent $102.90 | WTI $90.75 | BTC $82,500\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T10:54:00-04:00",
-      "source": "2026-10-09_1054-edt.md",
       "matches_facebook_post": false
     }
   ]
