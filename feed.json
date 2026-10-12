@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-12T02:55:34.071628-04:00",
+  "updated": "2026-10-12T04:08:50.461003-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-12_0354-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 12, 2026 · 3:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nIG chief questions what Kalshi and Polymarket volume records are worth\nIG Group CEO Breon Corcoran told analysts notional figures are hard to tie to economic value, noting a $1 parlay can show thousands in notional, and argued net gaming…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.financemagnates.com/forex/ig-chief-questions-what-kalshi-and-polymarket-volume-records-are-worth/\n\nAI as a central midterm issue jumps to 63% YES on Manifold\nThe market moved with about 28% of its lifetime volume in a day, tracking Sen. Kelly's worker-protection bill, shifting Pew polling on AI and jobs, and roughly $55.7M in…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://tech-insider.org/ai-2026-midterms-central-issue-prediction-market-63-percent/\n\nMarkets: Gold $4,206 | Brent $103.18 | WTI $90.31 | BTC $84,000\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T03:54:00-04:00",
+      "source": "2026-10-12_0354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-12_0254-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 12, 2026 · 2:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC moves to classify event contracts as swaps, carving out casino gambling\nThe agency's Oct. 9 package pairs a proposed rule covering sports, politics, culture and weather contracts with an interim final rule excluding casino-style products…\n#PredictionMarkets #CFTC #SCOTUS\nhttps://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/\n\n24-hour volume eases to $5.2B from $5.6B\nDeFi Rate's Oct. 12 tracker puts $5.2B traded in the last 24 hours across 9 prediction exchanges, down from $5.6B carried Sunday. The separate $8.56B two-day…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,206 | Brent $103.18 | WTI $90.31 | BTC $84,025\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nCFTC moves to classify event contracts as swaps\nThe Oct. 9 package covers sports, politics and weather contracts, excludes casino-style products, and faces state pushback.\n#CFTC #PredictionMarkets #Regulation\nhttps://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/\n\n24-hour volume eases to $5.2B from $5.6B\nDeFi Rate puts $5.2B traded in 24 hours across 9 exchanges, down from $5.6B Sunday.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nUK entry talks face retail binary-options ban\nThe FCA confirmed talks on UK entry, but the binary-options ban and gambling licensing remain obstacles.\n#UK #FCA #PredictionMarkets\nhttps://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/\n\nMarkets: Gold $4,206 | Brent $103 | BTC $84,025 | ETH $2,565\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_0254-edt.jpg",
       "published": "2026-10-12T02:54:00-04:00",
       "source": "2026-10-12_0254-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-12_0154-edt",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T15:54:00-04:00",
       "source": "2026-10-09_1554-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_1454-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 2:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nBofA's Hartnett: a Democratic sweep could knock stocks 10%+\nBank of America's chief equity strategist says the Dem sweep probability, priced at 64% on betting markets (up from under 50% a month ago), poses a \"meaningful\" threat…\n#PredictionMarkets #Senate\nhttps://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8\n\nWSJ: Kalshi and Polymarket eyeing $20bn valuations\nBoth platforms are in talks with investors on new rounds targeting ~$20bn valuations, following Kalshi's $1bn Series E at $11bn in December and Polymarket's $2bn ICE…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nMarkets: Gold $4,215 | Brent $104.35 | WTI $91.65 | BTC $82k\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T14:54:00-04:00",
-      "source": "2026-10-09_1454-edt.md",
       "matches_facebook_post": false
     }
   ]
