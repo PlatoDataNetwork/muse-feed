@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T18:55:12.980554-04:00",
+  "updated": "2026-10-11T19:55:39.554491-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_1954-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 7:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nLongshots losing 98% of the time dominate Kalshi and Polymarket trading\nCDC Gaming republished Bloomberg's analysis at 7:09 PM ET tonight: around half of Kalshi's trading volume involves bets offering potential returns of at least 1,000%,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cdcgaming.com/brief/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading/\n\nLate window finals: 49ers upset Seahawks 32-29, Broncos beat Chargers 23-17, Lions rout Cardinals 45-21\nSan Francisco stayed unbeaten and flipped its ~39-41% pregame price, winning at Seattle (60-62% pregame) on a late 44-yard field goal after Seattle tied it 29-29. Denver…\n#PredictionMarkets\nhttps://sportradar.com/?q=1798477776833878236\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,095\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T19:54:00-04:00",
+      "source": "2026-10-11_1954-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_1854-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 11, 2026 · 6:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC moves to classify event contracts as swaps, carving out casino gambling\nIn twin Oct. 9 actions, the CFTC proposed explicitly folding sports, politics, culture and weather event contracts into the swap definition under its exclusive federal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/\n\nKalshi and Polymarket both eyeing ~$20B valuations in new funding talks\nWall Street Journal reporting says both platforms are in early talks with investors at valuations close to $20B, up from Kalshi's $11B Series E in December ($1B raised,…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $21.1 | BTC $83,025\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nCFTC moves to classify event contracts as swaps\nCFTC folds sports, politics and weather contracts into the swap definition under federal jurisdiction, excluding casino gambling.\n#CFTC #PredictionMarkets #Kalshi\nhttps://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/\n\nKalshi and Polymarket both eyeing ~$20B valuations\nWSJ: both in talks near $20B, up from Kalshi $11B and Polymarket $8B+.\n#Kalshi #Polymarket #PredictionMarkets\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nLate window flips: Seahawks lead 49ers 26-21, Broncos-Chargers tied 17-17\nSeattle retook lead after trailing 21-13; Detroit routing Arizona 38-14.\n#NFL #Kalshi #Polymarket\nhttps://sportradar.com/?q=1798477776833878236\n\nMarkets: Gold $4,194 | Brent $105 | BTC $83,025 | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_1854-edt.jpg",
       "published": "2026-10-11T18:54:00-04:00",
       "source": "2026-10-11_1854-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-11_1754-edt",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T06:54:00-04:00",
       "source": "2026-10-09_0654-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0554-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 5:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — nothing new broke in the last hour\nNo fresh prediction-markets headlines since the 04:54 briefing. The most recent drivers: Kalshi pricing Flávio Bolsonaro at ~83% for Brazil's presidency after his…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://seekingalpha.com/news/4651414-prediction-markets-put-flavio-bolsonaro-at-83-to-win-brazils-presidency\n\nOil pulls back on \"no Iran strike before midterms\"\nTrump said the U.S. won't attack Iran before the midterms, citing \"productive\" talks with Tehran; Brent fell ~1% to ~$103.20 and WTI ~0.9% to ~$90.64. Kalshi's monthly…\n#PredictionMarkets #Kalshi #Oil\nhttps://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2\n\nMarkets: Gold $4,200 | Brent $103.20 | WTI $90.64 | BTC $82.4k\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T05:54:00-04:00",
-      "source": "2026-10-09_0554-edt.md",
       "matches_facebook_post": false
     }
   ]
