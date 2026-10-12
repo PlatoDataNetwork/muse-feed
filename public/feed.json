@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T15:32:55.703923-04:00",
+  "updated": "2026-10-12T15:48:13.640792-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,129 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-12_1545-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1545-edt-0",
+      "title": "Report: Kalshi and Polymarket eyeing $20bn valuations in new funding rounds",
+      "content_text": "The Wall Street Journal reports both Kalshi and Polymarket are in early talks with investors that could value each company near $20 billion, following Kalshi's December $1 billion Series E at an $11 billion valuation and Polymarket's $2 billion ICE investment at over $8 billion. Meanwhile Flutter and DraftKings market caps have been slashed as prediction markets pressure sports betting operators.\n\nSource: GambleRss (via WSJ) — https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
+      "content_html": "<p>The Wall Street Journal reports both Kalshi and Polymarket are in early talks with investors that could value each company near $20 billion, following Kalshi&#x27;s December $1 billion Series E at an $11 billion valuation and Polymarket&#x27;s $2 billion ICE investment at over $8 billion. Meanwhile Flutter and DraftKings market caps have been slashed as prediction markets pressure sports betting operators.<br/><br/>Source: GambleRss (via WSJ) — https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100</p>",
+      "date_published": "2026-10-12T15:45:00-04:00",
+      "date_modified": "2026-10-12T15:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
+      "links": [
+        "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100"
+      ],
+      "timestamp": "Oct 12, 2026 · 3:45 PM ET",
+      "body": "The Wall Street Journal reports both Kalshi and Polymarket are in early talks with investors that could value each company near $20 billion, following Kalshi's December $1 billion Series E at an $11 billion valuation and Polymarket's $2 billion ICE investment at over $8 billion. Meanwhile Flutter and DraftKings market caps have been slashed as prediction markets pressure sports betting operators.\n\nSource: GambleRss (via WSJ) — https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
+      "image_url": null,
+      "published": "2026-10-12T15:45:00-04:00",
+      "source": "2026-10-12_1545-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1545-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1545-edt-1",
+      "title": "Kalshi and Polymarket midterm markets face insider-trading scrutiny over knowable contracts",
+      "content_text": "A new Anti-Corruption Data Collective analysis, first reported by CNN, flags the platforms' hyper-specific midterm election contracts as vulnerable to political insider trading, with more than $20 million in volume on so-called knowable markets. Researchers cited dozens of suspicious, correlated trades on a Kalshi contract about Graham Platner's Maine Senate withdrawal just before a damaging scandal became public.\n\nSource: Bonus (via CNN) — https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
+      "content_html": "<p>A new Anti-Corruption Data Collective analysis, first reported by CNN, flags the platforms&#x27; hyper-specific midterm election contracts as vulnerable to political insider trading, with more than $20 million in volume on so-called knowable markets. Researchers cited dozens of suspicious, correlated trades on a Kalshi contract about Graham Platner&#x27;s Maine Senate withdrawal just before a damaging scandal became public.<br/><br/>Source: Bonus (via CNN) — https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/</p>",
+      "date_published": "2026-10-12T15:45:00-04:00",
+      "date_modified": "2026-10-12T15:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
+      "links": [
+        "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/"
+      ],
+      "timestamp": "Oct 12, 2026 · 3:45 PM ET",
+      "body": "A new Anti-Corruption Data Collective analysis, first reported by CNN, flags the platforms' hyper-specific midterm election contracts as vulnerable to political insider trading, with more than $20 million in volume on so-called knowable markets. Researchers cited dozens of suspicious, correlated trades on a Kalshi contract about Graham Platner's Maine Senate withdrawal just before a damaging scandal became public.\n\nSource: Bonus (via CNN) — https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
+      "image_url": null,
+      "published": "2026-10-12T15:45:00-04:00",
+      "source": "2026-10-12_1545-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1545-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1545-edt-2",
+      "title": "Reuters/Ipsos poll finds bipartisan opposition to election prediction markets",
+      "content_text": "A Reuters/Ipsos poll of 4,506 U.S. adults found bipartisan opposition to election betting on prediction markets, with 69% of Democrats and 61% of Republicans opposed. Opposition extends to betting on U.S. military actions (65%) and government policy announcements (63%) as regulators weigh oversight of the fast-growing platforms.\n\nSource: Traders Union (via Reuters/Ipsos) — https://tradersunion.com/news/financial-news/show/3767438-us-prediction-markets-public-opposition/",
+      "content_html": "<p>A Reuters/Ipsos poll of 4,506 U.S. adults found bipartisan opposition to election betting on prediction markets, with 69% of Democrats and 61% of Republicans opposed. Opposition extends to betting on U.S. military actions (65%) and government policy announcements (63%) as regulators weigh oversight of the fast-growing platforms.<br/><br/>Source: Traders Union (via Reuters/Ipsos) — https://tradersunion.com/news/financial-news/show/3767438-us-prediction-markets-public-opposition/</p>",
+      "date_published": "2026-10-12T15:45:00-04:00",
+      "date_modified": "2026-10-12T15:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://tradersunion.com/news/financial-news/show/3767438-us-prediction-markets-public-opposition/",
+      "links": [
+        "https://tradersunion.com/news/financial-news/show/3767438-us-prediction-markets-public-opposition/"
+      ],
+      "timestamp": "Oct 12, 2026 · 3:45 PM ET",
+      "body": "A Reuters/Ipsos poll of 4,506 U.S. adults found bipartisan opposition to election betting on prediction markets, with 69% of Democrats and 61% of Republicans opposed. Opposition extends to betting on U.S. military actions (65%) and government policy announcements (63%) as regulators weigh oversight of the fast-growing platforms.\n\nSource: Traders Union (via Reuters/Ipsos) — https://tradersunion.com/news/financial-news/show/3767438-us-prediction-markets-public-opposition/",
+      "image_url": null,
+      "published": "2026-10-12T15:45:00-04:00",
+      "source": "2026-10-12_1545-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_1545-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1545-edt-3",
+      "title": "Kalshi and Polymarket hit $8.56B in two-day volume, figure unconfirmed",
+      "content_text": "Kalshi and Polymarket reportedly recorded a combined $8.56 billion in trading volume over a two-day window, a headline figure circulating across financial media that has not been confirmed by either platform. The report notes the split between venues and the methodology behind the number remain unconfirmed, with prior scrutiny over how Kalshi's published volume statistics are constructed.\n\nSource: Coincu — https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
+      "content_html": "<p>Kalshi and Polymarket reportedly recorded a combined $8.56 billion in trading volume over a two-day window, a headline figure circulating across financial media that has not been confirmed by either platform. The report notes the split between venues and the methodology behind the number remain unconfirmed, with prior scrutiny over how Kalshi&#x27;s published volume statistics are constructed.<br/><br/>Source: Coincu — https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/</p>",
+      "date_published": "2026-10-12T15:45:00-04:00",
+      "date_modified": "2026-10-12T15:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
+      "links": [
+        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/"
+      ],
+      "timestamp": "Oct 12, 2026 · 3:45 PM ET",
+      "body": "Kalshi and Polymarket reportedly recorded a combined $8.56 billion in trading volume over a two-day window, a headline figure circulating across financial media that has not been confirmed by either platform. The report notes the split between venues and the methodology behind the number remain unconfirmed, with prior scrutiny over how Kalshi's published volume statistics are constructed.\n\nSource: Coincu — https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
+      "image_url": null,
+      "published": "2026-10-12T15:45:00-04:00",
+      "source": "2026-10-12_1545-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-12_1530-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1530-edt-0",
