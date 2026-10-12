@@ -20,8 +20,18 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T21:55:32.583102-04:00",
+  "updated": "2026-10-11T22:55:33.999939-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_2254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 10:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nMonday night closer: Rams 59-62% over Bills, total 54.5\nCovers' Kalshi board has Los Angeles at 59% to Buffalo at 41%, Rams -2.5, with the over/under at 54.5; Polymarket and OddsShopper's Kalshi snapshot put the Rams higher,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.covers.com/nfl/bills-vs-rams-prediction-picks-odds-early-leans-week-5-2026\n\nSunday Night Football live late: Falcons lead Ravens 20-15, Q4 6:23 left\nAtlanta extended its 14-9 halftime lead to 20-15 in the fourth quarter in Atlanta, scoring 3 in Q3 and 3 so far in Q4 against 6 for Baltimore in Q3. Both platforms…\n#PredictionMarkets #Kalshi\nhttps://sportradar.com/?q=2507264939980786529\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,681\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T22:54:00-04:00",
+      "source": "2026-10-11_2254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_2154-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T09:54:00-04:00",
       "source": "2026-10-09_0954-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0854-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 8:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC fires back at the NFL: league declined cooperation MOU\nAfter the NFL's amicus brief urging SCOTUS to review the Kalshi case, the CFTC said \"it's unfortunate the NFL declined to sign an MOU\" that would let the league share…\n#PredictionMarkets #Kalshi #NFL #CFTC\nhttps://www.reuters.com/legal/government/nfl-backs-supreme-court-review-betting-oversight-case-2026-10-08/\n\nNFL's numbers: $1.8B of $3.3B on NFL Sunday, and no 21+ floor\nThe league says nearly $2B of first-Sunday volume was NFL-tied, the CFTC has just 543 staff nationwide, and neither the agency nor platforms have banned…\n#PredictionMarkets #Kalshi #NFL #CFTC\nhttps://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/\n\nMarkets: Gold $103 | Brent $103 | WTI $90.50 | BTC $83k\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T08:54:00-04:00",
-      "source": "2026-10-09_0854-edt.md",
       "matches_facebook_post": false
     }
   ]
