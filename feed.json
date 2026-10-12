@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-12T06:04:04.252911-04:00",
+  "updated": "2026-10-12T06:59:02.618209-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-12_0654-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 12, 2026 · 6:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNorway moves to block Polymarket and Kalshi with 60 other sites\nNorway's gambling authority Lotteritilsynet has notified 62 operators of planned DNS blocking for offering unlicensed gambling to Norwegian consumers, with both…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.correctcasinos.com/news/norway-blocks-62-gambling-websites-including-polymarket-and-kalshi/\n\nMichigan Senate is the week's biggest midterm mover: El-Sayed down 7 points\nKalshi now prices Democrat Abdul El-Sayed at 67% to win Michigan, down from 74% in 7 days, with Republican Mike Rogers at about 33c. Forecasters still rate the race a…\n#PredictionMarkets #Kalshi #Senate #Midterms\nhttps://defirate.com/odds/2026-midterms/\n\nMarkets: Gold $4,183.94 | Brent $103.91 | WTI $91.74 | BTC $83,500\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T06:54:00-04:00",
+      "source": "2026-10-12_0654-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-12_0554-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 12, 2026 · 5:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket leads U.S. search demand despite Kalshi's trading dominance\nBlask data for January-August 2026, recirculated in the last hours, puts Polymarket at 57.8% of branded prediction-market search demand, down from 74.3%, while Kalshi…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand\n\nGlobal crackdown coverage resurfaces: Brazil ban and 30-plus blocked countries\nHackerNoon coverage crawled in the last hour recaps Brazil's Resolution 5,298 barring derivatives tied to sports, politics and culture, Argentina and Colombia as earlier…\n#PredictionMarkets #Polymarket #CFTC\nhttps://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi\n\nMarkets: Gold $4,184 | Brent $103.91 | WTI $90.38 | BTC $83,888\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nPolymarket leads search demand despite Kalshi trading dominance\nPolymarket 57.8% of search Jan-Aug vs Kalshi 35.8%, but Kalshi led August volume $37.17B vs $8.16B.\n#Polymarket #Kalshi #PredictionMarkets\nhttps://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand\n\nGlobal crackdown: Brazil ban, 30-plus countries block access\nBrazil bars sports, politics and culture derivatives; Polymarket blocked in 30+ countries.\n#Polymarket #Regulation\nhttps://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi\n\nCFTC swaps rules built for Supreme Court scrutiny\nRule classifies sports, politics and weather contracts as swaps; 30-day comment windows.\n#CFTC #PredictionMarkets\nhttps://www.pymnts.com/legal/2026/cftc-wants-to-redefine-swaps-to-include-prediction-platforms/\n\nMarkets: Gold $4,190 | Brent $104 | BTC $83.9K | ETH $2560\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_0554-edt.jpg",
       "published": "2026-10-12T05:54:00-04:00",
       "source": "2026-10-12_0554-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-12_0454-edt",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T18:54:00-04:00",
       "source": "2026-10-09_1854-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_1754-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 5:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\n39 states side with New Jersey against prediction markets in SCOTUS brief\n39 states filed an amicus brief backing NJ in its fight with Kalshi, urging the Supreme Court to let states restrict sports-event contracts; separately, TickerTracker…\n#PredictionMarkets #Kalshi #Polymarket #SCOTUS\nhttps://nexteventhorizon.substack.com/p/39-states-side-with-new-jersey-against-prediction-markets\n\nKalshi launches prediction apps with Native American tribes, dividing Indian country\nThe Kletsel Dehe and three other tribes in California and Oklahoma launched prediction apps with Kalshi on Wednesday, breaking ranks with hundreds of other tribes that…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://nexteventhorizon.substack.com/p/39-states-side-with-new-jersey-against-prediction-markets\n\nMarkets: Gold $4,100 | BTC $82.4K | ETH $2,479 | Silver $59\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T17:54:00-04:00",
-      "source": "2026-10-09_1754-edt.md",
       "matches_facebook_post": false
     }
   ]
