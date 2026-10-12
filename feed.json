@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 60,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline (website Intelligence Feed)",
-  "updated": "2026-10-12T11:10:10.517894-04:00",
+  "updated": "2026-10-12T11:57:34.330362-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-12_1154-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1154-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nMost Americans oppose betting on elections and government events, Reuters/Ipsos poll finds\nThe poll, conducted Sept. 30–Oct. 5, found 69% of Democrats and 61% of Republicans oppose prediction-market betting on election results, with 65% opposed to betting on…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/\n\n24-hour volume eases to $4.9B across 9 exchanges\nDeFi Rate's latest snapshot, observed 11:19 AM ET on Oct. 12, puts $4.9B traded in the last 24 hours, down from $5.0B in the prior edition. Headline politics were…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttp://defirate.com/\n\nMarkets: Gold $4,171.43 | Brent $106 | WTI $93.04 | BTC $82,742\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Most Americans oppose betting on elections and government events, Reuters/Ipsos poll finds<br/>The poll, conducted Sept. 30–Oct. 5, found 69% of Democrats and 61% of Republicans oppose prediction-market betting on election results, with 65% opposed to betting on…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/<br/><br/>24-hour volume eases to $4.9B across 9 exchanges<br/>DeFi Rate&#x27;s latest snapshot, observed 11:19 AM ET on Oct. 12, puts $4.9B traded in the last 24 hours, down from $5.0B in the prior edition. Headline politics were…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>http://defirate.com/<br/><br/>Markets: Gold $4,171.43 | Brent $106 | WTI $93.04 | BTC $82,742<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-12T11:54:00-04:00",
+      "date_modified": "2026-10-12T11:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/",
+      "links": [
+        "https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/",
+        "http://defirate.com/"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nMost Americans oppose betting on elections and government events, Reuters/Ipsos poll finds\nThe poll, conducted Sept. 30–Oct. 5, found 69% of Democrats and 61% of Republicans oppose prediction-market betting on election results, with 65% opposed to betting on…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/\n\n24-hour volume eases to $4.9B across 9 exchanges\nDeFi Rate's latest snapshot, observed 11:19 AM ET on Oct. 12, puts $4.9B traded in the last 24 hours, down from $5.0B in the prior edition. Headline politics were…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttp://defirate.com/\n\nMarkets: Gold $4,171.43 | Brent $106 | WTI $93.04 | BTC $82,742\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T11:54:00-04:00",
+      "source": "2026-10-12_1154-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-12_1054-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1054-edt",
@@ -2165,39 +2199,6 @@
       "image_url": null,
       "published": "2026-10-09T23:54:00-04:00",
       "source": "2026-10-09_2354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_2254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-09_2254-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi launches insider-trading probe on Zacharia press secretary bets\nWSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia's appointment as Trump's new White House press secretary, including a…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nPolymarket's $32M Nobel market whiffed on the Peace Prize winner\nTraders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82,650\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi launches insider-trading probe on Zacharia press secretary bets<br/>WSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia&#x27;s appointment as Trump&#x27;s new White House press secretary, including a…<br/>#PredictionMarkets #Kalshi<br/>https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/<br/><br/>Polymarket&#x27;s $32M Nobel market whiffed on the Peace Prize winner<br/>Traders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi…<br/>#PredictionMarkets #Kalshi #Polymarket #NobelPrize<br/>https://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/<br/><br/>Markets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82,650<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-09T22:54:00-04:00",
-      "date_modified": "2026-10-09T22:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "NobelPrize"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/",
-      "links": [
-        "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/",
-        "https://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/"
-      ],
-      "timestamp": "Oct 9, 2026 · 10:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi launches insider-trading probe on Zacharia press secretary bets\nWSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia's appointment as Trump's new White House press secretary, including a…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nPolymarket's $32M Nobel market whiffed on the Peace Prize winner\nTraders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82,650\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T22:54:00-04:00",
-      "source": "2026-10-09_2254-edt.md",
       "matches_facebook_post": false
     }
   ]
