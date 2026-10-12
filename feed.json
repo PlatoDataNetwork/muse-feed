@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-11T19:55:39.554491-04:00",
+  "updated": "2026-10-11T20:59:15.679924-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-11_2054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 11, 2026 · 8:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNFL won't allow prediction-market Super Bowl commercials\nFront Office Sports reporting republished tonight says prediction markets are on the NFL's prohibited list for Super Bowl LX, and have been barred from NFL broadcasts…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://gamblerss.com/nfl-won-t-allow-prediction-market-super-bowl-commercials-55617\n\nWhales pile into Atlanta on Sunday night, Falcons lead Ravens 7-3 in Q1 live\nThe two biggest single Week 5 winner trades were both on Atlanta at 62c: $620K on Kalshi paying $1.00M and $493K on Polymarket paying $795K. Atlanta is also the week's…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/nfl/week-5/\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $82,900\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-11T20:54:00-04:00",
+      "source": "2026-10-11_2054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-11_1954-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 11, 2026 · 7:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nLongshots losing 98% of the time dominate Kalshi and Polymarket trading\nCDC Gaming republished Bloomberg's analysis at 7:09 PM ET tonight: around half of Kalshi's trading volume involves bets offering potential returns of at least 1,000%,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cdcgaming.com/brief/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading/\n\nLate window finals: 49ers upset Seahawks 32-29, Broncos beat Chargers 23-17, Lions rout Cardinals 45-21\nSan Francisco stayed unbeaten and flipped its ~39-41% pregame price, winning at Seattle (60-62% pregame) on a late 44-yard field goal after Seattle tied it 29-29. Denver…\n#PredictionMarkets\nhttps://sportradar.com/?q=1798477776833878236\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,095\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nLongshots losing 98% of the time dominate Kalshi and Polymarket trading\nBloomberg: longshots drive about half of Kalshi volume; yes longshots lost 15% on Kalshi, 27% on Polymarket since 2025.\n#Kalshi #Polymarket #PredictionMarkets\nhttps://cdcgaming.com/brief/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading/\n\nLate finals: 49ers upset Seahawks 32-29, Broncos beat Chargers 23-17, Lions rout Cardinals 45-21\nSan Francisco stayed unbeaten at Seattle; Denver and Detroit also won.\n#NFL #PredictionMarkets\nhttps://sportradar.com/?q=1798477776833878236\n\nSunday night: Falcons 62-64% over Ravens, Huntley starting for Jackson\nKalshi implies 62% for Atlanta, Falcons -3.5, with Huntley starting for injured Lamar Jackson.\n#NFL #Kalshi\nhttps://predictionmarketspicks.com/nfl/ravens-vs-falcons-week-05-2026\n\nMarkets: Gold $4,194 | Brent $104 | BTC $83,095 | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_1954-edt.jpg",
       "published": "2026-10-11T19:54:00-04:00",
       "source": "2026-10-11_1954-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-11_1854-edt",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T07:54:00-04:00",
       "source": "2026-10-09_0754-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_0654-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 6:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nSenate Democrats push for full Banking Committee hearing on Kalshi/Polymarket\nDemocrats want the full committee to examine consumer risk, market integrity, and whether some event contracts belong under SEC oversight. Meanwhile, Republicans…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://adbytes.media/blog/senate-democrats-push-public-hearing-on-kalshi-and-polymarket-as-prediction-markets-surge\n\nNFL tells Supreme Court prediction-market sports contracts are gambling, not swaps\nIn an amicus brief, the league asked SCOTUS to take the case, arguing the growing circuit split has created regulatory uncertainty over whether sports event contracts…\n#PredictionMarkets #NFL #CFTC #SCOTUS\nhttps://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064\n\nMarkets: Gold $4,120 | Brent $105 | WTI $92.40 | BTC $82.9k\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T06:54:00-04:00",
-      "source": "2026-10-09_0654-edt.md",
       "matches_facebook_post": false
     }
   ]
