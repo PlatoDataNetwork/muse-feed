@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T15:55:49.795805-04:00",
+  "updated": "2026-10-12T15:56:51.577834-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-12_1554-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1554-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nFresh scrutiny of unusual trading patterns on Polymarket's long-shot contracts\nA Bonus.com report flags trading patterns in which long-shots drew more action than favourites: in the 2026 FIFA World Cup market, Egypt drew $158M in trading while…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nSenate odds slip for Democrats; Michigan is the week's biggest mover\nDeFi Rate's 3:10 PM ET board has Democrats at 62% to win the Senate, down 3 points this week (Kalshi 61.8¢, Polymarket 64¢), while the House stays at 90% (down 2 from…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://defirate.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Fresh scrutiny of unusual trading patterns on Polymarket&#x27;s long-shot contracts<br/>A Bonus.com report flags trading patterns in which long-shots drew more action than favourites: in the 2026 FIFA World Cup market, Egypt drew $158M in trading while…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/<br/><br/>Senate odds slip for Democrats; Michigan is the week&#x27;s biggest mover<br/>DeFi Rate&#x27;s 3:10 PM ET board has Democrats at 62% to win the Senate, down 3 points this week (Kalshi 61.8¢, Polymarket 64¢), while the House stays at 90% (down 2 from…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://defirate.com/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-12T15:54:00-04:00",
+      "date_modified": "2026-10-12T15:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/",
+      "links": [
+        "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/",
+        "https://defirate.com/"
+      ],
+      "timestamp": "Oct 12, 2026 · 3:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nFresh scrutiny of unusual trading patterns on Polymarket's long-shot contracts\nA Bonus.com report flags trading patterns in which long-shots drew more action than favourites: in the 2026 FIFA World Cup market, Egypt drew $158M in trading while…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nSenate odds slip for Democrats; Michigan is the week's biggest mover\nDeFi Rate's 3:10 PM ET board has Democrats at 62% to win the Senate, down 3 points this week (Kalshi 61.8¢, Polymarket 64¢), while the House stays at 90% (down 2 from…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://defirate.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T15:54:00-04:00",
+      "source": "2026-10-12_1554-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-12_1545-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1545-edt-0",
@@ -3782,40 +3815,6 @@
       "image_url": null,
       "published": "2026-10-08T10:54:00-04:00",
       "source": "2026-10-08_1054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-08_04-54",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-08_04-54",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nPolymarket's legal team filed in Massachusetts federal court, arguing Congress gave the CFTC, not states, exclusive authority over event contracts. Names AG Andrea Joy…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\n6th Circuit rules Ohio and Tennessee can regulate Kalshi event contracts\nMajor blow for Kalshi: the 6th U.S. Circuit Court of Appeals in Cincinnati ruled states can apply local gambling laws to event contracts, with Circuit Judge Julia Smith…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Polymarket sues Massachusetts AG in federal court<br/>Polymarket&#x27;s legal team filed in Massachusetts federal court, arguing Congress gave the CFTC, not states, exclusive authority over event contracts. Names AG Andrea Joy…<br/>#PredictionMarkets #Kalshi #Polymarket #Congress<br/>https://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665<br/><br/>6th Circuit rules Ohio and Tennessee can regulate Kalshi event contracts<br/>Major blow for Kalshi: the 6th U.S. Circuit Court of Appeals in Cincinnati ruled states can apply local gambling laws to event contracts, with Circuit Judge Julia Smith…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-08T04:54:00-04:00",
-      "date_modified": "2026-10-08T04:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Congress",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665",
-      "links": [
-        "https://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665",
-        "https://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114"
-      ],
-      "timestamp": "Oct 8, 2026 · 4:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket sues Massachusetts AG in federal court\nPolymarket's legal team filed in Massachusetts federal court, arguing Congress gave the CFTC, not states, exclusive authority over event contracts. Names AG Andrea Joy…\n#PredictionMarkets #Kalshi #Polymarket #Congress\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\n6th Circuit rules Ohio and Tennessee can regulate Kalshi event contracts\nMajor blow for Kalshi: the 6th U.S. Circuit Court of Appeals in Cincinnati ruled states can apply local gambling laws to event contracts, with Circuit Judge Julia Smith…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-takes-another-blow-as-court-says-that-states-can-regulate-prediction-markets-70114\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-08T04:54:00-04:00",
-      "source": "2026-10-08_04-54.md",
       "matches_facebook_post": false
     }
   ]
