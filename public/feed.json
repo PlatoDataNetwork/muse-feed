@@ -20,17 +20,27 @@
   ],
   "refresh_interval_minutes": 60,
   "generator": "Infiniti hourly briefing pipeline (mirrors Facebook Page posts)",
-  "updated": "2026-10-12T02:14:11.803788-04:00",
+  "updated": "2026-10-12T02:55:34.071628-04:00",
   "items": [
+    {
+      "id": "infiniti-2026-10-12_0254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "timestamp": "Oct 12, 2026 · 2:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC moves to classify event contracts as swaps, carving out casino gambling\nThe agency's Oct. 9 package pairs a proposed rule covering sports, politics, culture and weather contracts with an interim final rule excluding casino-style products…\n#PredictionMarkets #CFTC #SCOTUS\nhttps://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/\n\n24-hour volume eases to $5.2B from $5.6B\nDeFi Rate's Oct. 12 tracker puts $5.2B traded in the last 24 hours across 9 prediction exchanges, down from $5.6B carried Sunday. The separate $8.56B two-day…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,206 | Brent $103.18 | WTI $90.31 | BTC $84,025\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T02:54:00-04:00",
+      "source": "2026-10-12_0254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-12_0154-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
       "timestamp": "Oct 12, 2026 · 1:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\n49ers surge to Super Bowl LXI favourites at 14%, up 5 points\nDeFi Rate's Oct. 12 snapshot puts San Francisco first at 14% (Kalshi 14c, Polymarket 13.3c), a +5-point move over 7 days, ahead of the Rams who were carried at 12% in…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nNFL asks Supreme Court to treat sports prediction markets as gambling\nThe league told the Court that more than half of prediction-market volume on the first Sunday of the season was tied to NFL games and asked for review before another…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://insidebitcoins.com/news/nfl-tells-supreme-court-sports-prediction-markets-are-gambling-for-states-to-police\n\nMarkets: Gold $4,206 | Brent $103.18 | WTI $90.31 | BTC $83,992\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\n49ers surge to Super Bowl LXI favourites at 14%, up 5 points\nSan Francisco leads at 14% on Kalshi, ahead of the Rams at 12%.\n#NFL #SuperBowl #PredictionMarkets #Kalshi\nhttps://defirate.com/?s\n\nNFL asks Supreme Court to treat sports prediction markets as gambling\nLeague cites NFL share of opening-Sunday volume; platforms cite CFTC oversight.\n#NFL #SupremeCourt #Kalshi #Polymarket\nhttps://insidebitcoins.com/news/nfl-tells-supreme-court-sports-prediction-markets-are-gambling-for-states-to-police\n\nFederal judge blocks Minnesota prediction-market ban\nJudge finds statute likely preempted by the Commodity Exchange Act and CFTC jurisdiction.\n#PredictionMarkets #CFTC #Minnesota\nhttps://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705\n\nMarkets: Gold $4,206 | Brent $103.18 | BTC $83,992 | ETH $2,565\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_0154-edt.jpg",
       "published": "2026-10-12T01:54:00-04:00",
       "source": "2026-10-12_0154-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-12_0054-edt",
@@ -610,16 +620,6 @@
       "image_url": null,
       "published": "2026-10-09T14:54:00-04:00",
       "source": "2026-10-09_1454-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_1354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "timestamp": "Oct 9, 2026 · 1:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nCNN: midterm \"mention markets\" fuel insider-trading alarms\nA new CNN investigation reports prediction sites now offer an average of 44 granular markets per race, and Kalshi has suspended at least six 2026 candidates this year…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\nhttps://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta\n\nPolymarket signs with the Rangers; NHL remains the only league aboard\nTwo weeks after Kalshi's Blackhawks deal, Polymarket announced a partnership with the NHL's Rangers (via Madison Square Garden Sports, Rangers only, not the Knicks). The…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533\n\nMarkets: Gold $4,215 | Brent $104.35 | WTI $91.65 | BTC $82,700\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T13:54:00-04:00",
-      "source": "2026-10-09_1354-edt.md",
       "matches_facebook_post": false
     }
   ]
