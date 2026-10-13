@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T17:04:51.989070-04:00",
+  "updated": "2026-10-13T17:20:59.640797-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_1715-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1715-edt-0",
+      "title": "Kalshi clearinghouse files to add leverage to event contracts in push for institutional traders",
+      "content_text": "- **Kalshi clearinghouse files to add leverage to event contracts in push for institutional traders** — Kalshi Klear, the prediction market's internal clearinghouse, has submitted a regulatory filing seeking permission to offer leverage on event contracts, a step aimed at drawing more institutional liquidity to the platform. Leverage would let traders take positions larger than their cash deposits alone would allow, and the change still needs to clear the regulatory process. ([CoinDesk](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000?post-id=3492882cf7f4))",
+      "content_html": "<p>- **Kalshi clearinghouse files to add leverage to event contracts in push for institutional traders** — Kalshi Klear, the prediction market&#x27;s internal clearinghouse, has submitted a regulatory filing seeking permission to offer leverage on event contracts, a step aimed at drawing more institutional liquidity to the platform. Leverage would let traders take positions larger than their cash deposits alone would allow, and the change still needs to clear the regulatory process. ([CoinDesk](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000?post-id=3492882cf7f4))</p>",
+      "date_published": "2026-10-13T17:15:00-04:00",
+      "date_modified": "2026-10-13T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000?post-id=3492882cf7f4",
+      "links": [
+        "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000?post-id=3492882cf7f4"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:15 PM ET",
+      "body": "- **Kalshi clearinghouse files to add leverage to event contracts in push for institutional traders** — Kalshi Klear, the prediction market's internal clearinghouse, has submitted a regulatory filing seeking permission to offer leverage on event contracts, a step aimed at drawing more institutional liquidity to the platform. Leverage would let traders take positions larger than their cash deposits alone would allow, and the change still needs to clear the regulatory process. ([CoinDesk](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000?post-id=3492882cf7f4))",
+      "image_url": null,
+      "published": "2026-10-13T17:15:00-04:00",
+      "source": "2026-10-13_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1715-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1715-edt-1",
+      "title": "Coinbase launches crypto price prediction markets with contracts as short as 15 minutes",
+      "content_text": "- **Coinbase launches crypto price prediction markets with contracts as short as 15 minutes** — Coinbase opened crypto price prediction markets to US users on October 6, covering Bitcoin, Ether, Solana, BNB and other assets with time frames as brief as 15 minutes. The binary contracts pay 1 dollar if correct and 0 if wrong, can be funded with USD or USDC, run through CFTC-regulated Coinbase Financial Markets, and exclude Nevada. ([Cryptonomist](https://en.cryptonomist.ch/2026/10/06/crypto-price-prediction-coinbase/))",
+      "content_html": "<p>- **Coinbase launches crypto price prediction markets with contracts as short as 15 minutes** — Coinbase opened crypto price prediction markets to US users on October 6, covering Bitcoin, Ether, Solana, BNB and other assets with time frames as brief as 15 minutes. The binary contracts pay 1 dollar if correct and 0 if wrong, can be funded with USD or USDC, run through CFTC-regulated Coinbase Financial Markets, and exclude Nevada. ([Cryptonomist](https://en.cryptonomist.ch/2026/10/06/crypto-price-prediction-coinbase/))</p>",
+      "date_published": "2026-10-13T17:15:00-04:00",
+      "date_modified": "2026-10-13T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC",
+        "Bitcoin",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": "https://en.cryptonomist.ch/2026/10/06/crypto-price-prediction-coinbase/",
+      "links": [
+        "https://en.cryptonomist.ch/2026/10/06/crypto-price-prediction-coinbase/"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:15 PM ET",
+      "body": "- **Coinbase launches crypto price prediction markets with contracts as short as 15 minutes** — Coinbase opened crypto price prediction markets to US users on October 6, covering Bitcoin, Ether, Solana, BNB and other assets with time frames as brief as 15 minutes. The binary contracts pay 1 dollar if correct and 0 if wrong, can be funded with USD or USDC, run through CFTC-regulated Coinbase Financial Markets, and exclude Nevada. ([Cryptonomist](https://en.cryptonomist.ch/2026/10/06/crypto-price-prediction-coinbase/))",
+      "image_url": null,
+      "published": "2026-10-13T17:15:00-04:00",
+      "source": "2026-10-13_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1715-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1715-edt-2",
+      "title": "Sportradar extends Polymarket data partnership across more than 20 leagues",
+      "content_text": "- **Sportradar extends Polymarket data partnership across more than 20 leagues** — Sportradar and Polymarket have expanded their existing partnership, widening the sports data, streaming content and integrity services available to the prediction market platform. The revised agreement covers more than 20 sports leagues and competitions worldwide and is expected to support approximately 300,000 matches each year. ([GambleRss](https://gamblerss.com/sportradar-extends-polymarket-partnership-across-20-leagues-68368))",
+      "content_html": "<p>- **Sportradar extends Polymarket data partnership across more than 20 leagues** — Sportradar and Polymarket have expanded their existing partnership, widening the sports data, streaming content and integrity services available to the prediction market platform. The revised agreement covers more than 20 sports leagues and competitions worldwide and is expected to support approximately 300,000 matches each year. ([GambleRss](https://gamblerss.com/sportradar-extends-polymarket-partnership-across-20-leagues-68368))</p>",
+      "date_published": "2026-10-13T17:15:00-04:00",
+      "date_modified": "2026-10-13T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/sportradar-extends-polymarket-partnership-across-20-leagues-68368",
+      "links": [
+        "https://gamblerss.com/sportradar-extends-polymarket-partnership-across-20-leagues-68368"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:15 PM ET",
+      "body": "- **Sportradar extends Polymarket data partnership across more than 20 leagues** — Sportradar and Polymarket have expanded their existing partnership, widening the sports data, streaming content and integrity services available to the prediction market platform. The revised agreement covers more than 20 sports leagues and competitions worldwide and is expected to support approximately 300,000 matches each year. ([GambleRss](https://gamblerss.com/sportradar-extends-polymarket-partnership-across-20-leagues-68368))",
+      "image_url": null,
+      "published": "2026-10-13T17:15:00-04:00",
+      "source": "2026-10-13_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1715-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1715-edt-3",
+      "title": "Polymarket traders favor the S&P 500 over Bitcoin and gold as the best performer of 2026",
+      "content_text": "- **Polymarket traders favor the S&P 500 over Bitcoin and gold as the best performer of 2026** — Polymarket traders price the S&P 500 at about 70 cents to finish 2026 as the best performer of the three, ahead of Bitcoin at about 22 cents and gold at about 12 cents. The market has drawn more than 940,000 dollars in volume, with Bitcoin attracting the largest share at over 453,000 dollars. ([Predictbook](https://predictbook.co/analysis/can-the-s-p-500-index-outperform-gold-and-bitcoin-in-2026))",
+      "content_html": "<p>- **Polymarket traders favor the S&amp;P 500 over Bitcoin and gold as the best performer of 2026** — Polymarket traders price the S&amp;P 500 at about 70 cents to finish 2026 as the best performer of the three, ahead of Bitcoin at about 22 cents and gold at about 12 cents. The market has drawn more than 940,000 dollars in volume, with Bitcoin attracting the largest share at over 453,000 dollars. ([Predictbook](https://predictbook.co/analysis/can-the-s-p-500-index-outperform-gold-and-bitcoin-in-2026))</p>",
+      "date_published": "2026-10-13T17:15:00-04:00",
+      "date_modified": "2026-10-13T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://predictbook.co/analysis/can-the-s-p-500-index-outperform-gold-and-bitcoin-in-2026",
+      "links": [
+        "https://predictbook.co/analysis/can-the-s-p-500-index-outperform-gold-and-bitcoin-in-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:15 PM ET",
+      "body": "- **Polymarket traders favor the S&P 500 over Bitcoin and gold as the best performer of 2026** — Polymarket traders price the S&P 500 at about 70 cents to finish 2026 as the best performer of the three, ahead of Bitcoin at about 22 cents and gold at about 12 cents. The market has drawn more than 940,000 dollars in volume, with Bitcoin attracting the largest share at over 453,000 dollars. ([Predictbook](https://predictbook.co/analysis/can-the-s-p-500-index-outperform-gold-and-bitcoin-in-2026))",
+      "image_url": null,
+      "published": "2026-10-13T17:15:00-04:00",
+      "source": "2026-10-13_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1715-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1715-edt-4",
+      "title": "Polymarket marked at 21 billion dollars as ICE becomes its largest shareholder",
+      "content_text": "- **Polymarket marked at 21 billion dollars as ICE becomes its largest shareholder** — Reporting puts a new 1 billion dollar Polymarket funding round at a 21 billion dollar valuation, up from a 15 billion dollar mark in April, with Intercontinental Exchange, the owner of the New York Stock Exchange, now the largest shareholder at roughly 22 percent. The same analysis marks rival Kalshi at about 22 billion dollars. ([AInvest](https://www.ainvest.com/news/polymarket-free-years-marked-21-billion-2610/))",
+      "content_html": "<p>- **Polymarket marked at 21 billion dollars as ICE becomes its largest shareholder** — Reporting puts a new 1 billion dollar Polymarket funding round at a 21 billion dollar valuation, up from a 15 billion dollar mark in April, with Intercontinental Exchange, the owner of the New York Stock Exchange, now the largest shareholder at roughly 22 percent. The same analysis marks rival Kalshi at about 22 billion dollars. ([AInvest](https://www.ainvest.com/news/polymarket-free-years-marked-21-billion-2610/))</p>",
+      "date_published": "2026-10-13T17:15:00-04:00",
+      "date_modified": "2026-10-13T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.ainvest.com/news/polymarket-free-years-marked-21-billion-2610/",
+      "links": [
+        "https://www.ainvest.com/news/polymarket-free-years-marked-21-billion-2610/"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:15 PM ET",
+      "body": "- **Polymarket marked at 21 billion dollars as ICE becomes its largest shareholder** — Reporting puts a new 1 billion dollar Polymarket funding round at a 21 billion dollar valuation, up from a 15 billion dollar mark in April, with Intercontinental Exchange, the owner of the New York Stock Exchange, now the largest shareholder at roughly 22 percent. The same analysis marks rival Kalshi at about 22 billion dollars. ([AInvest](https://www.ainvest.com/news/polymarket-free-years-marked-21-billion-2610/))",
+      "image_url": null,
+      "published": "2026-10-13T17:15:00-04:00",
+      "source": "2026-10-13_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_1709-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1709-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNetanyahu out by end of 2026 climbs to 43% on $124.5M traded on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh political/world mover leads, in a different category from the last three…\n#PredictionMarkets #Polymarket #Elections\nhttps://www.newsbeep.com/768967/\n\nAvalanche favored at 54% over the Stars in tonight's Kalshi NHL market\nAction Network's featured Kalshi board for Tuesday, Oct. 13 prices Colorado at 54%, at 52c, against Dallas, on a loaded NHL slate that also sits alongside Game 2 of the…\n#PredictionMarkets #Kalshi\nhttps://www.actionnetwork.com/prediction-markets/promo-codes/kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Netanyahu out by end of 2026 climbs to 43% on $124.5M traded on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh political/world mover leads, in a different category from the last three…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://www.newsbeep.com/768967/<br/><br/>Avalanche favored at 54% over the Stars in tonight&#x27;s Kalshi NHL market<br/>Action Network&#x27;s featured Kalshi board for Tuesday, Oct. 13 prices Colorado at 54%, at 52c, against Dallas, on a loaded NHL slate that also sits alongside Game 2 of the…<br/>#PredictionMarkets #Kalshi<br/>https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T17:09:00-04:00",
+      "date_modified": "2026-10-13T17:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.newsbeep.com/768967/",
+      "links": [
+        "https://www.newsbeep.com/768967/",
+        "https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:09 PM ET",
+      "body": "Infiniti Briefing\n\nNetanyahu out by end of 2026 climbs to 43% on $124.5M traded on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh political/world mover leads, in a different category from the last three…\n#PredictionMarkets #Polymarket #Elections\nhttps://www.newsbeep.com/768967/\n\nAvalanche favored at 54% over the Stars in tonight's Kalshi NHL market\nAction Network's featured Kalshi board for Tuesday, Oct. 13 prices Colorado at 54%, at 52c, against Dallas, on a loaded NHL slate that also sits alongside Game 2 of the…\n#PredictionMarkets #Kalshi\nhttps://www.actionnetwork.com/prediction-markets/promo-codes/kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T17:09:00-04:00",
+      "source": "2026-10-13_1709-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_1700-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1700-edt-0",
@@ -4508,185 +4691,6 @@
       "published": "2026-10-13T10:54:00-04:00",
       "source": "2026-10-13_1054-edt.md",
       "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-13_1045-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1045-edt-0",
-      "title": "DraftKings launches DraftKings Predictions in California",
-      "content_text": "- **DraftKings launches DraftKings Predictions in California** — DraftKings Predictions has launched in California and is advertising in other states without legal sports betting, including Texas, Georgia and Florida. The platform offers trading on sports, stocks, cryptocurrency prices, weather, politics and culture. ([GambleRss](https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213))",
-      "content_html": "<p>- **DraftKings launches DraftKings Predictions in California** — DraftKings Predictions has launched in California and is advertising in other states without legal sports betting, including Texas, Georgia and Florida. The platform offers trading on sports, stocks, cryptocurrency prices, weather, politics and culture. ([GambleRss](https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213))</p>",
-      "date_published": "2026-10-13T10:45:00-04:00",
-      "date_modified": "2026-10-13T10:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213",
-      "links": [
-        "https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:45 AM ET",
-      "body": "- **DraftKings launches DraftKings Predictions in California** — DraftKings Predictions has launched in California and is advertising in other states without legal sports betting, including Texas, Georgia and Florida. The platform offers trading on sports, stocks, cryptocurrency prices, weather, politics and culture. ([GambleRss](https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213))",
-      "image_url": null,
-      "published": "2026-10-13T10:45:00-04:00",
-      "source": "2026-10-13_1045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1045-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1045-edt-1",
-      "title": "Kalshi launches US500 stock index perpetual future after CFTC filing",
-      "content_text": "- **Kalshi launches US500 stock index perpetual future after CFTC filing** — Kalshi has launched a stock index perpetual future tracking its US 500 index of the 500 largest US companies, filed with the CFTC in August. The contract has no fixed expiry and allows leveraged long or short positions, with funding rates used to keep its price in line with the index. ([Reuters](https://www.reuters.com/business/kalshi-launches-stock-index-perpetual-future-expand-product-suite-2026-10-06/))",
-      "content_html": "<p>- **Kalshi launches US500 stock index perpetual future after CFTC filing** — Kalshi has launched a stock index perpetual future tracking its US 500 index of the 500 largest US companies, filed with the CFTC in August. The contract has no fixed expiry and allows leveraged long or short positions, with funding rates used to keep its price in line with the index. ([Reuters](https://www.reuters.com/business/kalshi-launches-stock-index-perpetual-future-expand-product-suite-2026-10-06/))</p>",
-      "date_published": "2026-10-13T10:45:00-04:00",
-      "date_modified": "2026-10-13T10:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/business/kalshi-launches-stock-index-perpetual-future-expand-product-suite-2026-10-06/",
-      "links": [
-        "https://www.reuters.com/business/kalshi-launches-stock-index-perpetual-future-expand-product-suite-2026-10-06/"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:45 AM ET",
-      "body": "- **Kalshi launches US500 stock index perpetual future after CFTC filing** — Kalshi has launched a stock index perpetual future tracking its US 500 index of the 500 largest US companies, filed with the CFTC in August. The contract has no fixed expiry and allows leveraged long or short positions, with funding rates used to keep its price in line with the index. ([Reuters](https://www.reuters.com/business/kalshi-launches-stock-index-perpetual-future-expand-product-suite-2026-10-06/))",
-      "image_url": null,
-      "published": "2026-10-13T10:45:00-04:00",
-      "source": "2026-10-13_1045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1045-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1045-edt-2",
-      "title": "Golden Knights priced at 55% over Predators on Polymarket for October 13",
-      "content_text": "- **Golden Knights priced at 55% over Predators on Polymarket for October 13** — Polymarket prices the Golden Knights at 55 cents against the Predators at 46 cents for their October 13 game at 8:45 PM ET. The market has generated $19,156 in total trading volume since opening on September 16. ([Polymarket](https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13))",
-      "content_html": "<p>- **Golden Knights priced at 55% over Predators on Polymarket for October 13** — Polymarket prices the Golden Knights at 55 cents against the Predators at 46 cents for their October 13 game at 8:45 PM ET. The market has generated $19,156 in total trading volume since opening on September 16. ([Polymarket](https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13))</p>",
-      "date_published": "2026-10-13T10:45:00-04:00",
-      "date_modified": "2026-10-13T10:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13",
-      "links": [
-        "https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:45 AM ET",
-      "body": "- **Golden Knights priced at 55% over Predators on Polymarket for October 13** — Polymarket prices the Golden Knights at 55 cents against the Predators at 46 cents for their October 13 game at 8:45 PM ET. The market has generated $19,156 in total trading volume since opening on September 16. ([Polymarket](https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13))",
-      "image_url": null,
-      "published": "2026-10-13T10:45:00-04:00",
-      "source": "2026-10-13_1045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1045-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1045-edt-3",
-      "title": "Prediction market odds of Bitcoin above $100,000 in October fall to 13%",
-      "content_text": "- **Prediction market odds of Bitcoin above $100,000 in October fall to 13%** — Octagonai prediction market data cited by Coinpedia via TradingView puts the probability of Bitcoin exceeding $100,000 in October 2026 at 13%, down from 85% a week earlier. Bitcoin traded around $82,300 to $84,500 as of October 12, with US spot Bitcoin ETFs net negative for the month. ([TradingView](https://www.tradingview.com/news/coinpedia:0a9c8016b094b:0-bitcoin-uptober-2026-at-risk-price-fights-etf-drain-as-fed-odds-re-price-ahead-of-oct-28/))",
-      "content_html": "<p>- **Prediction market odds of Bitcoin above $100,000 in October fall to 13%** — Octagonai prediction market data cited by Coinpedia via TradingView puts the probability of Bitcoin exceeding $100,000 in October 2026 at 13%, down from 85% a week earlier. Bitcoin traded around $82,300 to $84,500 as of October 12, with US spot Bitcoin ETFs net negative for the month. ([TradingView](https://www.tradingview.com/news/coinpedia:0a9c8016b094b:0-bitcoin-uptober-2026-at-risk-price-fights-etf-drain-as-fed-odds-re-price-ahead-of-oct-28/))</p>",
-      "date_published": "2026-10-13T10:45:00-04:00",
-      "date_modified": "2026-10-13T10:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.tradingview.com/news/coinpedia:0a9c8016b094b:0-bitcoin-uptober-2026-at-risk-price-fights-etf-drain-as-fed-odds-re-price-ahead-of-oct-28/",
-      "links": [
-        "https://www.tradingview.com/news/coinpedia:0a9c8016b094b:0-bitcoin-uptober-2026-at-risk-price-fights-etf-drain-as-fed-odds-re-price-ahead-of-oct-28/"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:45 AM ET",
-      "body": "- **Prediction market odds of Bitcoin above $100,000 in October fall to 13%** — Octagonai prediction market data cited by Coinpedia via TradingView puts the probability of Bitcoin exceeding $100,000 in October 2026 at 13%, down from 85% a week earlier. Bitcoin traded around $82,300 to $84,500 as of October 12, with US spot Bitcoin ETFs net negative for the month. ([TradingView](https://www.tradingview.com/news/coinpedia:0a9c8016b094b:0-bitcoin-uptober-2026-at-risk-price-fights-etf-drain-as-fed-odds-re-price-ahead-of-oct-28/))",
-      "image_url": null,
-      "published": "2026-10-13T10:45:00-04:00",
-      "source": "2026-10-13_1045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1045-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1045-edt-4",
-      "title": "League of Legends markets lead Polymarket 24-hour volume on October 13",
-      "content_text": "- **League of Legends markets lead Polymarket 24-hour volume on October 13** — Polydict rankings as of October 13 at 12:53 PM UTC put a League of Legends match, Team WE vs FlyQuest, first on Polymarket by 24-hour volume at $7.3 million, followed by HANJIN BRION vs LGD Gaming at $4.6 million. The next market, a Shanghai Rolex Masters tennis match, recorded $2.0 million. ([Polydict](https://polydict.app/markets))",
-      "content_html": "<p>- **League of Legends markets lead Polymarket 24-hour volume on October 13** — Polydict rankings as of October 13 at 12:53 PM UTC put a League of Legends match, Team WE vs FlyQuest, first on Polymarket by 24-hour volume at $7.3 million, followed by HANJIN BRION vs LGD Gaming at $4.6 million. The next market, a Shanghai Rolex Masters tennis match, recorded $2.0 million. ([Polydict](https://polydict.app/markets))</p>",
-      "date_published": "2026-10-13T10:45:00-04:00",
-      "date_modified": "2026-10-13T10:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polydict.app/markets",
-      "links": [
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:45 AM ET",
-      "body": "- **League of Legends markets lead Polymarket 24-hour volume on October 13** — Polydict rankings as of October 13 at 12:53 PM UTC put a League of Legends match, Team WE vs FlyQuest, first on Polymarket by 24-hour volume at $7.3 million, followed by HANJIN BRION vs LGD Gaming at $4.6 million. The next market, a Shanghai Rolex Masters tennis match, recorded $2.0 million. ([Polydict](https://polydict.app/markets))",
-      "image_url": null,
-      "published": "2026-10-13T10:45:00-04:00",
-      "source": "2026-10-13_1045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_1039-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1039-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nA 453-leg Kalshi combo is the weekend's emblematic long shot\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh notable trade leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi\nhttps://closingline.substack.com/p/the-cashout-weekly-ny-sports-betting-kalshi-records\n\nTonight's NHL board on Polymarket is tight outside Pittsburgh\nThe Penguins lead the Blackhawks 61c to 40c for tonight's 8 p.m. ET game on $11,365 traded, while the Bruins–Sharks late game is a near coin-flip at 51c to 50c on…\n#PredictionMarkets #Polymarket #NFL\nhttps://polymarket.com/sports/nhl/nhl-pit-chi-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>A 453-leg Kalshi combo is the weekend&#x27;s emblematic long shot<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh notable trade leads, in a different category from the last three editions…<br/>#PredictionMarkets #Kalshi<br/>https://closingline.substack.com/p/the-cashout-weekly-ny-sports-betting-kalshi-records<br/><br/>Tonight&#x27;s NHL board on Polymarket is tight outside Pittsburgh<br/>The Penguins lead the Blackhawks 61c to 40c for tonight&#x27;s 8 p.m. ET game on $11,365 traded, while the Bruins–Sharks late game is a near coin-flip at 51c to 50c on…<br/>#PredictionMarkets #Polymarket #NFL<br/>https://polymarket.com/sports/nhl/nhl-pit-chi-2026-10-13<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T10:39:00-04:00",
-      "date_modified": "2026-10-13T10:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://closingline.substack.com/p/the-cashout-weekly-ny-sports-betting-kalshi-records",
-      "links": [
-        "https://closingline.substack.com/p/the-cashout-weekly-ny-sports-betting-kalshi-records",
-        "https://polymarket.com/sports/nhl/nhl-pit-chi-2026-10-13"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:39 AM ET",
-      "body": "Infiniti Briefing\n\nA 453-leg Kalshi combo is the weekend's emblematic long shot\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh notable trade leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi\nhttps://closingline.substack.com/p/the-cashout-weekly-ny-sports-betting-kalshi-records\n\nTonight's NHL board on Polymarket is tight outside Pittsburgh\nThe Penguins lead the Blackhawks 61c to 40c for tonight's 8 p.m. ET game on $11,365 traded, while the Bruins–Sharks late game is a near coin-flip at 51c to 50c on…\n#PredictionMarkets #Polymarket #NFL\nhttps://polymarket.com/sports/nhl/nhl-pit-chi-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T10:39:00-04:00",
-      "source": "2026-10-13_1039-edt.md",
-      "matches_facebook_post": false
     }
   ]
 }
