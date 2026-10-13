@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T14:19:58.524046-04:00",
+  "updated": "2026-10-13T14:33:56.827212-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_1430-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1430-edt-0",
+      "title": "Kalshi ends trading volume incentive program early on October 13 as regulators scrutinize incentives",
+      "content_text": "- **Kalshi ends trading volume incentive program early on October 13 as regulators scrutinize incentives** — Kalshi filed with the CFTC to move the end date of its trading volume incentive program from October 1, 2027 to October 13, 2026, without giving a reason. The move follows reported CFTC attention to repeated trading patterns and wash trading concerns in prediction markets. ([Analytics Insight](https://www.analyticsinsight.net/news/kalshi-pulls-volume-rewards-as-questions-grow-over-usd-5-billion-in-trades))",
+      "content_html": "<p>- **Kalshi ends trading volume incentive program early on October 13 as regulators scrutinize incentives** — Kalshi filed with the CFTC to move the end date of its trading volume incentive program from October 1, 2027 to October 13, 2026, without giving a reason. The move follows reported CFTC attention to repeated trading patterns and wash trading concerns in prediction markets. ([Analytics Insight](https://www.analyticsinsight.net/news/kalshi-pulls-volume-rewards-as-questions-grow-over-usd-5-billion-in-trades))</p>",
+      "date_published": "2026-10-13T14:30:00-04:00",
+      "date_modified": "2026-10-13T14:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.analyticsinsight.net/news/kalshi-pulls-volume-rewards-as-questions-grow-over-usd-5-billion-in-trades",
+      "links": [
+        "https://www.analyticsinsight.net/news/kalshi-pulls-volume-rewards-as-questions-grow-over-usd-5-billion-in-trades"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 PM ET",
+      "body": "- **Kalshi ends trading volume incentive program early on October 13 as regulators scrutinize incentives** — Kalshi filed with the CFTC to move the end date of its trading volume incentive program from October 1, 2027 to October 13, 2026, without giving a reason. The move follows reported CFTC attention to repeated trading patterns and wash trading concerns in prediction markets. ([Analytics Insight](https://www.analyticsinsight.net/news/kalshi-pulls-volume-rewards-as-questions-grow-over-usd-5-billion-in-trades))",
+      "image_url": null,
+      "published": "2026-10-13T14:30:00-04:00",
+      "source": "2026-10-13_1430-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1430-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1430-edt-1",
+      "title": "Kalshi and Polymarket hit $8.56 billion in combined two-day trading volume",
+      "content_text": "- **Kalshi and Polymarket hit $8.56 billion in combined two-day trading volume** — Kalshi and Polymarket together recorded $8.56 billion in trading volume over two days, according to Coincu reporting. The scale is drawing institutional attention to liquidity depth and whether headline volume reflects two-sided trading. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
+      "content_html": "<p>- **Kalshi and Polymarket hit $8.56 billion in combined two-day trading volume** — Kalshi and Polymarket together recorded $8.56 billion in trading volume over two days, according to Coincu reporting. The scale is drawing institutional attention to liquidity depth and whether headline volume reflects two-sided trading. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))</p>",
+      "date_published": "2026-10-13T14:30:00-04:00",
+      "date_modified": "2026-10-13T14:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
+      "links": [
+        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 PM ET",
+      "body": "- **Kalshi and Polymarket hit $8.56 billion in combined two-day trading volume** — Kalshi and Polymarket together recorded $8.56 billion in trading volume over two days, according to Coincu reporting. The scale is drawing institutional attention to liquidity depth and whether headline volume reflects two-sided trading. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
+      "image_url": null,
+      "published": "2026-10-13T14:30:00-04:00",
+      "source": "2026-10-13_1430-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1430-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1430-edt-2",
+      "title": "NFL Week 6 winner markets price Seahawks at 59% and Chiefs at 79% on Kalshi and Polymarket",
+      "content_text": "- **NFL Week 6 winner markets price Seahawks at 59% and Chiefs at 79% on Kalshi and Polymarket** — A comparison of NFL Week 6 winner markets captured at 11:46 a.m. ET on October 13 priced Seattle at 59% against Denver, Kansas City at 79% against the Chargers, and Indianapolis at 75% against Tennessee on Kalshi and Polymarket US. Prices were closely aligned across the two platforms for most games. ([DefiRate](https://defirate.com/news/nfl-week-6-lines-latest-prices-kalshi/))",
+      "content_html": "<p>- **NFL Week 6 winner markets price Seahawks at 59% and Chiefs at 79% on Kalshi and Polymarket** — A comparison of NFL Week 6 winner markets captured at 11:46 a.m. ET on October 13 priced Seattle at 59% against Denver, Kansas City at 79% against the Chargers, and Indianapolis at 75% against Tennessee on Kalshi and Polymarket US. Prices were closely aligned across the two platforms for most games. ([DefiRate](https://defirate.com/news/nfl-week-6-lines-latest-prices-kalshi/))</p>",
+      "date_published": "2026-10-13T14:30:00-04:00",
+      "date_modified": "2026-10-13T14:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/news/nfl-week-6-lines-latest-prices-kalshi/",
+      "links": [
+        "https://defirate.com/news/nfl-week-6-lines-latest-prices-kalshi/"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 PM ET",
+      "body": "- **NFL Week 6 winner markets price Seahawks at 59% and Chiefs at 79% on Kalshi and Polymarket** — A comparison of NFL Week 6 winner markets captured at 11:46 a.m. ET on October 13 priced Seattle at 59% against Denver, Kansas City at 79% against the Chargers, and Indianapolis at 75% against Tennessee on Kalshi and Polymarket US. Prices were closely aligned across the two platforms for most games. ([DefiRate](https://defirate.com/news/nfl-week-6-lines-latest-prices-kalshi/))",
+      "image_url": null,
+      "published": "2026-10-13T14:30:00-04:00",
+      "source": "2026-10-13_1430-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1430-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1430-edt-3",
+      "title": "Polymarket rolls out Protocol V2, with new markets moving over on November 2",
+      "content_text": "- **Polymarket rolls out Protocol V2, with new markets moving over on November 2** — Polymarket has begun rolling out Protocol V2, an upgrade to its trading contract infrastructure announced on October 5. Newly created markets are targeted to move to V2 on November 2, while existing positions remain on their current contracts. ([KuCoin](https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2))",
+      "content_html": "<p>- **Polymarket rolls out Protocol V2, with new markets moving over on November 2** — Polymarket has begun rolling out Protocol V2, an upgrade to its trading contract infrastructure announced on October 5. Newly created markets are targeted to move to V2 on November 2, while existing positions remain on their current contracts. ([KuCoin](https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2))</p>",
+      "date_published": "2026-10-13T14:30:00-04:00",
+      "date_modified": "2026-10-13T14:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2",
+      "links": [
+        "https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 PM ET",
+      "body": "- **Polymarket rolls out Protocol V2, with new markets moving over on November 2** — Polymarket has begun rolling out Protocol V2, an upgrade to its trading contract infrastructure announced on October 5. Newly created markets are targeted to move to V2 on November 2, while existing positions remain on their current contracts. ([KuCoin](https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2))",
+      "image_url": null,
+      "published": "2026-10-13T14:30:00-04:00",
+      "source": "2026-10-13_1430-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1430-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1430-edt-4",
+      "title": "Polymarket inks Dow Jones data deal to feature its data across Wall Street Journal properties",
+      "content_text": "- **Polymarket inks Dow Jones data deal to feature its data across Wall Street Journal properties** — Polymarket and Dow Jones announced a partnership to make Polymarket data available across Dow Jones financial media properties, including The Wall Street Journal, Barron's and MarketWatch. Dow Jones plans new consumer features using the data, including a custom earnings calendar with market-implied expectations. ([Gamblerss](https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391))",
+      "content_html": "<p>- **Polymarket inks Dow Jones data deal to feature its data across Wall Street Journal properties** — Polymarket and Dow Jones announced a partnership to make Polymarket data available across Dow Jones financial media properties, including The Wall Street Journal, Barron&#x27;s and MarketWatch. Dow Jones plans new consumer features using the data, including a custom earnings calendar with market-implied expectations. ([Gamblerss](https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391))</p>",
+      "date_published": "2026-10-13T14:30:00-04:00",
+      "date_modified": "2026-10-13T14:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391",
+      "links": [
+        "https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 PM ET",
+      "body": "- **Polymarket inks Dow Jones data deal to feature its data across Wall Street Journal properties** — Polymarket and Dow Jones announced a partnership to make Polymarket data available across Dow Jones financial media properties, including The Wall Street Journal, Barron's and MarketWatch. Dow Jones plans new consumer features using the data, including a custom earnings calendar with market-implied expectations. ([Gamblerss](https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391))",
+      "image_url": null,
+      "published": "2026-10-13T14:30:00-04:00",
+      "source": "2026-10-13_1430-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_1424-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1424-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nGalatasaray vs. Barcelona is the board's most-traded market at $1.6M in 24 hours, with Barcelona at 77c on both venues\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh sports lead takes the top spot, in a different category from the last three…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/\n\nLens vs. Sporting CP is the board's widest same-match venue split: Sporting at 68c on Kalshi vs. 55c on Polymarket on $1.4M traded\nThe 13-point gap on the second-most-traded match on DeFi Rate's board contrasts with the locked 77c pricing on the lead match, with the total Over 1.5 goals at 63c — a…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Galatasaray vs. Barcelona is the board&#x27;s most-traded market at $1.6M in 24 hours, with Barcelona at 77c on both venues<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh sports lead takes the top spot, in a different category from the last three…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/odds/<br/><br/>Lens vs. Sporting CP is the board&#x27;s widest same-match venue split: Sporting at 68c on Kalshi vs. 55c on Polymarket on $1.4M traded<br/>The 13-point gap on the second-most-traded match on DeFi Rate&#x27;s board contrasts with the locked 77c pricing on the lead match, with the total Over 1.5 goals at 63c — a…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T14:24:00-04:00",
+      "date_modified": "2026-10-13T14:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/",
+      "links": [
+        "https://defirate.com/odds/"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:24 PM ET",
+      "body": "Infiniti Briefing\n\nGalatasaray vs. Barcelona is the board's most-traded market at $1.6M in 24 hours, with Barcelona at 77c on both venues\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh sports lead takes the top spot, in a different category from the last three…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/\n\nLens vs. Sporting CP is the board's widest same-match venue split: Sporting at 68c on Kalshi vs. 55c on Polymarket on $1.4M traded\nThe 13-point gap on the second-most-traded match on DeFi Rate's board contrasts with the locked 77c pricing on the lead match, with the total Over 1.5 goals at 63c — a…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T14:24:00-04:00",
+      "source": "2026-10-13_1424-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_1415-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1415-edt-0",
@@ -4514,190 +4694,6 @@
       "image_url": null,
       "published": "2026-10-13T08:09:00-04:00",
       "source": "2026-10-13_0809-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0800-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0800-edt-0",
-      "title": "Kalshi midterm board prices Democratic sweep at 61 cents as Senate view splits from AI panel",
-      "content_text": "- **Kalshi midterm board prices Democratic sweep at 61 cents as Senate view splits from AI panel** — Kalshi prices for October 13 put a Democratic House and Senate at 61 cents, a split Congress at 30 cents and a Republican sweep at 10 cents. A price-blind AI panel agreed on a Democratic House but put Senate control much lower, making the Senate the main gap. ([OddsShopper](https://www.oddsshopper.com/articles/prediction-markets/2026-midterm-election-odds))",
-      "content_html": "<p>- **Kalshi midterm board prices Democratic sweep at 61 cents as Senate view splits from AI panel** — Kalshi prices for October 13 put a Democratic House and Senate at 61 cents, a split Congress at 30 cents and a Republican sweep at 10 cents. A price-blind AI panel agreed on a Democratic House but put Senate control much lower, making the Senate the main gap. ([OddsShopper](https://www.oddsshopper.com/articles/prediction-markets/2026-midterm-election-odds))</p>",
-      "date_published": "2026-10-13T08:00:00-04:00",
-      "date_modified": "2026-10-13T08:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Congress",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.oddsshopper.com/articles/prediction-markets/2026-midterm-election-odds",
-      "links": [
-        "https://www.oddsshopper.com/articles/prediction-markets/2026-midterm-election-odds"
-      ],
-      "timestamp": "Oct 13, 2026 · 8:00 AM ET",
-      "body": "- **Kalshi midterm board prices Democratic sweep at 61 cents as Senate view splits from AI panel** — Kalshi prices for October 13 put a Democratic House and Senate at 61 cents, a split Congress at 30 cents and a Republican sweep at 10 cents. A price-blind AI panel agreed on a Democratic House but put Senate control much lower, making the Senate the main gap. ([OddsShopper](https://www.oddsshopper.com/articles/prediction-markets/2026-midterm-election-odds))",
-      "image_url": null,
-      "published": "2026-10-13T08:00:00-04:00",
-      "source": "2026-10-13_0800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0800-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0800-edt-1",
-      "title": "Rams priced at 61% over Bills on Kalshi in Monday Night Football market",
-      "content_text": "- **Rams priced at 61% over Bills on Kalshi in Monday Night Football market** — Kalshi popular markets for October 12 showed Los Angeles at 61% and Buffalo at 39% for their Monday night matchup, listed as the football market driving the most action as Week 5 closed. The same board also carried MLB postseason games including Dodgers-Brewers and Guardians-Rays. ([Saturday Down South](https://www.saturdaydownsouth.com/news/betting/kalshi-promo-code-rad55-claim-55-bonus-for-bills-rams-mnf/))",
-      "content_html": "<p>- **Rams priced at 61% over Bills on Kalshi in Monday Night Football market** — Kalshi popular markets for October 12 showed Los Angeles at 61% and Buffalo at 39% for their Monday night matchup, listed as the football market driving the most action as Week 5 closed. The same board also carried MLB postseason games including Dodgers-Brewers and Guardians-Rays. ([Saturday Down South](https://www.saturdaydownsouth.com/news/betting/kalshi-promo-code-rad55-claim-55-bonus-for-bills-rams-mnf/))</p>",
-      "date_published": "2026-10-13T08:00:00-04:00",
-      "date_modified": "2026-10-13T08:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.saturdaydownsouth.com/news/betting/kalshi-promo-code-rad55-claim-55-bonus-for-bills-rams-mnf/",
-      "links": [
-        "https://www.saturdaydownsouth.com/news/betting/kalshi-promo-code-rad55-claim-55-bonus-for-bills-rams-mnf/"
-      ],
-      "timestamp": "Oct 13, 2026 · 8:00 AM ET",
-      "body": "- **Rams priced at 61% over Bills on Kalshi in Monday Night Football market** — Kalshi popular markets for October 12 showed Los Angeles at 61% and Buffalo at 39% for their Monday night matchup, listed as the football market driving the most action as Week 5 closed. The same board also carried MLB postseason games including Dodgers-Brewers and Guardians-Rays. ([Saturday Down South](https://www.saturdaydownsouth.com/news/betting/kalshi-promo-code-rad55-claim-55-bonus-for-bills-rams-mnf/))",
-      "image_url": null,
-      "published": "2026-10-13T08:00:00-04:00",
-      "source": "2026-10-13_0800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0800-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0800-edt-2",
-      "title": "Dodgers priced at 55% over Brewers on Kalshi for NLCS Game 2",
-      "content_text": "- **Dodgers priced at 55% over Brewers on Kalshi for NLCS Game 2** — Kalshi MLB pricing for Dodgers vs. Brewers Game 2 on October 12 had Los Angeles at 55% and Milwaukee at 45% on the moneyline. The run line had Milwaukee plus 1.5 at 60 cents and the total was set at 6.5 runs. ([SportsHandle](https://sportshandle.com/dodgers-vs-brewers-prediction-claim-the-kalshi-promo-code-handle55-for-55-bonus-on-nlcs-game-2/))",
-      "content_html": "<p>- **Dodgers priced at 55% over Brewers on Kalshi for NLCS Game 2** — Kalshi MLB pricing for Dodgers vs. Brewers Game 2 on October 12 had Los Angeles at 55% and Milwaukee at 45% on the moneyline. The run line had Milwaukee plus 1.5 at 60 cents and the total was set at 6.5 runs. ([SportsHandle](https://sportshandle.com/dodgers-vs-brewers-prediction-claim-the-kalshi-promo-code-handle55-for-55-bonus-on-nlcs-game-2/))</p>",
-      "date_published": "2026-10-13T08:00:00-04:00",
-      "date_modified": "2026-10-13T08:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://sportshandle.com/dodgers-vs-brewers-prediction-claim-the-kalshi-promo-code-handle55-for-55-bonus-on-nlcs-game-2/",
-      "links": [
-        "https://sportshandle.com/dodgers-vs-brewers-prediction-claim-the-kalshi-promo-code-handle55-for-55-bonus-on-nlcs-game-2/"
-      ],
-      "timestamp": "Oct 13, 2026 · 8:00 AM ET",
-      "body": "- **Dodgers priced at 55% over Brewers on Kalshi for NLCS Game 2** — Kalshi MLB pricing for Dodgers vs. Brewers Game 2 on October 12 had Los Angeles at 55% and Milwaukee at 45% on the moneyline. The run line had Milwaukee plus 1.5 at 60 cents and the total was set at 6.5 runs. ([SportsHandle](https://sportshandle.com/dodgers-vs-brewers-prediction-claim-the-kalshi-promo-code-handle55-for-55-bonus-on-nlcs-game-2/))",
-      "image_url": null,
-      "published": "2026-10-13T08:00:00-04:00",
-      "source": "2026-10-13_0800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0800-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0800-edt-3",
-      "title": "Polymarket puts Bitcoin at 11% to reach $150,000 by end of 2026, Kalshi at 47% above $100,000",
-      "content_text": "- **Polymarket puts Bitcoin at 11% to reach $150,000 by end of 2026, Kalshi at 47% above $100,000** — A roundup of Bitcoin prediction markets found Polymarket traders assigning an 11% chance that Bitcoin reaches $150,000 by December 31, 2026. Kalshi data showed a 47% probability of Bitcoin surpassing $100,000 during 2026. ([Bitcoin.com News](https://news.bitcoin.com/will-btc-hit-six-figures-analyzing-prediction-market-odds-on-kalshi-polymarket-limitless-and-more/))",
-      "content_html": "<p>- **Polymarket puts Bitcoin at 11% to reach $150,000 by end of 2026, Kalshi at 47% above $100,000** — A roundup of Bitcoin prediction markets found Polymarket traders assigning an 11% chance that Bitcoin reaches $150,000 by December 31, 2026. Kalshi data showed a 47% probability of Bitcoin surpassing $100,000 during 2026. ([Bitcoin.com News](https://news.bitcoin.com/will-btc-hit-six-figures-analyzing-prediction-market-odds-on-kalshi-polymarket-limitless-and-more/))</p>",
-      "date_published": "2026-10-13T08:00:00-04:00",
-      "date_modified": "2026-10-13T08:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://news.bitcoin.com/will-btc-hit-six-figures-analyzing-prediction-market-odds-on-kalshi-polymarket-limitless-and-more/",
-      "links": [
-        "https://news.bitcoin.com/will-btc-hit-six-figures-analyzing-prediction-market-odds-on-kalshi-polymarket-limitless-and-more/"
-      ],
-      "timestamp": "Oct 13, 2026 · 8:00 AM ET",
-      "body": "- **Polymarket puts Bitcoin at 11% to reach $150,000 by end of 2026, Kalshi at 47% above $100,000** — A roundup of Bitcoin prediction markets found Polymarket traders assigning an 11% chance that Bitcoin reaches $150,000 by December 31, 2026. Kalshi data showed a 47% probability of Bitcoin surpassing $100,000 during 2026. ([Bitcoin.com News](https://news.bitcoin.com/will-btc-hit-six-figures-analyzing-prediction-market-odds-on-kalshi-polymarket-limitless-and-more/))",
-      "image_url": null,
-      "published": "2026-10-13T08:00:00-04:00",
-      "source": "2026-10-13_0800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0800-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0800-edt-4",
-      "title": "LeBron James NFL deal with Polymarket cited as mainstream push for crypto prediction markets",
-      "content_text": "- **LeBron James NFL deal with Polymarket cited as mainstream push for crypto prediction markets** — A report on Polymarket's NFL deal involving LeBron James said the first football market launch was expected in early October 2026 ahead of the NFL season peak. It said trading volumes in the first week and any CFTC guidance would be key signals for further sports partnerships. ([Financier News](https://financier.news/lebron-james-bets-on-polymarket-nfl-deal-signals-crypto-prediction-markets-enter-mainstream-poly/))",
-      "content_html": "<p>- **LeBron James NFL deal with Polymarket cited as mainstream push for crypto prediction markets** — A report on Polymarket&#x27;s NFL deal involving LeBron James said the first football market launch was expected in early October 2026 ahead of the NFL season peak. It said trading volumes in the first week and any CFTC guidance would be key signals for further sports partnerships. ([Financier News](https://financier.news/lebron-james-bets-on-polymarket-nfl-deal-signals-crypto-prediction-markets-enter-mainstream-poly/))</p>",
-      "date_published": "2026-10-13T08:00:00-04:00",
-      "date_modified": "2026-10-13T08:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "NFL",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://financier.news/lebron-james-bets-on-polymarket-nfl-deal-signals-crypto-prediction-markets-enter-mainstream-poly/",
-      "links": [
-        "https://financier.news/lebron-james-bets-on-polymarket-nfl-deal-signals-crypto-prediction-markets-enter-mainstream-poly/"
-      ],
-      "timestamp": "Oct 13, 2026 · 8:00 AM ET",
-      "body": "- **LeBron James NFL deal with Polymarket cited as mainstream push for crypto prediction markets** — A report on Polymarket's NFL deal involving LeBron James said the first football market launch was expected in early October 2026 ahead of the NFL season peak. It said trading volumes in the first week and any CFTC guidance would be key signals for further sports partnerships. ([Financier News](https://financier.news/lebron-james-bets-on-polymarket-nfl-deal-signals-crypto-prediction-markets-enter-mainstream-poly/))",
-      "image_url": null,
-      "published": "2026-10-13T08:00:00-04:00",
-      "source": "2026-10-13_0800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0754-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0754-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPolymarket open interest eases to $341M as trade count stays near 1.4M a day\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so a fresh volume snapshot leads, in a different category from the last three editions. DeFi…\n#PredictionMarkets #Polymarket\nhttps://defirate.com/prediction-markets/volume/polymarket/\n\nNovig scraps American odds for percentage pricing\nNovig has eliminated American-style odds on its sports prediction market in favor of percentages, with co-founder and CEO Jacob Fortinsky introducing an odds calculator…\n#PredictionMarkets #CFTC\nhttps://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket open interest eases to $341M as trade count stays near 1.4M a day<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so a fresh volume snapshot leads, in a different category from the last three editions. DeFi…<br/>#PredictionMarkets #Polymarket<br/>https://defirate.com/prediction-markets/volume/polymarket/<br/><br/>Novig scraps American odds for percentage pricing<br/>Novig has eliminated American-style odds on its sports prediction market in favor of percentages, with co-founder and CEO Jacob Fortinsky introducing an odds calculator…<br/>#PredictionMarkets #CFTC<br/>https://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T07:54:00-04:00",
-      "date_modified": "2026-10-13T07:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/polymarket/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/polymarket/",
-        "https://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341"
-      ],
-      "timestamp": "Oct 13, 2026 · 7:54 AM ET",
-      "body": "Infiniti Briefing\n\nPolymarket open interest eases to $341M as trade count stays near 1.4M a day\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so a fresh volume snapshot leads, in a different category from the last three editions. DeFi…\n#PredictionMarkets #Polymarket\nhttps://defirate.com/prediction-markets/volume/polymarket/\n\nNovig scraps American odds for percentage pricing\nNovig has eliminated American-style odds on its sports prediction market in favor of percentages, with co-founder and CEO Jacob Fortinsky introducing an odds calculator…\n#PredictionMarkets #CFTC\nhttps://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T07:54:00-04:00",
-      "source": "2026-10-13_0754-edt.md",
       "matches_facebook_post": false
     }
   ]
