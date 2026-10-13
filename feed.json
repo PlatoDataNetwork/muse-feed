@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T02:03:05.204366-04:00",
+  "updated": "2026-10-13T02:09:35.831084-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-13_0209-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0209-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss\nKalshi told the Cincinnati-based court on Oct. 9 that the three-judge panel erred in ruling states can apply gambling laws to its sports-event contracts and in finding…\n#PredictionMarkets #Kalshi #CFTC\nhttps://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win\n\nCzech Republic moving to block Kalshi by mid-October\nThe Czech Ministry of Finance added Kalshi to its unauthorized-gambling-operator blacklist on Sept. 30, giving ISPs 15 days to comply — the deadline expires now,…\n#PredictionMarkets #Kalshi\nhttps://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss<br/>Kalshi told the Cincinnati-based court on Oct. 9 that the three-judge panel erred in ruling states can apply gambling laws to its sports-event contracts and in finding…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win<br/><br/>Czech Republic moving to block Kalshi by mid-October<br/>The Czech Ministry of Finance added Kalshi to its unauthorized-gambling-operator blacklist on Sept. 30, giving ISPs 15 days to comply — the deadline expires now,…<br/>#PredictionMarkets #Kalshi<br/>https://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T02:09:00-04:00",
+      "date_modified": "2026-10-13T02:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win",
+      "links": [
+        "https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win",
+        "https://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:09 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss\nKalshi told the Cincinnati-based court on Oct. 9 that the three-judge panel erred in ruling states can apply gambling laws to its sports-event contracts and in finding…\n#PredictionMarkets #Kalshi #CFTC\nhttps://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win\n\nCzech Republic moving to block Kalshi by mid-October\nThe Czech Ministry of Finance added Kalshi to its unauthorized-gambling-operator blacklist on Sept. 30, giving ISPs 15 days to comply — the deadline expires now,…\n#PredictionMarkets #Kalshi\nhttps://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T02:09:00-04:00",
+      "source": "2026-10-13_0209-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0200-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0200-edt-0",
@@ -4677,35 +4709,6 @@
       ],
       "timestamp": "Oct 12, 2026 · 4:45 PM ET",
       "body": "- **Kalshi seeks full 6th Circuit review of states' regulation win** — Kalshi asked the full Sixth Circuit to review a three-judge panel ruling that Ohio and Tennessee can regulate it as unlicensed online sports gambling, arguing the panel erred and pointing to the CFTC's same-day proposals defining sports and other event contracts as federal swaps. The en banc petition, filed October 9, extends the industry's latest legal fight over whether state gambling laws reach federally registered prediction markets. ([Bloomberg Law](https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win))",
-      "image_url": null,
-      "published": "2026-10-12T16:45:00-04:00",
-      "source": "2026-10-12_1645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1645-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1645-edt-2",
-      "title": "Kalshi targets pop culture fans as entertainment trading hits $813 million",
-      "content_text": "- **Kalshi targets pop culture fans as entertainment trading hits $813 million** — Kalshi is pushing into entertainment contracts such as Dancing with the Stars and The Bachelor to court a wider audience: entertainment trading volume grew from $43 million in all of 2024 to $813 million so far in 2026, and the estimated share of female traders rose about 40% over the past year. Nearly $24 million was wagered on the winning Love Island couple, two-thirds of new users in that market were women, and the push is drawing familiar gambling-risk criticism. ([MarketWatch](https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e))",
-      "content_html": "<p>- **Kalshi targets pop culture fans as entertainment trading hits $813 million** — Kalshi is pushing into entertainment contracts such as Dancing with the Stars and The Bachelor to court a wider audience: entertainment trading volume grew from $43 million in all of 2024 to $813 million so far in 2026, and the estimated share of female traders rose about 40% over the past year. Nearly $24 million was wagered on the winning Love Island couple, two-thirds of new users in that market were women, and the push is drawing familiar gambling-risk criticism. ([MarketWatch](https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e))</p>",
-      "date_published": "2026-10-12T16:45:00-04:00",
-      "date_modified": "2026-10-12T16:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e",
-      "links": [
-        "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e"
-      ],
-      "timestamp": "Oct 12, 2026 · 4:45 PM ET",
-      "body": "- **Kalshi targets pop culture fans as entertainment trading hits $813 million** — Kalshi is pushing into entertainment contracts such as Dancing with the Stars and The Bachelor to court a wider audience: entertainment trading volume grew from $43 million in all of 2024 to $813 million so far in 2026, and the estimated share of female traders rose about 40% over the past year. Nearly $24 million was wagered on the winning Love Island couple, two-thirds of new users in that market were women, and the push is drawing familiar gambling-risk criticism. ([MarketWatch](https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e))",
       "image_url": null,
       "published": "2026-10-12T16:45:00-04:00",
       "source": "2026-10-12_1645-edt.json",
