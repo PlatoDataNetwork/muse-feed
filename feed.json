@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T02:09:35.831084-04:00",
+  "updated": "2026-10-13T02:32:51.464711-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,11 +128,199 @@
   ],
   "items": [
     {
+      "id": "web-2026-10-13_0230-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0230-edt-0",
+      "title": "Kalshi and Polymarket hit $8.56B in combined two-day trading volume",
+      "content_text": "- **Kalshi and Polymarket hit $8.56B in combined two-day trading volume** — Kalshi and Polymarket recorded a combined $8.56 billion in trading volume across a two-day window, placing the venues alongside mid-tier derivatives exchanges in raw turnover. Coincu notes the figure is unconfirmed by either platform and that Kalshi's published statistics may not reflect genuine two-sided liquidity. ([Coincu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
+      "content_html": "<p>- **Kalshi and Polymarket hit $8.56B in combined two-day trading volume** — Kalshi and Polymarket recorded a combined $8.56 billion in trading volume across a two-day window, placing the venues alongside mid-tier derivatives exchanges in raw turnover. Coincu notes the figure is unconfirmed by either platform and that Kalshi&#x27;s published statistics may not reflect genuine two-sided liquidity. ([Coincu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))</p>",
+      "date_published": "2026-10-13T02:30:00-04:00",
+      "date_modified": "2026-10-13T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
+      "links": [
+        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 AM ET",
+      "body": "- **Kalshi and Polymarket hit $8.56B in combined two-day trading volume** — Kalshi and Polymarket recorded a combined $8.56 billion in trading volume across a two-day window, placing the venues alongside mid-tier derivatives exchanges in raw turnover. Coincu notes the figure is unconfirmed by either platform and that Kalshi's published statistics may not reflect genuine two-sided liquidity. ([Coincu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
+      "image_url": null,
+      "published": "2026-10-13T02:30:00-04:00",
+      "source": "2026-10-13_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0230-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0230-edt-1",
+      "title": "Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low",
+      "content_text": "- **Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low** — Prediction markets give Bitcoin just a 2% chance of reaching $200,000 in 2026, a record low for the contract, with Polymarket pricing it between under 1% and 2%. Traders instead see a 63% chance of $90,000 and 28% for $100,000, with over $74 million in volume across the related contracts. ([TradingView / Crypto Briefing](https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
+      "content_html": "<p>- **Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low** — Prediction markets give Bitcoin just a 2% chance of reaching $200,000 in 2026, a record low for the contract, with Polymarket pricing it between under 1% and 2%. Traders instead see a 63% chance of $90,000 and 28% for $100,000, with over $74 million in volume across the related contracts. ([TradingView / Crypto Briefing](https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))</p>",
+      "date_published": "2026-10-13T02:30:00-04:00",
+      "date_modified": "2026-10-13T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/",
+      "links": [
+        "https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 AM ET",
+      "body": "- **Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low** — Prediction markets give Bitcoin just a 2% chance of reaching $200,000 in 2026, a record low for the contract, with Polymarket pricing it between under 1% and 2%. Traders instead see a 63% chance of $90,000 and 28% for $100,000, with over $74 million in volume across the related contracts. ([TradingView / Crypto Briefing](https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
+      "image_url": null,
+      "published": "2026-10-13T02:30:00-04:00",
+      "source": "2026-10-13_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0230-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0230-edt-2",
+      "title": "Iowa Senate race a toss-up on prediction markets as Hinson-Turek battle tightens",
+      "content_text": "- **Iowa Senate race a toss-up on prediction markets as Hinson-Turek battle tightens** — The Iowa Senate race between Ashley Hinson and Josh Turek is priced as a genuine toss-up on prediction markets, with Polymarket showing Hinson at 54 cents and Turek at 46 cents and Kalshi at 56 and 44 cents respectively. The race fills the open seat being vacated by retiring Sen. Joni Ernst. ([Action Network](https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions))",
+      "content_html": "<p>- **Iowa Senate race a toss-up on prediction markets as Hinson-Turek battle tightens** — The Iowa Senate race between Ashley Hinson and Josh Turek is priced as a genuine toss-up on prediction markets, with Polymarket showing Hinson at 54 cents and Turek at 46 cents and Kalshi at 56 and 44 cents respectively. The race fills the open seat being vacated by retiring Sen. Joni Ernst. ([Action Network](https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions))</p>",
+      "date_published": "2026-10-13T02:30:00-04:00",
+      "date_modified": "2026-10-13T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions",
+      "links": [
+        "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 AM ET",
+      "body": "- **Iowa Senate race a toss-up on prediction markets as Hinson-Turek battle tightens** — The Iowa Senate race between Ashley Hinson and Josh Turek is priced as a genuine toss-up on prediction markets, with Polymarket showing Hinson at 54 cents and Turek at 46 cents and Kalshi at 56 and 44 cents respectively. The race fills the open seat being vacated by retiring Sen. Joni Ernst. ([Action Network](https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions))",
+      "image_url": null,
+      "published": "2026-10-13T02:30:00-04:00",
+      "source": "2026-10-13_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0230-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0230-edt-3",
+      "title": "Le Pen leads 2027 French presidential markets at 42.5 cents on Kalshi and Polymarket",
+      "content_text": "- **Le Pen leads 2027 French presidential markets at 42.5 cents on Kalshi and Polymarket** — Marine Le Pen leads the 2027 French presidential election markets at 42.5 cents on Kalshi and 41.8 cents on Polymarket, well ahead of Edouard Philippe at 20.5 cents on both venues. David Lisnard and Jean-Luc Melenchon trail, with prices reflecting implied probabilities across four prediction-market platforms. ([Prediction.com](https://prediction.com/odds/who-will-win-the-2027-french-presidential-election))",
+      "content_html": "<p>- **Le Pen leads 2027 French presidential markets at 42.5 cents on Kalshi and Polymarket** — Marine Le Pen leads the 2027 French presidential election markets at 42.5 cents on Kalshi and 41.8 cents on Polymarket, well ahead of Edouard Philippe at 20.5 cents on both venues. David Lisnard and Jean-Luc Melenchon trail, with prices reflecting implied probabilities across four prediction-market platforms. ([Prediction.com](https://prediction.com/odds/who-will-win-the-2027-french-presidential-election))</p>",
+      "date_published": "2026-10-13T02:30:00-04:00",
+      "date_modified": "2026-10-13T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://prediction.com/odds/who-will-win-the-2027-french-presidential-election",
+      "links": [
+        "https://prediction.com/odds/who-will-win-the-2027-french-presidential-election"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 AM ET",
+      "body": "- **Le Pen leads 2027 French presidential markets at 42.5 cents on Kalshi and Polymarket** — Marine Le Pen leads the 2027 French presidential election markets at 42.5 cents on Kalshi and 41.8 cents on Polymarket, well ahead of Edouard Philippe at 20.5 cents on both venues. David Lisnard and Jean-Luc Melenchon trail, with prices reflecting implied probabilities across four prediction-market platforms. ([Prediction.com](https://prediction.com/odds/who-will-win-the-2027-french-presidential-election))",
+      "image_url": null,
+      "published": "2026-10-13T02:30:00-04:00",
+      "source": "2026-10-13_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0230-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0230-edt-4",
+      "title": "Michigan Senate: El-Sayed at 74% on Kalshi and Polymarket over Rogers",
+      "content_text": "- **Michigan Senate: El-Sayed at 74% on Kalshi and Polymarket over Rogers** — Abdul El-Sayed is priced as a clear favorite in the Michigan Senate race at 74% on both Kalshi and Polymarket, with Mike Rogers in the high 20s on both platforms. Cook Political Report still rates the seat a toss-up. ([Action Network](https://www.actionnetwork.com/news/kalshi-michigan-senate-race-odds-kalshi-2k-sign-up-bonus-for-michigan-senate-predictions-with-el-sayed-vs-rogers-predictions-analysis))",
+      "content_html": "<p>- **Michigan Senate: El-Sayed at 74% on Kalshi and Polymarket over Rogers** — Abdul El-Sayed is priced as a clear favorite in the Michigan Senate race at 74% on both Kalshi and Polymarket, with Mike Rogers in the high 20s on both platforms. Cook Political Report still rates the seat a toss-up. ([Action Network](https://www.actionnetwork.com/news/kalshi-michigan-senate-race-odds-kalshi-2k-sign-up-bonus-for-michigan-senate-predictions-with-el-sayed-vs-rogers-predictions-analysis))</p>",
+      "date_published": "2026-10-13T02:30:00-04:00",
+      "date_modified": "2026-10-13T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/kalshi-michigan-senate-race-odds-kalshi-2k-sign-up-bonus-for-michigan-senate-predictions-with-el-sayed-vs-rogers-predictions-analysis",
+      "links": [
+        "https://www.actionnetwork.com/news/kalshi-michigan-senate-race-odds-kalshi-2k-sign-up-bonus-for-michigan-senate-predictions-with-el-sayed-vs-rogers-predictions-analysis"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:30 AM ET",
+      "body": "- **Michigan Senate: El-Sayed at 74% on Kalshi and Polymarket over Rogers** — Abdul El-Sayed is priced as a clear favorite in the Michigan Senate race at 74% on both Kalshi and Polymarket, with Mike Rogers in the high 20s on both platforms. Cook Political Report still rates the seat a toss-up. ([Action Network](https://www.actionnetwork.com/news/kalshi-michigan-senate-race-odds-kalshi-2k-sign-up-bonus-for-michigan-senate-predictions-with-el-sayed-vs-rogers-predictions-analysis))",
+      "image_url": null,
+      "published": "2026-10-13T02:30:00-04:00",
+      "source": "2026-10-13_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0224-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nMidterm Senate odds slide across prediction markets\nDeFi Rate's cross-platform aggregation shows Democrats losing ground this week: Senate control (Dem) down 65%→62% (-3pts), Michigan Senate (Dem) down 72%→68% (-5pts,…\n#PredictionMarkets #Senate #Midterms\nhttps://defirate.com/?s\n\nGas-price and energy markets stay hot into the election run\nKalshi traders hold an 87% probability that average U.S. gasoline stays above $4/gal before the Nov. 3 vote, signaling little confidence in pledges to bring prices down.…\n#PredictionMarkets #Kalshi #Oil #Elections\nhttps://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Midterm Senate odds slide across prediction markets<br/>DeFi Rate&#x27;s cross-platform aggregation shows Democrats losing ground this week: Senate control (Dem) down 65%→62% (-3pts), Michigan Senate (Dem) down 72%→68% (-5pts,…<br/>#PredictionMarkets #Senate #Midterms<br/>https://defirate.com/?s<br/><br/>Gas-price and energy markets stay hot into the election run<br/>Kalshi traders hold an 87% probability that average U.S. gasoline stays above $4/gal before the Nov. 3 vote, signaling little confidence in pledges to bring prices down.…<br/>#PredictionMarkets #Kalshi #Oil #Elections<br/>https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T02:24:00-04:00",
+      "date_modified": "2026-10-13T02:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Senate",
+        "Midterms",
+        "Kalshi",
+        "Oil",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/?s",
+      "links": [
+        "https://defirate.com/?s",
+        "https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/"
+      ],
+      "timestamp": "Oct 13, 2026 · 2:24 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nMidterm Senate odds slide across prediction markets\nDeFi Rate's cross-platform aggregation shows Democrats losing ground this week: Senate control (Dem) down 65%→62% (-3pts), Michigan Senate (Dem) down 72%→68% (-5pts,…\n#PredictionMarkets #Senate #Midterms\nhttps://defirate.com/?s\n\nGas-price and energy markets stay hot into the election run\nKalshi traders hold an 87% probability that average U.S. gasoline stays above $4/gal before the Nov. 3 vote, signaling little confidence in pledges to bring prices down.…\n#PredictionMarkets #Kalshi #Oil #Elections\nhttps://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T02:24:00-04:00",
+      "source": "2026-10-13_0224-edt.md",
+      "matches_facebook_post": false
+    },
+    {
       "id": "infiniti-2026-10-13_0209-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0209-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss\nKalshi told the Cincinnati-based court on Oct. 9 that the three-judge panel erred in ruling states can apply gambling laws to its sports-event contracts and in finding…\n#PredictionMarkets #Kalshi #CFTC\nhttps://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win\n\nCzech Republic moving to block Kalshi by mid-October\nThe Czech Ministry of Finance added Kalshi to its unauthorized-gambling-operator blacklist on Sept. 30, giving ISPs 15 days to comply — the deadline expires now,…\n#PredictionMarkets #Kalshi\nhttps://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss<br/>Kalshi told the Cincinnati-based court on Oct. 9 that the three-judge panel erred in ruling states can apply gambling laws to its sports-event contracts and in finding…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win<br/><br/>Czech Republic moving to block Kalshi by mid-October<br/>The Czech Ministry of Finance added Kalshi to its unauthorized-gambling-operator blacklist on Sept. 30, giving ISPs 15 days to comply — the deadline expires now,…<br/>#PredictionMarkets #Kalshi<br/>https://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss\nKalshi argues the three-judge panel erred in letting states apply gambling laws to its sports-event contracts — while the CFTC proposed adding sports contracts to the federal swap definition.\n#Kalshi #PredictionMarkets #SixthCircuit\nhttps://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win\n\nCzech Republic moving to block Kalshi by mid-October\nThe Czech Ministry of Finance blacklisted Kalshi on Sept. 30; ISPs must block it within 15 days — the deadline lands now. EU regulators keep defaulting to gambling bans without a licensing framework.\n#Kalshi #PredictionMarkets #Regulation\nhttps://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026\n\nMarkets: Gold $4,171 | Brent $106 | BTC $82,788 | ETH $2,455\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss<br/>Kalshi argues the three-judge panel erred in letting states apply gambling laws to its sports-event contracts — while the CFTC proposed adding sports contracts to the federal swap definition.<br/>#Kalshi #PredictionMarkets #SixthCircuit<br/>https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win<br/><br/>Czech Republic moving to block Kalshi by mid-October<br/>The Czech Ministry of Finance blacklisted Kalshi on Sept. 30; ISPs must block it within 15 days — the deadline lands now. EU regulators keep defaulting to gambling bans without a licensing framework.<br/>#Kalshi #PredictionMarkets #Regulation<br/>https://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026<br/><br/>Markets: Gold $4,171 | Brent $106 | BTC $82,788 | ETH $2,455<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0209-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-13T02:09:00-04:00",
       "date_modified": "2026-10-13T02:09:00-04:00",
       "authors": [
@@ -142,22 +330,23 @@
         }
       ],
       "tags": [
-        "PredictionMarkets",
         "Kalshi",
-        "CFTC"
+        "PredictionMarkets",
+        "SixthCircuit",
+        "Regulation"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0209-edt.jpg",
       "external_url": "https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win",
       "links": [
         "https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win",
         "https://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026"
       ],
       "timestamp": "Oct 13, 2026 · 2:09 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss\nKalshi told the Cincinnati-based court on Oct. 9 that the three-judge panel erred in ruling states can apply gambling laws to its sports-event contracts and in finding…\n#PredictionMarkets #Kalshi #CFTC\nhttps://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win\n\nCzech Republic moving to block Kalshi by mid-October\nThe Czech Ministry of Finance added Kalshi to its unauthorized-gambling-operator blacklist on Sept. 30, giving ISPs 15 days to comply — the deadline expires now,…\n#PredictionMarkets #Kalshi\nhttps://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nKalshi asks full Sixth Circuit to rehear its Ohio/Tennessee loss\nKalshi argues the three-judge panel erred in letting states apply gambling laws to its sports-event contracts — while the CFTC proposed adding sports contracts to the federal swap definition.\n#Kalshi #PredictionMarkets #SixthCircuit\nhttps://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win\n\nCzech Republic moving to block Kalshi by mid-October\nThe Czech Ministry of Finance blacklisted Kalshi on Sept. 30; ISPs must block it within 15 days — the deadline lands now. EU regulators keep defaulting to gambling bans without a licensing framework.\n#Kalshi #PredictionMarkets #Regulation\nhttps://weebet.com/news/czech-republic-blocks-kalshi-prediction-market-2026\n\nMarkets: Gold $4,171 | Brent $106 | BTC $82,788 | ETH $2,455\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0209-edt.jpg",
       "published": "2026-10-13T02:09:00-04:00",
       "source": "2026-10-13_0209-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-13_0200-edt-0",
@@ -1237,8 +1426,8 @@
       "id": "infiniti-2026-10-13_0009-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0009-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi and Polymarket each eyeing ~$20bn valuations in fresh fundraising talks\nThe *Wall Street Journal* reports both platforms have held preliminary investor discussions that could roughly double their late-2025 marks (Kalshi $11bn Series E in…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nKalshi + Polymarket reportedly cleared $8.56B in two-day volume\nThe headline figure is circulating without a platform breakdown or contract-category detail, and the underlying methodology is unconfirmed; volume measures notional…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi and Polymarket each eyeing ~$20bn valuations in fresh fundraising talks<br/>The *Wall Street Journal* reports both platforms have held preliminary investor discussions that could roughly double their late-2025 marks (Kalshi $11bn Series E in…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100<br/><br/>Kalshi + Polymarket reportedly cleared $8.56B in two-day volume<br/>The headline figure is circulating without a platform breakdown or contract-category detail, and the underlying methodology is unconfirmed; volume measures notional…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi, Polymarket eye ~$20bn valuations in funding talks\nEarly talks could roughly double both platforms' late-2025 marks, per the WSJ, as legacy sportsbooks slide.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nKalshi + Polymarket reportedly cleared $8.56B in two-day volume\nNo platform breakdown or confirmed methodology; notional turnover, not exposure.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nBitcoin slips under $82K as Polymarket reprices overnight\n\"Above $82K on Oct 13\" fell 68.5% to 53% in six hours; $100K by year-end 26.5%.\n#Bitcoin #Crypto #PredictionMarkets\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc\n\nMarkets: Gold $4,191 | Brent $105 | BTC $82K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi, Polymarket eye ~$20bn valuations in funding talks<br/>Early talks could roughly double both platforms&#x27; late-2025 marks, per the WSJ, as legacy sportsbooks slide.<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100<br/><br/>Kalshi + Polymarket reportedly cleared $8.56B in two-day volume<br/>No platform breakdown or confirmed methodology; notional turnover, not exposure.<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/<br/><br/>Bitcoin slips under $82K as Polymarket reprices overnight<br/>&quot;Above $82K on Oct 13&quot; fell 68.5% to 53% in six hours; $100K by year-end 26.5%.<br/>#Bitcoin #Crypto #PredictionMarkets<br/>https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc<br/><br/>Markets: Gold $4,191 | Brent $105 | BTC $82K<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0009-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-13T00:09:00-04:00",
       "date_modified": "2026-10-13T00:09:00-04:00",
       "authors": [
@@ -1251,20 +1440,22 @@
         "PredictionMarkets",
         "Kalshi",
         "Polymarket",
-        "DraftKings"
+        "Bitcoin",
+        "Crypto"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0009-edt.jpg",
       "external_url": "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
       "links": [
         "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
-        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/"
+        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
+        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc"
       ],
       "timestamp": "Oct 13, 2026 · 12:09 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi and Polymarket each eyeing ~$20bn valuations in fresh fundraising talks\nThe *Wall Street Journal* reports both platforms have held preliminary investor discussions that could roughly double their late-2025 marks (Kalshi $11bn Series E in…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nKalshi + Polymarket reportedly cleared $8.56B in two-day volume\nThe headline figure is circulating without a platform breakdown or contract-category detail, and the underlying methodology is unconfirmed; volume measures notional…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nKalshi, Polymarket eye ~$20bn valuations in funding talks\nEarly talks could roughly double both platforms' late-2025 marks, per the WSJ, as legacy sportsbooks slide.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nKalshi + Polymarket reportedly cleared $8.56B in two-day volume\nNo platform breakdown or confirmed methodology; notional turnover, not exposure.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nBitcoin slips under $82K as Polymarket reprices overnight\n\"Above $82K on Oct 13\" fell 68.5% to 53% in six hours; $100K by year-end 26.5%.\n#Bitcoin #Crypto #PredictionMarkets\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc\n\nMarkets: Gold $4,191 | Brent $105 | BTC $82K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0009-edt.jpg",
       "published": "2026-10-13T00:09:00-04:00",
       "source": "2026-10-13_0009-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-13_0000-edt-0",
@@ -4525,193 +4716,6 @@
       "image_url": null,
       "published": "2026-10-12T17:32:29-04:00",
       "source": "2026-10-12_1730-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1700-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1700-edt-0",
-      "title": "Baltimore sues Kalshi and Polymarket over alleged illegal sports betting",
-      "content_text": "- **Baltimore sues Kalshi and Polymarket over alleged illegal sports betting** — Mayor Brandon Scott and the Baltimore City Council sued Kalshi and Polymarket on Thursday, alleging the platforms violate the city's consumer protection ordinance by operating unlicensed sports-betting platforms and misleading users about the legality of their event contracts. ([GambleRss](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))",
-      "content_html": "<p>- **Baltimore sues Kalshi and Polymarket over alleged illegal sports betting** — Mayor Brandon Scott and the Baltimore City Council sued Kalshi and Polymarket on Thursday, alleging the platforms violate the city&#x27;s consumer protection ordinance by operating unlicensed sports-betting platforms and misleading users about the legality of their event contracts. ([GambleRss](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))</p>",
-      "date_published": "2026-10-12T17:00:00-04:00",
-      "date_modified": "2026-10-12T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639",
-      "links": [
-        "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639"
-      ],
-      "timestamp": "Oct 12, 2026 · 5:00 PM ET",
-      "body": "- **Baltimore sues Kalshi and Polymarket over alleged illegal sports betting** — Mayor Brandon Scott and the Baltimore City Council sued Kalshi and Polymarket on Thursday, alleging the platforms violate the city's consumer protection ordinance by operating unlicensed sports-betting platforms and misleading users about the legality of their event contracts. ([GambleRss](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))",
-      "image_url": null,
-      "published": "2026-10-12T17:00:00-04:00",
-      "source": "2026-10-12_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1700-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1700-edt-1",
-      "title": "Prediction markets align on Patriots-Raiders, pricing New England near 63%",
-      "content_text": "- **Prediction markets align on Patriots-Raiders, pricing New England near 63%** — Prediction markets agree with sportsbooks that New England should beat Las Vegas: Kalshi prices the Patriots at roughly 62% to win and Polymarket at about 64%, though both markets price the 3.5-point spread as essentially a coin flip. ([Heavy](https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/))",
-      "content_html": "<p>- **Prediction markets align on Patriots-Raiders, pricing New England near 63%** — Prediction markets agree with sportsbooks that New England should beat Las Vegas: Kalshi prices the Patriots at roughly 62% to win and Polymarket at about 64%, though both markets price the 3.5-point spread as essentially a coin flip. ([Heavy](https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/))</p>",
-      "date_published": "2026-10-12T17:00:00-04:00",
-      "date_modified": "2026-10-12T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/",
-      "links": [
-        "https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/"
-      ],
-      "timestamp": "Oct 12, 2026 · 5:00 PM ET",
-      "body": "- **Prediction markets align on Patriots-Raiders, pricing New England near 63%** — Prediction markets agree with sportsbooks that New England should beat Las Vegas: Kalshi prices the Patriots at roughly 62% to win and Polymarket at about 64%, though both markets price the 3.5-point spread as essentially a coin flip. ([Heavy](https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/))",
-      "image_url": null,
-      "published": "2026-10-12T17:00:00-04:00",
-      "source": "2026-10-12_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1700-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1700-edt-2",
-      "title": "2028 election markets price Democrats near 61% as field spreads wide",
-      "content_text": "- **2028 election markets price Democrats near 61% as field spreads wide** — Across Polymarket and Kalshi, which have seen $3.10 billion in election volume, traders give Democrats about a 61% chance of winning the White House in 2028, with J.D. Vance the leading individual candidate near 22% and Democrats fielding a wide, spread-out bench. ([PredictMarketCap](https://predictmarketcap.com/elections/2028))",
-      "content_html": "<p>- **2028 election markets price Democrats near 61% as field spreads wide** — Across Polymarket and Kalshi, which have seen $3.10 billion in election volume, traders give Democrats about a 61% chance of winning the White House in 2028, with J.D. Vance the leading individual candidate near 22% and Democrats fielding a wide, spread-out bench. ([PredictMarketCap](https://predictmarketcap.com/elections/2028))</p>",
-      "date_published": "2026-10-12T17:00:00-04:00",
-      "date_modified": "2026-10-12T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictmarketcap.com/elections/2028",
-      "links": [
-        "https://predictmarketcap.com/elections/2028"
-      ],
-      "timestamp": "Oct 12, 2026 · 5:00 PM ET",
-      "body": "- **2028 election markets price Democrats near 61% as field spreads wide** — Across Polymarket and Kalshi, which have seen $3.10 billion in election volume, traders give Democrats about a 61% chance of winning the White House in 2028, with J.D. Vance the leading individual candidate near 22% and Democrats fielding a wide, spread-out bench. ([PredictMarketCap](https://predictmarketcap.com/elections/2028))",
-      "image_url": null,
-      "published": "2026-10-12T17:00:00-04:00",
-      "source": "2026-10-12_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_1654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1654-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nHSI raid on Ilhan Omar's DC home floods prediction markets on her legal fate\nKalshi's federal-charges contract lists Omar among the options; Polymarket hosts 100+ markets on her fate.\n#IlhanOmar #PredictionMarkets #Kalshi\nhttps://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid\n\nNBA in active talks with Kalshi and Polymarket\nTalks ramped up as the CFTC engages leagues; the NBA wants control over permitted markets and monitoring.\n#NBA #Kalshi #Polymarket\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nKalshi discussing raise at $40B; both eye IPOs next year\nReport puts Polymarket above $20B and Kalshi at $40B; nothing confirmed.\n#Polymarket #Kalshi #IPO\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nMarkets: Gold $4,173 | Brent $105.6 | BTC $83K | ETH $2,524\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>HSI raid on Ilhan Omar&#x27;s DC home floods prediction markets on her legal fate<br/>Kalshi&#x27;s federal-charges contract lists Omar among the options; Polymarket hosts 100+ markets on her fate.<br/>#IlhanOmar #PredictionMarkets #Kalshi<br/>https://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid<br/><br/>NBA in active talks with Kalshi and Polymarket<br/>Talks ramped up as the CFTC engages leagues; the NBA wants control over permitted markets and monitoring.<br/>#NBA #Kalshi #Polymarket<br/>https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665<br/><br/>Kalshi discussing raise at $40B; both eye IPOs next year<br/>Report puts Polymarket above $20B and Kalshi at $40B; nothing confirmed.<br/>#Polymarket #Kalshi #IPO<br/>https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/<br/><br/>Markets: Gold $4,173 | Brent $105.6 | BTC $83K | ETH $2,524<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_1654-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-12T16:54:00-04:00",
-      "date_modified": "2026-10-12T16:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "IlhanOmar",
-        "PredictionMarkets",
-        "Kalshi",
-        "NBA",
-        "Polymarket",
-        "IPO"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_1654-edt.jpg",
-      "external_url": "https://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid",
-      "links": [
-        "https://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid",
-        "https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665",
-        "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/"
-      ],
-      "timestamp": "Oct 12, 2026 · 4:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nHSI raid on Ilhan Omar's DC home floods prediction markets on her legal fate\nKalshi's federal-charges contract lists Omar among the options; Polymarket hosts 100+ markets on her fate.\n#IlhanOmar #PredictionMarkets #Kalshi\nhttps://www.actionnetwork.com/news/kalshi-bettors-flood-ilhan-omar-markets-after-hsi-raid\n\nNBA in active talks with Kalshi and Polymarket\nTalks ramped up as the CFTC engages leagues; the NBA wants control over permitted markets and monitoring.\n#NBA #Kalshi #Polymarket\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nKalshi discussing raise at $40B; both eye IPOs next year\nReport puts Polymarket above $20B and Kalshi at $40B; nothing confirmed.\n#Polymarket #Kalshi #IPO\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nMarkets: Gold $4,173 | Brent $105.6 | BTC $83K | ETH $2,524\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_1654-edt.jpg",
-      "published": "2026-10-12T16:54:00-04:00",
-      "source": "2026-10-12_1654-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-12_1645-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1645-edt-0",
-      "title": "Connecticut judge says CFTC cannot override court's reading of federal law in Kalshi case",
-      "content_text": "- **Connecticut judge says CFTC cannot override court's reading of federal law in Kalshi case** — U.S. District Judge Vernon D. Oliver ruled the CFTC cannot override his court's reading of federal law in Kalshi's Connecticut case, finding the agency's August market emergency order does not change his earlier conclusion that Kalshi's sports-event contracts are not swaps under the Commodity Exchange Act. The CFTC issued the order after New York Attorney General Letitia James sued Kalshi in state court; Connecticut's gaming laws stand. ([GambleRss](https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760))",
-      "content_html": "<p>- **Connecticut judge says CFTC cannot override court&#x27;s reading of federal law in Kalshi case** — U.S. District Judge Vernon D. Oliver ruled the CFTC cannot override his court&#x27;s reading of federal law in Kalshi&#x27;s Connecticut case, finding the agency&#x27;s August market emergency order does not change his earlier conclusion that Kalshi&#x27;s sports-event contracts are not swaps under the Commodity Exchange Act. The CFTC issued the order after New York Attorney General Letitia James sued Kalshi in state court; Connecticut&#x27;s gaming laws stand. ([GambleRss](https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760))</p>",
-      "date_published": "2026-10-12T16:45:00-04:00",
-      "date_modified": "2026-10-12T16:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760",
-      "links": [
-        "https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760"
-      ],
-      "timestamp": "Oct 12, 2026 · 4:45 PM ET",
-      "body": "- **Connecticut judge says CFTC cannot override court's reading of federal law in Kalshi case** — U.S. District Judge Vernon D. Oliver ruled the CFTC cannot override his court's reading of federal law in Kalshi's Connecticut case, finding the agency's August market emergency order does not change his earlier conclusion that Kalshi's sports-event contracts are not swaps under the Commodity Exchange Act. The CFTC issued the order after New York Attorney General Letitia James sued Kalshi in state court; Connecticut's gaming laws stand. ([GambleRss](https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760))",
-      "image_url": null,
-      "published": "2026-10-12T16:45:00-04:00",
-      "source": "2026-10-12_1645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1645-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1645-edt-1",
-      "title": "Kalshi seeks full 6th Circuit review of states' regulation win",
-      "content_text": "- **Kalshi seeks full 6th Circuit review of states' regulation win** — Kalshi asked the full Sixth Circuit to review a three-judge panel ruling that Ohio and Tennessee can regulate it as unlicensed online sports gambling, arguing the panel erred and pointing to the CFTC's same-day proposals defining sports and other event contracts as federal swaps. The en banc petition, filed October 9, extends the industry's latest legal fight over whether state gambling laws reach federally registered prediction markets. ([Bloomberg Law](https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win))",
-      "content_html": "<p>- **Kalshi seeks full 6th Circuit review of states&#x27; regulation win** — Kalshi asked the full Sixth Circuit to review a three-judge panel ruling that Ohio and Tennessee can regulate it as unlicensed online sports gambling, arguing the panel erred and pointing to the CFTC&#x27;s same-day proposals defining sports and other event contracts as federal swaps. The en banc petition, filed October 9, extends the industry&#x27;s latest legal fight over whether state gambling laws reach federally registered prediction markets. ([Bloomberg Law](https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win))</p>",
-      "date_published": "2026-10-12T16:45:00-04:00",
-      "date_modified": "2026-10-12T16:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win",
-      "links": [
-        "https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win"
-      ],
-      "timestamp": "Oct 12, 2026 · 4:45 PM ET",
-      "body": "- **Kalshi seeks full 6th Circuit review of states' regulation win** — Kalshi asked the full Sixth Circuit to review a three-judge panel ruling that Ohio and Tennessee can regulate it as unlicensed online sports gambling, arguing the panel erred and pointing to the CFTC's same-day proposals defining sports and other event contracts as federal swaps. The en banc petition, filed October 9, extends the industry's latest legal fight over whether state gambling laws reach federally registered prediction markets. ([Bloomberg Law](https://news.bloomberglaw.com/litigation/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win))",
-      "image_url": null,
-      "published": "2026-10-12T16:45:00-04:00",
-      "source": "2026-10-12_1645-edt.json",
       "matches_facebook_post": false
     }
   ]
