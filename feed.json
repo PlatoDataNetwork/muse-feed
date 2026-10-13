@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T09:36:11.578588-04:00",
+  "updated": "2026-10-13T09:51:13.839910-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,128 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0945-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0945-edt-0",
+      "title": "Kalshi 15-minute crypto markets settle higher across majors in the 9:00 AM ET window",
+      "content_text": "- **Kalshi 15-minute crypto markets settle higher across majors in the 9:00 AM ET window** — DeFi Rate data observed at 9:00 AM ET on October 13 showed Kalshi 15-minute crypto contracts settling higher for the closed window, with Bitcoin priced against a target of $83,161, Ethereum against $2,498 and Solana against $106.31. ([DeFi Rate](https://defirate.com/odds/crypto/))",
+      "content_html": "<p>- **Kalshi 15-minute crypto markets settle higher across majors in the 9:00 AM ET window** — DeFi Rate data observed at 9:00 AM ET on October 13 showed Kalshi 15-minute crypto contracts settling higher for the closed window, with Bitcoin priced against a target of $83,161, Ethereum against $2,498 and Solana against $106.31. ([DeFi Rate](https://defirate.com/odds/crypto/))</p>",
+      "date_published": "2026-10-13T09:45:00-04:00",
+      "date_modified": "2026-10-13T09:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/crypto/",
+      "links": [
+        "https://defirate.com/odds/crypto/"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:45 AM ET",
+      "body": "- **Kalshi 15-minute crypto markets settle higher across majors in the 9:00 AM ET window** — DeFi Rate data observed at 9:00 AM ET on October 13 showed Kalshi 15-minute crypto contracts settling higher for the closed window, with Bitcoin priced against a target of $83,161, Ethereum against $2,498 and Solana against $106.31. ([DeFi Rate](https://defirate.com/odds/crypto/))",
+      "image_url": null,
+      "published": "2026-10-13T09:45:00-04:00",
+      "source": "2026-10-13_0945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0945-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0945-edt-1",
+      "title": "Polymarket Fed path market prices Pause-Hike-Pause at 63% for October through January",
+      "content_text": "- **Polymarket Fed path market prices Pause-Hike-Pause at 63% for October through January** — Polymarket's market on Federal Reserve decisions from October through January prices a pause, then a hike, then a pause as the leading sequence at 63%, followed by three straight pauses at 11%. The market opened on September 30, 2026. ([Polymarket](https://polymarket.com/event/fed-decisions-oct-jan))",
+      "content_html": "<p>- **Polymarket Fed path market prices Pause-Hike-Pause at 63% for October through January** — Polymarket&#x27;s market on Federal Reserve decisions from October through January prices a pause, then a hike, then a pause as the leading sequence at 63%, followed by three straight pauses at 11%. The market opened on September 30, 2026. ([Polymarket](https://polymarket.com/event/fed-decisions-oct-jan))</p>",
+      "date_published": "2026-10-13T09:45:00-04:00",
+      "date_modified": "2026-10-13T09:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/fed-decisions-oct-jan",
+      "links": [
+        "https://polymarket.com/event/fed-decisions-oct-jan"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:45 AM ET",
+      "body": "- **Polymarket Fed path market prices Pause-Hike-Pause at 63% for October through January** — Polymarket's market on Federal Reserve decisions from October through January prices a pause, then a hike, then a pause as the leading sequence at 63%, followed by three straight pauses at 11%. The market opened on September 30, 2026. ([Polymarket](https://polymarket.com/event/fed-decisions-oct-jan))",
+      "image_url": null,
+      "published": "2026-10-13T09:45:00-04:00",
+      "source": "2026-10-13_0945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0945-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0945-edt-2",
+      "title": "Kalshi available statewide in Florida, with Republicans priced at 78% in governor market",
+      "content_text": "- **Kalshi available statewide in Florida, with Republicans priced at 78% in governor market** — A Sports Illustrated review updated in October 2026 notes Kalshi is available to eligible users across Florida, where the platform prices the Republican Party at a 78% probability in the Florida governor's race. The Florida offering also includes weather contracts on hurricanes and temperature thresholds settled using National Weather Service data. ([Sports Illustrated](https://www.si.com/prediction-markets/reviews/kalshi-florida))",
+      "content_html": "<p>- **Kalshi available statewide in Florida, with Republicans priced at 78% in governor market** — A Sports Illustrated review updated in October 2026 notes Kalshi is available to eligible users across Florida, where the platform prices the Republican Party at a 78% probability in the Florida governor&#x27;s race. The Florida offering also includes weather contracts on hurricanes and temperature thresholds settled using National Weather Service data. ([Sports Illustrated](https://www.si.com/prediction-markets/reviews/kalshi-florida))</p>",
+      "date_published": "2026-10-13T09:45:00-04:00",
+      "date_modified": "2026-10-13T09:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.si.com/prediction-markets/reviews/kalshi-florida",
+      "links": [
+        "https://www.si.com/prediction-markets/reviews/kalshi-florida"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:45 AM ET",
+      "body": "- **Kalshi available statewide in Florida, with Republicans priced at 78% in governor market** — A Sports Illustrated review updated in October 2026 notes Kalshi is available to eligible users across Florida, where the platform prices the Republican Party at a 78% probability in the Florida governor's race. The Florida offering also includes weather contracts on hurricanes and temperature thresholds settled using National Weather Service data. ([Sports Illustrated](https://www.si.com/prediction-markets/reviews/kalshi-florida))",
+      "image_url": null,
+      "published": "2026-10-13T09:45:00-04:00",
+      "source": "2026-10-13_0945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0939-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0939-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nPolymarket prices a U.S. recession in 2026 at just 9%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh macro contract leads, in a different category from the last three editions. The…\n#PredictionMarkets #Polymarket\nhttps://rotogrinders.com/best-prediction-market-apps/polymarket/recession\n\nKalshi prices the Dolphins as the likeliest last winless team to get a win\nThree teams are 0-5 entering Week 6 — Miami, Tennessee and the Los Angeles Chargers — and Kalshi's last-team-to-win market puts the Dolphins at 50%, the Titans at 29%…\n#PredictionMarkets #Kalshi\nhttps://www.covers.com/nfl/last-team-to-win-odds-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Polymarket prices a U.S. recession in 2026 at just 9%<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh macro contract leads, in a different category from the last three editions. The…<br/>#PredictionMarkets #Polymarket<br/>https://rotogrinders.com/best-prediction-market-apps/polymarket/recession<br/><br/>Kalshi prices the Dolphins as the likeliest last winless team to get a win<br/>Three teams are 0-5 entering Week 6 — Miami, Tennessee and the Los Angeles Chargers — and Kalshi&#x27;s last-team-to-win market puts the Dolphins at 50%, the Titans at 29%…<br/>#PredictionMarkets #Kalshi<br/>https://www.covers.com/nfl/last-team-to-win-odds-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T09:39:00-04:00",
+      "date_modified": "2026-10-13T09:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://rotogrinders.com/best-prediction-market-apps/polymarket/recession",
+      "links": [
+        "https://rotogrinders.com/best-prediction-market-apps/polymarket/recession",
+        "https://www.covers.com/nfl/last-team-to-win-odds-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:39 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket prices a U.S. recession in 2026 at just 9%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh macro contract leads, in a different category from the last three editions. The…\n#PredictionMarkets #Polymarket\nhttps://rotogrinders.com/best-prediction-market-apps/polymarket/recession\n\nKalshi prices the Dolphins as the likeliest last winless team to get a win\nThree teams are 0-5 entering Week 6 — Miami, Tennessee and the Los Angeles Chargers — and Kalshi's last-team-to-win market puts the Dolphins at 50%, the Titans at 29%…\n#PredictionMarkets #Kalshi\nhttps://www.covers.com/nfl/last-team-to-win-odds-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T09:39:00-04:00",
+      "source": "2026-10-13_0939-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0930-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0930-edt-0",
@@ -4545,128 +4667,6 @@
       "image_url": null,
       "published": "2026-10-13T04:00:00-04:00",
       "source": "2026-10-13_0400-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi holds about 76% of a $96.6B 30-day market\nDeFi Rate's volume tracker puts trading at about $96.6B over Sep. 13–Oct. 12 across prediction venues, with Kalshi at about $73.1B (about 76%) and Polymarket US second…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/prediction-markets/volume/\n\nMichigan Senate slide deepens as midterm prices soften\nMichigan Senate (Dem) has fallen 72% to 67% in seven days (-6 points) in the latest DeFi Rate snapshot, a point below the earlier overnight reading, while Senate control…\n#PredictionMarkets #Senate #Midterms\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi holds about 76% of a $96.6B 30-day market<br/>DeFi Rate&#x27;s volume tracker puts trading at about $96.6B over Sep. 13–Oct. 12 across prediction venues, with Kalshi at about $73.1B (about 76%) and Polymarket US second…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Michigan Senate slide deepens as midterm prices soften<br/>Michigan Senate (Dem) has fallen 72% to 67% in seven days (-6 points) in the latest DeFi Rate snapshot, a point below the earlier overnight reading, while Senate control…<br/>#PredictionMarkets #Senate #Midterms<br/>https://defirate.com/?ref=steemhunt<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T03:54:00-04:00",
-      "date_modified": "2026-10-13T03:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/",
-        "https://defirate.com/?ref=steemhunt"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi holds about 76% of a $96.6B 30-day market\nDeFi Rate's volume tracker puts trading at about $96.6B over Sep. 13–Oct. 12 across prediction venues, with Kalshi at about $73.1B (about 76%) and Polymarket US second…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/prediction-markets/volume/\n\nMichigan Senate slide deepens as midterm prices soften\nMichigan Senate (Dem) has fallen 72% to 67% in seven days (-6 points) in the latest DeFi Rate snapshot, a point below the earlier overnight reading, while Senate control…\n#PredictionMarkets #Senate #Midterms\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T03:54:00-04:00",
-      "source": "2026-10-13_0354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0345-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0345-edt-0",
-      "title": "Polymarket signs data deal with Dow Jones and The Wall Street Journal",
-      "content_text": "- **Polymarket signs data deal with Dow Jones and The Wall Street Journal** — Polymarket and Dow Jones announced a partnership to feature prediction-market data across Dow Jones financial outlets including The Wall Street Journal, Barron's and MarketWatch. Dow Jones plans new consumer features using the data, including a custom earnings calendar showing market-implied expectations for corporate results. ([GambleRss](https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391))",
-      "content_html": "<p>- **Polymarket signs data deal with Dow Jones and The Wall Street Journal** — Polymarket and Dow Jones announced a partnership to feature prediction-market data across Dow Jones financial outlets including The Wall Street Journal, Barron&#x27;s and MarketWatch. Dow Jones plans new consumer features using the data, including a custom earnings calendar showing market-implied expectations for corporate results. ([GambleRss](https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391))</p>",
-      "date_published": "2026-10-13T03:45:00-04:00",
-      "date_modified": "2026-10-13T03:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391",
-      "links": [
-        "https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:45 AM ET",
-      "body": "- **Polymarket signs data deal with Dow Jones and The Wall Street Journal** — Polymarket and Dow Jones announced a partnership to feature prediction-market data across Dow Jones financial outlets including The Wall Street Journal, Barron's and MarketWatch. Dow Jones plans new consumer features using the data, including a custom earnings calendar showing market-implied expectations for corporate results. ([GambleRss](https://gamblerss.com/polymarket-wall-street-journal-ink-data-deal-53391))",
-      "image_url": null,
-      "published": "2026-10-13T03:45:00-04:00",
-      "source": "2026-10-13_0345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0345-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0345-edt-1",
-      "title": "Polymarket partners with Nasdaq to launch private company prediction markets",
-      "content_text": "- **Polymarket partners with Nasdaq to launch private company prediction markets** — Polymarket has launched a new category of markets tied to private companies, developed with Nasdaq Private Market, which will provide underlying data and infrastructure. The contracts cover events such as fundraising rounds and valuation changes for pre-IPO companies, expanding Polymarket beyond politics, macro and public-company markets. ([Cointelegraph](https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets))",
-      "content_html": "<p>- **Polymarket partners with Nasdaq to launch private company prediction markets** — Polymarket has launched a new category of markets tied to private companies, developed with Nasdaq Private Market, which will provide underlying data and infrastructure. The contracts cover events such as fundraising rounds and valuation changes for pre-IPO companies, expanding Polymarket beyond politics, macro and public-company markets. ([Cointelegraph](https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets))</p>",
-      "date_published": "2026-10-13T03:45:00-04:00",
-      "date_modified": "2026-10-13T03:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets",
-      "links": [
-        "https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:45 AM ET",
-      "body": "- **Polymarket partners with Nasdaq to launch private company prediction markets** — Polymarket has launched a new category of markets tied to private companies, developed with Nasdaq Private Market, which will provide underlying data and infrastructure. The contracts cover events such as fundraising rounds and valuation changes for pre-IPO companies, expanding Polymarket beyond politics, macro and public-company markets. ([Cointelegraph](https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets))",
-      "image_url": null,
-      "published": "2026-10-13T03:45:00-04:00",
-      "source": "2026-10-13_0345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0345-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0345-edt-2",
-      "title": "Bills vs. Rams Monday night markets price Los Angeles at 61% on Kalshi",
-      "content_text": "- **Bills vs. Rams Monday night markets price Los Angeles at 61% on Kalshi** — Kalshi prices the Los Angeles Rams at 61% and the Buffalo Bills at 39% for their Monday Night Football matchup at SoFi Stadium. The spread market is close, with Buffalo +3.5 at 53% and Los Angeles -3.5 at 48%, and the 54.5 total is near even between over and under. ([Action Network](https://www.actionnetwork.com/news/bills-vs-rams-prediction-markets-my-monday-night-football-pick-kalshi-promo-code-action55))",
-      "content_html": "<p>- **Bills vs. Rams Monday night markets price Los Angeles at 61% on Kalshi** — Kalshi prices the Los Angeles Rams at 61% and the Buffalo Bills at 39% for their Monday Night Football matchup at SoFi Stadium. The spread market is close, with Buffalo +3.5 at 53% and Los Angeles -3.5 at 48%, and the 54.5 total is near even between over and under. ([Action Network](https://www.actionnetwork.com/news/bills-vs-rams-prediction-markets-my-monday-night-football-pick-kalshi-promo-code-action55))</p>",
-      "date_published": "2026-10-13T03:45:00-04:00",
-      "date_modified": "2026-10-13T03:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/bills-vs-rams-prediction-markets-my-monday-night-football-pick-kalshi-promo-code-action55",
-      "links": [
-        "https://www.actionnetwork.com/news/bills-vs-rams-prediction-markets-my-monday-night-football-pick-kalshi-promo-code-action55"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:45 AM ET",
-      "body": "- **Bills vs. Rams Monday night markets price Los Angeles at 61% on Kalshi** — Kalshi prices the Los Angeles Rams at 61% and the Buffalo Bills at 39% for their Monday Night Football matchup at SoFi Stadium. The spread market is close, with Buffalo +3.5 at 53% and Los Angeles -3.5 at 48%, and the 54.5 total is near even between over and under. ([Action Network](https://www.actionnetwork.com/news/bills-vs-rams-prediction-markets-my-monday-night-football-pick-kalshi-promo-code-action55))",
-      "image_url": null,
-      "published": "2026-10-13T03:45:00-04:00",
-      "source": "2026-10-13_0345-edt.json",
       "matches_facebook_post": false
     }
   ]
