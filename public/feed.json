@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T09:05:53.853313-04:00",
+  "updated": "2026-10-13T09:19:15.631954-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,184 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0915-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0915-edt-0",
+      "title": "CryptoStruct integrates with OG.com to bring CFTC-regulated prediction markets to algo traders",
+      "content_text": "- **CryptoStruct integrates with OG.com to bring CFTC-regulated prediction markets to algo traders** — CryptoStruct announced a partnership with OG.com on October 13 to give its algorithmic trading clients low-latency API access to CFTC-regulated event contracts on OG.com Markets. OG.com Markets is a regulated designated contract market and derivatives clearing organization that was spun off from Crypto.com in September 2026. ([Finbold](https://finbold.com/cryptostruct-integrates-with-og-com-to-bring-cftc-regulated-prediction-markets-to-algo-traders/))",
+      "content_html": "<p>- **CryptoStruct integrates with OG.com to bring CFTC-regulated prediction markets to algo traders** — CryptoStruct announced a partnership with OG.com on October 13 to give its algorithmic trading clients low-latency API access to CFTC-regulated event contracts on OG.com Markets. OG.com Markets is a regulated designated contract market and derivatives clearing organization that was spun off from Crypto.com in September 2026. ([Finbold](https://finbold.com/cryptostruct-integrates-with-og-com-to-bring-cftc-regulated-prediction-markets-to-algo-traders/))</p>",
+      "date_published": "2026-10-13T09:15:00-04:00",
+      "date_modified": "2026-10-13T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://finbold.com/cryptostruct-integrates-with-og-com-to-bring-cftc-regulated-prediction-markets-to-algo-traders/",
+      "links": [
+        "https://finbold.com/cryptostruct-integrates-with-og-com-to-bring-cftc-regulated-prediction-markets-to-algo-traders/"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:15 AM ET",
+      "body": "- **CryptoStruct integrates with OG.com to bring CFTC-regulated prediction markets to algo traders** — CryptoStruct announced a partnership with OG.com on October 13 to give its algorithmic trading clients low-latency API access to CFTC-regulated event contracts on OG.com Markets. OG.com Markets is a regulated designated contract market and derivatives clearing organization that was spun off from Crypto.com in September 2026. ([Finbold](https://finbold.com/cryptostruct-integrates-with-og-com-to-bring-cftc-regulated-prediction-markets-to-algo-traders/))",
+      "image_url": null,
+      "published": "2026-10-13T09:15:00-04:00",
+      "source": "2026-10-13_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0915-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0915-edt-1",
+      "title": "Oklahoma tribe launches PokkeTrades prediction market app in partnership with Kalshi",
+      "content_text": "- **Oklahoma tribe launches PokkeTrades prediction market app in partnership with Kalshi** — The Alabama-Quassarte Tribal Town has launched PokkeTrades, an online prediction market app built with Kalshi, which provides the exchange, clearing and custody infrastructure. The rollout is described as the first by an Oklahoma tribe and has drawn pushback from the state tribal gaming organization over sovereignty and gaming lines. ([The Oklahoman](https://www.oklahoman.com/story/business/economy/2026/10/11/pokketrades-adds-another-layer-to-oklahoma-tribal-gaming-debate/92173527007/))",
+      "content_html": "<p>- **Oklahoma tribe launches PokkeTrades prediction market app in partnership with Kalshi** — The Alabama-Quassarte Tribal Town has launched PokkeTrades, an online prediction market app built with Kalshi, which provides the exchange, clearing and custody infrastructure. The rollout is described as the first by an Oklahoma tribe and has drawn pushback from the state tribal gaming organization over sovereignty and gaming lines. ([The Oklahoman](https://www.oklahoman.com/story/business/economy/2026/10/11/pokketrades-adds-another-layer-to-oklahoma-tribal-gaming-debate/92173527007/))</p>",
+      "date_published": "2026-10-13T09:15:00-04:00",
+      "date_modified": "2026-10-13T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.oklahoman.com/story/business/economy/2026/10/11/pokketrades-adds-another-layer-to-oklahoma-tribal-gaming-debate/92173527007/",
+      "links": [
+        "https://www.oklahoman.com/story/business/economy/2026/10/11/pokketrades-adds-another-layer-to-oklahoma-tribal-gaming-debate/92173527007/"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:15 AM ET",
+      "body": "- **Oklahoma tribe launches PokkeTrades prediction market app in partnership with Kalshi** — The Alabama-Quassarte Tribal Town has launched PokkeTrades, an online prediction market app built with Kalshi, which provides the exchange, clearing and custody infrastructure. The rollout is described as the first by an Oklahoma tribe and has drawn pushback from the state tribal gaming organization over sovereignty and gaming lines. ([The Oklahoman](https://www.oklahoman.com/story/business/economy/2026/10/11/pokketrades-adds-another-layer-to-oklahoma-tribal-gaming-debate/92173527007/))",
+      "image_url": null,
+      "published": "2026-10-13T09:15:00-04:00",
+      "source": "2026-10-13_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0915-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0915-edt-2",
+      "title": "Betr to enter prediction markets through multi-year Polymarket partnership",
+      "content_text": "- **Betr to enter prediction markets through multi-year Polymarket partnership** — Betr said it will launch a prediction markets platform featuring Polymarket event contracts on its mobile app at some point this year. The companies described the agreement as multi-year, and financial terms were not disclosed. ([GambleRss](https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826))",
+      "content_html": "<p>- **Betr to enter prediction markets through multi-year Polymarket partnership** — Betr said it will launch a prediction markets platform featuring Polymarket event contracts on its mobile app at some point this year. The companies described the agreement as multi-year, and financial terms were not disclosed. ([GambleRss](https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826))</p>",
+      "date_published": "2026-10-13T09:15:00-04:00",
+      "date_modified": "2026-10-13T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826",
+      "links": [
+        "https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:15 AM ET",
+      "body": "- **Betr to enter prediction markets through multi-year Polymarket partnership** — Betr said it will launch a prediction markets platform featuring Polymarket event contracts on its mobile app at some point this year. The companies described the agreement as multi-year, and financial terms were not disclosed. ([GambleRss](https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826))",
+      "image_url": null,
+      "published": "2026-10-13T09:15:00-04:00",
+      "source": "2026-10-13_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0915-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0915-edt-3",
+      "title": "CFTC tells prediction markets to avoid moneyline odds in pricing displays",
+      "content_text": "- **CFTC tells prediction markets to avoid moneyline odds in pricing displays** — The CFTC, in a staff letter dated August 7, 2026, told regulated platforms to show event contract prices in nominal or percentage terms rather than American-style moneyline odds. The agency said sportsbook-style formats can confuse users about the nature of the instruments and reduce visibility into market depth. ([Bonus](https://www.bonus.com/news/cftc-tells-prediction-markets-to-stop-using-moneyline-odds-in-pricing-displays/))",
+      "content_html": "<p>- **CFTC tells prediction markets to avoid moneyline odds in pricing displays** — The CFTC, in a staff letter dated August 7, 2026, told regulated platforms to show event contract prices in nominal or percentage terms rather than American-style moneyline odds. The agency said sportsbook-style formats can confuse users about the nature of the instruments and reduce visibility into market depth. ([Bonus](https://www.bonus.com/news/cftc-tells-prediction-markets-to-stop-using-moneyline-odds-in-pricing-displays/))</p>",
+      "date_published": "2026-10-13T09:15:00-04:00",
+      "date_modified": "2026-10-13T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/cftc-tells-prediction-markets-to-stop-using-moneyline-odds-in-pricing-displays/",
+      "links": [
+        "https://www.bonus.com/news/cftc-tells-prediction-markets-to-stop-using-moneyline-odds-in-pricing-displays/"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:15 AM ET",
+      "body": "- **CFTC tells prediction markets to avoid moneyline odds in pricing displays** — The CFTC, in a staff letter dated August 7, 2026, told regulated platforms to show event contract prices in nominal or percentage terms rather than American-style moneyline odds. The agency said sportsbook-style formats can confuse users about the nature of the instruments and reduce visibility into market depth. ([Bonus](https://www.bonus.com/news/cftc-tells-prediction-markets-to-stop-using-moneyline-odds-in-pricing-displays/))",
+      "image_url": null,
+      "published": "2026-10-13T09:15:00-04:00",
+      "source": "2026-10-13_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0915-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0915-edt-4",
+      "title": "Patriots priced at 62-64% over Raiders on Kalshi and Polymarket",
+      "content_text": "- **Patriots priced at 62-64% over Raiders on Kalshi and Polymarket** — Kalshi priced New England at about 62% to beat Las Vegas and Polymarket at about 64%, as of early October 11. Both venues put the Patriots winning by more than 3.5 points near a coin flip, with the total around 45.5 points also close to even. ([Heavy](https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/))",
+      "content_html": "<p>- **Patriots priced at 62-64% over Raiders on Kalshi and Polymarket** — Kalshi priced New England at about 62% to beat Las Vegas and Polymarket at about 64%, as of early October 11. Both venues put the Patriots winning by more than 3.5 points near a coin flip, with the total around 45.5 points also close to even. ([Heavy](https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/))</p>",
+      "date_published": "2026-10-13T09:15:00-04:00",
+      "date_modified": "2026-10-13T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/",
+      "links": [
+        "https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:15 AM ET",
+      "body": "- **Patriots priced at 62-64% over Raiders on Kalshi and Polymarket** — Kalshi priced New England at about 62% to beat Las Vegas and Polymarket at about 64%, as of early October 11. Both venues put the Patriots winning by more than 3.5 points near a coin flip, with the total around 45.5 points also close to even. ([Heavy](https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/))",
+      "image_url": null,
+      "published": "2026-10-13T09:15:00-04:00",
+      "source": "2026-10-13_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0909-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0909-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi weekly volume hits $18.37B, more than double its level six weeks earlier\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so a fresh volume record leads, in a different category from the last three editions. Kalshi…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/news/sept-28-oct-4-2026-volume-report/\n\nTennessee is an 83% favorite at Arkansas on both venues, with no lean on the margin\nPolymarket and Kalshi both price Tennessee at 83% to win Saturday, but the 13.5-point spread sits near 51-52% and the total near 50%, as traders weigh a quarterback…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi weekly volume hits $18.37B, more than double its level six weeks earlier<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so a fresh volume record leads, in a different category from the last three editions. Kalshi…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/news/sept-28-oct-4-2026-volume-report/<br/><br/>Tennessee is an 83% favorite at Arkansas on both venues, with no lean on the margin<br/>Polymarket and Kalshi both price Tennessee at 83% to win Saturday, but the 13.5-point spread sits near 51-52% and the total near 50%, as traders weigh a quarterback…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T09:09:00-04:00",
+      "date_modified": "2026-10-13T09:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/news/sept-28-oct-4-2026-volume-report/",
+      "links": [
+        "https://defirate.com/news/sept-28-oct-4-2026-volume-report/",
+        "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
+      ],
+      "timestamp": "Oct 13, 2026 · 9:09 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi weekly volume hits $18.37B, more than double its level six weeks earlier\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so a fresh volume record leads, in a different category from the last three editions. Kalshi…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/news/sept-28-oct-4-2026-volume-report/\n\nTennessee is an 83% favorite at Arkansas on both venues, with no lean on the margin\nPolymarket and Kalshi both price Tennessee at 83% to win Saturday, but the 13.5-point spread sits near 51-52% and the total near 50%, as traders weigh a quarterback…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T09:09:00-04:00",
+      "source": "2026-10-13_0909-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0900-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0900-edt-0",
@@ -4487,191 +4665,6 @@
       "image_url": null,
       "published": "2026-10-13T03:30:00-04:00",
       "source": "2026-10-13_0330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0330-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0330-edt-3",
-      "title": "NBA championship markets split at the top between Thunder and Spurs",
-      "content_text": "- **NBA championship markets split at the top between Thunder and Spurs** — Kalshi favors the Oklahoma City Thunder at 22% to win the NBA Finals, while Polymarket puts the San Antonio Spurs on top at 21%. On Polymarket the Thunder sit at 20%, followed by the New York Knicks at 13% and the Philadelphia 76ers at 11%. ([WCIA](https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/))",
-      "content_html": "<p>- **NBA championship markets split at the top between Thunder and Spurs** — Kalshi favors the Oklahoma City Thunder at 22% to win the NBA Finals, while Polymarket puts the San Antonio Spurs on top at 21%. On Polymarket the Thunder sit at 20%, followed by the New York Knicks at 13% and the Philadelphia 76ers at 11%. ([WCIA](https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/))</p>",
-      "date_published": "2026-10-13T03:30:00-04:00",
-      "date_modified": "2026-10-13T03:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/",
-      "links": [
-        "https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:30 AM ET",
-      "body": "- **NBA championship markets split at the top between Thunder and Spurs** — Kalshi favors the Oklahoma City Thunder at 22% to win the NBA Finals, while Polymarket puts the San Antonio Spurs on top at 21%. On Polymarket the Thunder sit at 20%, followed by the New York Knicks at 13% and the Philadelphia 76ers at 11%. ([WCIA](https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/))",
-      "image_url": null,
-      "published": "2026-10-13T03:30:00-04:00",
-      "source": "2026-10-13_0330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0330-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0330-edt-4",
-      "title": "CFTC proposes prediction-market rules favoring many sports contracts",
-      "content_text": "- **CFTC proposes prediction-market rules favoring many sports contracts** — The CFTC has proposed rules distinguishing sports event contracts from games of pure chance, saying markets based on final scores and win-loss records can aid price discovery. Contracts tied to player injuries or officiating are unlikely to meet the public interest test, election contracts are clarified as not gaming, and the draft is open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))",
-      "content_html": "<p>- **CFTC proposes prediction-market rules favoring many sports contracts** — The CFTC has proposed rules distinguishing sports event contracts from games of pure chance, saying markets based on final scores and win-loss records can aid price discovery. Contracts tied to player injuries or officiating are unlikely to meet the public interest test, election contracts are clarified as not gaming, and the draft is open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))</p>",
-      "date_published": "2026-10-13T03:30:00-04:00",
-      "date_modified": "2026-10-13T03:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts",
-      "links": [
-        "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:30 AM ET",
-      "body": "- **CFTC proposes prediction-market rules favoring many sports contracts** — The CFTC has proposed rules distinguishing sports event contracts from games of pure chance, saying markets based on final scores and win-loss records can aid price discovery. Contracts tied to player injuries or officiating are unlikely to meet the public interest test, election contracts are clarified as not gaming, and the draft is open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))",
-      "image_url": null,
-      "published": "2026-10-13T03:30:00-04:00",
-      "source": "2026-10-13_0330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0324-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0324-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nBitcoin whipsaws back above $83.6K as Polymarket binaries reprice sharply\nAfter dipping below $81K overnight (24h low $80,943), BTC recovered to above $83,600 in a roughly 2.75% six-hour swing, reversing the slide that led the 12:09 AM…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc\n\nTexas Senate: markets hold Talarico at 67% despite tighter polls\nKalshi and Polymarket both price James Talarico at 67% to win the Texas Senate seat, with Ken Paxton at 35% on Kalshi and 36% on Polymarket — about as aligned as the two…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Bitcoin whipsaws back above $83.6K as Polymarket binaries reprice sharply<br/>After dipping below $81K overnight (24h low $80,943), BTC recovered to above $83,600 in a roughly 2.75% six-hour swing, reversing the slide that led the 12:09 AM…<br/>#PredictionMarkets #Polymarket #Bitcoin<br/>https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc<br/><br/>Texas Senate: markets hold Talarico at 67% despite tighter polls<br/>Kalshi and Polymarket both price James Talarico at 67% to win the Texas Senate seat, with Ken Paxton at 35% on Kalshi and 36% on Polymarket — about as aligned as the two…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T03:24:00-04:00",
-      "date_modified": "2026-10-13T03:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Kalshi",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc",
-      "links": [
-        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc",
-        "https://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:24 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nBitcoin whipsaws back above $83.6K as Polymarket binaries reprice sharply\nAfter dipping below $81K overnight (24h low $80,943), BTC recovered to above $83,600 in a roughly 2.75% six-hour swing, reversing the slide that led the 12:09 AM…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc\n\nTexas Senate: markets hold Talarico at 67% despite tighter polls\nKalshi and Polymarket both price James Talarico at 67% to win the Texas Senate seat, with Ken Paxton at 35% on Kalshi and 36% on Polymarket — about as aligned as the two…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T03:24:00-04:00",
-      "source": "2026-10-13_0324-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0315-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0315-edt-0",
-      "title": "Kalshi and Polymarket perpetual futures volumes raise questions over incentive-driven liquidity",
-      "content_text": "- **Kalshi and Polymarket perpetual futures volumes raise questions over incentive-driven liquidity** — Analysts note Kalshi bitcoin and ether perpetual futures volume runs many times open interest, which they link to market-maker incentives, while Polymarket and Hyperliquid show lower ratios. Kalshi says lower leverage and U.S. regulatory requirements also explain the difference. ([Metapress](https://metapress.net/world/2026/10/01/kalshi-polymarket-trading-volumes-on-some-products-raise-questions-amid-massive-growth/))",
-      "content_html": "<p>- **Kalshi and Polymarket perpetual futures volumes raise questions over incentive-driven liquidity** — Analysts note Kalshi bitcoin and ether perpetual futures volume runs many times open interest, which they link to market-maker incentives, while Polymarket and Hyperliquid show lower ratios. Kalshi says lower leverage and U.S. regulatory requirements also explain the difference. ([Metapress](https://metapress.net/world/2026/10/01/kalshi-polymarket-trading-volumes-on-some-products-raise-questions-amid-massive-growth/))</p>",
-      "date_published": "2026-10-13T03:15:00-04:00",
-      "date_modified": "2026-10-13T03:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://metapress.net/world/2026/10/01/kalshi-polymarket-trading-volumes-on-some-products-raise-questions-amid-massive-growth/",
-      "links": [
-        "https://metapress.net/world/2026/10/01/kalshi-polymarket-trading-volumes-on-some-products-raise-questions-amid-massive-growth/"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:15 AM ET",
-      "body": "- **Kalshi and Polymarket perpetual futures volumes raise questions over incentive-driven liquidity** — Analysts note Kalshi bitcoin and ether perpetual futures volume runs many times open interest, which they link to market-maker incentives, while Polymarket and Hyperliquid show lower ratios. Kalshi says lower leverage and U.S. regulatory requirements also explain the difference. ([Metapress](https://metapress.net/world/2026/10/01/kalshi-polymarket-trading-volumes-on-some-products-raise-questions-amid-massive-growth/))",
-      "image_url": null,
-      "published": "2026-10-13T03:15:00-04:00",
-      "source": "2026-10-13_0315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0315-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0315-edt-1",
-      "title": "October Fed hike odds fell in two sharp bursts on Kalshi and Polymarket",
-      "content_text": "- **October Fed hike odds fell in two sharp bursts on Kalshi and Polymarket** — An analysis of the October Fed decision contracts shows the implied hike probability dropped in two distinct bursts on Kalshi and Polymarket, with the platforms using different volume measures. Kalshi reports volume in contracts while Polymarket reports it in dollars, so the figures are not directly additive. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))",
-      "content_html": "<p>- **October Fed hike odds fell in two sharp bursts on Kalshi and Polymarket** — An analysis of the October Fed decision contracts shows the implied hike probability dropped in two distinct bursts on Kalshi and Polymarket, with the platforms using different volume measures. Kalshi reports volume in contracts while Polymarket reports it in dollars, so the figures are not directly additive. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))</p>",
-      "date_published": "2026-10-13T03:15:00-04:00",
-      "date_modified": "2026-10-13T03:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/",
-      "links": [
-        "https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:15 AM ET",
-      "body": "- **October Fed hike odds fell in two sharp bursts on Kalshi and Polymarket** — An analysis of the October Fed decision contracts shows the implied hike probability dropped in two distinct bursts on Kalshi and Polymarket, with the platforms using different volume measures. Kalshi reports volume in contracts while Polymarket reports it in dollars, so the figures are not directly additive. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))",
-      "image_url": null,
-      "published": "2026-10-13T03:15:00-04:00",
-      "source": "2026-10-13_0315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0315-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0315-edt-2",
-      "title": "Texas vs. Tennessee live markets show spread gap between Kalshi and Polymarket",
-      "content_text": "- **Texas vs. Tennessee live markets show spread gap between Kalshi and Polymarket** — Kalshi and Polymarket list different spreads for Texas vs. Tennessee, with Kalshi at Texas by more than 5.5 and Polymarket at 4.5, alongside differing totals. Game volume was listed near $977,558 on Kalshi and $77,530 on Polymarket entering Saturday. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/09/26/how-to-live-trade-texas-tennessee-kalshi-polymarket-prediction-markets-guide/))",
-      "content_html": "<p>- **Texas vs. Tennessee live markets show spread gap between Kalshi and Polymarket** — Kalshi and Polymarket list different spreads for Texas vs. Tennessee, with Kalshi at Texas by more than 5.5 and Polymarket at 4.5, alongside differing totals. Game volume was listed near $977,558 on Kalshi and $77,530 on Polymarket entering Saturday. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/09/26/how-to-live-trade-texas-tennessee-kalshi-polymarket-prediction-markets-guide/))</p>",
-      "date_published": "2026-10-13T03:15:00-04:00",
-      "date_modified": "2026-10-13T03:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.rockytopinsider.com/2026/09/26/how-to-live-trade-texas-tennessee-kalshi-polymarket-prediction-markets-guide/",
-      "links": [
-        "https://www.rockytopinsider.com/2026/09/26/how-to-live-trade-texas-tennessee-kalshi-polymarket-prediction-markets-guide/"
-      ],
-      "timestamp": "Oct 13, 2026 · 3:15 AM ET",
-      "body": "- **Texas vs. Tennessee live markets show spread gap between Kalshi and Polymarket** — Kalshi and Polymarket list different spreads for Texas vs. Tennessee, with Kalshi at Texas by more than 5.5 and Polymarket at 4.5, alongside differing totals. Game volume was listed near $977,558 on Kalshi and $77,530 on Polymarket entering Saturday. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/09/26/how-to-live-trade-texas-tennessee-kalshi-polymarket-prediction-markets-guide/))",
-      "image_url": null,
-      "published": "2026-10-13T03:15:00-04:00",
-      "source": "2026-10-13_0315-edt.json",
       "matches_facebook_post": false
     }
   ]
