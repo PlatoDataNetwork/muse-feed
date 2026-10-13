@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T10:19:19.145961-04:00",
+  "updated": "2026-10-13T10:35:29.355872-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,187 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_1030-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1030-edt-0",
+      "title": "Kalshi 15-minute gold markets surpass Ether in September volume",
+      "content_text": "- **Kalshi 15-minute gold markets surpass Ether in September volume** — Kalshi's 15-minute gold contracts, active since August, posted September volume roughly 70% above Ether's 318 million contracts, according to Cryptonomist reporting that cites Predict Charts data. Kalshi has also filed for perpetual contracts on gold, silver and platinum, with Pyth providing pricing for its commodity markets. ([Cryptonomist](https://en.cryptonomist.ch/2026/10/07/kalshi-gold-markets-volume/))",
+      "content_html": "<p>- **Kalshi 15-minute gold markets surpass Ether in September volume** — Kalshi&#x27;s 15-minute gold contracts, active since August, posted September volume roughly 70% above Ether&#x27;s 318 million contracts, according to Cryptonomist reporting that cites Predict Charts data. Kalshi has also filed for perpetual contracts on gold, silver and platinum, with Pyth providing pricing for its commodity markets. ([Cryptonomist](https://en.cryptonomist.ch/2026/10/07/kalshi-gold-markets-volume/))</p>",
+      "date_published": "2026-10-13T10:30:00-04:00",
+      "date_modified": "2026-10-13T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Gold",
+        "Silver"
+      ],
+      "image": null,
+      "external_url": "https://en.cryptonomist.ch/2026/10/07/kalshi-gold-markets-volume/",
+      "links": [
+        "https://en.cryptonomist.ch/2026/10/07/kalshi-gold-markets-volume/"
+      ],
+      "timestamp": "Oct 13, 2026 · 10:30 AM ET",
+      "body": "- **Kalshi 15-minute gold markets surpass Ether in September volume** — Kalshi's 15-minute gold contracts, active since August, posted September volume roughly 70% above Ether's 318 million contracts, according to Cryptonomist reporting that cites Predict Charts data. Kalshi has also filed for perpetual contracts on gold, silver and platinum, with Pyth providing pricing for its commodity markets. ([Cryptonomist](https://en.cryptonomist.ch/2026/10/07/kalshi-gold-markets-volume/))",
+      "image_url": null,
+      "published": "2026-10-13T10:30:00-04:00",
+      "source": "2026-10-13_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1030-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1030-edt-1",
+      "title": "Kalshi markets signal 2026 inflation has peaked but will stay sticky",
+      "content_text": "- **Kalshi markets signal 2026 inflation has peaked but will stay sticky** — Kalshi contracts price a median headline CPI of about 3.6% for late 2026, with core CPI concentrated near the mid-2% range, according to Particle News. Traders assign more than 90% probability to headline inflation staying above 3.4% in December and about a 21% chance it tops 4.0%. ([Particle News](https://particle.news/story/kalshi-markets-signal-2026-inflation-has-peaked-but-will-stay-sticky))",
+      "content_html": "<p>- **Kalshi markets signal 2026 inflation has peaked but will stay sticky** — Kalshi contracts price a median headline CPI of about 3.6% for late 2026, with core CPI concentrated near the mid-2% range, according to Particle News. Traders assign more than 90% probability to headline inflation staying above 3.4% in December and about a 21% chance it tops 4.0%. ([Particle News](https://particle.news/story/kalshi-markets-signal-2026-inflation-has-peaked-but-will-stay-sticky))</p>",
+      "date_published": "2026-10-13T10:30:00-04:00",
+      "date_modified": "2026-10-13T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://particle.news/story/kalshi-markets-signal-2026-inflation-has-peaked-but-will-stay-sticky",
+      "links": [
+        "https://particle.news/story/kalshi-markets-signal-2026-inflation-has-peaked-but-will-stay-sticky"
+      ],
+      "timestamp": "Oct 13, 2026 · 10:30 AM ET",
+      "body": "- **Kalshi markets signal 2026 inflation has peaked but will stay sticky** — Kalshi contracts price a median headline CPI of about 3.6% for late 2026, with core CPI concentrated near the mid-2% range, according to Particle News. Traders assign more than 90% probability to headline inflation staying above 3.4% in December and about a 21% chance it tops 4.0%. ([Particle News](https://particle.news/story/kalshi-markets-signal-2026-inflation-has-peaked-but-will-stay-sticky))",
+      "image_url": null,
+      "published": "2026-10-13T10:30:00-04:00",
+      "source": "2026-10-13_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1030-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1030-edt-2",
+      "title": "Polymarket and Kalshi odds split on Google vs Anthropic for 2026 top AI model",
+      "content_text": "- **Polymarket and Kalshi odds split on Google vs Anthropic for 2026 top AI model** — Polymarket traders price Google at 70% to produce the leading AI model by October 31, with Anthropic at 23% and OpenAI below 1%, according to Prediction News. Kalshi traders price the full-year race much closer, with Google at 43% and Anthropic at 41%. ([Prediction News](https://predictionnews.com/story/polymarket-and-kalshi-odds-split-on-google-vs-anthropic-for-best-ai-model-of-202))",
+      "content_html": "<p>- **Polymarket and Kalshi odds split on Google vs Anthropic for 2026 top AI model** — Polymarket traders price Google at 70% to produce the leading AI model by October 31, with Anthropic at 23% and OpenAI below 1%, according to Prediction News. Kalshi traders price the full-year race much closer, with Google at 43% and Anthropic at 41%. ([Prediction News](https://predictionnews.com/story/polymarket-and-kalshi-odds-split-on-google-vs-anthropic-for-best-ai-model-of-202))</p>",
+      "date_published": "2026-10-13T10:30:00-04:00",
+      "date_modified": "2026-10-13T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/polymarket-and-kalshi-odds-split-on-google-vs-anthropic-for-best-ai-model-of-202",
+      "links": [
+        "https://predictionnews.com/story/polymarket-and-kalshi-odds-split-on-google-vs-anthropic-for-best-ai-model-of-202"
+      ],
+      "timestamp": "Oct 13, 2026 · 10:30 AM ET",
+      "body": "- **Polymarket and Kalshi odds split on Google vs Anthropic for 2026 top AI model** — Polymarket traders price Google at 70% to produce the leading AI model by October 31, with Anthropic at 23% and OpenAI below 1%, according to Prediction News. Kalshi traders price the full-year race much closer, with Google at 43% and Anthropic at 41%. ([Prediction News](https://predictionnews.com/story/polymarket-and-kalshi-odds-split-on-google-vs-anthropic-for-best-ai-model-of-202))",
+      "image_url": null,
+      "published": "2026-10-13T10:30:00-04:00",
+      "source": "2026-10-13_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1030-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1030-edt-3",
+      "title": "Polymarket Netflix market prices Doing Life at 97% for number two global movie this week",
+      "content_text": "- **Polymarket Netflix market prices Doing Life at 97% for number two global movie this week** — Polymarket's market for the number two global Netflix movie this week prices Doing Life at 97%, followed by Animals at 5%. The market launched on October 6, 2026 and lists five possible outcomes. ([Polymarket](https://polymarket.com/event/what-will-be-the-2-global-netflix-movie-this-week-20261006t230000000z))",
+      "content_html": "<p>- **Polymarket Netflix market prices Doing Life at 97% for number two global movie this week** — Polymarket&#x27;s market for the number two global Netflix movie this week prices Doing Life at 97%, followed by Animals at 5%. The market launched on October 6, 2026 and lists five possible outcomes. ([Polymarket](https://polymarket.com/event/what-will-be-the-2-global-netflix-movie-this-week-20261006t230000000z))</p>",
+      "date_published": "2026-10-13T10:30:00-04:00",
+      "date_modified": "2026-10-13T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/what-will-be-the-2-global-netflix-movie-this-week-20261006t230000000z",
+      "links": [
+        "https://polymarket.com/event/what-will-be-the-2-global-netflix-movie-this-week-20261006t230000000z"
+      ],
+      "timestamp": "Oct 13, 2026 · 10:30 AM ET",
+      "body": "- **Polymarket Netflix market prices Doing Life at 97% for number two global movie this week** — Polymarket's market for the number two global Netflix movie this week prices Doing Life at 97%, followed by Animals at 5%. The market launched on October 6, 2026 and lists five possible outcomes. ([Polymarket](https://polymarket.com/event/what-will-be-the-2-global-netflix-movie-this-week-20261006t230000000z))",
+      "image_url": null,
+      "published": "2026-10-13T10:30:00-04:00",
+      "source": "2026-10-13_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1030-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1030-edt-4",
+      "title": "Polymarket Seoul temperature market prices 21 degrees Celsius at 100% for October 13",
+      "content_text": "- **Polymarket Seoul temperature market prices 21 degrees Celsius at 100% for October 13** — Polymarket's market for the highest temperature in Seoul (Incheon) on October 13 prices 21 degrees Celsius at 100%, with 16 degrees or below at 0%. The market has generated $70.3K in total trading volume since launching on October 11, 2026. ([Polymarket](https://polymarket.com/event/highest-temperature-in-seoul-on-october-13-2026))",
+      "content_html": "<p>- **Polymarket Seoul temperature market prices 21 degrees Celsius at 100% for October 13** — Polymarket&#x27;s market for the highest temperature in Seoul (Incheon) on October 13 prices 21 degrees Celsius at 100%, with 16 degrees or below at 0%. The market has generated $70.3K in total trading volume since launching on October 11, 2026. ([Polymarket](https://polymarket.com/event/highest-temperature-in-seoul-on-october-13-2026))</p>",
+      "date_published": "2026-10-13T10:30:00-04:00",
+      "date_modified": "2026-10-13T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/highest-temperature-in-seoul-on-october-13-2026",
+      "links": [
+        "https://polymarket.com/event/highest-temperature-in-seoul-on-october-13-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 10:30 AM ET",
+      "body": "- **Polymarket Seoul temperature market prices 21 degrees Celsius at 100% for October 13** — Polymarket's market for the highest temperature in Seoul (Incheon) on October 13 prices 21 degrees Celsius at 100%, with 16 degrees or below at 0%. The market has generated $70.3K in total trading volume since launching on October 11, 2026. ([Polymarket](https://polymarket.com/event/highest-temperature-in-seoul-on-october-13-2026))",
+      "image_url": null,
+      "published": "2026-10-13T10:30:00-04:00",
+      "source": "2026-10-13_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_1024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1024-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi's culture board leads its Oct. 13 listings: Oscars, Coachella and reality TV\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh culture snapshot leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi\nhttps://www.sportsbookreview.com/bonuses/kalshi-promo-code/\n\nWeekend volume breakdown widens beyond Kalshi: Polymarket US second, DraftKings third on Sunday\nNew operator detail behind the weekend record: Polymarket US cleared about $1.18B over Saturday–Sunday, up 13.2% on the prior weekend, while Sunday alone put DraftKings…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://www.covers.com/industry/prediction-markets-exceed-10-billion-in-weekend-notional-trading-volume-oct-13-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi&#x27;s culture board leads its Oct. 13 listings: Oscars, Coachella and reality TV<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh culture snapshot leads, in a different category from the last three editions…<br/>#PredictionMarkets #Kalshi<br/>https://www.sportsbookreview.com/bonuses/kalshi-promo-code/<br/><br/>Weekend volume breakdown widens beyond Kalshi: Polymarket US second, DraftKings third on Sunday<br/>New operator detail behind the weekend record: Polymarket US cleared about $1.18B over Saturday–Sunday, up 13.2% on the prior weekend, while Sunday alone put DraftKings…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://www.covers.com/industry/prediction-markets-exceed-10-billion-in-weekend-notional-trading-volume-oct-13-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T10:24:00-04:00",
+      "date_modified": "2026-10-13T10:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsbookreview.com/bonuses/kalshi-promo-code/",
+      "links": [
+        "https://www.sportsbookreview.com/bonuses/kalshi-promo-code/",
+        "https://www.covers.com/industry/prediction-markets-exceed-10-billion-in-weekend-notional-trading-volume-oct-13-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 10:24 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi's culture board leads its Oct. 13 listings: Oscars, Coachella and reality TV\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh culture snapshot leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi\nhttps://www.sportsbookreview.com/bonuses/kalshi-promo-code/\n\nWeekend volume breakdown widens beyond Kalshi: Polymarket US second, DraftKings third on Sunday\nNew operator detail behind the weekend record: Polymarket US cleared about $1.18B over Saturday–Sunday, up 13.2% on the prior weekend, while Sunday alone put DraftKings…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://www.covers.com/industry/prediction-markets-exceed-10-billion-in-weekend-notional-trading-volume-oct-13-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T10:24:00-04:00",
+      "source": "2026-10-13_1024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_1015-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1015-edt-0",
@@ -283,8 +464,8 @@
       "id": "infiniti-2026-10-13_1009-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1009-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nPolymarket's new Ilhan Omar charge market prices December 31 first at just 19%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political contract leads, in a different category from the last three editions…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/ilhan-omar-federally-charged-byptptpt\n\nNFC North flips to Minnesota: Vikings lead at 43% on Kalshi, 42% on Polymarket\nThe Oct. 13 reading puts Minnesota clear at the top, up 5 points, ahead of Detroit at 28%/27%, Chicago at 20%/22% (down 10 points) and Green Bay at 12%/10%, on $95,548…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Polymarket&#x27;s new Ilhan Omar charge market prices December 31 first at just 19%<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political contract leads, in a different category from the last three editions…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/ilhan-omar-federally-charged-byptptpt<br/><br/>NFC North flips to Minnesota: Vikings lead at 43% on Kalshi, 42% on Polymarket<br/>The Oct. 13 reading puts Minnesota clear at the top, up 5 points, ahead of Detroit at 28%/27%, Chicago at 20%/22% (down 10 points) and Green Bay at 12%/10%, on $95,548…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nPolymarket's new Ilhan Omar charge market prices December 31 first at just 19%\nLaunched Oct. 12: Dec. 31 leads at 19%, Oct. 31 at 10%, on $26.5K traded.\n#Politics #PredictionMarkets #Polymarket\nhttps://polymarket.com/event/ilhan-omar-federally-charged-byptptpt\n\nNFC North flips to Minnesota: Vikings lead at 43% on Kalshi, 42% on Polymarket\nMinnesota up 5 points, ahead of Detroit, Chicago and Green Bay, on $95,548 traded.\n#NFL #PredictionMarkets #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nBybit lists a pre-IPO perpetual on Polymarket itself\nBybit launched POLYMARKETUSDT to speculate on Polymarket's valuation ahead of any IPO.\n#Crypto #PredictionMarkets #Polymarket\nhttps://coinfomania.com/bybit-announces-new-pre-ipo-perpetual-contract-for-polymarket/\n\nMarkets: Gold $4,186 | Brent $104 | BTC $83,352 | ETH $2,498\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Polymarket&#x27;s new Ilhan Omar charge market prices December 31 first at just 19%<br/>Launched Oct. 12: Dec. 31 leads at 19%, Oct. 31 at 10%, on $26.5K traded.<br/>#Politics #PredictionMarkets #Polymarket<br/>https://polymarket.com/event/ilhan-omar-federally-charged-byptptpt<br/><br/>NFC North flips to Minnesota: Vikings lead at 43% on Kalshi, 42% on Polymarket<br/>Minnesota up 5 points, ahead of Detroit, Chicago and Green Bay, on $95,548 traded.<br/>#NFL #PredictionMarkets #Kalshi<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>Bybit lists a pre-IPO perpetual on Polymarket itself<br/>Bybit launched POLYMARKETUSDT to speculate on Polymarket&#x27;s valuation ahead of any IPO.<br/>#Crypto #PredictionMarkets #Polymarket<br/>https://coinfomania.com/bybit-announces-new-pre-ipo-perpetual-contract-for-polymarket/<br/><br/>Markets: Gold $4,186 | Brent $104 | BTC $83,352 | ETH $2,498<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_1009-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-13T10:09:00-04:00",
       "date_modified": "2026-10-13T10:09:00-04:00",
       "authors": [
@@ -294,22 +475,26 @@
         }
       ],
       "tags": [
+        "Politics",
         "PredictionMarkets",
         "Polymarket",
-        "Kalshi"
+        "NFL",
+        "Kalshi",
+        "Crypto"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_1009-edt.jpg",
       "external_url": "https://polymarket.com/event/ilhan-omar-federally-charged-byptptpt",
       "links": [
         "https://polymarket.com/event/ilhan-omar-federally-charged-byptptpt",
-        "https://ipredicta.co/insights/nfl-division-winners-2026/"
+        "https://ipredicta.co/insights/nfl-division-winners-2026/",
+        "https://coinfomania.com/bybit-announces-new-pre-ipo-perpetual-contract-for-polymarket/"
       ],
       "timestamp": "Oct 13, 2026 · 10:09 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket's new Ilhan Omar charge market prices December 31 first at just 19%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political contract leads, in a different category from the last three editions…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/ilhan-omar-federally-charged-byptptpt\n\nNFC North flips to Minnesota: Vikings lead at 43% on Kalshi, 42% on Polymarket\nThe Oct. 13 reading puts Minnesota clear at the top, up 5 points, ahead of Detroit at 28%/27%, Chicago at 20%/22% (down 10 points) and Green Bay at 12%/10%, on $95,548…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nPolymarket's new Ilhan Omar charge market prices December 31 first at just 19%\nLaunched Oct. 12: Dec. 31 leads at 19%, Oct. 31 at 10%, on $26.5K traded.\n#Politics #PredictionMarkets #Polymarket\nhttps://polymarket.com/event/ilhan-omar-federally-charged-byptptpt\n\nNFC North flips to Minnesota: Vikings lead at 43% on Kalshi, 42% on Polymarket\nMinnesota up 5 points, ahead of Detroit, Chicago and Green Bay, on $95,548 traded.\n#NFL #PredictionMarkets #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nBybit lists a pre-IPO perpetual on Polymarket itself\nBybit launched POLYMARKETUSDT to speculate on Polymarket's valuation ahead of any IPO.\n#Crypto #PredictionMarkets #Polymarket\nhttps://coinfomania.com/bybit-announces-new-pre-ipo-perpetual-contract-for-polymarket/\n\nMarkets: Gold $4,186 | Brent $104 | BTC $83,352 | ETH $2,498\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_1009-edt.jpg",
       "published": "2026-10-13T10:09:00-04:00",
       "source": "2026-10-13_1009-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-13_1000-edt-0",
@@ -464,8 +649,8 @@
       "id": "infiniti-2026-10-13_0954-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0954-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi now favors Trinidad Chambliss to win the Heisman\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh sports contract leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi\nhttps://www.si.com/prediction-markets/college\n\nPolymarket's SI.gov launch market prices Oct. 31 at 84%\nThe market, launched Oct. 7, asks when SI.gov will launch, with Oct. 31 the leading outcome at 84% and Oct. 15 next at 54% — a government-tech contract distinct from…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/will-siptgov-launch-by\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi now favors Trinidad Chambliss to win the Heisman<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh sports contract leads, in a different category from the last three editions…<br/>#PredictionMarkets #Kalshi<br/>https://www.si.com/prediction-markets/college<br/><br/>Polymarket&#x27;s SI.gov launch market prices Oct. 31 at 84%<br/>The market, launched Oct. 7, asks when SI.gov will launch, with Oct. 31 the leading outcome at 84% and Oct. 15 next at 54% — a government-tech contract distinct from…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/will-siptgov-launch-by<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi now favors Trinidad Chambliss to win the Heisman\nKalshi favors Chambliss for the Heisman, with Georgia gaining steam in the National Championship market.\n#Heisman #CollegeFootball #Kalshi #PredictionMarkets\nhttps://www.si.com/prediction-markets/college\n\nPolymarket's SI.gov launch market prices Oct. 31 at 84%\nThe market asks when SI.gov will launch, with Oct. 31 at 84% and Oct. 15 next at 54%.\n#Polymarket #GovTech #PredictionMarkets\nhttps://polymarket.com/event/will-siptgov-launch-by\n\nBitcoin leverage flush clears about $800M as BTC holds near $83,650\nAbout $800M in leveraged bets were forced out as BTC recovered above $83,000 after dipping under $81,000.\n#Bitcoin #Crypto #PredictionMarkets\nhttps://coinjuice.com/research-hub/what-happened-in-bitcoin-today-october-13-2026\n\nMarkets: Gold $4,190 | Brent $104.6 | BTC $83,608 | ETH $2,528\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi now favors Trinidad Chambliss to win the Heisman<br/>Kalshi favors Chambliss for the Heisman, with Georgia gaining steam in the National Championship market.<br/>#Heisman #CollegeFootball #Kalshi #PredictionMarkets<br/>https://www.si.com/prediction-markets/college<br/><br/>Polymarket&#x27;s SI.gov launch market prices Oct. 31 at 84%<br/>The market asks when SI.gov will launch, with Oct. 31 at 84% and Oct. 15 next at 54%.<br/>#Polymarket #GovTech #PredictionMarkets<br/>https://polymarket.com/event/will-siptgov-launch-by<br/><br/>Bitcoin leverage flush clears about $800M as BTC holds near $83,650<br/>About $800M in leveraged bets were forced out as BTC recovered above $83,000 after dipping under $81,000.<br/>#Bitcoin #Crypto #PredictionMarkets<br/>https://coinjuice.com/research-hub/what-happened-in-bitcoin-today-october-13-2026<br/><br/>Markets: Gold $4,190 | Brent $104.6 | BTC $83,608 | ETH $2,528<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0954-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-13T09:54:00-04:00",
       "date_modified": "2026-10-13T09:54:00-04:00",
       "authors": [
@@ -475,22 +660,28 @@
         }
       ],
       "tags": [
-        "PredictionMarkets",
+        "Heisman",
+        "CollegeFootball",
         "Kalshi",
-        "Polymarket"
+        "PredictionMarkets",
+        "Polymarket",
+        "GovTech",
+        "Bitcoin",
+        "Crypto"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0954-edt.jpg",
       "external_url": "https://www.si.com/prediction-markets/college",
       "links": [
         "https://www.si.com/prediction-markets/college",
-        "https://polymarket.com/event/will-siptgov-launch-by"
+        "https://polymarket.com/event/will-siptgov-launch-by",
+        "https://coinjuice.com/research-hub/what-happened-in-bitcoin-today-october-13-2026"
       ],
       "timestamp": "Oct 13, 2026 · 9:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi now favors Trinidad Chambliss to win the Heisman\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh sports contract leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi\nhttps://www.si.com/prediction-markets/college\n\nPolymarket's SI.gov launch market prices Oct. 31 at 84%\nThe market, launched Oct. 7, asks when SI.gov will launch, with Oct. 31 the leading outcome at 84% and Oct. 15 next at 54% — a government-tech contract distinct from…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/will-siptgov-launch-by\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nKalshi now favors Trinidad Chambliss to win the Heisman\nKalshi favors Chambliss for the Heisman, with Georgia gaining steam in the National Championship market.\n#Heisman #CollegeFootball #Kalshi #PredictionMarkets\nhttps://www.si.com/prediction-markets/college\n\nPolymarket's SI.gov launch market prices Oct. 31 at 84%\nThe market asks when SI.gov will launch, with Oct. 31 at 84% and Oct. 15 next at 54%.\n#Polymarket #GovTech #PredictionMarkets\nhttps://polymarket.com/event/will-siptgov-launch-by\n\nBitcoin leverage flush clears about $800M as BTC holds near $83,650\nAbout $800M in leveraged bets were forced out as BTC recovered above $83,000 after dipping under $81,000.\n#Bitcoin #Crypto #PredictionMarkets\nhttps://coinjuice.com/research-hub/what-happened-in-bitcoin-today-october-13-2026\n\nMarkets: Gold $4,190 | Brent $104.6 | BTC $83,608 | ETH $2,528\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0954-edt.jpg",
       "published": "2026-10-13T09:54:00-04:00",
       "source": "2026-10-13_0954-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-13_0945-edt-0",
@@ -4496,185 +4687,6 @@
       "image_url": null,
       "published": "2026-10-13T04:45:00-04:00",
       "source": "2026-10-13_0445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0439-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0439-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nPolymarket Protocol V2 in canary testing ahead of a Nov. 2 switchover for new markets\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest product development leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/\n\nPolymarket US traded $2.72B in a single week, up more than 44x this year\nWeekly notional volume rose from $60.8M in early January to $2.72B in the week ending in early October, peaking at $698.8M on Oct. 11 alone, with a trailing 30-day total…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cryptobriefing.com/polymarket-us-weekly-volume-surge/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Polymarket Protocol V2 in canary testing ahead of a Nov. 2 switchover for new markets<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest product development leads, in a different category from the last three editions.…<br/>#PredictionMarkets #Polymarket<br/>https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/<br/><br/>Polymarket US traded $2.72B in a single week, up more than 44x this year<br/>Weekly notional volume rose from $60.8M in early January to $2.72B in the week ending in early October, peaking at $698.8M on Oct. 11 alone, with a trailing 30-day total…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://cryptobriefing.com/polymarket-us-weekly-volume-surge/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T04:39:00-04:00",
-      "date_modified": "2026-10-13T04:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/",
-      "links": [
-        "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/",
-        "https://cryptobriefing.com/polymarket-us-weekly-volume-surge/"
-      ],
-      "timestamp": "Oct 13, 2026 · 4:39 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket Protocol V2 in canary testing ahead of a Nov. 2 switchover for new markets\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest product development leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/\n\nPolymarket US traded $2.72B in a single week, up more than 44x this year\nWeekly notional volume rose from $60.8M in early January to $2.72B in the week ending in early October, peaking at $698.8M on Oct. 11 alone, with a trailing 30-day total…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cryptobriefing.com/polymarket-us-weekly-volume-surge/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T04:39:00-04:00",
-      "source": "2026-10-13_0439-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0430-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0430-edt-0",
-      "title": "Polymarket and Kalshi align on 2026 House odds at 91-93% for Democrats, split on 2028 presidential",
-      "content_text": "- **Polymarket and Kalshi align on 2026 House odds at 91-93% for Democrats, split on 2028 presidential** — Polymarket and Kalshi both price Democrats at roughly 91-93% to win the House in the 2026 midterms, according to odds cited October 2-3. The platforms diverge on 2028, with Polymarket pricing Democrats at 65% for the presidential race. ([Prediction News](https://predictionnews.com/story/polymarket-prices-democrats-at-65-for-2028-presidential-race))",
-      "content_html": "<p>- **Polymarket and Kalshi align on 2026 House odds at 91-93% for Democrats, split on 2028 presidential** — Polymarket and Kalshi both price Democrats at roughly 91-93% to win the House in the 2026 midterms, according to odds cited October 2-3. The platforms diverge on 2028, with Polymarket pricing Democrats at 65% for the presidential race. ([Prediction News](https://predictionnews.com/story/polymarket-prices-democrats-at-65-for-2028-presidential-race))</p>",
-      "date_published": "2026-10-13T04:30:00-04:00",
-      "date_modified": "2026-10-13T04:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/polymarket-prices-democrats-at-65-for-2028-presidential-race",
-      "links": [
-        "https://predictionnews.com/story/polymarket-prices-democrats-at-65-for-2028-presidential-race"
-      ],
-      "timestamp": "Oct 13, 2026 · 4:30 AM ET",
-      "body": "- **Polymarket and Kalshi align on 2026 House odds at 91-93% for Democrats, split on 2028 presidential** — Polymarket and Kalshi both price Democrats at roughly 91-93% to win the House in the 2026 midterms, according to odds cited October 2-3. The platforms diverge on 2028, with Polymarket pricing Democrats at 65% for the presidential race. ([Prediction News](https://predictionnews.com/story/polymarket-prices-democrats-at-65-for-2028-presidential-race))",
-      "image_url": null,
-      "published": "2026-10-13T04:30:00-04:00",
-      "source": "2026-10-13_0430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0430-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0430-edt-1",
-      "title": "Cboe and Robinhood plan KPI contracts on 23 companies for October launch",
-      "content_text": "- **Cboe and Robinhood plan KPI contracts on 23 companies for October launch** — Cboe plans to launch binary contracts tied to company-specific key performance indicators in October, subject to regulatory approval, with Robinhood as the first retail broker to offer them. The contracts will initially cover 23 U.S.-listed companies and carry no fees through the end of 2026. ([PR Newswire](https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html))",
-      "content_html": "<p>- **Cboe and Robinhood plan KPI contracts on 23 companies for October launch** — Cboe plans to launch binary contracts tied to company-specific key performance indicators in October, subject to regulatory approval, with Robinhood as the first retail broker to offer them. The contracts will initially cover 23 U.S.-listed companies and carry no fees through the end of 2026. ([PR Newswire](https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html))</p>",
-      "date_published": "2026-10-13T04:30:00-04:00",
-      "date_modified": "2026-10-13T04:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html",
-      "links": [
-        "https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html"
-      ],
-      "timestamp": "Oct 13, 2026 · 4:30 AM ET",
-      "body": "- **Cboe and Robinhood plan KPI contracts on 23 companies for October launch** — Cboe plans to launch binary contracts tied to company-specific key performance indicators in October, subject to regulatory approval, with Robinhood as the first retail broker to offer them. The contracts will initially cover 23 U.S.-listed companies and carry no fees through the end of 2026. ([PR Newswire](https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html))",
-      "image_url": null,
-      "published": "2026-10-13T04:30:00-04:00",
-      "source": "2026-10-13_0430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0430-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0430-edt-2",
-      "title": "NFL MVP markets put Brock Purdy on top at about 30% after 49ers reach 5-0",
-      "content_text": "- **NFL MVP markets put Brock Purdy on top at about 30% after 49ers reach 5-0** — Brock Purdy leads NFL MVP pricing at about 28% on Polymarket and 30% on Kalshi after San Francisco improved to 5-0. Josh Allen is next at about 20-21%, followed by Patrick Mahomes at about 11% on both platforms. ([Action Network](https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0))",
-      "content_html": "<p>- **NFL MVP markets put Brock Purdy on top at about 30% after 49ers reach 5-0** — Brock Purdy leads NFL MVP pricing at about 28% on Polymarket and 30% on Kalshi after San Francisco improved to 5-0. Josh Allen is next at about 20-21%, followed by Patrick Mahomes at about 11% on both platforms. ([Action Network](https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0))</p>",
-      "date_published": "2026-10-13T04:30:00-04:00",
-      "date_modified": "2026-10-13T04:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0",
-      "links": [
-        "https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0"
-      ],
-      "timestamp": "Oct 13, 2026 · 4:30 AM ET",
-      "body": "- **NFL MVP markets put Brock Purdy on top at about 30% after 49ers reach 5-0** — Brock Purdy leads NFL MVP pricing at about 28% on Polymarket and 30% on Kalshi after San Francisco improved to 5-0. Josh Allen is next at about 20-21%, followed by Patrick Mahomes at about 11% on both platforms. ([Action Network](https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0))",
-      "image_url": null,
-      "published": "2026-10-13T04:30:00-04:00",
-      "source": "2026-10-13_0430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0430-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0430-edt-3",
-      "title": "Kalshi holds 75.6% of tracked prediction-market volume in 30 days to October 7",
-      "content_text": "- **Kalshi holds 75.6% of tracked prediction-market volume in 30 days to October 7** — A comparison of Polymarket and Kalshi puts Kalshi at 75.6% of tracked volume in the 30 days to October 7, with open interest of $2.5 billion versus $339 million on Polymarket international. It lists latest valuations at $22 billion for Kalshi and $21 billion for Polymarket. ([Datawallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))",
-      "content_html": "<p>- **Kalshi holds 75.6% of tracked prediction-market volume in 30 days to October 7** — A comparison of Polymarket and Kalshi puts Kalshi at 75.6% of tracked volume in the 30 days to October 7, with open interest of $2.5 billion versus $339 million on Polymarket international. It lists latest valuations at $22 billion for Kalshi and $21 billion for Polymarket. ([Datawallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))</p>",
-      "date_published": "2026-10-13T04:30:00-04:00",
-      "date_modified": "2026-10-13T04:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.datawallet.com/crypto/polymarket-vs-kalshi",
-      "links": [
-        "https://www.datawallet.com/crypto/polymarket-vs-kalshi"
-      ],
-      "timestamp": "Oct 13, 2026 · 4:30 AM ET",
-      "body": "- **Kalshi holds 75.6% of tracked prediction-market volume in 30 days to October 7** — A comparison of Polymarket and Kalshi puts Kalshi at 75.6% of tracked volume in the 30 days to October 7, with open interest of $2.5 billion versus $339 million on Polymarket international. It lists latest valuations at $22 billion for Kalshi and $21 billion for Polymarket. ([Datawallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))",
-      "image_url": null,
-      "published": "2026-10-13T04:30:00-04:00",
-      "source": "2026-10-13_0430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0430-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0430-edt-4",
-      "title": "Optimove partners with Plaee to offer prediction markets to operator network",
-      "content_text": "- **Optimove partners with Plaee to offer prediction markets to operator network** — Optimove has partnered with Plaee to let operators add prediction markets in weeks through a white-label platform with access to CFTC-regulated event contracts via Crypto.com Derivatives North America. Prediction activity will flow into Optimove marketing tools for segmentation and campaigns, with onboarding starting immediately. ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/24/3368274/0/en/optimove-partners-with-plaee-to-bring-prediction-markets-to-its-global-operator-network.html))",
-      "content_html": "<p>- **Optimove partners with Plaee to offer prediction markets to operator network** — Optimove has partnered with Plaee to let operators add prediction markets in weeks through a white-label platform with access to CFTC-regulated event contracts via Crypto.com Derivatives North America. Prediction activity will flow into Optimove marketing tools for segmentation and campaigns, with onboarding starting immediately. ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/24/3368274/0/en/optimove-partners-with-plaee-to-bring-prediction-markets-to-its-global-operator-network.html))</p>",
-      "date_published": "2026-10-13T04:30:00-04:00",
-      "date_modified": "2026-10-13T04:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.globenewswire.com/news-release/2026/09/24/3368274/0/en/optimove-partners-with-plaee-to-bring-prediction-markets-to-its-global-operator-network.html",
-      "links": [
-        "https://www.globenewswire.com/news-release/2026/09/24/3368274/0/en/optimove-partners-with-plaee-to-bring-prediction-markets-to-its-global-operator-network.html"
-      ],
-      "timestamp": "Oct 13, 2026 · 4:30 AM ET",
-      "body": "- **Optimove partners with Plaee to offer prediction markets to operator network** — Optimove has partnered with Plaee to let operators add prediction markets in weeks through a white-label platform with access to CFTC-regulated event contracts via Crypto.com Derivatives North America. Prediction activity will flow into Optimove marketing tools for segmentation and campaigns, with onboarding starting immediately. ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/24/3368274/0/en/optimove-partners-with-plaee-to-bring-prediction-markets-to-its-global-operator-network.html))",
-      "image_url": null,
-      "published": "2026-10-13T04:30:00-04:00",
-      "source": "2026-10-13_0430-edt.json",
       "matches_facebook_post": false
     }
   ]
