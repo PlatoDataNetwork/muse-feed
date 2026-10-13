@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T04:33:51.761193-04:00",
+  "updated": "2026-10-13T04:50:09.244127-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,185 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0445-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0445-edt-0",
+      "title": "Novig drops American odds for percentage pricing on its prediction market",
+      "content_text": "- **Novig drops American odds for percentage pricing on its prediction market** — Novig has removed American-style odds from its sports prediction market and switched to percentage pricing, adding a calculator to help users convert. The change follows CFTC guidance urging platforms not to display contract prices as sportsbook odds. ([GambleRss](https://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341))",
+      "content_html": "<p>- **Novig drops American odds for percentage pricing on its prediction market** — Novig has removed American-style odds from its sports prediction market and switched to percentage pricing, adding a calculator to help users convert. The change follows CFTC guidance urging platforms not to display contract prices as sportsbook odds. ([GambleRss](https://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341))</p>",
+      "date_published": "2026-10-13T04:45:00-04:00",
+      "date_modified": "2026-10-13T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341",
+      "links": [
+        "https://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341"
+      ],
+      "timestamp": "Oct 13, 2026 · 4:45 AM ET",
+      "body": "- **Novig drops American odds for percentage pricing on its prediction market** — Novig has removed American-style odds from its sports prediction market and switched to percentage pricing, adding a calculator to help users convert. The change follows CFTC guidance urging platforms not to display contract prices as sportsbook odds. ([GambleRss](https://gamblerss.com/novig-eliminates-american-odds-in-effort-to-lift-financial-market-appeal-68341))",
+      "image_url": null,
+      "published": "2026-10-13T04:45:00-04:00",
+      "source": "2026-10-13_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0445-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0445-edt-1",
+      "title": "Polymarket traders price 72% chance of Bitcoin falling under $55,000",
+      "content_text": "- **Polymarket traders price 72% chance of Bitcoin falling under $55,000** — Bearish positioning on Polymarket has lifted the implied chance of Bitcoin dropping below $55,000 to 72%, with more than $1.2 million placed on that outcome. Traders also assign 61% to a fall below $50,000. ([TipRanks](https://blog.tipranks.com/polymarket-traders-see-72-chance-of-bitcoin-under-55000-as-bearish-bets-explode/))",
+      "content_html": "<p>- **Polymarket traders price 72% chance of Bitcoin falling under $55,000** — Bearish positioning on Polymarket has lifted the implied chance of Bitcoin dropping below $55,000 to 72%, with more than $1.2 million placed on that outcome. Traders also assign 61% to a fall below $50,000. ([TipRanks](https://blog.tipranks.com/polymarket-traders-see-72-chance-of-bitcoin-under-55000-as-bearish-bets-explode/))</p>",
+      "date_published": "2026-10-13T04:45:00-04:00",
+      "date_modified": "2026-10-13T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://blog.tipranks.com/polymarket-traders-see-72-chance-of-bitcoin-under-55000-as-bearish-bets-explode/",
+      "links": [
+        "https://blog.tipranks.com/polymarket-traders-see-72-chance-of-bitcoin-under-55000-as-bearish-bets-explode/"
+      ],
+      "timestamp": "Oct 13, 2026 · 4:45 AM ET",
+      "body": "- **Polymarket traders price 72% chance of Bitcoin falling under $55,000** — Bearish positioning on Polymarket has lifted the implied chance of Bitcoin dropping below $55,000 to 72%, with more than $1.2 million placed on that outcome. Traders also assign 61% to a fall below $50,000. ([TipRanks](https://blog.tipranks.com/polymarket-traders-see-72-chance-of-bitcoin-under-55000-as-bearish-bets-explode/))",
+      "image_url": null,
+      "published": "2026-10-13T04:45:00-04:00",
+      "source": "2026-10-13_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0445-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0445-edt-2",
+      "title": "Packers-Bears markets sit near a toss-up, with Chicago at 53% on Kalshi and Polymarket",
+      "content_text": "- **Packers-Bears markets sit near a toss-up, with Chicago at 53% on Kalshi and Polymarket** — Kalshi and Polymarket both priced Chicago at 53% to beat Green Bay in their Oct. 11 game, with the spread and total contracts also close to even. FanDuel listed Chicago as a 1.5-point road favorite. ([Heavy](https://heavy.com/sports/nfl/green-bay-packers/packers-bears-how-to-watch-odds-prediction/))",
+      "content_html": "<p>- **Packers-Bears markets sit near a toss-up, with Chicago at 53% on Kalshi and Polymarket** — Kalshi and Polymarket both priced Chicago at 53% to beat Green Bay in their Oct. 11 game, with the spread and total contracts also close to even. FanDuel listed Chicago as a 1.5-point road favorite. ([Heavy](https://heavy.com/sports/nfl/green-bay-packers/packers-bears-how-to-watch-odds-prediction/))</p>",
+      "date_published": "2026-10-13T04:45:00-04:00",
+      "date_modified": "2026-10-13T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://heavy.com/sports/nfl/green-bay-packers/packers-bears-how-to-watch-odds-prediction/",
+      "links": [
+        "https://heavy.com/sports/nfl/green-bay-packers/packers-bears-how-to-watch-odds-prediction/"
+      ],
+      "timestamp": "Oct 13, 2026 · 4:45 AM ET",
+      "body": "- **Packers-Bears markets sit near a toss-up, with Chicago at 53% on Kalshi and Polymarket** — Kalshi and Polymarket both priced Chicago at 53% to beat Green Bay in their Oct. 11 game, with the spread and total contracts also close to even. FanDuel listed Chicago as a 1.5-point road favorite. ([Heavy](https://heavy.com/sports/nfl/green-bay-packers/packers-bears-how-to-watch-odds-prediction/))",
+      "image_url": null,
+      "published": "2026-10-13T04:45:00-04:00",
+      "source": "2026-10-13_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0445-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0445-edt-3",
+      "title": "Polymarket becomes exclusive prediction market partner for MLS and Leagues Cup",
+      "content_text": "- **Polymarket becomes exclusive prediction market partner for MLS and Leagues Cup** — Polymarket has been named an official partner of Major League Soccer and the exclusive prediction market partner for MLS, MLS Cup, the MLS All-Star Game and Leagues Cup. The deal centers on surfacing real-time fan sentiment around matches and season storylines. ([GambleRss](https://gamblerss.com/polymarket-teams-up-with-major-league-soccer-in-latest-groundbreaking-deal-55351))",
+      "content_html": "<p>- **Polymarket becomes exclusive prediction market partner for MLS and Leagues Cup** — Polymarket has been named an official partner of Major League Soccer and the exclusive prediction market partner for MLS, MLS Cup, the MLS All-Star Game and Leagues Cup. The deal centers on surfacing real-time fan sentiment around matches and season storylines. ([GambleRss](https://gamblerss.com/polymarket-teams-up-with-major-league-soccer-in-latest-groundbreaking-deal-55351))</p>",
+      "date_published": "2026-10-13T04:45:00-04:00",
+      "date_modified": "2026-10-13T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/polymarket-teams-up-with-major-league-soccer-in-latest-groundbreaking-deal-55351",
+      "links": [
+        "https://gamblerss.com/polymarket-teams-up-with-major-league-soccer-in-latest-groundbreaking-deal-55351"
+      ],
+      "timestamp": "Oct 13, 2026 · 4:45 AM ET",
+      "body": "- **Polymarket becomes exclusive prediction market partner for MLS and Leagues Cup** — Polymarket has been named an official partner of Major League Soccer and the exclusive prediction market partner for MLS, MLS Cup, the MLS All-Star Game and Leagues Cup. The deal centers on surfacing real-time fan sentiment around matches and season storylines. ([GambleRss](https://gamblerss.com/polymarket-teams-up-with-major-league-soccer-in-latest-groundbreaking-deal-55351))",
+      "image_url": null,
+      "published": "2026-10-13T04:45:00-04:00",
+      "source": "2026-10-13_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0445-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0445-edt-4",
+      "title": "Polymarket adds Birches Health support and self-exclusion tools for U.S. traders",
+      "content_text": "- **Polymarket adds Birches Health support and self-exclusion tools for U.S. traders** — Polymarket has partnered with Birches Health to offer mental health resources for traders and added U.S. self-exclusion options ranging from 30 days to lifetime, plus deposit limits. The tools apply to U.S. users while European regulators continue to push back on the platform. ([SCCG Management](https://sccgmanagement.com/sccg-articles/2026/10/08/polymarket-adds-birches-health-partnership-and-self-exclusion-tools-as-european-regulators-push-back/))",
+      "content_html": "<p>- **Polymarket adds Birches Health support and self-exclusion tools for U.S. traders** — Polymarket has partnered with Birches Health to offer mental health resources for traders and added U.S. self-exclusion options ranging from 30 days to lifetime, plus deposit limits. The tools apply to U.S. users while European regulators continue to push back on the platform. ([SCCG Management](https://sccgmanagement.com/sccg-articles/2026/10/08/polymarket-adds-birches-health-partnership-and-self-exclusion-tools-as-european-regulators-push-back/))</p>",
+      "date_published": "2026-10-13T04:45:00-04:00",
+      "date_modified": "2026-10-13T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://sccgmanagement.com/sccg-articles/2026/10/08/polymarket-adds-birches-health-partnership-and-self-exclusion-tools-as-european-regulators-push-back/",
+      "links": [
+        "https://sccgmanagement.com/sccg-articles/2026/10/08/polymarket-adds-birches-health-partnership-and-self-exclusion-tools-as-european-regulators-push-back/"
+      ],
+      "timestamp": "Oct 13, 2026 · 4:45 AM ET",
+      "body": "- **Polymarket adds Birches Health support and self-exclusion tools for U.S. traders** — Polymarket has partnered with Birches Health to offer mental health resources for traders and added U.S. self-exclusion options ranging from 30 days to lifetime, plus deposit limits. The tools apply to U.S. users while European regulators continue to push back on the platform. ([SCCG Management](https://sccgmanagement.com/sccg-articles/2026/10/08/polymarket-adds-birches-health-partnership-and-self-exclusion-tools-as-european-regulators-push-back/))",
+      "image_url": null,
+      "published": "2026-10-13T04:45:00-04:00",
+      "source": "2026-10-13_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0439-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0439-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nPolymarket Protocol V2 in canary testing ahead of a Nov. 2 switchover for new markets\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest product development leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/\n\nPolymarket US traded $2.72B in a single week, up more than 44x this year\nWeekly notional volume rose from $60.8M in early January to $2.72B in the week ending in early October, peaking at $698.8M on Oct. 11 alone, with a trailing 30-day total…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cryptobriefing.com/polymarket-us-weekly-volume-surge/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Polymarket Protocol V2 in canary testing ahead of a Nov. 2 switchover for new markets<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest product development leads, in a different category from the last three editions.…<br/>#PredictionMarkets #Polymarket<br/>https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/<br/><br/>Polymarket US traded $2.72B in a single week, up more than 44x this year<br/>Weekly notional volume rose from $60.8M in early January to $2.72B in the week ending in early October, peaking at $698.8M on Oct. 11 alone, with a trailing 30-day total…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://cryptobriefing.com/polymarket-us-weekly-volume-surge/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T04:39:00-04:00",
+      "date_modified": "2026-10-13T04:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/",
+      "links": [
+        "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/",
+        "https://cryptobriefing.com/polymarket-us-weekly-volume-surge/"
+      ],
+      "timestamp": "Oct 13, 2026 · 4:39 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket Protocol V2 in canary testing ahead of a Nov. 2 switchover for new markets\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest product development leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/\n\nPolymarket US traded $2.72B in a single week, up more than 44x this year\nWeekly notional volume rose from $60.8M in early January to $2.72B in the week ending in early October, peaking at $698.8M on Oct. 11 alone, with a trailing 30-day total…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cryptobriefing.com/polymarket-us-weekly-volume-surge/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T04:39:00-04:00",
+      "source": "2026-10-13_0439-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0430-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0430-edt-0",
@@ -4545,186 +4724,6 @@
       "image_url": null,
       "published": "2026-10-12T21:15:00-04:00",
       "source": "2026-10-12_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2115-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2115-edt-1",
-      "title": "ARK says Robinhood is readying for a prediction-markets supercycle",
-      "content_text": "- **ARK says Robinhood is readying for a prediction-markets supercycle** — ARK Investment Management analyst Varshika Prasanna says Robinhood is on the cusp of a prediction-markets supercycle following its YES/NO event last week, with event contracts live on the Legend platform for active traders. ARK argues prediction markets are becoming retail investment tools offering direct exposure to real-world outcomes, similar to derivatives and futures. ([GambleRss](https://gamblerss.com/robinhood-readying-for-prediction-markets-supercycle-says-ark-52043))",
-      "content_html": "<p>- **ARK says Robinhood is readying for a prediction-markets supercycle** — ARK Investment Management analyst Varshika Prasanna says Robinhood is on the cusp of a prediction-markets supercycle following its YES/NO event last week, with event contracts live on the Legend platform for active traders. ARK argues prediction markets are becoming retail investment tools offering direct exposure to real-world outcomes, similar to derivatives and futures. ([GambleRss](https://gamblerss.com/robinhood-readying-for-prediction-markets-supercycle-says-ark-52043))</p>",
-      "date_published": "2026-10-12T21:15:00-04:00",
-      "date_modified": "2026-10-12T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://gamblerss.com/robinhood-readying-for-prediction-markets-supercycle-says-ark-52043",
-      "links": [
-        "https://gamblerss.com/robinhood-readying-for-prediction-markets-supercycle-says-ark-52043"
-      ],
-      "timestamp": "Oct 12, 2026 · 9:15 PM ET",
-      "body": "- **ARK says Robinhood is readying for a prediction-markets supercycle** — ARK Investment Management analyst Varshika Prasanna says Robinhood is on the cusp of a prediction-markets supercycle following its YES/NO event last week, with event contracts live on the Legend platform for active traders. ARK argues prediction markets are becoming retail investment tools offering direct exposure to real-world outcomes, similar to derivatives and futures. ([GambleRss](https://gamblerss.com/robinhood-readying-for-prediction-markets-supercycle-says-ark-52043))",
-      "image_url": null,
-      "published": "2026-10-12T21:15:00-04:00",
-      "source": "2026-10-12_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2115-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2115-edt-2",
-      "title": "Prediction markets face scrutiny after bets on Iran leader's fate",
-      "content_text": "- **Prediction markets face scrutiny after bets on Iran leader's fate** — Kalshi and Polymarket are facing political backlash after traders speculated on whether Iran's Supreme Leader Ali Khamenei would leave office around the time of a reported strike, with blockchain analysts flagging clusters of large bets placed shortly before the attack. Members of Congress are signaling plans to push for tighter rules on markets tied to violent geopolitical outcomes, while Trump administration officials rejected claims that insiders benefited. ([GambleRss](https://gamblerss.com/prediction-markets-face-scrutiny-after-iran-leader-s-death-bets-58627))",
-      "content_html": "<p>- **Prediction markets face scrutiny after bets on Iran leader&#x27;s fate** — Kalshi and Polymarket are facing political backlash after traders speculated on whether Iran&#x27;s Supreme Leader Ali Khamenei would leave office around the time of a reported strike, with blockchain analysts flagging clusters of large bets placed shortly before the attack. Members of Congress are signaling plans to push for tighter rules on markets tied to violent geopolitical outcomes, while Trump administration officials rejected claims that insiders benefited. ([GambleRss](https://gamblerss.com/prediction-markets-face-scrutiny-after-iran-leader-s-death-bets-58627))</p>",
-      "date_published": "2026-10-12T21:15:00-04:00",
-      "date_modified": "2026-10-12T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Congress"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/prediction-markets-face-scrutiny-after-iran-leader-s-death-bets-58627",
-      "links": [
-        "https://gamblerss.com/prediction-markets-face-scrutiny-after-iran-leader-s-death-bets-58627"
-      ],
-      "timestamp": "Oct 12, 2026 · 9:15 PM ET",
-      "body": "- **Prediction markets face scrutiny after bets on Iran leader's fate** — Kalshi and Polymarket are facing political backlash after traders speculated on whether Iran's Supreme Leader Ali Khamenei would leave office around the time of a reported strike, with blockchain analysts flagging clusters of large bets placed shortly before the attack. Members of Congress are signaling plans to push for tighter rules on markets tied to violent geopolitical outcomes, while Trump administration officials rejected claims that insiders benefited. ([GambleRss](https://gamblerss.com/prediction-markets-face-scrutiny-after-iran-leader-s-death-bets-58627))",
-      "image_url": null,
-      "published": "2026-10-12T21:15:00-04:00",
-      "source": "2026-10-12_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2115-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2115-edt-3",
-      "title": "US embraces prediction markets while other G20 countries move to block them",
-      "content_text": "- **US embraces prediction markets while other G20 countries move to block them** — President Trump declared this week, alongside CFTC chair Michael Selig, that the United States will lead the evolution of prediction markets, while several other G20 economies move to restrict or ban the platforms. The report notes the US is doubling down on event contracts for sports, pop culture and politics even as other major economies prohibit them. ([GambleRss](https://gamblerss.com/us-embraces-prediction-markets-while-other-g20-countries-move-to-block-them-67979))",
-      "content_html": "<p>- **US embraces prediction markets while other G20 countries move to block them** — President Trump declared this week, alongside CFTC chair Michael Selig, that the United States will lead the evolution of prediction markets, while several other G20 economies move to restrict or ban the platforms. The report notes the US is doubling down on event contracts for sports, pop culture and politics even as other major economies prohibit them. ([GambleRss](https://gamblerss.com/us-embraces-prediction-markets-while-other-g20-countries-move-to-block-them-67979))</p>",
-      "date_published": "2026-10-12T21:15:00-04:00",
-      "date_modified": "2026-10-12T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/us-embraces-prediction-markets-while-other-g20-countries-move-to-block-them-67979",
-      "links": [
-        "https://gamblerss.com/us-embraces-prediction-markets-while-other-g20-countries-move-to-block-them-67979"
-      ],
-      "timestamp": "Oct 12, 2026 · 9:15 PM ET",
-      "body": "- **US embraces prediction markets while other G20 countries move to block them** — President Trump declared this week, alongside CFTC chair Michael Selig, that the United States will lead the evolution of prediction markets, while several other G20 economies move to restrict or ban the platforms. The report notes the US is doubling down on event contracts for sports, pop culture and politics even as other major economies prohibit them. ([GambleRss](https://gamblerss.com/us-embraces-prediction-markets-while-other-g20-countries-move-to-block-them-67979))",
-      "image_url": null,
-      "published": "2026-10-12T21:15:00-04:00",
-      "source": "2026-10-12_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_2109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2109-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi woos five tribal partners while fighting other tribes in court\nKalshi announced five tribal partnerships in recent weeks: September's deal with the Tunica-Biloxi Tribe (SaltTrade Derivatives), plus four more on Oct 7 —…\n#PredictionMarkets #Kalshi\nhttps://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits\n\nBitcoin slips under $82K as Polymarket's daily-target contracts collapse\nBTC fell below $82,000 on a ~2.3% 24-hour decline (8 PM ET snapshot). Polymarket's \"Bitcoin above $82,000 on October 13\" Yes crashed to 46% from 69.5% six hours earlier…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi woos five tribal partners while fighting other tribes in court<br/>Kalshi announced five tribal partnerships in recent weeks: September&#x27;s deal with the Tunica-Biloxi Tribe (SaltTrade Derivatives), plus four more on Oct 7 —…<br/>#PredictionMarkets #Kalshi<br/>https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits<br/><br/>Bitcoin slips under $82K as Polymarket&#x27;s daily-target contracts collapse<br/>BTC fell below $82,000 on a ~2.3% 24-hour decline (8 PM ET snapshot). Polymarket&#x27;s &quot;Bitcoin above $82,000 on October 13&quot; Yes crashed to 46% from 69.5% six hours earlier…<br/>#PredictionMarkets #Polymarket #Bitcoin<br/>https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-12T21:09:00-04:00",
-      "date_modified": "2026-10-12T21:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits",
-      "links": [
-        "https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits",
-        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc"
-      ],
-      "timestamp": "Oct 12, 2026 · 9:09 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi woos five tribal partners while fighting other tribes in court\nKalshi announced five tribal partnerships in recent weeks: September's deal with the Tunica-Biloxi Tribe (SaltTrade Derivatives), plus four more on Oct 7 —…\n#PredictionMarkets #Kalshi\nhttps://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits\n\nBitcoin slips under $82K as Polymarket's daily-target contracts collapse\nBTC fell below $82,000 on a ~2.3% 24-hour decline (8 PM ET snapshot). Polymarket's \"Bitcoin above $82,000 on October 13\" Yes crashed to 46% from 69.5% six hours earlier…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-12T21:09:00-04:00",
-      "source": "2026-10-12_2109-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2100-edt-0",
-      "title": "Odds fall on Machado returning to Venezuela as Polymarket contract draws $6.6M",
-      "content_text": "- **Odds fall on Machado returning to Venezuela as Polymarket contract draws $6.6M** — Traders on Polymarket have cut the odds of Nobel Peace Prize winner Maria Corina Machado setting foot in Venezuela by Oct. 15 to 6%, down from 7% on Saturday, with the Dec. 31 deadline falling to 36%. The market has $6.6 million traded; Machado said in Panama City she is doing everything she can to return, and her party called for protests abroad on Oct. 17 demanding an election date. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026))",
-      "content_html": "<p>- **Odds fall on Machado returning to Venezuela as Polymarket contract draws $6.6M** — Traders on Polymarket have cut the odds of Nobel Peace Prize winner Maria Corina Machado setting foot in Venezuela by Oct. 15 to 6%, down from 7% on Saturday, with the Dec. 31 deadline falling to 36%. The market has $6.6 million traded; Machado said in Panama City she is doing everything she can to return, and her party called for protests abroad on Oct. 17 demanding an election date. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026))</p>",
-      "date_published": "2026-10-12T21:00:00-04:00",
-      "date_modified": "2026-10-12T21:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections",
-        "NobelPrize"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026"
-      ],
-      "timestamp": "Oct 12, 2026 · 9:00 PM ET",
-      "body": "- **Odds fall on Machado returning to Venezuela as Polymarket contract draws $6.6M** — Traders on Polymarket have cut the odds of Nobel Peace Prize winner Maria Corina Machado setting foot in Venezuela by Oct. 15 to 6%, down from 7% on Saturday, with the Dec. 31 deadline falling to 36%. The market has $6.6 million traded; Machado said in Panama City she is doing everything she can to return, and her party called for protests abroad on Oct. 17 demanding an election date. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026))",
-      "image_url": null,
-      "published": "2026-10-12T21:00:00-04:00",
-      "source": "2026-10-12_2100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2100-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2100-edt-1",
-      "title": "Polymarket prices 17% odds of U.S. invading Iran before 2027 in $73.5M contract",
-      "content_text": "- **Polymarket prices 17% odds of U.S. invading Iran before 2027 in $73.5M contract** — The Polymarket market on whether the U.S. will invade Iran before 2027 trades at 17 cents and has $73.5 million in volume, the largest pool of money tracked by PicksByOdds on Oct. 12. Heavy volume on longshot political contracts trading at 1 cent mostly reflects traders parking money on near-certain no outcomes rather than conviction. ([PicksByOdds](https://picksbyodds.com/))",
-      "content_html": "<p>- **Polymarket prices 17% odds of U.S. invading Iran before 2027 in $73.5M contract** — The Polymarket market on whether the U.S. will invade Iran before 2027 trades at 17 cents and has $73.5 million in volume, the largest pool of money tracked by PicksByOdds on Oct. 12. Heavy volume on longshot political contracts trading at 1 cent mostly reflects traders parking money on near-certain no outcomes rather than conviction. ([PicksByOdds](https://picksbyodds.com/))</p>",
-      "date_published": "2026-10-12T21:00:00-04:00",
-      "date_modified": "2026-10-12T21:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://picksbyodds.com/",
-      "links": [
-        "https://picksbyodds.com/"
-      ],
-      "timestamp": "Oct 12, 2026 · 9:00 PM ET",
-      "body": "- **Polymarket prices 17% odds of U.S. invading Iran before 2027 in $73.5M contract** — The Polymarket market on whether the U.S. will invade Iran before 2027 trades at 17 cents and has $73.5 million in volume, the largest pool of money tracked by PicksByOdds on Oct. 12. Heavy volume on longshot political contracts trading at 1 cent mostly reflects traders parking money on near-certain no outcomes rather than conviction. ([PicksByOdds](https://picksbyodds.com/))",
-      "image_url": null,
-      "published": "2026-10-12T21:00:00-04:00",
-      "source": "2026-10-12_2100-edt.json",
       "matches_facebook_post": false
     }
   ]
