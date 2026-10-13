@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T13:34:02.521380-04:00",
+  "updated": "2026-10-13T13:50:53.464327-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_1345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1345-edt-0",
+      "title": "Kalshi Research report finds most top prediction market traders are self-taught and not full-time traders",
+      "content_text": "- **Kalshi Research report finds most top prediction market traders are self-taught and not full-time traders** — Kalshi Research published a study of who trades prediction markets using platform records and a survey of high profit and loss accounts. It found most of those traders were not full-time traders and said they were largely self-taught in markets and probability. ([TradingView News](https://www.tradingview.com/news/binance_news:3dab5e60b094b:0-kalshi-research-examines-who-trades-prediction-markets/))",
+      "content_html": "<p>- **Kalshi Research report finds most top prediction market traders are self-taught and not full-time traders** — Kalshi Research published a study of who trades prediction markets using platform records and a survey of high profit and loss accounts. It found most of those traders were not full-time traders and said they were largely self-taught in markets and probability. ([TradingView News](https://www.tradingview.com/news/binance_news:3dab5e60b094b:0-kalshi-research-examines-who-trades-prediction-markets/))</p>",
+      "date_published": "2026-10-13T13:45:00-04:00",
+      "date_modified": "2026-10-13T13:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.tradingview.com/news/binance_news:3dab5e60b094b:0-kalshi-research-examines-who-trades-prediction-markets/",
+      "links": [
+        "https://www.tradingview.com/news/binance_news:3dab5e60b094b:0-kalshi-research-examines-who-trades-prediction-markets/"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:45 PM ET",
+      "body": "- **Kalshi Research report finds most top prediction market traders are self-taught and not full-time traders** — Kalshi Research published a study of who trades prediction markets using platform records and a survey of high profit and loss accounts. It found most of those traders were not full-time traders and said they were largely self-taught in markets and probability. ([TradingView News](https://www.tradingview.com/news/binance_news:3dab5e60b094b:0-kalshi-research-examines-who-trades-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-13T13:45:00-04:00",
+      "source": "2026-10-13_1345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1345-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1345-edt-1",
+      "title": "Polymarket Senate market tied to a Hormuz agreement prices no agreement at 84%",
+      "content_text": "- **Polymarket Senate market tied to a Hormuz agreement prices no agreement at 84%** — A Polymarket market launched on October 11 links Senate control to whether a Hormuz agreement happens before the midterms. It has drawn about $116,200 in volume, with no agreement priced at 84% and a Hormuz agreement with a Democratic Senate at 10%. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms))",
+      "content_html": "<p>- **Polymarket Senate market tied to a Hormuz agreement prices no agreement at 84%** — A Polymarket market launched on October 11 links Senate control to whether a Hormuz agreement happens before the midterms. It has drawn about $116,200 in volume, with no agreement priced at 84% and a Hormuz agreement with a Democratic Senate at 10%. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms))</p>",
+      "date_published": "2026-10-13T13:45:00-04:00",
+      "date_modified": "2026-10-13T13:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
+      "links": [
+        "https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:45 PM ET",
+      "body": "- **Polymarket Senate market tied to a Hormuz agreement prices no agreement at 84%** — A Polymarket market launched on October 11 links Senate control to whether a Hormuz agreement happens before the midterms. It has drawn about $116,200 in volume, with no agreement priced at 84% and a Hormuz agreement with a Democratic Senate at 10%. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement-before-the-midterms))",
+      "image_url": null,
+      "published": "2026-10-13T13:45:00-04:00",
+      "source": "2026-10-13_1345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1345-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1345-edt-2",
+      "title": "Hurkacz tennis contract rises 16 points on Kalshi in 24 hours",
+      "content_text": "- **Hurkacz tennis contract rises 16 points on Kalshi in 24 hours** — Prediction market movers for October 13 show the Hurkacz tennis contract rising from 52 cents to 68 cents on Kalshi over 24 hours, with a similar move on Polymarket. Turnover on the Kalshi contract was reported at about $1.1 million. ([CryptoStruct](https://cryptostruct.com/prediction-markets/topic/tennis))",
+      "content_html": "<p>- **Hurkacz tennis contract rises 16 points on Kalshi in 24 hours** — Prediction market movers for October 13 show the Hurkacz tennis contract rising from 52 cents to 68 cents on Kalshi over 24 hours, with a similar move on Polymarket. Turnover on the Kalshi contract was reported at about $1.1 million. ([CryptoStruct](https://cryptostruct.com/prediction-markets/topic/tennis))</p>",
+      "date_published": "2026-10-13T13:45:00-04:00",
+      "date_modified": "2026-10-13T13:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://cryptostruct.com/prediction-markets/topic/tennis",
+      "links": [
+        "https://cryptostruct.com/prediction-markets/topic/tennis"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:45 PM ET",
+      "body": "- **Hurkacz tennis contract rises 16 points on Kalshi in 24 hours** — Prediction market movers for October 13 show the Hurkacz tennis contract rising from 52 cents to 68 cents on Kalshi over 24 hours, with a similar move on Polymarket. Turnover on the Kalshi contract was reported at about $1.1 million. ([CryptoStruct](https://cryptostruct.com/prediction-markets/topic/tennis))",
+      "image_url": null,
+      "published": "2026-10-13T13:45:00-04:00",
+      "source": "2026-10-13_1345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1345-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1345-edt-3",
+      "title": "Ronald Acuna Jr. becomes first MLB player to partner with Kalshi",
+      "content_text": "- **Ronald Acuna Jr. becomes first MLB player to partner with Kalshi** — Atlanta Braves outfielder Ronald Acuna Jr. has partnered with Kalshi, described as the first deal between an MLB player and a prediction market. The agreement follows Kalshi partnerships with five MLB clubs announced less than two months earlier. ([RG.org](https://rg.org/news/baseball/ronald-acuna-jr-kalshi-first-mlb-player-prediction-market))",
+      "content_html": "<p>- **Ronald Acuna Jr. becomes first MLB player to partner with Kalshi** — Atlanta Braves outfielder Ronald Acuna Jr. has partnered with Kalshi, described as the first deal between an MLB player and a prediction market. The agreement follows Kalshi partnerships with five MLB clubs announced less than two months earlier. ([RG.org](https://rg.org/news/baseball/ronald-acuna-jr-kalshi-first-mlb-player-prediction-market))</p>",
+      "date_published": "2026-10-13T13:45:00-04:00",
+      "date_modified": "2026-10-13T13:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/baseball/ronald-acuna-jr-kalshi-first-mlb-player-prediction-market",
+      "links": [
+        "https://rg.org/news/baseball/ronald-acuna-jr-kalshi-first-mlb-player-prediction-market"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:45 PM ET",
+      "body": "- **Ronald Acuna Jr. becomes first MLB player to partner with Kalshi** — Atlanta Braves outfielder Ronald Acuna Jr. has partnered with Kalshi, described as the first deal between an MLB player and a prediction market. The agreement follows Kalshi partnerships with five MLB clubs announced less than two months earlier. ([RG.org](https://rg.org/news/baseball/ronald-acuna-jr-kalshi-first-mlb-player-prediction-market))",
+      "image_url": null,
+      "published": "2026-10-13T13:45:00-04:00",
+      "source": "2026-10-13_1345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1345-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1345-edt-4",
+      "title": "October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals",
+      "content_text": "- **October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals** — A roundup updated October 13 lists current welcome offers across prediction markets, including a Polymarket deposit offer, a Kalshi bonus offer, and offers from Novig, ProphetX and FanDuel Predicts. The offers vary by deposit and qualifying trade requirements. ([New York Post](https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/))",
+      "content_html": "<p>- **October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals** — A roundup updated October 13 lists current welcome offers across prediction markets, including a Polymarket deposit offer, a Kalshi bonus offer, and offers from Novig, ProphetX and FanDuel Predicts. The offers vary by deposit and qualifying trade requirements. ([New York Post](https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/))</p>",
+      "date_published": "2026-10-13T13:45:00-04:00",
+      "date_modified": "2026-10-13T13:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/",
+      "links": [
+        "https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:45 PM ET",
+      "body": "- **October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals** — A roundup updated October 13 lists current welcome offers across prediction markets, including a Polymarket deposit offer, a Kalshi bonus offer, and offers from Novig, ProphetX and FanDuel Predicts. The offers vary by deposit and qualifying trade requirements. ([New York Post](https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/))",
+      "image_url": null,
+      "published": "2026-10-13T13:45:00-04:00",
+      "source": "2026-10-13_1345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_1339-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1339-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nTaiwan's local-election party market prices the Kuomintang at 82.5% on $251.5K traded\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political lead takes the top spot, in a different category from the last three…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/\n\nGolden Knights priced at 55% over the Predators in tonight's Polymarket NHL market on $19.2K traded\nVegas at 55c vs. Nashville at 46c for the 8:45 PM ET game on Oct. 13, a moneyline that opened Sept. 16 — a tonight-specific NHL contract not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Taiwan&#x27;s local-election party market prices the Kuomintang at 82.5% on $251.5K traded<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political lead takes the top spot, in a different category from the last three…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/<br/><br/>Golden Knights priced at 55% over the Predators in tonight&#x27;s Polymarket NHL market on $19.2K traded<br/>Vegas at 55c vs. Nashville at 46c for the 8:45 PM ET game on Oct. 13, a moneyline that opened Sept. 16 — a tonight-specific NHL contract not featured in any earlier…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T13:39:00-04:00",
+      "date_modified": "2026-10-13T13:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/",
+      "links": [
+        "https://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/",
+        "https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:39 PM ET",
+      "body": "Infiniti Briefing\n\nTaiwan's local-election party market prices the Kuomintang at 82.5% on $251.5K traded\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political lead takes the top spot, in a different category from the last three…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/\n\nGolden Knights priced at 55% over the Predators in tonight's Polymarket NHL market on $19.2K traded\nVegas at 55c vs. Nashville at 46c for the 8:45 PM ET game on Oct. 13, a moneyline that opened Sept. 16 — a tonight-specific NHL contract not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T13:39:00-04:00",
+      "source": "2026-10-13_1339-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_1330-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1330-edt-0",
@@ -4529,192 +4709,6 @@
       "image_url": null,
       "published": "2026-10-13T07:00:00-04:00",
       "source": "2026-10-13_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0700-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-1",
-      "title": "Polymarket tests Protocol V2 with pUSD as standard collateral",
-      "content_text": "- **Polymarket tests Protocol V2 with pUSD as standard collateral** — Polymarket is running canary tests of Protocol V2 from October 5 to October 30, using pUSD, a 1 to 1 wrapper for USDC, as collateral and consolidating positions under a single ERC-1155 contract. New markets are targeted to move to V2 from November 2, after review by six independent auditors. ([CoinDesk](https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework))",
-      "content_html": "<p>- **Polymarket tests Protocol V2 with pUSD as standard collateral** — Polymarket is running canary tests of Protocol V2 from October 5 to October 30, using pUSD, a 1 to 1 wrapper for USDC, as collateral and consolidating positions under a single ERC-1155 contract. New markets are targeted to move to V2 from November 2, after review by six independent auditors. ([CoinDesk](https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework))</p>",
-      "date_published": "2026-10-13T07:00:00-04:00",
-      "date_modified": "2026-10-13T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework",
-      "links": [
-        "https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework"
-      ],
-      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
-      "body": "- **Polymarket tests Protocol V2 with pUSD as standard collateral** — Polymarket is running canary tests of Protocol V2 from October 5 to October 30, using pUSD, a 1 to 1 wrapper for USDC, as collateral and consolidating positions under a single ERC-1155 contract. New markets are targeted to move to V2 from November 2, after review by six independent auditors. ([CoinDesk](https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework))",
-      "image_url": null,
-      "published": "2026-10-13T07:00:00-04:00",
-      "source": "2026-10-13_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0700-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-2",
-      "title": "Kalshi traders price 87% chance U.S. gas stays above $4 before November vote",
-      "content_text": "- **Kalshi traders price 87% chance U.S. gas stays above $4 before November vote** — Kalshi pricing assigns an 87% probability that average U.S. gasoline prices stay above $4 per gallon before the November 3 election. The market was reported alongside Brent crude rising above $104 a barrel amid geopolitical tensions. ([Traders Union](https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/))",
-      "content_html": "<p>- **Kalshi traders price 87% chance U.S. gas stays above $4 before November vote** — Kalshi pricing assigns an 87% probability that average U.S. gasoline prices stay above $4 per gallon before the November 3 election. The market was reported alongside Brent crude rising above $104 a barrel amid geopolitical tensions. ([Traders Union](https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/))</p>",
-      "date_published": "2026-10-13T07:00:00-04:00",
-      "date_modified": "2026-10-13T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Oil",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/",
-      "links": [
-        "https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/"
-      ],
-      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
-      "body": "- **Kalshi traders price 87% chance U.S. gas stays above $4 before November vote** — Kalshi pricing assigns an 87% probability that average U.S. gasoline prices stay above $4 per gallon before the November 3 election. The market was reported alongside Brent crude rising above $104 a barrel amid geopolitical tensions. ([Traders Union](https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/))",
-      "image_url": null,
-      "published": "2026-10-13T07:00:00-04:00",
-      "source": "2026-10-13_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0700-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-3",
-      "title": "76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits",
-      "content_text": "- **76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits** — Kalshi favors the Philadelphia 76ers over the New York Knicks to win the Eastern Conference Finals, while the Spurs and Thunder lead Polymarket's NBA Finals market. Kalshi and Polymarket differ at the top of their NBA Finals pricing. ([Sports Illustrated](https://www.si.com/prediction-markets/nba/archive))",
-      "content_html": "<p>- **76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits** — Kalshi favors the Philadelphia 76ers over the New York Knicks to win the Eastern Conference Finals, while the Spurs and Thunder lead Polymarket&#x27;s NBA Finals market. Kalshi and Polymarket differ at the top of their NBA Finals pricing. ([Sports Illustrated](https://www.si.com/prediction-markets/nba/archive))</p>",
-      "date_published": "2026-10-13T07:00:00-04:00",
-      "date_modified": "2026-10-13T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.si.com/prediction-markets/nba/archive",
-      "links": [
-        "https://www.si.com/prediction-markets/nba/archive"
-      ],
-      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
-      "body": "- **76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits** — Kalshi favors the Philadelphia 76ers over the New York Knicks to win the Eastern Conference Finals, while the Spurs and Thunder lead Polymarket's NBA Finals market. Kalshi and Polymarket differ at the top of their NBA Finals pricing. ([Sports Illustrated](https://www.si.com/prediction-markets/nba/archive))",
-      "image_url": null,
-      "published": "2026-10-13T07:00:00-04:00",
-      "source": "2026-10-13_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0700-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-4",
-      "title": "Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026",
-      "content_text": "- **Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026** — A Polymarket Bitcoin market with more than $22 million traded assigns a 53% probability that Bitcoin dips to $45,000 or lower before December 31, 2026. Kalshi shows roughly a 48% probability that Bitcoin falls below $45,000 before January 1, 2027. ([CCN](https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/))",
-      "content_html": "<p>- **Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026** — A Polymarket Bitcoin market with more than $22 million traded assigns a 53% probability that Bitcoin dips to $45,000 or lower before December 31, 2026. Kalshi shows roughly a 48% probability that Bitcoin falls below $45,000 before January 1, 2027. ([CCN](https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/))</p>",
-      "date_published": "2026-10-13T07:00:00-04:00",
-      "date_modified": "2026-10-13T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/",
-      "links": [
-        "https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/"
-      ],
-      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
-      "body": "- **Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026** — A Polymarket Bitcoin market with more than $22 million traded assigns a 53% probability that Bitcoin dips to $45,000 or lower before December 31, 2026. Kalshi shows roughly a 48% probability that Bitcoin falls below $45,000 before January 1, 2027. ([CCN](https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/))",
-      "image_url": null,
-      "published": "2026-10-13T07:00:00-04:00",
-      "source": "2026-10-13_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0654-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi traders are prioritizing 2028 over the midterms four weeks out\nThree of Kalshi's four highest-volume election markets are 2028 contests, led by the Democratic nominee at $232M; the 2028 winner market has cleared $71M.\n#Election2028 #PredictionMarkets #Kalshi\nhttps://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/\n\nBrock Purdy ties Josh Allen at the top of Polymarket's NFL MVP market\nPurdy draws level with Allen in the MVP race, while Kalshi leans toward Marvin Harrison Jr. being traded this season.\n#NFL #MVP #Polymarket\nhttps://www.si.com/prediction-markets/archive\n\nMarkets: Gold $4,215 | Brent $106 | BTC $82K | ETH $2.5K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi traders are prioritizing 2028 over the midterms four weeks out<br/>Three of Kalshi&#x27;s four highest-volume election markets are 2028 contests, led by the Democratic nominee at $232M; the 2028 winner market has cleared $71M.<br/>#Election2028 #PredictionMarkets #Kalshi<br/>https://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/<br/><br/>Brock Purdy ties Josh Allen at the top of Polymarket&#x27;s NFL MVP market<br/>Purdy draws level with Allen in the MVP race, while Kalshi leans toward Marvin Harrison Jr. being traded this season.<br/>#NFL #MVP #Polymarket<br/>https://www.si.com/prediction-markets/archive<br/><br/>Markets: Gold $4,215 | Brent $106 | BTC $82K | ETH $2.5K<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0654-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-13T06:54:00-04:00",
-      "date_modified": "2026-10-13T06:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Election2028",
-        "PredictionMarkets",
-        "Kalshi",
-        "NFL",
-        "MVP",
-        "Polymarket"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0654-edt.jpg",
-      "external_url": "https://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/",
-      "links": [
-        "https://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/",
-        "https://www.si.com/prediction-markets/archive"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nKalshi traders are prioritizing 2028 over the midterms four weeks out\nThree of Kalshi's four highest-volume election markets are 2028 contests, led by the Democratic nominee at $232M; the 2028 winner market has cleared $71M.\n#Election2028 #PredictionMarkets #Kalshi\nhttps://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/\n\nBrock Purdy ties Josh Allen at the top of Polymarket's NFL MVP market\nPurdy draws level with Allen in the MVP race, while Kalshi leans toward Marvin Harrison Jr. being traded this season.\n#NFL #MVP #Polymarket\nhttps://www.si.com/prediction-markets/archive\n\nMarkets: Gold $4,215 | Brent $106 | BTC $82K | ETH $2.5K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0654-edt.jpg",
-      "published": "2026-10-13T06:54:00-04:00",
-      "source": "2026-10-13_0654-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-13_0645-edt-19",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-19",
-      "title": "Brazil bans prediction markets as more countries restrict Polymarket and Kalshi",
-      "content_text": "- **Brazil bans prediction markets as more countries restrict Polymarket and Kalshi** — Brazil's central bank and National Monetary Council Resolution 5,298 prohibits derivative contracts tied to sports, politics and other events, joining Argentina and Colombia, while Portugal has also blocked Polymarket access. ([HackerNoon](https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi))",
-      "content_html": "<p>- **Brazil bans prediction markets as more countries restrict Polymarket and Kalshi** — Brazil&#x27;s central bank and National Monetary Council Resolution 5,298 prohibits derivative contracts tied to sports, politics and other events, joining Argentina and Colombia, while Portugal has also blocked Polymarket access. ([HackerNoon](https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi))</p>",
-      "date_published": "2026-10-13T06:45:00-04:00",
-      "date_modified": "2026-10-13T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi",
-      "links": [
-        "https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:45 AM ET",
-      "body": "- **Brazil bans prediction markets as more countries restrict Polymarket and Kalshi** — Brazil's central bank and National Monetary Council Resolution 5,298 prohibits derivative contracts tied to sports, politics and other events, joining Argentina and Colombia, while Portugal has also blocked Polymarket access. ([HackerNoon](https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi))",
-      "image_url": null,
-      "published": "2026-10-13T06:45:00-04:00",
-      "source": "2026-10-13_0645-edt.json",
       "matches_facebook_post": false
     }
   ]
