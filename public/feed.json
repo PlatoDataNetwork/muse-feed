@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T06:34:03.457274-04:00",
+  "updated": "2026-10-13T06:48:39.501109-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,714 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0645-edt-19",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-19",
+      "title": "Brazil bans prediction markets as more countries restrict Polymarket and Kalshi",
+      "content_text": "- **Brazil bans prediction markets as more countries restrict Polymarket and Kalshi** — Brazil's central bank and National Monetary Council Resolution 5,298 prohibits derivative contracts tied to sports, politics and other events, joining Argentina and Colombia, while Portugal has also blocked Polymarket access. ([HackerNoon](https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi))",
+      "content_html": "<p>- **Brazil bans prediction markets as more countries restrict Polymarket and Kalshi** — Brazil&#x27;s central bank and National Monetary Council Resolution 5,298 prohibits derivative contracts tied to sports, politics and other events, joining Argentina and Colombia, while Portugal has also blocked Polymarket access. ([HackerNoon](https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi))</p>",
+      "date_published": "2026-10-13T06:45:00-04:00",
+      "date_modified": "2026-10-13T06:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi",
+      "links": [
+        "https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:45 AM ET",
+      "body": "- **Brazil bans prediction markets as more countries restrict Polymarket and Kalshi** — Brazil's central bank and National Monetary Council Resolution 5,298 prohibits derivative contracts tied to sports, politics and other events, joining Argentina and Colombia, while Portugal has also blocked Polymarket access. ([HackerNoon](https://hackernoon.com/why-countries-are-cracking-down-on-polymarket-and-kalshi))",
+      "image_url": null,
+      "published": "2026-10-13T06:45:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-20",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-20",
+      "title": "Midterm prediction markets face insider-trading scrutiny over knowable contracts",
+      "content_text": "- **Midterm prediction markets face insider-trading scrutiny over knowable contracts** — An Anti-Corruption Data Collective analysis reported by CNN found more than $20 million traded on granular midterm markets such as candidate withdrawals, and flagged correlated trades ahead of news in the Maine Senate race. ([Bonus](https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/))",
+      "content_html": "<p>- **Midterm prediction markets face insider-trading scrutiny over knowable contracts** — An Anti-Corruption Data Collective analysis reported by CNN found more than $20 million traded on granular midterm markets such as candidate withdrawals, and flagged correlated trades ahead of news in the Maine Senate race. ([Bonus](https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/))</p>",
+      "date_published": "2026-10-13T06:45:00-04:00",
+      "date_modified": "2026-10-13T06:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Senate",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
+      "links": [
+        "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:45 AM ET",
+      "body": "- **Midterm prediction markets face insider-trading scrutiny over knowable contracts** — An Anti-Corruption Data Collective analysis reported by CNN found more than $20 million traded on granular midterm markets such as candidate withdrawals, and flagged correlated trades ahead of news in the Maine Senate race. ([Bonus](https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/))",
+      "image_url": null,
+      "published": "2026-10-13T06:45:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-21",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-21",
+      "title": "Polymarket leads U.S. search demand while Kalshi leads trading volume, Blask data shows",
+      "content_text": "- **Polymarket leads U.S. search demand while Kalshi leads trading volume, Blask data shows** — Blask tracked January to August 2026 and put Polymarket at 57.8% of branded search demand versus Kalshi at 35.8%, even as Kalshi recorded $37.17 billion in August volume compared with $8.16 billion for Polymarket venues. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
+      "content_html": "<p>- **Polymarket leads U.S. search demand while Kalshi leads trading volume, Blask data shows** — Blask tracked January to August 2026 and put Polymarket at 57.8% of branded search demand versus Kalshi at 35.8%, even as Kalshi recorded $37.17 billion in August volume compared with $8.16 billion for Polymarket venues. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))</p>",
+      "date_published": "2026-10-13T06:45:00-04:00",
+      "date_modified": "2026-10-13T06:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand",
+      "links": [
+        "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:45 AM ET",
+      "body": "- **Polymarket leads U.S. search demand while Kalshi leads trading volume, Blask data shows** — Blask tracked January to August 2026 and put Polymarket at 57.8% of branded search demand versus Kalshi at 35.8%, even as Kalshi recorded $37.17 billion in August volume compared with $8.16 billion for Polymarket venues. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
+      "image_url": null,
+      "published": "2026-10-13T06:45:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-22",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-22",
+      "title": "October Fed hike odds fall sharply in two bursts on Kalshi and Polymarket",
+      "content_text": "- **October Fed hike odds fall sharply in two bursts on Kalshi and Polymarket** — An analysis of Kalshi and Polymarket pricing found October Fed hike odds dropping from about 66.5% to 33.5% across two bursts, and notes the platforms measure volume differently, in contracts versus dollars. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))",
+      "content_html": "<p>- **October Fed hike odds fall sharply in two bursts on Kalshi and Polymarket** — An analysis of Kalshi and Polymarket pricing found October Fed hike odds dropping from about 66.5% to 33.5% across two bursts, and notes the platforms measure volume differently, in contracts versus dollars. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))</p>",
+      "date_published": "2026-10-13T06:45:00-04:00",
+      "date_modified": "2026-10-13T06:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/",
+      "links": [
+        "https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:45 AM ET",
+      "body": "- **October Fed hike odds fall sharply in two bursts on Kalshi and Polymarket** — An analysis of Kalshi and Polymarket pricing found October Fed hike odds dropping from about 66.5% to 33.5% across two bursts, and notes the platforms measure volume differently, in contracts versus dollars. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))",
+      "image_url": null,
+      "published": "2026-10-13T06:45:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-23",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-23",
+      "title": "Prediction market legality in the U.S. split across appeals courts, WSN review finds",
+      "content_text": "- **Prediction market legality in the U.S. split across appeals courts, WSN review finds** — WSN reports that as of October 13, two federal appeals courts say sports contracts must also follow state gambling laws and one says they do not, with three petitions pending at the U.S. Supreme Court. ([WSN](https://www.wsn.com/prediction-markets/legal/))",
+      "content_html": "<p>- **Prediction market legality in the U.S. split across appeals courts, WSN review finds** — WSN reports that as of October 13, two federal appeals courts say sports contracts must also follow state gambling laws and one says they do not, with three petitions pending at the U.S. Supreme Court. ([WSN](https://www.wsn.com/prediction-markets/legal/))</p>",
+      "date_published": "2026-10-13T06:45:00-04:00",
+      "date_modified": "2026-10-13T06:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://www.wsn.com/prediction-markets/legal/",
+      "links": [
+        "https://www.wsn.com/prediction-markets/legal/"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:45 AM ET",
+      "body": "- **Prediction market legality in the U.S. split across appeals courts, WSN review finds** — WSN reports that as of October 13, two federal appeals courts say sports contracts must also follow state gambling laws and one says they do not, with three petitions pending at the U.S. Supreme Court. ([WSN](https://www.wsn.com/prediction-markets/legal/))",
+      "image_url": null,
+      "published": "2026-10-13T06:45:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-0",
+      "title": "Commodities vs Crypto: Which Prediction Markets Are Safer?",
+      "content_text": "- **Commodities vs Crypto: Which Prediction Markets Are Safer?** — Compare safety across prediction market venues. Kalshi offers CFTC regulation; Polymarket offers non-custodial trading. Learn which matches your risk tolerance. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/commodities-vs-crypto-which-prediction-markets-are-safer))",
+      "content_html": "<p>- **Commodities vs Crypto: Which Prediction Markets Are Safer?** — Compare safety across prediction market venues. Kalshi offers CFTC regulation; Polymarket offers non-custodial trading. Learn which matches your risk tolerance. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/commodities-vs-crypto-which-prediction-markets-are-safer))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/commodities-vs-crypto-which-prediction-markets-are-safer",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/commodities-vs-crypto-which-prediction-markets-are-safer"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Commodities vs Crypto: Which Prediction Markets Are Safer?** — Compare safety across prediction market venues. Kalshi offers CFTC regulation; Polymarket offers non-custodial trading. Learn which matches your risk tolerance. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/commodities-vs-crypto-which-prediction-markets-are-safer))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-1",
+      "title": "The 3-Second Window: Cross-Venue Latency Arbitrage Between Kalshi and Polymarket",
+      "content_text": "- **The 3-Second Window: Cross-Venue Latency Arbitrage Between Kalshi and Polymarket** — Why the same event trades at two prices, how long the gap stays open, and the execution engineering required to capture it. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/cross-venue-latency-arbitrage-kalshi-polymarket))",
+      "content_html": "<p>- **The 3-Second Window: Cross-Venue Latency Arbitrage Between Kalshi and Polymarket** — Why the same event trades at two prices, how long the gap stays open, and the execution engineering required to capture it. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/cross-venue-latency-arbitrage-kalshi-polymarket))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/cross-venue-latency-arbitrage-kalshi-polymarket",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/cross-venue-latency-arbitrage-kalshi-polymarket"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **The 3-Second Window: Cross-Venue Latency Arbitrage Between Kalshi and Polymarket** — Why the same event trades at two prices, how long the gap stays open, and the execution engineering required to capture it. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/cross-venue-latency-arbitrage-kalshi-polymarket))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-2",
+      "title": "The Calendar Edge: Trading Scheduled Releases in Event Markets",
+      "content_text": "- **The Calendar Edge: Trading Scheduled Releases in Event Markets** — CPI prints, Fed meetings, verdict dates: scheduled catalysts create predictable volatility patterns you can structure trades around. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/event-driven-calendar-strategies))",
+      "content_html": "<p>- **The Calendar Edge: Trading Scheduled Releases in Event Markets** — CPI prints, Fed meetings, verdict dates: scheduled catalysts create predictable volatility patterns you can structure trades around. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/event-driven-calendar-strategies))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/event-driven-calendar-strategies",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/event-driven-calendar-strategies"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **The Calendar Edge: Trading Scheduled Releases in Event Markets** — CPI prints, Fed meetings, verdict dates: scheduled catalysts create predictable volatility patterns you can structure trades around. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/event-driven-calendar-strategies))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-3",
+      "title": "Price Is a Probability: Extracting Signals the Crowd Already Priced",
+      "content_text": "- **Price Is a Probability: Extracting Signals the Crowd Already Priced** — Convert prices to probabilities, track their velocity, and use cross-market consistency checks to find what's actually mispriced. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/implied-probability-signal-extraction))",
+      "content_html": "<p>- **Price Is a Probability: Extracting Signals the Crowd Already Priced** — Convert prices to probabilities, track their velocity, and use cross-market consistency checks to find what&#x27;s actually mispriced. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/implied-probability-signal-extraction))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/implied-probability-signal-extraction",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/implied-probability-signal-extraction"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Price Is a Probability: Extracting Signals the Crowd Already Priced** — Convert prices to probabilities, track their velocity, and use cross-market consistency checks to find what's actually mispriced. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/implied-probability-signal-extraction))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-4",
+      "title": "Infiniti Markets Deep Dive: From Research to Execution to Accountability",
+      "content_text": "- **Infiniti Markets Deep Dive: From Research to Execution to Accountability** — An inside look at Infiniti's research, Kalshi trading, ledger, and risk views—and why a connected workflow matters more than another flashing quote. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/infiniti-markets-deep-dive-research-execution-accountability))",
+      "content_html": "<p>- **Infiniti Markets Deep Dive: From Research to Execution to Accountability** — An inside look at Infiniti&#x27;s research, Kalshi trading, ledger, and risk views—and why a connected workflow matters more than another flashing quote. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/infiniti-markets-deep-dive-research-execution-accountability))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/infiniti-markets-deep-dive-research-execution-accountability",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/infiniti-markets-deep-dive-research-execution-accountability"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Infiniti Markets Deep Dive: From Research to Execution to Accountability** — An inside look at Infiniti's research, Kalshi trading, ledger, and risk views—and why a connected workflow matters more than another flashing quote. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/infiniti-markets-deep-dive-research-execution-accountability))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-5",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-5",
+      "title": "Is High-Frequency Trading Being Displaced by Prediction Markets—or Finding a New Arena?",
+      "content_text": "- **Is High-Frequency Trading Being Displaced by Prediction Markets—or Finding a New Arena?** — HFT is a trading method; prediction markets are a market category. Their collision is less a replacement story than a contest over information, inventory, and execution. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/is-hft-being-displaced-by-prediction-markets))",
+      "content_html": "<p>- **Is High-Frequency Trading Being Displaced by Prediction Markets—or Finding a New Arena?** — HFT is a trading method; prediction markets are a market category. Their collision is less a replacement story than a contest over information, inventory, and execution. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/is-hft-being-displaced-by-prediction-markets))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/is-hft-being-displaced-by-prediction-markets",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/is-hft-being-displaced-by-prediction-markets"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Is High-Frequency Trading Being Displaced by Prediction Markets—or Finding a New Arena?** — HFT is a trading method; prediction markets are a market category. Their collision is less a replacement story than a contest over information, inventory, and execution. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/is-hft-being-displaced-by-prediction-markets))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-6",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-6",
+      "title": "The Kalshi Kulture: How to Reign Supreme Without Believing the Hype",
+      "content_text": "- **The Kalshi Kulture: How to Reign Supreme Without Believing the Hype** — ‘Reign supreme’ should mean command of your process, not a promise to beat everyone. A field guide to contract literacy, specialization, and disciplined execution on Kalshi. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/kalshi-kulture-how-to-reign-supreme-without-the-hype))",
+      "content_html": "<p>- **The Kalshi Kulture: How to Reign Supreme Without Believing the Hype** — ‘Reign supreme’ should mean command of your process, not a promise to beat everyone. A field guide to contract literacy, specialization, and disciplined execution on Kalshi. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/kalshi-kulture-how-to-reign-supreme-without-the-hype))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/kalshi-kulture-how-to-reign-supreme-without-the-hype",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/kalshi-kulture-how-to-reign-supreme-without-the-hype"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **The Kalshi Kulture: How to Reign Supreme Without Believing the Hype** — ‘Reign supreme’ should mean command of your process, not a promise to beat everyone. A field guide to contract literacy, specialization, and disciplined execution on Kalshi. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/kalshi-kulture-how-to-reign-supreme-without-the-hype))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-7",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-7",
+      "title": "Kelly Sizing for Binary Contracts: The Math That Keeps You Alive",
+      "content_text": "- **Kelly Sizing for Binary Contracts: The Math That Keeps You Alive** — Full Kelly, half Kelly, and the binary-specific formula for sizing YES/NO positions when the payoff is $1 or nothing. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/kelly-criterion-binary-contracts))",
+      "content_html": "<p>- **Kelly Sizing for Binary Contracts: The Math That Keeps You Alive** — Full Kelly, half Kelly, and the binary-specific formula for sizing YES/NO positions when the payoff is $1 or nothing. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/kelly-criterion-binary-contracts))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/kelly-criterion-binary-contracts",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/kelly-criterion-binary-contracts"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Kelly Sizing for Binary Contracts: The Math That Keeps You Alive** — Full Kelly, half Kelly, and the binary-specific formula for sizing YES/NO positions when the payoff is $1 or nothing. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/kelly-criterion-binary-contracts))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-8",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-8",
+      "title": "Market Making in Binary Contracts: Quoting Both Sides Without Dying",
+      "content_text": "- **Market Making in Binary Contracts: Quoting Both Sides Without Dying** — Inventory risk, spread capture, and the quoting math for providing liquidity in YES/NO markets. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/market-making-binary-contracts))",
+      "content_html": "<p>- **Market Making in Binary Contracts: Quoting Both Sides Without Dying** — Inventory risk, spread capture, and the quoting math for providing liquidity in YES/NO markets. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/market-making-binary-contracts))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/market-making-binary-contracts",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/market-making-binary-contracts"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Market Making in Binary Contracts: Quoting Both Sides Without Dying** — Inventory risk, spread capture, and the quoting math for providing liquidity in YES/NO markets. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/market-making-binary-contracts))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-9",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-9",
+      "title": "The Sum Must Be One: Arbitraging Multi-Outcome Markets",
+      "content_text": "- **The Sum Must Be One: Arbitraging Multi-Outcome Markets** — When candidate A + B + C prices sum to 104%, someone is mispriced. Negative-risk mechanics, conversion, and the exhaustive-set check. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/multi-outcome-market-arbitrage))",
+      "content_html": "<p>- **The Sum Must Be One: Arbitraging Multi-Outcome Markets** — When candidate A + B + C prices sum to 104%, someone is mispriced. Negative-risk mechanics, conversion, and the exhaustive-set check. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/multi-outcome-market-arbitrage))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/multi-outcome-market-arbitrage",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/multi-outcome-market-arbitrage"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **The Sum Must Be One: Arbitraging Multi-Outcome Markets** — When candidate A + B + C prices sum to 104%, someone is mispriced. Negative-risk mechanics, conversion, and the exhaustive-set check. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/multi-outcome-market-arbitrage))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-10",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-10",
+      "title": "Trading the Repricing: How Fast News Moves Prediction Markets",
+      "content_text": "- **Trading the Repricing: How Fast News Moves Prediction Markets** — The first 90 seconds after breaking news follow a repeatable pattern. Trade the pattern, not the headline. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/news-repricing-speed-trading))",
+      "content_html": "<p>- **Trading the Repricing: How Fast News Moves Prediction Markets** — The first 90 seconds after breaking news follow a repeatable pattern. Trade the pattern, not the headline. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/news-repricing-speed-trading))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/news-repricing-speed-trading",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/news-repricing-speed-trading"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Trading the Repricing: How Fast News Moves Prediction Markets** — The first 90 seconds after breaking news follow a repeatable pattern. Trade the pattern, not the headline. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/news-repricing-speed-trading))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-11",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-11",
+      "title": "Surviving the Streak: Drawdown Control for Binary Portfolios",
+      "content_text": "- **Surviving the Streak: Drawdown Control for Binary Portfolios** — Losing streaks in 55%-accurate trading are longer than your intuition says. Size for the streak you'll actually get. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/position-sizing-drawdown-control))",
+      "content_html": "<p>- **Surviving the Streak: Drawdown Control for Binary Portfolios** — Losing streaks in 55%-accurate trading are longer than your intuition says. Size for the streak you&#x27;ll actually get. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/position-sizing-drawdown-control))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/position-sizing-drawdown-control",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/position-sizing-drawdown-control"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Surviving the Streak: Drawdown Control for Binary Portfolios** — Losing streaks in 55%-accurate trading are longer than your intuition says. Size for the streak you'll actually get. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/position-sizing-drawdown-control))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-12",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-12",
+      "title": "Prediction Market AMMs: How a Formula Becomes a Price",
+      "content_text": "- **Prediction Market AMMs: How a Formula Becomes a Price** — From LMSR to outcome-token pools, automated market makers turn inventory into quotes. The mechanism explains liquidity—but does not promise accurate probabilities. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-amms-how-prices-emerge))",
+      "content_html": "<p>- **Prediction Market AMMs: How a Formula Becomes a Price** — From LMSR to outcome-token pools, automated market makers turn inventory into quotes. The mechanism explains liquidity—but does not promise accurate probabilities. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-amms-how-prices-emerge))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/prediction-market-amms-how-prices-emerge",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/prediction-market-amms-how-prices-emerge"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Prediction Market AMMs: How a Formula Becomes a Price** — From LMSR to outcome-token pools, automated market makers turn inventory into quotes. The mechanism explains liquidity—but does not promise accurate probabilities. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-amms-how-prices-emerge))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-13",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-13",
+      "title": "How to Use a Prediction Market Arbitrage Scanner to Spot Price Gaps.",
+      "content_text": "- **How to Use a Prediction Market Arbitrage Scanner to Spot Price Gaps.** — Learn how arbitrage scanners detect price gaps across Kalshi and Polymarket, execute both legs automatically, and what to check before you trade. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-arbitrage-scanner-price-gaps))",
+      "content_html": "<p>- **How to Use a Prediction Market Arbitrage Scanner to Spot Price Gaps.** — Learn how arbitrage scanners detect price gaps across Kalshi and Polymarket, execute both legs automatically, and what to check before you trade. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-arbitrage-scanner-price-gaps))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/prediction-market-arbitrage-scanner-price-gaps",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/prediction-market-arbitrage-scanner-price-gaps"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **How to Use a Prediction Market Arbitrage Scanner to Spot Price Gaps.** — Learn how arbitrage scanners detect price gaps across Kalshi and Polymarket, execute both legs automatically, and what to check before you trade. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-arbitrage-scanner-price-gaps))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-14",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-14",
+      "title": "Confidence Is Not an Edge: The Calibration Test for Prediction Traders",
+      "content_text": "- **Confidence Is Not an Edge: The Calibration Test for Prediction Traders** — Turn ‘I knew it’ into an auditable forecast. Probability buckets, Brier scores, and honest comparisons reveal what conviction alone cannot. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-calibration-confidence-is-not-an-edge))",
+      "content_html": "<p>- **Confidence Is Not an Edge: The Calibration Test for Prediction Traders** — Turn ‘I knew it’ into an auditable forecast. Probability buckets, Brier scores, and honest comparisons reveal what conviction alone cannot. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-calibration-confidence-is-not-an-edge))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/prediction-market-calibration-confidence-is-not-an-edge",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/prediction-market-calibration-confidence-is-not-an-edge"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Confidence Is Not an Edge: The Calibration Test for Prediction Traders** — Turn ‘I knew it’ into an auditable forecast. Probability buckets, Brier scores, and honest comparisons reveal what conviction alone cannot. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-calibration-confidence-is-not-an-edge))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-15",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-15",
+      "title": "Compliance Is an Edge You Cannot Automate Away",
+      "content_text": "- **Compliance Is an Edge You Cannot Automate Away** — Why contract literacy, information boundaries, and accountable automation belong inside a trading strategy—not in a disclaimer added afterward. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-compliance-edge-that-cannot-be-automated-away))",
+      "content_html": "<p>- **Compliance Is an Edge You Cannot Automate Away** — Why contract literacy, information boundaries, and accountable automation belong inside a trading strategy—not in a disclaimer added afterward. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-compliance-edge-that-cannot-be-automated-away))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/prediction-market-compliance-edge-that-cannot-be-automated-away",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/prediction-market-compliance-edge-that-cannot-be-automated-away"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Compliance Is an Edge You Cannot Automate Away** — Why contract literacy, information boundaries, and accountable automation belong inside a trading strategy—not in a disclaimer added afterward. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-compliance-edge-that-cannot-be-automated-away))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-16",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-16",
+      "title": "Culture Beats Conviction: Build a Trading Desk That Can Be Wrong",
+      "content_text": "- **Culture Beats Conviction: Build a Trading Desk That Can Be Wrong** — A strong trading culture does not reward the loudest forecast. It rewards honest updates, dissent, clean records, and decisions that survive an unfavorable result. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-culture-build-a-desk-that-can-be-wrong))",
+      "content_html": "<p>- **Culture Beats Conviction: Build a Trading Desk That Can Be Wrong** — A strong trading culture does not reward the loudest forecast. It rewards honest updates, dissent, clean records, and decisions that survive an unfavorable result. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-culture-build-a-desk-that-can-be-wrong))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/prediction-market-culture-build-a-desk-that-can-be-wrong",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/prediction-market-culture-build-a-desk-that-can-be-wrong"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **Culture Beats Conviction: Build a Trading Desk That Can Be Wrong** — A strong trading culture does not reward the loudest forecast. It rewards honest updates, dissent, clean records, and decisions that survive an unfavorable result. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-culture-build-a-desk-that-can-be-wrong))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-17",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-17",
+      "title": "The Liquidity Provider's Dilemma: When the Spread Is Not Profit",
+      "content_text": "- **The Liquidity Provider's Dilemma: When the Spread Is Not Profit** — Supplying liquidity means selling immediacy while carrying inventory and information risk. A practical look at AMMs, order books, and the hidden cost of being available. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-liquidity-providers-when-the-spread-is-not-profit))",
+      "content_html": "<p>- **The Liquidity Provider&#x27;s Dilemma: When the Spread Is Not Profit** — Supplying liquidity means selling immediacy while carrying inventory and information risk. A practical look at AMMs, order books, and the hidden cost of being available. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-liquidity-providers-when-the-spread-is-not-profit))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/prediction-market-liquidity-providers-when-the-spread-is-not-profit",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/prediction-market-liquidity-providers-when-the-spread-is-not-profit"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **The Liquidity Provider's Dilemma: When the Spread Is Not Profit** — Supplying liquidity means selling immediacy while carrying inventory and information risk. A practical look at AMMs, order books, and the hidden cost of being available. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/prediction-market-liquidity-providers-when-the-spread-is-not-profit))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0645-edt-18",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-18",
+      "title": "The Psychology of a Profitable Strategy: Process Before P&L",
+      "content_text": "- **The Psychology of a Profitable Strategy: Process Before P&L** — Loss aversion, outcome bias, and the urge to get even can overpower a sound forecast. Here is how to design a trading process that gives judgment a fighting chance. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/psychology-profitable-trading-strategy-process-before-pnl))",
+      "content_html": "<p>- **The Psychology of a Profitable Strategy: Process Before P&amp;L** — Loss aversion, outcome bias, and the urge to get even can overpower a sound forecast. Here is how to design a trading process that gives judgment a fighting chance. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/psychology-profitable-trading-strategy-process-before-pnl))</p>",
+      "date_published": "2026-10-13T06:41:00-04:00",
+      "date_modified": "2026-10-13T06:41:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://infiniti.w3ai.io/intelligence/psychology-profitable-trading-strategy-process-before-pnl",
+      "links": [
+        "https://infiniti.w3ai.io/intelligence/psychology-profitable-trading-strategy-process-before-pnl"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:41 AM ET",
+      "body": "- **The Psychology of a Profitable Strategy: Process Before P&L** — Loss aversion, outcome bias, and the urge to get even can overpower a sound forecast. Here is how to design a trading process that gives judgment a fighting chance. ([Infiniti Intelligence](https://infiniti.w3ai.io/intelligence/psychology-profitable-trading-strategy-process-before-pnl))",
+      "image_url": null,
+      "published": "2026-10-13T06:41:00-04:00",
+      "source": "2026-10-13_0645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0639-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0639-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nHurricane Isaias reprices the weather board: Cat 4+ U.S. landfall at 17%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest weather market leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/\n\nNFC West flips: 49ers jump 19 points to about 60% to win the division\nThe Oct. 13 cross-venue reading puts San Francisco at 60% on Kalshi and 59% on Polymarket, up 19 points since Oct. 6, while Seattle fell 12 points to 19%/18% and the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Hurricane Isaias reprices the weather board: Cat 4+ U.S. landfall at 17%<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest weather market leads, in a different category from the last three editions.…<br/>#PredictionMarkets #Polymarket<br/>https://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/<br/><br/>NFC West flips: 49ers jump 19 points to about 60% to win the division<br/>The Oct. 13 cross-venue reading puts San Francisco at 60% on Kalshi and 59% on Polymarket, up 19 points since Oct. 6, while Seattle fell 12 points to 19%/18% and the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T06:39:00-04:00",
+      "date_modified": "2026-10-13T06:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/",
+      "links": [
+        "https://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/",
+        "https://ipredicta.co/insights/nfl-division-winners-2026/"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:39 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nHurricane Isaias reprices the weather board: Cat 4+ U.S. landfall at 17%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest weather market leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/\n\nNFC West flips: 49ers jump 19 points to about 60% to win the division\nThe Oct. 13 cross-venue reading puts San Francisco at 60% on Kalshi and 59% on Polymarket, up 19 points since Oct. 6, while Seattle fell 12 points to 19%/18% and the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T06:39:00-04:00",
+      "source": "2026-10-13_0639-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0630-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0630-edt-0",
@@ -279,8 +987,8 @@
       "id": "infiniti-2026-10-13_0624-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0624-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nHyperliquid pushes into outcome contracts as Bernstein adds prediction markets to core coverage\nNo major headline broke in the last 15 minutes, so the freshest competitive signal leads, in a category different from the last three editions. Hyperliquid, which…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565\n\nParlays drove Kalshi past $3.9B in a day, twice in one weekend\nKalshi set back-to-back daily volume records at $3.91B on Saturday and $3.96B on Sunday, with parlay-style combos making up about 70% of both days and most of them long…\n#PredictionMarkets #Kalshi\nhttps://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Hyperliquid pushes into outcome contracts as Bernstein adds prediction markets to core coverage<br/>No major headline broke in the last 15 minutes, so the freshest competitive signal leads, in a category different from the last three editions. Hyperliquid, which…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565<br/><br/>Parlays drove Kalshi past $3.9B in a day, twice in one weekend<br/>Kalshi set back-to-back daily volume records at $3.91B on Saturday and $3.96B on Sunday, with parlay-style combos making up about 70% of both days and most of them long…<br/>#PredictionMarkets #Kalshi<br/>https://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nHyperliquid pushes into outcome contracts, Bernstein adds prediction markets\nHyperliquid targets Kalshi and Polymarket; its first Bitcoin outcome market did 3x both incumbents combined.\n#PredictionMarkets #Kalshi\nhttps://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565\n\nParlays drove Kalshi past $3.9B in a day, twice in one weekend\nKalshi hit $3.91B Sat and $3.96B Sun, parlays about 70% of volume.\n#Kalshi #PredictionMarkets\nhttps://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/\n\nPolymarket: East of Eden at 98% for #2 U.S. Netflix show\nEast of Eden leads at 98%, All American next at 5%.\n#Polymarket #Netflix\nhttps://polymarket.com/event/what-will-be-the-2-us-netflix-show-this-week-20261006t230000000z\n\nMarkets: Gold $4,186 | Brent $106 | BTC $82K | ETH $2,515\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Hyperliquid pushes into outcome contracts, Bernstein adds prediction markets<br/>Hyperliquid targets Kalshi and Polymarket; its first Bitcoin outcome market did 3x both incumbents combined.<br/>#PredictionMarkets #Kalshi<br/>https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565<br/><br/>Parlays drove Kalshi past $3.9B in a day, twice in one weekend<br/>Kalshi hit $3.91B Sat and $3.96B Sun, parlays about 70% of volume.<br/>#Kalshi #PredictionMarkets<br/>https://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/<br/><br/>Polymarket: East of Eden at 98% for #2 U.S. Netflix show<br/>East of Eden leads at 98%, All American next at 5%.<br/>#Polymarket #Netflix<br/>https://polymarket.com/event/what-will-be-the-2-us-netflix-show-this-week-20261006t230000000z<br/><br/>Markets: Gold $4,186 | Brent $106 | BTC $82K | ETH $2,515<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0624-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-13T06:24:00-04:00",
       "date_modified": "2026-10-13T06:24:00-04:00",
       "authors": [
@@ -292,21 +1000,23 @@
       "tags": [
         "PredictionMarkets",
         "Kalshi",
+        "2",
         "Polymarket",
-        "Bitcoin"
+        "Netflix"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0624-edt.jpg",
       "external_url": "https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565",
       "links": [
         "https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565",
-        "https://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/"
+        "https://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/",
+        "https://polymarket.com/event/what-will-be-the-2-us-netflix-show-this-week-20261006t230000000z"
       ],
       "timestamp": "Oct 13, 2026 · 6:24 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nHyperliquid pushes into outcome contracts as Bernstein adds prediction markets to core coverage\nNo major headline broke in the last 15 minutes, so the freshest competitive signal leads, in a category different from the last three editions. Hyperliquid, which…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565\n\nParlays drove Kalshi past $3.9B in a day, twice in one weekend\nKalshi set back-to-back daily volume records at $3.91B on Saturday and $3.96B on Sunday, with parlay-style combos making up about 70% of both days and most of them long…\n#PredictionMarkets #Kalshi\nhttps://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nHyperliquid pushes into outcome contracts, Bernstein adds prediction markets\nHyperliquid targets Kalshi and Polymarket; its first Bitcoin outcome market did 3x both incumbents combined.\n#PredictionMarkets #Kalshi\nhttps://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565\n\nParlays drove Kalshi past $3.9B in a day, twice in one weekend\nKalshi hit $3.91B Sat and $3.96B Sun, parlays about 70% of volume.\n#Kalshi #PredictionMarkets\nhttps://coinspectator.com/bitcoin-com/2026/10/13/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/\n\nPolymarket: East of Eden at 98% for #2 U.S. Netflix show\nEast of Eden leads at 98%, All American next at 5%.\n#Polymarket #Netflix\nhttps://polymarket.com/event/what-will-be-the-2-us-netflix-show-this-week-20261006t230000000z\n\nMarkets: Gold $4,186 | Brent $106 | BTC $82K | ETH $2,515\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0624-edt.jpg",
       "published": "2026-10-13T06:24:00-04:00",
       "source": "2026-10-13_0624-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-13_0615-edt-0",
@@ -3949,773 +4659,6 @@
       "image_url": null,
       "published": "2026-10-13T01:00:00-04:00",
       "source": "2026-10-13_0100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0100-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-3",
-      "title": "Sports and election event contracts may come to Canada through dealer and provincial gaming routes",
-      "content_text": "- **Sports and election event contracts may come to Canada through dealer and provincial gaming routes** — Canada is exploring pathways for regulated prediction-market event contracts, with two CIRO Investment Dealer Members authorized to offer contracts maturing in 30 days or more. Election-outcome contracts remain off limits, and analysts say any sports event contracts would more likely arrive through provincial gaming frameworks than securities regulation. ([GambleRss](https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531))",
-      "content_html": "<p>- **Sports and election event contracts may come to Canada through dealer and provincial gaming routes** — Canada is exploring pathways for regulated prediction-market event contracts, with two CIRO Investment Dealer Members authorized to offer contracts maturing in 30 days or more. Election-outcome contracts remain off limits, and analysts say any sports event contracts would more likely arrive through provincial gaming frameworks than securities regulation. ([GambleRss](https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531))</p>",
-      "date_published": "2026-10-13T01:00:00-04:00",
-      "date_modified": "2026-10-13T01:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531",
-      "links": [
-        "https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
-      "body": "- **Sports and election event contracts may come to Canada through dealer and provincial gaming routes** — Canada is exploring pathways for regulated prediction-market event contracts, with two CIRO Investment Dealer Members authorized to offer contracts maturing in 30 days or more. Election-outcome contracts remain off limits, and analysts say any sports event contracts would more likely arrive through provincial gaming frameworks than securities regulation. ([GambleRss](https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531))",
-      "image_url": null,
-      "published": "2026-10-13T01:00:00-04:00",
-      "source": "2026-10-13_0100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nSens. Schiff and Curtis unveil bipartisan bill to ban sports markets on prediction platforms\nSens. Adam Schiff (D-Calif.) and John Curtis (R-Utah) are preparing the first bipartisan bill targeting prediction markets, which would block CFTC-regulated platforms —…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082\n\nNevada's Friday suit against Polymarket still the newest enforcement marker\nThe Nevada Gaming Control Board sued Blockratize Inc., Polymarket's corporate entity, in Carson City district court seeking to bar \"unlicensed wagering\" — the first time…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Sens. Schiff and Curtis unveil bipartisan bill to ban sports markets on prediction platforms<br/>Sens. Adam Schiff (D-Calif.) and John Curtis (R-Utah) are preparing the first bipartisan bill targeting prediction markets, which would block CFTC-regulated platforms —…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082<br/><br/>Nevada&#x27;s Friday suit against Polymarket still the newest enforcement marker<br/>The Nevada Gaming Control Board sued Blockratize Inc., Polymarket&#x27;s corporate entity, in Carson City district court seeking to bar &quot;unlicensed wagering&quot; — the first time…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T00:54:00-04:00",
-      "date_modified": "2026-10-13T00:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082",
-      "links": [
-        "https://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082",
-        "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nSens. Schiff and Curtis unveil bipartisan bill to ban sports markets on prediction platforms\nSens. Adam Schiff (D-Calif.) and John Curtis (R-Utah) are preparing the first bipartisan bill targeting prediction markets, which would block CFTC-regulated platforms —…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082\n\nNevada's Friday suit against Polymarket still the newest enforcement marker\nThe Nevada Gaming Control Board sued Blockratize Inc., Polymarket's corporate entity, in Carson City district court seeking to bar \"unlicensed wagering\" — the first time…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T00:54:00-04:00",
-      "source": "2026-10-13_0054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0045-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0045-edt-0",
-      "title": "Kalshi ends volume rewards program on October 13",
-      "content_text": "- **Kalshi ends volume rewards program on October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program, effective no earlier than October 13, 2026, far ahead of its original October 2027 end date. The program paid eligible traders a share of fixed per-market rewards based on qualifying volume to boost liquidity; market makers, affiliates, and certain customers were excluded, and no replacement program was announced. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))",
-      "content_html": "<p>- **Kalshi ends volume rewards program on October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program, effective no earlier than October 13, 2026, far ahead of its original October 2027 end date. The program paid eligible traders a share of fixed per-market rewards based on qualifying volume to boost liquidity; market makers, affiliates, and certain customers were excluded, and no replacement program was announced. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))</p>",
-      "date_published": "2026-10-13T00:45:00-04:00",
-      "date_modified": "2026-10-13T00:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://crypto-economy.com/kalshi-ends-volume-rewards-program/",
-      "links": [
-        "https://crypto-economy.com/kalshi-ends-volume-rewards-program/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:45 AM ET",
-      "body": "- **Kalshi ends volume rewards program on October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program, effective no earlier than October 13, 2026, far ahead of its original October 2027 end date. The program paid eligible traders a share of fixed per-market rewards based on qualifying volume to boost liquidity; market makers, affiliates, and certain customers were excluded, and no replacement program was announced. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))",
-      "image_url": null,
-      "published": "2026-10-13T00:45:00-04:00",
-      "source": "2026-10-13_0045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0045-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0045-edt-1",
-      "title": "Polymarket tests Protocol V2 ahead of November 2 cutover for new markets",
-      "content_text": "- **Polymarket tests Protocol V2 ahead of November 2 cutover for new markets** — Polymarket is running production canary markets on a rebuilt smart-contract system through October 30, with a tentative switch to Protocol V2 for all newly created markets on November 2. The upgrade replaces the 2019 Gnosis-based framework with a single ERC-1155 positions contract, pUSD as collateral, and a modular oracle setup, backed by a $5 million bug bounty. ([The Block](https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804))",
-      "content_html": "<p>- **Polymarket tests Protocol V2 ahead of November 2 cutover for new markets** — Polymarket is running production canary markets on a rebuilt smart-contract system through October 30, with a tentative switch to Protocol V2 for all newly created markets on November 2. The upgrade replaces the 2019 Gnosis-based framework with a single ERC-1155 positions contract, pUSD as collateral, and a modular oracle setup, backed by a $5 million bug bounty. ([The Block](https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804))</p>",
-      "date_published": "2026-10-13T00:45:00-04:00",
-      "date_modified": "2026-10-13T00:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
-      "links": [
-        "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:45 AM ET",
-      "body": "- **Polymarket tests Protocol V2 ahead of November 2 cutover for new markets** — Polymarket is running production canary markets on a rebuilt smart-contract system through October 30, with a tentative switch to Protocol V2 for all newly created markets on November 2. The upgrade replaces the 2019 Gnosis-based framework with a single ERC-1155 positions contract, pUSD as collateral, and a modular oracle setup, backed by a $5 million bug bounty. ([The Block](https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804))",
-      "image_url": null,
-      "published": "2026-10-13T00:45:00-04:00",
-      "source": "2026-10-13_0045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0039-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0039-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nNevada draws Polymarket into the prediction-market legal fight for the first time\nThe Nevada Gaming Control Board has sued Blockratize Inc., Polymarket's corporate entity, seeking a court order barring the company from offering \"unlicensed wagering\"…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nCommodities & crypto stats\nBTC ~$82,249, consolidating below short-term averages with support at $81,800–$82,000 ahead of Wednesday's CPI; ETH ~$2,455 (short-term averages weakened, support…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Nevada draws Polymarket into the prediction-market legal fight for the first time<br/>The Nevada Gaming Control Board has sued Blockratize Inc., Polymarket&#x27;s corporate entity, seeking a court order barring the company from offering &quot;unlicensed wagering&quot;…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416<br/><br/>Commodities &amp; crypto stats<br/>BTC ~$82,249, consolidating below short-term averages with support at $81,800–$82,000 ahead of Wednesday&#x27;s CPI; ETH ~$2,455 (short-term averages weakened, support…<br/>#PredictionMarkets #Polymarket #Senate #Bitcoin<br/>https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T00:39:00-04:00",
-      "date_modified": "2026-10-13T00:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416",
-      "links": [
-        "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416",
-        "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:39 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nNevada draws Polymarket into the prediction-market legal fight for the first time\nThe Nevada Gaming Control Board has sued Blockratize Inc., Polymarket's corporate entity, seeking a court order barring the company from offering \"unlicensed wagering\"…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nCommodities & crypto stats\nBTC ~$82,249, consolidating below short-term averages with support at $81,800–$82,000 ahead of Wednesday's CPI; ETH ~$2,455 (short-term averages weakened, support…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T00:39:00-04:00",
-      "source": "2026-10-13_0039-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0030-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0030-edt-0",
-      "title": "Texas vs. Oklahoma odds: prediction markets price No. 1 Texas at 74% in Red River Rivalry",
-      "content_text": "- **Texas vs. Oklahoma odds: prediction markets price No. 1 Texas at 74% in Red River Rivalry** — Polymarket and Kalshi both give No. 1 Texas (4-0) a 74% chance of beating Oklahoma (2-2) in Saturday's Cotton Bowl matchup, and both markets price the spread, the total and the Texas team total at exactly 50%. Kalshi has $551,893 traded on the game as of Friday, about ten times the volume of the next SEC matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/))",
-      "content_html": "<p>- **Texas vs. Oklahoma odds: prediction markets price No. 1 Texas at 74% in Red River Rivalry** — Polymarket and Kalshi both give No. 1 Texas (4-0) a 74% chance of beating Oklahoma (2-2) in Saturday&#x27;s Cotton Bowl matchup, and both markets price the spread, the total and the Texas team total at exactly 50%. Kalshi has $551,893 traded on the game as of Friday, about ten times the volume of the next SEC matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/))</p>",
-      "date_published": "2026-10-13T00:30:00-04:00",
-      "date_modified": "2026-10-13T00:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "SEC"
-      ],
-      "image": null,
-      "external_url": "https://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/",
-      "links": [
-        "https://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:30 AM ET",
-      "body": "- **Texas vs. Oklahoma odds: prediction markets price No. 1 Texas at 74% in Red River Rivalry** — Polymarket and Kalshi both give No. 1 Texas (4-0) a 74% chance of beating Oklahoma (2-2) in Saturday's Cotton Bowl matchup, and both markets price the spread, the total and the Texas team total at exactly 50%. Kalshi has $551,893 traded on the game as of Friday, about ten times the volume of the next SEC matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/))",
-      "image_url": null,
-      "published": "2026-10-13T00:30:00-04:00",
-      "source": "2026-10-13_0030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0030-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0030-edt-1",
-      "title": "Prediction-market lawsuit tracker: 122 lawsuits across 28 states, next hearing set for Oct. 21",
-      "content_text": "- **Prediction-market lawsuit tracker: 122 lawsuits across 28 states, next hearing set for Oct. 21** — DeFi Rate's live lawsuit tracker now counts 122 unique prediction-market lawsuits, 30 appellate dockets and 13 enforcement matters across 28 states plus D.C. The next hearing is a case-management conference on Oct. 21 in California, while Kalshi's petition for rehearing en banc of the Sixth Circuit's Sept. 25 ruling is pending. ([DeFi Rate](https://defirate.com/prediction-markets/legal/))",
-      "content_html": "<p>- **Prediction-market lawsuit tracker: 122 lawsuits across 28 states, next hearing set for Oct. 21** — DeFi Rate&#x27;s live lawsuit tracker now counts 122 unique prediction-market lawsuits, 30 appellate dockets and 13 enforcement matters across 28 states plus D.C. The next hearing is a case-management conference on Oct. 21 in California, while Kalshi&#x27;s petition for rehearing en banc of the Sixth Circuit&#x27;s Sept. 25 ruling is pending. ([DeFi Rate](https://defirate.com/prediction-markets/legal/))</p>",
-      "date_published": "2026-10-13T00:30:00-04:00",
-      "date_modified": "2026-10-13T00:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/legal/",
-      "links": [
-        "https://defirate.com/prediction-markets/legal/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:30 AM ET",
-      "body": "- **Prediction-market lawsuit tracker: 122 lawsuits across 28 states, next hearing set for Oct. 21** — DeFi Rate's live lawsuit tracker now counts 122 unique prediction-market lawsuits, 30 appellate dockets and 13 enforcement matters across 28 states plus D.C. The next hearing is a case-management conference on Oct. 21 in California, while Kalshi's petition for rehearing en banc of the Sixth Circuit's Sept. 25 ruling is pending. ([DeFi Rate](https://defirate.com/prediction-markets/legal/))",
-      "image_url": null,
-      "published": "2026-10-13T00:30:00-04:00",
-      "source": "2026-10-13_0030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0030-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0030-edt-2",
-      "title": "Polymarket odds move: Bitcoin $90,000 in October climbs to 40% as upside targets gain",
-      "content_text": "- **Polymarket odds move: Bitcoin $90,000 in October climbs to 40% as upside targets gain** — Polymarket's daily odds snapshot shows upside crypto targets gaining across the board: Bitcoin reaching $90,000 in October rose from 33% to 40%, $87,500 hit 59%, and Ethereum reaching $2,600 in October jumped to 90% from 73%. Bitcoin traded near $84,025, with Wednesday's CPI report looming as the next catalyst. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026))",
-      "content_html": "<p>- **Polymarket odds move: Bitcoin $90,000 in October climbs to 40% as upside targets gain** — Polymarket&#x27;s daily odds snapshot shows upside crypto targets gaining across the board: Bitcoin reaching $90,000 in October rose from 33% to 40%, $87,500 hit 59%, and Ethereum reaching $2,600 in October jumped to 90% from 73%. Bitcoin traded near $84,025, with Wednesday&#x27;s CPI report looming as the next catalyst. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026))</p>",
-      "date_published": "2026-10-13T00:30:00-04:00",
-      "date_modified": "2026-10-13T00:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:30 AM ET",
-      "body": "- **Polymarket odds move: Bitcoin $90,000 in October climbs to 40% as upside targets gain** — Polymarket's daily odds snapshot shows upside crypto targets gaining across the board: Bitcoin reaching $90,000 in October rose from 33% to 40%, $87,500 hit 59%, and Ethereum reaching $2,600 in October jumped to 90% from 73%. Bitcoin traded near $84,025, with Wednesday's CPI report looming as the next catalyst. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026))",
-      "image_url": null,
-      "published": "2026-10-13T00:30:00-04:00",
-      "source": "2026-10-13_0030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0024-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0024-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nUnderdog's Aristotle licensors sue over the IG Group $1.3B sale\nUnderdog CEO Jeremy Levine said in August it's the first time he's been sued as a founder: Aristotle International is pressing claims including \"fraud,\" \"scheme\" and…\n#PredictionMarkets #SCOTUS\nhttps://sbcamericas.com/2026/08/21/prediction-markets-weekly-august-21/\n\nIG chief says Kalshi/Polymarket volume records are notional theater\nBreon Corcoran told analysts at last week's Underdog seminar that a $1 parlay can show thousands in notional volume, arguing the sector should be judged on net gaming…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.financemagnates.com/forex/ig-chief-questions-what-kalshi-and-polymarket-volume-records-are-worth/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Underdog&#x27;s Aristotle licensors sue over the IG Group $1.3B sale<br/>Underdog CEO Jeremy Levine said in August it&#x27;s the first time he&#x27;s been sued as a founder: Aristotle International is pressing claims including &quot;fraud,&quot; &quot;scheme&quot; and…<br/>#PredictionMarkets #SCOTUS<br/>https://sbcamericas.com/2026/08/21/prediction-markets-weekly-august-21/<br/><br/>IG chief says Kalshi/Polymarket volume records are notional theater<br/>Breon Corcoran told analysts at last week&#x27;s Underdog seminar that a $1 parlay can show thousands in notional volume, arguing the sector should be judged on net gaming…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.financemagnates.com/forex/ig-chief-questions-what-kalshi-and-polymarket-volume-records-are-worth/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T00:24:00-04:00",
-      "date_modified": "2026-10-13T00:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "SCOTUS",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://sbcamericas.com/2026/08/21/prediction-markets-weekly-august-21/",
-      "links": [
-        "https://sbcamericas.com/2026/08/21/prediction-markets-weekly-august-21/",
-        "https://www.financemagnates.com/forex/ig-chief-questions-what-kalshi-and-polymarket-volume-records-are-worth/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:24 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nUnderdog's Aristotle licensors sue over the IG Group $1.3B sale\nUnderdog CEO Jeremy Levine said in August it's the first time he's been sued as a founder: Aristotle International is pressing claims including \"fraud,\" \"scheme\" and…\n#PredictionMarkets #SCOTUS\nhttps://sbcamericas.com/2026/08/21/prediction-markets-weekly-august-21/\n\nIG chief says Kalshi/Polymarket volume records are notional theater\nBreon Corcoran told analysts at last week's Underdog seminar that a $1 parlay can show thousands in notional volume, arguing the sector should be judged on net gaming…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.financemagnates.com/forex/ig-chief-questions-what-kalshi-and-polymarket-volume-records-are-worth/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T00:24:00-04:00",
-      "source": "2026-10-13_0024-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0015-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0015-edt-0",
-      "title": "Nevada judge temporarily blocks Kalshi sports contracts statewide",
-      "content_text": "- **Nevada judge temporarily blocks Kalshi sports contracts statewide** — A Nevada state judge ordered Kalshi to stop offering sports event contracts in Nevada for at least two weeks. If the state wins a preliminary injunction at the hearing, Kalshi could be barred from sports, elections and entertainment contracts while the case is pending. Nevada regulators say they have now restricted all unlicensed prediction markets known to be operating in the state, and Kalshi has appealed to the Ninth Circuit. ([GambleRss](https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966))",
-      "content_html": "<p>- **Nevada judge temporarily blocks Kalshi sports contracts statewide** — A Nevada state judge ordered Kalshi to stop offering sports event contracts in Nevada for at least two weeks. If the state wins a preliminary injunction at the hearing, Kalshi could be barred from sports, elections and entertainment contracts while the case is pending. Nevada regulators say they have now restricted all unlicensed prediction markets known to be operating in the state, and Kalshi has appealed to the Ninth Circuit. ([GambleRss](https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966))</p>",
-      "date_published": "2026-10-13T00:15:00-04:00",
-      "date_modified": "2026-10-13T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966",
-      "links": [
-        "https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:15 AM ET",
-      "body": "- **Nevada judge temporarily blocks Kalshi sports contracts statewide** — A Nevada state judge ordered Kalshi to stop offering sports event contracts in Nevada for at least two weeks. If the state wins a preliminary injunction at the hearing, Kalshi could be barred from sports, elections and entertainment contracts while the case is pending. Nevada regulators say they have now restricted all unlicensed prediction markets known to be operating in the state, and Kalshi has appealed to the Ninth Circuit. ([GambleRss](https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966))",
-      "image_url": null,
-      "published": "2026-10-13T00:15:00-04:00",
-      "source": "2026-10-13_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0015-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0015-edt-1",
-      "title": "House Oversight probe of prediction-market insider trading hits its October 13 response deadline",
-      "content_text": "- **House Oversight probe of prediction-market insider trading hits its October 13 response deadline** — The House Oversight Committee gave Crypto.com, Hyperliquid Labs and PredictIt owner Aristotle Exchange until today to produce documents on identity verification, suspicious-trade detection and employee trading. Chairman James Comer expanded the insider-trading probe in September, following letters to Kalshi and Polymarket in May, with an eye on drafting rules barring officials from trading prediction markets. ([Dave Finances](https://davefinances.com/house-expands-prediction-market-insider-trading-probe-to-crypto-com-hyperliquid-and-predictit/))",
-      "content_html": "<p>- **House Oversight probe of prediction-market insider trading hits its October 13 response deadline** — The House Oversight Committee gave Crypto.com, Hyperliquid Labs and PredictIt owner Aristotle Exchange until today to produce documents on identity verification, suspicious-trade detection and employee trading. Chairman James Comer expanded the insider-trading probe in September, following letters to Kalshi and Polymarket in May, with an eye on drafting rules barring officials from trading prediction markets. ([Dave Finances](https://davefinances.com/house-expands-prediction-market-insider-trading-probe-to-crypto-com-hyperliquid-and-predictit/))</p>",
-      "date_published": "2026-10-13T00:15:00-04:00",
-      "date_modified": "2026-10-13T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "PredictIt"
-      ],
-      "image": null,
-      "external_url": "https://davefinances.com/house-expands-prediction-market-insider-trading-probe-to-crypto-com-hyperliquid-and-predictit/",
-      "links": [
-        "https://davefinances.com/house-expands-prediction-market-insider-trading-probe-to-crypto-com-hyperliquid-and-predictit/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:15 AM ET",
-      "body": "- **House Oversight probe of prediction-market insider trading hits its October 13 response deadline** — The House Oversight Committee gave Crypto.com, Hyperliquid Labs and PredictIt owner Aristotle Exchange until today to produce documents on identity verification, suspicious-trade detection and employee trading. Chairman James Comer expanded the insider-trading probe in September, following letters to Kalshi and Polymarket in May, with an eye on drafting rules barring officials from trading prediction markets. ([Dave Finances](https://davefinances.com/house-expands-prediction-market-insider-trading-probe-to-crypto-com-hyperliquid-and-predictit/))",
-      "image_url": null,
-      "published": "2026-10-13T00:15:00-04:00",
-      "source": "2026-10-13_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0015-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0015-edt-2",
-      "title": "Bills-Rams Monday Night Football draws biggest Kalshi market of the season at over $47.4M",
-      "content_text": "- **Bills-Rams Monday Night Football draws biggest Kalshi market of the season at over $47.4M** — The Bills-Rams Monday Night Football moneyline surpassed $47.4 million traded on Kalshi, the largest market of the NFL season so far. The Rams sit at 61% to win against Buffalo at 39%, with the total moving toward a shootout. Rival platforms Polymarket, Novig, ProphetX and FanDuel Predicts also ran signup promotions around the game. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/12/kalshi-promo-code-rocky-bills-rams-mnf-live-odds/))",
-      "content_html": "<p>- **Bills-Rams Monday Night Football draws biggest Kalshi market of the season at over $47.4M** — The Bills-Rams Monday Night Football moneyline surpassed $47.4 million traded on Kalshi, the largest market of the NFL season so far. The Rams sit at 61% to win against Buffalo at 39%, with the total moving toward a shootout. Rival platforms Polymarket, Novig, ProphetX and FanDuel Predicts also ran signup promotions around the game. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/12/kalshi-promo-code-rocky-bills-rams-mnf-live-odds/))</p>",
-      "date_published": "2026-10-13T00:15:00-04:00",
-      "date_modified": "2026-10-13T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.rockytopinsider.com/2026/10/12/kalshi-promo-code-rocky-bills-rams-mnf-live-odds/",
-      "links": [
-        "https://www.rockytopinsider.com/2026/10/12/kalshi-promo-code-rocky-bills-rams-mnf-live-odds/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:15 AM ET",
-      "body": "- **Bills-Rams Monday Night Football draws biggest Kalshi market of the season at over $47.4M** — The Bills-Rams Monday Night Football moneyline surpassed $47.4 million traded on Kalshi, the largest market of the NFL season so far. The Rams sit at 61% to win against Buffalo at 39%, with the total moving toward a shootout. Rival platforms Polymarket, Novig, ProphetX and FanDuel Predicts also ran signup promotions around the game. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/12/kalshi-promo-code-rocky-bills-rams-mnf-live-odds/))",
-      "image_url": null,
-      "published": "2026-10-13T00:15:00-04:00",
-      "source": "2026-10-13_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0015-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0015-edt-3",
-      "title": "Prediction markets face new scrutiny over youth targeting, wash trading and market integrity",
-      "content_text": "- **Prediction markets face new scrutiny over youth targeting, wash trading and market integrity** — A new report ties prediction-market growth to financially anxious younger users, citing research estimating 25% of Polymarket's historical volume as wash trading and reporting that up to 90% of Kalshi's bets are sports-related. It also notes Kalshi quietly issued a lifetime ban to former U.S. Rep. George Santos after he wagered on his own State of the Union attendance. ([Bonus.com](https://www.bonus.com/news/prediction-market-growth-draws-scrutiny-over-youth-targeting-trading-integrity/))",
-      "content_html": "<p>- **Prediction markets face new scrutiny over youth targeting, wash trading and market integrity** — A new report ties prediction-market growth to financially anxious younger users, citing research estimating 25% of Polymarket&#x27;s historical volume as wash trading and reporting that up to 90% of Kalshi&#x27;s bets are sports-related. It also notes Kalshi quietly issued a lifetime ban to former U.S. Rep. George Santos after he wagered on his own State of the Union attendance. ([Bonus.com](https://www.bonus.com/news/prediction-market-growth-draws-scrutiny-over-youth-targeting-trading-integrity/))</p>",
-      "date_published": "2026-10-13T00:15:00-04:00",
-      "date_modified": "2026-10-13T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/prediction-market-growth-draws-scrutiny-over-youth-targeting-trading-integrity/",
-      "links": [
-        "https://www.bonus.com/news/prediction-market-growth-draws-scrutiny-over-youth-targeting-trading-integrity/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:15 AM ET",
-      "body": "- **Prediction markets face new scrutiny over youth targeting, wash trading and market integrity** — A new report ties prediction-market growth to financially anxious younger users, citing research estimating 25% of Polymarket's historical volume as wash trading and reporting that up to 90% of Kalshi's bets are sports-related. It also notes Kalshi quietly issued a lifetime ban to former U.S. Rep. George Santos after he wagered on his own State of the Union attendance. ([Bonus.com](https://www.bonus.com/news/prediction-market-growth-draws-scrutiny-over-youth-targeting-trading-integrity/))",
-      "image_url": null,
-      "published": "2026-10-13T00:15:00-04:00",
-      "source": "2026-10-13_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0009-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0009-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi, Polymarket eye ~$20bn valuations in funding talks\nEarly talks could roughly double both platforms' late-2025 marks, per the WSJ, as legacy sportsbooks slide.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nKalshi + Polymarket reportedly cleared $8.56B in two-day volume\nNo platform breakdown or confirmed methodology; notional turnover, not exposure.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nBitcoin slips under $82K as Polymarket reprices overnight\n\"Above $82K on Oct 13\" fell 68.5% to 53% in six hours; $100K by year-end 26.5%.\n#Bitcoin #Crypto #PredictionMarkets\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc\n\nMarkets: Gold $4,191 | Brent $105 | BTC $82K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi, Polymarket eye ~$20bn valuations in funding talks<br/>Early talks could roughly double both platforms&#x27; late-2025 marks, per the WSJ, as legacy sportsbooks slide.<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100<br/><br/>Kalshi + Polymarket reportedly cleared $8.56B in two-day volume<br/>No platform breakdown or confirmed methodology; notional turnover, not exposure.<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/<br/><br/>Bitcoin slips under $82K as Polymarket reprices overnight<br/>&quot;Above $82K on Oct 13&quot; fell 68.5% to 53% in six hours; $100K by year-end 26.5%.<br/>#Bitcoin #Crypto #PredictionMarkets<br/>https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc<br/><br/>Markets: Gold $4,191 | Brent $105 | BTC $82K<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0009-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-13T00:09:00-04:00",
-      "date_modified": "2026-10-13T00:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin",
-        "Crypto"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0009-edt.jpg",
-      "external_url": "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
-      "links": [
-        "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
-        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
-        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:09 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nKalshi, Polymarket eye ~$20bn valuations in funding talks\nEarly talks could roughly double both platforms' late-2025 marks, per the WSJ, as legacy sportsbooks slide.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nKalshi + Polymarket reportedly cleared $8.56B in two-day volume\nNo platform breakdown or confirmed methodology; notional turnover, not exposure.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nBitcoin slips under $82K as Polymarket reprices overnight\n\"Above $82K on Oct 13\" fell 68.5% to 53% in six hours; $100K by year-end 26.5%.\n#Bitcoin #Crypto #PredictionMarkets\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0300-utc\n\nMarkets: Gold $4,191 | Brent $105 | BTC $82K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0009-edt.jpg",
-      "published": "2026-10-13T00:09:00-04:00",
-      "source": "2026-10-13_0009-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-13_0000-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0000-edt-0",
-      "title": "CFTC interim rule: licensed sportsbook bets are not swaps",
-      "content_text": "- **CFTC interim rule: licensed sportsbook bets are not swaps** — The CFTC's interim final rule released October 9 states that bets placed with state- or tribal-licensed sportsbooks and casinos do not qualify as swaps under the Commodity Exchange Act, drawing a jurisdictional line that protects licensed sportsbooks from federal derivatives oversight while prediction-market event contracts stay under CFTC authority. ([WeeBet](https://weebet.com/news/cftc-interim-rule-sportsbook-bets-not-swaps-2026))",
-      "content_html": "<p>- **CFTC interim rule: licensed sportsbook bets are not swaps** — The CFTC&#x27;s interim final rule released October 9 states that bets placed with state- or tribal-licensed sportsbooks and casinos do not qualify as swaps under the Commodity Exchange Act, drawing a jurisdictional line that protects licensed sportsbooks from federal derivatives oversight while prediction-market event contracts stay under CFTC authority. ([WeeBet](https://weebet.com/news/cftc-interim-rule-sportsbook-bets-not-swaps-2026))</p>",
-      "date_published": "2026-10-13T00:02:55-04:00",
-      "date_modified": "2026-10-13T00:02:55-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://weebet.com/news/cftc-interim-rule-sportsbook-bets-not-swaps-2026",
-      "links": [
-        "https://weebet.com/news/cftc-interim-rule-sportsbook-bets-not-swaps-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:02 AM ET",
-      "body": "- **CFTC interim rule: licensed sportsbook bets are not swaps** — The CFTC's interim final rule released October 9 states that bets placed with state- or tribal-licensed sportsbooks and casinos do not qualify as swaps under the Commodity Exchange Act, drawing a jurisdictional line that protects licensed sportsbooks from federal derivatives oversight while prediction-market event contracts stay under CFTC authority. ([WeeBet](https://weebet.com/news/cftc-interim-rule-sportsbook-bets-not-swaps-2026))",
-      "image_url": null,
-      "published": "2026-10-13T00:02:55-04:00",
-      "source": "2026-10-13_0000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0000-edt-1",
-      "title": "Analysis: CFTC's swap rewrite shifts the balance of power in prediction markets",
-      "content_text": "- **Analysis: CFTC's swap rewrite shifts the balance of power in prediction markets** — Analysis of the CFTC's October 9 move to codify sports, political and climate wagers as federally regulated swaps notes that sports contracts drove $1.2 billion, or 80 percent, of August trading volume, and that Sporttrade has closed its state-regulated betting operations in five states to pursue federal registration as an exchange. ([Finance Magnates](https://www.financemagnates.com/fintech/why-the-cftc-is-rewriting-swap-rules-for-prediction-markets-and-how-it-shifts-the-balance-of-power/))",
-      "content_html": "<p>- **Analysis: CFTC&#x27;s swap rewrite shifts the balance of power in prediction markets** — Analysis of the CFTC&#x27;s October 9 move to codify sports, political and climate wagers as federally regulated swaps notes that sports contracts drove $1.2 billion, or 80 percent, of August trading volume, and that Sporttrade has closed its state-regulated betting operations in five states to pursue federal registration as an exchange. ([Finance Magnates](https://www.financemagnates.com/fintech/why-the-cftc-is-rewriting-swap-rules-for-prediction-markets-and-how-it-shifts-the-balance-of-power/))</p>",
-      "date_published": "2026-10-13T00:02:55-04:00",
-      "date_modified": "2026-10-13T00:02:55-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.financemagnates.com/fintech/why-the-cftc-is-rewriting-swap-rules-for-prediction-markets-and-how-it-shifts-the-balance-of-power/",
-      "links": [
-        "https://www.financemagnates.com/fintech/why-the-cftc-is-rewriting-swap-rules-for-prediction-markets-and-how-it-shifts-the-balance-of-power/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:02 AM ET",
-      "body": "- **Analysis: CFTC's swap rewrite shifts the balance of power in prediction markets** — Analysis of the CFTC's October 9 move to codify sports, political and climate wagers as federally regulated swaps notes that sports contracts drove $1.2 billion, or 80 percent, of August trading volume, and that Sporttrade has closed its state-regulated betting operations in five states to pursue federal registration as an exchange. ([Finance Magnates](https://www.financemagnates.com/fintech/why-the-cftc-is-rewriting-swap-rules-for-prediction-markets-and-how-it-shifts-the-balance-of-power/))",
-      "image_url": null,
-      "published": "2026-10-13T00:02:55-04:00",
-      "source": "2026-10-13_0000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0000-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0000-edt-2",
-      "title": "Legal overview: prediction markets federal-lawful as CFTC exchanges, states' role split",
-      "content_text": "- **Legal overview: prediction markets federal-lawful as CFTC exchanges, states' role split** — A state-by-state legal overview as of October 2026 finds prediction markets legal under federal law as CFTC-regulated exchanges, with the open question of whether sports contracts must also follow state gambling laws: two federal appeals courts say yes, one says no, and three petitions are waiting at the U.S. Supreme Court. ([World Sports Network](https://www.wsn.com/prediction-markets/legal/))",
-      "content_html": "<p>- **Legal overview: prediction markets federal-lawful as CFTC exchanges, states&#x27; role split** — A state-by-state legal overview as of October 2026 finds prediction markets legal under federal law as CFTC-regulated exchanges, with the open question of whether sports contracts must also follow state gambling laws: two federal appeals courts say yes, one says no, and three petitions are waiting at the U.S. Supreme Court. ([World Sports Network](https://www.wsn.com/prediction-markets/legal/))</p>",
-      "date_published": "2026-10-13T00:02:55-04:00",
-      "date_modified": "2026-10-13T00:02:55-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "SCOTUS"
-      ],
-      "image": null,
-      "external_url": "https://www.wsn.com/prediction-markets/legal/",
-      "links": [
-        "https://www.wsn.com/prediction-markets/legal/"
-      ],
-      "timestamp": "Oct 13, 2026 · 12:02 AM ET",
-      "body": "- **Legal overview: prediction markets federal-lawful as CFTC exchanges, states' role split** — A state-by-state legal overview as of October 2026 finds prediction markets legal under federal law as CFTC-regulated exchanges, with the open question of whether sports contracts must also follow state gambling laws: two federal appeals courts say yes, one says no, and three petitions are waiting at the U.S. Supreme Court. ([World Sports Network](https://www.wsn.com/prediction-markets/legal/))",
-      "image_url": null,
-      "published": "2026-10-13T00:02:55-04:00",
-      "source": "2026-10-13_0000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_2354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi permanently bans former Congressman George Santos over suspected insider trading\nThe ban follows an in-depth Kalshi investigation into bets Santos placed on his own attendance at the State of the Union address: he first posted a video confirming…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-bans-former-us-congressman-over-insider-trading-suspicions-68571\n\nKalshi outs three candidates for trading on their own races\nEnforcement teams fined two candidates $784.20 and $539.85 with five-year suspensions; a third, Virginia Senate candidate Moran, admitted on X he traded on himself…\n#PredictionMarkets #Kalshi #Senate\nhttps://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi permanently bans former Congressman George Santos over suspected insider trading<br/>The ban follows an in-depth Kalshi investigation into bets Santos placed on his own attendance at the State of the Union address: he first posted a video confirming…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://gamblerss.com/kalshi-bans-former-us-congressman-over-insider-trading-suspicions-68571<br/><br/>Kalshi outs three candidates for trading on their own races<br/>Enforcement teams fined two candidates $784.20 and $539.85 with five-year suspensions; a third, Virginia Senate candidate Moran, admitted on X he traded on himself…<br/>#PredictionMarkets #Kalshi #Senate<br/>https://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-12T23:54:00-04:00",
-      "date_modified": "2026-10-12T23:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "CFTC",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/kalshi-bans-former-us-congressman-over-insider-trading-suspicions-68571",
-      "links": [
-        "https://gamblerss.com/kalshi-bans-former-us-congressman-over-insider-trading-suspicions-68571",
-        "https://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi permanently bans former Congressman George Santos over suspected insider trading\nThe ban follows an in-depth Kalshi investigation into bets Santos placed on his own attendance at the State of the Union address: he first posted a video confirming…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-bans-former-us-congressman-over-insider-trading-suspicions-68571\n\nKalshi outs three candidates for trading on their own races\nEnforcement teams fined two candidates $784.20 and $539.85 with five-year suspensions; a third, Virginia Senate candidate Moran, admitted on X he traded on himself…\n#PredictionMarkets #Kalshi #Senate\nhttps://gamblerss.com/kalshi-exposes-three-candidates-for-trading-on-themselves-virginia-dem-did-it-on-purpose-62024\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-12T23:54:00-04:00",
-      "source": "2026-10-12_2354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2345-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2345-edt-0",
-      "title": "Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules",
-      "content_text": "- **Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules** — NFL and NCAA games drove consecutive daily trading records at Kalshi and Polymarket, with combined weekly volume hitting a record $22.2 billion, according to Dune Analytics data cited by Bloomberg Law. The mainstream surge puts prediction markets on a collision course with traditional sportsbooks as regulators and courts weigh whether sports event contracts are gambling or federally regulated derivatives. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
-      "content_html": "<p>- **Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules** — NFL and NCAA games drove consecutive daily trading records at Kalshi and Polymarket, with combined weekly volume hitting a record $22.2 billion, according to Dune Analytics data cited by Bloomberg Law. The mainstream surge puts prediction markets on a collision course with traditional sportsbooks as regulators and courts weigh whether sports event contracts are gambling or federally regulated derivatives. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))</p>",
-      "date_published": "2026-10-12T23:45:00-04:00",
-      "date_modified": "2026-10-12T23:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules",
-      "links": [
-        "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:45 PM ET",
-      "body": "- **Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules** — NFL and NCAA games drove consecutive daily trading records at Kalshi and Polymarket, with combined weekly volume hitting a record $22.2 billion, according to Dune Analytics data cited by Bloomberg Law. The mainstream surge puts prediction markets on a collision course with traditional sportsbooks as regulators and courts weigh whether sports event contracts are gambling or federally regulated derivatives. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
-      "image_url": null,
-      "published": "2026-10-12T23:45:00-04:00",
-      "source": "2026-10-12_2345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2345-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2345-edt-1",
-      "title": "Chipstars launches prediction market covering crypto, politics, Fed decisions and culture",
-      "content_text": "- **Chipstars launches prediction market covering crypto, politics, Fed decisions and culture** — Casino operator Chipstars has launched its own prediction market, letting users trade yes/no contracts on Bitcoin and Ethereum price targets, political developments, Federal Reserve decisions, company news and culture topics, with prices set by trading activity. The launch adds another entrant to a sector where Kalshi and Polymarket dominate trading volume. ([LCB](https://lcb.org/news/chipstars-introduces-its-prediction-market))",
-      "content_html": "<p>- **Chipstars launches prediction market covering crypto, politics, Fed decisions and culture** — Casino operator Chipstars has launched its own prediction market, letting users trade yes/no contracts on Bitcoin and Ethereum price targets, political developments, Federal Reserve decisions, company news and culture topics, with prices set by trading activity. The launch adds another entrant to a sector where Kalshi and Polymarket dominate trading volume. ([LCB](https://lcb.org/news/chipstars-introduces-its-prediction-market))</p>",
-      "date_published": "2026-10-12T23:45:00-04:00",
-      "date_modified": "2026-10-12T23:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://lcb.org/news/chipstars-introduces-its-prediction-market",
-      "links": [
-        "https://lcb.org/news/chipstars-introduces-its-prediction-market"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:45 PM ET",
-      "body": "- **Chipstars launches prediction market covering crypto, politics, Fed decisions and culture** — Casino operator Chipstars has launched its own prediction market, letting users trade yes/no contracts on Bitcoin and Ethereum price targets, political developments, Federal Reserve decisions, company news and culture topics, with prices set by trading activity. The launch adds another entrant to a sector where Kalshi and Polymarket dominate trading volume. ([LCB](https://lcb.org/news/chipstars-introduces-its-prediction-market))",
-      "image_url": null,
-      "published": "2026-10-12T23:45:00-04:00",
-      "source": "2026-10-12_2345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2345-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2345-edt-2",
-      "title": "Bitcoin slides below $82K and Polymarket's Oct-13 contracts reprice sharply",
-      "content_text": "- **Bitcoin slides below $82K and Polymarket's Oct-13 contracts reprice sharply** — Bitcoin fell about 2.3% over 24 hours to trade below $82,000, and Polymarket contracts moved with it: the 'Bitcoin above $82,000 on Oct 13' contract dropped from 69.5% to 46% in six hours, while 'Bitcoin reaches $90,000 in October' sits at 24.5%. The contracts resolve on Binance BTC/USDT candles, with the $80,000 Oct-13 threshold still priced at 91.6%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))",
-      "content_html": "<p>- **Bitcoin slides below $82K and Polymarket&#x27;s Oct-13 contracts reprice sharply** — Bitcoin fell about 2.3% over 24 hours to trade below $82,000, and Polymarket contracts moved with it: the &#x27;Bitcoin above $82,000 on Oct 13&#x27; contract dropped from 69.5% to 46% in six hours, while &#x27;Bitcoin reaches $90,000 in October&#x27; sits at 24.5%. The contracts resolve on Binance BTC/USDT candles, with the $80,000 Oct-13 threshold still priced at 91.6%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))</p>",
-      "date_published": "2026-10-12T23:45:00-04:00",
-      "date_modified": "2026-10-12T23:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc",
-      "links": [
-        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:45 PM ET",
-      "body": "- **Bitcoin slides below $82K and Polymarket's Oct-13 contracts reprice sharply** — Bitcoin fell about 2.3% over 24 hours to trade below $82,000, and Polymarket contracts moved with it: the 'Bitcoin above $82,000 on Oct 13' contract dropped from 69.5% to 46% in six hours, while 'Bitcoin reaches $90,000 in October' sits at 24.5%. The contracts resolve on Binance BTC/USDT candles, with the $80,000 Oct-13 threshold still priced at 91.6%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))",
-      "image_url": null,
-      "published": "2026-10-12T23:45:00-04:00",
-      "source": "2026-10-12_2345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_2339-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2339-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nIndustry goes on a $3M+ lobbying blitz to lock in federal oversight\nKalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M combined on lobbying and political contributions in 2026, per a Gaming America report.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/\n\nJuly volume hit an all-time high of $50.59B — then the World Cup ended\nThe Block data shows Kalshi, Polymarket and Polymarket US combined for a record $50.59B in July (+7.8% vs June), with Kalshi at $37.7B (+14% MoM) and Polymarket US…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Industry goes on a $3M+ lobbying blitz to lock in federal oversight<br/>Kalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M combined on lobbying and political contributions in 2026, per a Gaming America report.…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/<br/><br/>July volume hit an all-time high of $50.59B — then the World Cup ended<br/>The Block data shows Kalshi, Polymarket and Polymarket US combined for a record $50.59B in July (+7.8% vs June), with Kalshi at $37.7B (+14% MoM) and Polymarket US…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-12T23:39:00-04:00",
-      "date_modified": "2026-10-12T23:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/",
-      "links": [
-        "https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/",
-        "https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:39 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nIndustry goes on a $3M+ lobbying blitz to lock in federal oversight\nKalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M combined on lobbying and political contributions in 2026, per a Gaming America report.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/\n\nJuly volume hit an all-time high of $50.59B — then the World Cup ended\nThe Block data shows Kalshi, Polymarket and Polymarket US combined for a record $50.59B in July (+7.8% vs June), with Kalshi at $37.7B (+14% MoM) and Polymarket US…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-12T23:39:00-04:00",
-      "source": "2026-10-12_2339-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2330-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-0",
-      "title": "Ohio cracks down on prediction markets as they flood elections with cash",
-      "content_text": "- **Ohio cracks down on prediction markets as they flood elections with cash** — Following a federal appeals court ruling, the Ohio Casino Control Commission on Oct. 2 sent cease-and-desist letters to 10 companies including Polymarket, Robinhood and Coinbase, calling their sports event contracts illegal sports betting operating without state permits. Interim director Andromeda Morrison gave the companies until Oct. 16 to state in writing whether they intend to comply. ([Signal Akron](https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/))",
-      "content_html": "<p>- **Ohio cracks down on prediction markets as they flood elections with cash** — Following a federal appeals court ruling, the Ohio Casino Control Commission on Oct. 2 sent cease-and-desist letters to 10 companies including Polymarket, Robinhood and Coinbase, calling their sports event contracts illegal sports betting operating without state permits. Interim director Andromeda Morrison gave the companies until Oct. 16 to state in writing whether they intend to comply. ([Signal Akron](https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/))</p>",
-      "date_published": "2026-10-12T23:30:00-04:00",
-      "date_modified": "2026-10-12T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/",
-      "links": [
-        "https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:30 PM ET",
-      "body": "- **Ohio cracks down on prediction markets as they flood elections with cash** — Following a federal appeals court ruling, the Ohio Casino Control Commission on Oct. 2 sent cease-and-desist letters to 10 companies including Polymarket, Robinhood and Coinbase, calling their sports event contracts illegal sports betting operating without state permits. Interim director Andromeda Morrison gave the companies until Oct. 16 to state in writing whether they intend to comply. ([Signal Akron](https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/))",
-      "image_url": null,
-      "published": "2026-10-12T23:30:00-04:00",
-      "source": "2026-10-12_2330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2330-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-1",
-      "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
-      "content_text": "- **Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections** — Rep. Don Davis (D-N.C.) introduced the No Betting on Your Own Race Act on Oct. 5, barring federal candidates, their spouses, dependent children and campaign committees from trading prediction-market contracts tied to their own elections. Violations would carry a civil penalty of $10,000 or three times the net gain, whichever is higher. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))",
-      "content_html": "<p>- **Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections** — Rep. Don Davis (D-N.C.) introduced the No Betting on Your Own Race Act on Oct. 5, barring federal candidates, their spouses, dependent children and campaign committees from trading prediction-market contracts tied to their own elections. Violations would carry a civil penalty of $10,000 or three times the net gain, whichever is higher. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))</p>",
-      "date_published": "2026-10-12T23:30:00-04:00",
-      "date_modified": "2026-10-12T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
-      "links": [
-        "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:30 PM ET",
-      "body": "- **Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections** — Rep. Don Davis (D-N.C.) introduced the No Betting on Your Own Race Act on Oct. 5, barring federal candidates, their spouses, dependent children and campaign committees from trading prediction-market contracts tied to their own elections. Violations would carry a civil penalty of $10,000 or three times the net gain, whichever is higher. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))",
-      "image_url": null,
-      "published": "2026-10-12T23:30:00-04:00",
-      "source": "2026-10-12_2330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_2330-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-2",
-      "title": "Polymarket leads US prediction market search demand despite Kalshi's trading dominance",
-      "content_text": "- **Polymarket leads US prediction market search demand despite Kalshi's trading dominance** — Blask data for January to August 2026 shows Polymarket kept the largest share of US branded prediction-market search demand even as Kalshi overtook it in trading volume, recording $37.17B in August against $8.16B for Polymarket and Polymarket US combined. Polymarket's brand-attention share fell from 74.3% to 57.8% while Kalshi's rose from 23.1% to 35.8%. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "content_html": "<p>- **Polymarket leads US prediction market search demand despite Kalshi&#x27;s trading dominance** — Blask data for January to August 2026 shows Polymarket kept the largest share of US branded prediction-market search demand even as Kalshi overtook it in trading volume, recording $37.17B in August against $8.16B for Polymarket and Polymarket US combined. Polymarket&#x27;s brand-attention share fell from 74.3% to 57.8% while Kalshi&#x27;s rose from 23.1% to 35.8%. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))</p>",
-      "date_published": "2026-10-12T23:30:00-04:00",
-      "date_modified": "2026-10-12T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand",
-      "links": [
-        "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:30 PM ET",
-      "body": "- **Polymarket leads US prediction market search demand despite Kalshi's trading dominance** — Blask data for January to August 2026 shows Polymarket kept the largest share of US branded prediction-market search demand even as Kalshi overtook it in trading volume, recording $37.17B in August against $8.16B for Polymarket and Polymarket US combined. Polymarket's brand-attention share fell from 74.3% to 57.8% while Kalshi's rose from 23.1% to 35.8%. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "image_url": null,
-      "published": "2026-10-12T23:30:00-04:00",
-      "source": "2026-10-12_2330-edt.json",
       "matches_facebook_post": false
     }
   ]
