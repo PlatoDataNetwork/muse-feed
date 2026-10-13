@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T03:18:16.977482-04:00",
+  "updated": "2026-10-13T03:33:41.610307-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,190 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0330-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0330-edt-0",
+      "title": "Connecticut issues nine cease-and-desist orders over sports event contracts",
+      "content_text": "- **Connecticut issues nine cease-and-desist orders over sports event contracts** — Connecticut Governor Ned Lamont announced nine cease-and-desist orders and 30 subpoenas from the Department of Consumer Protection relating to sports event contracts. The orders, sent to platforms including Polymarket, Coinbase, Crypto.com, Robinhood and Gemini, instruct them to stop offering those contracts to Connecticut residents. ([GambleRss](https://gamblerss.com/connecticut-ramps-up-prediction-markets-clampdown-with-nine-cease-and-desist-orders-69197))",
+      "content_html": "<p>- **Connecticut issues nine cease-and-desist orders over sports event contracts** — Connecticut Governor Ned Lamont announced nine cease-and-desist orders and 30 subpoenas from the Department of Consumer Protection relating to sports event contracts. The orders, sent to platforms including Polymarket, Coinbase, Crypto.com, Robinhood and Gemini, instruct them to stop offering those contracts to Connecticut residents. ([GambleRss](https://gamblerss.com/connecticut-ramps-up-prediction-markets-clampdown-with-nine-cease-and-desist-orders-69197))</p>",
+      "date_published": "2026-10-13T03:30:00-04:00",
+      "date_modified": "2026-10-13T03:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/connecticut-ramps-up-prediction-markets-clampdown-with-nine-cease-and-desist-orders-69197",
+      "links": [
+        "https://gamblerss.com/connecticut-ramps-up-prediction-markets-clampdown-with-nine-cease-and-desist-orders-69197"
+      ],
+      "timestamp": "Oct 13, 2026 · 3:30 AM ET",
+      "body": "- **Connecticut issues nine cease-and-desist orders over sports event contracts** — Connecticut Governor Ned Lamont announced nine cease-and-desist orders and 30 subpoenas from the Department of Consumer Protection relating to sports event contracts. The orders, sent to platforms including Polymarket, Coinbase, Crypto.com, Robinhood and Gemini, instruct them to stop offering those contracts to Connecticut residents. ([GambleRss](https://gamblerss.com/connecticut-ramps-up-prediction-markets-clampdown-with-nine-cease-and-desist-orders-69197))",
+      "image_url": null,
+      "published": "2026-10-13T03:30:00-04:00",
+      "source": "2026-10-13_0330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0330-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0330-edt-1",
+      "title": "California governor market prices Xavier Becerra at 96% on Kalshi and Polymarket",
+      "content_text": "- **California governor market prices Xavier Becerra at 96% on Kalshi and Polymarket** — DeFi Rate shows Xavier Becerra at 96% to win the California governorship, priced at 96 cents on Kalshi and 96.2 cents on Polymarket, with Steve Hilton next at 3.8%. Combined 24-hour volume was $109,000, with trading closing on November 3, 2026. ([DeFi Rate](https://defirate.com/odds/california-governor/))",
+      "content_html": "<p>- **California governor market prices Xavier Becerra at 96% on Kalshi and Polymarket** — DeFi Rate shows Xavier Becerra at 96% to win the California governorship, priced at 96 cents on Kalshi and 96.2 cents on Polymarket, with Steve Hilton next at 3.8%. Combined 24-hour volume was $109,000, with trading closing on November 3, 2026. ([DeFi Rate](https://defirate.com/odds/california-governor/))</p>",
+      "date_published": "2026-10-13T03:30:00-04:00",
+      "date_modified": "2026-10-13T03:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/california-governor/",
+      "links": [
+        "https://defirate.com/odds/california-governor/"
+      ],
+      "timestamp": "Oct 13, 2026 · 3:30 AM ET",
+      "body": "- **California governor market prices Xavier Becerra at 96% on Kalshi and Polymarket** — DeFi Rate shows Xavier Becerra at 96% to win the California governorship, priced at 96 cents on Kalshi and 96.2 cents on Polymarket, with Steve Hilton next at 3.8%. Combined 24-hour volume was $109,000, with trading closing on November 3, 2026. ([DeFi Rate](https://defirate.com/odds/california-governor/))",
+      "image_url": null,
+      "published": "2026-10-13T03:30:00-04:00",
+      "source": "2026-10-13_0330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0330-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0330-edt-2",
+      "title": "Maine Senate market slips for Troy Jackson to 57 cents as Susan Collins gains",
+      "content_text": "- **Maine Senate market slips for Troy Jackson to 57 cents as Susan Collins gains** — Polymarket prices Troy Jackson at 57 cents for the Maine Senate race, down 3 points, while Susan Collins rose 2 points to 45 cents. The move followed a September 30 co/efficient poll that had Collins leading 48% to 46%, with Kalshi pricing the race in a similar range. ([Action Network](https://www.actionnetwork.com/news/maine-senate-race-2026-polls-prediction-markets-troy-jackson-vs-susan-collins-polls-live-polymarket-kalshi-odds))",
+      "content_html": "<p>- **Maine Senate market slips for Troy Jackson to 57 cents as Susan Collins gains** — Polymarket prices Troy Jackson at 57 cents for the Maine Senate race, down 3 points, while Susan Collins rose 2 points to 45 cents. The move followed a September 30 co/efficient poll that had Collins leading 48% to 46%, with Kalshi pricing the race in a similar range. ([Action Network](https://www.actionnetwork.com/news/maine-senate-race-2026-polls-prediction-markets-troy-jackson-vs-susan-collins-polls-live-polymarket-kalshi-odds))</p>",
+      "date_published": "2026-10-13T03:30:00-04:00",
+      "date_modified": "2026-10-13T03:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/maine-senate-race-2026-polls-prediction-markets-troy-jackson-vs-susan-collins-polls-live-polymarket-kalshi-odds",
+      "links": [
+        "https://www.actionnetwork.com/news/maine-senate-race-2026-polls-prediction-markets-troy-jackson-vs-susan-collins-polls-live-polymarket-kalshi-odds"
+      ],
+      "timestamp": "Oct 13, 2026 · 3:30 AM ET",
+      "body": "- **Maine Senate market slips for Troy Jackson to 57 cents as Susan Collins gains** — Polymarket prices Troy Jackson at 57 cents for the Maine Senate race, down 3 points, while Susan Collins rose 2 points to 45 cents. The move followed a September 30 co/efficient poll that had Collins leading 48% to 46%, with Kalshi pricing the race in a similar range. ([Action Network](https://www.actionnetwork.com/news/maine-senate-race-2026-polls-prediction-markets-troy-jackson-vs-susan-collins-polls-live-polymarket-kalshi-odds))",
+      "image_url": null,
+      "published": "2026-10-13T03:30:00-04:00",
+      "source": "2026-10-13_0330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0330-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0330-edt-3",
+      "title": "NBA championship markets split at the top between Thunder and Spurs",
+      "content_text": "- **NBA championship markets split at the top between Thunder and Spurs** — Kalshi favors the Oklahoma City Thunder at 22% to win the NBA Finals, while Polymarket puts the San Antonio Spurs on top at 21%. On Polymarket the Thunder sit at 20%, followed by the New York Knicks at 13% and the Philadelphia 76ers at 11%. ([WCIA](https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/))",
+      "content_html": "<p>- **NBA championship markets split at the top between Thunder and Spurs** — Kalshi favors the Oklahoma City Thunder at 22% to win the NBA Finals, while Polymarket puts the San Antonio Spurs on top at 21%. On Polymarket the Thunder sit at 20%, followed by the New York Knicks at 13% and the Philadelphia 76ers at 11%. ([WCIA](https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/))</p>",
+      "date_published": "2026-10-13T03:30:00-04:00",
+      "date_modified": "2026-10-13T03:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/",
+      "links": [
+        "https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/"
+      ],
+      "timestamp": "Oct 13, 2026 · 3:30 AM ET",
+      "body": "- **NBA championship markets split at the top between Thunder and Spurs** — Kalshi favors the Oklahoma City Thunder at 22% to win the NBA Finals, while Polymarket puts the San Antonio Spurs on top at 21%. On Polymarket the Thunder sit at 20%, followed by the New York Knicks at 13% and the Philadelphia 76ers at 11%. ([WCIA](https://www.wcia.com/sports/sports-illustrated/46360c46/polymarket-vs-kalshi-nba-championship-market-differences-similarities-trends/))",
+      "image_url": null,
+      "published": "2026-10-13T03:30:00-04:00",
+      "source": "2026-10-13_0330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0330-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0330-edt-4",
+      "title": "CFTC proposes prediction-market rules favoring many sports contracts",
+      "content_text": "- **CFTC proposes prediction-market rules favoring many sports contracts** — The CFTC has proposed rules distinguishing sports event contracts from games of pure chance, saying markets based on final scores and win-loss records can aid price discovery. Contracts tied to player injuries or officiating are unlikely to meet the public interest test, election contracts are clarified as not gaming, and the draft is open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))",
+      "content_html": "<p>- **CFTC proposes prediction-market rules favoring many sports contracts** — The CFTC has proposed rules distinguishing sports event contracts from games of pure chance, saying markets based on final scores and win-loss records can aid price discovery. Contracts tied to player injuries or officiating are unlikely to meet the public interest test, election contracts are clarified as not gaming, and the draft is open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))</p>",
+      "date_published": "2026-10-13T03:30:00-04:00",
+      "date_modified": "2026-10-13T03:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts",
+      "links": [
+        "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts"
+      ],
+      "timestamp": "Oct 13, 2026 · 3:30 AM ET",
+      "body": "- **CFTC proposes prediction-market rules favoring many sports contracts** — The CFTC has proposed rules distinguishing sports event contracts from games of pure chance, saying markets based on final scores and win-loss records can aid price discovery. Contracts tied to player injuries or officiating are unlikely to meet the public interest test, election contracts are clarified as not gaming, and the draft is open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))",
+      "image_url": null,
+      "published": "2026-10-13T03:30:00-04:00",
+      "source": "2026-10-13_0330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0324-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nBitcoin whipsaws back above $83.6K as Polymarket binaries reprice sharply\nAfter dipping below $81K overnight (24h low $80,943), BTC recovered to above $83,600 in a roughly 2.75% six-hour swing, reversing the slide that led the 12:09 AM…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc\n\nTexas Senate: markets hold Talarico at 67% despite tighter polls\nKalshi and Polymarket both price James Talarico at 67% to win the Texas Senate seat, with Ken Paxton at 35% on Kalshi and 36% on Polymarket — about as aligned as the two…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Bitcoin whipsaws back above $83.6K as Polymarket binaries reprice sharply<br/>After dipping below $81K overnight (24h low $80,943), BTC recovered to above $83,600 in a roughly 2.75% six-hour swing, reversing the slide that led the 12:09 AM…<br/>#PredictionMarkets #Polymarket #Bitcoin<br/>https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc<br/><br/>Texas Senate: markets hold Talarico at 67% despite tighter polls<br/>Kalshi and Polymarket both price James Talarico at 67% to win the Texas Senate seat, with Ken Paxton at 35% on Kalshi and 36% on Polymarket — about as aligned as the two…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T03:24:00-04:00",
+      "date_modified": "2026-10-13T03:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc",
+      "links": [
+        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc",
+        "https://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 3:24 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nBitcoin whipsaws back above $83.6K as Polymarket binaries reprice sharply\nAfter dipping below $81K overnight (24h low $80,943), BTC recovered to above $83,600 in a roughly 2.75% six-hour swing, reversing the slide that led the 12:09 AM…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0530-utc\n\nTexas Senate: markets hold Talarico at 67% despite tighter polls\nKalshi and Polymarket both price James Talarico at 67% to win the Texas Senate seat, with Ken Paxton at 35% on Kalshi and 36% on Polymarket — about as aligned as the two…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/kalshi-2k-sign-up-bonus-for-texas-senate-race-2026-predictions-talarico-vs-paxton-polls-odds-predictions-oct-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T03:24:00-04:00",
+      "source": "2026-10-13_0324-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0315-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0315-edt-0",
@@ -4549,188 +4733,6 @@
       "image_url": null,
       "published": "2026-10-12T19:00:00-04:00",
       "source": "2026-10-12_1900-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1900-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1900-edt-1",
-      "title": "CFTC sends memo to sports leagues, warns operators on vulnerable sports contracts",
-      "content_text": "- **CFTC sends memo to sports leagues, warns operators on vulnerable sports contracts** — The CFTC sent a memorandum to major U.S. sports leagues asking for conversations about sports prediction markets, with a league source telling Front Office Sports the agency is in the asking stage rather than active talks. The notice reminded operators including Kalshi, Polymarket, Robinhood and Crypto.com that they are responsible for ensuring their markets are legally compliant, and flagged contracts vulnerable to manipulation such as individual player injuries or player props. ([GambleRss](https://gamblerss.com/cftc-takes-first-step-toward-reining-in-sports-prediction-markets-59435))",
-      "content_html": "<p>- **CFTC sends memo to sports leagues, warns operators on vulnerable sports contracts** — The CFTC sent a memorandum to major U.S. sports leagues asking for conversations about sports prediction markets, with a league source telling Front Office Sports the agency is in the asking stage rather than active talks. The notice reminded operators including Kalshi, Polymarket, Robinhood and Crypto.com that they are responsible for ensuring their markets are legally compliant, and flagged contracts vulnerable to manipulation such as individual player injuries or player props. ([GambleRss](https://gamblerss.com/cftc-takes-first-step-toward-reining-in-sports-prediction-markets-59435))</p>",
-      "date_published": "2026-10-12T19:00:00-04:00",
-      "date_modified": "2026-10-12T19:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/cftc-takes-first-step-toward-reining-in-sports-prediction-markets-59435",
-      "links": [
-        "https://gamblerss.com/cftc-takes-first-step-toward-reining-in-sports-prediction-markets-59435"
-      ],
-      "timestamp": "Oct 12, 2026 · 7:00 PM ET",
-      "body": "- **CFTC sends memo to sports leagues, warns operators on vulnerable sports contracts** — The CFTC sent a memorandum to major U.S. sports leagues asking for conversations about sports prediction markets, with a league source telling Front Office Sports the agency is in the asking stage rather than active talks. The notice reminded operators including Kalshi, Polymarket, Robinhood and Crypto.com that they are responsible for ensuring their markets are legally compliant, and flagged contracts vulnerable to manipulation such as individual player injuries or player props. ([GambleRss](https://gamblerss.com/cftc-takes-first-step-toward-reining-in-sports-prediction-markets-59435))",
-      "image_url": null,
-      "published": "2026-10-12T19:00:00-04:00",
-      "source": "2026-10-12_1900-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1900-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1900-edt-2",
-      "title": "Prediction markets cross $20B in weekly trading volume for the first time",
-      "content_text": "- **Prediction markets cross $20B in weekly trading volume for the first time** — Prediction-market trading volume crossed $20 billion in a week for the first time, with Kalshi accounting for roughly 77% of tracked volume at about $15.8 billion and Polymarket a distant second at $3.6 billion. NFL and college football drove the biggest trading days to the weekend, much of it through parlay-style combo contracts, while the report notes Kalshi counts contracts at the $1 payout value rather than the price paid, which inflates headline volume figures. ([NBTC News](https://news.nbtc.finance/prediction-markets-cross-20-billion-in-weekly-trading-volume-for-the-first-time/))",
-      "content_html": "<p>- **Prediction markets cross $20B in weekly trading volume for the first time** — Prediction-market trading volume crossed $20 billion in a week for the first time, with Kalshi accounting for roughly 77% of tracked volume at about $15.8 billion and Polymarket a distant second at $3.6 billion. NFL and college football drove the biggest trading days to the weekend, much of it through parlay-style combo contracts, while the report notes Kalshi counts contracts at the $1 payout value rather than the price paid, which inflates headline volume figures. ([NBTC News](https://news.nbtc.finance/prediction-markets-cross-20-billion-in-weekly-trading-volume-for-the-first-time/))</p>",
-      "date_published": "2026-10-12T19:00:00-04:00",
-      "date_modified": "2026-10-12T19:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://news.nbtc.finance/prediction-markets-cross-20-billion-in-weekly-trading-volume-for-the-first-time/",
-      "links": [
-        "https://news.nbtc.finance/prediction-markets-cross-20-billion-in-weekly-trading-volume-for-the-first-time/"
-      ],
-      "timestamp": "Oct 12, 2026 · 7:00 PM ET",
-      "body": "- **Prediction markets cross $20B in weekly trading volume for the first time** — Prediction-market trading volume crossed $20 billion in a week for the first time, with Kalshi accounting for roughly 77% of tracked volume at about $15.8 billion and Polymarket a distant second at $3.6 billion. NFL and college football drove the biggest trading days to the weekend, much of it through parlay-style combo contracts, while the report notes Kalshi counts contracts at the $1 payout value rather than the price paid, which inflates headline volume figures. ([NBTC News](https://news.nbtc.finance/prediction-markets-cross-20-billion-in-weekly-trading-volume-for-the-first-time/))",
-      "image_url": null,
-      "published": "2026-10-12T19:00:00-04:00",
-      "source": "2026-10-12_1900-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_1854-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1854-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nRangers sign with Polymarket as NHL deepens prediction-market ties\nWeeks after Kalshi's Blackhawks deal, Polymarket signed the Rangers via MSG Sports. Both platforms are now official NHL partners; NFL, MLB and NBA stay out.\n#NHL #Polymarket #PredictionMarkets\nhttps://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533\n\nWSJ: Kalshi and Polymarket each chasing ~$20B valuations\nBoth in early-stage funding talks — no guarantee rounds close at that level. Flutter -60% in 6 months; DraftKings -45%.\n#Kalshi #Polymarket #PredictionMarkets\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nMarkets: Gold $4,192 | Brent $104 | WTI $90 | BTC $82.6K | ETH $2,535 | SOL $111\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Rangers sign with Polymarket as NHL deepens prediction-market ties<br/>Weeks after Kalshi&#x27;s Blackhawks deal, Polymarket signed the Rangers via MSG Sports. Both platforms are now official NHL partners; NFL, MLB and NBA stay out.<br/>#NHL #Polymarket #PredictionMarkets<br/>https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533<br/><br/>WSJ: Kalshi and Polymarket each chasing ~$20B valuations<br/>Both in early-stage funding talks — no guarantee rounds close at that level. Flutter -60% in 6 months; DraftKings -45%.<br/>#Kalshi #Polymarket #PredictionMarkets<br/>https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100<br/><br/>Markets: Gold $4,192 | Brent $104 | WTI $90 | BTC $82.6K | ETH $2,535 | SOL $111<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_1854-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-12T18:54:00-04:00",
-      "date_modified": "2026-10-12T18:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "NHL",
-        "Polymarket",
-        "PredictionMarkets",
-        "Kalshi"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_1854-edt.jpg",
-      "external_url": "https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533",
-      "links": [
-        "https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533",
-        "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100"
-      ],
-      "timestamp": "Oct 12, 2026 · 6:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nRangers sign with Polymarket as NHL deepens prediction-market ties\nWeeks after Kalshi's Blackhawks deal, Polymarket signed the Rangers via MSG Sports. Both platforms are now official NHL partners; NFL, MLB and NBA stay out.\n#NHL #Polymarket #PredictionMarkets\nhttps://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533\n\nWSJ: Kalshi and Polymarket each chasing ~$20B valuations\nBoth in early-stage funding talks — no guarantee rounds close at that level. Flutter -60% in 6 months; DraftKings -45%.\n#Kalshi #Polymarket #PredictionMarkets\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nMarkets: Gold $4,192 | Brent $104 | WTI $90 | BTC $82.6K | ETH $2,535 | SOL $111\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_1854-edt.jpg",
-      "published": "2026-10-12T18:54:00-04:00",
-      "source": "2026-10-12_1854-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-12_1830-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1830-edt-0",
-      "title": "October Fed hike odds slide to 19% after Williams cools talk",
-      "content_text": "- **October Fed hike odds slide to 19% after Williams cools talk** — Odds of an October 28 Fed rate hike fell to roughly 19 percent on Kalshi and Polymarket after New York Fed President John Williams cooled expectations of a hike. Traders instead point to December, with year-end hike odds near 75 to 78 percent, while the 30-year Treasury yield touched 5.70 percent, its highest in about 24 years. ([Startup Fortune](https://startupfortune.com/fed-rate-hike-odds-for-october-collapse-after-williams-cools-talk/))",
-      "content_html": "<p>- **October Fed hike odds slide to 19% after Williams cools talk** — Odds of an October 28 Fed rate hike fell to roughly 19 percent on Kalshi and Polymarket after New York Fed President John Williams cooled expectations of a hike. Traders instead point to December, with year-end hike odds near 75 to 78 percent, while the 30-year Treasury yield touched 5.70 percent, its highest in about 24 years. ([Startup Fortune](https://startupfortune.com/fed-rate-hike-odds-for-october-collapse-after-williams-cools-talk/))</p>",
-      "date_published": "2026-10-12T18:32:00-04:00",
-      "date_modified": "2026-10-12T18:32:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://startupfortune.com/fed-rate-hike-odds-for-october-collapse-after-williams-cools-talk/",
-      "links": [
-        "https://startupfortune.com/fed-rate-hike-odds-for-october-collapse-after-williams-cools-talk/"
-      ],
-      "timestamp": "Oct 12, 2026 · 6:32 PM ET",
-      "body": "- **October Fed hike odds slide to 19% after Williams cools talk** — Odds of an October 28 Fed rate hike fell to roughly 19 percent on Kalshi and Polymarket after New York Fed President John Williams cooled expectations of a hike. Traders instead point to December, with year-end hike odds near 75 to 78 percent, while the 30-year Treasury yield touched 5.70 percent, its highest in about 24 years. ([Startup Fortune](https://startupfortune.com/fed-rate-hike-odds-for-october-collapse-after-williams-cools-talk/))",
-      "image_url": null,
-      "published": "2026-10-12T18:32:00-04:00",
-      "source": "2026-10-12_1830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1830-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1830-edt-1",
-      "title": "Prediction markets trade $4.0B in 24 hours; Rams 12% for Super Bowl LXI",
-      "content_text": "- **Prediction markets trade $4.0B in 24 hours; Rams 12% for Super Bowl LXI** — The cross-venue odds tracker puts 24-hour trading volume at about 4.0 billion dollars across nine prediction exchanges. Its October 12 snapshot prices the Rams at roughly 12 percent to win Super Bowl LXI, JD Vance at about 45 percent as the 2028 GOP nominee, and an October Fed hike at 19 percent. ([DeFi Rate](https://defirate.com/?ref=steemhunt))",
-      "content_html": "<p>- **Prediction markets trade $4.0B in 24 hours; Rams 12% for Super Bowl LXI** — The cross-venue odds tracker puts 24-hour trading volume at about 4.0 billion dollars across nine prediction exchanges. Its October 12 snapshot prices the Rams at roughly 12 percent to win Super Bowl LXI, JD Vance at about 45 percent as the 2028 GOP nominee, and an October Fed hike at 19 percent. ([DeFi Rate](https://defirate.com/?ref=steemhunt))</p>",
-      "date_published": "2026-10-12T18:32:00-04:00",
-      "date_modified": "2026-10-12T18:32:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://defirate.com/?ref=steemhunt",
-      "links": [
-        "https://defirate.com/?ref=steemhunt"
-      ],
-      "timestamp": "Oct 12, 2026 · 6:32 PM ET",
-      "body": "- **Prediction markets trade $4.0B in 24 hours; Rams 12% for Super Bowl LXI** — The cross-venue odds tracker puts 24-hour trading volume at about 4.0 billion dollars across nine prediction exchanges. Its October 12 snapshot prices the Rams at roughly 12 percent to win Super Bowl LXI, JD Vance at about 45 percent as the 2028 GOP nominee, and an October Fed hike at 19 percent. ([DeFi Rate](https://defirate.com/?ref=steemhunt))",
-      "image_url": null,
-      "published": "2026-10-12T18:32:00-04:00",
-      "source": "2026-10-12_1830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1830-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1830-edt-2",
-      "title": "Michigan Senate odds slip 74% to 68% in week's biggest move",
-      "content_text": "- **Michigan Senate odds slip 74% to 68% in week's biggest move** — Michigan's Senate race saw the biggest weekly move on Kalshi, with the Democratic candidate's odds falling from 74 to 68 percent over seven days. Senate control odds for Democrats slipped from 65 to 62 percent across venues, with House control for Democrats at 90 percent. ([DeFi Rate](https://defirate.com/?ref=steemhunt))",
-      "content_html": "<p>- **Michigan Senate odds slip 74% to 68% in week&#x27;s biggest move** — Michigan&#x27;s Senate race saw the biggest weekly move on Kalshi, with the Democratic candidate&#x27;s odds falling from 74 to 68 percent over seven days. Senate control odds for Democrats slipped from 65 to 62 percent across venues, with House control for Democrats at 90 percent. ([DeFi Rate](https://defirate.com/?ref=steemhunt))</p>",
-      "date_published": "2026-10-12T18:32:00-04:00",
-      "date_modified": "2026-10-12T18:32:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/?ref=steemhunt",
-      "links": [
-        "https://defirate.com/?ref=steemhunt"
-      ],
-      "timestamp": "Oct 12, 2026 · 6:32 PM ET",
-      "body": "- **Michigan Senate odds slip 74% to 68% in week's biggest move** — Michigan's Senate race saw the biggest weekly move on Kalshi, with the Democratic candidate's odds falling from 74 to 68 percent over seven days. Senate control odds for Democrats slipped from 65 to 62 percent across venues, with House control for Democrats at 90 percent. ([DeFi Rate](https://defirate.com/?ref=steemhunt))",
-      "image_url": null,
-      "published": "2026-10-12T18:32:00-04:00",
-      "source": "2026-10-12_1830-edt.json",
       "matches_facebook_post": false
     }
   ]
