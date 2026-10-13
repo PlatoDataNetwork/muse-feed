@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T21:18:50.433413-04:00",
+  "updated": "2026-10-12T21:33:13.080917-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,160 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-12_2130-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2130-edt-0",
+      "title": "Polymarket partners with the Rangers as the NHL deepens prediction-market ties",
+      "content_text": "- **Polymarket partners with the Rangers as the NHL deepens prediction-market ties** — Madison Square Garden Sports announced a Rangers-only partnership with Polymarket, two weeks after Kalshi signed the Blackhawks. The NHL remains the only major league to embrace the platforms, while the NFL, MLB and NBA hold back over integrity concerns. ([GambleRss](https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533))",
+      "content_html": "<p>- **Polymarket partners with the Rangers as the NHL deepens prediction-market ties** — Madison Square Garden Sports announced a Rangers-only partnership with Polymarket, two weeks after Kalshi signed the Blackhawks. The NHL remains the only major league to embrace the platforms, while the NFL, MLB and NBA hold back over integrity concerns. ([GambleRss](https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533))</p>",
+      "date_published": "2026-10-12T21:30:00-04:00",
+      "date_modified": "2026-10-12T21:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533",
+      "links": [
+        "https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533"
+      ],
+      "timestamp": "Oct 12, 2026 · 9:30 PM ET",
+      "body": "- **Polymarket partners with the Rangers as the NHL deepens prediction-market ties** — Madison Square Garden Sports announced a Rangers-only partnership with Polymarket, two weeks after Kalshi signed the Blackhawks. The NHL remains the only major league to embrace the platforms, while the NFL, MLB and NBA hold back over integrity concerns. ([GambleRss](https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533))",
+      "image_url": null,
+      "published": "2026-10-12T21:30:00-04:00",
+      "source": "2026-10-12_2130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2130-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2130-edt-1",
+      "title": "Kalshi and Polymarket flagged 140 potential insider-trading cases in 2026",
+      "content_text": "- **Kalshi and Polymarket flagged 140 potential insider-trading cases in 2026** — Kalshi has flagged 50 instances of potential insider trading and Polymarket 90 in 2026 so far, but the pared-down CFTC has been slow to respond, leaving much of the activity unaddressed. ([GambleRss](https://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593))",
+      "content_html": "<p>- **Kalshi and Polymarket flagged 140 potential insider-trading cases in 2026** — Kalshi has flagged 50 instances of potential insider trading and Polymarket 90 in 2026 so far, but the pared-down CFTC has been slow to respond, leaving much of the activity unaddressed. ([GambleRss](https://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593))</p>",
+      "date_published": "2026-10-12T21:30:00-04:00",
+      "date_modified": "2026-10-12T21:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593",
+      "links": [
+        "https://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593"
+      ],
+      "timestamp": "Oct 12, 2026 · 9:30 PM ET",
+      "body": "- **Kalshi and Polymarket flagged 140 potential insider-trading cases in 2026** — Kalshi has flagged 50 instances of potential insider trading and Polymarket 90 in 2026 so far, but the pared-down CFTC has been slow to respond, leaving much of the activity unaddressed. ([GambleRss](https://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593))",
+      "image_url": null,
+      "published": "2026-10-12T21:30:00-04:00",
+      "source": "2026-10-12_2130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2130-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2130-edt-2",
+      "title": "Tennessee issues cease-and-desist orders to Kalshi, Polymarket and Crypto.com",
+      "content_text": "- **Tennessee issues cease-and-desist orders to Kalshi, Polymarket and Crypto.com** — The Tennessee Sports Wagering Council ordered Kalshi, Polymarket and Crypto.com to stop offering sports event contracts and to void pending contracts and refund state deposits, arguing the contracts are wagers under state law. ([GambleRss](https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845))",
+      "content_html": "<p>- **Tennessee issues cease-and-desist orders to Kalshi, Polymarket and Crypto.com** — The Tennessee Sports Wagering Council ordered Kalshi, Polymarket and Crypto.com to stop offering sports event contracts and to void pending contracts and refund state deposits, arguing the contracts are wagers under state law. ([GambleRss](https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845))</p>",
+      "date_published": "2026-10-12T21:30:00-04:00",
+      "date_modified": "2026-10-12T21:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845",
+      "links": [
+        "https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845"
+      ],
+      "timestamp": "Oct 12, 2026 · 9:30 PM ET",
+      "body": "- **Tennessee issues cease-and-desist orders to Kalshi, Polymarket and Crypto.com** — The Tennessee Sports Wagering Council ordered Kalshi, Polymarket and Crypto.com to stop offering sports event contracts and to void pending contracts and refund state deposits, arguing the contracts are wagers under state law. ([GambleRss](https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845))",
+      "image_url": null,
+      "published": "2026-10-12T21:30:00-04:00",
+      "source": "2026-10-12_2130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2130-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2130-edt-3",
+      "title": "Nevada judge temporarily blocks Kalshi sports markets",
+      "content_text": "- **Nevada judge temporarily blocks Kalshi sports markets** — A judge ordered Kalshi to drop sports event contracts in Nevada until at least April 3 pending a preliminary injunction hearing, marking the state's latest win in its enforcement campaign against unlicensed prediction markets. ([GambleRss](https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966))",
+      "content_html": "<p>- **Nevada judge temporarily blocks Kalshi sports markets** — A judge ordered Kalshi to drop sports event contracts in Nevada until at least April 3 pending a preliminary injunction hearing, marking the state&#x27;s latest win in its enforcement campaign against unlicensed prediction markets. ([GambleRss](https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966))</p>",
+      "date_published": "2026-10-12T21:30:00-04:00",
+      "date_modified": "2026-10-12T21:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966",
+      "links": [
+        "https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966"
+      ],
+      "timestamp": "Oct 12, 2026 · 9:30 PM ET",
+      "body": "- **Nevada judge temporarily blocks Kalshi sports markets** — A judge ordered Kalshi to drop sports event contracts in Nevada until at least April 3 pending a preliminary injunction hearing, marking the state's latest win in its enforcement campaign against unlicensed prediction markets. ([GambleRss](https://gamblerss.com/judge-temporarily-blocks-kalshi-s-sports-markets-in-nevada-59966))",
+      "image_url": null,
+      "published": "2026-10-12T21:30:00-04:00",
+      "source": "2026-10-12_2130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-12_2124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2124-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nPolymarket's Nobel economics favorite misses as Hall and Woodford win\nThe 2026 Nobel Prize in Economic Sciences went to Robert E. Hall and Michael Woodford on Oct 12. Polymarket's Oct 8 board had Ariel Pakes as the favorite at 18.5%, with…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://predictionnews.com/story/polymarket-traders-price-ariel-pakes-as-nobel-economics-favorite-at-18-5\n\nKalshi hits a record $19B week as Polymarket US triples fall trade volume\nDeFi Rate's Oct 12 tally puts the last 24 hours at $3.6B traded across 9 prediction-market exchanges (contracts counted at $1), with Kalshi posting its biggest week ever…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Polymarket&#x27;s Nobel economics favorite misses as Hall and Woodford win<br/>The 2026 Nobel Prize in Economic Sciences went to Robert E. Hall and Michael Woodford on Oct 12. Polymarket&#x27;s Oct 8 board had Ariel Pakes as the favorite at 18.5%, with…<br/>#PredictionMarkets #Kalshi #Polymarket #NobelPrize<br/>https://predictionnews.com/story/polymarket-traders-price-ariel-pakes-as-nobel-economics-favorite-at-18-5<br/><br/>Kalshi hits a record $19B week as Polymarket US triples fall trade volume<br/>DeFi Rate&#x27;s Oct 12 tally puts the last 24 hours at $3.6B traded across 9 prediction-market exchanges (contracts counted at $1), with Kalshi posting its biggest week ever…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/?ref=steemhunt<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-12T21:24:00-04:00",
+      "date_modified": "2026-10-12T21:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "NobelPrize"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/polymarket-traders-price-ariel-pakes-as-nobel-economics-favorite-at-18-5",
+      "links": [
+        "https://predictionnews.com/story/polymarket-traders-price-ariel-pakes-as-nobel-economics-favorite-at-18-5",
+        "https://defirate.com/?ref=steemhunt"
+      ],
+      "timestamp": "Oct 12, 2026 · 9:24 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nPolymarket's Nobel economics favorite misses as Hall and Woodford win\nThe 2026 Nobel Prize in Economic Sciences went to Robert E. Hall and Michael Woodford on Oct 12. Polymarket's Oct 8 board had Ariel Pakes as the favorite at 18.5%, with…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://predictionnews.com/story/polymarket-traders-price-ariel-pakes-as-nobel-economics-favorite-at-18-5\n\nKalshi hits a record $19B week as Polymarket US triples fall trade volume\nDeFi Rate's Oct 12 tally puts the last 24 hours at $3.6B traded across 9 prediction-market exchanges (contracts counted at $1), with Kalshi posting its biggest week ever…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T21:24:00-04:00",
+      "source": "2026-10-12_2124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-12_2115-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2115-edt-0",
@@ -4790,171 +4944,6 @@
       "image_url": null,
       "published": "2026-10-09T23:54:00-04:00",
       "source": "2026-10-09_2354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_2254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-09_2254-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi launches insider-trading probe on Zacharia press secretary bets\nWSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia's appointment as Trump's new White House press secretary, including a…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nPolymarket's $32M Nobel market whiffed on the Peace Prize winner\nTraders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82,650\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi launches insider-trading probe on Zacharia press secretary bets<br/>WSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia&#x27;s appointment as Trump&#x27;s new White House press secretary, including a…<br/>#PredictionMarkets #Kalshi<br/>https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/<br/><br/>Polymarket&#x27;s $32M Nobel market whiffed on the Peace Prize winner<br/>Traders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi…<br/>#PredictionMarkets #Kalshi #Polymarket #NobelPrize<br/>https://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/<br/><br/>Markets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82,650<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-09T22:54:00-04:00",
-      "date_modified": "2026-10-09T22:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "NobelPrize"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/",
-      "links": [
-        "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/",
-        "https://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/"
-      ],
-      "timestamp": "Oct 9, 2026 · 10:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi launches insider-trading probe on Zacharia press secretary bets\nWSJ reports Kalshi is investigating a series of precisely-timed wagers that called Katie Zacharia's appointment as Trump's new White House press secretary, including a…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nPolymarket's $32M Nobel market whiffed on the Peace Prize winner\nTraders piled $32M+ into the 2026 Nobel Peace Prize market, sending Yulia Navalnaya to favorite overnight — but the Norwegian Nobel Committee awarded the prize to Navi…\n#PredictionMarkets #Kalshi #Polymarket #NobelPrize\nhttps://cryptodigicurrency.com/polymarkets-32m-nobel-market-didnt-anticipate-the-peace-prize-winner/\n\nMarkets: Gold $4,200 | Brent $102.70 | WTI $90.57 | BTC $82,650\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T22:54:00-04:00",
-      "source": "2026-10-09_2254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_2154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-09_2154-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\n39 state AGs pile into SCOTUS fight as NFL presses for quick review\nFresh detail on the Flaherty v. Kalshi amicus wave: attorneys general from 39 states plus DC filed a brief alongside the NFL, and the league is asking the Court to act…\n#PredictionMarkets #Kalshi #NFL #CFTC\nhttps://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/\n\nNorway regulator moves to block Kalshi and Polymarket\nThe Norwegian Gaming Authority notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS blocking for serving Norwegian consumers; companies have…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nMarkets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>39 state AGs pile into SCOTUS fight as NFL presses for quick review<br/>Fresh detail on the Flaherty v. Kalshi amicus wave: attorneys general from 39 states plus DC filed a brief alongside the NFL, and the league is asking the Court to act…<br/>#PredictionMarkets #Kalshi #NFL #CFTC<br/>https://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/<br/><br/>Norway regulator moves to block Kalshi and Polymarket<br/>The Norwegian Gaming Authority notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS blocking for serving Norwegian consumers; companies have…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/<br/><br/>Markets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-09T21:54:00-04:00",
-      "date_modified": "2026-10-09T21:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "NFL",
-        "CFTC",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/",
-      "links": [
-        "https://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/",
-        "https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/"
-      ],
-      "timestamp": "Oct 9, 2026 · 9:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\n39 state AGs pile into SCOTUS fight as NFL presses for quick review\nFresh detail on the Flaherty v. Kalshi amicus wave: attorneys general from 39 states plus DC filed a brief alongside the NFL, and the league is asking the Court to act…\n#PredictionMarkets #Kalshi #NFL #CFTC\nhttps://www.thesportsleader.com/2026/10/08/nfl-urges-supreme-court-review-of-kalshi-betting-case/\n\nNorway regulator moves to block Kalshi and Polymarket\nThe Norwegian Gaming Authority notified 62 unlicensed operators, including Kalshi and Polymarket, of planned DNS blocking for serving Norwegian consumers; companies have…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nMarkets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T21:54:00-04:00",
-      "source": "2026-10-09_2154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_2054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-09_2054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\n$1B+ in crypto liquidations as BTC wobbles near $82K\nOver $1.09B in crypto positions were liquidated in 24h as Bitcoin slid from ~$86K toward $82K before recovering to ~$82,991 Friday afternoon; longs ate ~85–86% of the…\n#PredictionMarkets #Bitcoin #Ethereum\nhttps://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html\n\nZacharia probe still live: Kalshi & White House stay silent\nWSJ's piece on the three suspiciously timed Katie Zacharia bets ($19→$1,896; $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman still…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546\n\nMarkets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82,991\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>$1B+ in crypto liquidations as BTC wobbles near $82K<br/>Over $1.09B in crypto positions were liquidated in 24h as Bitcoin slid from ~$86K toward $82K before recovering to ~$82,991 Friday afternoon; longs ate ~85–86% of the…<br/>#PredictionMarkets #Bitcoin #Ethereum<br/>https://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html<br/><br/>Zacharia probe still live: Kalshi &amp; White House stay silent<br/>WSJ&#x27;s piece on the three suspiciously timed Katie Zacharia bets ($19→$1,896; $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi&#x27;s spokeswoman still…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546<br/><br/>Markets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82,991<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-09T20:54:00-04:00",
-      "date_modified": "2026-10-09T20:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Bitcoin",
-        "Ethereum",
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html",
-      "links": [
-        "https://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html",
-        "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546"
-      ],
-      "timestamp": "Oct 9, 2026 · 8:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\n$1B+ in crypto liquidations as BTC wobbles near $82K\nOver $1.09B in crypto positions were liquidated in 24h as Bitcoin slid from ~$86K toward $82K before recovering to ~$82,991 Friday afternoon; longs ate ~85–86% of the…\n#PredictionMarkets #Bitcoin #Ethereum\nhttps://www.hokanews.com/2026/10/crypto-liquidations-hit-109-billion-as.html\n\nZacharia probe still live: Kalshi & White House stay silent\nWSJ's piece on the three suspiciously timed Katie Zacharia bets ($19→$1,896; $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman still…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546\n\nMarkets: Gold $4,220 | Brent $103.53 | WTI $91.20 | BTC $82,991\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T20:54:00-04:00",
-      "source": "2026-10-09_2054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_1954-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-09_1954-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nCFTC probing possible \"wash trading\" on Kalshi\nPer the NY Post, the CFTC has launched a probe of unusual trading activity on Kalshi after billions of dollars of near-identical crypto trades raised questions about…\n#PredictionMarkets #Kalshi #CFTC\nhttps://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/\n\nKalshi's press-secretary probe: still no new comment\nWSJ's piece on the three well-timed Katie Zacharia bets ($19→$1,896, $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman declined further…\n#PredictionMarkets #Kalshi\nhttps://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546\n\nMarkets: Gold $4,220 | Brent $104 | WTI $91.20 | BTC $82,300\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>CFTC probing possible &quot;wash trading&quot; on Kalshi<br/>Per the NY Post, the CFTC has launched a probe of unusual trading activity on Kalshi after billions of dollars of near-identical crypto trades raised questions about…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/<br/><br/>Kalshi&#x27;s press-secretary probe: still no new comment<br/>WSJ&#x27;s piece on the three well-timed Katie Zacharia bets ($19→$1,896, $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi&#x27;s spokeswoman declined further…<br/>#PredictionMarkets #Kalshi<br/>https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546<br/><br/>Markets: Gold $4,220 | Brent $104 | WTI $91.20 | BTC $82,300<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-09T19:54:00-04:00",
-      "date_modified": "2026-10-09T19:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/",
-      "links": [
-        "https://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/",
-        "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546"
-      ],
-      "timestamp": "Oct 9, 2026 · 7:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nCFTC probing possible \"wash trading\" on Kalshi\nPer the NY Post, the CFTC has launched a probe of unusual trading activity on Kalshi after billions of dollars of near-identical crypto trades raised questions about…\n#PredictionMarkets #Kalshi #CFTC\nhttps://nypost.com/2026/10/09/business/kalshi-probes-shady-bets-on-new-white-house-press-secretary-report/\n\nKalshi's press-secretary probe: still no new comment\nWSJ's piece on the three well-timed Katie Zacharia bets ($19→$1,896, $74/$80→$3,689/$4,023) was updated within the last hour, but Kalshi's spokeswoman declined further…\n#PredictionMarkets #Kalshi\nhttps://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546\n\nMarkets: Gold $4,220 | Brent $104 | WTI $91.20 | BTC $82,300\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T19:54:00-04:00",
-      "source": "2026-10-09_1954-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-09_1854-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-09_1854-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi probes suspicious trades on Trump's press secretary pick\nKalshi has opened an investigation after the WSJ found at least three small but well-timed wagers on conservative commentator Katie Zacharia being named White House…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nNorway moves to block Kalshi, Polymarket and 60 other unlicensed sites\nThe Norwegian Gaming Authority notified 62 companies that their sites could face DNS blocking for serving Norwegian consumers in breach of gambling law; the regulator…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nMarkets: Gold $4,200 | Brent $102.9 | WTI $90.69 | BTC $82.4K\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi probes suspicious trades on Trump&#x27;s press secretary pick<br/>Kalshi has opened an investigation after the WSJ found at least three small but well-timed wagers on conservative commentator Katie Zacharia being named White House…<br/>#PredictionMarkets #Kalshi<br/>https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/<br/><br/>Norway moves to block Kalshi, Polymarket and 60 other unlicensed sites<br/>The Norwegian Gaming Authority notified 62 companies that their sites could face DNS blocking for serving Norwegian consumers in breach of gambling law; the regulator…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/<br/><br/>Markets: Gold $4,200 | Brent $102.9 | WTI $90.69 | BTC $82.4K<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-09T18:54:00-04:00",
-      "date_modified": "2026-10-09T18:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/",
-      "links": [
-        "https://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/",
-        "https://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/"
-      ],
-      "timestamp": "Oct 9, 2026 · 6:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi probes suspicious trades on Trump's press secretary pick\nKalshi has opened an investigation after the WSJ found at least three small but well-timed wagers on conservative commentator Katie Zacharia being named White House…\n#PredictionMarkets #Kalshi\nhttps://www.reuters.com/business/finance/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-2026-10-09/\n\nNorway moves to block Kalshi, Polymarket and 60 other unlicensed sites\nThe Norwegian Gaming Authority notified 62 companies that their sites could face DNS blocking for serving Norwegian consumers in breach of gambling law; the regulator…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.igamingtoday.com/norway-moves-to-block-kalshi-polymarket-and-60-other-unlicensed-sites/\n\nMarkets: Gold $4,200 | Brent $102.9 | WTI $90.69 | BTC $82.4K\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-09T18:54:00-04:00",
-      "source": "2026-10-09_1854-edt.md",
       "matches_facebook_post": false
     }
   ]
