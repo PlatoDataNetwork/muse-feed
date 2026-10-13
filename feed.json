@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T00:48:07.162071-04:00",
+  "updated": "2026-10-13T01:02:50.863203-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,159 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0100-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-0",
+      "title": "Arizona AG files criminal charges against Kalshi over election betting markets",
+      "content_text": "- **Arizona AG files criminal charges against Kalshi over election betting markets** — Arizona Attorney General Kris Mayes has filed criminal charges against Kalshi, including four counts of election wagering tied to the 2028 presidential race and 2026 Arizona races. The state contends offering election contracts to Arizona residents is illegal gambling under state law regardless of Kalshi's CFTC-registered status. ([GambleRss](https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720))",
+      "content_html": "<p>- **Arizona AG files criminal charges against Kalshi over election betting markets** — Arizona Attorney General Kris Mayes has filed criminal charges against Kalshi, including four counts of election wagering tied to the 2028 presidential race and 2026 Arizona races. The state contends offering election contracts to Arizona residents is illegal gambling under state law regardless of Kalshi&#x27;s CFTC-registered status. ([GambleRss](https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720))</p>",
+      "date_published": "2026-10-13T01:00:00-04:00",
+      "date_modified": "2026-10-13T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720",
+      "links": [
+        "https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
+      "body": "- **Arizona AG files criminal charges against Kalshi over election betting markets** — Arizona Attorney General Kris Mayes has filed criminal charges against Kalshi, including four counts of election wagering tied to the 2028 presidential race and 2026 Arizona races. The state contends offering election contracts to Arizona residents is illegal gambling under state law regardless of Kalshi's CFTC-registered status. ([GambleRss](https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720))",
+      "image_url": null,
+      "published": "2026-10-13T01:00:00-04:00",
+      "source": "2026-10-13_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0100-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-1",
+      "title": "New bill introduced to ban prediction markets on political and sporting events",
+      "content_text": "- **New bill introduced to ban prediction markets on political and sporting events** — Legislation has been introduced that would ban prediction market contracts on elections, legislation, acts of war and other government actions, as well as sporting events. Supporters frame it as restoring public trust and curbing corruption; it follows more than 20 state-filed suits against platforms like Polymarket and Kalshi. ([GambleRss](https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404))",
+      "content_html": "<p>- **New bill introduced to ban prediction markets on political and sporting events** — Legislation has been introduced that would ban prediction market contracts on elections, legislation, acts of war and other government actions, as well as sporting events. Supporters frame it as restoring public trust and curbing corruption; it follows more than 20 state-filed suits against platforms like Polymarket and Kalshi. ([GambleRss](https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404))</p>",
+      "date_published": "2026-10-13T01:00:00-04:00",
+      "date_modified": "2026-10-13T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404",
+      "links": [
+        "https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
+      "body": "- **New bill introduced to ban prediction markets on political and sporting events** — Legislation has been introduced that would ban prediction market contracts on elections, legislation, acts of war and other government actions, as well as sporting events. Supporters frame it as restoring public trust and curbing corruption; it follows more than 20 state-filed suits against platforms like Polymarket and Kalshi. ([GambleRss](https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404))",
+      "image_url": null,
+      "published": "2026-10-13T01:00:00-04:00",
+      "source": "2026-10-13_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0100-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-2",
+      "title": "Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information",
+      "content_text": "- **Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information** — Representative Ritchie Torres is drafting the Public Integrity in Financial Prediction Markets Act of 2026, which would bar members of Congress, appointees and executive branch staff from trading event contracts using information from their duties. The push follows a flagged Polymarket trade where a new account turned about $32,000 into over $400,000 betting on Nicolas Maduro leaving office. ([GambleRss](https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082))",
+      "content_html": "<p>- **Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information** — Representative Ritchie Torres is drafting the Public Integrity in Financial Prediction Markets Act of 2026, which would bar members of Congress, appointees and executive branch staff from trading event contracts using information from their duties. The push follows a flagged Polymarket trade where a new account turned about $32,000 into over $400,000 betting on Nicolas Maduro leaving office. ([GambleRss](https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082))</p>",
+      "date_published": "2026-10-13T01:00:00-04:00",
+      "date_modified": "2026-10-13T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Congress"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082",
+      "links": [
+        "https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
+      "body": "- **Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information** — Representative Ritchie Torres is drafting the Public Integrity in Financial Prediction Markets Act of 2026, which would bar members of Congress, appointees and executive branch staff from trading event contracts using information from their duties. The push follows a flagged Polymarket trade where a new account turned about $32,000 into over $400,000 betting on Nicolas Maduro leaving office. ([GambleRss](https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082))",
+      "image_url": null,
+      "published": "2026-10-13T01:00:00-04:00",
+      "source": "2026-10-13_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0100-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-3",
+      "title": "Sports and election event contracts may come to Canada through dealer and provincial gaming routes",
+      "content_text": "- **Sports and election event contracts may come to Canada through dealer and provincial gaming routes** — Canada is exploring pathways for regulated prediction-market event contracts, with two CIRO Investment Dealer Members authorized to offer contracts maturing in 30 days or more. Election-outcome contracts remain off limits, and analysts say any sports event contracts would more likely arrive through provincial gaming frameworks than securities regulation. ([GambleRss](https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531))",
+      "content_html": "<p>- **Sports and election event contracts may come to Canada through dealer and provincial gaming routes** — Canada is exploring pathways for regulated prediction-market event contracts, with two CIRO Investment Dealer Members authorized to offer contracts maturing in 30 days or more. Election-outcome contracts remain off limits, and analysts say any sports event contracts would more likely arrive through provincial gaming frameworks than securities regulation. ([GambleRss](https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531))</p>",
+      "date_published": "2026-10-13T01:00:00-04:00",
+      "date_modified": "2026-10-13T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531",
+      "links": [
+        "https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531"
+      ],
+      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
+      "body": "- **Sports and election event contracts may come to Canada through dealer and provincial gaming routes** — Canada is exploring pathways for regulated prediction-market event contracts, with two CIRO Investment Dealer Members authorized to offer contracts maturing in 30 days or more. Election-outcome contracts remain off limits, and analysts say any sports event contracts would more likely arrive through provincial gaming frameworks than securities regulation. ([GambleRss](https://gamblerss.com/are-prediction-market-sports-event-contracts-for-canada-on-the-way-60531))",
+      "image_url": null,
+      "published": "2026-10-13T01:00:00-04:00",
+      "source": "2026-10-13_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0054-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nSens. Schiff and Curtis unveil bipartisan bill to ban sports markets on prediction platforms\nSens. Adam Schiff (D-Calif.) and John Curtis (R-Utah) are preparing the first bipartisan bill targeting prediction markets, which would block CFTC-regulated platforms —…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082\n\nNevada's Friday suit against Polymarket still the newest enforcement marker\nThe Nevada Gaming Control Board sued Blockratize Inc., Polymarket's corporate entity, in Carson City district court seeking to bar \"unlicensed wagering\" — the first time…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Sens. Schiff and Curtis unveil bipartisan bill to ban sports markets on prediction platforms<br/>Sens. Adam Schiff (D-Calif.) and John Curtis (R-Utah) are preparing the first bipartisan bill targeting prediction markets, which would block CFTC-regulated platforms —…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082<br/><br/>Nevada&#x27;s Friday suit against Polymarket still the newest enforcement marker<br/>The Nevada Gaming Control Board sued Blockratize Inc., Polymarket&#x27;s corporate entity, in Carson City district court seeking to bar &quot;unlicensed wagering&quot; — the first time…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T00:54:00-04:00",
+      "date_modified": "2026-10-13T00:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082",
+      "links": [
+        "https://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082",
+        "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nSens. Schiff and Curtis unveil bipartisan bill to ban sports markets on prediction platforms\nSens. Adam Schiff (D-Calif.) and John Curtis (R-Utah) are preparing the first bipartisan bill targeting prediction markets, which would block CFTC-regulated platforms —…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/bipartisan-bill-wants-sports-banned-on-prediction-markets-60082\n\nNevada's Friday suit against Polymarket still the newest enforcement marker\nThe Nevada Gaming Control Board sued Blockratize Inc., Polymarket's corporate entity, in Carson City district court seeking to bar \"unlicensed wagering\" — the first time…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T00:54:00-04:00",
+      "source": "2026-10-13_0054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0045-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0045-edt-0",
@@ -4556,171 +4709,6 @@
       "published": "2026-10-12T15:30:00-04:00",
       "source": "2026-10-12_1530-edt.json",
       "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-12_1530-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_1530-edt-4",
-      "title": "NFL weekend drives record $22.2B weekly prediction-market volume, Bloomberg Law reports",
-      "content_text": "- **NFL weekend drives record $22.2B weekly prediction-market volume, Bloomberg Law reports** — Football season pushed Kalshi and Polymarket to consecutive daily volume records and a record $22.2B combined weekly volume, per Dune Analytics data cited by Bloomberg Law, showing how much the industry's growth now hinges on sports. The boom puts prediction markets on a direct collision course with traditional sportsbooks over how sports contracts should be treated and taxed. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
-      "content_html": "<p>- **NFL weekend drives record $22.2B weekly prediction-market volume, Bloomberg Law reports** — Football season pushed Kalshi and Polymarket to consecutive daily volume records and a record $22.2B combined weekly volume, per Dune Analytics data cited by Bloomberg Law, showing how much the industry&#x27;s growth now hinges on sports. The boom puts prediction markets on a direct collision course with traditional sportsbooks over how sports contracts should be treated and taxed. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))</p>",
-      "date_published": "2026-10-12T15:30:00-04:00",
-      "date_modified": "2026-10-12T15:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules",
-      "links": [
-        "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules"
-      ],
-      "timestamp": "Oct 12, 2026 · 3:30 PM ET",
-      "body": "- **NFL weekend drives record $22.2B weekly prediction-market volume, Bloomberg Law reports** — Football season pushed Kalshi and Polymarket to consecutive daily volume records and a record $22.2B combined weekly volume, per Dune Analytics data cited by Bloomberg Law, showing how much the industry's growth now hinges on sports. The boom puts prediction markets on a direct collision course with traditional sportsbooks over how sports contracts should be treated and taxed. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
-      "image_url": null,
-      "published": "2026-10-12T15:30:00-04:00",
-      "source": "2026-10-12_1530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_1454-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1454-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi prices a hot CPI headline, with core as the swing factor\nAhead of Wednesday's September CPI at 8:30 AM ET, Kalshi on Monday morning put about 60% on a headline print of 0.6% or higher and about 37% on core at 0.3% or higher,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://thealetheanarrative.substack.com/p/the-cpi-odds-are-hot-history-says\n\nBills at Rams is the most-traded market today at $2.8M in 24 hours\nDeFi Rate's hourly top-50 puts tonight's Monday Night Football closer first, with Los Angeles at 62c on both Kalshi and Polymarket US, the spread at Rams -3.5 (48c) and…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,183.94 | Brent $105.60 | WTI $91.74 | BTC $82,522\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi prices a hot CPI headline, with core as the swing factor<br/>Ahead of Wednesday&#x27;s September CPI at 8:30 AM ET, Kalshi on Monday morning put about 60% on a headline print of 0.6% or higher and about 37% on core at 0.3% or higher,…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://thealetheanarrative.substack.com/p/the-cpi-odds-are-hot-history-says<br/><br/>Bills at Rams is the most-traded market today at $2.8M in 24 hours<br/>DeFi Rate&#x27;s hourly top-50 puts tonight&#x27;s Monday Night Football closer first, with Los Angeles at 62c on both Kalshi and Polymarket US, the spread at Rams -3.5 (48c) and…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/?s<br/><br/>Markets: Gold $4,183.94 | Brent $105.60 | WTI $91.74 | BTC $82,522<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-12T14:54:00-04:00",
-      "date_modified": "2026-10-12T14:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://thealetheanarrative.substack.com/p/the-cpi-odds-are-hot-history-says",
-      "links": [
-        "https://thealetheanarrative.substack.com/p/the-cpi-odds-are-hot-history-says",
-        "https://defirate.com/?s"
-      ],
-      "timestamp": "Oct 12, 2026 · 2:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi prices a hot CPI headline, with core as the swing factor\nAhead of Wednesday's September CPI at 8:30 AM ET, Kalshi on Monday morning put about 60% on a headline print of 0.6% or higher and about 37% on core at 0.3% or higher,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://thealetheanarrative.substack.com/p/the-cpi-odds-are-hot-history-says\n\nBills at Rams is the most-traded market today at $2.8M in 24 hours\nDeFi Rate's hourly top-50 puts tonight's Monday Night Football closer first, with Los Angeles at 62c on both Kalshi and Polymarket US, the spread at Rams -3.5 (48c) and…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,183.94 | Brent $105.60 | WTI $91.74 | BTC $82,522\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-12T14:54:00-04:00",
-      "source": "2026-10-12_1454-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_1354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nBitcoin slips to $82,522 (-1.7%) ahead of Wednesday's CPI\nFinnhub's latest quote puts BTC at $82,522, down $1,411 (-1.68%) from a $83,933 open, with an intraday low of $82,390, below the $83,327-$83,679 range carried this…\n#PredictionMarkets #Bitcoin\nhttps://finnhub.io/?q=%22BTC%22\n\nFed hold divergence widens to 4.5 points across venues\nDaily closes for the Oct. 27-28 FOMC hold outcome now show Kalshi at 84.5%, Polymarket at 82.5% and CME futures-implied at 80.0% on Oct. 12, a 4.5-point spread versus…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026\n\nMarkets: Gold $4,184 | Brent $105.60 | WTI $92.70 | BTC $82,522\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Bitcoin slips to $82,522 (-1.7%) ahead of Wednesday&#x27;s CPI<br/>Finnhub&#x27;s latest quote puts BTC at $82,522, down $1,411 (-1.68%) from a $83,933 open, with an intraday low of $82,390, below the $83,327-$83,679 range carried this…<br/>#PredictionMarkets #Bitcoin<br/>https://finnhub.io/?q=%22BTC%22<br/><br/>Fed hold divergence widens to 4.5 points across venues<br/>Daily closes for the Oct. 27-28 FOMC hold outcome now show Kalshi at 84.5%, Polymarket at 82.5% and CME futures-implied at 80.0% on Oct. 12, a 4.5-point spread versus…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026<br/><br/>Markets: Gold $4,184 | Brent $105.60 | WTI $92.70 | BTC $82,522<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-12T13:54:00-04:00",
-      "date_modified": "2026-10-12T13:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Bitcoin",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://finnhub.io/?q=%22BTC%22",
-      "links": [
-        "https://finnhub.io/?q=%22BTC%22",
-        "https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026"
-      ],
-      "timestamp": "Oct 12, 2026 · 1:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nBitcoin slips to $82,522 (-1.7%) ahead of Wednesday's CPI\nFinnhub's latest quote puts BTC at $82,522, down $1,411 (-1.68%) from a $83,933 open, with an intraday low of $82,390, below the $83,327-$83,679 range carried this…\n#PredictionMarkets #Bitcoin\nhttps://finnhub.io/?q=%22BTC%22\n\nFed hold divergence widens to 4.5 points across venues\nDaily closes for the Oct. 27-28 FOMC hold outcome now show Kalshi at 84.5%, Polymarket at 82.5% and CME futures-implied at 80.0% on Oct. 12, a 4.5-point spread versus…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026\n\nMarkets: Gold $4,184 | Brent $105.60 | WTI $92.70 | BTC $82,522\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-12T13:54:00-04:00",
-      "source": "2026-10-12_1354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_1254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1254-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nBrock Purdy takes over as NFL MVP favourite at 28-30%\nWith San Francisco 5-0, both venues now price Purdy first for MVP: 28% on Polymarket (28.4c) and 30% on Kalshi (30c), comfortably ahead of Josh Allen at 20-21% and…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0\n\nKalshi and Polymarket reported at $8.56B in combined two-day volume\nThe figure is circulating across financial media for a two-day window across both venues, with no platform split, category breakdown or methodology confirmed by either…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nMarkets: Gold $4,193.40 | Brent $105.60 | WTI $93.60 | BTC $82,794\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Brock Purdy takes over as NFL MVP favourite at 28-30%<br/>With San Francisco 5-0, both venues now price Purdy first for MVP: 28% on Polymarket (28.4c) and 30% on Kalshi (30c), comfortably ahead of Josh Allen at 20-21% and…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0<br/><br/>Kalshi and Polymarket reported at $8.56B in combined two-day volume<br/>The figure is circulating across financial media for a two-day window across both venues, with no platform split, category breakdown or methodology confirmed by either…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/<br/><br/>Markets: Gold $4,193.40 | Brent $105.60 | WTI $93.60 | BTC $82,794<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-12T12:54:00-04:00",
-      "date_modified": "2026-10-12T12:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0",
-      "links": [
-        "https://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0",
-        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/"
-      ],
-      "timestamp": "Oct 12, 2026 · 12:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nBrock Purdy takes over as NFL MVP favourite at 28-30%\nWith San Francisco 5-0, both venues now price Purdy first for MVP: 28% on Polymarket (28.4c) and 30% on Kalshi (30c), comfortably ahead of Josh Allen at 20-21% and…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://www.actionnetwork.com/news/nfl-mvp-odds-brock-purdy-favorite-after-49ers-improve-to-5-0\n\nKalshi and Polymarket reported at $8.56B in combined two-day volume\nThe figure is circulating across financial media for a two-day window across both venues, with no platform split, category breakdown or methodology confirmed by either…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/\n\nMarkets: Gold $4,193.40 | Brent $105.60 | WTI $93.60 | BTC $82,794\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-12T12:54:00-04:00",
-      "source": "2026-10-12_1254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-12_1154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1154-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nMost Americans oppose betting on elections and government events, Reuters/Ipsos poll finds\n69% of Democrats and 61% of Republicans oppose betting on election results; 65% oppose betting on U.S. military actions.\n#PredictionMarkets #Elections #Kalshi\nhttps://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/\n\n24-hour volume eases to $4.9B\nSenate control (Dem) 62%, House (Dem) 90%, 2028 presidency (Dem) 61%.\n#PredictionMarkets #Politics\nhttp://defirate.com/\n\nBiggest Polymarket books are global: Brazil and Netanyahu lead\nBrazil book $180.0M, Bolsonaro 88%; Netanyahu out by end-2026 No 63% on $124.5M.\n#Polymarket #Brazil\nhttps://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026\n\nMarkets: Gold $4,171 | Brent $106 | BTC $82,742 | ETH $2,531\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Most Americans oppose betting on elections and government events, Reuters/Ipsos poll finds<br/>69% of Democrats and 61% of Republicans oppose betting on election results; 65% oppose betting on U.S. military actions.<br/>#PredictionMarkets #Elections #Kalshi<br/>https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/<br/><br/>24-hour volume eases to $4.9B<br/>Senate control (Dem) 62%, House (Dem) 90%, 2028 presidency (Dem) 61%.<br/>#PredictionMarkets #Politics<br/>http://defirate.com/<br/><br/>Biggest Polymarket books are global: Brazil and Netanyahu lead<br/>Brazil book $180.0M, Bolsonaro 88%; Netanyahu out by end-2026 No 63% on $124.5M.<br/>#Polymarket #Brazil<br/>https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026<br/><br/>Markets: Gold $4,171 | Brent $106 | BTC $82,742 | ETH $2,531<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_1154-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-12T11:54:00-04:00",
-      "date_modified": "2026-10-12T11:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Elections",
-        "Kalshi",
-        "Politics",
-        "Polymarket",
-        "Brazil"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_1154-edt.jpg",
-      "external_url": "https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/",
-      "links": [
-        "https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/",
-        "http://defirate.com/",
-        "https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026"
-      ],
-      "timestamp": "Oct 12, 2026 · 11:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nMost Americans oppose betting on elections and government events, Reuters/Ipsos poll finds\n69% of Democrats and 61% of Republicans oppose betting on election results; 65% oppose betting on U.S. military actions.\n#PredictionMarkets #Elections #Kalshi\nhttps://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/\n\n24-hour volume eases to $4.9B\nSenate control (Dem) 62%, House (Dem) 90%, 2028 presidency (Dem) 61%.\n#PredictionMarkets #Politics\nhttp://defirate.com/\n\nBiggest Polymarket books are global: Brazil and Netanyahu lead\nBrazil book $180.0M, Bolsonaro 88%; Netanyahu out by end-2026 No 63% on $124.5M.\n#Polymarket #Brazil\nhttps://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026\n\nMarkets: Gold $4,171 | Brent $106 | BTC $82,742 | ETH $2,531\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_1154-edt.jpg",
-      "published": "2026-10-12T11:54:00-04:00",
-      "source": "2026-10-12_1154-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
