@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T22:40:31.776253-04:00",
+  "updated": "2026-10-12T23:03:46.691075-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,158 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-12_2300-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2300-edt-0",
+      "title": "Portugal blocks Polymarket after 4M euros in election betting surges",
+      "content_text": "- **Portugal blocks Polymarket after 4M euros in election betting surges** — Portugal's gambling regulator has ordered Polymarket to halt operations in the country after roughly 4 million euros in election betting surged on the platform. The SRIJ said political event markets are illegal under national rules, which limit online gambling to licensed sports betting, casino games, and horse racing. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))",
+      "content_html": "<p>- **Portugal blocks Polymarket after 4M euros in election betting surges** — Portugal&#x27;s gambling regulator has ordered Polymarket to halt operations in the country after roughly 4 million euros in election betting surged on the platform. The SRIJ said political event markets are illegal under national rules, which limit online gambling to licensed sports betting, casino games, and horse racing. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))</p>",
+      "date_published": "2026-10-12T23:00:00-04:00",
+      "date_modified": "2026-10-12T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744",
+      "links": [
+        "https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:00 PM ET",
+      "body": "- **Portugal blocks Polymarket after 4M euros in election betting surges** — Portugal's gambling regulator has ordered Polymarket to halt operations in the country after roughly 4 million euros in election betting surged on the platform. The SRIJ said political event markets are illegal under national rules, which limit online gambling to licensed sports betting, casino games, and horse racing. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))",
+      "image_url": null,
+      "published": "2026-10-12T23:00:00-04:00",
+      "source": "2026-10-12_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2300-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2300-edt-1",
+      "title": "Bitcoin dips below $82K as Polymarket odds contracts reprice sharply",
+      "content_text": "- **Bitcoin dips below $82K as Polymarket odds contracts reprice sharply** — Bitcoin slid below $82,000 on October 12, and Polymarket's daily contracts repriced quickly. The 'Bitcoin above $82,000 on October 13' contract fell from 69.5% to 46% in six hours, while odds of Bitcoin reaching $90,000 in October dropped to 24.5%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))",
+      "content_html": "<p>- **Bitcoin dips below $82K as Polymarket odds contracts reprice sharply** — Bitcoin slid below $82,000 on October 12, and Polymarket&#x27;s daily contracts repriced quickly. The &#x27;Bitcoin above $82,000 on October 13&#x27; contract fell from 69.5% to 46% in six hours, while odds of Bitcoin reaching $90,000 in October dropped to 24.5%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))</p>",
+      "date_published": "2026-10-12T23:00:00-04:00",
+      "date_modified": "2026-10-12T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc",
+      "links": [
+        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:00 PM ET",
+      "body": "- **Bitcoin dips below $82K as Polymarket odds contracts reprice sharply** — Bitcoin slid below $82,000 on October 12, and Polymarket's daily contracts repriced quickly. The 'Bitcoin above $82,000 on October 13' contract fell from 69.5% to 46% in six hours, while odds of Bitcoin reaching $90,000 in October dropped to 24.5%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))",
+      "image_url": null,
+      "published": "2026-10-12T23:00:00-04:00",
+      "source": "2026-10-12_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2300-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2300-edt-2",
+      "title": "Iran blockade odds stuck at 9.5% on Polymarket as Brent holds near $103",
+      "content_text": "- **Iran blockade odds stuck at 9.5% on Polymarket as Brent holds near $103** — Polymarket traders put only 9.5% odds on the United States announcing an end or suspension of its naval blockade of Iran by October 15, even after President Trump said Washington will not attack Iran before the November 3 midterms. Brent crude hovered near $103 a barrel as oil markets stayed braced for disruption. ([Ghanamma](https://www.ghanamma.com/2026/10/12/iran-blockade-polymarket-odds-trump-calms-oil-not-traders/))",
+      "content_html": "<p>- **Iran blockade odds stuck at 9.5% on Polymarket as Brent holds near $103** — Polymarket traders put only 9.5% odds on the United States announcing an end or suspension of its naval blockade of Iran by October 15, even after President Trump said Washington will not attack Iran before the November 3 midterms. Brent crude hovered near $103 a barrel as oil markets stayed braced for disruption. ([Ghanamma](https://www.ghanamma.com/2026/10/12/iran-blockade-polymarket-odds-trump-calms-oil-not-traders/))</p>",
+      "date_published": "2026-10-12T23:00:00-04:00",
+      "date_modified": "2026-10-12T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://www.ghanamma.com/2026/10/12/iran-blockade-polymarket-odds-trump-calms-oil-not-traders/",
+      "links": [
+        "https://www.ghanamma.com/2026/10/12/iran-blockade-polymarket-odds-trump-calms-oil-not-traders/"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:00 PM ET",
+      "body": "- **Iran blockade odds stuck at 9.5% on Polymarket as Brent holds near $103** — Polymarket traders put only 9.5% odds on the United States announcing an end or suspension of its naval blockade of Iran by October 15, even after President Trump said Washington will not attack Iran before the November 3 midterms. Brent crude hovered near $103 a barrel as oil markets stayed braced for disruption. ([Ghanamma](https://www.ghanamma.com/2026/10/12/iran-blockade-polymarket-odds-trump-calms-oil-not-traders/))",
+      "image_url": null,
+      "published": "2026-10-12T23:00:00-04:00",
+      "source": "2026-10-12_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2300-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2300-edt-3",
+      "title": "Brazil runoff: Polymarket prices Bolsonaro at 84.8% against Lula's 16%",
+      "content_text": "- **Brazil runoff: Polymarket prices Bolsonaro at 84.8% against Lula's 16%** — Polymarket prices Flavio Bolsonaro at 84.8% to win Brazil's October 25 presidential runoff against incumbent Luiz Inacio Lula da Silva at 16%, after Bolsonaro led the first round 47.1% to 45.1%. The contract has drawn more than $174 million in volume. ([Ghanamma](https://www.ghanamma.com/2026/10/11/brazil-election-polymarket-odds-can-lula-close-the-gap/))",
+      "content_html": "<p>- **Brazil runoff: Polymarket prices Bolsonaro at 84.8% against Lula&#x27;s 16%** — Polymarket prices Flavio Bolsonaro at 84.8% to win Brazil&#x27;s October 25 presidential runoff against incumbent Luiz Inacio Lula da Silva at 16%, after Bolsonaro led the first round 47.1% to 45.1%. The contract has drawn more than $174 million in volume. ([Ghanamma](https://www.ghanamma.com/2026/10/11/brazil-election-polymarket-odds-can-lula-close-the-gap/))</p>",
+      "date_published": "2026-10-12T23:00:00-04:00",
+      "date_modified": "2026-10-12T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.ghanamma.com/2026/10/11/brazil-election-polymarket-odds-can-lula-close-the-gap/",
+      "links": [
+        "https://www.ghanamma.com/2026/10/11/brazil-election-polymarket-odds-can-lula-close-the-gap/"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:00 PM ET",
+      "body": "- **Brazil runoff: Polymarket prices Bolsonaro at 84.8% against Lula's 16%** — Polymarket prices Flavio Bolsonaro at 84.8% to win Brazil's October 25 presidential runoff against incumbent Luiz Inacio Lula da Silva at 16%, after Bolsonaro led the first round 47.1% to 45.1%. The contract has drawn more than $174 million in volume. ([Ghanamma](https://www.ghanamma.com/2026/10/11/brazil-election-polymarket-odds-can-lula-close-the-gap/))",
+      "image_url": null,
+      "published": "2026-10-12T23:00:00-04:00",
+      "source": "2026-10-12_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-12_2254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2254-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nMNF live: Bills 27, Rams 20 in the final minutes — the Super Bowl favorite spot is about to change hands\nBuffalo, priced at ~39% on the pre-game moneyline, is closing in on the upset at SoFi with the Rams driving at the Buffalo 18 late in the fourth. If the Bills hold, the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://sportradar.com/?q=6797609231267368446\n\nSenate board keeps softening for Democrats in the 10:46 PM ET snapshot\nDemocrats to control the Senate sit at 62% (-3 pts on the week), Michigan's Dem leg at 68% (-5), the Alaska Dem leg at 74% (-2); the House-for-Democrats contract holds…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttp://defirate.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>MNF live: Bills 27, Rams 20 in the final minutes — the Super Bowl favorite spot is about to change hands<br/>Buffalo, priced at ~39% on the pre-game moneyline, is closing in on the upset at SoFi with the Rams driving at the Buffalo 18 late in the fourth. If the Bills hold, the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://sportradar.com/?q=6797609231267368446<br/><br/>Senate board keeps softening for Democrats in the 10:46 PM ET snapshot<br/>Democrats to control the Senate sit at 62% (-3 pts on the week), Michigan&#x27;s Dem leg at 68% (-5), the Alaska Dem leg at 74% (-2); the House-for-Democrats contract holds…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>http://defirate.com/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-12T22:54:00-04:00",
+      "date_modified": "2026-10-12T22:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://sportradar.com/?q=6797609231267368446",
+      "links": [
+        "https://sportradar.com/?q=6797609231267368446",
+        "http://defirate.com/"
+      ],
+      "timestamp": "Oct 12, 2026 · 10:54 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nMNF live: Bills 27, Rams 20 in the final minutes — the Super Bowl favorite spot is about to change hands\nBuffalo, priced at ~39% on the pre-game moneyline, is closing in on the upset at SoFi with the Rams driving at the Buffalo 18 late in the fourth. If the Bills hold, the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://sportradar.com/?q=6797609231267368446\n\nSenate board keeps softening for Democrats in the 10:46 PM ET snapshot\nDemocrats to control the Senate sit at 62% (-3 pts on the week), Michigan's Dem leg at 68% (-5), the Alaska Dem leg at 74% (-2); the House-for-Democrats contract holds…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttp://defirate.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T22:54:00-04:00",
+      "source": "2026-10-12_2254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-12_2239-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2239-edt",
@@ -4690,179 +4842,6 @@
       "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_0454-edt.jpg",
       "published": "2026-10-11T04:54:00-04:00",
       "source": "2026-10-11_0454-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_0354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_0354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi wins Third Circuit appeal vs. New Jersey\n2-1 panel: New Jersey cannot block Kalshi's sports event contracts — CFTC-exclusive jurisdiction as swaps, a precedent-setting decision.\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-wins-key-legal-battle-against-new-jersey-regulators-61130\n\nConnecticut sues Kalshi as circuit split deepens\nCT sues to shut down Kalshi's sports contracts; the 6th and 9th Circuits sided with states while the 3rd sided with Kalshi. NJ asked the Supreme Court to take the case.\n#PredictionMarkets #Kalshi #SportsBetting\nhttps://gamblerss.com/connecticut-sues-kalshi-for-offering-unlicensed-sports-wagers-68289\n\nMarkets: Gold $4,195 | Brent $105 | WTI $92.40 | Natgas $3.17 | BTC $82.9K | ETH $2,510 | SOL $110\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi wins Third Circuit appeal vs. New Jersey<br/>2-1 panel: New Jersey cannot block Kalshi&#x27;s sports event contracts — CFTC-exclusive jurisdiction as swaps, a precedent-setting decision.<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://gamblerss.com/kalshi-wins-key-legal-battle-against-new-jersey-regulators-61130<br/><br/>Connecticut sues Kalshi as circuit split deepens<br/>CT sues to shut down Kalshi&#x27;s sports contracts; the 6th and 9th Circuits sided with states while the 3rd sided with Kalshi. NJ asked the Supreme Court to take the case.<br/>#PredictionMarkets #Kalshi #SportsBetting<br/>https://gamblerss.com/connecticut-sues-kalshi-for-offering-unlicensed-sports-wagers-68289<br/><br/>Markets: Gold $4,195 | Brent $105 | WTI $92.40 | Natgas $3.17 | BTC $82.9K | ETH $2,510 | SOL $110<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/intelligence</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-11_0354-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-11T03:54:00-04:00",
-      "date_modified": "2026-10-11T03:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "CFTC",
-        "SportsBetting"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-11_0354-edt.jpg",
-      "external_url": "https://gamblerss.com/kalshi-wins-key-legal-battle-against-new-jersey-regulators-61130",
-      "links": [
-        "https://gamblerss.com/kalshi-wins-key-legal-battle-against-new-jersey-regulators-61130",
-        "https://gamblerss.com/connecticut-sues-kalshi-for-offering-unlicensed-sports-wagers-68289",
-        "https://infiniti.w3ai.io/intelligence"
-      ],
-      "timestamp": "Oct 11, 2026 · 3:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nKalshi wins Third Circuit appeal vs. New Jersey\n2-1 panel: New Jersey cannot block Kalshi's sports event contracts — CFTC-exclusive jurisdiction as swaps, a precedent-setting decision.\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/kalshi-wins-key-legal-battle-against-new-jersey-regulators-61130\n\nConnecticut sues Kalshi as circuit split deepens\nCT sues to shut down Kalshi's sports contracts; the 6th and 9th Circuits sided with states while the 3rd sided with Kalshi. NJ asked the Supreme Court to take the case.\n#PredictionMarkets #Kalshi #SportsBetting\nhttps://gamblerss.com/connecticut-sues-kalshi-for-offering-unlicensed-sports-wagers-68289\n\nMarkets: Gold $4,195 | Brent $105 | WTI $92.40 | Natgas $3.17 | BTC $82.9K | ETH $2,510 | SOL $110\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_0354-edt.jpg",
-      "published": "2026-10-11T03:54:00-04:00",
-      "source": "2026-10-11_0354-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_0254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_0254-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — Tennessee cease-and-desist trio is the latest state move\nNo new headline broke in the last hour; the most recent state action is Tennessee's Sports Wagering Council ordering Kalshi, Polymarket and Crypto.com to stop offering…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845\n\nFederal judge blocks Minnesota's proposed ban\nIn the opposite direction, a federal judge blocked enforcement of Minnesota's prediction-market ban, finding the statute is likely at least partially preempted by the…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705\n\nMarkets: Gold $4,194.65 | Brent $105 | WTI $92.40 | BTC $82,900\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Quiet hour — Tennessee cease-and-desist trio is the latest state move<br/>No new headline broke in the last hour; the most recent state action is Tennessee&#x27;s Sports Wagering Council ordering Kalshi, Polymarket and Crypto.com to stop offering…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845<br/><br/>Federal judge blocks Minnesota&#x27;s proposed ban<br/>In the opposite direction, a federal judge blocked enforcement of Minnesota&#x27;s prediction-market ban, finding the statute is likely at least partially preempted by the…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705<br/><br/>Markets: Gold $4,194.65 | Brent $105 | WTI $92.40 | BTC $82,900<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-11T02:54:00-04:00",
-      "date_modified": "2026-10-11T02:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845",
-      "links": [
-        "https://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845",
-        "https://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705"
-      ],
-      "timestamp": "Oct 11, 2026 · 2:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — Tennessee cease-and-desist trio is the latest state move\nNo new headline broke in the last hour; the most recent state action is Tennessee's Sports Wagering Council ordering Kalshi, Polymarket and Crypto.com to stop offering…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/tennessee-sends-cease-and-desist-orders-to-prediction-markets-trio-53845\n\nFederal judge blocks Minnesota's proposed ban\nIn the opposite direction, a federal judge blocked enforcement of Minnesota's prediction-market ban, finding the statute is likely at least partially preempted by the…\n#PredictionMarkets #Kalshi #CFTC\nhttps://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705\n\nMarkets: Gold $4,194.65 | Brent $105 | WTI $92.40 | BTC $82,900\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-11T02:54:00-04:00",
-      "source": "2026-10-11_0254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-11_0154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_0154-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — midterm insider-trading scrutiny is the latest development\nNo new headline broke in the last hour; the most recent is fresh scrutiny of Kalshi and Polymarket midterm markets, with the Anti-Corruption Data Collective (via CNN)…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\nKalshi $22B raise and NBA talks still lead\nKalshi's $1B raise at a $22B valuation remains the sector's biggest corporate move, while NBA prediction-market talks have advanced to deal terms with Kalshi,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nMarkets: Gold $4,130 | Brent $104 | WTI $92 | BTC $83,064\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Quiet hour — midterm insider-trading scrutiny is the latest development<br/>No new headline broke in the last hour; the most recent is fresh scrutiny of Kalshi and Polymarket midterm markets, with the Anti-Corruption Data Collective (via CNN)…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/<br/><br/>Kalshi $22B raise and NBA talks still lead<br/>Kalshi&#x27;s $1B raise at a $22B valuation remains the sector&#x27;s biggest corporate move, while NBA prediction-market talks have advanced to deal terms with Kalshi,…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom<br/><br/>Markets: Gold $4,130 | Brent $104 | WTI $92 | BTC $83,064<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-11T01:54:00-04:00",
-      "date_modified": "2026-10-11T01:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
-      "links": [
-        "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
-        "https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom"
-      ],
-      "timestamp": "Oct 11, 2026 · 1:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nQuiet hour — midterm insider-trading scrutiny is the latest development\nNo new headline broke in the last hour; the most recent is fresh scrutiny of Kalshi and Polymarket midterm markets, with the Anti-Corruption Data Collective (via CNN)…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\nKalshi $22B raise and NBA talks still lead\nKalshi's $1B raise at a $22B valuation remains the sector's biggest corporate move, while NBA prediction-market talks have advanced to deal terms with Kalshi,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nMarkets: Gold $4,130 | Brent $104 | WTI $92 | BTC $83,064\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-11T01:54:00-04:00",
-      "source": "2026-10-11_0154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-11_0054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_0054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi $22B raise remains the lead story\nKalshi closed $1B led by Coatue at a $22B valuation, double its December $11B round.\n#PredictionMarkets #Kalshi\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nNBA talks advance to deal terms\nThe NBA has circulated a proposal with Kalshi, Polymarket, Novig, Fanatics and Rothera in talks.\n#NBA #PredictionMarkets\nhttps://gamblerss.com/deal-terms-on-the-table-inside-the-nba-s-prediction-market-talks-68716\n\nMidterm sweep odds hold at 61-62% for Democrats\nPolymarket prices a Democratic sweep at 62%; Kalshi is near-identical at 61%.\n#Midterms #Polymarket #Kalshi\nhttps://news.bitcoin.com/featured/polymarket-gives-dems-62-midterm-sweep-odds-clarity-act-in-jeopardy/\n\nMarkets: Gold $4,194 | Brent $104.42 | BTC $83,015 | ETH $2,508\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi $22B raise remains the lead story<br/>Kalshi closed $1B led by Coatue at a $22B valuation, double its December $11B round.<br/>#PredictionMarkets #Kalshi<br/>https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom<br/><br/>NBA talks advance to deal terms<br/>The NBA has circulated a proposal with Kalshi, Polymarket, Novig, Fanatics and Rothera in talks.<br/>#NBA #PredictionMarkets<br/>https://gamblerss.com/deal-terms-on-the-table-inside-the-nba-s-prediction-market-talks-68716<br/><br/>Midterm sweep odds hold at 61-62% for Democrats<br/>Polymarket prices a Democratic sweep at 62%; Kalshi is near-identical at 61%.<br/>#Midterms #Polymarket #Kalshi<br/>https://news.bitcoin.com/featured/polymarket-gives-dems-62-midterm-sweep-odds-clarity-act-in-jeopardy/<br/><br/>Markets: Gold $4,194 | Brent $104.42 | BTC $83,015 | ETH $2,508<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/intelligence</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-11_0054-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-11T00:54:00-04:00",
-      "date_modified": "2026-10-11T00:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "NBA",
-        "Midterms",
-        "Polymarket"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-11_0054-edt.jpg",
-      "external_url": "https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom",
-      "links": [
-        "https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom",
-        "https://gamblerss.com/deal-terms-on-the-table-inside-the-nba-s-prediction-market-talks-68716",
-        "https://news.bitcoin.com/featured/polymarket-gives-dems-62-midterm-sweep-odds-clarity-act-in-jeopardy/",
-        "https://infiniti.w3ai.io/intelligence"
-      ],
-      "timestamp": "Oct 11, 2026 · 12:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nKalshi $22B raise remains the lead story\nKalshi closed $1B led by Coatue at a $22B valuation, double its December $11B round.\n#PredictionMarkets #Kalshi\nhttps://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom\n\nNBA talks advance to deal terms\nThe NBA has circulated a proposal with Kalshi, Polymarket, Novig, Fanatics and Rothera in talks.\n#NBA #PredictionMarkets\nhttps://gamblerss.com/deal-terms-on-the-table-inside-the-nba-s-prediction-market-talks-68716\n\nMidterm sweep odds hold at 61-62% for Democrats\nPolymarket prices a Democratic sweep at 62%; Kalshi is near-identical at 61%.\n#Midterms #Polymarket #Kalshi\nhttps://news.bitcoin.com/featured/polymarket-gives-dems-62-midterm-sweep-odds-clarity-act-in-jeopardy/\n\nMarkets: Gold $4,194 | Brent $104.42 | BTC $83,015 | ETH $2,508\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_0054-edt.jpg",
-      "published": "2026-10-11T00:54:00-04:00",
-      "source": "2026-10-11_0054-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-10_2354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-10_2354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi raised $1B at a $22B valuation\nWSJ reports Coatue-led investors joined the round, doubling Kalshi's valuation in under four months from $11B.\n#Kalshi #PredictionMarkets #Fintech\nhttps://gamblerss.com/kalshi-raises-1-billion-sends-valuation-soaring-to-22-billion-59903\n\nJump Trading takes stakes in Kalshi and Polymarket\nBloomberg reports Jump will receive a fixed equity stake in Kalshi, with its Polymarket stake tied to capacity targets.\n#JumpTrading #Kalshi #Polymarket\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nNBA in talks with Kalshi and Polymarket\nFront Office Sports reports talks ramped up as the CFTC engaged leagues on sports-market integrity rules.\n#NBA #Kalshi #Polymarket\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nMarkets: Gold $4,100 | Brent $104 | BTC $83.5K | ETH down 5%\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi raised $1B at a $22B valuation<br/>WSJ reports Coatue-led investors joined the round, doubling Kalshi&#x27;s valuation in under four months from $11B.<br/>#Kalshi #PredictionMarkets #Fintech<br/>https://gamblerss.com/kalshi-raises-1-billion-sends-valuation-soaring-to-22-billion-59903<br/><br/>Jump Trading takes stakes in Kalshi and Polymarket<br/>Bloomberg reports Jump will receive a fixed equity stake in Kalshi, with its Polymarket stake tied to capacity targets.<br/>#JumpTrading #Kalshi #Polymarket<br/>https://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617<br/><br/>NBA in talks with Kalshi and Polymarket<br/>Front Office Sports reports talks ramped up as the CFTC engaged leagues on sports-market integrity rules.<br/>#NBA #Kalshi #Polymarket<br/>https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665<br/><br/>Markets: Gold $4,100 | Brent $104 | BTC $83.5K | ETH down 5%<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/intelligence</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-10_2354-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-10T23:54:00-04:00",
-      "date_modified": "2026-10-10T23:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "PredictionMarkets",
-        "Fintech",
-        "JumpTrading",
-        "Polymarket",
-        "NBA"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-10_2354-edt.jpg",
-      "external_url": "https://gamblerss.com/kalshi-raises-1-billion-sends-valuation-soaring-to-22-billion-59903",
-      "links": [
-        "https://gamblerss.com/kalshi-raises-1-billion-sends-valuation-soaring-to-22-billion-59903",
-        "https://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617",
-        "https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665",
-        "https://infiniti.w3ai.io/intelligence"
-      ],
-      "timestamp": "Oct 10, 2026 · 11:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nKalshi raised $1B at a $22B valuation\nWSJ reports Coatue-led investors joined the round, doubling Kalshi's valuation in under four months from $11B.\n#Kalshi #PredictionMarkets #Fintech\nhttps://gamblerss.com/kalshi-raises-1-billion-sends-valuation-soaring-to-22-billion-59903\n\nJump Trading takes stakes in Kalshi and Polymarket\nBloomberg reports Jump will receive a fixed equity stake in Kalshi, with its Polymarket stake tied to capacity targets.\n#JumpTrading #Kalshi #Polymarket\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nNBA in talks with Kalshi and Polymarket\nFront Office Sports reports talks ramped up as the CFTC engaged leagues on sports-market integrity rules.\n#NBA #Kalshi #Polymarket\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nMarkets: Gold $4,100 | Brent $104 | BTC $83.5K | ETH down 5%\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-10_2354-edt.jpg",
-      "published": "2026-10-10T23:54:00-04:00",
-      "source": "2026-10-10_2354-edt.md",
       "matches_facebook_post": true
     }
   ]
