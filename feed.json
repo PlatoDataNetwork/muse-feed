@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T23:34:05.568657-04:00",
+  "updated": "2026-10-12T23:48:33.725132-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,131 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-12_2345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2345-edt-0",
+      "title": "Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules",
+      "content_text": "- **Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules** — NFL and NCAA games drove consecutive daily trading records at Kalshi and Polymarket, with combined weekly volume hitting a record $22.2 billion, according to Dune Analytics data cited by Bloomberg Law. The mainstream surge puts prediction markets on a collision course with traditional sportsbooks as regulators and courts weigh whether sports event contracts are gambling or federally regulated derivatives. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
+      "content_html": "<p>- **Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules** — NFL and NCAA games drove consecutive daily trading records at Kalshi and Polymarket, with combined weekly volume hitting a record $22.2 billion, according to Dune Analytics data cited by Bloomberg Law. The mainstream surge puts prediction markets on a collision course with traditional sportsbooks as regulators and courts weigh whether sports event contracts are gambling or federally regulated derivatives. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))</p>",
+      "date_published": "2026-10-12T23:45:00-04:00",
+      "date_modified": "2026-10-12T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules",
+      "links": [
+        "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:45 PM ET",
+      "body": "- **Bloomberg Law: NFL boom drives record $22.2B weekly prediction-market volume, testing sports betting rules** — NFL and NCAA games drove consecutive daily trading records at Kalshi and Polymarket, with combined weekly volume hitting a record $22.2 billion, according to Dune Analytics data cited by Bloomberg Law. The mainstream surge puts prediction markets on a collision course with traditional sportsbooks as regulators and courts weigh whether sports event contracts are gambling or federally regulated derivatives. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
+      "image_url": null,
+      "published": "2026-10-12T23:45:00-04:00",
+      "source": "2026-10-12_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2345-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2345-edt-1",
+      "title": "Chipstars launches prediction market covering crypto, politics, Fed decisions and culture",
+      "content_text": "- **Chipstars launches prediction market covering crypto, politics, Fed decisions and culture** — Casino operator Chipstars has launched its own prediction market, letting users trade yes/no contracts on Bitcoin and Ethereum price targets, political developments, Federal Reserve decisions, company news and culture topics, with prices set by trading activity. The launch adds another entrant to a sector where Kalshi and Polymarket dominate trading volume. ([LCB](https://lcb.org/news/chipstars-introduces-its-prediction-market))",
+      "content_html": "<p>- **Chipstars launches prediction market covering crypto, politics, Fed decisions and culture** — Casino operator Chipstars has launched its own prediction market, letting users trade yes/no contracts on Bitcoin and Ethereum price targets, political developments, Federal Reserve decisions, company news and culture topics, with prices set by trading activity. The launch adds another entrant to a sector where Kalshi and Polymarket dominate trading volume. ([LCB](https://lcb.org/news/chipstars-introduces-its-prediction-market))</p>",
+      "date_published": "2026-10-12T23:45:00-04:00",
+      "date_modified": "2026-10-12T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "image": null,
+      "external_url": "https://lcb.org/news/chipstars-introduces-its-prediction-market",
+      "links": [
+        "https://lcb.org/news/chipstars-introduces-its-prediction-market"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:45 PM ET",
+      "body": "- **Chipstars launches prediction market covering crypto, politics, Fed decisions and culture** — Casino operator Chipstars has launched its own prediction market, letting users trade yes/no contracts on Bitcoin and Ethereum price targets, political developments, Federal Reserve decisions, company news and culture topics, with prices set by trading activity. The launch adds another entrant to a sector where Kalshi and Polymarket dominate trading volume. ([LCB](https://lcb.org/news/chipstars-introduces-its-prediction-market))",
+      "image_url": null,
+      "published": "2026-10-12T23:45:00-04:00",
+      "source": "2026-10-12_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2345-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2345-edt-2",
+      "title": "Bitcoin slides below $82K and Polymarket's Oct-13 contracts reprice sharply",
+      "content_text": "- **Bitcoin slides below $82K and Polymarket's Oct-13 contracts reprice sharply** — Bitcoin fell about 2.3% over 24 hours to trade below $82,000, and Polymarket contracts moved with it: the 'Bitcoin above $82,000 on Oct 13' contract dropped from 69.5% to 46% in six hours, while 'Bitcoin reaches $90,000 in October' sits at 24.5%. The contracts resolve on Binance BTC/USDT candles, with the $80,000 Oct-13 threshold still priced at 91.6%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))",
+      "content_html": "<p>- **Bitcoin slides below $82K and Polymarket&#x27;s Oct-13 contracts reprice sharply** — Bitcoin fell about 2.3% over 24 hours to trade below $82,000, and Polymarket contracts moved with it: the &#x27;Bitcoin above $82,000 on Oct 13&#x27; contract dropped from 69.5% to 46% in six hours, while &#x27;Bitcoin reaches $90,000 in October&#x27; sits at 24.5%. The contracts resolve on Binance BTC/USDT candles, with the $80,000 Oct-13 threshold still priced at 91.6%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))</p>",
+      "date_published": "2026-10-12T23:45:00-04:00",
+      "date_modified": "2026-10-12T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc",
+      "links": [
+        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:45 PM ET",
+      "body": "- **Bitcoin slides below $82K and Polymarket's Oct-13 contracts reprice sharply** — Bitcoin fell about 2.3% over 24 hours to trade below $82,000, and Polymarket contracts moved with it: the 'Bitcoin above $82,000 on Oct 13' contract dropped from 69.5% to 46% in six hours, while 'Bitcoin reaches $90,000 in October' sits at 24.5%. The contracts resolve on Binance BTC/USDT candles, with the $80,000 Oct-13 threshold still priced at 91.6%. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-13-0000-utc))",
+      "image_url": null,
+      "published": "2026-10-12T23:45:00-04:00",
+      "source": "2026-10-12_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-12_2339-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2339-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nIndustry goes on a $3M+ lobbying blitz to lock in federal oversight\nKalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M combined on lobbying and political contributions in 2026, per a Gaming America report.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/\n\nJuly volume hit an all-time high of $50.59B — then the World Cup ended\nThe Block data shows Kalshi, Polymarket and Polymarket US combined for a record $50.59B in July (+7.8% vs June), with Kalshi at $37.7B (+14% MoM) and Polymarket US…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Industry goes on a $3M+ lobbying blitz to lock in federal oversight<br/>Kalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M combined on lobbying and political contributions in 2026, per a Gaming America report.…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/<br/><br/>July volume hit an all-time high of $50.59B — then the World Cup ended<br/>The Block data shows Kalshi, Polymarket and Polymarket US combined for a record $50.59B in July (+7.8% vs June), with Kalshi at $37.7B (+14% MoM) and Polymarket US…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-12T23:39:00-04:00",
+      "date_modified": "2026-10-12T23:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/",
+      "links": [
+        "https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/",
+        "https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:39 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nIndustry goes on a $3M+ lobbying blitz to lock in federal oversight\nKalshi, Polymarket and the Coalition for Prediction Markets spent at least $3M combined on lobbying and political contributions in 2026, per a Gaming America report.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/\n\nJuly volume hit an all-time high of $50.59B — then the World Cup ended\nThe Block data shows Kalshi, Polymarket and Polymarket US combined for a record $50.59B in July (+7.8% vs June), with Kalshi at $37.7B (+14% MoM) and Polymarket US…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T23:39:00-04:00",
+      "source": "2026-10-12_2339-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-12_2330-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-0",
@@ -4669,144 +4794,6 @@
       "published": "2026-10-11T19:54:00-04:00",
       "source": "2026-10-11_1954-edt.md",
       "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_1854-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1854-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nCFTC moves to classify event contracts as swaps\nCFTC folds sports, politics and weather contracts into the swap definition under federal jurisdiction, excluding casino gambling.\n#CFTC #PredictionMarkets #Kalshi\nhttps://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/\n\nKalshi and Polymarket both eyeing ~$20B valuations\nWSJ: both in talks near $20B, up from Kalshi $11B and Polymarket $8B+.\n#Kalshi #Polymarket #PredictionMarkets\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nLate window flips: Seahawks lead 49ers 26-21, Broncos-Chargers tied 17-17\nSeattle retook lead after trailing 21-13; Detroit routing Arizona 38-14.\n#NFL #Kalshi #Polymarket\nhttps://sportradar.com/?q=1798477776833878236\n\nMarkets: Gold $4,194 | Brent $105 | BTC $83,025 | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>CFTC moves to classify event contracts as swaps<br/>CFTC folds sports, politics and weather contracts into the swap definition under federal jurisdiction, excluding casino gambling.<br/>#CFTC #PredictionMarkets #Kalshi<br/>https://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/<br/><br/>Kalshi and Polymarket both eyeing ~$20B valuations<br/>WSJ: both in talks near $20B, up from Kalshi $11B and Polymarket $8B+.<br/>#Kalshi #Polymarket #PredictionMarkets<br/>https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100<br/><br/>Late window flips: Seahawks lead 49ers 26-21, Broncos-Chargers tied 17-17<br/>Seattle retook lead after trailing 21-13; Detroit routing Arizona 38-14.<br/>#NFL #Kalshi #Polymarket<br/>https://sportradar.com/?q=1798477776833878236<br/><br/>Markets: Gold $4,194 | Brent $105 | BTC $83,025 | ETH $2,503<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-11_1854-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-11T18:54:00-04:00",
-      "date_modified": "2026-10-11T18:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-11_1854-edt.jpg",
-      "external_url": "https://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/",
-      "links": [
-        "https://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/",
-        "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
-        "https://sportradar.com/?q=1798477776833878236"
-      ],
-      "timestamp": "Oct 11, 2026 · 6:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nCFTC moves to classify event contracts as swaps\nCFTC folds sports, politics and weather contracts into the swap definition under federal jurisdiction, excluding casino gambling.\n#CFTC #PredictionMarkets #Kalshi\nhttps://coincentral.com/cftc-moves-to-classify-prediction-market-contracts-as-swaps-amid-state-pushback/\n\nKalshi and Polymarket both eyeing ~$20B valuations\nWSJ: both in talks near $20B, up from Kalshi $11B and Polymarket $8B+.\n#Kalshi #Polymarket #PredictionMarkets\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nLate window flips: Seahawks lead 49ers 26-21, Broncos-Chargers tied 17-17\nSeattle retook lead after trailing 21-13; Detroit routing Arizona 38-14.\n#NFL #Kalshi #Polymarket\nhttps://sportradar.com/?q=1798477776833878236\n\nMarkets: Gold $4,194 | Brent $105 | BTC $83,025 | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_1854-edt.jpg",
-      "published": "2026-10-11T18:54:00-04:00",
-      "source": "2026-10-11_1854-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_1754-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1754-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nNFC division odds reshuffle: Eagles -15 pts, Vikings take NFC North lead\nEagles fall 15 to 36-38% in NFC East, level with Dallas; Vikings lead NFC North at 37-38%.\n#NFL #PredictionMarkets #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nLate window live: 49ers lead Seahawks 14-13, flipping pregame board\nSan Francisco, a 39-41% underdog pregame, leads Seattle at halftime after a McCaffrey touchdown.\n#NFL #Kalshi #Polymarket\nhttps://defirate.com/prediction-markets/promos/\n\nElection trading tops $2B this year as Kalshi eyes $10B in 2028\nKalshi and Polymarket handled $2B in U.S. election trades in 2026, with institutional hedging growing.\n#Kalshi #Polymarket #Elections\nhttps://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104\n\nMarkets: Gold $4,195 | Brent $105 | BTC $83K | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>NFC division odds reshuffle: Eagles -15 pts, Vikings take NFC North lead<br/>Eagles fall 15 to 36-38% in NFC East, level with Dallas; Vikings lead NFC North at 37-38%.<br/>#NFL #PredictionMarkets #Kalshi<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>Late window live: 49ers lead Seahawks 14-13, flipping pregame board<br/>San Francisco, a 39-41% underdog pregame, leads Seattle at halftime after a McCaffrey touchdown.<br/>#NFL #Kalshi #Polymarket<br/>https://defirate.com/prediction-markets/promos/<br/><br/>Election trading tops $2B this year as Kalshi eyes $10B in 2028<br/>Kalshi and Polymarket handled $2B in U.S. election trades in 2026, with institutional hedging growing.<br/>#Kalshi #Polymarket #Elections<br/>https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104<br/><br/>Markets: Gold $4,195 | Brent $105 | BTC $83K | ETH $2,503<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-11_1754-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-11T17:54:00-04:00",
-      "date_modified": "2026-10-11T17:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "NFL",
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-11_1754-edt.jpg",
-      "external_url": "https://ipredicta.co/insights/nfl-division-winners-2026/",
-      "links": [
-        "https://ipredicta.co/insights/nfl-division-winners-2026/",
-        "https://defirate.com/prediction-markets/promos/",
-        "https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104"
-      ],
-      "timestamp": "Oct 11, 2026 · 5:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nNFC division odds reshuffle: Eagles -15 pts, Vikings take NFC North lead\nEagles fall 15 to 36-38% in NFC East, level with Dallas; Vikings lead NFC North at 37-38%.\n#NFL #PredictionMarkets #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nLate window live: 49ers lead Seahawks 14-13, flipping pregame board\nSan Francisco, a 39-41% underdog pregame, leads Seattle at halftime after a McCaffrey touchdown.\n#NFL #Kalshi #Polymarket\nhttps://defirate.com/prediction-markets/promos/\n\nElection trading tops $2B this year as Kalshi eyes $10B in 2028\nKalshi and Polymarket handled $2B in U.S. election trades in 2026, with institutional hedging growing.\n#Kalshi #Polymarket #Elections\nhttps://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104\n\nMarkets: Gold $4,195 | Brent $105 | BTC $83K | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_1754-edt.jpg",
-      "published": "2026-10-11T17:54:00-04:00",
-      "source": "2026-10-11_1754-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_1654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1654-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nJump Trading to take stakes in Kalshi and Polymarket\nBloomberg reports the prop house will take equity in both platforms for market-making, tightening spreads.\n#Kalshi #Polymarket\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nEarly window settles: Patriots rout Raiders, Packers rout Bears\nNew England won 45-17 behind five Maye touchdowns; Green Bay flipped the board in a 31-7 win at Lambeau.\n#NFL #PredictionMarkets\nhttps://www.reuters.com/sports/nfl/patriots-rout-raiders-drake-maye-5-total-tds-leads-attack--flm-2026-10-11/\n\nPolymarket sues Massachusetts over state crackdown\nPolymarket argues the CFTC, not states, has exclusive authority over event contracts.\n#Polymarket #CFTC\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\nMarkets: Gold $4,194 | Brent $104 | BTC $83,700 | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Jump Trading to take stakes in Kalshi and Polymarket<br/>Bloomberg reports the prop house will take equity in both platforms for market-making, tightening spreads.<br/>#Kalshi #Polymarket<br/>https://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617<br/><br/>Early window settles: Patriots rout Raiders, Packers rout Bears<br/>New England won 45-17 behind five Maye touchdowns; Green Bay flipped the board in a 31-7 win at Lambeau.<br/>#NFL #PredictionMarkets<br/>https://www.reuters.com/sports/nfl/patriots-rout-raiders-drake-maye-5-total-tds-leads-attack--flm-2026-10-11/<br/><br/>Polymarket sues Massachusetts over state crackdown<br/>Polymarket argues the CFTC, not states, has exclusive authority over event contracts.<br/>#Polymarket #CFTC<br/>https://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665<br/><br/>Markets: Gold $4,194 | Brent $104 | BTC $83,700 | ETH $2,503<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-11_1654-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-11T16:54:00-04:00",
-      "date_modified": "2026-10-11T16:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL",
-        "PredictionMarkets",
-        "CFTC"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-11_1654-edt.jpg",
-      "external_url": "https://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617",
-      "links": [
-        "https://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617",
-        "https://www.reuters.com/sports/nfl/patriots-rout-raiders-drake-maye-5-total-tds-leads-attack--flm-2026-10-11/",
-        "https://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665"
-      ],
-      "timestamp": "Oct 11, 2026 · 4:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nJump Trading to take stakes in Kalshi and Polymarket\nBloomberg reports the prop house will take equity in both platforms for market-making, tightening spreads.\n#Kalshi #Polymarket\nhttps://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617\n\nEarly window settles: Patriots rout Raiders, Packers rout Bears\nNew England won 45-17 behind five Maye touchdowns; Green Bay flipped the board in a 31-7 win at Lambeau.\n#NFL #PredictionMarkets\nhttps://www.reuters.com/sports/nfl/patriots-rout-raiders-drake-maye-5-total-tds-leads-attack--flm-2026-10-11/\n\nPolymarket sues Massachusetts over state crackdown\nPolymarket argues the CFTC, not states, has exclusive authority over event contracts.\n#Polymarket #CFTC\nhttps://gamblerss.com/polymarket-sues-massachusetts-over-prediction-market-crackdown-56665\n\nMarkets: Gold $4,194 | Brent $104 | BTC $83,700 | ETH $2,503\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_1654-edt.jpg",
-      "published": "2026-10-11T16:54:00-04:00",
-      "source": "2026-10-11_1654-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_1554-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1554-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nMidterm \"knowable markets\" face insider-trading scrutiny\nA CNN-reported analysis by the Anti-Corruption Data Collective flags Kalshi and Polymarket contracts on hyper-specific, advance-knowable events — candidate withdrawals,…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\n69.2% of Polymarket retail accounts are losing money\nGalaxy Research analysis cited alongside the Q3 volume record finds 69.2% of 2.9M human retail accounts on Polymarket finished below break-even, with $338.9M in…\n#PredictionMarkets #Polymarket\nhttps://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc\n\nMarkets: Gold $4,205 | Brent $104.42 | WTI $104.42 | BTC $83,027\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Midterm &quot;knowable markets&quot; face insider-trading scrutiny<br/>A CNN-reported analysis by the Anti-Corruption Data Collective flags Kalshi and Polymarket contracts on hyper-specific, advance-knowable events — candidate withdrawals,…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/<br/><br/>69.2% of Polymarket retail accounts are losing money<br/>Galaxy Research analysis cited alongside the Q3 volume record finds 69.2% of 2.9M human retail accounts on Polymarket finished below break-even, with $338.9M in…<br/>#PredictionMarkets #Polymarket<br/>https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc<br/><br/>Markets: Gold $4,205 | Brent $104.42 | WTI $104.42 | BTC $83,027<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-11T15:54:00-04:00",
-      "date_modified": "2026-10-11T15:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
-      "links": [
-        "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
-        "https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc"
-      ],
-      "timestamp": "Oct 11, 2026 · 3:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nMidterm \"knowable markets\" face insider-trading scrutiny\nA CNN-reported analysis by the Anti-Corruption Data Collective flags Kalshi and Polymarket contracts on hyper-specific, advance-knowable events — candidate withdrawals,…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\n69.2% of Polymarket retail accounts are losing money\nGalaxy Research analysis cited alongside the Q3 volume record finds 69.2% of 2.9M human retail accounts on Polymarket finished below break-even, with $338.9M in…\n#PredictionMarkets #Polymarket\nhttps://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc\n\nMarkets: Gold $4,205 | Brent $104.42 | WTI $104.42 | BTC $83,027\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-11T15:54:00-04:00",
-      "source": "2026-10-11_1554-edt.md",
-      "matches_facebook_post": false
     }
   ]
 }
