@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T00:33:09.934971-04:00",
+  "updated": "2026-10-13T00:48:07.162071-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,99 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0045-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0045-edt-0",
+      "title": "Kalshi ends volume rewards program on October 13",
+      "content_text": "- **Kalshi ends volume rewards program on October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program, effective no earlier than October 13, 2026, far ahead of its original October 2027 end date. The program paid eligible traders a share of fixed per-market rewards based on qualifying volume to boost liquidity; market makers, affiliates, and certain customers were excluded, and no replacement program was announced. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))",
+      "content_html": "<p>- **Kalshi ends volume rewards program on October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program, effective no earlier than October 13, 2026, far ahead of its original October 2027 end date. The program paid eligible traders a share of fixed per-market rewards based on qualifying volume to boost liquidity; market makers, affiliates, and certain customers were excluded, and no replacement program was announced. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))</p>",
+      "date_published": "2026-10-13T00:45:00-04:00",
+      "date_modified": "2026-10-13T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://crypto-economy.com/kalshi-ends-volume-rewards-program/",
+      "links": [
+        "https://crypto-economy.com/kalshi-ends-volume-rewards-program/"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:45 AM ET",
+      "body": "- **Kalshi ends volume rewards program on October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program, effective no earlier than October 13, 2026, far ahead of its original October 2027 end date. The program paid eligible traders a share of fixed per-market rewards based on qualifying volume to boost liquidity; market makers, affiliates, and certain customers were excluded, and no replacement program was announced. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))",
+      "image_url": null,
+      "published": "2026-10-13T00:45:00-04:00",
+      "source": "2026-10-13_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0045-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0045-edt-1",
+      "title": "Polymarket tests Protocol V2 ahead of November 2 cutover for new markets",
+      "content_text": "- **Polymarket tests Protocol V2 ahead of November 2 cutover for new markets** — Polymarket is running production canary markets on a rebuilt smart-contract system through October 30, with a tentative switch to Protocol V2 for all newly created markets on November 2. The upgrade replaces the 2019 Gnosis-based framework with a single ERC-1155 positions contract, pUSD as collateral, and a modular oracle setup, backed by a $5 million bug bounty. ([The Block](https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804))",
+      "content_html": "<p>- **Polymarket tests Protocol V2 ahead of November 2 cutover for new markets** — Polymarket is running production canary markets on a rebuilt smart-contract system through October 30, with a tentative switch to Protocol V2 for all newly created markets on November 2. The upgrade replaces the 2019 Gnosis-based framework with a single ERC-1155 positions contract, pUSD as collateral, and a modular oracle setup, backed by a $5 million bug bounty. ([The Block](https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804))</p>",
+      "date_published": "2026-10-13T00:45:00-04:00",
+      "date_modified": "2026-10-13T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
+      "links": [
+        "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:45 AM ET",
+      "body": "- **Polymarket tests Protocol V2 ahead of November 2 cutover for new markets** — Polymarket is running production canary markets on a rebuilt smart-contract system through October 30, with a tentative switch to Protocol V2 for all newly created markets on November 2. The upgrade replaces the 2019 Gnosis-based framework with a single ERC-1155 positions contract, pUSD as collateral, and a modular oracle setup, backed by a $5 million bug bounty. ([The Block](https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804))",
+      "image_url": null,
+      "published": "2026-10-13T00:45:00-04:00",
+      "source": "2026-10-13_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0039-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0039-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nNevada draws Polymarket into the prediction-market legal fight for the first time\nThe Nevada Gaming Control Board has sued Blockratize Inc., Polymarket's corporate entity, seeking a court order barring the company from offering \"unlicensed wagering\"…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nCommodities & crypto stats\nBTC ~$82,249, consolidating below short-term averages with support at $81,800–$82,000 ahead of Wednesday's CPI; ETH ~$2,455 (short-term averages weakened, support…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Nevada draws Polymarket into the prediction-market legal fight for the first time<br/>The Nevada Gaming Control Board has sued Blockratize Inc., Polymarket&#x27;s corporate entity, seeking a court order barring the company from offering &quot;unlicensed wagering&quot;…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416<br/><br/>Commodities &amp; crypto stats<br/>BTC ~$82,249, consolidating below short-term averages with support at $81,800–$82,000 ahead of Wednesday&#x27;s CPI; ETH ~$2,455 (short-term averages weakened, support…<br/>#PredictionMarkets #Polymarket #Senate #Bitcoin<br/>https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T00:39:00-04:00",
+      "date_modified": "2026-10-13T00:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416",
+      "links": [
+        "https://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416",
+        "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:39 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nNevada draws Polymarket into the prediction-market legal fight for the first time\nThe Nevada Gaming Control Board has sued Blockratize Inc., Polymarket's corporate entity, seeking a court order barring the company from offering \"unlicensed wagering\"…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/polymarket-drawn-into-nevada-s-prediction-market-showdown-54416\n\nCommodities & crypto stats\nBTC ~$82,249, consolidating below short-term averages with support at $81,800–$82,000 ahead of Wednesday's CPI; ETH ~$2,455 (short-term averages weakened, support…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-13-october-2026/article71574859.ece\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T00:39:00-04:00",
+      "source": "2026-10-13_0039-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0030-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0030-edt-0",
@@ -4627,117 +4720,6 @@
       "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_1154-edt.jpg",
       "published": "2026-10-12T11:54:00-04:00",
       "source": "2026-10-12_1154-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-12_1054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_1054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nMichigan Senate Dem slips to 68%, down 6 pts in 7 days\nKalshi contract down from 74% — largest 7-day move across tracked markets.\n#Michigan #Senate #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms at 84% on Polymarket\nNo change priced at 84% for Oct. 28, hike at 17%; December hike at 75% ahead of CPI.\n#Fed #Polymarket #PredictionMarkets\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026\n\nJaguars surge clear in AFC South at 72-73%\nJacksonville at 72% Kalshi, 73% Polymarket, up 10 pts, clear of Houston at 16%/14%.\n#NFL #Jaguars #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nMarkets: Gold $4,180 | Brent $107 | BTC $82.9K | ETH $2,533\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Michigan Senate Dem slips to 68%, down 6 pts in 7 days<br/>Kalshi contract down from 74% — largest 7-day move across tracked markets.<br/>#Michigan #Senate #Kalshi<br/>https://defirate.com/?ref=steemhunt<br/><br/>Fed October hold firms at 84% on Polymarket<br/>No change priced at 84% for Oct. 28, hike at 17%; December hike at 75% ahead of CPI.<br/>#Fed #Polymarket #PredictionMarkets<br/>https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026<br/><br/>Jaguars surge clear in AFC South at 72-73%<br/>Jacksonville at 72% Kalshi, 73% Polymarket, up 10 pts, clear of Houston at 16%/14%.<br/>#NFL #Jaguars #Kalshi<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>Markets: Gold $4,180 | Brent $107 | BTC $82.9K | ETH $2,533<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_1054-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-12T10:54:00-04:00",
-      "date_modified": "2026-10-12T10:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Michigan",
-        "Senate",
-        "Kalshi",
-        "Fed",
-        "Polymarket",
-        "PredictionMarkets",
-        "NFL",
-        "Jaguars"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_1054-edt.jpg",
-      "external_url": "https://defirate.com/?ref=steemhunt",
-      "links": [
-        "https://defirate.com/?ref=steemhunt",
-        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026",
-        "https://ipredicta.co/insights/nfl-division-winners-2026/"
-      ],
-      "timestamp": "Oct 12, 2026 · 10:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nMichigan Senate Dem slips to 68%, down 6 pts in 7 days\nKalshi contract down from 74% — largest 7-day move across tracked markets.\n#Michigan #Senate #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms at 84% on Polymarket\nNo change priced at 84% for Oct. 28, hike at 17%; December hike at 75% ahead of CPI.\n#Fed #Polymarket #PredictionMarkets\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-decision-cpi-bitcoin-90000-october-12-2026\n\nJaguars surge clear in AFC South at 72-73%\nJacksonville at 72% Kalshi, 73% Polymarket, up 10 pts, clear of Houston at 16%/14%.\n#NFL #Jaguars #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nMarkets: Gold $4,180 | Brent $107 | BTC $82.9K | ETH $2,533\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_1054-edt.jpg",
-      "published": "2026-10-12T10:54:00-04:00",
-      "source": "2026-10-12_1054-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-12_0954-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_0954-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nCFTC moves to lock event contracts in as swaps ahead of a Supreme Court fight\nCFTC proposes defining event contracts as swaps under its exclusive jurisdiction, with 30-day comment periods amid a circuit split.\n#CFTC #PredictionMarkets #Kalshi\nhttps://completeigaming.com/cftc-swaps-include-sports-contracts-excludes-casino-style-gambling-products-including-wagers-placed-on-sportsbooks/\n\nCowboys move ahead of Eagles in the NFC East\nDallas 42% Kalshi, 41% Polymarket, ahead of Philadelphia 37%/35%; Giants up 7 pts to 19%.\n#NFL #NFCEast #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nBoard volume holds at $5.0B in 24 hours\nDeFi Rate: $5.0B across 9 exchanges; Democrats 62% Senate, 90% House.\n#PredictionMarkets #Elections #Volume\nhttps://defirate.com/?ref=steemhunt\n\nMarkets: Gold $4,200 | Brent $105.60 | BTC $82.6K | ETH $2,550\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>CFTC moves to lock event contracts in as swaps ahead of a Supreme Court fight<br/>CFTC proposes defining event contracts as swaps under its exclusive jurisdiction, with 30-day comment periods amid a circuit split.<br/>#CFTC #PredictionMarkets #Kalshi<br/>https://completeigaming.com/cftc-swaps-include-sports-contracts-excludes-casino-style-gambling-products-including-wagers-placed-on-sportsbooks/<br/><br/>Cowboys move ahead of Eagles in the NFC East<br/>Dallas 42% Kalshi, 41% Polymarket, ahead of Philadelphia 37%/35%; Giants up 7 pts to 19%.<br/>#NFL #NFCEast #Kalshi<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>Board volume holds at $5.0B in 24 hours<br/>DeFi Rate: $5.0B across 9 exchanges; Democrats 62% Senate, 90% House.<br/>#PredictionMarkets #Elections #Volume<br/>https://defirate.com/?ref=steemhunt<br/><br/>Markets: Gold $4,200 | Brent $105.60 | BTC $82.6K | ETH $2,550<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_0954-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-12T09:54:00-04:00",
-      "date_modified": "2026-10-12T09:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "PredictionMarkets",
-        "Kalshi",
-        "NFL",
-        "NFCEast",
-        "Elections",
-        "Volume"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_0954-edt.jpg",
-      "external_url": "https://completeigaming.com/cftc-swaps-include-sports-contracts-excludes-casino-style-gambling-products-including-wagers-placed-on-sportsbooks/",
-      "links": [
-        "https://completeigaming.com/cftc-swaps-include-sports-contracts-excludes-casino-style-gambling-products-including-wagers-placed-on-sportsbooks/",
-        "https://ipredicta.co/insights/nfl-division-winners-2026/",
-        "https://defirate.com/?ref=steemhunt"
-      ],
-      "timestamp": "Oct 12, 2026 · 9:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nCFTC moves to lock event contracts in as swaps ahead of a Supreme Court fight\nCFTC proposes defining event contracts as swaps under its exclusive jurisdiction, with 30-day comment periods amid a circuit split.\n#CFTC #PredictionMarkets #Kalshi\nhttps://completeigaming.com/cftc-swaps-include-sports-contracts-excludes-casino-style-gambling-products-including-wagers-placed-on-sportsbooks/\n\nCowboys move ahead of Eagles in the NFC East\nDallas 42% Kalshi, 41% Polymarket, ahead of Philadelphia 37%/35%; Giants up 7 pts to 19%.\n#NFL #NFCEast #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nBoard volume holds at $5.0B in 24 hours\nDeFi Rate: $5.0B across 9 exchanges; Democrats 62% Senate, 90% House.\n#PredictionMarkets #Elections #Volume\nhttps://defirate.com/?ref=steemhunt\n\nMarkets: Gold $4,200 | Brent $105.60 | BTC $82.6K | ETH $2,550\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_0954-edt.jpg",
-      "published": "2026-10-12T09:54:00-04:00",
-      "source": "2026-10-12_0954-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-12_0854-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_0854-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nMidterm \"knowable markets\" face insider-trading scrutiny\nAnalysis flags Kalshi and Polymarket contracts on withdrawals and endorsements as vulnerable, with $20M+ volume.\n#Elections #PredictionMarkets #Kalshi\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\nKalshi and Polymarket both reportedly eyeing $20B valuations\nWSJ says both are in early funding talks near $20B, up from Kalshi $11B and Polymarket $8B+.\n#Kalshi #Polymarket #Funding\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nBoard volume slips to $5.0B in 24 hours\nDeFi Rate: $5.0B across 9 exchanges; Democrats 62% Senate, 90% House.\n#PredictionMarkets #Elections #Volume\nhttps://defirate.com/?ref=steemhunt\n\nMarkets: Gold $4,170 | Brent $106 | BTC $83.3K | ETH $2,550\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Midterm &quot;knowable markets&quot; face insider-trading scrutiny<br/>Analysis flags Kalshi and Polymarket contracts on withdrawals and endorsements as vulnerable, with $20M+ volume.<br/>#Elections #PredictionMarkets #Kalshi<br/>https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/<br/><br/>Kalshi and Polymarket both reportedly eyeing $20B valuations<br/>WSJ says both are in early funding talks near $20B, up from Kalshi $11B and Polymarket $8B+.<br/>#Kalshi #Polymarket #Funding<br/>https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100<br/><br/>Board volume slips to $5.0B in 24 hours<br/>DeFi Rate: $5.0B across 9 exchanges; Democrats 62% Senate, 90% House.<br/>#PredictionMarkets #Elections #Volume<br/>https://defirate.com/?ref=steemhunt<br/><br/>Markets: Gold $4,170 | Brent $106 | BTC $83.3K | ETH $2,550<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-12_0854-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-12T08:54:00-04:00",
-      "date_modified": "2026-10-12T08:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Elections",
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Funding",
-        "Volume"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-12_0854-edt.jpg",
-      "external_url": "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
-      "links": [
-        "https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/",
-        "https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100",
-        "https://defirate.com/?ref=steemhunt"
-      ],
-      "timestamp": "Oct 12, 2026 · 8:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nMidterm \"knowable markets\" face insider-trading scrutiny\nAnalysis flags Kalshi and Polymarket contracts on withdrawals and endorsements as vulnerable, with $20M+ volume.\n#Elections #PredictionMarkets #Kalshi\nhttps://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/\n\nKalshi and Polymarket both reportedly eyeing $20B valuations\nWSJ says both are in early funding talks near $20B, up from Kalshi $11B and Polymarket $8B+.\n#Kalshi #Polymarket #Funding\nhttps://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100\n\nBoard volume slips to $5.0B in 24 hours\nDeFi Rate: $5.0B across 9 exchanges; Democrats 62% Senate, 90% House.\n#PredictionMarkets #Elections #Volume\nhttps://defirate.com/?ref=steemhunt\n\nMarkets: Gold $4,170 | Brent $106 | BTC $83.3K | ETH $2,550\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-12_0854-edt.jpg",
-      "published": "2026-10-12T08:54:00-04:00",
-      "source": "2026-10-12_0854-edt.md",
       "matches_facebook_post": true
     }
   ]
