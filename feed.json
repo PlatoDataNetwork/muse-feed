@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T07:34:41.897938-04:00",
+  "updated": "2026-10-13T07:41:01.816751-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-13_0739-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0739-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi launches a never-expiring stock-index contract tied to the 500 largest U.S. companies\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so a product launch leads, in a different category from the last three editions. Kalshi's new…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.nasdaq.com/articles/crypto-market-update-kalshi-launches-never-expiring-stock-contract\n\nElection trading is growing six times faster than football on Kalshi\nCo-founder Tarek Mansour marked two years since Kalshi's first election market by noting election volume has grown 6x faster than football volume this year; Aldrin…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi launches a never-expiring stock-index contract tied to the 500 largest U.S. companies<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so a product launch leads, in a different category from the last three editions. Kalshi&#x27;s new…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://www.nasdaq.com/articles/crypto-market-update-kalshi-launches-never-expiring-stock-contract<br/><br/>Election trading is growing six times faster than football on Kalshi<br/>Co-founder Tarek Mansour marked two years since Kalshi&#x27;s first election market by noting election volume has grown 6x faster than football volume this year; Aldrin…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T07:39:00-04:00",
+      "date_modified": "2026-10-13T07:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.nasdaq.com/articles/crypto-market-update-kalshi-launches-never-expiring-stock-contract",
+      "links": [
+        "https://www.nasdaq.com/articles/crypto-market-update-kalshi-launches-never-expiring-stock-contract",
+        "https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104"
+      ],
+      "timestamp": "Oct 13, 2026 · 7:39 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi launches a never-expiring stock-index contract tied to the 500 largest U.S. companies\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so a product launch leads, in a different category from the last three editions. Kalshi's new…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.nasdaq.com/articles/crypto-market-update-kalshi-launches-never-expiring-stock-contract\n\nElection trading is growing six times faster than football on Kalshi\nCo-founder Tarek Mansour marked two years since Kalshi's first election market by noting election volume has grown 6x faster than football volume this year; Aldrin…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T07:39:00-04:00",
+      "source": "2026-10-13_0739-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-13_0724-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0724-edt",
@@ -4633,37 +4667,6 @@
       ],
       "timestamp": "Oct 13, 2026 · 1:45 AM ET",
       "body": "- **Jump Trading taking small stakes in Kalshi, Polymarket in liquidity deals** — Bloomberg reports the prop trading house will receive equity in both platforms in exchange for providing liquidity, with Kalshi's stake fixed and Polymarket's able to expand on capacity milestones. Market makers like Susquehanna have served the platforms since 2024. ([GambleRss](https://gamblerss.com/jump-trading-taking-small-stakes-in-kalshi-polymarket-56617))",
-      "image_url": null,
-      "published": "2026-10-13T01:45:00-04:00",
-      "source": "2026-10-13_0145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0145-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0145-edt-4",
-      "title": "Baltimore sues Kalshi and Polymarket over consumer protection claims",
-      "content_text": "- **Baltimore sues Kalshi and Polymarket over consumer protection claims** — Baltimore sued both platforms alleging consumer protection violations; Kalshi called it political theater relitigating an appeal before the Fourth Circuit, while Polymarket pointed to CFTC federal jurisdiction. The report notes both firms flagged 140 suspicious transactions this year as potentially insider-linked. ([GambleRss](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))",
-      "content_html": "<p>- **Baltimore sues Kalshi and Polymarket over consumer protection claims** — Baltimore sued both platforms alleging consumer protection violations; Kalshi called it political theater relitigating an appeal before the Fourth Circuit, while Polymarket pointed to CFTC federal jurisdiction. The report notes both firms flagged 140 suspicious transactions this year as potentially insider-linked. ([GambleRss](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))</p>",
-      "date_published": "2026-10-13T01:45:00-04:00",
-      "date_modified": "2026-10-13T01:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639",
-      "links": [
-        "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:45 AM ET",
-      "body": "- **Baltimore sues Kalshi and Polymarket over consumer protection claims** — Baltimore sued both platforms alleging consumer protection violations; Kalshi called it political theater relitigating an appeal before the Fourth Circuit, while Polymarket pointed to CFTC federal jurisdiction. The report notes both firms flagged 140 suspicious transactions this year as potentially insider-linked. ([GambleRss](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))",
       "image_url": null,
       "published": "2026-10-13T01:45:00-04:00",
       "source": "2026-10-13_0145-edt.json",
