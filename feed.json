@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T06:48:39.501109-04:00",
+  "updated": "2026-10-13T07:03:35.137017-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,191 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_0700-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-0",
+      "title": "Coinbase takes states to court over prediction market crackdowns",
+      "content_text": "- **Coinbase takes states to court over prediction market crackdowns** — Coinbase is asking a court to bar states from policing prediction market products it says are CFTC-regulated commodity derivatives. The case centers on its planned entry into prediction markets, after states took or threatened action against other operators. ([GambleRss](https://gamblerss.com/coinbase-takes-states-to-court-over-prediction-market-crackdowns-51980))",
+      "content_html": "<p>- **Coinbase takes states to court over prediction market crackdowns** — Coinbase is asking a court to bar states from policing prediction market products it says are CFTC-regulated commodity derivatives. The case centers on its planned entry into prediction markets, after states took or threatened action against other operators. ([GambleRss](https://gamblerss.com/coinbase-takes-states-to-court-over-prediction-market-crackdowns-51980))</p>",
+      "date_published": "2026-10-13T07:00:00-04:00",
+      "date_modified": "2026-10-13T07:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/coinbase-takes-states-to-court-over-prediction-market-crackdowns-51980",
+      "links": [
+        "https://gamblerss.com/coinbase-takes-states-to-court-over-prediction-market-crackdowns-51980"
+      ],
+      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
+      "body": "- **Coinbase takes states to court over prediction market crackdowns** — Coinbase is asking a court to bar states from policing prediction market products it says are CFTC-regulated commodity derivatives. The case centers on its planned entry into prediction markets, after states took or threatened action against other operators. ([GambleRss](https://gamblerss.com/coinbase-takes-states-to-court-over-prediction-market-crackdowns-51980))",
+      "image_url": null,
+      "published": "2026-10-13T07:00:00-04:00",
+      "source": "2026-10-13_0700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0700-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-1",
+      "title": "Polymarket tests Protocol V2 with pUSD as standard collateral",
+      "content_text": "- **Polymarket tests Protocol V2 with pUSD as standard collateral** — Polymarket is running canary tests of Protocol V2 from October 5 to October 30, using pUSD, a 1 to 1 wrapper for USDC, as collateral and consolidating positions under a single ERC-1155 contract. New markets are targeted to move to V2 from November 2, after review by six independent auditors. ([CoinDesk](https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework))",
+      "content_html": "<p>- **Polymarket tests Protocol V2 with pUSD as standard collateral** — Polymarket is running canary tests of Protocol V2 from October 5 to October 30, using pUSD, a 1 to 1 wrapper for USDC, as collateral and consolidating positions under a single ERC-1155 contract. New markets are targeted to move to V2 from November 2, after review by six independent auditors. ([CoinDesk](https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework))</p>",
+      "date_published": "2026-10-13T07:00:00-04:00",
+      "date_modified": "2026-10-13T07:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework",
+      "links": [
+        "https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework"
+      ],
+      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
+      "body": "- **Polymarket tests Protocol V2 with pUSD as standard collateral** — Polymarket is running canary tests of Protocol V2 from October 5 to October 30, using pUSD, a 1 to 1 wrapper for USDC, as collateral and consolidating positions under a single ERC-1155 contract. New markets are targeted to move to V2 from November 2, after review by six independent auditors. ([CoinDesk](https://coindesk.cc/story/2026/10/pusd-to-become-standard-collateral-as-polymarket-deploys-new-framework))",
+      "image_url": null,
+      "published": "2026-10-13T07:00:00-04:00",
+      "source": "2026-10-13_0700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0700-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-2",
+      "title": "Kalshi traders price 87% chance U.S. gas stays above $4 before November vote",
+      "content_text": "- **Kalshi traders price 87% chance U.S. gas stays above $4 before November vote** — Kalshi pricing assigns an 87% probability that average U.S. gasoline prices stay above $4 per gallon before the November 3 election. The market was reported alongside Brent crude rising above $104 a barrel amid geopolitical tensions. ([Traders Union](https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/))",
+      "content_html": "<p>- **Kalshi traders price 87% chance U.S. gas stays above $4 before November vote** — Kalshi pricing assigns an 87% probability that average U.S. gasoline prices stay above $4 per gallon before the November 3 election. The market was reported alongside Brent crude rising above $104 a barrel amid geopolitical tensions. ([Traders Union](https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/))</p>",
+      "date_published": "2026-10-13T07:00:00-04:00",
+      "date_modified": "2026-10-13T07:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Oil",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/",
+      "links": [
+        "https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/"
+      ],
+      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
+      "body": "- **Kalshi traders price 87% chance U.S. gas stays above $4 before November vote** — Kalshi pricing assigns an 87% probability that average U.S. gasoline prices stay above $4 per gallon before the November 3 election. The market was reported alongside Brent crude rising above $104 a barrel amid geopolitical tensions. ([Traders Union](https://tradersunion.com/news/financial-news/show/3732563-kalshi-bets-high-us-gas-prices/))",
+      "image_url": null,
+      "published": "2026-10-13T07:00:00-04:00",
+      "source": "2026-10-13_0700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0700-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-3",
+      "title": "76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits",
+      "content_text": "- **76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits** — Kalshi favors the Philadelphia 76ers over the New York Knicks to win the Eastern Conference Finals, while the Spurs and Thunder lead Polymarket's NBA Finals market. Kalshi and Polymarket differ at the top of their NBA Finals pricing. ([Sports Illustrated](https://www.si.com/prediction-markets/nba/archive))",
+      "content_html": "<p>- **76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits** — Kalshi favors the Philadelphia 76ers over the New York Knicks to win the Eastern Conference Finals, while the Spurs and Thunder lead Polymarket&#x27;s NBA Finals market. Kalshi and Polymarket differ at the top of their NBA Finals pricing. ([Sports Illustrated](https://www.si.com/prediction-markets/nba/archive))</p>",
+      "date_published": "2026-10-13T07:00:00-04:00",
+      "date_modified": "2026-10-13T07:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.si.com/prediction-markets/nba/archive",
+      "links": [
+        "https://www.si.com/prediction-markets/nba/archive"
+      ],
+      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
+      "body": "- **76ers favored over Knicks in Kalshi Eastern Conference market as NBA pricing splits** — Kalshi favors the Philadelphia 76ers over the New York Knicks to win the Eastern Conference Finals, while the Spurs and Thunder lead Polymarket's NBA Finals market. Kalshi and Polymarket differ at the top of their NBA Finals pricing. ([Sports Illustrated](https://www.si.com/prediction-markets/nba/archive))",
+      "image_url": null,
+      "published": "2026-10-13T07:00:00-04:00",
+      "source": "2026-10-13_0700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_0700-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0700-edt-4",
+      "title": "Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026",
+      "content_text": "- **Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026** — A Polymarket Bitcoin market with more than $22 million traded assigns a 53% probability that Bitcoin dips to $45,000 or lower before December 31, 2026. Kalshi shows roughly a 48% probability that Bitcoin falls below $45,000 before January 1, 2027. ([CCN](https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/))",
+      "content_html": "<p>- **Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026** — A Polymarket Bitcoin market with more than $22 million traded assigns a 53% probability that Bitcoin dips to $45,000 or lower before December 31, 2026. Kalshi shows roughly a 48% probability that Bitcoin falls below $45,000 before January 1, 2027. ([CCN](https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/))</p>",
+      "date_published": "2026-10-13T07:00:00-04:00",
+      "date_modified": "2026-10-13T07:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/",
+      "links": [
+        "https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/"
+      ],
+      "timestamp": "Oct 13, 2026 · 7:00 AM ET",
+      "body": "- **Polymarket and Kalshi price elevated odds of Bitcoin falling to $45,000 in 2026** — A Polymarket Bitcoin market with more than $22 million traded assigns a 53% probability that Bitcoin dips to $45,000 or lower before December 31, 2026. Kalshi shows roughly a 48% probability that Bitcoin falls below $45,000 before January 1, 2027. ([CCN](https://www.ccn.com/news/crypto/bitcoin-crash-45k-polymarket-and-kalshi-price-odds/))",
+      "image_url": null,
+      "published": "2026-10-13T07:00:00-04:00",
+      "source": "2026-10-13_0700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_0654-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0654-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi traders are prioritizing 2028 over the midterms four weeks out\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest political signal leads, in a different category from the last three editions.…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/\n\nBrock Purdy ties Josh Allen at the top of Polymarket's NFL MVP market\nSI's prediction-markets board notes Purdy drawing level with Allen in the MVP race, while Kalshi leans toward Marvin Harrison Jr. being traded this season and trends up…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://www.si.com/prediction-markets/archive\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi traders are prioritizing 2028 over the midterms four weeks out<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest political signal leads, in a different category from the last three editions.…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/<br/><br/>Brock Purdy ties Josh Allen at the top of Polymarket&#x27;s NFL MVP market<br/>SI&#x27;s prediction-markets board notes Purdy drawing level with Allen in the MVP race, while Kalshi leans toward Marvin Harrison Jr. being traded this season and trends up…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://www.si.com/prediction-markets/archive<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T06:54:00-04:00",
+      "date_modified": "2026-10-13T06:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Senate",
+        "Elections",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/",
+      "links": [
+        "https://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/",
+        "https://www.si.com/prediction-markets/archive"
+      ],
+      "timestamp": "Oct 13, 2026 · 6:54 AM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi traders are prioritizing 2028 over the midterms four weeks out\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest political signal leads, in a different category from the last three editions.…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://sccgmanagement.com/sccg-articles/2026/10/07/kalshi-volumes-show-traders-prioritizing-2028-presidential-markets-over-2026-midterms/\n\nBrock Purdy ties Josh Allen at the top of Polymarket's NFL MVP market\nSI's prediction-markets board notes Purdy drawing level with Allen in the MVP race, while Kalshi leans toward Marvin Harrison Jr. being traded this season and trends up…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://www.si.com/prediction-markets/archive\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T06:54:00-04:00",
+      "source": "2026-10-13_0654-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_0645-edt-19",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0645-edt-19",
@@ -807,8 +992,8 @@
       "id": "infiniti-2026-10-13_0639-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0639-edt",
       "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nHurricane Isaias reprices the weather board: Cat 4+ U.S. landfall at 17%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest weather market leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/\n\nNFC West flips: 49ers jump 19 points to about 60% to win the division\nThe Oct. 13 cross-venue reading puts San Francisco at 60% on Kalshi and 59% on Polymarket, up 19 points since Oct. 6, while Seattle fell 12 points to 19%/18% and the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Hurricane Isaias reprices the weather board: Cat 4+ U.S. landfall at 17%<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest weather market leads, in a different category from the last three editions.…<br/>#PredictionMarkets #Polymarket<br/>https://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/<br/><br/>NFC West flips: 49ers jump 19 points to about 60% to win the division<br/>The Oct. 13 cross-venue reading puts San Francisco at 60% on Kalshi and 59% on Polymarket, up 19 points since Oct. 6, while Seattle fell 12 points to 19%/18% and the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Intelligence Hourly Briefing\nHurricane Isaias reprices weather board: Cat 4+ U.S. landfall at 17%\nPolymarket Cat 4+ landfall before 2027 at 17%, up 10 pts as Isaias developed in the Gulf.\n#Hurricane #PredictionMarkets #Polymarket\nhttps://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/\n\nNFC West flips: 49ers jump 19 points to about 60% to win division\nSan Francisco 60% Kalshi / 59% Polymarket, Seattle 19%/18%, Rams 20%/21%; $47,219 traded.\n#NFL #NFCWest #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nOPEC report lands today with WTI in a $90-$93.20 range\nDue today; tighter outlook could test $93.20 WTI, with CPI and Fed speakers ahead.\n#Oil #OPEC #WTI\nhttps://www.capitalstreetfx.com/market-analysis/gold-rebounds-markets-brace-for-us-cpi-10-10-2026/\n\nMarkets: Gold $4,186 | Brent $106 | BTC $82K | ETH $2.5K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Hurricane Isaias reprices weather board: Cat 4+ U.S. landfall at 17%<br/>Polymarket Cat 4+ landfall before 2027 at 17%, up 10 pts as Isaias developed in the Gulf.<br/>#Hurricane #PredictionMarkets #Polymarket<br/>https://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/<br/><br/>NFC West flips: 49ers jump 19 points to about 60% to win division<br/>San Francisco 60% Kalshi / 59% Polymarket, Seattle 19%/18%, Rams 20%/21%; $47,219 traded.<br/>#NFL #NFCWest #Kalshi<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>OPEC report lands today with WTI in a $90-$93.20 range<br/>Due today; tighter outlook could test $93.20 WTI, with CPI and Fed speakers ahead.<br/>#Oil #OPEC #WTI<br/>https://www.capitalstreetfx.com/market-analysis/gold-rebounds-markets-brace-for-us-cpi-10-10-2026/<br/><br/>Markets: Gold $4,186 | Brent $106 | BTC $82K | ETH $2.5K<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0639-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
       "date_published": "2026-10-13T06:39:00-04:00",
       "date_modified": "2026-10-13T06:39:00-04:00",
       "authors": [
@@ -818,22 +1003,28 @@
         }
       ],
       "tags": [
+        "Hurricane",
         "PredictionMarkets",
         "Polymarket",
-        "Kalshi"
+        "NFL",
+        "NFCWest",
+        "Kalshi",
+        "Oil",
+        "OPEC"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0639-edt.jpg",
       "external_url": "https://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/",
       "links": [
         "https://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/",
-        "https://ipredicta.co/insights/nfl-division-winners-2026/"
+        "https://ipredicta.co/insights/nfl-division-winners-2026/",
+        "https://www.capitalstreetfx.com/market-analysis/gold-rebounds-markets-brace-for-us-cpi-10-10-2026/"
       ],
       "timestamp": "Oct 13, 2026 · 6:39 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nHurricane Isaias reprices the weather board: Cat 4+ U.S. landfall at 17%\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so the freshest weather market leads, in a different category from the last three editions.…\n#PredictionMarkets #Polymarket\nhttps://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/\n\nNFC West flips: 49ers jump 19 points to about 60% to win the division\nThe Oct. 13 cross-venue reading puts San Francisco at 60% on Kalshi and 59% on Polymarket, up 19 points since Oct. 6, while Seattle fell 12 points to 19%/18% and the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Intelligence Hourly Briefing\nHurricane Isaias reprices weather board: Cat 4+ U.S. landfall at 17%\nPolymarket Cat 4+ landfall before 2027 at 17%, up 10 pts as Isaias developed in the Gulf.\n#Hurricane #PredictionMarkets #Polymarket\nhttps://predictionauthority.com/news/hurricane-isaias-category-2-landfall-gulf-coast-kalshi-prediction-markets-october-2026/\n\nNFC West flips: 49ers jump 19 points to about 60% to win division\nSan Francisco 60% Kalshi / 59% Polymarket, Seattle 19%/18%, Rams 20%/21%; $47,219 traded.\n#NFL #NFCWest #Kalshi\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nOPEC report lands today with WTI in a $90-$93.20 range\nDue today; tighter outlook could test $93.20 WTI, with CPI and Fed speakers ahead.\n#Oil #OPEC #WTI\nhttps://www.capitalstreetfx.com/market-analysis/gold-rebounds-markets-brace-for-us-cpi-10-10-2026/\n\nMarkets: Gold $4,186 | Brent $106 | BTC $82K | ETH $2.5K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0639-edt.jpg",
       "published": "2026-10-13T06:39:00-04:00",
       "source": "2026-10-13_0639-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-13_0630-edt-0",
@@ -4475,190 +4666,6 @@
       "image_url": null,
       "published": "2026-10-13T01:15:04-04:00",
       "source": "2026-10-13_0115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0115-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0115-edt-1",
-      "title": "Ex-CFTC chair Gensler argues federal law does not preempt state gambling rules on prediction markets",
-      "content_text": "- **Ex-CFTC chair Gensler argues federal law does not preempt state gambling rules on prediction markets** — Former CFTC Chair Gary Gensler filed an amicus brief arguing the Commodity Exchange Act's exclusive-jurisdiction grant does not immunize prediction-market contracts from state gambling laws, joining a wave of filings urging the Supreme Court to take up the fight over whether sports event contracts are derivatives. ([CoinDesk](https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto))",
-      "content_html": "<p>- **Ex-CFTC chair Gensler argues federal law does not preempt state gambling rules on prediction markets** — Former CFTC Chair Gary Gensler filed an amicus brief arguing the Commodity Exchange Act&#x27;s exclusive-jurisdiction grant does not immunize prediction-market contracts from state gambling laws, joining a wave of filings urging the Supreme Court to take up the fight over whether sports event contracts are derivatives. ([CoinDesk](https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto))</p>",
-      "date_published": "2026-10-13T01:15:04-04:00",
-      "date_modified": "2026-10-13T01:15:04-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "SCOTUS"
-      ],
-      "image": null,
-      "external_url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-      "links": [
-        "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:15 AM ET",
-      "body": "- **Ex-CFTC chair Gensler argues federal law does not preempt state gambling rules on prediction markets** — Former CFTC Chair Gary Gensler filed an amicus brief arguing the Commodity Exchange Act's exclusive-jurisdiction grant does not immunize prediction-market contracts from state gambling laws, joining a wave of filings urging the Supreme Court to take up the fight over whether sports event contracts are derivatives. ([CoinDesk](https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto))",
-      "image_url": null,
-      "published": "2026-10-13T01:15:04-04:00",
-      "source": "2026-10-13_0115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0115-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0115-edt-2",
-      "title": "Pew data: prediction-market monthly volume grew from under $5B to about $24B in seven months",
-      "content_text": "- **Pew data: prediction-market monthly volume grew from under $5B to about $24B in seven months** — A CoinLaw statistics roundup cites a May 2026 Pew Research analysis putting combined Kalshi-Polymarket monthly volume at under $5 billion in September 2025 and about $24 billion by April 2026. It notes sports carried roughly 87% of Kalshi's trailing-year volume and recaps fee schedules and the federal-state jurisdiction fight. ([CoinLaw](https://coinlaw.io/prediction-market-statistics/))",
-      "content_html": "<p>- **Pew data: prediction-market monthly volume grew from under $5B to about $24B in seven months** — A CoinLaw statistics roundup cites a May 2026 Pew Research analysis putting combined Kalshi-Polymarket monthly volume at under $5 billion in September 2025 and about $24 billion by April 2026. It notes sports carried roughly 87% of Kalshi&#x27;s trailing-year volume and recaps fee schedules and the federal-state jurisdiction fight. ([CoinLaw](https://coinlaw.io/prediction-market-statistics/))</p>",
-      "date_published": "2026-10-13T01:15:04-04:00",
-      "date_modified": "2026-10-13T01:15:04-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://coinlaw.io/prediction-market-statistics/",
-      "links": [
-        "https://coinlaw.io/prediction-market-statistics/"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:15 AM ET",
-      "body": "- **Pew data: prediction-market monthly volume grew from under $5B to about $24B in seven months** — A CoinLaw statistics roundup cites a May 2026 Pew Research analysis putting combined Kalshi-Polymarket monthly volume at under $5 billion in September 2025 and about $24 billion by April 2026. It notes sports carried roughly 87% of Kalshi's trailing-year volume and recaps fee schedules and the federal-state jurisdiction fight. ([CoinLaw](https://coinlaw.io/prediction-market-statistics/))",
-      "image_url": null,
-      "published": "2026-10-13T01:15:04-04:00",
-      "source": "2026-10-13_0115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0109-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nBaltimore sues Kalshi and Polymarket over consumer-protection claims\nThe city alleges both platforms broke consumer-protection laws, a first city-level enforcement action in the prediction-market wars. Kalshi dismissed it as \"political…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639\n\nPlatforms flagged ~140 suspicious insider-trading transactions in 2026 — CFTC slow to act\nKalshi flagged ~50 potential insider cases and Polymarket ~90, spanning US and overseas markets, but the pared-down CFTC has been slow to respond — its Chicago bureau…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Baltimore sues Kalshi and Polymarket over consumer-protection claims<br/>The city alleges both platforms broke consumer-protection laws, a first city-level enforcement action in the prediction-market wars. Kalshi dismissed it as &quot;political…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639<br/><br/>Platforms flagged ~140 suspicious insider-trading transactions in 2026 — CFTC slow to act<br/>Kalshi flagged ~50 potential insider cases and Polymarket ~90, spanning US and overseas markets, but the pared-down CFTC has been slow to respond — its Chicago bureau…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T01:09:00-04:00",
-      "date_modified": "2026-10-13T01:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639",
-      "links": [
-        "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639",
-        "https://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:09 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nBaltimore sues Kalshi and Polymarket over consumer-protection claims\nThe city alleges both platforms broke consumer-protection laws, a first city-level enforcement action in the prediction-market wars. Kalshi dismissed it as \"political…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639\n\nPlatforms flagged ~140 suspicious insider-trading transactions in 2026 — CFTC slow to act\nKalshi flagged ~50 potential insider cases and Polymarket ~90, spanning US and overseas markets, but the pared-down CFTC has been slow to respond — its Chicago bureau…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/kalshi-and-polymarket-flag-dozens-of-potential-insider-cases-67593\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T01:09:00-04:00",
-      "source": "2026-10-13_0109-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-0",
-      "title": "Arizona AG files criminal charges against Kalshi over election betting markets",
-      "content_text": "- **Arizona AG files criminal charges against Kalshi over election betting markets** — Arizona Attorney General Kris Mayes has filed criminal charges against Kalshi, including four counts of election wagering tied to the 2028 presidential race and 2026 Arizona races. The state contends offering election contracts to Arizona residents is illegal gambling under state law regardless of Kalshi's CFTC-registered status. ([GambleRss](https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720))",
-      "content_html": "<p>- **Arizona AG files criminal charges against Kalshi over election betting markets** — Arizona Attorney General Kris Mayes has filed criminal charges against Kalshi, including four counts of election wagering tied to the 2028 presidential race and 2026 Arizona races. The state contends offering election contracts to Arizona residents is illegal gambling under state law regardless of Kalshi&#x27;s CFTC-registered status. ([GambleRss](https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720))</p>",
-      "date_published": "2026-10-13T01:00:00-04:00",
-      "date_modified": "2026-10-13T01:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720",
-      "links": [
-        "https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
-      "body": "- **Arizona AG files criminal charges against Kalshi over election betting markets** — Arizona Attorney General Kris Mayes has filed criminal charges against Kalshi, including four counts of election wagering tied to the 2028 presidential race and 2026 Arizona races. The state contends offering election contracts to Arizona residents is illegal gambling under state law regardless of Kalshi's CFTC-registered status. ([GambleRss](https://gamblerss.com/kalshi-hit-with-criminal-charges-in-arizona-state-says-company-is-operating-illegal-betting-59720))",
-      "image_url": null,
-      "published": "2026-10-13T01:00:00-04:00",
-      "source": "2026-10-13_0100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0100-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-1",
-      "title": "New bill introduced to ban prediction markets on political and sporting events",
-      "content_text": "- **New bill introduced to ban prediction markets on political and sporting events** — Legislation has been introduced that would ban prediction market contracts on elections, legislation, acts of war and other government actions, as well as sporting events. Supporters frame it as restoring public trust and curbing corruption; it follows more than 20 state-filed suits against platforms like Polymarket and Kalshi. ([GambleRss](https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404))",
-      "content_html": "<p>- **New bill introduced to ban prediction markets on political and sporting events** — Legislation has been introduced that would ban prediction market contracts on elections, legislation, acts of war and other government actions, as well as sporting events. Supporters frame it as restoring public trust and curbing corruption; it follows more than 20 state-filed suits against platforms like Polymarket and Kalshi. ([GambleRss](https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404))</p>",
-      "date_published": "2026-10-13T01:00:00-04:00",
-      "date_modified": "2026-10-13T01:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404",
-      "links": [
-        "https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
-      "body": "- **New bill introduced to ban prediction markets on political and sporting events** — Legislation has been introduced that would ban prediction market contracts on elections, legislation, acts of war and other government actions, as well as sporting events. Supporters frame it as restoring public trust and curbing corruption; it follows more than 20 state-filed suits against platforms like Polymarket and Kalshi. ([GambleRss](https://gamblerss.com/bill-introduced-to-ban-prediction-markets-on-political-and-sporting-events-60404))",
-      "image_url": null,
-      "published": "2026-10-13T01:00:00-04:00",
-      "source": "2026-10-13_0100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0100-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0100-edt-2",
-      "title": "Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information",
-      "content_text": "- **Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information** — Representative Ritchie Torres is drafting the Public Integrity in Financial Prediction Markets Act of 2026, which would bar members of Congress, appointees and executive branch staff from trading event contracts using information from their duties. The push follows a flagged Polymarket trade where a new account turned about $32,000 into over $400,000 betting on Nicolas Maduro leaving office. ([GambleRss](https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082))",
-      "content_html": "<p>- **Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information** — Representative Ritchie Torres is drafting the Public Integrity in Financial Prediction Markets Act of 2026, which would bar members of Congress, appointees and executive branch staff from trading event contracts using information from their duties. The push follows a flagged Polymarket trade where a new account turned about $32,000 into over $400,000 betting on Nicolas Maduro leaving office. ([GambleRss](https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082))</p>",
-      "date_published": "2026-10-13T01:00:00-04:00",
-      "date_modified": "2026-10-13T01:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Congress"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082",
-      "links": [
-        "https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:00 AM ET",
-      "body": "- **Rep. Ritchie Torres drafting bill to bar federal workers from trading prediction markets on inside information** — Representative Ritchie Torres is drafting the Public Integrity in Financial Prediction Markets Act of 2026, which would bar members of Congress, appointees and executive branch staff from trading event contracts using information from their duties. The push follows a flagged Polymarket trade where a new account turned about $32,000 into over $400,000 betting on Nicolas Maduro leaving office. ([GambleRss](https://gamblerss.com/lawmaker-wants-to-curb-insider-trading-in-prediction-markets-53082))",
-      "image_url": null,
-      "published": "2026-10-13T01:00:00-04:00",
-      "source": "2026-10-13_0100-edt.json",
       "matches_facebook_post": false
     }
   ]
