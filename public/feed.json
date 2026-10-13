@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T17:20:59.640797-04:00",
+  "updated": "2026-10-13T17:35:35.545037-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,183 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_1730-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1730-edt-0",
+      "title": "Ohio orders 10 prediction market operators to halt sports contracts in the state",
+      "content_text": "- **Ohio orders 10 prediction market operators to halt sports contracts in the state** — The Ohio Casino Control Commission sent cease-and-desist letters dated October 2 to 10 operators and brokers, including Polymarket's US entity, Robinhood Derivatives and Coinbase, giving each 14 days to confirm compliance by October 16. ([RG.org](https://rg.org/news/gambling-industry/ohio-orders-prediction-markets-stop-sports-contracts))",
+      "content_html": "<p>- **Ohio orders 10 prediction market operators to halt sports contracts in the state** — The Ohio Casino Control Commission sent cease-and-desist letters dated October 2 to 10 operators and brokers, including Polymarket&#x27;s US entity, Robinhood Derivatives and Coinbase, giving each 14 days to confirm compliance by October 16. ([RG.org](https://rg.org/news/gambling-industry/ohio-orders-prediction-markets-stop-sports-contracts))</p>",
+      "date_published": "2026-10-13T17:30:00-04:00",
+      "date_modified": "2026-10-13T17:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/gambling-industry/ohio-orders-prediction-markets-stop-sports-contracts",
+      "links": [
+        "https://rg.org/news/gambling-industry/ohio-orders-prediction-markets-stop-sports-contracts"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:30 PM ET",
+      "body": "- **Ohio orders 10 prediction market operators to halt sports contracts in the state** — The Ohio Casino Control Commission sent cease-and-desist letters dated October 2 to 10 operators and brokers, including Polymarket's US entity, Robinhood Derivatives and Coinbase, giving each 14 days to confirm compliance by October 16. ([RG.org](https://rg.org/news/gambling-industry/ohio-orders-prediction-markets-stop-sports-contracts))",
+      "image_url": null,
+      "published": "2026-10-13T17:30:00-04:00",
+      "source": "2026-10-13_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1730-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1730-edt-1",
+      "title": "Coinbase pauses sports prediction markets in Michigan, Robinhood winds down positions",
+      "content_text": "- **Coinbase pauses sports prediction markets in Michigan, Robinhood winds down positions** — Coinbase has paused its sports prediction markets in Michigan after a federal court denied its request for a preliminary injunction in August, and Robinhood agreed to stop offering new sports event contracts in the state and close remaining positions by October 9. ([Action Network](https://www.actionnetwork.com/news/coinbase-michigan-prediction-markets-pause))",
+      "content_html": "<p>- **Coinbase pauses sports prediction markets in Michigan, Robinhood winds down positions** — Coinbase has paused its sports prediction markets in Michigan after a federal court denied its request for a preliminary injunction in August, and Robinhood agreed to stop offering new sports event contracts in the state and close remaining positions by October 9. ([Action Network](https://www.actionnetwork.com/news/coinbase-michigan-prediction-markets-pause))</p>",
+      "date_published": "2026-10-13T17:30:00-04:00",
+      "date_modified": "2026-10-13T17:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/coinbase-michigan-prediction-markets-pause",
+      "links": [
+        "https://www.actionnetwork.com/news/coinbase-michigan-prediction-markets-pause"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:30 PM ET",
+      "body": "- **Coinbase pauses sports prediction markets in Michigan, Robinhood winds down positions** — Coinbase has paused its sports prediction markets in Michigan after a federal court denied its request for a preliminary injunction in August, and Robinhood agreed to stop offering new sports event contracts in the state and close remaining positions by October 9. ([Action Network](https://www.actionnetwork.com/news/coinbase-michigan-prediction-markets-pause))",
+      "image_url": null,
+      "published": "2026-10-13T17:30:00-04:00",
+      "source": "2026-10-13_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1730-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1730-edt-2",
+      "title": "Kalshi introduces protected NFL player markets with early exit payout for injuries",
+      "content_text": "- **Kalshi introduces protected NFL player markets with early exit payout for injuries** — Kalshi's new protected markets are versions of select NFL player markets that settle at the fair price from before kickoff if a player plays in the first half but does not return in the second half or overtime, and they can be used with its combo builder. ([Covers](https://www.covers.com/industry/kalshi-introduces-nfl-player-market-protection-oct-11-2026))",
+      "content_html": "<p>- **Kalshi introduces protected NFL player markets with early exit payout for injuries** — Kalshi&#x27;s new protected markets are versions of select NFL player markets that settle at the fair price from before kickoff if a player plays in the first half but does not return in the second half or overtime, and they can be used with its combo builder. ([Covers](https://www.covers.com/industry/kalshi-introduces-nfl-player-market-protection-oct-11-2026))</p>",
+      "date_published": "2026-10-13T17:30:00-04:00",
+      "date_modified": "2026-10-13T17:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/industry/kalshi-introduces-nfl-player-market-protection-oct-11-2026",
+      "links": [
+        "https://www.covers.com/industry/kalshi-introduces-nfl-player-market-protection-oct-11-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:30 PM ET",
+      "body": "- **Kalshi introduces protected NFL player markets with early exit payout for injuries** — Kalshi's new protected markets are versions of select NFL player markets that settle at the fair price from before kickoff if a player plays in the first half but does not return in the second half or overtime, and they can be used with its combo builder. ([Covers](https://www.covers.com/industry/kalshi-introduces-nfl-player-market-protection-oct-11-2026))",
+      "image_url": null,
+      "published": "2026-10-13T17:30:00-04:00",
+      "source": "2026-10-13_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1730-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1730-edt-3",
+      "title": "Polymarket prices oil hitting 100 dollars by month end at 38 percent",
+      "content_text": "- **Polymarket prices oil hitting 100 dollars by month end at 38 percent** — Polymarket traders assign a 38 percent chance that oil reaches 100 dollars per barrel by the end of the month, a move the market links to geopolitical risks and supply concerns. ([Blockchain.News](https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds))",
+      "content_html": "<p>- **Polymarket prices oil hitting 100 dollars by month end at 38 percent** — Polymarket traders assign a 38 percent chance that oil reaches 100 dollars per barrel by the end of the month, a move the market links to geopolitical risks and supply concerns. ([Blockchain.News](https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds))</p>",
+      "date_published": "2026-10-13T17:30:00-04:00",
+      "date_modified": "2026-10-13T17:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds",
+      "links": [
+        "https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:30 PM ET",
+      "body": "- **Polymarket prices oil hitting 100 dollars by month end at 38 percent** — Polymarket traders assign a 38 percent chance that oil reaches 100 dollars per barrel by the end of the month, a move the market links to geopolitical risks and supply concerns. ([Blockchain.News](https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds))",
+      "image_url": null,
+      "published": "2026-10-13T17:30:00-04:00",
+      "source": "2026-10-13_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1730-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1730-edt-4",
+      "title": "Rams reclaim top spot in Kalshi Super Bowl market at 12 percent, tied with Bills",
+      "content_text": "- **Rams reclaim top spot in Kalshi Super Bowl market at 12 percent, tied with Bills** — Los Angeles moved back to the top of Kalshi's Super Bowl winner market at 12 percent after its comeback win over Philadelphia, level with Buffalo, while Kansas City rose from 8 percent to 9 percent and Cincinnati sits at 4 percent. ([Sports Illustrated](https://www.si.com/prediction-markets/kalshi-nfl-super-bowl-prediction-market-rams-chiefs-rising-bills-bengals-take-hit-01m469b6bad9))",
+      "content_html": "<p>- **Rams reclaim top spot in Kalshi Super Bowl market at 12 percent, tied with Bills** — Los Angeles moved back to the top of Kalshi&#x27;s Super Bowl winner market at 12 percent after its comeback win over Philadelphia, level with Buffalo, while Kansas City rose from 8 percent to 9 percent and Cincinnati sits at 4 percent. ([Sports Illustrated](https://www.si.com/prediction-markets/kalshi-nfl-super-bowl-prediction-market-rams-chiefs-rising-bills-bengals-take-hit-01m469b6bad9))</p>",
+      "date_published": "2026-10-13T17:30:00-04:00",
+      "date_modified": "2026-10-13T17:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.si.com/prediction-markets/kalshi-nfl-super-bowl-prediction-market-rams-chiefs-rising-bills-bengals-take-hit-01m469b6bad9",
+      "links": [
+        "https://www.si.com/prediction-markets/kalshi-nfl-super-bowl-prediction-market-rams-chiefs-rising-bills-bengals-take-hit-01m469b6bad9"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:30 PM ET",
+      "body": "- **Rams reclaim top spot in Kalshi Super Bowl market at 12 percent, tied with Bills** — Los Angeles moved back to the top of Kalshi's Super Bowl winner market at 12 percent after its comeback win over Philadelphia, level with Buffalo, while Kansas City rose from 8 percent to 9 percent and Cincinnati sits at 4 percent. ([Sports Illustrated](https://www.si.com/prediction-markets/kalshi-nfl-super-bowl-prediction-market-rams-chiefs-rising-bills-bengals-take-hit-01m469b6bad9))",
+      "image_url": null,
+      "published": "2026-10-13T17:30:00-04:00",
+      "source": "2026-10-13_1730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_1724-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1724-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nTexas vs. Tennessee: venues agree on the winner, split on spread, total and team totals\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports board leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.rockytopinsider.com/2026/09/25/texas-tennessee-odds-polymarket-kalshi-novig-prediction-markets-disagree/\n\nDancing with the Stars Week 2: Polymarket and Kalshi disagree on the frontrunner\nOn Polymarket's winner board, Harry Shum Jr. and Jenna Johnson lead at 32%, ahead of Ezra Frech at 30% and Maura Higgins at 24%, with Shum priced 16 points above Kalshi…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/who-went-home-on-dwts-in-week-2-kalshi-polymarket-traders-disagree-on-dancing-with-the-stars-frontrunner\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Texas vs. Tennessee: venues agree on the winner, split on spread, total and team totals<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports board leads, in a different category from the last three editions…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.rockytopinsider.com/2026/09/25/texas-tennessee-odds-polymarket-kalshi-novig-prediction-markets-disagree/<br/><br/>Dancing with the Stars Week 2: Polymarket and Kalshi disagree on the frontrunner<br/>On Polymarket&#x27;s winner board, Harry Shum Jr. and Jenna Johnson lead at 32%, ahead of Ezra Frech at 30% and Maura Higgins at 24%, with Shum priced 16 points above Kalshi…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.actionnetwork.com/news/who-went-home-on-dwts-in-week-2-kalshi-polymarket-traders-disagree-on-dancing-with-the-stars-frontrunner<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T17:24:00-04:00",
+      "date_modified": "2026-10-13T17:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.rockytopinsider.com/2026/09/25/texas-tennessee-odds-polymarket-kalshi-novig-prediction-markets-disagree/",
+      "links": [
+        "https://www.rockytopinsider.com/2026/09/25/texas-tennessee-odds-polymarket-kalshi-novig-prediction-markets-disagree/",
+        "https://www.actionnetwork.com/news/who-went-home-on-dwts-in-week-2-kalshi-polymarket-traders-disagree-on-dancing-with-the-stars-frontrunner"
+      ],
+      "timestamp": "Oct 13, 2026 · 5:24 PM ET",
+      "body": "Infiniti Briefing\n\nTexas vs. Tennessee: venues agree on the winner, split on spread, total and team totals\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports board leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.rockytopinsider.com/2026/09/25/texas-tennessee-odds-polymarket-kalshi-novig-prediction-markets-disagree/\n\nDancing with the Stars Week 2: Polymarket and Kalshi disagree on the frontrunner\nOn Polymarket's winner board, Harry Shum Jr. and Jenna Johnson lead at 32%, ahead of Ezra Frech at 30% and Maura Higgins at 24%, with Shum priced 16 points above Kalshi…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/who-went-home-on-dwts-in-week-2-kalshi-polymarket-traders-disagree-on-dancing-with-the-stars-frontrunner\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T17:24:00-04:00",
+      "source": "2026-10-13_1724-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_1715-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1715-edt-0",
@@ -4509,188 +4686,6 @@
       "published": "2026-10-13T11:09:00-04:00",
       "source": "2026-10-13_1109-edt.md",
       "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1100-edt-0",
-      "title": "Rep. Don Davis introduces bill to bar federal candidates from trading contracts on their own elections",
-      "content_text": "- **Rep. Don Davis introduces bill to bar federal candidates from trading contracts on their own elections** — U.S. Rep. Don Davis has introduced the No Betting on Your Own Race Act, which would bar federal candidates, their spouses, dependent children and authorized campaign committees from trading prediction market contracts tied to their own elections, with a minimum penalty of $10,000 per violation. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))",
-      "content_html": "<p>- **Rep. Don Davis introduces bill to bar federal candidates from trading contracts on their own elections** — U.S. Rep. Don Davis has introduced the No Betting on Your Own Race Act, which would bar federal candidates, their spouses, dependent children and authorized campaign committees from trading prediction market contracts tied to their own elections, with a minimum penalty of $10,000 per violation. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))</p>",
-      "date_published": "2026-10-13T11:00:00-04:00",
-      "date_modified": "2026-10-13T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
-      "links": [
-        "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 AM ET",
-      "body": "- **Rep. Don Davis introduces bill to bar federal candidates from trading contracts on their own elections** — U.S. Rep. Don Davis has introduced the No Betting on Your Own Race Act, which would bar federal candidates, their spouses, dependent children and authorized campaign committees from trading prediction market contracts tied to their own elections, with a minimum penalty of $10,000 per violation. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))",
-      "image_url": null,
-      "published": "2026-10-13T11:00:00-04:00",
-      "source": "2026-10-13_1100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1100-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1100-edt-1",
-      "title": "Kalshi and Polymarket combined volume hit a record $50.59 billion in July",
-      "content_text": "- **Kalshi and Polymarket combined volume hit a record $50.59 billion in July** — Kalshi, Polymarket and Polymarket US posted $50.59 billion in combined trading volume in July, a 7.8% increase from June's $46.95 billion, according to The Block data cited by GambleRss. Kalshi led with $37.7 billion, while Polymarket US volume rose 54% to $5 billion as its global platform contracted. ([GambleRss](https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019))",
-      "content_html": "<p>- **Kalshi and Polymarket combined volume hit a record $50.59 billion in July** — Kalshi, Polymarket and Polymarket US posted $50.59 billion in combined trading volume in July, a 7.8% increase from June&#x27;s $46.95 billion, according to The Block data cited by GambleRss. Kalshi led with $37.7 billion, while Polymarket US volume rose 54% to $5 billion as its global platform contracted. ([GambleRss](https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019))</p>",
-      "date_published": "2026-10-13T11:00:00-04:00",
-      "date_modified": "2026-10-13T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019",
-      "links": [
-        "https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 AM ET",
-      "body": "- **Kalshi and Polymarket combined volume hit a record $50.59 billion in July** — Kalshi, Polymarket and Polymarket US posted $50.59 billion in combined trading volume in July, a 7.8% increase from June's $46.95 billion, according to The Block data cited by GambleRss. Kalshi led with $37.7 billion, while Polymarket US volume rose 54% to $5 billion as its global platform contracted. ([GambleRss](https://gamblerss.com/kalshi-and-polymarket-s-combined-volume-reaches-all-time-high-in-july-surpassing-50-billion-67019))",
-      "image_url": null,
-      "published": "2026-10-13T11:00:00-04:00",
-      "source": "2026-10-13_1100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1100-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1100-edt-2",
-      "title": "Kalshi pushes into pop culture as entertainment trading grows",
-      "content_text": "- **Kalshi pushes into pop culture as entertainment trading grows** — Kalshi is expanding into entertainment markets such as Dancing with the Stars as it looks to broaden its audience, according to MarketWatch. Entertainment trading volume on Kalshi grew from $43 million for all of 2024 to $813 million in 2026 as of late September, and almost $24 million was wagered on the winning Love Island couple. ([MarketWatch](https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e))",
-      "content_html": "<p>- **Kalshi pushes into pop culture as entertainment trading grows** — Kalshi is expanding into entertainment markets such as Dancing with the Stars as it looks to broaden its audience, according to MarketWatch. Entertainment trading volume on Kalshi grew from $43 million for all of 2024 to $813 million in 2026 as of late September, and almost $24 million was wagered on the winning Love Island couple. ([MarketWatch](https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e))</p>",
-      "date_published": "2026-10-13T11:00:00-04:00",
-      "date_modified": "2026-10-13T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e",
-      "links": [
-        "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 AM ET",
-      "body": "- **Kalshi pushes into pop culture as entertainment trading grows** — Kalshi is expanding into entertainment markets such as Dancing with the Stars as it looks to broaden its audience, according to MarketWatch. Entertainment trading volume on Kalshi grew from $43 million for all of 2024 to $813 million in 2026 as of late September, and almost $24 million was wagered on the winning Love Island couple. ([MarketWatch](https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e))",
-      "image_url": null,
-      "published": "2026-10-13T11:00:00-04:00",
-      "source": "2026-10-13_1100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1100-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1100-edt-3",
-      "title": "PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC",
-      "content_text": "- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC** — PrizePicks has partnered with Kalshi to offer prediction markets directly in the PrizePicks app across 38 states and Washington DC. Sports event contracts under its Team Picks hub will be available in 15 states, including Texas and Georgia, while a Culture Picks hub will carry markets on music, movies, politics and more. ([GambleRss](https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062))",
-      "content_html": "<p>- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC** — PrizePicks has partnered with Kalshi to offer prediction markets directly in the PrizePicks app across 38 states and Washington DC. Sports event contracts under its Team Picks hub will be available in 15 states, including Texas and Georgia, while a Culture Picks hub will carry markets on music, movies, politics and more. ([GambleRss](https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062))</p>",
-      "date_published": "2026-10-13T11:00:00-04:00",
-      "date_modified": "2026-10-13T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062",
-      "links": [
-        "https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 AM ET",
-      "body": "- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC** — PrizePicks has partnered with Kalshi to offer prediction markets directly in the PrizePicks app across 38 states and Washington DC. Sports event contracts under its Team Picks hub will be available in 15 states, including Texas and Georgia, while a Culture Picks hub will carry markets on music, movies, politics and more. ([GambleRss](https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062))",
-      "image_url": null,
-      "published": "2026-10-13T11:00:00-04:00",
-      "source": "2026-10-13_1100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1100-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1100-edt-4",
-      "title": "Polymarket movers: Machado return odds fall 10 points as Solana and Bitcoin contracts rise",
-      "content_text": "- **Polymarket movers: Machado return odds fall 10 points as Solana and Bitcoin contracts rise** — RG.org's latest Polymarket movers show the contract on Maria Corina Machado entering Venezuela by December 31 falling from 46% to 36%, while Solana above $140 in 2026 rose from 32% to 38% and Bitcoin above $85,000 in October rose from 73% to 78%. The market on the U.S. ending the Iranian blockade by November 30 fell from 33% to 27%. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026))",
-      "content_html": "<p>- **Polymarket movers: Machado return odds fall 10 points as Solana and Bitcoin contracts rise** — RG.org&#x27;s latest Polymarket movers show the contract on Maria Corina Machado entering Venezuela by December 31 falling from 46% to 36%, while Solana above $140 in 2026 rose from 32% to 38% and Bitcoin above $85,000 in October rose from 73% to 78%. The market on the U.S. ending the Iranian blockade by November 30 fell from 33% to 27%. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026))</p>",
-      "date_published": "2026-10-13T11:00:00-04:00",
-      "date_modified": "2026-10-13T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin",
-        "Solana"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 AM ET",
-      "body": "- **Polymarket movers: Machado return odds fall 10 points as Solana and Bitcoin contracts rise** — RG.org's latest Polymarket movers show the contract on Maria Corina Machado entering Venezuela by December 31 falling from 46% to 36%, while Solana above $140 in 2026 rose from 32% to 38% and Bitcoin above $85,000 in October rose from 73% to 78%. The market on the U.S. ending the Iranian blockade by November 30 fell from 33% to 27%. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026))",
-      "image_url": null,
-      "published": "2026-10-13T11:00:00-04:00",
-      "source": "2026-10-13_1100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_1054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1054-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nPolymarket equity markets draw $220M amid regulatory scrutiny\nAllium for Reuters: $220M+ across 31,000 markets; Nvidia, Alphabet, Apple, Tesla lead. SEC and CFTC reviewing.\n#Stocks #PredictionMarkets #Polymarket\nhttps://www.reuters.com/legal/government/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-2026-09-28/\n\nBaseball and soccer fill Polymarket's 24-hour most-traded tail\nGuardians-Rays $1.3M, Levante-Sevilla $1.3M, Atalanta-Venezia $1.1M.\n#MLB #Soccer #Polymarket\nhttps://defirate.com/prediction-markets/volume/polymarket/\n\nLong-shot flow draws wash-trading questions\nPolymarket cites algo mispricing trades; Columbia found suspect patterns fell 60% to 20%.\n#PredictionMarkets #Trading\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nMarkets: Gold $4,200 | Brent $105.6 | BTC $83,200 | ETH $2,455\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Polymarket equity markets draw $220M amid regulatory scrutiny<br/>Allium for Reuters: $220M+ across 31,000 markets; Nvidia, Alphabet, Apple, Tesla lead. SEC and CFTC reviewing.<br/>#Stocks #PredictionMarkets #Polymarket<br/>https://www.reuters.com/legal/government/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-2026-09-28/<br/><br/>Baseball and soccer fill Polymarket&#x27;s 24-hour most-traded tail<br/>Guardians-Rays $1.3M, Levante-Sevilla $1.3M, Atalanta-Venezia $1.1M.<br/>#MLB #Soccer #Polymarket<br/>https://defirate.com/prediction-markets/volume/polymarket/<br/><br/>Long-shot flow draws wash-trading questions<br/>Polymarket cites algo mispricing trades; Columbia found suspect patterns fell 60% to 20%.<br/>#PredictionMarkets #Trading<br/>https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/<br/><br/>Markets: Gold $4,200 | Brent $105.6 | BTC $83,200 | ETH $2,455<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_1054-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-13T10:54:00-04:00",
-      "date_modified": "2026-10-13T10:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Stocks",
-        "PredictionMarkets",
-        "Polymarket",
-        "MLB",
-        "Soccer",
-        "Trading"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_1054-edt.jpg",
-      "external_url": "https://www.reuters.com/legal/government/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-2026-09-28/",
-      "links": [
-        "https://www.reuters.com/legal/government/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-2026-09-28/",
-        "https://defirate.com/prediction-markets/volume/polymarket/",
-        "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nPolymarket equity markets draw $220M amid regulatory scrutiny\nAllium for Reuters: $220M+ across 31,000 markets; Nvidia, Alphabet, Apple, Tesla lead. SEC and CFTC reviewing.\n#Stocks #PredictionMarkets #Polymarket\nhttps://www.reuters.com/legal/government/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-2026-09-28/\n\nBaseball and soccer fill Polymarket's 24-hour most-traded tail\nGuardians-Rays $1.3M, Levante-Sevilla $1.3M, Atalanta-Venezia $1.1M.\n#MLB #Soccer #Polymarket\nhttps://defirate.com/prediction-markets/volume/polymarket/\n\nLong-shot flow draws wash-trading questions\nPolymarket cites algo mispricing trades; Columbia found suspect patterns fell 60% to 20%.\n#PredictionMarkets #Trading\nhttps://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/\n\nMarkets: Gold $4,200 | Brent $105.6 | BTC $83,200 | ETH $2,455\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_1054-edt.jpg",
-      "published": "2026-10-13T10:54:00-04:00",
-      "source": "2026-10-13_1054-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
