@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-12T23:18:08.266958-04:00",
+  "updated": "2026-10-12T23:34:05.568657-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,160 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-12_2330-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-0",
+      "title": "Ohio cracks down on prediction markets as they flood elections with cash",
+      "content_text": "- **Ohio cracks down on prediction markets as they flood elections with cash** — Following a federal appeals court ruling, the Ohio Casino Control Commission on Oct. 2 sent cease-and-desist letters to 10 companies including Polymarket, Robinhood and Coinbase, calling their sports event contracts illegal sports betting operating without state permits. Interim director Andromeda Morrison gave the companies until Oct. 16 to state in writing whether they intend to comply. ([Signal Akron](https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/))",
+      "content_html": "<p>- **Ohio cracks down on prediction markets as they flood elections with cash** — Following a federal appeals court ruling, the Ohio Casino Control Commission on Oct. 2 sent cease-and-desist letters to 10 companies including Polymarket, Robinhood and Coinbase, calling their sports event contracts illegal sports betting operating without state permits. Interim director Andromeda Morrison gave the companies until Oct. 16 to state in writing whether they intend to comply. ([Signal Akron](https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/))</p>",
+      "date_published": "2026-10-12T23:30:00-04:00",
+      "date_modified": "2026-10-12T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/",
+      "links": [
+        "https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:30 PM ET",
+      "body": "- **Ohio cracks down on prediction markets as they flood elections with cash** — Following a federal appeals court ruling, the Ohio Casino Control Commission on Oct. 2 sent cease-and-desist letters to 10 companies including Polymarket, Robinhood and Coinbase, calling their sports event contracts illegal sports betting operating without state permits. Interim director Andromeda Morrison gave the companies until Oct. 16 to state in writing whether they intend to comply. ([Signal Akron](https://signalakron.org/ohio-cracks-down-on-prediction-markets-as-they-flood-elections-with-cash/))",
+      "image_url": null,
+      "published": "2026-10-12T23:30:00-04:00",
+      "source": "2026-10-12_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2330-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-1",
+      "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
+      "content_text": "- **Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections** — Rep. Don Davis (D-N.C.) introduced the No Betting on Your Own Race Act on Oct. 5, barring federal candidates, their spouses, dependent children and campaign committees from trading prediction-market contracts tied to their own elections. Violations would carry a civil penalty of $10,000 or three times the net gain, whichever is higher. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))",
+      "content_html": "<p>- **Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections** — Rep. Don Davis (D-N.C.) introduced the No Betting on Your Own Race Act on Oct. 5, barring federal candidates, their spouses, dependent children and campaign committees from trading prediction-market contracts tied to their own elections. Violations would carry a civil penalty of $10,000 or three times the net gain, whichever is higher. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))</p>",
+      "date_published": "2026-10-12T23:30:00-04:00",
+      "date_modified": "2026-10-12T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
+      "links": [
+        "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:30 PM ET",
+      "body": "- **Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections** — Rep. Don Davis (D-N.C.) introduced the No Betting on Your Own Race Act on Oct. 5, barring federal candidates, their spouses, dependent children and campaign committees from trading prediction-market contracts tied to their own elections. Violations would carry a civil penalty of $10,000 or three times the net gain, whichever is higher. ([The Block](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781))",
+      "image_url": null,
+      "published": "2026-10-12T23:30:00-04:00",
+      "source": "2026-10-12_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2330-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-2",
+      "title": "Polymarket leads US prediction market search demand despite Kalshi's trading dominance",
+      "content_text": "- **Polymarket leads US prediction market search demand despite Kalshi's trading dominance** — Blask data for January to August 2026 shows Polymarket kept the largest share of US branded prediction-market search demand even as Kalshi overtook it in trading volume, recording $37.17B in August against $8.16B for Polymarket and Polymarket US combined. Polymarket's brand-attention share fell from 74.3% to 57.8% while Kalshi's rose from 23.1% to 35.8%. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
+      "content_html": "<p>- **Polymarket leads US prediction market search demand despite Kalshi&#x27;s trading dominance** — Blask data for January to August 2026 shows Polymarket kept the largest share of US branded prediction-market search demand even as Kalshi overtook it in trading volume, recording $37.17B in August against $8.16B for Polymarket and Polymarket US combined. Polymarket&#x27;s brand-attention share fell from 74.3% to 57.8% while Kalshi&#x27;s rose from 23.1% to 35.8%. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))</p>",
+      "date_published": "2026-10-12T23:30:00-04:00",
+      "date_modified": "2026-10-12T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand",
+      "links": [
+        "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:30 PM ET",
+      "body": "- **Polymarket leads US prediction market search demand despite Kalshi's trading dominance** — Blask data for January to August 2026 shows Polymarket kept the largest share of US branded prediction-market search demand even as Kalshi overtook it in trading volume, recording $37.17B in August against $8.16B for Polymarket and Polymarket US combined. Polymarket's brand-attention share fell from 74.3% to 57.8% while Kalshi's rose from 23.1% to 35.8%. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
+      "image_url": null,
+      "published": "2026-10-12T23:30:00-04:00",
+      "source": "2026-10-12_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-12_2330-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2330-edt-3",
+      "title": "Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low",
+      "content_text": "- **Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low** — Contracts asking whether Bitcoin trades above $200,000 by Jan. 1, 2027 are priced at 2% on Kalshi and between under 1% and 2% on Polymarket, a record low, with total volume above $74M. Bitcoin traded near $82,000 to $84,000 in early October, and the $100,000 contract sits at 28%. ([TradingView](https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
+      "content_html": "<p>- **Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low** — Contracts asking whether Bitcoin trades above $200,000 by Jan. 1, 2027 are priced at 2% on Kalshi and between under 1% and 2% on Polymarket, a record low, with total volume above $74M. Bitcoin traded near $82,000 to $84,000 in early October, and the $100,000 contract sits at 28%. ([TradingView](https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))</p>",
+      "date_published": "2026-10-12T23:30:00-04:00",
+      "date_modified": "2026-10-12T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/",
+      "links": [
+        "https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:30 PM ET",
+      "body": "- **Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low** — Contracts asking whether Bitcoin trades above $200,000 by Jan. 1, 2027 are priced at 2% on Kalshi and between under 1% and 2% on Polymarket, a record low, with total volume above $74M. Bitcoin traded near $82,000 to $84,000 in early October, and the $100,000 contract sits at 28%. ([TradingView](https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
+      "image_url": null,
+      "published": "2026-10-12T23:30:00-04:00",
+      "source": "2026-10-12_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-12_2324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-12_2324-edt",
+      "title": "Infiniti Intelligence Hourly Briefing",
+      "content_text": "Infiniti Intelligence Hourly Briefing\n\nRep. Ritchie Torres formally introduced the Public Integrity in Financial Prediction Markets Act of 2026\nBacked by more than 30 House Democrats, including former Speaker Nancy Pelosi, the bill would bar federal elected officials, political appointees, executive-branch…\n#PredictionMarkets #Polymarket\nhttps://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633\n\nEnforcement backdrop is hardening beyond Washington\nLast month, Israeli authorities hit two people with securities charges for trading Polymarket contracts tied to that country's military actions in Iran; and back in…\n#PredictionMarkets #Polymarket\nhttps://www.usatoday.com/story/opinion/columnist/2026/10/10/midterm-elections-polymarket-betting/92150638007/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Rep. Ritchie Torres formally introduced the Public Integrity in Financial Prediction Markets Act of 2026<br/>Backed by more than 30 House Democrats, including former Speaker Nancy Pelosi, the bill would bar federal elected officials, political appointees, executive-branch…<br/>#PredictionMarkets #Polymarket<br/>https://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633<br/><br/>Enforcement backdrop is hardening beyond Washington<br/>Last month, Israeli authorities hit two people with securities charges for trading Polymarket contracts tied to that country&#x27;s military actions in Iran; and back in…<br/>#PredictionMarkets #Polymarket<br/>https://www.usatoday.com/story/opinion/columnist/2026/10/10/midterm-elections-polymarket-betting/92150638007/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-12T23:24:00-04:00",
+      "date_modified": "2026-10-12T23:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi",
+        "DraftKings",
+        "Bitcoin",
+        "Ethereum",
+        "ETF",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633",
+      "links": [
+        "https://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633",
+        "https://www.usatoday.com/story/opinion/columnist/2026/10/10/midterm-elections-polymarket-betting/92150638007/"
+      ],
+      "timestamp": "Oct 12, 2026 · 11:24 PM ET",
+      "body": "Infiniti Intelligence Hourly Briefing\n\nRep. Ritchie Torres formally introduced the Public Integrity in Financial Prediction Markets Act of 2026\nBacked by more than 30 House Democrats, including former Speaker Nancy Pelosi, the bill would bar federal elected officials, political appointees, executive-branch…\n#PredictionMarkets #Polymarket\nhttps://gamblerss.com/prediction-market-scrutiny-intensifies-with-introduction-of-insider-trading-bill-53633\n\nEnforcement backdrop is hardening beyond Washington\nLast month, Israeli authorities hit two people with securities charges for trading Polymarket contracts tied to that country's military actions in Iran; and back in…\n#PredictionMarkets #Polymarket\nhttps://www.usatoday.com/story/opinion/columnist/2026/10/10/midterm-elections-polymarket-betting/92150638007/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-12T23:24:00-04:00",
+      "source": "2026-10-12_2324-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-12_2315-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-12_2315-edt-0",
@@ -4652,177 +4806,6 @@
       "image_url": null,
       "published": "2026-10-11T15:54:00-04:00",
       "source": "2026-10-11_1554-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-11_1454-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1454-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nJaguars beat Eagles 19-17 in London, AFC South odds jump 11 pts\nJacksonville won on a 57-yard field goal at the buzzer to go 4-1, settling Polymarket's $6.3M game market that had tightened to 55¢ Jaguars / 46¢ Eagles in live trade.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://sportradar.com/?q=4893668925644990726\n\nPrediction markets did $188B in Q3, up ~70% quarter-on-quarter\nCryptoRank data cited by CCN puts Q3 2026 volume at $188B, 21 times Q3 2025, with Kalshi the main growth driver and sports about 40% of its quarterly volume. Scale is…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.ccn.com/news/crypto/prediction-markets-188-billion-cftc-rules/\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,040\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Jaguars beat Eagles 19-17 in London, AFC South odds jump 11 pts<br/>Jacksonville won on a 57-yard field goal at the buzzer to go 4-1, settling Polymarket&#x27;s $6.3M game market that had tightened to 55¢ Jaguars / 46¢ Eagles in live trade.…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://sportradar.com/?q=4893668925644990726<br/><br/>Prediction markets did $188B in Q3, up ~70% quarter-on-quarter<br/>CryptoRank data cited by CCN puts Q3 2026 volume at $188B, 21 times Q3 2025, with Kalshi the main growth driver and sports about 40% of its quarterly volume. Scale is…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://www.ccn.com/news/crypto/prediction-markets-188-billion-cftc-rules/<br/><br/>Markets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,040<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-11T14:54:00-04:00",
-      "date_modified": "2026-10-11T14:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://sportradar.com/?q=4893668925644990726",
-      "links": [
-        "https://sportradar.com/?q=4893668925644990726",
-        "https://www.ccn.com/news/crypto/prediction-markets-188-billion-cftc-rules/"
-      ],
-      "timestamp": "Oct 11, 2026 · 2:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nJaguars beat Eagles 19-17 in London, AFC South odds jump 11 pts\nJacksonville won on a 57-yard field goal at the buzzer to go 4-1, settling Polymarket's $6.3M game market that had tightened to 55¢ Jaguars / 46¢ Eagles in live trade.…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://sportradar.com/?q=4893668925644990726\n\nPrediction markets did $188B in Q3, up ~70% quarter-on-quarter\nCryptoRank data cited by CCN puts Q3 2026 volume at $188B, 21 times Q3 2025, with Kalshi the main growth driver and sports about 40% of its quarterly volume. Scale is…\n#PredictionMarkets #Kalshi #CFTC\nhttps://www.ccn.com/news/crypto/prediction-markets-188-billion-cftc-rules/\n\nMarkets: Gold $4,194.15 | Brent $104.42 | WTI $91.67 | BTC $83,040\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-11T14:54:00-04:00",
-      "source": "2026-10-11_1454-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-11_1354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1354-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nNBA in active talks with Kalshi and Polymarket on a prediction-market deal\nFront Office Sports reporting via GambleRss says discussions, informal for over a year, have ramped up in recent months after CFTC Chair Michael Selig signaled…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nNHL deepens ties: Rangers sign with Polymarket after Blackhawks-Kalshi pact\nMadison Square Garden Sports announced a Rangers-only deal with Polymarket, two weeks after Kalshi's Blackhawks deal was the first formal team pact in North American pro…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533\n\nMarkets: Gold $4,194.35 | Brent $104.7 | WTI $91.85 | BTC $82,900\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>NBA in active talks with Kalshi and Polymarket on a prediction-market deal<br/>Front Office Sports reporting via GambleRss says discussions, informal for over a year, have ramped up in recent months after CFTC Chair Michael Selig signaled…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665<br/><br/>NHL deepens ties: Rangers sign with Polymarket after Blackhawks-Kalshi pact<br/>Madison Square Garden Sports announced a Rangers-only deal with Polymarket, two weeks after Kalshi&#x27;s Blackhawks deal was the first formal team pact in North American pro…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533<br/><br/>Markets: Gold $4,194.35 | Brent $104.7 | WTI $91.85 | BTC $82,900<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-11T13:54:00-04:00",
-      "date_modified": "2026-10-11T13:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665",
-      "links": [
-        "https://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665",
-        "https://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533"
-      ],
-      "timestamp": "Oct 11, 2026 · 1:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nNBA in active talks with Kalshi and Polymarket on a prediction-market deal\nFront Office Sports reporting via GambleRss says discussions, informal for over a year, have ramped up in recent months after CFTC Chair Michael Selig signaled…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://gamblerss.com/nba-is-in-talks-with-kalshi-and-polymarket-61665\n\nNHL deepens ties: Rangers sign with Polymarket after Blackhawks-Kalshi pact\nMadison Square Garden Sports announced a Rangers-only deal with Polymarket, two weeks after Kalshi's Blackhawks deal was the first formal team pact in North American pro…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://gamblerss.com/nhl-deepens-ties-to-polymarket-kalshi-as-other-leagues-stay-away-53533\n\nMarkets: Gold $4,194.35 | Brent $104.7 | WTI $91.85 | BTC $82,900\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-11T13:54:00-04:00",
-      "source": "2026-10-11_1354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-11_1254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1254-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nSenate control (Dem) slips 4 pts in a week to ~62%\nDeFi Rate shows Senate down from 66% to 62%, Michigan Senate 72% to 68%, House control ~90%, with midterms 23 days out.\n#Midterms #PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?ref=steemhunt\n\n$5.2B traded in 24 hours across 9 prediction exchanges\nDeFi Rate volume tracker puts 24h volume at $5.2B, up from $5.1B this morning, with contracts counted at $1 each.\n#PredictionMarkets #TradingVolume\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms: hike odds down to ~16%\nKalshi and Polymarket price an Oct. 28 hike at ~15.5-16.5c, hold at ~84-85%; December is likelier at ~73-75%.\n#Fed #Kalshi #Polymarket\nhttps://defirate.com/odds/fed-decision/\n\nMarkets: Gold $4,194 | Brent $104.7 | BTC $83K | ETH $2,501\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Senate control (Dem) slips 4 pts in a week to ~62%<br/>DeFi Rate shows Senate down from 66% to 62%, Michigan Senate 72% to 68%, House control ~90%, with midterms 23 days out.<br/>#Midterms #PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/?ref=steemhunt<br/><br/>$5.2B traded in 24 hours across 9 prediction exchanges<br/>DeFi Rate volume tracker puts 24h volume at $5.2B, up from $5.1B this morning, with contracts counted at $1 each.<br/>#PredictionMarkets #TradingVolume<br/>https://defirate.com/?ref=steemhunt<br/><br/>Fed October hold firms: hike odds down to ~16%<br/>Kalshi and Polymarket price an Oct. 28 hike at ~15.5-16.5c, hold at ~84-85%; December is likelier at ~73-75%.<br/>#Fed #Kalshi #Polymarket<br/>https://defirate.com/odds/fed-decision/<br/><br/>Markets: Gold $4,194 | Brent $104.7 | BTC $83K | ETH $2,501<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-11_1254-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-11T12:54:00-04:00",
-      "date_modified": "2026-10-11T12:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Midterms",
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "TradingVolume",
-        "Fed"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-11_1254-edt.jpg",
-      "external_url": "https://defirate.com/?ref=steemhunt",
-      "links": [
-        "https://defirate.com/?ref=steemhunt",
-        "https://defirate.com/odds/fed-decision/"
-      ],
-      "timestamp": "Oct 11, 2026 · 12:54 PM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nSenate control (Dem) slips 4 pts in a week to ~62%\nDeFi Rate shows Senate down from 66% to 62%, Michigan Senate 72% to 68%, House control ~90%, with midterms 23 days out.\n#Midterms #PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/?ref=steemhunt\n\n$5.2B traded in 24 hours across 9 prediction exchanges\nDeFi Rate volume tracker puts 24h volume at $5.2B, up from $5.1B this morning, with contracts counted at $1 each.\n#PredictionMarkets #TradingVolume\nhttps://defirate.com/?ref=steemhunt\n\nFed October hold firms: hike odds down to ~16%\nKalshi and Polymarket price an Oct. 28 hike at ~15.5-16.5c, hold at ~84-85%; December is likelier at ~73-75%.\n#Fed #Kalshi #Polymarket\nhttps://defirate.com/odds/fed-decision/\n\nMarkets: Gold $4,194 | Brent $104.7 | BTC $83K | ETH $2,501\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_1254-edt.jpg",
-      "published": "2026-10-11T12:54:00-04:00",
-      "source": "2026-10-11_1254-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_1154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1154-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nKalshi crowd flips to 50% on gold closing 2026 above $4,400\nThe year-end gold contract jumped 40% to 50%, the biggest recent move in commodities.\n#Gold #PredictionMarkets #Kalshi\nhttps://www.kitco.com/charts/gold?Symbol=USD\n\nPolymarket trims crypto upside this week\nBTC over $90K slid 76% to 64%; ETH over $3K crashed 67% to 42%; SOL over $140 fell 52% to 35%.\n#Bitcoin #Ethereum #Polymarket\nhttps://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/\n\nNFL Sunday live on prediction markets\nJags-Eagles kicked off in London; the 1 PM ET slate is next with favorites all over the board.\n#NFL #PredictionMarkets\nhttps://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/\n\nMarkets: Gold $4,194 | Brent $105 | BTC $82.9K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>Kalshi crowd flips to 50% on gold closing 2026 above $4,400<br/>The year-end gold contract jumped 40% to 50%, the biggest recent move in commodities.<br/>#Gold #PredictionMarkets #Kalshi<br/>https://www.kitco.com/charts/gold?Symbol=USD<br/><br/>Polymarket trims crypto upside this week<br/>BTC over $90K slid 76% to 64%; ETH over $3K crashed 67% to 42%; SOL over $140 fell 52% to 35%.<br/>#Bitcoin #Ethereum #Polymarket<br/>https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/<br/><br/>NFL Sunday live on prediction markets<br/>Jags-Eagles kicked off in London; the 1 PM ET slate is next with favorites all over the board.<br/>#NFL #PredictionMarkets<br/>https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/<br/><br/>Markets: Gold $4,194 | Brent $105 | BTC $82.9K<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-11_1154-edt.jpg\" alt=\"Infiniti Intelligence briefing image\"/></p>",
-      "date_published": "2026-10-11T11:54:00-04:00",
-      "date_modified": "2026-10-11T11:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Gold",
-        "PredictionMarkets",
-        "Kalshi",
-        "Bitcoin",
-        "Ethereum",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-11_1154-edt.jpg",
-      "external_url": "https://www.kitco.com/charts/gold?Symbol=USD",
-      "links": [
-        "https://www.kitco.com/charts/gold?Symbol=USD",
-        "https://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/",
-        "https://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/"
-      ],
-      "timestamp": "Oct 11, 2026 · 11:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nKalshi crowd flips to 50% on gold closing 2026 above $4,400\nThe year-end gold contract jumped 40% to 50%, the biggest recent move in commodities.\n#Gold #PredictionMarkets #Kalshi\nhttps://www.kitco.com/charts/gold?Symbol=USD\n\nPolymarket trims crypto upside this week\nBTC over $90K slid 76% to 64%; ETH over $3K crashed 67% to 42%; SOL over $140 fell 52% to 35%.\n#Bitcoin #Ethereum #Polymarket\nhttps://www.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/\n\nNFL Sunday live on prediction markets\nJags-Eagles kicked off in London; the 1 PM ET slate is next with favorites all over the board.\n#NFL #PredictionMarkets\nhttps://heavy.com/sports/nfl/new-england-patriots/patriots-raiders-odds-kalshi-polymarket-prediction/\n\nMarkets: Gold $4,194 | Brent $105 | BTC $82.9K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-11_1154-edt.jpg",
-      "published": "2026-10-11T11:54:00-04:00",
-      "source": "2026-10-11_1154-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-11_1054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-11_1054-edt",
-      "title": "Infiniti Intelligence Hourly Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\n\nKalshi scrutinizing long-shot bets that nailed Zacharia as next press secretary\nKalshi is examining a handful of small bets (all under $100, one for $19) that correctly predicted Katie Zacharia as the next White House press secretary when she was…\n#PredictionMarkets #Kalshi\nhttps://kioncentralcoast.com/politics/cnn-us-politics/2026/10/10/kalshi-scrutinizing-longshot-bets-that-correctly-predicted-trumps-next-press-secretary/\n\nCNN's \"knowable markets\" exposé puts midterm insider risk in the spotlight\nCNN's Friday piece (with the nonpartisan Anti-Corruption Data Collective) found super-specific \"knowable\" midterm markets — candidate withdrawals, endorsements, debate…\n#PredictionMarkets #Kalshi #Senate #Midterms\nhttps://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta\n\nMarkets: Gold $4,193.60 | Brent $105 | WTI $92.40 | BTC $83,053\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/><br/>Kalshi scrutinizing long-shot bets that nailed Zacharia as next press secretary<br/>Kalshi is examining a handful of small bets (all under $100, one for $19) that correctly predicted Katie Zacharia as the next White House press secretary when she was…<br/>#PredictionMarkets #Kalshi<br/>https://kioncentralcoast.com/politics/cnn-us-politics/2026/10/10/kalshi-scrutinizing-longshot-bets-that-correctly-predicted-trumps-next-press-secretary/<br/><br/>CNN&#x27;s &quot;knowable markets&quot; exposé puts midterm insider risk in the spotlight<br/>CNN&#x27;s Friday piece (with the nonpartisan Anti-Corruption Data Collective) found super-specific &quot;knowable&quot; midterm markets — candidate withdrawals, endorsements, debate…<br/>#PredictionMarkets #Kalshi #Senate #Midterms<br/>https://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta<br/><br/>Markets: Gold $4,193.60 | Brent $105 | WTI $92.40 | BTC $83,053<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-11T10:54:00-04:00",
-      "date_modified": "2026-10-11T10:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://kioncentralcoast.com/politics/cnn-us-politics/2026/10/10/kalshi-scrutinizing-longshot-bets-that-correctly-predicted-trumps-next-press-secretary/",
-      "links": [
-        "https://kioncentralcoast.com/politics/cnn-us-politics/2026/10/10/kalshi-scrutinizing-longshot-bets-that-correctly-predicted-trumps-next-press-secretary/",
-        "https://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta"
-      ],
-      "timestamp": "Oct 11, 2026 · 10:54 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\n\nKalshi scrutinizing long-shot bets that nailed Zacharia as next press secretary\nKalshi is examining a handful of small bets (all under $100, one for $19) that correctly predicted Katie Zacharia as the next White House press secretary when she was…\n#PredictionMarkets #Kalshi\nhttps://kioncentralcoast.com/politics/cnn-us-politics/2026/10/10/kalshi-scrutinizing-longshot-bets-that-correctly-predicted-trumps-next-press-secretary/\n\nCNN's \"knowable markets\" exposé puts midterm insider risk in the spotlight\nCNN's Friday piece (with the nonpartisan Anti-Corruption Data Collective) found super-specific \"knowable\" midterm markets — candidate withdrawals, endorsements, debate…\n#PredictionMarkets #Kalshi #Senate #Midterms\nhttps://www.cnn.com/2026/10/09/politics/midterm-election-prediction-markets?cid=external-feeds_iluminar_meta\n\nMarkets: Gold $4,193.60 | Brent $105 | WTI $92.40 | BTC $83,053\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-11T10:54:00-04:00",
-      "source": "2026-10-11_1054-edt.md",
       "matches_facebook_post": false
     }
   ]
