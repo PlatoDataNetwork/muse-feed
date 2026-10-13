@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T11:18:23.371231-04:00",
+  "updated": "2026-10-13T11:35:19.524478-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,183 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_1130-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1130-edt-0",
+      "title": "Macquarie boosts 2026 prediction market volume forecast to $190 billion",
+      "content_text": "- **Macquarie boosts 2026 prediction market volume forecast to $190 billion** — Macquarie raised its 2026 U.S. prediction market taker volume forecast to $190 billion from $169 billion, compared with $22 billion in 2025, citing continued platform expansion and new products such as customizable same-game parlays. ([GambleRss](https://gamblerss.com/macquarie-boosts-2026-prediction-market-volume-forecast-to-190b-70596))",
+      "content_html": "<p>- **Macquarie boosts 2026 prediction market volume forecast to $190 billion** — Macquarie raised its 2026 U.S. prediction market taker volume forecast to $190 billion from $169 billion, compared with $22 billion in 2025, citing continued platform expansion and new products such as customizable same-game parlays. ([GambleRss](https://gamblerss.com/macquarie-boosts-2026-prediction-market-volume-forecast-to-190b-70596))</p>",
+      "date_published": "2026-10-13T11:30:00-04:00",
+      "date_modified": "2026-10-13T11:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://gamblerss.com/macquarie-boosts-2026-prediction-market-volume-forecast-to-190b-70596",
+      "links": [
+        "https://gamblerss.com/macquarie-boosts-2026-prediction-market-volume-forecast-to-190b-70596"
+      ],
+      "timestamp": "Oct 13, 2026 · 11:30 AM ET",
+      "body": "- **Macquarie boosts 2026 prediction market volume forecast to $190 billion** — Macquarie raised its 2026 U.S. prediction market taker volume forecast to $190 billion from $169 billion, compared with $22 billion in 2025, citing continued platform expansion and new products such as customizable same-game parlays. ([GambleRss](https://gamblerss.com/macquarie-boosts-2026-prediction-market-volume-forecast-to-190b-70596))",
+      "image_url": null,
+      "published": "2026-10-13T11:30:00-04:00",
+      "source": "2026-10-13_1130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1130-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1130-edt-1",
+      "title": "Parlays push Kalshi past $3.9 billion in a day, twice in a weekend",
+      "content_text": "- **Parlays push Kalshi past $3.9 billion in a day, twice in a weekend** — Kalshi posted record notional volume of $3.91 billion on Saturday, October 10 and $3.96 billion on Sunday, October 11, with parlay-style combos accounting for about 71.6 percent and 69.4 percent of the totals respectively. ([Bitcoin.com](https://news.bitcoin.com/igaming/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/))",
+      "content_html": "<p>- **Parlays push Kalshi past $3.9 billion in a day, twice in a weekend** — Kalshi posted record notional volume of $3.91 billion on Saturday, October 10 and $3.96 billion on Sunday, October 11, with parlay-style combos accounting for about 71.6 percent and 69.4 percent of the totals respectively. ([Bitcoin.com](https://news.bitcoin.com/igaming/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/))</p>",
+      "date_published": "2026-10-13T11:30:00-04:00",
+      "date_modified": "2026-10-13T11:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://news.bitcoin.com/igaming/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/",
+      "links": [
+        "https://news.bitcoin.com/igaming/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/"
+      ],
+      "timestamp": "Oct 13, 2026 · 11:30 AM ET",
+      "body": "- **Parlays push Kalshi past $3.9 billion in a day, twice in a weekend** — Kalshi posted record notional volume of $3.91 billion on Saturday, October 10 and $3.96 billion on Sunday, October 11, with parlay-style combos accounting for about 71.6 percent and 69.4 percent of the totals respectively. ([Bitcoin.com](https://news.bitcoin.com/igaming/parlays-push-kalshi-past-3-9-billion-in-a-day-twice-in-a-weekend/))",
+      "image_url": null,
+      "published": "2026-10-13T11:30:00-04:00",
+      "source": "2026-10-13_1130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1130-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1130-edt-2",
+      "title": "Kalshi brings election odds to CBS News midterm coverage",
+      "content_text": "- **Kalshi brings election odds to CBS News midterm coverage** — CBS News will incorporate real-time Kalshi prices into its midterm election coverage alongside its Battleground Tracker polling, with Kalshi serving as the network's official prediction market sponsor. ([Crypto Briefing](https://cryptobriefing.com/kalshi-election-odds-cbs-news/))",
+      "content_html": "<p>- **Kalshi brings election odds to CBS News midterm coverage** — CBS News will incorporate real-time Kalshi prices into its midterm election coverage alongside its Battleground Tracker polling, with Kalshi serving as the network&#x27;s official prediction market sponsor. ([Crypto Briefing](https://cryptobriefing.com/kalshi-election-odds-cbs-news/))</p>",
+      "date_published": "2026-10-13T11:30:00-04:00",
+      "date_modified": "2026-10-13T11:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://cryptobriefing.com/kalshi-election-odds-cbs-news/",
+      "links": [
+        "https://cryptobriefing.com/kalshi-election-odds-cbs-news/"
+      ],
+      "timestamp": "Oct 13, 2026 · 11:30 AM ET",
+      "body": "- **Kalshi brings election odds to CBS News midterm coverage** — CBS News will incorporate real-time Kalshi prices into its midterm election coverage alongside its Battleground Tracker polling, with Kalshi serving as the network's official prediction market sponsor. ([Crypto Briefing](https://cryptobriefing.com/kalshi-election-odds-cbs-news/))",
+      "image_url": null,
+      "published": "2026-10-13T11:30:00-04:00",
+      "source": "2026-10-13_1130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1130-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1130-edt-3",
+      "title": "EDGE Markets lets AI agents trade prediction markets with capped capital access",
+      "content_text": "- **EDGE Markets lets AI agents trade prediction markets with capped capital access** — EDGE Markets launched programmatic capital allocation and agentic access for its EDGE Pro platform, letting institutions give AI agents and trading algorithms pre-authenticated accounts with set capital limits and permissions for round-the-clock prediction market trading. ([Gambling News](https://www.gamblingnews.com/news/edge-markets-will-implement-ai-agents-for-prediction-markets-trading/))",
+      "content_html": "<p>- **EDGE Markets lets AI agents trade prediction markets with capped capital access** — EDGE Markets launched programmatic capital allocation and agentic access for its EDGE Pro platform, letting institutions give AI agents and trading algorithms pre-authenticated accounts with set capital limits and permissions for round-the-clock prediction market trading. ([Gambling News](https://www.gamblingnews.com/news/edge-markets-will-implement-ai-agents-for-prediction-markets-trading/))</p>",
+      "date_published": "2026-10-13T11:30:00-04:00",
+      "date_modified": "2026-10-13T11:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.gamblingnews.com/news/edge-markets-will-implement-ai-agents-for-prediction-markets-trading/",
+      "links": [
+        "https://www.gamblingnews.com/news/edge-markets-will-implement-ai-agents-for-prediction-markets-trading/"
+      ],
+      "timestamp": "Oct 13, 2026 · 11:30 AM ET",
+      "body": "- **EDGE Markets lets AI agents trade prediction markets with capped capital access** — EDGE Markets launched programmatic capital allocation and agentic access for its EDGE Pro platform, letting institutions give AI agents and trading algorithms pre-authenticated accounts with set capital limits and permissions for round-the-clock prediction market trading. ([Gambling News](https://www.gamblingnews.com/news/edge-markets-will-implement-ai-agents-for-prediction-markets-trading/))",
+      "image_url": null,
+      "published": "2026-10-13T11:30:00-04:00",
+      "source": "2026-10-13_1130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1130-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1130-edt-4",
+      "title": "Tennessee priced at 83% at Arkansas on Polymarket and Kalshi",
+      "content_text": "- **Tennessee priced at 83% at Arkansas on Polymarket and Kalshi** — Polymarket and Kalshi both price Tennessee at 83 percent to win at Arkansas on Saturday, while the 13.5-point spread sits at 50 percent on both venues amid uncertainty over Tennessee's starting quarterback. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/))",
+      "content_html": "<p>- **Tennessee priced at 83% at Arkansas on Polymarket and Kalshi** — Polymarket and Kalshi both price Tennessee at 83 percent to win at Arkansas on Saturday, while the 13.5-point spread sits at 50 percent on both venues amid uncertainty over Tennessee&#x27;s starting quarterback. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/))</p>",
+      "date_published": "2026-10-13T11:30:00-04:00",
+      "date_modified": "2026-10-13T11:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/",
+      "links": [
+        "https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/"
+      ],
+      "timestamp": "Oct 13, 2026 · 11:30 AM ET",
+      "body": "- **Tennessee priced at 83% at Arkansas on Polymarket and Kalshi** — Polymarket and Kalshi both price Tennessee at 83 percent to win at Arkansas on Saturday, while the 13.5-point spread sits at 50 percent on both venues amid uncertainty over Tennessee's starting quarterback. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/08/tennessee-arkansas-odds-polymarket-kalshi-prediction-markets-disagree/))",
+      "image_url": null,
+      "published": "2026-10-13T11:30:00-04:00",
+      "source": "2026-10-13_1130-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_1124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nDraftKings Predictions is live in California, joining Kalshi and Polymarket in the sports-betting holdout\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh product launch leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213\n\nMachado's Venezuela return is Polymarket's biggest political mover: Dec. 31 odds slide 10 points to 36%\nRG.org's movers board, comparing Oct. 10 at 12:24 AM ET with Oct. 11 at 1:02 AM ET, puts the contract on Maria Corina Machado entering Venezuela by Dec. 31 down from 46%…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>DraftKings Predictions is live in California, joining Kalshi and Polymarket in the sports-betting holdout<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh product launch leads, in a different category from the last three editions…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213<br/><br/>Machado&#x27;s Venezuela return is Polymarket&#x27;s biggest political mover: Dec. 31 odds slide 10 points to 36%<br/>RG.org&#x27;s movers board, comparing Oct. 10 at 12:24 AM ET with Oct. 11 at 1:02 AM ET, puts the contract on Maria Corina Machado entering Venezuela by Dec. 31 down from 46%…<br/>#PredictionMarkets #Polymarket<br/>https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T11:24:00-04:00",
+      "date_modified": "2026-10-13T11:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213",
+      "links": [
+        "https://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213",
+        "https://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 11:24 AM ET",
+      "body": "Infiniti Briefing\n\nDraftKings Predictions is live in California, joining Kalshi and Polymarket in the sports-betting holdout\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh product launch leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://gamblerss.com/draftkings-launches-prediction-market-in-california-sports-betting-s-holy-grail-68213\n\nMachado's Venezuela return is Polymarket's biggest political mover: Dec. 31 odds slide 10 points to 36%\nRG.org's movers board, comparing Oct. 10 at 12:24 AM ET with Oct. 11 at 1:02 AM ET, puts the contract on Maria Corina Machado entering Venezuela by Dec. 31 down from 46%…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-machado-venezuela-return-spider-man-avengers-october-11-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T11:24:00-04:00",
+      "source": "2026-10-13_1124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_1115-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1115-edt-0",
@@ -4491,193 +4668,6 @@
       "image_url": null,
       "published": "2026-10-13T05:45:00-04:00",
       "source": "2026-10-13_0545-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0539-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0539-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nGold edges higher and BMI lifts its 2026 copper forecast\nQuiet quarter-hour — no significant new prediction-market headline in the last 15 minutes, so the freshest commodities move leads, in a different category from the last…\n#PredictionMarkets #Gold #Copper\nhttps://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024\n\nMusk tweet-count bracket reprices sharply into the Oct. 13 close\nPolymarket's Oct. 6–13 Elon Musk tweet-count market saw the \"340-359\" Yes odds fall 18 points in an hour, from 77.6% to 59.6%, as the counting window nears its end — a…\n#PredictionMarkets #Polymarket\nhttps://www.tradingview.com/news/binance_news:ac3816295094b:0-catcher-predict-polymarket-elon-musk-tweet-count-market-s-340-359-yes-odds-drop-18/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Gold edges higher and BMI lifts its 2026 copper forecast<br/>Quiet quarter-hour — no significant new prediction-market headline in the last 15 minutes, so the freshest commodities move leads, in a different category from the last…<br/>#PredictionMarkets #Gold #Copper<br/>https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024<br/><br/>Musk tweet-count bracket reprices sharply into the Oct. 13 close<br/>Polymarket&#x27;s Oct. 6–13 Elon Musk tweet-count market saw the &quot;340-359&quot; Yes odds fall 18 points in an hour, from 77.6% to 59.6%, as the counting window nears its end — a…<br/>#PredictionMarkets #Polymarket<br/>https://www.tradingview.com/news/binance_news:ac3816295094b:0-catcher-predict-polymarket-elon-musk-tweet-count-market-s-340-359-yes-odds-drop-18/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T05:39:00-04:00",
-      "date_modified": "2026-10-13T05:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Gold",
-        "Copper",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024",
-      "links": [
-        "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024",
-        "https://www.tradingview.com/news/binance_news:ac3816295094b:0-catcher-predict-polymarket-elon-musk-tweet-count-market-s-340-359-yes-odds-drop-18/"
-      ],
-      "timestamp": "Oct 13, 2026 · 5:39 AM ET",
-      "body": "Infiniti Briefing\n\nGold edges higher and BMI lifts its 2026 copper forecast\nQuiet quarter-hour — no significant new prediction-market headline in the last 15 minutes, so the freshest commodities move leads, in a different category from the last…\n#PredictionMarkets #Gold #Copper\nhttps://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024\n\nMusk tweet-count bracket reprices sharply into the Oct. 13 close\nPolymarket's Oct. 6–13 Elon Musk tweet-count market saw the \"340-359\" Yes odds fall 18 points in an hour, from 77.6% to 59.6%, as the counting window nears its end — a…\n#PredictionMarkets #Polymarket\nhttps://www.tradingview.com/news/binance_news:ac3816295094b:0-catcher-predict-polymarket-elon-musk-tweet-count-market-s-340-359-yes-odds-drop-18/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T05:39:00-04:00",
-      "source": "2026-10-13_0539-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0530-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0530-edt-0",
-      "title": "Kalshi prices Democrats sweep at 61% for 2026 midterms Congress balance of power",
-      "content_text": "- **Kalshi prices Democrats sweep at 61% for 2026 midterms Congress balance of power** — DeFi Rate tracking of the Congress balance of power market shows Kalshi traders favoring a Democrats sweep at 61%, ahead of a Democratic House with a Republican Senate at 30%, with $299K traded on Kalshi in 24 hours. ([DeFi Rate](https://defirate.com/odds/primaries/))",
-      "content_html": "<p>- **Kalshi prices Democrats sweep at 61% for 2026 midterms Congress balance of power** — DeFi Rate tracking of the Congress balance of power market shows Kalshi traders favoring a Democrats sweep at 61%, ahead of a Democratic House with a Republican Senate at 30%, with $299K traded on Kalshi in 24 hours. ([DeFi Rate](https://defirate.com/odds/primaries/))</p>",
-      "date_published": "2026-10-13T05:30:00-04:00",
-      "date_modified": "2026-10-13T05:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Congress"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/primaries/",
-      "links": [
-        "https://defirate.com/odds/primaries/"
-      ],
-      "timestamp": "Oct 13, 2026 · 5:30 AM ET",
-      "body": "- **Kalshi prices Democrats sweep at 61% for 2026 midterms Congress balance of power** — DeFi Rate tracking of the Congress balance of power market shows Kalshi traders favoring a Democrats sweep at 61%, ahead of a Democratic House with a Republican Senate at 30%, with $299K traded on Kalshi in 24 hours. ([DeFi Rate](https://defirate.com/odds/primaries/))",
-      "image_url": null,
-      "published": "2026-10-13T05:30:00-04:00",
-      "source": "2026-10-13_0530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0530-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0530-edt-1",
-      "title": "Kalshi Sports posts NFC division odds, with Philadelphia at 36% in the East and Minnesota at 38% in the North",
-      "content_text": "- **Kalshi Sports posts NFC division odds, with Philadelphia at 36% in the East and Minnesota at 38% in the North** — Kalshi Sports published NFC division winner probabilities showing Philadelphia at 36% and Dallas at 34% in the East, and Minnesota at 38% in the North, alongside updated NFC playoff chances led by San Francisco at 84%. ([Prediction News](https://predictionnews.com/story/kalshi-sports-posts-nfc-division-winner-odds))",
-      "content_html": "<p>- **Kalshi Sports posts NFC division odds, with Philadelphia at 36% in the East and Minnesota at 38% in the North** — Kalshi Sports published NFC division winner probabilities showing Philadelphia at 36% and Dallas at 34% in the East, and Minnesota at 38% in the North, alongside updated NFC playoff chances led by San Francisco at 84%. ([Prediction News](https://predictionnews.com/story/kalshi-sports-posts-nfc-division-winner-odds))</p>",
-      "date_published": "2026-10-13T05:30:00-04:00",
-      "date_modified": "2026-10-13T05:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/kalshi-sports-posts-nfc-division-winner-odds",
-      "links": [
-        "https://predictionnews.com/story/kalshi-sports-posts-nfc-division-winner-odds"
-      ],
-      "timestamp": "Oct 13, 2026 · 5:30 AM ET",
-      "body": "- **Kalshi Sports posts NFC division odds, with Philadelphia at 36% in the East and Minnesota at 38% in the North** — Kalshi Sports published NFC division winner probabilities showing Philadelphia at 36% and Dallas at 34% in the East, and Minnesota at 38% in the North, alongside updated NFC playoff chances led by San Francisco at 84%. ([Prediction News](https://predictionnews.com/story/kalshi-sports-posts-nfc-division-winner-odds))",
-      "image_url": null,
-      "published": "2026-10-13T05:30:00-04:00",
-      "source": "2026-10-13_0530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0530-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0530-edt-2",
-      "title": "Polymarket Bitcoin October price market draws $5.1 million since October 1 launch",
-      "content_text": "- **Polymarket Bitcoin October price market draws $5.1 million since October 1 launch** — Polymarket reports its What price will Bitcoin hit in October market, launched October 1 with 27 possible outcomes, has generated $5.1 million in total trading volume. ([Polymarket](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026))",
-      "content_html": "<p>- **Polymarket Bitcoin October price market draws $5.1 million since October 1 launch** — Polymarket reports its What price will Bitcoin hit in October market, launched October 1 with 27 possible outcomes, has generated $5.1 million in total trading volume. ([Polymarket](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026))</p>",
-      "date_published": "2026-10-13T05:30:00-04:00",
-      "date_modified": "2026-10-13T05:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-      "links": [
-        "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 5:30 AM ET",
-      "body": "- **Polymarket Bitcoin October price market draws $5.1 million since October 1 launch** — Polymarket reports its What price will Bitcoin hit in October market, launched October 1 with 27 possible outcomes, has generated $5.1 million in total trading volume. ([Polymarket](https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026))",
-      "image_url": null,
-      "published": "2026-10-13T05:30:00-04:00",
-      "source": "2026-10-13_0530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0530-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0530-edt-3",
-      "title": "Polymarket perps offer up to 20x leverage across crypto, gold, oil and index markets",
-      "content_text": "- **Polymarket perps offer up to 20x leverage across crypto, gold, oil and index markets** — CoinPaprika reports Polymarket perpetuals cover bitcoin, ether, Solana, gold, silver, WTI and Brent crude, the S and P 500 and the Nasdaq 100, with leverage up to 20x on crypto, oil, metals and indexes and U.S. traders routed to the separate CFTC-regulated Polymarket US exchange. ([CoinPaprika](https://coinpaprika.com/news/polymarket-expands-beyond-prediction-markets/))",
-      "content_html": "<p>- **Polymarket perps offer up to 20x leverage across crypto, gold, oil and index markets** — CoinPaprika reports Polymarket perpetuals cover bitcoin, ether, Solana, gold, silver, WTI and Brent crude, the S and P 500 and the Nasdaq 100, with leverage up to 20x on crypto, oil, metals and indexes and U.S. traders routed to the separate CFTC-regulated Polymarket US exchange. ([CoinPaprika](https://coinpaprika.com/news/polymarket-expands-beyond-prediction-markets/))</p>",
-      "date_published": "2026-10-13T05:30:00-04:00",
-      "date_modified": "2026-10-13T05:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "CFTC",
-        "Bitcoin",
-        "Solana",
-        "Gold",
-        "Silver",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://coinpaprika.com/news/polymarket-expands-beyond-prediction-markets/",
-      "links": [
-        "https://coinpaprika.com/news/polymarket-expands-beyond-prediction-markets/"
-      ],
-      "timestamp": "Oct 13, 2026 · 5:30 AM ET",
-      "body": "- **Polymarket perps offer up to 20x leverage across crypto, gold, oil and index markets** — CoinPaprika reports Polymarket perpetuals cover bitcoin, ether, Solana, gold, silver, WTI and Brent crude, the S and P 500 and the Nasdaq 100, with leverage up to 20x on crypto, oil, metals and indexes and U.S. traders routed to the separate CFTC-regulated Polymarket US exchange. ([CoinPaprika](https://coinpaprika.com/news/polymarket-expands-beyond-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-13T05:30:00-04:00",
-      "source": "2026-10-13_0530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0530-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0530-edt-4",
-      "title": "Kalshi Super Bowl board puts 49ers at 13% and Bills at 12% among title favorites",
-      "content_text": "- **Kalshi Super Bowl board puts 49ers at 13% and Bills at 12% among title favorites** — Vegas Insider's Kalshi championship tracking lists San Francisco at 13% and Buffalo at 12% at the top of the Super Bowl board, followed by the Rams at 11%, Kansas City at 10% and Baltimore at 9%. ([Vegas Insider](https://www.vegasinsider.com/prediction-markets/kalshi/))",
-      "content_html": "<p>- **Kalshi Super Bowl board puts 49ers at 13% and Bills at 12% among title favorites** — Vegas Insider&#x27;s Kalshi championship tracking lists San Francisco at 13% and Buffalo at 12% at the top of the Super Bowl board, followed by the Rams at 11%, Kansas City at 10% and Baltimore at 9%. ([Vegas Insider](https://www.vegasinsider.com/prediction-markets/kalshi/))</p>",
-      "date_published": "2026-10-13T05:30:00-04:00",
-      "date_modified": "2026-10-13T05:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.vegasinsider.com/prediction-markets/kalshi/",
-      "links": [
-        "https://www.vegasinsider.com/prediction-markets/kalshi/"
-      ],
-      "timestamp": "Oct 13, 2026 · 5:30 AM ET",
-      "body": "- **Kalshi Super Bowl board puts 49ers at 13% and Bills at 12% among title favorites** — Vegas Insider's Kalshi championship tracking lists San Francisco at 13% and Buffalo at 12% at the top of the Super Bowl board, followed by the Rams at 11%, Kansas City at 10% and Baltimore at 9%. ([Vegas Insider](https://www.vegasinsider.com/prediction-markets/kalshi/))",
-      "image_url": null,
-      "published": "2026-10-13T05:30:00-04:00",
-      "source": "2026-10-13_0530-edt.json",
       "matches_facebook_post": false
     }
   ]
