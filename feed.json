@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-13T11:48:31.165227-04:00",
+  "updated": "2026-10-13T12:06:29.668794-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,191 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-13_1200-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1200-edt-0",
+      "title": "Kalshi partners with four tribal nations to launch prediction market apps",
+      "content_text": "- **Kalshi partners with four tribal nations to launch prediction market apps** — Kalshi has partnered with three California tribes and one Oklahoma tribe to launch prediction market apps that each tribe will own and brand. Kalshi will provide the trading infrastructure, clearing and custody while the tribal ventures control marketing and customer relationships. ([Sportsbook Review](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))",
+      "content_html": "<p>- **Kalshi partners with four tribal nations to launch prediction market apps** — Kalshi has partnered with three California tribes and one Oklahoma tribe to launch prediction market apps that each tribe will own and brand. Kalshi will provide the trading infrastructure, clearing and custody while the tribal ventures control marketing and customer relationships. ([Sportsbook Review](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))</p>",
+      "date_published": "2026-10-13T12:00:00-04:00",
+      "date_modified": "2026-10-13T12:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/",
+      "links": [
+        "https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:00 PM ET",
+      "body": "- **Kalshi partners with four tribal nations to launch prediction market apps** — Kalshi has partnered with three California tribes and one Oklahoma tribe to launch prediction market apps that each tribe will own and brand. Kalshi will provide the trading infrastructure, clearing and custody while the tribal ventures control marketing and customer relationships. ([Sportsbook Review](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))",
+      "image_url": null,
+      "published": "2026-10-13T12:00:00-04:00",
+      "source": "2026-10-13_1200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1200-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1200-edt-1",
+      "title": "Kalshi held 75.6% of tracked prediction market volume in the 30 days to October 7",
+      "content_text": "- **Kalshi held 75.6% of tracked prediction market volume in the 30 days to October 7** — A Datawallet comparison puts Kalshi at 75.6% of tracked volume in the 30 days to October 7, 2026, ahead of Polymarket US at 11.6% and Polymarket international at 5.3%. Open interest on October 7 was $2.5 billion on Kalshi compared with $339 million on Polymarket international. ([Datawallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))",
+      "content_html": "<p>- **Kalshi held 75.6% of tracked prediction market volume in the 30 days to October 7** — A Datawallet comparison puts Kalshi at 75.6% of tracked volume in the 30 days to October 7, 2026, ahead of Polymarket US at 11.6% and Polymarket international at 5.3%. Open interest on October 7 was $2.5 billion on Kalshi compared with $339 million on Polymarket international. ([Datawallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))</p>",
+      "date_published": "2026-10-13T12:00:00-04:00",
+      "date_modified": "2026-10-13T12:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.datawallet.com/crypto/polymarket-vs-kalshi",
+      "links": [
+        "https://www.datawallet.com/crypto/polymarket-vs-kalshi"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:00 PM ET",
+      "body": "- **Kalshi held 75.6% of tracked prediction market volume in the 30 days to October 7** — A Datawallet comparison puts Kalshi at 75.6% of tracked volume in the 30 days to October 7, 2026, ahead of Polymarket US at 11.6% and Polymarket international at 5.3%. Open interest on October 7 was $2.5 billion on Kalshi compared with $339 million on Polymarket international. ([Datawallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))",
+      "image_url": null,
+      "published": "2026-10-13T12:00:00-04:00",
+      "source": "2026-10-13_1200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1200-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1200-edt-2",
+      "title": "Kalshi traders cut odds for gold finishing 2026 at $4,300 or above to 60%",
+      "content_text": "- **Kalshi traders cut odds for gold finishing 2026 at $4,300 or above to 60%** — Kalshi traders now price gold finishing the year at $4,300 or above at 60%, down from as high as 72% earlier in the month. Odds for $4,500 have fallen to about 31% and for $5,000 to 12% as gold and Bitcoin price forecasts diverge. ([Kalshi News](https://news.kalshi.com/p/bitcoin-vs-gold-odds-which-asset-will-perform-better-in-2026))",
+      "content_html": "<p>- **Kalshi traders cut odds for gold finishing 2026 at $4,300 or above to 60%** — Kalshi traders now price gold finishing the year at $4,300 or above at 60%, down from as high as 72% earlier in the month. Odds for $4,500 have fallen to about 31% and for $5,000 to 12% as gold and Bitcoin price forecasts diverge. ([Kalshi News](https://news.kalshi.com/p/bitcoin-vs-gold-odds-which-asset-will-perform-better-in-2026))</p>",
+      "date_published": "2026-10-13T12:00:00-04:00",
+      "date_modified": "2026-10-13T12:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Bitcoin",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://news.kalshi.com/p/bitcoin-vs-gold-odds-which-asset-will-perform-better-in-2026",
+      "links": [
+        "https://news.kalshi.com/p/bitcoin-vs-gold-odds-which-asset-will-perform-better-in-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:00 PM ET",
+      "body": "- **Kalshi traders cut odds for gold finishing 2026 at $4,300 or above to 60%** — Kalshi traders now price gold finishing the year at $4,300 or above at 60%, down from as high as 72% earlier in the month. Odds for $4,500 have fallen to about 31% and for $5,000 to 12% as gold and Bitcoin price forecasts diverge. ([Kalshi News](https://news.kalshi.com/p/bitcoin-vs-gold-odds-which-asset-will-perform-better-in-2026))",
+      "image_url": null,
+      "published": "2026-10-13T12:00:00-04:00",
+      "source": "2026-10-13_1200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1200-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1200-edt-3",
+      "title": "Polymarket midterm traders price a Republican Senate hold at 35%, down from 66% in January",
+      "content_text": "- **Polymarket midterm traders price a Republican Senate hold at 35%, down from 66% in January** — Bitquery reports Polymarket traders give Republicans a 35% chance of keeping the Senate, down from about 66% in January, and Democrats a 92% chance of winning the House. Polymarket midterm markets have traded $103.4 million since September 2025, including a single whale position of more than $1 million backing Republicans. ([Bitquery](https://bitquery.io/investigations/polymarket-midterms-odds-2026))",
+      "content_html": "<p>- **Polymarket midterm traders price a Republican Senate hold at 35%, down from 66% in January** — Bitquery reports Polymarket traders give Republicans a 35% chance of keeping the Senate, down from about 66% in January, and Democrats a 92% chance of winning the House. Polymarket midterm markets have traded $103.4 million since September 2025, including a single whale position of more than $1 million backing Republicans. ([Bitquery](https://bitquery.io/investigations/polymarket-midterms-odds-2026))</p>",
+      "date_published": "2026-10-13T12:00:00-04:00",
+      "date_modified": "2026-10-13T12:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://bitquery.io/investigations/polymarket-midterms-odds-2026",
+      "links": [
+        "https://bitquery.io/investigations/polymarket-midterms-odds-2026"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:00 PM ET",
+      "body": "- **Polymarket midterm traders price a Republican Senate hold at 35%, down from 66% in January** — Bitquery reports Polymarket traders give Republicans a 35% chance of keeping the Senate, down from about 66% in January, and Democrats a 92% chance of winning the House. Polymarket midterm markets have traded $103.4 million since September 2025, including a single whale position of more than $1 million backing Republicans. ([Bitquery](https://bitquery.io/investigations/polymarket-midterms-odds-2026))",
+      "image_url": null,
+      "published": "2026-10-13T12:00:00-04:00",
+      "source": "2026-10-13_1200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-13_1200-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1200-edt-4",
+      "title": "Novig trending markets for October 13 led by Manchester United at Atletico Madrid and Guardians at Rays",
+      "content_text": "- **Novig trending markets for October 13 led by Manchester United at Atletico Madrid and Guardians at Rays** — Novig lists its top markets by trading volume for October 13, 2026 as Manchester United at Atletico Madrid in the Champions League and Cleveland Guardians at Tampa Bay Rays in the MLB playoffs. NHL games including New Jersey Devils at Detroit Red Wings and Florida Panthers at Columbus Blue Jackets also trend on the platform. ([Elite Sports NY](https://elitesportsny.com/2026/10/13/novig-promo-code/))",
+      "content_html": "<p>- **Novig trending markets for October 13 led by Manchester United at Atletico Madrid and Guardians at Rays** — Novig lists its top markets by trading volume for October 13, 2026 as Manchester United at Atletico Madrid in the Champions League and Cleveland Guardians at Tampa Bay Rays in the MLB playoffs. NHL games including New Jersey Devils at Detroit Red Wings and Florida Panthers at Columbus Blue Jackets also trend on the platform. ([Elite Sports NY](https://elitesportsny.com/2026/10/13/novig-promo-code/))</p>",
+      "date_published": "2026-10-13T12:00:00-04:00",
+      "date_modified": "2026-10-13T12:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://elitesportsny.com/2026/10/13/novig-promo-code/",
+      "links": [
+        "https://elitesportsny.com/2026/10/13/novig-promo-code/"
+      ],
+      "timestamp": "Oct 13, 2026 · 12:00 PM ET",
+      "body": "- **Novig trending markets for October 13 led by Manchester United at Atletico Madrid and Guardians at Rays** — Novig lists its top markets by trading volume for October 13, 2026 as Manchester United at Atletico Madrid in the Champions League and Cleveland Guardians at Tampa Bay Rays in the MLB playoffs. NHL games including New Jersey Devils at Detroit Red Wings and Florida Panthers at Columbus Blue Jackets also trend on the platform. ([Elite Sports NY](https://elitesportsny.com/2026/10/13/novig-promo-code/))",
+      "image_url": null,
+      "published": "2026-10-13T12:00:00-04:00",
+      "source": "2026-10-13_1200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-13_1154-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1154-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nFed funds upper-bound market jumps 21 points to 25c: traders price a higher ceiling, not just an October hike\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh economy contract leads, in a different category from the last three editions…\n#PredictionMarkets\nhttps://picksbyodds.com/\n\nManchester City holds 7% for the Champions League on Polymarket despite the FFP/PSR ruling, on $50M+ traded\nFinbold reports Polymarket's 2027 Champions League champion market, with more than $50M in volume, has kept City near 7% since early October (briefly 6%, from 9% in late…\n#PredictionMarkets #Polymarket\nhttps://finbold.com/prediction-markets-price-in-man-citys-champions-league-odds-despite-scandal/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Fed funds upper-bound market jumps 21 points to 25c: traders price a higher ceiling, not just an October hike<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh economy contract leads, in a different category from the last three editions…<br/>#PredictionMarkets<br/>https://picksbyodds.com/<br/><br/>Manchester City holds 7% for the Champions League on Polymarket despite the FFP/PSR ruling, on $50M+ traded<br/>Finbold reports Polymarket&#x27;s 2027 Champions League champion market, with more than $50M in volume, has kept City near 7% since early October (briefly 6%, from 9% in late…<br/>#PredictionMarkets #Polymarket<br/>https://finbold.com/prediction-markets-price-in-man-citys-champions-league-odds-despite-scandal/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-13T11:54:00-04:00",
+      "date_modified": "2026-10-13T11:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi",
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Gold",
+        "Silver"
+      ],
+      "image": null,
+      "external_url": "https://picksbyodds.com/",
+      "links": [
+        "https://picksbyodds.com/",
+        "https://finbold.com/prediction-markets-price-in-man-citys-champions-league-odds-despite-scandal/"
+      ],
+      "timestamp": "Oct 13, 2026 · 11:54 AM ET",
+      "body": "Infiniti Briefing\n\nFed funds upper-bound market jumps 21 points to 25c: traders price a higher ceiling, not just an October hike\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh economy contract leads, in a different category from the last three editions…\n#PredictionMarkets\nhttps://picksbyodds.com/\n\nManchester City holds 7% for the Champions League on Polymarket despite the FFP/PSR ruling, on $50M+ traded\nFinbold reports Polymarket's 2027 Champions League champion market, with more than $50M in volume, has kept City near 7% since early October (briefly 6%, from 9% in late…\n#PredictionMarkets #Polymarket\nhttps://finbold.com/prediction-markets-price-in-man-citys-champions-league-odds-despite-scandal/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-13T11:54:00-04:00",
+      "source": "2026-10-13_1154-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-13_1145-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1145-edt-0",
@@ -4481,190 +4666,6 @@
       "image_url": null,
       "published": "2026-10-13T06:15:00-04:00",
       "source": "2026-10-13_0615-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_0609-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_0609-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Intelligence Hourly Briefing\nU.S.-invade-Iran contract is the board's most-traded market at $73.8M\nPolymarket's contract trades at 17 cents on $73.8M volume with 80 days to close, as each headline can move the price.\n#Geopolitics #PredictionMarkets #Polymarket\nhttps://picksbyodds.com/\n\nArsenal priced at 60% for the 2027 Premier League title on $15.14M\nPolymarket US prices Arsenal at 60 cents, clear of Manchester City at 23 cents and Liverpool at 6 cents.\n#EPL #Arsenal #PredictionMarkets\nhttps://www.vegasinsider.com/prediction-markets/polymarket/\n\nCanada remains a closed market as the legal debate resurfaces\nBinary wagers remain banned in Canada, even as Ontario licensed iGaming revenue hit a record CAD $406.2M.\n#Canada #Kalshi #Polymarket\nhttps://gamblerss.com/will-prediction-markets-ever-become-legal-in-canada-54379\n\nMarkets: Gold $4,192 | Brent $106 | BTC $82.6K | ETH $2.5K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Intelligence Hourly Briefing<br/>U.S.-invade-Iran contract is the board&#x27;s most-traded market at $73.8M<br/>Polymarket&#x27;s contract trades at 17 cents on $73.8M volume with 80 days to close, as each headline can move the price.<br/>#Geopolitics #PredictionMarkets #Polymarket<br/>https://picksbyodds.com/<br/><br/>Arsenal priced at 60% for the 2027 Premier League title on $15.14M<br/>Polymarket US prices Arsenal at 60 cents, clear of Manchester City at 23 cents and Liverpool at 6 cents.<br/>#EPL #Arsenal #PredictionMarkets<br/>https://www.vegasinsider.com/prediction-markets/polymarket/<br/><br/>Canada remains a closed market as the legal debate resurfaces<br/>Binary wagers remain banned in Canada, even as Ontario licensed iGaming revenue hit a record CAD $406.2M.<br/>#Canada #Kalshi #Polymarket<br/>https://gamblerss.com/will-prediction-markets-ever-become-legal-in-canada-54379<br/><br/>Markets: Gold $4,192 | Brent $106 | BTC $82.6K | ETH $2.5K<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Intelligence<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_0609-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-13T06:09:00-04:00",
-      "date_modified": "2026-10-13T06:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Geopolitics",
-        "PredictionMarkets",
-        "Polymarket",
-        "EPL",
-        "Arsenal",
-        "Canada",
-        "Kalshi"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_0609-edt.jpg",
-      "external_url": "https://picksbyodds.com/",
-      "links": [
-        "https://picksbyodds.com/",
-        "https://www.vegasinsider.com/prediction-markets/polymarket/",
-        "https://gamblerss.com/will-prediction-markets-ever-become-legal-in-canada-54379"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:09 AM ET",
-      "body": "Infiniti Intelligence Hourly Briefing\nU.S.-invade-Iran contract is the board's most-traded market at $73.8M\nPolymarket's contract trades at 17 cents on $73.8M volume with 80 days to close, as each headline can move the price.\n#Geopolitics #PredictionMarkets #Polymarket\nhttps://picksbyodds.com/\n\nArsenal priced at 60% for the 2027 Premier League title on $15.14M\nPolymarket US prices Arsenal at 60 cents, clear of Manchester City at 23 cents and Liverpool at 6 cents.\n#EPL #Arsenal #PredictionMarkets\nhttps://www.vegasinsider.com/prediction-markets/polymarket/\n\nCanada remains a closed market as the legal debate resurfaces\nBinary wagers remain banned in Canada, even as Ontario licensed iGaming revenue hit a record CAD $406.2M.\n#Canada #Kalshi #Polymarket\nhttps://gamblerss.com/will-prediction-markets-ever-become-legal-in-canada-54379\n\nMarkets: Gold $4,192 | Brent $106 | BTC $82.6K | ETH $2.5K\n\nweb: Infiniti.w3ai.io\nInfiniti Intelligence\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_0609-edt.jpg",
-      "published": "2026-10-13T06:09:00-04:00",
-      "source": "2026-10-13_0609-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-13_0600-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0600-edt-0",
-      "title": "Wisconsin judge denies CFTC bid to block state action against prediction markets",
-      "content_text": "- **Wisconsin judge denies CFTC bid to block state action against prediction markets** — A U.S. district judge in Wisconsin declined the CFTC request for a preliminary injunction against state enforcement, finding the agency had not shown irreparable harm or a likelihood of success. The decision contrasts with a recent Minnesota ruling that blocked a state ban. ([SBC Americas](https://sbcamericas.com/2026/07/29/wisconsin-judge-denies-cftc-injunction/))",
-      "content_html": "<p>- **Wisconsin judge denies CFTC bid to block state action against prediction markets** — A U.S. district judge in Wisconsin declined the CFTC request for a preliminary injunction against state enforcement, finding the agency had not shown irreparable harm or a likelihood of success. The decision contrasts with a recent Minnesota ruling that blocked a state ban. ([SBC Americas](https://sbcamericas.com/2026/07/29/wisconsin-judge-denies-cftc-injunction/))</p>",
-      "date_published": "2026-10-13T06:00:00-04:00",
-      "date_modified": "2026-10-13T06:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://sbcamericas.com/2026/07/29/wisconsin-judge-denies-cftc-injunction/",
-      "links": [
-        "https://sbcamericas.com/2026/07/29/wisconsin-judge-denies-cftc-injunction/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 AM ET",
-      "body": "- **Wisconsin judge denies CFTC bid to block state action against prediction markets** — A U.S. district judge in Wisconsin declined the CFTC request for a preliminary injunction against state enforcement, finding the agency had not shown irreparable harm or a likelihood of success. The decision contrasts with a recent Minnesota ruling that blocked a state ban. ([SBC Americas](https://sbcamericas.com/2026/07/29/wisconsin-judge-denies-cftc-injunction/))",
-      "image_url": null,
-      "published": "2026-10-13T06:00:00-04:00",
-      "source": "2026-10-13_0600-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0600-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0600-edt-1",
-      "title": "Kalshi last-team-to-win market puts Dolphins at 50% with three teams still winless",
-      "content_text": "- **Kalshi last-team-to-win market puts Dolphins at 50% with three teams still winless** — Three teams enter Week 6 at 0-5: the Miami Dolphins, Tennessee Titans and Los Angeles Chargers. Kalshi prices the Dolphins as most likely to be the last to record a win at 50%, followed by the Titans at 29% and the Chargers at 24%. ([Covers](https://www.covers.com/nfl/last-team-to-win-odds-2026))",
-      "content_html": "<p>- **Kalshi last-team-to-win market puts Dolphins at 50% with three teams still winless** — Three teams enter Week 6 at 0-5: the Miami Dolphins, Tennessee Titans and Los Angeles Chargers. Kalshi prices the Dolphins as most likely to be the last to record a win at 50%, followed by the Titans at 29% and the Chargers at 24%. ([Covers](https://www.covers.com/nfl/last-team-to-win-odds-2026))</p>",
-      "date_published": "2026-10-13T06:00:00-04:00",
-      "date_modified": "2026-10-13T06:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/nfl/last-team-to-win-odds-2026",
-      "links": [
-        "https://www.covers.com/nfl/last-team-to-win-odds-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 AM ET",
-      "body": "- **Kalshi last-team-to-win market puts Dolphins at 50% with three teams still winless** — Three teams enter Week 6 at 0-5: the Miami Dolphins, Tennessee Titans and Los Angeles Chargers. Kalshi prices the Dolphins as most likely to be the last to record a win at 50%, followed by the Titans at 29% and the Chargers at 24%. ([Covers](https://www.covers.com/nfl/last-team-to-win-odds-2026))",
-      "image_url": null,
-      "published": "2026-10-13T06:00:00-04:00",
-      "source": "2026-10-13_0600-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0600-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0600-edt-2",
-      "title": "Seahawks priced at 61-62% over 49ers on Kalshi and Polymarket",
-      "content_text": "- **Seahawks priced at 61-62% over 49ers on Kalshi and Polymarket** — Prediction markets favored Seattle over San Francisco, with Kalshi at about 61% and Polymarket at 62% for a Seahawks win. Spread and total markets were much closer, with the over 46.5 trading near a coin flip on both platforms. ([Heavy](https://heavy.com/sports/nfl/seattle-seahawks/seahawks-49ers-how-to-watch-odds-prediction/))",
-      "content_html": "<p>- **Seahawks priced at 61-62% over 49ers on Kalshi and Polymarket** — Prediction markets favored Seattle over San Francisco, with Kalshi at about 61% and Polymarket at 62% for a Seahawks win. Spread and total markets were much closer, with the over 46.5 trading near a coin flip on both platforms. ([Heavy](https://heavy.com/sports/nfl/seattle-seahawks/seahawks-49ers-how-to-watch-odds-prediction/))</p>",
-      "date_published": "2026-10-13T06:00:00-04:00",
-      "date_modified": "2026-10-13T06:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://heavy.com/sports/nfl/seattle-seahawks/seahawks-49ers-how-to-watch-odds-prediction/",
-      "links": [
-        "https://heavy.com/sports/nfl/seattle-seahawks/seahawks-49ers-how-to-watch-odds-prediction/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 AM ET",
-      "body": "- **Seahawks priced at 61-62% over 49ers on Kalshi and Polymarket** — Prediction markets favored Seattle over San Francisco, with Kalshi at about 61% and Polymarket at 62% for a Seahawks win. Spread and total markets were much closer, with the over 46.5 trading near a coin flip on both platforms. ([Heavy](https://heavy.com/sports/nfl/seattle-seahawks/seahawks-49ers-how-to-watch-odds-prediction/))",
-      "image_url": null,
-      "published": "2026-10-13T06:00:00-04:00",
-      "source": "2026-10-13_0600-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0600-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0600-edt-3",
-      "title": "Polymarket lists 89 live Bitcoin markets with $1.97 million traded in 24 hours",
-      "content_text": "- **Polymarket lists 89 live Bitcoin markets with $1.97 million traded in 24 hours** — A tracker of Polymarket Bitcoin odds counted 89 live markets as of October 13, with $1.97 million traded in the previous 24 hours. The most active market was the October Bitcoin price market, followed by daily Bitcoin level markets. ([PolymarketTrader](https://polymarkettrader.com/odds/bitcoin/))",
-      "content_html": "<p>- **Polymarket lists 89 live Bitcoin markets with $1.97 million traded in 24 hours** — A tracker of Polymarket Bitcoin odds counted 89 live markets as of October 13, with $1.97 million traded in the previous 24 hours. The most active market was the October Bitcoin price market, followed by daily Bitcoin level markets. ([PolymarketTrader](https://polymarkettrader.com/odds/bitcoin/))</p>",
-      "date_published": "2026-10-13T06:00:00-04:00",
-      "date_modified": "2026-10-13T06:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://polymarkettrader.com/odds/bitcoin/",
-      "links": [
-        "https://polymarkettrader.com/odds/bitcoin/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 AM ET",
-      "body": "- **Polymarket lists 89 live Bitcoin markets with $1.97 million traded in 24 hours** — A tracker of Polymarket Bitcoin odds counted 89 live markets as of October 13, with $1.97 million traded in the previous 24 hours. The most active market was the October Bitcoin price market, followed by daily Bitcoin level markets. ([PolymarketTrader](https://polymarkettrader.com/odds/bitcoin/))",
-      "image_url": null,
-      "published": "2026-10-13T06:00:00-04:00",
-      "source": "2026-10-13_0600-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_0600-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_0600-edt-4",
-      "title": "Culture prediction markets draw high volume for film, music and celebrity events on Kalshi",
-      "content_text": "- **Culture prediction markets draw high volume for film, music and celebrity events on Kalshi** — Kalshi culture contracts cover areas such as Rotten Tomatoes film scores, video game release dates and celebrity wedding locations. Popular culture markets, including Spotify number ones and Taylor Swift related events, regularly draw seven-figure trading volume, according to the guide. ([Deadspin](https://deadspin.com/prediction-markets/culture/))",
-      "content_html": "<p>- **Culture prediction markets draw high volume for film, music and celebrity events on Kalshi** — Kalshi culture contracts cover areas such as Rotten Tomatoes film scores, video game release dates and celebrity wedding locations. Popular culture markets, including Spotify number ones and Taylor Swift related events, regularly draw seven-figure trading volume, according to the guide. ([Deadspin](https://deadspin.com/prediction-markets/culture/))</p>",
-      "date_published": "2026-10-13T06:00:00-04:00",
-      "date_modified": "2026-10-13T06:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://deadspin.com/prediction-markets/culture/",
-      "links": [
-        "https://deadspin.com/prediction-markets/culture/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 AM ET",
-      "body": "- **Culture prediction markets draw high volume for film, music and celebrity events on Kalshi** — Kalshi culture contracts cover areas such as Rotten Tomatoes film scores, video game release dates and celebrity wedding locations. Popular culture markets, including Spotify number ones and Taylor Swift related events, regularly draw seven-figure trading volume, according to the guide. ([Deadspin](https://deadspin.com/prediction-markets/culture/))",
-      "image_url": null,
-      "published": "2026-10-13T06:00:00-04:00",
-      "source": "2026-10-13_0600-edt.json",
       "matches_facebook_post": false
     }
   ]
