@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T04:48:05.787792-04:00",
+  "updated": "2026-10-14T05:03:31.176390-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_0500-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0500-edt-0",
+      "title": "Polymarket rolls out Protocol V2 with new markets moving over on November 2",
+      "content_text": "- **Polymarket rolls out Protocol V2 with new markets moving over on November 2** — Polymarket has begun rolling out Protocol V2, an upgrade to its trading infrastructure with unified position tokens and expanded oracle integration. Newly created markets are targeted to move to V2 on November 2, while existing positions remain on current contracts. ([KuCoin](https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2))",
+      "content_html": "<p>- **Polymarket rolls out Protocol V2 with new markets moving over on November 2** — Polymarket has begun rolling out Protocol V2, an upgrade to its trading infrastructure with unified position tokens and expanded oracle integration. Newly created markets are targeted to move to V2 on November 2, while existing positions remain on current contracts. ([KuCoin](https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2))</p>",
+      "date_published": "2026-10-14T05:00:00-04:00",
+      "date_modified": "2026-10-14T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2",
+      "links": [
+        "https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:00 AM ET",
+      "body": "- **Polymarket rolls out Protocol V2 with new markets moving over on November 2** — Polymarket has begun rolling out Protocol V2, an upgrade to its trading infrastructure with unified position tokens and expanded oracle integration. Newly created markets are targeted to move to V2 on November 2, while existing positions remain on current contracts. ([KuCoin](https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2))",
+      "image_url": null,
+      "published": "2026-10-14T05:00:00-04:00",
+      "source": "2026-10-14_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0500-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0500-edt-1",
+      "title": "Prediction markets give Bitcoin a 2 percent shot at 200,000 dollars in 2026, a record low",
+      "content_text": "- **Prediction markets give Bitcoin a 2 percent shot at 200,000 dollars in 2026, a record low** — Traders on Kalshi and Polymarket price Bitcoin above 200,000 dollars by January 1, 2027 at about 2 percent, down from around 4 percent on Polymarket. Contracts for 90,000 dollars sit near 63 percent and for 100,000 dollars near 28 percent, with related Polymarket volume above 74 million dollars. ([TradingView](https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
+      "content_html": "<p>- **Prediction markets give Bitcoin a 2 percent shot at 200,000 dollars in 2026, a record low** — Traders on Kalshi and Polymarket price Bitcoin above 200,000 dollars by January 1, 2027 at about 2 percent, down from around 4 percent on Polymarket. Contracts for 90,000 dollars sit near 63 percent and for 100,000 dollars near 28 percent, with related Polymarket volume above 74 million dollars. ([TradingView](https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))</p>",
+      "date_published": "2026-10-14T05:00:00-04:00",
+      "date_modified": "2026-10-14T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/",
+      "links": [
+        "https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:00 AM ET",
+      "body": "- **Prediction markets give Bitcoin a 2 percent shot at 200,000 dollars in 2026, a record low** — Traders on Kalshi and Polymarket price Bitcoin above 200,000 dollars by January 1, 2027 at about 2 percent, down from around 4 percent on Polymarket. Contracts for 90,000 dollars sit near 63 percent and for 100,000 dollars near 28 percent, with related Polymarket volume above 74 million dollars. ([TradingView](https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
+      "image_url": null,
+      "published": "2026-10-14T05:00:00-04:00",
+      "source": "2026-10-14_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0500-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0500-edt-2",
+      "title": "Federal judge sides with Kalshi and blocks new Illinois rules on prediction markets",
+      "content_text": "- **Federal judge sides with Kalshi and blocks new Illinois rules on prediction markets** — A federal judge in Chicago blocked Illinois from regulating prediction markets like sportsbooks, ruling the trades fall under federal jurisdiction. The injunction leaves open a separate question over possible state taxes on industry profits pending further arguments. ([CDC Gaming](https://cdcgaming.com/brief/federal-judge-sides-with-kalshi-blocks-new-illinois-rules-on-prediction-markets/))",
+      "content_html": "<p>- **Federal judge sides with Kalshi and blocks new Illinois rules on prediction markets** — A federal judge in Chicago blocked Illinois from regulating prediction markets like sportsbooks, ruling the trades fall under federal jurisdiction. The injunction leaves open a separate question over possible state taxes on industry profits pending further arguments. ([CDC Gaming](https://cdcgaming.com/brief/federal-judge-sides-with-kalshi-blocks-new-illinois-rules-on-prediction-markets/))</p>",
+      "date_published": "2026-10-14T05:00:00-04:00",
+      "date_modified": "2026-10-14T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://cdcgaming.com/brief/federal-judge-sides-with-kalshi-blocks-new-illinois-rules-on-prediction-markets/",
+      "links": [
+        "https://cdcgaming.com/brief/federal-judge-sides-with-kalshi-blocks-new-illinois-rules-on-prediction-markets/"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:00 AM ET",
+      "body": "- **Federal judge sides with Kalshi and blocks new Illinois rules on prediction markets** — A federal judge in Chicago blocked Illinois from regulating prediction markets like sportsbooks, ruling the trades fall under federal jurisdiction. The injunction leaves open a separate question over possible state taxes on industry profits pending further arguments. ([CDC Gaming](https://cdcgaming.com/brief/federal-judge-sides-with-kalshi-blocks-new-illinois-rules-on-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-14T05:00:00-04:00",
+      "source": "2026-10-14_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0500-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0500-edt-3",
+      "title": "Dolphins priced at 50 percent on Kalshi to be last winless NFL team to win",
+      "content_text": "- **Dolphins priced at 50 percent on Kalshi to be last winless NFL team to win** — Three NFL teams enter Week 6 winless at 0-5: Miami, Tennessee and the Los Angeles Chargers. Kalshi prices the Dolphins at 50 percent to be the last to win, ahead of the Titans at 29 percent and the Chargers at 24 percent as of October 12. ([Covers](https://www.covers.com/nfl/last-team-to-win-odds-2026))",
+      "content_html": "<p>- **Dolphins priced at 50 percent on Kalshi to be last winless NFL team to win** — Three NFL teams enter Week 6 winless at 0-5: Miami, Tennessee and the Los Angeles Chargers. Kalshi prices the Dolphins at 50 percent to be the last to win, ahead of the Titans at 29 percent and the Chargers at 24 percent as of October 12. ([Covers](https://www.covers.com/nfl/last-team-to-win-odds-2026))</p>",
+      "date_published": "2026-10-14T05:00:00-04:00",
+      "date_modified": "2026-10-14T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/nfl/last-team-to-win-odds-2026",
+      "links": [
+        "https://www.covers.com/nfl/last-team-to-win-odds-2026"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:00 AM ET",
+      "body": "- **Dolphins priced at 50 percent on Kalshi to be last winless NFL team to win** — Three NFL teams enter Week 6 winless at 0-5: Miami, Tennessee and the Los Angeles Chargers. Kalshi prices the Dolphins at 50 percent to be the last to win, ahead of the Titans at 29 percent and the Chargers at 24 percent as of October 12. ([Covers](https://www.covers.com/nfl/last-team-to-win-odds-2026))",
+      "image_url": null,
+      "published": "2026-10-14T05:00:00-04:00",
+      "source": "2026-10-14_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0500-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0500-edt-4",
+      "title": "Prediction markets trade 3.4 billion dollars in 24 hours as Fed hike odds rise to 19 percent",
+      "content_text": "- **Prediction markets trade 3.4 billion dollars in 24 hours as Fed hike odds rise to 19 percent** — A live tracker puts 24-hour volume at 3.4 billion dollars across nine prediction market exchanges, with sports accounting for the largest share of top markets. Kalshi prices a Fed hike on October 28 at about 19 percent, up 3 points over seven days. ([DeFi Rate](https://defirate.com/odds/))",
+      "content_html": "<p>- **Prediction markets trade 3.4 billion dollars in 24 hours as Fed hike odds rise to 19 percent** — A live tracker puts 24-hour volume at 3.4 billion dollars across nine prediction market exchanges, with sports accounting for the largest share of top markets. Kalshi prices a Fed hike on October 28 at about 19 percent, up 3 points over seven days. ([DeFi Rate](https://defirate.com/odds/))</p>",
+      "date_published": "2026-10-14T05:00:00-04:00",
+      "date_modified": "2026-10-14T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/",
+      "links": [
+        "https://defirate.com/odds/"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:00 AM ET",
+      "body": "- **Prediction markets trade 3.4 billion dollars in 24 hours as Fed hike odds rise to 19 percent** — A live tracker puts 24-hour volume at 3.4 billion dollars across nine prediction market exchanges, with sports accounting for the largest share of top markets. Kalshi prices a Fed hike on October 28 at about 19 percent, up 3 points over seven days. ([DeFi Rate](https://defirate.com/odds/))",
+      "image_url": null,
+      "published": "2026-10-14T05:00:00-04:00",
+      "source": "2026-10-14_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_0454-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0454-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nThe Odyssey leads Kalshi's Oscar Best Picture board at 52% on $45K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh culture snapshot leads, in an entertainment category different from the…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/entertainment/\n\nSeahawks favored at 57c over the Broncos for Thursday night on $636K in 24 hours\nDeFi Rate's board ranks Seahawks vs. Broncos second overall, traded across three venues, with Seattle at 57c on Kalshi and 57.3c on Polymarket US against Denver at 44c…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/\n\nU.S.-Iran ceasefire holding through Oct. 15 priced at 98.7% on $303K traded\nPolymarket's ceasefire-continuation market puts the Oct. 15 outcome at 98.7c, ahead of Oct. 31 at 82c and Nov. 15 at 60c across its 12 outcomes — a ceasefire-duration…\n#PredictionMarkets #Polymarket\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>The Odyssey leads Kalshi&#x27;s Oscar Best Picture board at 52% on $45K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh culture snapshot leads, in an entertainment category different from the…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/entertainment/<br/><br/>Seahawks favored at 57c over the Broncos for Thursday night on $636K in 24 hours<br/>DeFi Rate&#x27;s board ranks Seahawks vs. Broncos second overall, traded across three venues, with Seattle at 57c on Kalshi and 57.3c on Polymarket US against Denver at 44c…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/odds/<br/><br/>U.S.-Iran ceasefire holding through Oct. 15 priced at 98.7% on $303K traded<br/>Polymarket&#x27;s ceasefire-continuation market puts the Oct. 15 outcome at 98.7c, ahead of Oct. 31 at 82c and Nov. 15 at 60c across its 12 outcomes — a ceasefire-duration…<br/>#PredictionMarkets #Polymarket<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T04:54:00-04:00",
+      "date_modified": "2026-10-14T04:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/entertainment/",
+      "links": [
+        "https://defirate.com/odds/entertainment/",
+        "https://defirate.com/odds/"
+      ],
+      "timestamp": "Oct 14, 2026 · 4:54 AM ET",
+      "body": "Infiniti Briefing\n\nThe Odyssey leads Kalshi's Oscar Best Picture board at 52% on $45K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh culture snapshot leads, in an entertainment category different from the…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/entertainment/\n\nSeahawks favored at 57c over the Broncos for Thursday night on $636K in 24 hours\nDeFi Rate's board ranks Seahawks vs. Broncos second overall, traded across three venues, with Seattle at 57c on Kalshi and 57.3c on Polymarket US against Denver at 44c…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/\n\nU.S.-Iran ceasefire holding through Oct. 15 priced at 98.7% on $303K traded\nPolymarket's ceasefire-continuation market puts the Oct. 15 outcome at 98.7c, ahead of Oct. 31 at 82c and Nov. 15 at 60c across its 12 outcomes — a ceasefire-duration…\n#PredictionMarkets #Polymarket\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T04:54:00-04:00",
+      "source": "2026-10-14_0454-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0445-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0445-edt-0",
@@ -4497,186 +4677,6 @@
       "image_url": null,
       "published": "2026-10-13T22:30:00-04:00",
       "source": "2026-10-13_2230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_2224-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_2224-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKalshi prices an October Fed hold at 79% ahead of Wednesday's CPI\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh economic ladder leads, in a different category from the previous three…\n#PredictionMarkets #Kalshi\nhttps://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026\n\nPolymarket prices Edmonton at 55% against Los Angeles at 46% in tonight's late Oilers–Kings game\nThe 10:30 PM ET NHL moneyline on Polymarket puts the Oilers at 55c and the Kings at 46c, on $2,265 traded — a tonight-specific late game not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-edm-lak-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi prices an October Fed hold at 79% ahead of Wednesday&#x27;s CPI<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh economic ladder leads, in a different category from the previous three…<br/>#PredictionMarkets #Kalshi<br/>https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026<br/><br/>Polymarket prices Edmonton at 55% against Los Angeles at 46% in tonight&#x27;s late Oilers–Kings game<br/>The 10:30 PM ET NHL moneyline on Polymarket puts the Oilers at 55c and the Kings at 46c, on $2,265 traded — a tonight-specific late game not featured in any earlier…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/sports/nhl/nhl-edm-lak-2026-10-13<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T22:24:00-04:00",
-      "date_modified": "2026-10-13T22:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026",
-      "links": [
-        "https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026",
-        "https://polymarket.com/sports/nhl/nhl-edm-lak-2026-10-13"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:24 PM ET",
-      "body": "Infiniti Briefing\n\nKalshi prices an October Fed hold at 79% ahead of Wednesday's CPI\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh economic ladder leads, in a different category from the previous three…\n#PredictionMarkets #Kalshi\nhttps://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026\n\nPolymarket prices Edmonton at 55% against Los Angeles at 46% in tonight's late Oilers–Kings game\nThe 10:30 PM ET NHL moneyline on Polymarket puts the Oilers at 55c and the Kings at 46c, on $2,265 traded — a tonight-specific late game not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-edm-lak-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T22:24:00-04:00",
-      "source": "2026-10-13_2224-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2215-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2215-edt-0",
-      "title": "SafeBets launches zero-risk prediction platform using free unicoins",
-      "content_text": "- **SafeBets launches zero-risk prediction platform using free unicoins** — New York startup SafeBets lets users forecast Bitcoin, gold, oil and large-company stock prices with 100 free unicoins and no deposit, according to The Manhattan. Correct predictions grow the token balance and wrong ones lose one token, with no buying of unicoins or debt. ([The Manhattan](https://themanhattan.press/business/2026/10/12/prediction-market-with-no-losses/))",
-      "content_html": "<p>- **SafeBets launches zero-risk prediction platform using free unicoins** — New York startup SafeBets lets users forecast Bitcoin, gold, oil and large-company stock prices with 100 free unicoins and no deposit, according to The Manhattan. Correct predictions grow the token balance and wrong ones lose one token, with no buying of unicoins or debt. ([The Manhattan](https://themanhattan.press/business/2026/10/12/prediction-market-with-no-losses/))</p>",
-      "date_published": "2026-10-13T22:15:00-04:00",
-      "date_modified": "2026-10-13T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Gold",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://themanhattan.press/business/2026/10/12/prediction-market-with-no-losses/",
-      "links": [
-        "https://themanhattan.press/business/2026/10/12/prediction-market-with-no-losses/"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:15 PM ET",
-      "body": "- **SafeBets launches zero-risk prediction platform using free unicoins** — New York startup SafeBets lets users forecast Bitcoin, gold, oil and large-company stock prices with 100 free unicoins and no deposit, according to The Manhattan. Correct predictions grow the token balance and wrong ones lose one token, with no buying of unicoins or debt. ([The Manhattan](https://themanhattan.press/business/2026/10/12/prediction-market-with-no-losses/))",
-      "image_url": null,
-      "published": "2026-10-13T22:15:00-04:00",
-      "source": "2026-10-13_2215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2215-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2215-edt-1",
-      "title": "Prediction market volume hits 19.46 billion dollars led by Kalshi and Polymarket US",
-      "content_text": "- **Prediction market volume hits 19.46 billion dollars led by Kalshi and Polymarket US** — Kalshi, Polymarket US and Polymarket International combined for about 19.46 billion dollars in volume from September 21 to 27, up 3.9 percent from the prior week, according to Bonus, citing DeFi Rate data. Kalshi led with a record 15.66 billion dollars and 80.5 percent of the total, while Polymarket US rose 21 percent to 2.83 billion dollars. ([Bonus](https://www.bonus.com/news/prediction-market-volume-reaches-19-46b-as-kalshi-extends-lead/))",
-      "content_html": "<p>- **Prediction market volume hits 19.46 billion dollars led by Kalshi and Polymarket US** — Kalshi, Polymarket US and Polymarket International combined for about 19.46 billion dollars in volume from September 21 to 27, up 3.9 percent from the prior week, according to Bonus, citing DeFi Rate data. Kalshi led with a record 15.66 billion dollars and 80.5 percent of the total, while Polymarket US rose 21 percent to 2.83 billion dollars. ([Bonus](https://www.bonus.com/news/prediction-market-volume-reaches-19-46b-as-kalshi-extends-lead/))</p>",
-      "date_published": "2026-10-13T22:15:00-04:00",
-      "date_modified": "2026-10-13T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/prediction-market-volume-reaches-19-46b-as-kalshi-extends-lead/",
-      "links": [
-        "https://www.bonus.com/news/prediction-market-volume-reaches-19-46b-as-kalshi-extends-lead/"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:15 PM ET",
-      "body": "- **Prediction market volume hits 19.46 billion dollars led by Kalshi and Polymarket US** — Kalshi, Polymarket US and Polymarket International combined for about 19.46 billion dollars in volume from September 21 to 27, up 3.9 percent from the prior week, according to Bonus, citing DeFi Rate data. Kalshi led with a record 15.66 billion dollars and 80.5 percent of the total, while Polymarket US rose 21 percent to 2.83 billion dollars. ([Bonus](https://www.bonus.com/news/prediction-market-volume-reaches-19-46b-as-kalshi-extends-lead/))",
-      "image_url": null,
-      "published": "2026-10-13T22:15:00-04:00",
-      "source": "2026-10-13_2215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2215-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2215-edt-2",
-      "title": "Polymarket Anthropic valuation market for end of October leads with 1.50 to 1.75 trillion dollars",
-      "content_text": "- **Polymarket Anthropic valuation market for end of October leads with 1.50 to 1.75 trillion dollars** — Polymarket's market on Anthropic's valuation at the end of October 2026, launched August 24 with nine outcomes, leads with the 1.50 to 1.75 trillion dollar range at 74 percent. Prices reflect trader-implied probabilities and update continuously. ([Polymarket](https://polymarket.com/event/anthropics-valuation-end-of-october-2026/will-anthropics-valuation-be-between-1pt25t-and-1pt50t-at-the-end-of-october-2026))",
-      "content_html": "<p>- **Polymarket Anthropic valuation market for end of October leads with 1.50 to 1.75 trillion dollars** — Polymarket&#x27;s market on Anthropic&#x27;s valuation at the end of October 2026, launched August 24 with nine outcomes, leads with the 1.50 to 1.75 trillion dollar range at 74 percent. Prices reflect trader-implied probabilities and update continuously. ([Polymarket](https://polymarket.com/event/anthropics-valuation-end-of-october-2026/will-anthropics-valuation-be-between-1pt25t-and-1pt50t-at-the-end-of-october-2026))</p>",
-      "date_published": "2026-10-13T22:15:00-04:00",
-      "date_modified": "2026-10-13T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/anthropics-valuation-end-of-october-2026/will-anthropics-valuation-be-between-1pt25t-and-1pt50t-at-the-end-of-october-2026",
-      "links": [
-        "https://polymarket.com/event/anthropics-valuation-end-of-october-2026/will-anthropics-valuation-be-between-1pt25t-and-1pt50t-at-the-end-of-october-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:15 PM ET",
-      "body": "- **Polymarket Anthropic valuation market for end of October leads with 1.50 to 1.75 trillion dollars** — Polymarket's market on Anthropic's valuation at the end of October 2026, launched August 24 with nine outcomes, leads with the 1.50 to 1.75 trillion dollar range at 74 percent. Prices reflect trader-implied probabilities and update continuously. ([Polymarket](https://polymarket.com/event/anthropics-valuation-end-of-october-2026/will-anthropics-valuation-be-between-1pt25t-and-1pt50t-at-the-end-of-october-2026))",
-      "image_url": null,
-      "published": "2026-10-13T22:15:00-04:00",
-      "source": "2026-10-13_2215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2215-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2215-edt-3",
-      "title": "Polymarket prices America.gov removal by October 31 at 5 percent",
-      "content_text": "- **Polymarket prices America.gov removal by October 31 at 5 percent** — Polymarket's market on whether America.gov will be removed by October 31, launched September 29, prices Yes at 5 percent. The crowd-sourced price implies traders see a low chance of removal by that date. ([Polymarket](https://polymarket.com/event/americaptgov-removed-by-october-31-1))",
-      "content_html": "<p>- **Polymarket prices America.gov removal by October 31 at 5 percent** — Polymarket&#x27;s market on whether America.gov will be removed by October 31, launched September 29, prices Yes at 5 percent. The crowd-sourced price implies traders see a low chance of removal by that date. ([Polymarket](https://polymarket.com/event/americaptgov-removed-by-october-31-1))</p>",
-      "date_published": "2026-10-13T22:15:00-04:00",
-      "date_modified": "2026-10-13T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/americaptgov-removed-by-october-31-1",
-      "links": [
-        "https://polymarket.com/event/americaptgov-removed-by-october-31-1"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:15 PM ET",
-      "body": "- **Polymarket prices America.gov removal by October 31 at 5 percent** — Polymarket's market on whether America.gov will be removed by October 31, launched September 29, prices Yes at 5 percent. The crowd-sourced price implies traders see a low chance of removal by that date. ([Polymarket](https://polymarket.com/event/americaptgov-removed-by-october-31-1))",
-      "image_url": null,
-      "published": "2026-10-13T22:15:00-04:00",
-      "source": "2026-10-13_2215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2215-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2215-edt-4",
-      "title": "FanDuel Predicts promo offers up to 100 dollars for 5 dollars in trades, SI reports",
-      "content_text": "- **FanDuel Predicts promo offers up to 100 dollars for 5 dollars in trades, SI reports** — FanDuel Predicts is offering trade 5 dollars and get up to 100 dollars in October, according to Sports Illustrated, with NFL markets in 18 sports-enabled states. Customers outside those states can still access eligible non-sports markets including financial benchmarks, crypto, commodities and economic indicators. ([Sports Illustrated](https://www.si.com/prediction-markets/promos/fanduel-predicts-promo-code))",
-      "content_html": "<p>- **FanDuel Predicts promo offers up to 100 dollars for 5 dollars in trades, SI reports** — FanDuel Predicts is offering trade 5 dollars and get up to 100 dollars in October, according to Sports Illustrated, with NFL markets in 18 sports-enabled states. Customers outside those states can still access eligible non-sports markets including financial benchmarks, crypto, commodities and economic indicators. ([Sports Illustrated](https://www.si.com/prediction-markets/promos/fanduel-predicts-promo-code))</p>",
-      "date_published": "2026-10-13T22:15:00-04:00",
-      "date_modified": "2026-10-13T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.si.com/prediction-markets/promos/fanduel-predicts-promo-code",
-      "links": [
-        "https://www.si.com/prediction-markets/promos/fanduel-predicts-promo-code"
-      ],
-      "timestamp": "Oct 13, 2026 · 10:15 PM ET",
-      "body": "- **FanDuel Predicts promo offers up to 100 dollars for 5 dollars in trades, SI reports** — FanDuel Predicts is offering trade 5 dollars and get up to 100 dollars in October, according to Sports Illustrated, with NFL markets in 18 sports-enabled states. Customers outside those states can still access eligible non-sports markets including financial benchmarks, crypto, commodities and economic indicators. ([Sports Illustrated](https://www.si.com/prediction-markets/promos/fanduel-predicts-promo-code))",
-      "image_url": null,
-      "published": "2026-10-13T22:15:00-04:00",
-      "source": "2026-10-13_2215-edt.json",
       "matches_facebook_post": false
     }
   ]
