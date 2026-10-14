@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T07:48:08.628997-04:00",
+  "updated": "2026-10-14T08:04:03.591359-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,181 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_0800-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0800-edt-0",
+      "title": "Portugal moves to block Polymarket after suspicious election betting activity",
+      "content_text": "- **Portugal moves to block Polymarket after suspicious election betting activity** — Portuguese regulators say Polymarket operates illegally in the country, where political betting is prohibited, and are moving toward ISP blocking after more than 4 million euros was wagered shortly before presidential results, with odds shifting sharply toward Antonio Jose Seguro. ([BitRss](https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823))",
+      "content_html": "<p>- **Portugal moves to block Polymarket after suspicious election betting activity** — Portuguese regulators say Polymarket operates illegally in the country, where political betting is prohibited, and are moving toward ISP blocking after more than 4 million euros was wagered shortly before presidential results, with odds shifting sharply toward Antonio Jose Seguro. ([BitRss](https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823))</p>",
+      "date_published": "2026-10-14T08:00:00-04:00",
+      "date_modified": "2026-10-14T08:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823",
+      "links": [
+        "https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823"
+      ],
+      "timestamp": "Oct 14, 2026 · 8:00 AM ET",
+      "body": "- **Portugal moves to block Polymarket after suspicious election betting activity** — Portuguese regulators say Polymarket operates illegally in the country, where political betting is prohibited, and are moving toward ISP blocking after more than 4 million euros was wagered shortly before presidential results, with odds shifting sharply toward Antonio Jose Seguro. ([BitRss](https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823))",
+      "image_url": null,
+      "published": "2026-10-14T08:00:00-04:00",
+      "source": "2026-10-14_0800-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0800-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0800-edt-1",
+      "title": "Connecticut says Webull, Gemini and ProphetX have left after cease-and-desist orders",
+      "content_text": "- **Connecticut says Webull, Gemini and ProphetX have left after cease-and-desist orders** — Connecticut consumer protection officials say three of the nine prediction market operators ordered to stop sports contracts in the state are leaving, while the state remains in contact with six others including Polymarket, Coinbase and Robinhood. ([iGaming Times](https://igaming-times.com/news/prediction-markets/connecticut-says-webull-gemini-and-prophetx-have-left-after-its-cease-and-desists))",
+      "content_html": "<p>- **Connecticut says Webull, Gemini and ProphetX have left after cease-and-desist orders** — Connecticut consumer protection officials say three of the nine prediction market operators ordered to stop sports contracts in the state are leaving, while the state remains in contact with six others including Polymarket, Coinbase and Robinhood. ([iGaming Times](https://igaming-times.com/news/prediction-markets/connecticut-says-webull-gemini-and-prophetx-have-left-after-its-cease-and-desists))</p>",
+      "date_published": "2026-10-14T08:00:00-04:00",
+      "date_modified": "2026-10-14T08:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://igaming-times.com/news/prediction-markets/connecticut-says-webull-gemini-and-prophetx-have-left-after-its-cease-and-desists",
+      "links": [
+        "https://igaming-times.com/news/prediction-markets/connecticut-says-webull-gemini-and-prophetx-have-left-after-its-cease-and-desists"
+      ],
+      "timestamp": "Oct 14, 2026 · 8:00 AM ET",
+      "body": "- **Connecticut says Webull, Gemini and ProphetX have left after cease-and-desist orders** — Connecticut consumer protection officials say three of the nine prediction market operators ordered to stop sports contracts in the state are leaving, while the state remains in contact with six others including Polymarket, Coinbase and Robinhood. ([iGaming Times](https://igaming-times.com/news/prediction-markets/connecticut-says-webull-gemini-and-prophetx-have-left-after-its-cease-and-desists))",
+      "image_url": null,
+      "published": "2026-10-14T08:00:00-04:00",
+      "source": "2026-10-14_0800-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0800-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0800-edt-2",
+      "title": "Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding",
+      "content_text": "- **Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding** — SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital to launch Momentum Markets, a platform that creates live in-game micro-markets for prediction market operators in response to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))",
+      "content_html": "<p>- **Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding** — SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital to launch Momentum Markets, a platform that creates live in-game micro-markets for prediction market operators in response to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))</p>",
+      "date_published": "2026-10-14T08:00:00-04:00",
+      "date_modified": "2026-10-14T08:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728",
+      "links": [
+        "https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728"
+      ],
+      "timestamp": "Oct 14, 2026 · 8:00 AM ET",
+      "body": "- **Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding** — SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital to launch Momentum Markets, a platform that creates live in-game micro-markets for prediction market operators in response to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))",
+      "image_url": null,
+      "published": "2026-10-14T08:00:00-04:00",
+      "source": "2026-10-14_0800-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0800-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0800-edt-3",
+      "title": "Kalshi inflation trader profiled as trailing seven-day exchange volume reaches 19.19 billion dollars",
+      "content_text": "- **Kalshi inflation trader profiled as trailing seven-day exchange volume reaches 19.19 billion dollars** — A roundup of prediction market activity notes a Los Angeles trader who has made more than 2 million dollars forecasting inflation on Kalshi and ranks ahead of most banks on CPI calls, while Kalshi trailing seven-day volume was listed at 19.19 billion dollars ahead of Polymarket US at 2.84 billion dollars. ([Next Event Horizon](https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc))",
+      "content_html": "<p>- **Kalshi inflation trader profiled as trailing seven-day exchange volume reaches 19.19 billion dollars** — A roundup of prediction market activity notes a Los Angeles trader who has made more than 2 million dollars forecasting inflation on Kalshi and ranks ahead of most banks on CPI calls, while Kalshi trailing seven-day volume was listed at 19.19 billion dollars ahead of Polymarket US at 2.84 billion dollars. ([Next Event Horizon](https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc))</p>",
+      "date_published": "2026-10-14T08:00:00-04:00",
+      "date_modified": "2026-10-14T08:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc",
+      "links": [
+        "https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc"
+      ],
+      "timestamp": "Oct 14, 2026 · 8:00 AM ET",
+      "body": "- **Kalshi inflation trader profiled as trailing seven-day exchange volume reaches 19.19 billion dollars** — A roundup of prediction market activity notes a Los Angeles trader who has made more than 2 million dollars forecasting inflation on Kalshi and ranks ahead of most banks on CPI calls, while Kalshi trailing seven-day volume was listed at 19.19 billion dollars ahead of Polymarket US at 2.84 billion dollars. ([Next Event Horizon](https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc))",
+      "image_url": null,
+      "published": "2026-10-14T08:00:00-04:00",
+      "source": "2026-10-14_0800-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0800-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0800-edt-4",
+      "title": "Analysis warns one trader can move prediction market odds in thin, low-depth markets",
+      "content_text": "- **Analysis warns one trader can move prediction market odds in thin, low-depth markets** — An analysis of prediction market manipulation says a single large trade can shift odds in markets with wide spreads and low depth, and advises checking liquidity, participation and settlement rules before treating a price move as consensus. ([CryptoAI Meta](https://cryptoaimeta.com/investments/prediction-market-manipulation-explained-can-one-trader-move-the-odds/))",
+      "content_html": "<p>- **Analysis warns one trader can move prediction market odds in thin, low-depth markets** — An analysis of prediction market manipulation says a single large trade can shift odds in markets with wide spreads and low depth, and advises checking liquidity, participation and settlement rules before treating a price move as consensus. ([CryptoAI Meta](https://cryptoaimeta.com/investments/prediction-market-manipulation-explained-can-one-trader-move-the-odds/))</p>",
+      "date_published": "2026-10-14T08:00:00-04:00",
+      "date_modified": "2026-10-14T08:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://cryptoaimeta.com/investments/prediction-market-manipulation-explained-can-one-trader-move-the-odds/",
+      "links": [
+        "https://cryptoaimeta.com/investments/prediction-market-manipulation-explained-can-one-trader-move-the-odds/"
+      ],
+      "timestamp": "Oct 14, 2026 · 8:00 AM ET",
+      "body": "- **Analysis warns one trader can move prediction market odds in thin, low-depth markets** — An analysis of prediction market manipulation says a single large trade can shift odds in markets with wide spreads and low depth, and advises checking liquidity, participation and settlement rules before treating a price move as consensus. ([CryptoAI Meta](https://cryptoaimeta.com/investments/prediction-market-manipulation-explained-can-one-trader-move-the-odds/))",
+      "image_url": null,
+      "published": "2026-10-14T08:00:00-04:00",
+      "source": "2026-10-14_0800-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_0754-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0754-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKalshi files to end its volume incentive program as Ether perpetuals face scrutiny\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory filing leads, in a category different from the previous…\n#PredictionMarkets #Kalshi #CFTC\nhttps://coincentral.com/kalshi-ends-volume-reward-program-as-ether-trade-scrutiny-grows-heres-why/\n\nNBA and WNBA name prediction markets alongside sports betting in a new responsible gaming campaign\nThe leagues announced the campaign with the National Council on Problem Gambling on Oct. 13, to launch during the 2026-27 season, framing prediction-market trading and…\n#PredictionMarkets\nhttps://igaming-times.com/news/sports-betting/nba-and-wnba-name-prediction-markets-alongside-sports-betting-in-new-responsible-gaming-campaign\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi files to end its volume incentive program as Ether perpetuals face scrutiny<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory filing leads, in a category different from the previous…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://coincentral.com/kalshi-ends-volume-reward-program-as-ether-trade-scrutiny-grows-heres-why/<br/><br/>NBA and WNBA name prediction markets alongside sports betting in a new responsible gaming campaign<br/>The leagues announced the campaign with the National Council on Problem Gambling on Oct. 13, to launch during the 2026-27 season, framing prediction-market trading and…<br/>#PredictionMarkets<br/>https://igaming-times.com/news/sports-betting/nba-and-wnba-name-prediction-markets-alongside-sports-betting-in-new-responsible-gaming-campaign<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T07:54:00-04:00",
+      "date_modified": "2026-10-14T07:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://coincentral.com/kalshi-ends-volume-reward-program-as-ether-trade-scrutiny-grows-heres-why/",
+      "links": [
+        "https://coincentral.com/kalshi-ends-volume-reward-program-as-ether-trade-scrutiny-grows-heres-why/",
+        "https://igaming-times.com/news/sports-betting/nba-and-wnba-name-prediction-markets-alongside-sports-betting-in-new-responsible-gaming-campaign"
+      ],
+      "timestamp": "Oct 14, 2026 · 7:54 AM ET",
+      "body": "Infiniti Briefing\n\nKalshi files to end its volume incentive program as Ether perpetuals face scrutiny\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory filing leads, in a category different from the previous…\n#PredictionMarkets #Kalshi #CFTC\nhttps://coincentral.com/kalshi-ends-volume-reward-program-as-ether-trade-scrutiny-grows-heres-why/\n\nNBA and WNBA name prediction markets alongside sports betting in a new responsible gaming campaign\nThe leagues announced the campaign with the National Council on Problem Gambling on Oct. 13, to launch during the 2026-27 season, framing prediction-market trading and…\n#PredictionMarkets\nhttps://igaming-times.com/news/sports-betting/nba-and-wnba-name-prediction-markets-alongside-sports-betting-in-new-responsible-gaming-campaign\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T07:54:00-04:00",
+      "source": "2026-10-14_0754-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0745-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0745-edt-0",
@@ -4506,195 +4681,6 @@
       "image_url": null,
       "published": "2026-10-14T01:30:00-04:00",
       "source": "2026-10-14_0130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0130-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0130-edt-2",
-      "title": "Polymarket OpenAI spy market launched October 13 leads with Google at 12 percent",
-      "content_text": "- **Polymarket OpenAI spy market launched October 13 leads with Google at 12 percent** — Polymarket launched a market on October 13 asking who the OpenAI spy will be accused of working for in 2026, with 10 possible outcomes. Google leads at 12 percent, followed by Saudi Arabia at 10 percent, and the market has generated 13,500 dollars in total volume since launch. ([Polymarket](https://polymarket.com/event/who-will-the-openai-spy-be-accused-of-working-for-in-2026))",
-      "content_html": "<p>- **Polymarket OpenAI spy market launched October 13 leads with Google at 12 percent** — Polymarket launched a market on October 13 asking who the OpenAI spy will be accused of working for in 2026, with 10 possible outcomes. Google leads at 12 percent, followed by Saudi Arabia at 10 percent, and the market has generated 13,500 dollars in total volume since launch. ([Polymarket](https://polymarket.com/event/who-will-the-openai-spy-be-accused-of-working-for-in-2026))</p>",
-      "date_published": "2026-10-14T01:30:00-04:00",
-      "date_modified": "2026-10-14T01:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/who-will-the-openai-spy-be-accused-of-working-for-in-2026",
-      "links": [
-        "https://polymarket.com/event/who-will-the-openai-spy-be-accused-of-working-for-in-2026"
-      ],
-      "timestamp": "Oct 14, 2026 · 1:30 AM ET",
-      "body": "- **Polymarket OpenAI spy market launched October 13 leads with Google at 12 percent** — Polymarket launched a market on October 13 asking who the OpenAI spy will be accused of working for in 2026, with 10 possible outcomes. Google leads at 12 percent, followed by Saudi Arabia at 10 percent, and the market has generated 13,500 dollars in total volume since launch. ([Polymarket](https://polymarket.com/event/who-will-the-openai-spy-be-accused-of-working-for-in-2026))",
-      "image_url": null,
-      "published": "2026-10-14T01:30:00-04:00",
-      "source": "2026-10-14_0130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0130-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0130-edt-3",
-      "title": "Polymarket prices US-Iran ceasefire at 80.5 percent and NATO-Russia clash at 24.5 percent",
-      "content_text": "- **Polymarket prices US-Iran ceasefire at 80.5 percent and NATO-Russia clash at 24.5 percent** — A roundup of October 13 prediction market odds puts a US-Iran ceasefire at 80.5 percent and a NATO-Russia clash at 24.5 percent on Polymarket. The same roundup places Serbia's Student List at 37.5 percent and an October Fed hike at 19.5 percent. ([Casino Reviews](https://www.casinoreviews.net/news/fed-hike-ceasefire-and-nato-odds-rise-as-serbia-market-falls/))",
-      "content_html": "<p>- **Polymarket prices US-Iran ceasefire at 80.5 percent and NATO-Russia clash at 24.5 percent** — A roundup of October 13 prediction market odds puts a US-Iran ceasefire at 80.5 percent and a NATO-Russia clash at 24.5 percent on Polymarket. The same roundup places Serbia&#x27;s Student List at 37.5 percent and an October Fed hike at 19.5 percent. ([Casino Reviews](https://www.casinoreviews.net/news/fed-hike-ceasefire-and-nato-odds-rise-as-serbia-market-falls/))</p>",
-      "date_published": "2026-10-14T01:30:00-04:00",
-      "date_modified": "2026-10-14T01:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.casinoreviews.net/news/fed-hike-ceasefire-and-nato-odds-rise-as-serbia-market-falls/",
-      "links": [
-        "https://www.casinoreviews.net/news/fed-hike-ceasefire-and-nato-odds-rise-as-serbia-market-falls/"
-      ],
-      "timestamp": "Oct 14, 2026 · 1:30 AM ET",
-      "body": "- **Polymarket prices US-Iran ceasefire at 80.5 percent and NATO-Russia clash at 24.5 percent** — A roundup of October 13 prediction market odds puts a US-Iran ceasefire at 80.5 percent and a NATO-Russia clash at 24.5 percent on Polymarket. The same roundup places Serbia's Student List at 37.5 percent and an October Fed hike at 19.5 percent. ([Casino Reviews](https://www.casinoreviews.net/news/fed-hike-ceasefire-and-nato-odds-rise-as-serbia-market-falls/))",
-      "image_url": null,
-      "published": "2026-10-14T01:30:00-04:00",
-      "source": "2026-10-14_0130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0130-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0130-edt-4",
-      "title": "Genius Sports CEO says Kalshi and Polymarket deals centre on official data for settlement",
-      "content_text": "- **Genius Sports CEO says Kalshi and Polymarket deals centre on official data for settlement** — Genius Sports announced separate deals with Kalshi and Polymarket that allow the operators to use its data to settle sports contracts. CEO Mark Locke said the agreements also include information-sharing and integrity services, restrictions on certain market types, and greater visibility into trading activity. ([SBC Americas](https://sbcamericas.com/2026/08/07/genius-sports-ceo-kalshi-polymarket/))",
-      "content_html": "<p>- **Genius Sports CEO says Kalshi and Polymarket deals centre on official data for settlement** — Genius Sports announced separate deals with Kalshi and Polymarket that allow the operators to use its data to settle sports contracts. CEO Mark Locke said the agreements also include information-sharing and integrity services, restrictions on certain market types, and greater visibility into trading activity. ([SBC Americas](https://sbcamericas.com/2026/08/07/genius-sports-ceo-kalshi-polymarket/))</p>",
-      "date_published": "2026-10-14T01:30:00-04:00",
-      "date_modified": "2026-10-14T01:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://sbcamericas.com/2026/08/07/genius-sports-ceo-kalshi-polymarket/",
-      "links": [
-        "https://sbcamericas.com/2026/08/07/genius-sports-ceo-kalshi-polymarket/"
-      ],
-      "timestamp": "Oct 14, 2026 · 1:30 AM ET",
-      "body": "- **Genius Sports CEO says Kalshi and Polymarket deals centre on official data for settlement** — Genius Sports announced separate deals with Kalshi and Polymarket that allow the operators to use its data to settle sports contracts. CEO Mark Locke said the agreements also include information-sharing and integrity services, restrictions on certain market types, and greater visibility into trading activity. ([SBC Americas](https://sbcamericas.com/2026/08/07/genius-sports-ceo-kalshi-polymarket/))",
-      "image_url": null,
-      "published": "2026-10-14T01:30:00-04:00",
-      "source": "2026-10-14_0130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_0124-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0124-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBarcelona tops the Champions League 2027 champion book at 24% on $1.1M in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Elections\nhttps://polydict.app/markets\n\nFed decision in October is the top market by 24-hour volume at $1.4M, with no change at 81%\nPolydict ranks the October Fed decision first overall at $1.4M in 24 hours, pricing no change at 81% ahead of the Oct. 29 close — a Fed-contract volume snapshot not…\n#PredictionMarkets\nhttps://polydict.app/markets\n\nBallon d'Or winner market draws $840K in 24 hours, with Harry Kane at 63%\nThe 2026 winner contract ranks fifth by 24-hour volume on Polydict's board at $840K, with Kane the clear leader at 63% ahead of its Jan. 1 resolution — a culture/awards…\n#PredictionMarkets\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Barcelona tops the Champions League 2027 champion book at 24% on $1.1M in 24 hours<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…<br/>#PredictionMarkets #Elections<br/>https://polydict.app/markets<br/><br/>Fed decision in October is the top market by 24-hour volume at $1.4M, with no change at 81%<br/>Polydict ranks the October Fed decision first overall at $1.4M in 24 hours, pricing no change at 81% ahead of the Oct. 29 close — a Fed-contract volume snapshot not…<br/>#PredictionMarkets<br/>https://polydict.app/markets<br/><br/>Ballon d&#x27;Or winner market draws $840K in 24 hours, with Harry Kane at 63%<br/>The 2026 winner contract ranks fifth by 24-hour volume on Polydict&#x27;s board at $840K, with Kane the clear leader at 63% ahead of its Jan. 1 resolution — a culture/awards…<br/>#PredictionMarkets<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-14T01:24:00-04:00",
-      "date_modified": "2026-10-14T01:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Elections",
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum",
-        "Solana",
-        "Gold",
-        "Silver"
-      ],
-      "image": null,
-      "external_url": "https://polydict.app/markets",
-      "links": [
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 14, 2026 · 1:24 AM ET",
-      "body": "Infiniti Briefing\n\nBarcelona tops the Champions League 2027 champion book at 24% on $1.1M in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Elections\nhttps://polydict.app/markets\n\nFed decision in October is the top market by 24-hour volume at $1.4M, with no change at 81%\nPolydict ranks the October Fed decision first overall at $1.4M in 24 hours, pricing no change at 81% ahead of the Oct. 29 close — a Fed-contract volume snapshot not…\n#PredictionMarkets\nhttps://polydict.app/markets\n\nBallon d'Or winner market draws $840K in 24 hours, with Harry Kane at 63%\nThe 2026 winner contract ranks fifth by 24-hour volume on Polydict's board at $840K, with Kane the clear leader at 63% ahead of its Jan. 1 resolution — a culture/awards…\n#PredictionMarkets\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-14T01:24:00-04:00",
-      "source": "2026-10-14_0124-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_0109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0109-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKansas Senate money floods in, but traders still favor Marshall — Democrats priced at 38.5%, up from 36% a day earlier\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fundraising snapshot leads, in a fundraising/business category different…\n#PredictionMarkets #Senate #Elections\nhttps://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/\n\nWeekend volume topped $10B for the first time, with Kalshi at $7.87B and combos near 70% of its flow\nTickerTracker put weekend notional at $10.4B (+11% vs. the prior weekend) and DeFi Rate near $10.5B, with Kalshi setting consecutive daily records of $3.91B Saturday and…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kansas Senate money floods in, but traders still favor Marshall — Democrats priced at 38.5%, up from 36% a day earlier<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fundraising snapshot leads, in a fundraising/business category different…<br/>#PredictionMarkets #Senate #Elections<br/>https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/<br/><br/>Weekend volume topped $10B for the first time, with Kalshi at $7.87B and combos near 70% of its flow<br/>TickerTracker put weekend notional at $10.4B (+11% vs. the prior weekend) and DeFi Rate near $10.5B, with Kalshi setting consecutive daily records of $3.91B Saturday and…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-14T01:09:00-04:00",
-      "date_modified": "2026-10-14T01:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Senate",
-        "Elections",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/",
-      "links": [
-        "https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/",
-        "https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll"
-      ],
-      "timestamp": "Oct 14, 2026 · 1:09 AM ET",
-      "body": "Infiniti Briefing\n\nKansas Senate money floods in, but traders still favor Marshall — Democrats priced at 38.5%, up from 36% a day earlier\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fundraising snapshot leads, in a fundraising/business category different…\n#PredictionMarkets #Senate #Elections\nhttps://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/\n\nWeekend volume topped $10B for the first time, with Kalshi at $7.87B and combos near 70% of its flow\nTickerTracker put weekend notional at $10.4B (+11% vs. the prior weekend) and DeFi Rate near $10.5B, with Kalshi setting consecutive daily records of $3.91B Saturday and…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-14T01:09:00-04:00",
-      "source": "2026-10-14_0109-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0100-edt-0",
-      "title": "Ethereum price calls split as Polymarket prices 3,000 dollars at 49 percent",
-      "content_text": "- **Ethereum price calls split as Polymarket prices 3,000 dollars at 49 percent** — Polymarket traders price Ethereum reaching 3,000 dollars before 2027 at 49 percent in a market with about 17.3 million dollars in volume, while Kalshi forecasts a year-end level near 2,720 dollars. ([CryptoNews](https://cryptonews.net/news/ethereum/33558592/))",
-      "content_html": "<p>- **Ethereum price calls split as Polymarket prices 3,000 dollars at 49 percent** — Polymarket traders price Ethereum reaching 3,000 dollars before 2027 at 49 percent in a market with about 17.3 million dollars in volume, while Kalshi forecasts a year-end level near 2,720 dollars. ([CryptoNews](https://cryptonews.net/news/ethereum/33558592/))</p>",
-      "date_published": "2026-10-14T01:00:00-04:00",
-      "date_modified": "2026-10-14T01:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://cryptonews.net/news/ethereum/33558592/",
-      "links": [
-        "https://cryptonews.net/news/ethereum/33558592/"
-      ],
-      "timestamp": "Oct 14, 2026 · 1:00 AM ET",
-      "body": "- **Ethereum price calls split as Polymarket prices 3,000 dollars at 49 percent** — Polymarket traders price Ethereum reaching 3,000 dollars before 2027 at 49 percent in a market with about 17.3 million dollars in volume, while Kalshi forecasts a year-end level near 2,720 dollars. ([CryptoNews](https://cryptonews.net/news/ethereum/33558592/))",
-      "image_url": null,
-      "published": "2026-10-14T01:00:00-04:00",
-      "source": "2026-10-14_0100-edt.json",
       "matches_facebook_post": false
     }
   ]
