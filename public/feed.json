@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T09:18:58.048248-04:00",
+  "updated": "2026-10-14T09:34:48.301709-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,192 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_0930-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0930-edt-0",
+      "title": "CFTC orders Kalshi to keep operating amid New York lawsuit",
+      "content_text": "- **CFTC orders Kalshi to keep operating amid New York lawsuit** — The CFTC directed Kalshi to continue operating while New York sues the exchange, alleging it runs an unlicensed gambling business through sports, election and culture contracts. The order does not end the lawsuit or resolve whether federal law preempts state gambling enforcement. ([Cointelegraph](https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit))",
+      "content_html": "<p>- **CFTC orders Kalshi to keep operating amid New York lawsuit** — The CFTC directed Kalshi to continue operating while New York sues the exchange, alleging it runs an unlicensed gambling business through sports, election and culture contracts. The order does not end the lawsuit or resolve whether federal law preempts state gambling enforcement. ([Cointelegraph](https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit))</p>",
+      "date_published": "2026-10-14T09:30:00-04:00",
+      "date_modified": "2026-10-14T09:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit",
+      "links": [
+        "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:30 AM ET",
+      "body": "- **CFTC orders Kalshi to keep operating amid New York lawsuit** — The CFTC directed Kalshi to continue operating while New York sues the exchange, alleging it runs an unlicensed gambling business through sports, election and culture contracts. The order does not end the lawsuit or resolve whether federal law preempts state gambling enforcement. ([Cointelegraph](https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit))",
+      "image_url": null,
+      "published": "2026-10-14T09:30:00-04:00",
+      "source": "2026-10-14_0930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0930-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0930-edt-1",
+      "title": "Ohio Senate market prices Brown at 60 to 63 percent against Husted on Polymarket",
+      "content_text": "- **Ohio Senate market prices Brown at 60 to 63 percent against Husted on Polymarket** — Polymarket traders price Democrat Sherrod Brown at 60 to 63 percent against Republican Jon Husted in the Ohio Senate race. Recent polling is mixed, with surveys showing Brown ahead by 3 to 6 points, tied, or Husted up by one point. ([Action Network](https://www.actionnetwork.com/politics/ohio-senate-race-can-trumps-rally-move-the-odds-for-husted-amid-data-center-backlash))",
+      "content_html": "<p>- **Ohio Senate market prices Brown at 60 to 63 percent against Husted on Polymarket** — Polymarket traders price Democrat Sherrod Brown at 60 to 63 percent against Republican Jon Husted in the Ohio Senate race. Recent polling is mixed, with surveys showing Brown ahead by 3 to 6 points, tied, or Husted up by one point. ([Action Network](https://www.actionnetwork.com/politics/ohio-senate-race-can-trumps-rally-move-the-odds-for-husted-amid-data-center-backlash))</p>",
+      "date_published": "2026-10-14T09:30:00-04:00",
+      "date_modified": "2026-10-14T09:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/politics/ohio-senate-race-can-trumps-rally-move-the-odds-for-husted-amid-data-center-backlash",
+      "links": [
+        "https://www.actionnetwork.com/politics/ohio-senate-race-can-trumps-rally-move-the-odds-for-husted-amid-data-center-backlash"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:30 AM ET",
+      "body": "- **Ohio Senate market prices Brown at 60 to 63 percent against Husted on Polymarket** — Polymarket traders price Democrat Sherrod Brown at 60 to 63 percent against Republican Jon Husted in the Ohio Senate race. Recent polling is mixed, with surveys showing Brown ahead by 3 to 6 points, tied, or Husted up by one point. ([Action Network](https://www.actionnetwork.com/politics/ohio-senate-race-can-trumps-rally-move-the-odds-for-husted-amid-data-center-backlash))",
+      "image_url": null,
+      "published": "2026-10-14T09:30:00-04:00",
+      "source": "2026-10-14_0930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0930-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0930-edt-2",
+      "title": "Polymarket launches Trump Montana rally mention market with coal and diesel at 79 percent",
+      "content_text": "- **Polymarket launches Trump Montana rally mention market with coal and diesel at 79 percent** — Polymarket launched a mention market on October 13 for what Trump will say during his midterm rally in Montana, with 20 possible outcomes. The leading outcome, coal or diesel, is priced at 79 percent. ([Polymarket](https://polymarket.com/event/what-will-trump-say-during-his-midterm-rally-in-montana-october-14?marketSlug=will-trump-say-job-during-his-midterm-rally-in-montana-october-14&outcomeIndex=0))",
+      "content_html": "<p>- **Polymarket launches Trump Montana rally mention market with coal and diesel at 79 percent** — Polymarket launched a mention market on October 13 for what Trump will say during his midterm rally in Montana, with 20 possible outcomes. The leading outcome, coal or diesel, is priced at 79 percent. ([Polymarket](https://polymarket.com/event/what-will-trump-say-during-his-midterm-rally-in-montana-october-14?marketSlug=will-trump-say-job-during-his-midterm-rally-in-montana-october-14&amp;outcomeIndex=0))</p>",
+      "date_published": "2026-10-14T09:30:00-04:00",
+      "date_modified": "2026-10-14T09:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/what-will-trump-say-during-his-midterm-rally-in-montana-october-14?marketSlug=will-trump-say-job-during-his-midterm-rally-in-montana-october-14&outcomeIndex=0",
+      "links": [
+        "https://polymarket.com/event/what-will-trump-say-during-his-midterm-rally-in-montana-october-14?marketSlug=will-trump-say-job-during-his-midterm-rally-in-montana-october-14&outcomeIndex=0"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:30 AM ET",
+      "body": "- **Polymarket launches Trump Montana rally mention market with coal and diesel at 79 percent** — Polymarket launched a mention market on October 13 for what Trump will say during his midterm rally in Montana, with 20 possible outcomes. The leading outcome, coal or diesel, is priced at 79 percent. ([Polymarket](https://polymarket.com/event/what-will-trump-say-during-his-midterm-rally-in-montana-october-14?marketSlug=will-trump-say-job-during-his-midterm-rally-in-montana-october-14&outcomeIndex=0))",
+      "image_url": null,
+      "published": "2026-10-14T09:30:00-04:00",
+      "source": "2026-10-14_0930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0930-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0930-edt-3",
+      "title": "Polymarket box office market prices Social Reckoning second weekend at 1 to 2 million dollars",
+      "content_text": "- **Polymarket box office market prices Social Reckoning second weekend at 1 to 2 million dollars** — A Polymarket market launched October 13 prices the second weekend box office for The Social Reckoning most likely in the 1 million to 2 million dollar range, at 95 percent. The under 1 million dollar outcome sits at 86 percent among the six listed ranges. ([Polymarket](https://polymarket.com/event/the-social-reckoning-2nd-weekend-box-office-20261018?marketSlug=will-the-social-reckoning-2nd-weekend-box-office-be-between-1m-and-2m-20261018&outcomeIndex=0))",
+      "content_html": "<p>- **Polymarket box office market prices Social Reckoning second weekend at 1 to 2 million dollars** — A Polymarket market launched October 13 prices the second weekend box office for The Social Reckoning most likely in the 1 million to 2 million dollar range, at 95 percent. The under 1 million dollar outcome sits at 86 percent among the six listed ranges. ([Polymarket](https://polymarket.com/event/the-social-reckoning-2nd-weekend-box-office-20261018?marketSlug=will-the-social-reckoning-2nd-weekend-box-office-be-between-1m-and-2m-20261018&amp;outcomeIndex=0))</p>",
+      "date_published": "2026-10-14T09:30:00-04:00",
+      "date_modified": "2026-10-14T09:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/the-social-reckoning-2nd-weekend-box-office-20261018?marketSlug=will-the-social-reckoning-2nd-weekend-box-office-be-between-1m-and-2m-20261018&outcomeIndex=0",
+      "links": [
+        "https://polymarket.com/event/the-social-reckoning-2nd-weekend-box-office-20261018?marketSlug=will-the-social-reckoning-2nd-weekend-box-office-be-between-1m-and-2m-20261018&outcomeIndex=0"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:30 AM ET",
+      "body": "- **Polymarket box office market prices Social Reckoning second weekend at 1 to 2 million dollars** — A Polymarket market launched October 13 prices the second weekend box office for The Social Reckoning most likely in the 1 million to 2 million dollar range, at 95 percent. The under 1 million dollar outcome sits at 86 percent among the six listed ranges. ([Polymarket](https://polymarket.com/event/the-social-reckoning-2nd-weekend-box-office-20261018?marketSlug=will-the-social-reckoning-2nd-weekend-box-office-be-between-1m-and-2m-20261018&outcomeIndex=0))",
+      "image_url": null,
+      "published": "2026-10-14T09:30:00-04:00",
+      "source": "2026-10-14_0930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0930-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0930-edt-4",
+      "title": "Polymarket App Store market puts ChatGPT at 39 percent for number two free app on October 16",
+      "content_text": "- **Polymarket App Store market puts ChatGPT at 39 percent for number two free app on October 16** — Polymarket traders price ChatGPT at 39 percent to be the number two free app in the U.S. Apple App Store on October 16, just ahead of Vinted at 37 percent. The market lists six possible outcomes and was created on October 12. ([Polymarket](https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012))",
+      "content_html": "<p>- **Polymarket App Store market puts ChatGPT at 39 percent for number two free app on October 16** — Polymarket traders price ChatGPT at 39 percent to be the number two free app in the U.S. Apple App Store on October 16, just ahead of Vinted at 37 percent. The market lists six possible outcomes and was created on October 12. ([Polymarket](https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012))</p>",
+      "date_published": "2026-10-14T09:30:00-04:00",
+      "date_modified": "2026-10-14T09:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012",
+      "links": [
+        "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:30 AM ET",
+      "body": "- **Polymarket App Store market puts ChatGPT at 39 percent for number two free app on October 16** — Polymarket traders price ChatGPT at 39 percent to be the number two free app in the U.S. Apple App Store on October 16, just ahead of Vinted at 37 percent. The market lists six possible outcomes and was created on October 12. ([Polymarket](https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012))",
+      "image_url": null,
+      "published": "2026-10-14T09:30:00-04:00",
+      "source": "2026-10-14_0930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_0924-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0924-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBrewers vs. Dodgers Game 3 priced Dodgers 62%, Brewers 38% on Polymarket US\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Polymarket\nhttps://www.sportsline.com/prediction/polymarket-promo-code/\n\nMinti Markets launches copy trading for prediction markets, starting with Polymarket\nA London launch on Oct. 14 pitches following top forecasters' public on-chain track records across sports, geopolitics and economics, aimed at users who cannot monitor…\n#PredictionMarkets #Polymarket\nhttps://atlanticbrief.com/the-next-era-of-prediction-markets-how-minti-markets-is-using-copy-trading-to-drive-mainstream-adoption/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Brewers vs. Dodgers Game 3 priced Dodgers 62%, Brewers 38% on Polymarket US<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…<br/>#PredictionMarkets #Polymarket<br/>https://www.sportsline.com/prediction/polymarket-promo-code/<br/><br/>Minti Markets launches copy trading for prediction markets, starting with Polymarket<br/>A London launch on Oct. 14 pitches following top forecasters&#x27; public on-chain track records across sports, geopolitics and economics, aimed at users who cannot monitor…<br/>#PredictionMarkets #Polymarket<br/>https://atlanticbrief.com/the-next-era-of-prediction-markets-how-minti-markets-is-using-copy-trading-to-drive-mainstream-adoption/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T09:24:00-04:00",
+      "date_modified": "2026-10-14T09:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Bitcoin",
+        "Ethereum",
+        "Gold",
+        "Silver",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsline.com/prediction/polymarket-promo-code/",
+      "links": [
+        "https://www.sportsline.com/prediction/polymarket-promo-code/",
+        "https://atlanticbrief.com/the-next-era-of-prediction-markets-how-minti-markets-is-using-copy-trading-to-drive-mainstream-adoption/"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:24 AM ET",
+      "body": "Infiniti Briefing\n\nBrewers vs. Dodgers Game 3 priced Dodgers 62%, Brewers 38% on Polymarket US\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Polymarket\nhttps://www.sportsline.com/prediction/polymarket-promo-code/\n\nMinti Markets launches copy trading for prediction markets, starting with Polymarket\nA London launch on Oct. 14 pitches following top forecasters' public on-chain track records across sports, geopolitics and economics, aimed at users who cannot monitor…\n#PredictionMarkets #Polymarket\nhttps://atlanticbrief.com/the-next-era-of-prediction-markets-how-minti-markets-is-using-copy-trading-to-drive-mainstream-adoption/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T09:24:00-04:00",
+      "source": "2026-10-14_0924-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0915-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0915-edt-0",
@@ -4515,192 +4701,6 @@
       "image_url": null,
       "published": "2026-10-14T03:15:00-04:00",
       "source": "2026-10-14_0315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0315-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0315-edt-3",
-      "title": "DraftKings builds its own prediction exchange while FanDuel leans on partners, comparison finds",
-      "content_text": "- **DraftKings builds its own prediction exchange while FanDuel leans on partners, comparison finds** — DraftKings launched its own exchange, DKeX, in June using technology and a CFTC license gained from buying Railbird Technologies, while FanDuel kept CME Group for financial contracts and moved sports and novelty contracts to Crypto.com. The comparison notes FanDuel market making began in April 2026 with about 50 million dollars expected in 2026. ([GamblingSite](https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/))",
-      "content_html": "<p>- **DraftKings builds its own prediction exchange while FanDuel leans on partners, comparison finds** — DraftKings launched its own exchange, DKeX, in June using technology and a CFTC license gained from buying Railbird Technologies, while FanDuel kept CME Group for financial contracts and moved sports and novelty contracts to Crypto.com. The comparison notes FanDuel market making began in April 2026 with about 50 million dollars expected in 2026. ([GamblingSite](https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/))</p>",
-      "date_published": "2026-10-14T03:15:00-04:00",
-      "date_modified": "2026-10-14T03:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/",
-      "links": [
-        "https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/"
-      ],
-      "timestamp": "Oct 14, 2026 · 3:15 AM ET",
-      "body": "- **DraftKings builds its own prediction exchange while FanDuel leans on partners, comparison finds** — DraftKings launched its own exchange, DKeX, in June using technology and a CFTC license gained from buying Railbird Technologies, while FanDuel kept CME Group for financial contracts and moved sports and novelty contracts to Crypto.com. The comparison notes FanDuel market making began in April 2026 with about 50 million dollars expected in 2026. ([GamblingSite](https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-14T03:15:00-04:00",
-      "source": "2026-10-14_0315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0315-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0315-edt-4",
-      "title": "Jay-Z leads Polymarket Super Bowl LXI halftime market at 68 percent",
-      "content_text": "- **Jay-Z leads Polymarket Super Bowl LXI halftime market at 68 percent** — Polymarket traders moved Jay-Z to the top of the Super Bowl LXI halftime headliner market on October 13, pricing him at 68 percent ahead of names including Miley Cyrus. The NFL has not yet announced a headliner for the game, set for February 14, 2027 at SoFi Stadium. ([Soap Central](https://www.soapcentral.com/entertainment/news-by-who-internet-reacts-jay-z-becomes-current-favorite-headline-super-bowl-halftime-show-polymarket-traders))",
-      "content_html": "<p>- **Jay-Z leads Polymarket Super Bowl LXI halftime market at 68 percent** — Polymarket traders moved Jay-Z to the top of the Super Bowl LXI halftime headliner market on October 13, pricing him at 68 percent ahead of names including Miley Cyrus. The NFL has not yet announced a headliner for the game, set for February 14, 2027 at SoFi Stadium. ([Soap Central](https://www.soapcentral.com/entertainment/news-by-who-internet-reacts-jay-z-becomes-current-favorite-headline-super-bowl-halftime-show-polymarket-traders))</p>",
-      "date_published": "2026-10-14T03:15:00-04:00",
-      "date_modified": "2026-10-14T03:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.soapcentral.com/entertainment/news-by-who-internet-reacts-jay-z-becomes-current-favorite-headline-super-bowl-halftime-show-polymarket-traders",
-      "links": [
-        "https://www.soapcentral.com/entertainment/news-by-who-internet-reacts-jay-z-becomes-current-favorite-headline-super-bowl-halftime-show-polymarket-traders"
-      ],
-      "timestamp": "Oct 14, 2026 · 3:15 AM ET",
-      "body": "- **Jay-Z leads Polymarket Super Bowl LXI halftime market at 68 percent** — Polymarket traders moved Jay-Z to the top of the Super Bowl LXI halftime headliner market on October 13, pricing him at 68 percent ahead of names including Miley Cyrus. The NFL has not yet announced a headliner for the game, set for February 14, 2027 at SoFi Stadium. ([Soap Central](https://www.soapcentral.com/entertainment/news-by-who-internet-reacts-jay-z-becomes-current-favorite-headline-super-bowl-halftime-show-polymarket-traders))",
-      "image_url": null,
-      "published": "2026-10-14T03:15:00-04:00",
-      "source": "2026-10-14_0315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_0309-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0309-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKalshi posts a $19.03B week, Polymarket US hits $2.72B in the same week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://cryptobriefing.com/kalshi-daily-volume-records-parlays/\n\nKalshi adds Brier scores, low-volume tags and real-time activity feeds to its 2026 midterm markets\nThe new transparency features score forecast accuracy, flag thin contracts and stream live activity on midterm election markets, where 2026 trading is already running…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionauthority.com/news/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi posts a $19.03B week, Polymarket US hits $2.72B in the same week<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://cryptobriefing.com/kalshi-daily-volume-records-parlays/<br/><br/>Kalshi adds Brier scores, low-volume tags and real-time activity feeds to its 2026 midterm markets<br/>The new transparency features score forecast accuracy, flag thin contracts and stream live activity on midterm election markets, where 2026 trading is already running…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/>https://predictionauthority.com/news/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-14T03:09:00-04:00",
-      "date_modified": "2026-10-14T03:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://cryptobriefing.com/kalshi-daily-volume-records-parlays/",
-      "links": [
-        "https://cryptobriefing.com/kalshi-daily-volume-records-parlays/",
-        "https://predictionauthority.com/news/"
-      ],
-      "timestamp": "Oct 14, 2026 · 3:09 AM ET",
-      "body": "Infiniti Briefing\n\nKalshi posts a $19.03B week, Polymarket US hits $2.72B in the same week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://cryptobriefing.com/kalshi-daily-volume-records-parlays/\n\nKalshi adds Brier scores, low-volume tags and real-time activity feeds to its 2026 midterm markets\nThe new transparency features score forecast accuracy, flag thin contracts and stream live activity on midterm election markets, where 2026 trading is already running…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionauthority.com/news/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-14T03:09:00-04:00",
-      "source": "2026-10-14_0309-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_0254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0254-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nCFTC swaps package would write event contracts into the swap definition while carving out casino-style gambling\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh regulatory snapshot leads, in a legal/regulatory category different from…\n#PredictionMarkets #CFTC #Elections\nhttps://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/\n\nCalifornia Prop 40 wealth tax is a clear underdog: Yes at 30c on Polymarket, 26c on Kalshi\nBoth venues price the proposed one-time 5% billionaire wealth tax losing ahead of the Nov. 3 vote, with No at 71c on Polymarket and 74c on Kalshi — a California ballot…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-california\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>CFTC swaps package would write event contracts into the swap definition while carving out casino-style gambling<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh regulatory snapshot leads, in a legal/regulatory category different from…<br/>#PredictionMarkets #CFTC #Elections<br/>https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/<br/><br/>California Prop 40 wealth tax is a clear underdog: Yes at 30c on Polymarket, 26c on Kalshi<br/>Both venues price the proposed one-time 5% billionaire wealth tax losing ahead of the Nov. 3 vote, with No at 71c on Polymarket and 74c on Kalshi — a California ballot…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-california<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-14T02:54:00-04:00",
-      "date_modified": "2026-10-14T02:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "CFTC",
-        "Elections",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/",
-      "links": [
-        "https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/",
-        "https://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-california"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:54 AM ET",
-      "body": "Infiniti Briefing\n\nCFTC swaps package would write event contracts into the swap definition while carving out casino-style gambling\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh regulatory snapshot leads, in a legal/regulatory category different from…\n#PredictionMarkets #CFTC #Elections\nhttps://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/\n\nCalifornia Prop 40 wealth tax is a clear underdog: Yes at 30c on Polymarket, 26c on Kalshi\nBoth venues price the proposed one-time 5% billionaire wealth tax losing ahead of the Nov. 3 vote, with No at 71c on Polymarket and 74c on Kalshi — a California ballot…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-california\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-14T02:54:00-04:00",
-      "source": "2026-10-14_0254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0245-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0245-edt-0",
-      "title": "Most Americans oppose betting on elections and government events, Reuters/Ipsos poll finds",
-      "content_text": "- **Most Americans oppose betting on elections and government events, Reuters/Ipsos poll finds** — A Reuters/Ipsos poll conducted September 30 to October 5 found a bipartisan majority opposed to prediction market betting on government affairs, with 69 percent of Democrats and 61 percent of Republicans opposing election betting. Opposition reached 65 percent for bets on U.S. military actions and 63 percent for bets on government policy decisions. ([Reuters](https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/))",
-      "content_html": "<p>- **Most Americans oppose betting on elections and government events, Reuters/Ipsos poll finds** — A Reuters/Ipsos poll conducted September 30 to October 5 found a bipartisan majority opposed to prediction market betting on government affairs, with 69 percent of Democrats and 61 percent of Republicans opposing election betting. Opposition reached 65 percent for bets on U.S. military actions and 63 percent for bets on government policy decisions. ([Reuters](https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/))</p>",
-      "date_published": "2026-10-14T02:45:00-04:00",
-      "date_modified": "2026-10-14T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/",
-      "links": [
-        "https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:45 AM ET",
-      "body": "- **Most Americans oppose betting on elections and government events, Reuters/Ipsos poll finds** — A Reuters/Ipsos poll conducted September 30 to October 5 found a bipartisan majority opposed to prediction market betting on government affairs, with 69 percent of Democrats and 61 percent of Republicans opposing election betting. Opposition reached 65 percent for bets on U.S. military actions and 63 percent for bets on government policy decisions. ([Reuters](https://www.reuters.com/world/most-americans-oppose-betting-elections-government-events-reutersipsos-poll-2026-10-12/))",
-      "image_url": null,
-      "published": "2026-10-14T02:45:00-04:00",
-      "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0245-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0245-edt-1",
-      "title": "Fed hold for October 28 priced at about 82 percent as December hike odds reach about 77 percent",
-      "content_text": "- **Fed hold for October 28 priced at about 82 percent as December hike odds reach about 77 percent** — DeFi Rate data observed late on October 13 puts a Federal Reserve hold on October 28 at about 81 to 82 percent, with a hike near 19 percent, up 3 points in a week on Kalshi. A December hike is priced much higher, at about 75 to 77 percent. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
-      "content_html": "<p>- **Fed hold for October 28 priced at about 82 percent as December hike odds reach about 77 percent** — DeFi Rate data observed late on October 13 puts a Federal Reserve hold on October 28 at about 81 to 82 percent, with a hike near 19 percent, up 3 points in a week on Kalshi. A December hike is priced much higher, at about 75 to 77 percent. ([DeFi Rate](https://defirate.com/odds/fed-decision/))</p>",
-      "date_published": "2026-10-14T02:45:00-04:00",
-      "date_modified": "2026-10-14T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/fed-decision/",
-      "links": [
-        "https://defirate.com/odds/fed-decision/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:45 AM ET",
-      "body": "- **Fed hold for October 28 priced at about 82 percent as December hike odds reach about 77 percent** — DeFi Rate data observed late on October 13 puts a Federal Reserve hold on October 28 at about 81 to 82 percent, with a hike near 19 percent, up 3 points in a week on Kalshi. A December hike is priced much higher, at about 75 to 77 percent. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
-      "image_url": null,
-      "published": "2026-10-14T02:45:00-04:00",
-      "source": "2026-10-14_0245-edt.json",
       "matches_facebook_post": false
     }
   ]
