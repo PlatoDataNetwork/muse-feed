@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T17:06:49.027846-04:00",
+  "updated": "2026-10-14T17:13:51.982905-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_1709-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_1709-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKalshi's latest day totals $2.32B, with parlays at 62% of its flow\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #CFTC #DraftKings\nhttps://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc\n\nPerps fee and leverage gap: a $10,000 market order costs $12 on Kalshi vs. $4 on Polymarket\nA fee-and-leverage comparison puts Kalshi's perpetuals at 5.8x on Bitcoin, 4.4x on Ethereum and 15.2x on gold, with taker fees from 0.12%, after CFTC approval of its…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://www.datawallet.com/crypto/polymarket-vs-kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi&#x27;s latest day totals $2.32B, with parlays at 62% of its flow<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…<br/>#PredictionMarkets #Kalshi #CFTC #DraftKings<br/>https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc<br/><br/>Perps fee and leverage gap: a $10,000 market order costs $12 on Kalshi vs. $4 on Polymarket<br/>A fee-and-leverage comparison puts Kalshi&#x27;s perpetuals at 5.8x on Bitcoin, 4.4x on Ethereum and 15.2x on gold, with taker fees from 0.12%, after CFTC approval of its…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://www.datawallet.com/crypto/polymarket-vs-kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T17:09:00-04:00",
+      "date_modified": "2026-10-14T17:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "DraftKings",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc",
+      "links": [
+        "https://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc",
+        "https://www.datawallet.com/crypto/polymarket-vs-kalshi"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:09 PM ET",
+      "body": "Infiniti Briefing\n\nKalshi's latest day totals $2.32B, with parlays at 62% of its flow\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #CFTC #DraftKings\nhttps://nexteventhorizon.substack.com/p/what-the-heck-is-going-on-at-cftc\n\nPerps fee and leverage gap: a $10,000 market order costs $12 on Kalshi vs. $4 on Polymarket\nA fee-and-leverage comparison puts Kalshi's perpetuals at 5.8x on Bitcoin, 4.4x on Ethereum and 15.2x on gold, with taker fees from 0.12%, after CFTC approval of its…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://www.datawallet.com/crypto/polymarket-vs-kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T17:09:00-04:00",
+      "source": "2026-10-14_1709-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_1700-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1700-edt-0",
@@ -366,8 +400,8 @@
       "id": "infiniti-2026-10-14_1654-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_1654-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nLASK Linz vs. Liverpool correct-score market tops the entire board at $3.0M in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Elections\nhttps://defirate.com/odds/\n\nSports share of the top 50 climbs to 27 markets and $18M of $26M in 24-hour volume\nThe same DeFi Rate board puts sports at 27 of the top 50 markets, accounting for $18M of $26M in top-50 24-hour volume — updated figures from the 26-market, $14M-of-$22M…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>LASK Linz vs. Liverpool correct-score market tops the entire board at $3.0M in 24 hours<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…<br/>#PredictionMarkets #Elections<br/>https://defirate.com/odds/<br/><br/>Sports share of the top 50 climbs to 27 markets and $18M of $26M in 24-hour volume<br/>The same DeFi Rate board puts sports at 27 of the top 50 markets, accounting for $18M of $26M in top-50 24-hour volume — updated figures from the 26-market, $14M-of-$22M…<br/>#PredictionMarkets<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nLASK Linz vs. Liverpool correct-score market tops board at $3.0M in 24 hours\nDeFi Rate ranks the correct-score contract No. 1 by 24h volume at $3.0M, ahead of the moneyline at $2.6M.\n#Sports #PredictionMarkets #Liverpool\nhttps://defirate.com/odds/\n\nSports share of top 50 climbs to 27 markets, $18M of $26M in 24h volume\nSports now account for 27 of the top 50 markets and $18M of $26M in top-50 24h volume.\n#SportsMarkets #PredictionMarkets #Volume\nhttps://defirate.com/odds/\n\nKalshi Bitcoin 5pm ET contract draws $723K, $81,500 or above at 53c\nThe Oct. 14 contract ranks 10th overall, with $81,250 or above at 74c and $80,250 or above at 98c.\n#Bitcoin #Kalshi #Crypto\nhttps://defirate.com/odds/\n\nMarkets: Gold $4,085 | Oil $105.6 | BTC $81,729 | ETH $2,422\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>LASK Linz vs. Liverpool correct-score market tops board at $3.0M in 24 hours<br/>DeFi Rate ranks the correct-score contract No. 1 by 24h volume at $3.0M, ahead of the moneyline at $2.6M.<br/>#Sports #PredictionMarkets #Liverpool<br/>https://defirate.com/odds/<br/><br/>Sports share of top 50 climbs to 27 markets, $18M of $26M in 24h volume<br/>Sports now account for 27 of the top 50 markets and $18M of $26M in top-50 24h volume.<br/>#SportsMarkets #PredictionMarkets #Volume<br/>https://defirate.com/odds/<br/><br/>Kalshi Bitcoin 5pm ET contract draws $723K, $81,500 or above at 53c<br/>The Oct. 14 contract ranks 10th overall, with $81,250 or above at 74c and $80,250 or above at 98c.<br/>#Bitcoin #Kalshi #Crypto<br/>https://defirate.com/odds/<br/><br/>Markets: Gold $4,085 | Oil $105.6 | BTC $81,729 | ETH $2,422<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-14_1654-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-14T16:54:00-04:00",
       "date_modified": "2026-10-14T16:54:00-04:00",
       "authors": [
@@ -377,26 +411,26 @@
         }
       ],
       "tags": [
+        "Sports",
         "PredictionMarkets",
-        "Elections",
-        "Kalshi",
+        "Liverpool",
+        "SportsMarkets",
+        "Volume",
         "Bitcoin",
-        "Polymarket",
-        "Ethereum",
-        "Solana",
-        "Gold"
+        "Kalshi",
+        "Crypto"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-14_1654-edt.jpg",
       "external_url": "https://defirate.com/odds/",
       "links": [
         "https://defirate.com/odds/"
       ],
       "timestamp": "Oct 14, 2026 · 4:54 PM ET",
-      "body": "Infiniti Briefing\n\nLASK Linz vs. Liverpool correct-score market tops the entire board at $3.0M in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Elections\nhttps://defirate.com/odds/\n\nSports share of the top 50 climbs to 27 markets and $18M of $26M in 24-hour volume\nThe same DeFi Rate board puts sports at 27 of the top 50 markets, accounting for $18M of $26M in top-50 24-hour volume — updated figures from the 26-market, $14M-of-$22M…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nLASK Linz vs. Liverpool correct-score market tops board at $3.0M in 24 hours\nDeFi Rate ranks the correct-score contract No. 1 by 24h volume at $3.0M, ahead of the moneyline at $2.6M.\n#Sports #PredictionMarkets #Liverpool\nhttps://defirate.com/odds/\n\nSports share of top 50 climbs to 27 markets, $18M of $26M in 24h volume\nSports now account for 27 of the top 50 markets and $18M of $26M in top-50 24h volume.\n#SportsMarkets #PredictionMarkets #Volume\nhttps://defirate.com/odds/\n\nKalshi Bitcoin 5pm ET contract draws $723K, $81,500 or above at 53c\nThe Oct. 14 contract ranks 10th overall, with $81,250 or above at 74c and $80,250 or above at 98c.\n#Bitcoin #Kalshi #Crypto\nhttps://defirate.com/odds/\n\nMarkets: Gold $4,085 | Oil $105.6 | BTC $81,729 | ETH $2,422\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-14_1654-edt.jpg",
       "published": "2026-10-14T16:54:00-04:00",
       "source": "2026-10-14_1654-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-14_1645-edt-0",
@@ -15161,35 +15195,6 @@
       ],
       "timestamp": "Oct 14, 2026 · 2:30 AM ET",
       "body": "- **Sports trades made by 70 percent of prediction market users, S&P Global survey finds** — Casino.org reports an S&P Global Market Intelligence Kagan third-quarter survey found 10 percent of respondents traded on a yes or no exchange in the past year, and 70 percent of prediction market users traded sports contracts. The survey also found 42 percent were aware of operators but had not used them, and 44 percent had never heard of prediction markets. ([Casino.org](https://www.casino.org/news/sp-global-sports-still-king-on-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-14T02:30:00-04:00",
-      "source": "2026-10-14_0230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0230-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0230-edt-4",
-      "title": "Kalshi prices Lightning at 60 cents against Rangers in October 13 NHL market",
-      "content_text": "- **Kalshi prices Lightning at 60 cents against Rangers in October 13 NHL market** — Deadspin reports prediction markets priced Tampa Bay as a slight favorite at 60 cents for its October 13 game at the New York Rangers. Tampa Bay entered on a four-game win streak after losing its opener, while New York had won five of its last six games. ([Deadspin](https://deadspin.com/prediction-markets/trending/nhl/tampa-bay-lightning-v-new-york-rangers-predictions-10-13-2026/))",
-      "content_html": "<p>- **Kalshi prices Lightning at 60 cents against Rangers in October 13 NHL market** — Deadspin reports prediction markets priced Tampa Bay as a slight favorite at 60 cents for its October 13 game at the New York Rangers. Tampa Bay entered on a four-game win streak after losing its opener, while New York had won five of its last six games. ([Deadspin](https://deadspin.com/prediction-markets/trending/nhl/tampa-bay-lightning-v-new-york-rangers-predictions-10-13-2026/))</p>",
-      "date_published": "2026-10-14T02:30:00-04:00",
-      "date_modified": "2026-10-14T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://deadspin.com/prediction-markets/trending/nhl/tampa-bay-lightning-v-new-york-rangers-predictions-10-13-2026/",
-      "links": [
-        "https://deadspin.com/prediction-markets/trending/nhl/tampa-bay-lightning-v-new-york-rangers-predictions-10-13-2026/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:30 AM ET",
-      "body": "- **Kalshi prices Lightning at 60 cents against Rangers in October 13 NHL market** — Deadspin reports prediction markets priced Tampa Bay as a slight favorite at 60 cents for its October 13 game at the New York Rangers. Tampa Bay entered on a four-game win streak after losing its opener, while New York had won five of its last six games. ([Deadspin](https://deadspin.com/prediction-markets/trending/nhl/tampa-bay-lightning-v-new-york-rangers-predictions-10-13-2026/))",
       "image_url": null,
       "published": "2026-10-14T02:30:00-04:00",
       "source": "2026-10-14_0230-edt.json",
