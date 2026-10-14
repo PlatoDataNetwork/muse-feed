@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T17:13:51.982905-04:00",
+  "updated": "2026-10-14T17:25:59.440112-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,217 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_1724-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_1724-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNBA Commissioner Adam Silver wants access to prediction-market trading data to spot manipulation\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory report leads, in a category different from the previous…\n#PredictionMarkets #Silver #Elections\nhttps://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets\n\nKalshi introduces protected NFL player markets in its mobile Combo Builder\nThe new feature settles qualifying player contracts at a pregame fair price when a player plays the first half but does not return after halftime without hitting the…\n#PredictionMarkets #Kalshi #NFL\nhttps://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>NBA Commissioner Adam Silver wants access to prediction-market trading data to spot manipulation<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory report leads, in a category different from the previous…<br/>#PredictionMarkets #Silver #Elections<br/>https://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets<br/><br/>Kalshi introduces protected NFL player markets in its mobile Combo Builder<br/>The new feature settles qualifying player contracts at a pregame fair price when a player plays the first half but does not return after halftime without hitting the…<br/>#PredictionMarkets #Kalshi #NFL<br/>https://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T17:24:00-04:00",
+      "date_modified": "2026-10-14T17:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Silver",
+        "Elections",
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets",
+      "links": [
+        "https://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:24 PM ET",
+      "body": "Infiniti Briefing\n\nNBA Commissioner Adam Silver wants access to prediction-market trading data to spot manipulation\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory report leads, in a category different from the previous…\n#PredictionMarkets #Silver #Elections\nhttps://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets\n\nKalshi introduces protected NFL player markets in its mobile Combo Builder\nThe new feature settles qualifying player contracts at a pregame fair price when a player plays the first half but does not return after halftime without hitting the…\n#PredictionMarkets #Kalshi #NFL\nhttps://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T17:24:00-04:00",
+      "source": "2026-10-14_1724-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1715-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1715-edt-0",
+      "title": "California wealth tax Prop 40 prices at 34 cents on Polymarket and 33 cents on Kalshi",
+      "content_text": "- **California wealth tax Prop 40 prices at 34 cents on Polymarket and 33 cents on Kalshi** — Action Network tracking shows Prop 40, the California billionaire wealth tax measure, priced at 34 cents yes on Polymarket and 33 cents on Kalshi, with no shares at 67 and 68 cents. Two counter-initiatives on the same ballot could nullify the tax even if it clears a simple majority. ([Action Network](https://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-ca-wealth-tax))",
+      "content_html": "<p>- **California wealth tax Prop 40 prices at 34 cents on Polymarket and 33 cents on Kalshi** — Action Network tracking shows Prop 40, the California billionaire wealth tax measure, priced at 34 cents yes on Polymarket and 33 cents on Kalshi, with no shares at 67 and 68 cents. Two counter-initiatives on the same ballot could nullify the tax even if it clears a simple majority. ([Action Network](https://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-ca-wealth-tax))</p>",
+      "date_published": "2026-10-14T17:15:00-04:00",
+      "date_modified": "2026-10-14T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-ca-wealth-tax",
+      "links": [
+        "https://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-ca-wealth-tax"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:15 PM ET",
+      "body": "- **California wealth tax Prop 40 prices at 34 cents on Polymarket and 33 cents on Kalshi** — Action Network tracking shows Prop 40, the California billionaire wealth tax measure, priced at 34 cents yes on Polymarket and 33 cents on Kalshi, with no shares at 67 and 68 cents. Two counter-initiatives on the same ballot could nullify the tax even if it clears a simple majority. ([Action Network](https://www.actionnetwork.com/news/california-wealth-tax-odds-2026-california-billionaire-tax-predictions-prop-40-ca-wealth-tax))",
+      "image_url": null,
+      "published": "2026-10-14T17:15:00-04:00",
+      "source": "2026-10-14_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1715-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1715-edt-1",
+      "title": "Sports Illustrated tracker flags Tyreek Hill to Chiefs and Dan Quinn coaching markets trending up on Kalshi",
+      "content_text": "- **Sports Illustrated tracker flags Tyreek Hill to Chiefs and Dan Quinn coaching markets trending up on Kalshi** — Sports Illustrated's prediction market tracker lists Tyreek Hill to the Kansas City Chiefs trending up on Kalshi's NFL next team market, Dan Quinn favored as the next head coach fired, and Marvin Harrison Jr. and Zion Williamson trade markets moving. Polymarket leans on the Milwaukee Brewers to win the World Series for the first time this season. ([Sports Illustrated](https://www.si.com/prediction-markets/archive))",
+      "content_html": "<p>- **Sports Illustrated tracker flags Tyreek Hill to Chiefs and Dan Quinn coaching markets trending up on Kalshi** — Sports Illustrated&#x27;s prediction market tracker lists Tyreek Hill to the Kansas City Chiefs trending up on Kalshi&#x27;s NFL next team market, Dan Quinn favored as the next head coach fired, and Marvin Harrison Jr. and Zion Williamson trade markets moving. Polymarket leans on the Milwaukee Brewers to win the World Series for the first time this season. ([Sports Illustrated](https://www.si.com/prediction-markets/archive))</p>",
+      "date_published": "2026-10-14T17:15:00-04:00",
+      "date_modified": "2026-10-14T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.si.com/prediction-markets/archive",
+      "links": [
+        "https://www.si.com/prediction-markets/archive"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:15 PM ET",
+      "body": "- **Sports Illustrated tracker flags Tyreek Hill to Chiefs and Dan Quinn coaching markets trending up on Kalshi** — Sports Illustrated's prediction market tracker lists Tyreek Hill to the Kansas City Chiefs trending up on Kalshi's NFL next team market, Dan Quinn favored as the next head coach fired, and Marvin Harrison Jr. and Zion Williamson trade markets moving. Polymarket leans on the Milwaukee Brewers to win the World Series for the first time this season. ([Sports Illustrated](https://www.si.com/prediction-markets/archive))",
+      "image_url": null,
+      "published": "2026-10-14T17:15:00-04:00",
+      "source": "2026-10-14_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1715-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1715-edt-2",
+      "title": "Polymarket Elon Musk post count market for October 9 to 16 leads with 220 to 239 bracket",
+      "content_text": "- **Polymarket Elon Musk post count market for October 9 to 16 leads with 220 to 239 bracket** — Lines.com tracking of Polymarket's Elon Musk post count market for October 9 to 16 shows the 220 to 239 bracket leading by a wide margin, with Musk's weekly posting volume clustering in the 200 to 240 range in recent cycles. The market resolves on October 16 once the verified post count is confirmed. ([Lines.com](https://www.lines.com/prediction-markets/politics/elon-musk-of-tweets-october-9-october-16-2026))",
+      "content_html": "<p>- **Polymarket Elon Musk post count market for October 9 to 16 leads with 220 to 239 bracket** — Lines.com tracking of Polymarket&#x27;s Elon Musk post count market for October 9 to 16 shows the 220 to 239 bracket leading by a wide margin, with Musk&#x27;s weekly posting volume clustering in the 200 to 240 range in recent cycles. The market resolves on October 16 once the verified post count is confirmed. ([Lines.com](https://www.lines.com/prediction-markets/politics/elon-musk-of-tweets-october-9-october-16-2026))</p>",
+      "date_published": "2026-10-14T17:15:00-04:00",
+      "date_modified": "2026-10-14T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.lines.com/prediction-markets/politics/elon-musk-of-tweets-october-9-october-16-2026",
+      "links": [
+        "https://www.lines.com/prediction-markets/politics/elon-musk-of-tweets-october-9-october-16-2026"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:15 PM ET",
+      "body": "- **Polymarket Elon Musk post count market for October 9 to 16 leads with 220 to 239 bracket** — Lines.com tracking of Polymarket's Elon Musk post count market for October 9 to 16 shows the 220 to 239 bracket leading by a wide margin, with Musk's weekly posting volume clustering in the 200 to 240 range in recent cycles. The market resolves on October 16 once the verified post count is confirmed. ([Lines.com](https://www.lines.com/prediction-markets/politics/elon-musk-of-tweets-october-9-october-16-2026))",
+      "image_url": null,
+      "published": "2026-10-14T17:15:00-04:00",
+      "source": "2026-10-14_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1715-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1715-edt-3",
+      "title": "Polymarket paid app market prices HotSchedules at 95 percent for number two in the US App Store on October 16",
+      "content_text": "- **Polymarket paid app market prices HotSchedules at 95 percent for number two in the US App Store on October 16** — Polymarket's market on the number two paid app in the US Apple App Store on October 16, launched October 12, prices HotSchedules at 95 percent, followed by Shadowrocket at 6 percent. The market is scheduled to resolve on or around October 16. ([Polymarket](https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-october-16-20261012))",
+      "content_html": "<p>- **Polymarket paid app market prices HotSchedules at 95 percent for number two in the US App Store on October 16** — Polymarket&#x27;s market on the number two paid app in the US Apple App Store on October 16, launched October 12, prices HotSchedules at 95 percent, followed by Shadowrocket at 6 percent. The market is scheduled to resolve on or around October 16. ([Polymarket](https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-october-16-20261012))</p>",
+      "date_published": "2026-10-14T17:15:00-04:00",
+      "date_modified": "2026-10-14T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-october-16-20261012",
+      "links": [
+        "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-october-16-20261012"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:15 PM ET",
+      "body": "- **Polymarket paid app market prices HotSchedules at 95 percent for number two in the US App Store on October 16** — Polymarket's market on the number two paid app in the US Apple App Store on October 16, launched October 12, prices HotSchedules at 95 percent, followed by Shadowrocket at 6 percent. The market is scheduled to resolve on or around October 16. ([Polymarket](https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-october-16-20261012))",
+      "image_url": null,
+      "published": "2026-10-14T17:15:00-04:00",
+      "source": "2026-10-14_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1715-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1715-edt-4",
+      "title": "Guide rounds up NFL Week 6 prediction market apps with DraftKings, Underdog and FanDuel offers on October 14",
+      "content_text": "- **Guide rounds up NFL Week 6 prediction market apps with DraftKings, Underdog and FanDuel offers on October 14** — An October 14 roundup of apps for trading NFL Week 6 lists DraftKings Predictions with a spend 5 dollars, get 200 dollars bonus offer, Underdog Predict with player-specific markets, Onyx Odds, and FanDuel Predicts backed by FanDuel Group and CME Group. ([Elite Sports NY](https://elitesportsny.com/2026/10/14/best-apps-trade-on-nfl-week-6/))",
+      "content_html": "<p>- **Guide rounds up NFL Week 6 prediction market apps with DraftKings, Underdog and FanDuel offers on October 14** — An October 14 roundup of apps for trading NFL Week 6 lists DraftKings Predictions with a spend 5 dollars, get 200 dollars bonus offer, Underdog Predict with player-specific markets, Onyx Odds, and FanDuel Predicts backed by FanDuel Group and CME Group. ([Elite Sports NY](https://elitesportsny.com/2026/10/14/best-apps-trade-on-nfl-week-6/))</p>",
+      "date_published": "2026-10-14T17:15:00-04:00",
+      "date_modified": "2026-10-14T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "NFL",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://elitesportsny.com/2026/10/14/best-apps-trade-on-nfl-week-6/",
+      "links": [
+        "https://elitesportsny.com/2026/10/14/best-apps-trade-on-nfl-week-6/"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:15 PM ET",
+      "body": "- **Guide rounds up NFL Week 6 prediction market apps with DraftKings, Underdog and FanDuel offers on October 14** — An October 14 roundup of apps for trading NFL Week 6 lists DraftKings Predictions with a spend 5 dollars, get 200 dollars bonus offer, Underdog Predict with player-specific markets, Onyx Odds, and FanDuel Predicts backed by FanDuel Group and CME Group. ([Elite Sports NY](https://elitesportsny.com/2026/10/14/best-apps-trade-on-nfl-week-6/))",
+      "image_url": null,
+      "published": "2026-10-14T17:15:00-04:00",
+      "source": "2026-10-14_1715-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1715-edt-5",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1715-edt-5",
+      "title": "Backtest of a forecast-based model against Kalshi temperature markets finds the market won",
+      "content_text": "- **Backtest of a forecast-based model against Kalshi temperature markets finds the market won** — A backtest over 60 summer days found a public forecast model using a normal error distribution did not beat the day-before Kalshi temperature market price, with the tested strategies losing across price bands. The author notes the fattest pricing gaps sat in sub-10-cent tail brackets, where the normal assumption under-priced outcomes most. ([dev.to](http://dev.to/myfirstcodeo/i-backtested-a-forecast-based-model-against-kalshis-temperature-markets-the-market-won-heres-442c))",
+      "content_html": "<p>- **Backtest of a forecast-based model against Kalshi temperature markets finds the market won** — A backtest over 60 summer days found a public forecast model using a normal error distribution did not beat the day-before Kalshi temperature market price, with the tested strategies losing across price bands. The author notes the fattest pricing gaps sat in sub-10-cent tail brackets, where the normal assumption under-priced outcomes most. ([dev.to](http://dev.to/myfirstcodeo/i-backtested-a-forecast-based-model-against-kalshis-temperature-markets-the-market-won-heres-442c))</p>",
+      "date_published": "2026-10-14T17:15:00-04:00",
+      "date_modified": "2026-10-14T17:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "http://dev.to/myfirstcodeo/i-backtested-a-forecast-based-model-against-kalshis-temperature-markets-the-market-won-heres-442c",
+      "links": [
+        "http://dev.to/myfirstcodeo/i-backtested-a-forecast-based-model-against-kalshis-temperature-markets-the-market-won-heres-442c"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:15 PM ET",
+      "body": "- **Backtest of a forecast-based model against Kalshi temperature markets finds the market won** — A backtest over 60 summer days found a public forecast model using a normal error distribution did not beat the day-before Kalshi temperature market price, with the tested strategies losing across price bands. The author notes the fattest pricing gaps sat in sub-10-cent tail brackets, where the normal assumption under-priced outcomes most. ([dev.to](http://dev.to/myfirstcodeo/i-backtested-a-forecast-based-model-against-kalshis-temperature-markets-the-market-won-heres-442c))",
+      "image_url": null,
+      "published": "2026-10-14T17:15:00-04:00",
+      "source": "2026-10-14_1715-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-14_1709-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_1709-edt",
@@ -14986,218 +15197,6 @@
       "image_url": null,
       "published": "2026-10-14T02:45:00-04:00",
       "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0245-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0245-edt-3",
-      "title": "Polymarket SI.gov launch market leads with October 31 at 84 percent",
-      "content_text": "- **Polymarket SI.gov launch market leads with October 31 at 84 percent** — Polymarket's market on when SI.gov will launch, created on October 7, leads with October 31 at 84 percent, followed by October 15 at 54 percent. The market prices trader expectations for the launch date across its possible outcomes. ([Polymarket](https://polymarket.com/event/will-siptgov-launch-by))",
-      "content_html": "<p>- **Polymarket SI.gov launch market leads with October 31 at 84 percent** — Polymarket&#x27;s market on when SI.gov will launch, created on October 7, leads with October 31 at 84 percent, followed by October 15 at 54 percent. The market prices trader expectations for the launch date across its possible outcomes. ([Polymarket](https://polymarket.com/event/will-siptgov-launch-by))</p>",
-      "date_published": "2026-10-14T02:45:00-04:00",
-      "date_modified": "2026-10-14T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/will-siptgov-launch-by",
-      "links": [
-        "https://polymarket.com/event/will-siptgov-launch-by"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:45 AM ET",
-      "body": "- **Polymarket SI.gov launch market leads with October 31 at 84 percent** — Polymarket's market on when SI.gov will launch, created on October 7, leads with October 31 at 84 percent, followed by October 15 at 54 percent. The market prices trader expectations for the launch date across its possible outcomes. ([Polymarket](https://polymarket.com/event/will-siptgov-launch-by))",
-      "image_url": null,
-      "published": "2026-10-14T02:45:00-04:00",
-      "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0245-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0245-edt-4",
-      "title": "Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume",
-      "content_text": "- **Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume** — Bonus reports observers flagged unusual long-shot volume on Polymarket, including about 56 million dollars traded on an outcome priced at 3 percent or lower in an Ethiopia prime minister market, while Polymarket denied wash trading and pointed to algorithmic traders exploiting mispricing. A Columbia University study cited in the report put patterns indicative of wash trading at 20 percent of weekly volume by October 2025, down from 60 percent in December 2024. ([Bonus.com](https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/))",
-      "content_html": "<p>- **Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume** — Bonus reports observers flagged unusual long-shot volume on Polymarket, including about 56 million dollars traded on an outcome priced at 3 percent or lower in an Ethiopia prime minister market, while Polymarket denied wash trading and pointed to algorithmic traders exploiting mispricing. A Columbia University study cited in the report put patterns indicative of wash trading at 20 percent of weekly volume by October 2025, down from 60 percent in December 2024. ([Bonus.com](https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/))</p>",
-      "date_published": "2026-10-14T02:45:00-04:00",
-      "date_modified": "2026-10-14T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/",
-      "links": [
-        "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:45 AM ET",
-      "body": "- **Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume** — Bonus reports observers flagged unusual long-shot volume on Polymarket, including about 56 million dollars traded on an outcome priced at 3 percent or lower in an Ethiopia prime minister market, while Polymarket denied wash trading and pointed to algorithmic traders exploiting mispricing. A Columbia University study cited in the report put patterns indicative of wash trading at 20 percent of weekly volume by October 2025, down from 60 percent in December 2024. ([Bonus.com](https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/))",
-      "image_url": null,
-      "published": "2026-10-14T02:45:00-04:00",
-      "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_0239-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0239-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nAvalanche favored at 56c over the Stars at 45c for tonight's NHL matchup in Dallas\nPolymarket prices Colorado at 56c, Dallas at 45c on $25,406 traded for Oct. 14 at 8:30 PM ET, with spreads, totals and props live.\n#NHL #PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14\n\nGemini Argon release-date market settles toward Oct. 13 at 94%, with Oct. 14 at just 6%\nPolymarket's contract traded $70.5K across 25 outcomes, putting almost all weight on Oct. 13.\n#AI #PredictionMarkets #Polymarket\nhttps://polymarket.com/event/gemini-argon-released-onptptpt-20261007\n\nOctober Fed hike is the biggest 7-day mover on DeFi Rate's board, up 3 points to 19%\nDeFi Rate ranks the Oct. 28 hike first among 7-day moves, up 16% to 19%, ahead of September CPI.\n#Fed #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,159 | Brent $106 | BTC $83,900 | ETH $2,520\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Avalanche favored at 56c over the Stars at 45c for tonight&#x27;s NHL matchup in Dallas<br/>Polymarket prices Colorado at 56c, Dallas at 45c on $25,406 traded for Oct. 14 at 8:30 PM ET, with spreads, totals and props live.<br/>#NHL #PredictionMarkets #Polymarket<br/>https://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14<br/><br/>Gemini Argon release-date market settles toward Oct. 13 at 94%, with Oct. 14 at just 6%<br/>Polymarket&#x27;s contract traded $70.5K across 25 outcomes, putting almost all weight on Oct. 13.<br/>#AI #PredictionMarkets #Polymarket<br/>https://polymarket.com/event/gemini-argon-released-onptptpt-20261007<br/><br/>October Fed hike is the biggest 7-day mover on DeFi Rate&#x27;s board, up 3 points to 19%<br/>DeFi Rate ranks the Oct. 28 hike first among 7-day moves, up 16% to 19%, ahead of September CPI.<br/>#Fed #Kalshi #Polymarket<br/>https://defirate.com/?s<br/><br/>Markets: Gold $4,159 | Brent $106 | BTC $83,900 | ETH $2,520<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-14_0239-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-14T02:39:00-04:00",
-      "date_modified": "2026-10-14T02:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "NHL",
-        "PredictionMarkets",
-        "Polymarket",
-        "AI",
-        "Fed",
-        "Kalshi"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-14_0239-edt.jpg",
-      "external_url": "https://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14",
-      "links": [
-        "https://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14",
-        "https://polymarket.com/event/gemini-argon-released-onptptpt-20261007",
-        "https://defirate.com/?s"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:39 AM ET",
-      "body": "Infiniti Briefing\nAvalanche favored at 56c over the Stars at 45c for tonight's NHL matchup in Dallas\nPolymarket prices Colorado at 56c, Dallas at 45c on $25,406 traded for Oct. 14 at 8:30 PM ET, with spreads, totals and props live.\n#NHL #PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14\n\nGemini Argon release-date market settles toward Oct. 13 at 94%, with Oct. 14 at just 6%\nPolymarket's contract traded $70.5K across 25 outcomes, putting almost all weight on Oct. 13.\n#AI #PredictionMarkets #Polymarket\nhttps://polymarket.com/event/gemini-argon-released-onptptpt-20261007\n\nOctober Fed hike is the biggest 7-day mover on DeFi Rate's board, up 3 points to 19%\nDeFi Rate ranks the Oct. 28 hike first among 7-day moves, up 16% to 19%, ahead of September CPI.\n#Fed #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,159 | Brent $106 | BTC $83,900 | ETH $2,520\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-14_0239-edt.jpg",
-      "published": "2026-10-14T02:39:00-04:00",
-      "source": "2026-10-14_0239-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-14_0230-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0230-edt-0",
-      "title": "Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds",
-      "content_text": "- **Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds** — Predictions.io reports the same midterm wording trades at 44.5 percent on Polymarket and 36 percent on Kalshi, an 8.5 point gap, with a median gap above 4 points across matched pairs. The tracker compares more than 9,700 markets across Kalshi, Polymarket and Manifold. ([Predictions.io](https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026))",
-      "content_html": "<p>- **Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds** — Predictions.io reports the same midterm wording trades at 44.5 percent on Polymarket and 36 percent on Kalshi, an 8.5 point gap, with a median gap above 4 points across matched pairs. The tracker compares more than 9,700 markets across Kalshi, Polymarket and Manifold. ([Predictions.io](https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026))</p>",
-      "date_published": "2026-10-14T02:30:00-04:00",
-      "date_modified": "2026-10-14T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026",
-      "links": [
-        "https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:30 AM ET",
-      "body": "- **Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds** — Predictions.io reports the same midterm wording trades at 44.5 percent on Polymarket and 36 percent on Kalshi, an 8.5 point gap, with a median gap above 4 points across matched pairs. The tracker compares more than 9,700 markets across Kalshi, Polymarket and Manifold. ([Predictions.io](https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026))",
-      "image_url": null,
-      "published": "2026-10-14T02:30:00-04:00",
-      "source": "2026-10-14_0230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0230-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0230-edt-1",
-      "title": "Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip",
-      "content_text": "- **Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip** — NewsBeep reports Gemini 4.0 release by October 13 rose from 38 percent to 82 percent in a day on Polymarket, while Bitcoin reaching 85,000 dollars in October fell from 89 percent to 78 percent. Bitcoin traded near 81,969 dollars late Monday, down 2.1 percent in 24 hours, and ether was near 2,450 dollars, down 3.7 percent. ([NewsBeep](https://www.newsbeep.com/768967/))",
-      "content_html": "<p>- **Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip** — NewsBeep reports Gemini 4.0 release by October 13 rose from 38 percent to 82 percent in a day on Polymarket, while Bitcoin reaching 85,000 dollars in October fell from 89 percent to 78 percent. Bitcoin traded near 81,969 dollars late Monday, down 2.1 percent in 24 hours, and ether was near 2,450 dollars, down 3.7 percent. ([NewsBeep](https://www.newsbeep.com/768967/))</p>",
-      "date_published": "2026-10-14T02:30:00-04:00",
-      "date_modified": "2026-10-14T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.newsbeep.com/768967/",
-      "links": [
-        "https://www.newsbeep.com/768967/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:30 AM ET",
-      "body": "- **Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip** — NewsBeep reports Gemini 4.0 release by October 13 rose from 38 percent to 82 percent in a day on Polymarket, while Bitcoin reaching 85,000 dollars in October fell from 89 percent to 78 percent. Bitcoin traded near 81,969 dollars late Monday, down 2.1 percent in 24 hours, and ether was near 2,450 dollars, down 3.7 percent. ([NewsBeep](https://www.newsbeep.com/768967/))",
-      "image_url": null,
-      "published": "2026-10-14T02:30:00-04:00",
-      "source": "2026-10-14_0230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0230-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0230-edt-2",
-      "title": "Kalshi signs US Open deal as official prediction market partner",
-      "content_text": "- **Kalshi signs US Open deal as official prediction market partner** — GambleRss reports Kalshi has signed a multi-year deal to become the US Open official prediction market partner, with on-site signage and coverage on US Open digital platforms. Kalshi already partners with the International Tennis Integrity Association on match monitoring. ([GambleRss](https://gamblerss.com/kalshi-signs-new-us-open-deal-as-partnerships-expand-68560))",
-      "content_html": "<p>- **Kalshi signs US Open deal as official prediction market partner** — GambleRss reports Kalshi has signed a multi-year deal to become the US Open official prediction market partner, with on-site signage and coverage on US Open digital platforms. Kalshi already partners with the International Tennis Integrity Association on match monitoring. ([GambleRss](https://gamblerss.com/kalshi-signs-new-us-open-deal-as-partnerships-expand-68560))</p>",
-      "date_published": "2026-10-14T02:30:00-04:00",
-      "date_modified": "2026-10-14T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/kalshi-signs-new-us-open-deal-as-partnerships-expand-68560",
-      "links": [
-        "https://gamblerss.com/kalshi-signs-new-us-open-deal-as-partnerships-expand-68560"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:30 AM ET",
-      "body": "- **Kalshi signs US Open deal as official prediction market partner** — GambleRss reports Kalshi has signed a multi-year deal to become the US Open official prediction market partner, with on-site signage and coverage on US Open digital platforms. Kalshi already partners with the International Tennis Integrity Association on match monitoring. ([GambleRss](https://gamblerss.com/kalshi-signs-new-us-open-deal-as-partnerships-expand-68560))",
-      "image_url": null,
-      "published": "2026-10-14T02:30:00-04:00",
-      "source": "2026-10-14_0230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0230-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0230-edt-3",
-      "title": "Sports trades made by 70 percent of prediction market users, S&P Global survey finds",
-      "content_text": "- **Sports trades made by 70 percent of prediction market users, S&P Global survey finds** — Casino.org reports an S&P Global Market Intelligence Kagan third-quarter survey found 10 percent of respondents traded on a yes or no exchange in the past year, and 70 percent of prediction market users traded sports contracts. The survey also found 42 percent were aware of operators but had not used them, and 44 percent had never heard of prediction markets. ([Casino.org](https://www.casino.org/news/sp-global-sports-still-king-on-prediction-markets/))",
-      "content_html": "<p>- **Sports trades made by 70 percent of prediction market users, S&amp;P Global survey finds** — Casino.org reports an S&amp;P Global Market Intelligence Kagan third-quarter survey found 10 percent of respondents traded on a yes or no exchange in the past year, and 70 percent of prediction market users traded sports contracts. The survey also found 42 percent were aware of operators but had not used them, and 44 percent had never heard of prediction markets. ([Casino.org](https://www.casino.org/news/sp-global-sports-still-king-on-prediction-markets/))</p>",
-      "date_published": "2026-10-14T02:30:00-04:00",
-      "date_modified": "2026-10-14T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.casino.org/news/sp-global-sports-still-king-on-prediction-markets/",
-      "links": [
-        "https://www.casino.org/news/sp-global-sports-still-king-on-prediction-markets/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:30 AM ET",
-      "body": "- **Sports trades made by 70 percent of prediction market users, S&P Global survey finds** — Casino.org reports an S&P Global Market Intelligence Kagan third-quarter survey found 10 percent of respondents traded on a yes or no exchange in the past year, and 70 percent of prediction market users traded sports contracts. The survey also found 42 percent were aware of operators but had not used them, and 44 percent had never heard of prediction markets. ([Casino.org](https://www.casino.org/news/sp-global-sports-still-king-on-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-14T02:30:00-04:00",
-      "source": "2026-10-14_0230-edt.json",
       "matches_facebook_post": false
     }
   ]
