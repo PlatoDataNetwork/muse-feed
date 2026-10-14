@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T03:04:59.211308-04:00",
+  "updated": "2026-10-14T03:10:46.757850-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_0309-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0309-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKalshi posts a $19.03B week, Polymarket US hits $2.72B in the same week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://cryptobriefing.com/kalshi-daily-volume-records-parlays/\n\nKalshi adds Brier scores, low-volume tags and real-time activity feeds to its 2026 midterm markets\nThe new transparency features score forecast accuracy, flag thin contracts and stream live activity on midterm election markets, where 2026 trading is already running…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionauthority.com/news/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi posts a $19.03B week, Polymarket US hits $2.72B in the same week<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://cryptobriefing.com/kalshi-daily-volume-records-parlays/<br/><br/>Kalshi adds Brier scores, low-volume tags and real-time activity feeds to its 2026 midterm markets<br/>The new transparency features score forecast accuracy, flag thin contracts and stream live activity on midterm election markets, where 2026 trading is already running…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/>https://predictionauthority.com/news/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T03:09:00-04:00",
+      "date_modified": "2026-10-14T03:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://cryptobriefing.com/kalshi-daily-volume-records-parlays/",
+      "links": [
+        "https://cryptobriefing.com/kalshi-daily-volume-records-parlays/",
+        "https://predictionauthority.com/news/"
+      ],
+      "timestamp": "Oct 14, 2026 · 3:09 AM ET",
+      "body": "Infiniti Briefing\n\nKalshi posts a $19.03B week, Polymarket US hits $2.72B in the same week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://cryptobriefing.com/kalshi-daily-volume-records-parlays/\n\nKalshi adds Brier scores, low-volume tags and real-time activity feeds to its 2026 midterm markets\nThe new transparency features score forecast accuracy, flag thin contracts and stream live activity on midterm election markets, where 2026 trading is already running…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionauthority.com/news/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T03:09:00-04:00",
+      "source": "2026-10-14_0309-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-14_0254-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0254-edt",
@@ -4639,36 +4673,6 @@
       ],
       "timestamp": "Oct 13, 2026 · 8:30 PM ET",
       "body": "- **Prediction markets exceed 10.5 billion dollars in weekend notional trading volume** — More than 10.5 billion dollars traded over the weekend across prediction markets, with Kalshi leading at 7.87 billion dollars in notional volume. The NFL accounted for 944.3 million dollars of Sunday game volume, not counting combos. ([Covers](https://www.covers.com/industry/prediction-markets-exceed-10-billion-in-weekend-notional-trading-volume-oct-13-2026))",
-      "image_url": null,
-      "published": "2026-10-13T20:30:00-04:00",
-      "source": "2026-10-13_2030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2030-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2030-edt-3",
-      "title": "Portugal blocks Polymarket after 4 million euro election betting surge",
-      "content_text": "- **Portugal blocks Polymarket after 4 million euro election betting surge** — Portugal's gambling regulator SRIJ ordered Polymarket to halt operations, saying political event markets are not permitted under national online gambling rules. The action followed more than 4 million euros wagered on presidential markets in a short window before results were announced. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))",
-      "content_html": "<p>- **Portugal blocks Polymarket after 4 million euro election betting surge** — Portugal&#x27;s gambling regulator SRIJ ordered Polymarket to halt operations, saying political event markets are not permitted under national online gambling rules. The action followed more than 4 million euros wagered on presidential markets in a short window before results were announced. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))</p>",
-      "date_published": "2026-10-13T20:30:00-04:00",
-      "date_modified": "2026-10-13T20:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744",
-      "links": [
-        "https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744"
-      ],
-      "timestamp": "Oct 13, 2026 · 8:30 PM ET",
-      "body": "- **Portugal blocks Polymarket after 4 million euro election betting surge** — Portugal's gambling regulator SRIJ ordered Polymarket to halt operations, saying political event markets are not permitted under national online gambling rules. The action followed more than 4 million euros wagered on presidential markets in a short window before results were announced. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))",
       "image_url": null,
       "published": "2026-10-13T20:30:00-04:00",
       "source": "2026-10-13_2030-edt.json",
