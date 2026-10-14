@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T10:49:33.518106-04:00",
+  "updated": "2026-10-14T11:05:42.579026-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,304 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_1100-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-0",
+      "title": "Polymarket lists Kathmandu mayoral election winner market for 2027",
+      "content_text": "- **Polymarket lists Kathmandu mayoral election winner market for 2027** — Polymarket lists a Kathmandu mayoral election winner market with a resolution date of December 31, 2027. The page prices RSP at 49 cents, implying roughly a 49 percent chance, while the market is still building its trading base. ([Polymarket](https://polymarket.com/event/kathmandu-mayoral-election-winner-2027/will-an-independent-candidate-win-the-2027-kathmandu-mayoral-election))",
+      "content_html": "<p>- **Polymarket lists Kathmandu mayoral election winner market for 2027** — Polymarket lists a Kathmandu mayoral election winner market with a resolution date of December 31, 2027. The page prices RSP at 49 cents, implying roughly a 49 percent chance, while the market is still building its trading base. ([Polymarket](https://polymarket.com/event/kathmandu-mayoral-election-winner-2027/will-an-independent-candidate-win-the-2027-kathmandu-mayoral-election))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/kathmandu-mayoral-election-winner-2027/will-an-independent-candidate-win-the-2027-kathmandu-mayoral-election",
+      "links": [
+        "https://polymarket.com/event/kathmandu-mayoral-election-winner-2027/will-an-independent-candidate-win-the-2027-kathmandu-mayoral-election"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Polymarket lists Kathmandu mayoral election winner market for 2027** — Polymarket lists a Kathmandu mayoral election winner market with a resolution date of December 31, 2027. The page prices RSP at 49 cents, implying roughly a 49 percent chance, while the market is still building its trading base. ([Polymarket](https://polymarket.com/event/kathmandu-mayoral-election-winner-2027/will-an-independent-candidate-win-the-2027-kathmandu-mayoral-election))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-1",
+      "title": "Polymarket Vermont governor market prices first-round outright winner at 70 cents",
+      "content_text": "- **Polymarket Vermont governor market prices first-round outright winner at 70 cents** — Polymarket lists a market on a first-round outright winner in the Vermont governor election, with Yes priced at 70 cents. The price implies traders assign about a 70 percent chance to an outright first-round result. ([Polymarket](https://polymarket.com/event/first-round-outright-winner-in-the-vermont-governor-election?outcomeIndex=0))",
+      "content_html": "<p>- **Polymarket Vermont governor market prices first-round outright winner at 70 cents** — Polymarket lists a market on a first-round outright winner in the Vermont governor election, with Yes priced at 70 cents. The price implies traders assign about a 70 percent chance to an outright first-round result. ([Polymarket](https://polymarket.com/event/first-round-outright-winner-in-the-vermont-governor-election?outcomeIndex=0))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/first-round-outright-winner-in-the-vermont-governor-election?outcomeIndex=0",
+      "links": [
+        "https://polymarket.com/event/first-round-outright-winner-in-the-vermont-governor-election?outcomeIndex=0"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Polymarket Vermont governor market prices first-round outright winner at 70 cents** — Polymarket lists a market on a first-round outright winner in the Vermont governor election, with Yes priced at 70 cents. The price implies traders assign about a 70 percent chance to an outright first-round result. ([Polymarket](https://polymarket.com/event/first-round-outright-winner-in-the-vermont-governor-election?outcomeIndex=0))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-2",
+      "title": "Polymarket prices Flavio Bolsonaro charged or arrested by October 31 at 2 percent",
+      "content_text": "- **Polymarket prices Flavio Bolsonaro charged or arrested by October 31 at 2 percent** — A Polymarket market launched on October 2 asks whether Flavio Bolsonaro will be charged or arrested by October 31. Traders price Yes at 2 percent, assigning a low probability to charges or an arrest within the window. ([Polymarket](https://polymarket.com/event/flavio-bolsonaro-charged-or-arrested-by-october-31-20261001003357876))",
+      "content_html": "<p>- **Polymarket prices Flavio Bolsonaro charged or arrested by October 31 at 2 percent** — A Polymarket market launched on October 2 asks whether Flavio Bolsonaro will be charged or arrested by October 31. Traders price Yes at 2 percent, assigning a low probability to charges or an arrest within the window. ([Polymarket](https://polymarket.com/event/flavio-bolsonaro-charged-or-arrested-by-october-31-20261001003357876))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/flavio-bolsonaro-charged-or-arrested-by-october-31-20261001003357876",
+      "links": [
+        "https://polymarket.com/event/flavio-bolsonaro-charged-or-arrested-by-october-31-20261001003357876"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Polymarket prices Flavio Bolsonaro charged or arrested by October 31 at 2 percent** — A Polymarket market launched on October 2 asks whether Flavio Bolsonaro will be charged or arrested by October 31. Traders price Yes at 2 percent, assigning a low probability to charges or an arrest within the window. ([Polymarket](https://polymarket.com/event/flavio-bolsonaro-charged-or-arrested-by-october-31-20261001003357876))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-3",
+      "title": "Polymarket prices Rubio flipping Vance for GOP nomination by October 31 at 2 percent",
+      "content_text": "- **Polymarket prices Rubio flipping Vance for GOP nomination by October 31 at 2 percent** — A Polymarket market launched on September 21 asks whether Rubio will flip Vance for the GOP nomination by October 31. Traders price Yes at 2 percent, indicating the market sees a flip in that window as unlikely. ([Polymarket](https://polymarket.com/event/rubio-flips-vance-for-gop-nomination-by-october-31))",
+      "content_html": "<p>- **Polymarket prices Rubio flipping Vance for GOP nomination by October 31 at 2 percent** — A Polymarket market launched on September 21 asks whether Rubio will flip Vance for the GOP nomination by October 31. Traders price Yes at 2 percent, indicating the market sees a flip in that window as unlikely. ([Polymarket](https://polymarket.com/event/rubio-flips-vance-for-gop-nomination-by-october-31))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/rubio-flips-vance-for-gop-nomination-by-october-31",
+      "links": [
+        "https://polymarket.com/event/rubio-flips-vance-for-gop-nomination-by-october-31"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Polymarket prices Rubio flipping Vance for GOP nomination by October 31 at 2 percent** — A Polymarket market launched on September 21 asks whether Rubio will flip Vance for the GOP nomination by October 31. Traders price Yes at 2 percent, indicating the market sees a flip in that window as unlikely. ([Polymarket](https://polymarket.com/event/rubio-flips-vance-for-gop-nomination-by-october-31))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-4",
+      "title": "Polymarket prices Clavicular charges dropped by October 31 at 9 percent",
+      "content_text": "- **Polymarket prices Clavicular charges dropped by October 31 at 9 percent** — A Polymarket market launched on September 21 asks whether Clavicular charges will be dropped by October 31. Traders price Yes at 9 percent, assigning a low probability to the charges being dropped within the window. ([Polymarket](https://polymarket.com/event/clavicular-charges-dropped-by-october-31))",
+      "content_html": "<p>- **Polymarket prices Clavicular charges dropped by October 31 at 9 percent** — A Polymarket market launched on September 21 asks whether Clavicular charges will be dropped by October 31. Traders price Yes at 9 percent, assigning a low probability to the charges being dropped within the window. ([Polymarket](https://polymarket.com/event/clavicular-charges-dropped-by-october-31))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/clavicular-charges-dropped-by-october-31",
+      "links": [
+        "https://polymarket.com/event/clavicular-charges-dropped-by-october-31"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Polymarket prices Clavicular charges dropped by October 31 at 9 percent** — A Polymarket market launched on September 21 asks whether Clavicular charges will be dropped by October 31. Traders price Yes at 9 percent, assigning a low probability to the charges being dropped within the window. ([Polymarket](https://polymarket.com/event/clavicular-charges-dropped-by-october-31))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-5",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-5",
+      "title": "Kalshi Los Angeles mayor market shows 101 million dollars in volume in October 14 snapshot",
+      "content_text": "- **Kalshi Los Angeles mayor market shows 101 million dollars in volume in October 14 snapshot** — A Covers snapshot dated October 14 lists Kalshi trading volume of 101 million dollars on the Los Angeles mayor winner market and 71 million dollars on the 2028 presidential election winner market. The same snapshot lists the 2027 NBA champion market at 35.2 million dollars in volume. ([Covers](https://www.covers.com/betting/bonuses/kalshi-promo-code))",
+      "content_html": "<p>- **Kalshi Los Angeles mayor market shows 101 million dollars in volume in October 14 snapshot** — A Covers snapshot dated October 14 lists Kalshi trading volume of 101 million dollars on the Los Angeles mayor winner market and 71 million dollars on the 2028 presidential election winner market. The same snapshot lists the 2027 NBA champion market at 35.2 million dollars in volume. ([Covers](https://www.covers.com/betting/bonuses/kalshi-promo-code))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/betting/bonuses/kalshi-promo-code",
+      "links": [
+        "https://www.covers.com/betting/bonuses/kalshi-promo-code"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Kalshi Los Angeles mayor market shows 101 million dollars in volume in October 14 snapshot** — A Covers snapshot dated October 14 lists Kalshi trading volume of 101 million dollars on the Los Angeles mayor winner market and 71 million dollars on the 2028 presidential election winner market. The same snapshot lists the 2027 NBA champion market at 35.2 million dollars in volume. ([Covers](https://www.covers.com/betting/bonuses/kalshi-promo-code))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-6",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-6",
+      "title": "Guide shows how to track Polymarket whale trades with Python",
+      "content_text": "- **Guide shows how to track Polymarket whale trades with Python** — A Dev.to guide walks through tracking large Polymarket trades and top traders with Python, using portfolio value to judge conviction. In a test run on October 13, the 20 most recent large trades at a 1,000 dollar minimum totaled about 40,000 dollars. ([Dev.to](https://dev.to/fishinabowl95/track-polymarket-whales-and-top-traders-with-python-no-api-key-41il))",
+      "content_html": "<p>- **Guide shows how to track Polymarket whale trades with Python** — A Dev.to guide walks through tracking large Polymarket trades and top traders with Python, using portfolio value to judge conviction. In a test run on October 13, the 20 most recent large trades at a 1,000 dollar minimum totaled about 40,000 dollars. ([Dev.to](https://dev.to/fishinabowl95/track-polymarket-whales-and-top-traders-with-python-no-api-key-41il))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://dev.to/fishinabowl95/track-polymarket-whales-and-top-traders-with-python-no-api-key-41il",
+      "links": [
+        "https://dev.to/fishinabowl95/track-polymarket-whales-and-top-traders-with-python-no-api-key-41il"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Guide shows how to track Polymarket whale trades with Python** — A Dev.to guide walks through tracking large Polymarket trades and top traders with Python, using portfolio value to judge conviction. In a test run on October 13, the 20 most recent large trades at a 1,000 dollar minimum totaled about 40,000 dollars. ([Dev.to](https://dev.to/fishinabowl95/track-polymarket-whales-and-top-traders-with-python-no-api-key-41il))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-7",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-7",
+      "title": "Trader builds cross-market short around October Fed hike prediction bet",
+      "content_text": "- **Trader builds cross-market short around October Fed hike prediction bet** — AiCoin reports a trader identified as tetrose held about 297,800 Polymarket contracts on a 25 basis point Fed hike in October, worth about 46,200 dollars at a 15.5 percent implied probability. The report says related short positions in Bitcoin and the S and P 500 brought total nominal short exposure to about 4.45 million dollars. ([AiCoin](https://www.aicoin.com/en/article/554773))",
+      "content_html": "<p>- **Trader builds cross-market short around October Fed hike prediction bet** — AiCoin reports a trader identified as tetrose held about 297,800 Polymarket contracts on a 25 basis point Fed hike in October, worth about 46,200 dollars at a 15.5 percent implied probability. The report says related short positions in Bitcoin and the S and P 500 brought total nominal short exposure to about 4.45 million dollars. ([AiCoin](https://www.aicoin.com/en/article/554773))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.aicoin.com/en/article/554773",
+      "links": [
+        "https://www.aicoin.com/en/article/554773"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Trader builds cross-market short around October Fed hike prediction bet** — AiCoin reports a trader identified as tetrose held about 297,800 Polymarket contracts on a 25 basis point Fed hike in October, worth about 46,200 dollars at a 15.5 percent implied probability. The report says related short positions in Bitcoin and the S and P 500 brought total nominal short exposure to about 4.45 million dollars. ([AiCoin](https://www.aicoin.com/en/article/554773))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_1100-edt-8",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1100-edt-8",
+      "title": "Analysis says Kalshi Ninth Circuit ruling leaves CFTC event-contract rule in limbo",
+      "content_text": "- **Analysis says Kalshi Ninth Circuit ruling leaves CFTC event-contract rule in limbo** — An analysis of the circuit split notes the Third Circuit reached the opposite conclusion on Kalshi contracts in April, while a New York court assumed the contracts could be swaps but held federal jurisdiction does not preempt state gaming rules. It says the CFTC proposed rulemaking would add a 90-day public-interest review for contracts touching gaming and other listed activities. ([CryptoNexa](https://www.cryptonexa.com/kalshi-ninth-circuit-ruling-leaves-cftc-event-contract-rule-in-limbo/))",
+      "content_html": "<p>- **Analysis says Kalshi Ninth Circuit ruling leaves CFTC event-contract rule in limbo** — An analysis of the circuit split notes the Third Circuit reached the opposite conclusion on Kalshi contracts in April, while a New York court assumed the contracts could be swaps but held federal jurisdiction does not preempt state gaming rules. It says the CFTC proposed rulemaking would add a 90-day public-interest review for contracts touching gaming and other listed activities. ([CryptoNexa](https://www.cryptonexa.com/kalshi-ninth-circuit-ruling-leaves-cftc-event-contract-rule-in-limbo/))</p>",
+      "date_published": "2026-10-14T11:00:00-04:00",
+      "date_modified": "2026-10-14T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptonexa.com/kalshi-ninth-circuit-ruling-leaves-cftc-event-contract-rule-in-limbo/",
+      "links": [
+        "https://www.cryptonexa.com/kalshi-ninth-circuit-ruling-leaves-cftc-event-contract-rule-in-limbo/"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:00 AM ET",
+      "body": "- **Analysis says Kalshi Ninth Circuit ruling leaves CFTC event-contract rule in limbo** — An analysis of the circuit split notes the Third Circuit reached the opposite conclusion on Kalshi contracts in April, while a New York court assumed the contracts could be swaps but held federal jurisdiction does not preempt state gaming rules. It says the CFTC proposed rulemaking would add a 90-day public-interest review for contracts touching gaming and other listed activities. ([CryptoNexa](https://www.cryptonexa.com/kalshi-ninth-circuit-ruling-leaves-cftc-event-contract-rule-in-limbo/))",
+      "image_url": null,
+      "published": "2026-10-14T11:00:00-04:00",
+      "source": "2026-10-14_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_1054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_1054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKalshi's Oct. 28 Fed hike price jumps to 39%, up 22 points in a week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh post-CPI repricing leads, in an economy category different from the…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nCanadiens at Capitals tonight prices Washington at 55c, Montreal at 46c\nPolymarket's NHL market for the Oct. 14 game at 7:30 PM ET, opened Sept. 17, has generated $3,445 in volume, with moneyline, spread, total and player-prop markets listed…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-mon-wsh-2026-10-14\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi&#x27;s Oct. 28 Fed hike price jumps to 39%, up 22 points in a week<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh post-CPI repricing leads, in an economy category different from the…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/?ref=steemhunt<br/><br/>Canadiens at Capitals tonight prices Washington at 55c, Montreal at 46c<br/>Polymarket&#x27;s NHL market for the Oct. 14 game at 7:30 PM ET, opened Sept. 17, has generated $3,445 in volume, with moneyline, spread, total and player-prop markets listed…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/sports/nhl/nhl-mon-wsh-2026-10-14<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T10:54:00-04:00",
+      "date_modified": "2026-10-14T10:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/?ref=steemhunt",
+      "links": [
+        "https://defirate.com/?ref=steemhunt",
+        "https://polymarket.com/sports/nhl/nhl-mon-wsh-2026-10-14"
+      ],
+      "timestamp": "Oct 14, 2026 · 10:54 AM ET",
+      "body": "Infiniti Briefing\n\nKalshi's Oct. 28 Fed hike price jumps to 39%, up 22 points in a week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh post-CPI repricing leads, in an economy category different from the…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nCanadiens at Capitals tonight prices Washington at 55c, Montreal at 46c\nPolymarket's NHL market for the Oct. 14 game at 7:30 PM ET, opened Sept. 17, has generated $3,445 in volume, with moneyline, spread, total and player-prop markets listed…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-mon-wsh-2026-10-14\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T10:54:00-04:00",
+      "source": "2026-10-14_1054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_1045-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1045-edt-0",
@@ -15019,309 +15317,6 @@
       "image_url": null,
       "published": "2026-10-13T13:45:00-04:00",
       "source": "2026-10-13_1345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1345-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1345-edt-4",
-      "title": "October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals",
-      "content_text": "- **October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals** — A roundup updated October 13 lists current welcome offers across prediction markets, including a Polymarket deposit offer, a Kalshi bonus offer, and offers from Novig, ProphetX and FanDuel Predicts. The offers vary by deposit and qualifying trade requirements. ([New York Post](https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/))",
-      "content_html": "<p>- **October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals** — A roundup updated October 13 lists current welcome offers across prediction markets, including a Polymarket deposit offer, a Kalshi bonus offer, and offers from Novig, ProphetX and FanDuel Predicts. The offers vary by deposit and qualifying trade requirements. ([New York Post](https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/))</p>",
-      "date_published": "2026-10-13T13:45:00-04:00",
-      "date_modified": "2026-10-13T13:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/",
-      "links": [
-        "https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:45 PM ET",
-      "body": "- **October prediction market welcome offers rounded up for Polymarket, Kalshi and rivals** — A roundup updated October 13 lists current welcome offers across prediction markets, including a Polymarket deposit offer, a Kalshi bonus offer, and offers from Novig, ProphetX and FanDuel Predicts. The offers vary by deposit and qualifying trade requirements. ([New York Post](https://nypost.com/betting/best-prediction-market-promos-bonuses-and-welcome-offers/))",
-      "image_url": null,
-      "published": "2026-10-13T13:45:00-04:00",
-      "source": "2026-10-13_1345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_1339-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1339-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nTaiwan's local-election party market prices the Kuomintang at 82.5% on $251.5K traded\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political lead takes the top spot, in a different category from the last three…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/\n\nGolden Knights priced at 55% over the Predators in tonight's Polymarket NHL market on $19.2K traded\nVegas at 55c vs. Nashville at 46c for the 8:45 PM ET game on Oct. 13, a moneyline that opened Sept. 16 — a tonight-specific NHL contract not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Taiwan&#x27;s local-election party market prices the Kuomintang at 82.5% on $251.5K traded<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political lead takes the top spot, in a different category from the last three…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/<br/><br/>Golden Knights priced at 55% over the Predators in tonight&#x27;s Polymarket NHL market on $19.2K traded<br/>Vegas at 55c vs. Nashville at 46c for the 8:45 PM ET game on Oct. 13, a moneyline that opened Sept. 16 — a tonight-specific NHL contract not featured in any earlier…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T13:39:00-04:00",
-      "date_modified": "2026-10-13T13:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/",
-      "links": [
-        "https://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/",
-        "https://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:39 PM ET",
-      "body": "Infiniti Briefing\n\nTaiwan's local-election party market prices the Kuomintang at 82.5% on $251.5K traded\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh political lead takes the top spot, in a different category from the last three…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarkettrader.com/odds/2026-taiwanese-local-elections-party-winner/\n\nGolden Knights priced at 55% over the Predators in tonight's Polymarket NHL market on $19.2K traded\nVegas at 55c vs. Nashville at 46c for the 8:45 PM ET game on Oct. 13, a moneyline that opened Sept. 16 — a tonight-specific NHL contract not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-las-nsh-2026-10-13\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T13:39:00-04:00",
-      "source": "2026-10-13_1339-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1330-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1330-edt-0",
-      "title": "Polymarket gives Democrats a 91% chance of winning the House and 64% for the Senate in 2026 midterms",
-      "content_text": "- **Polymarket gives Democrats a 91% chance of winning the House and 64% for the Senate in 2026 midterms** — Polymarket priced Democrats at 91% to win the House and 64% to take the Senate as of Tuesday, October 13, while Kalshi's balance-of-power market also listed a Democratic sweep as the leading outcome. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
-      "content_html": "<p>- **Polymarket gives Democrats a 91% chance of winning the House and 64% for the Senate in 2026 midterms** — Polymarket priced Democrats at 91% to win the House and 64% to take the Senate as of Tuesday, October 13, while Kalshi&#x27;s balance-of-power market also listed a Democratic sweep as the leading outcome. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))</p>",
-      "date_published": "2026-10-13T13:30:00-04:00",
-      "date_modified": "2026-10-13T13:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/",
-      "links": [
-        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:30 PM ET",
-      "body": "- **Polymarket gives Democrats a 91% chance of winning the House and 64% for the Senate in 2026 midterms** — Polymarket priced Democrats at 91% to win the House and 64% to take the Senate as of Tuesday, October 13, while Kalshi's balance-of-power market also listed a Democratic sweep as the leading outcome. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
-      "image_url": null,
-      "published": "2026-10-13T13:30:00-04:00",
-      "source": "2026-10-13_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1330-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1330-edt-1",
-      "title": "CFTC warns prediction markets over manipulation risk in mention contracts",
-      "content_text": "- **CFTC warns prediction markets over manipulation risk in mention contracts** — The CFTC's Division of Market Oversight advised regulated exchanges that mention markets, contracts based on whether a person says certain words or takes a specific action, carry heightened manipulation risk and can be listed only in limited circumstances. ([Cointelegraph](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts))",
-      "content_html": "<p>- **CFTC warns prediction markets over manipulation risk in mention contracts** — The CFTC&#x27;s Division of Market Oversight advised regulated exchanges that mention markets, contracts based on whether a person says certain words or takes a specific action, carry heightened manipulation risk and can be listed only in limited circumstances. ([Cointelegraph](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts))</p>",
-      "date_published": "2026-10-13T13:30:00-04:00",
-      "date_modified": "2026-10-13T13:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts",
-      "links": [
-        "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:30 PM ET",
-      "body": "- **CFTC warns prediction markets over manipulation risk in mention contracts** — The CFTC's Division of Market Oversight advised regulated exchanges that mention markets, contracts based on whether a person says certain words or takes a specific action, carry heightened manipulation risk and can be listed only in limited circumstances. ([Cointelegraph](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts))",
-      "image_url": null,
-      "published": "2026-10-13T13:30:00-04:00",
-      "source": "2026-10-13_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1330-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1330-edt-2",
-      "title": "Ducks priced at 65% against Flames on Polymarket for October 13",
-      "content_text": "- **Ducks priced at 65% against Flames on Polymarket for October 13** — Polymarket priced the Anaheim Ducks at 65 cents and the Calgary Flames at 36 cents for their October 13 NHL game, with about $3,599 in total volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-cal-ana-2026-10-13))",
-      "content_html": "<p>- **Ducks priced at 65% against Flames on Polymarket for October 13** — Polymarket priced the Anaheim Ducks at 65 cents and the Calgary Flames at 36 cents for their October 13 NHL game, with about $3,599 in total volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-cal-ana-2026-10-13))</p>",
-      "date_published": "2026-10-13T13:30:00-04:00",
-      "date_modified": "2026-10-13T13:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/sports/nhl/nhl-cal-ana-2026-10-13",
-      "links": [
-        "https://polymarket.com/sports/nhl/nhl-cal-ana-2026-10-13"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:30 PM ET",
-      "body": "- **Ducks priced at 65% against Flames on Polymarket for October 13** — Polymarket priced the Anaheim Ducks at 65 cents and the Calgary Flames at 36 cents for their October 13 NHL game, with about $3,599 in total volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-cal-ana-2026-10-13))",
-      "image_url": null,
-      "published": "2026-10-13T13:30:00-04:00",
-      "source": "2026-10-13_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1330-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1330-edt-3",
-      "title": "Kalshi traders price Bitcoin hitting $100,000 by end of 2026 at 40%",
-      "content_text": "- **Kalshi traders price Bitcoin hitting $100,000 by end of 2026 at 40%** — Kalshi traders priced Bitcoin exceeding $100,000 before the end of 2026 at 40%, a move above $110,000 at 20%, and a surge past $130,000 at around 8%. ([Kalshi News](https://news.kalshi.com/p/bitcoin-odds-trading-above-86-000-how-high-will-btc-go-this-year))",
-      "content_html": "<p>- **Kalshi traders price Bitcoin hitting $100,000 by end of 2026 at 40%** — Kalshi traders priced Bitcoin exceeding $100,000 before the end of 2026 at 40%, a move above $110,000 at 20%, and a surge past $130,000 at around 8%. ([Kalshi News](https://news.kalshi.com/p/bitcoin-odds-trading-above-86-000-how-high-will-btc-go-this-year))</p>",
-      "date_published": "2026-10-13T13:30:00-04:00",
-      "date_modified": "2026-10-13T13:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://news.kalshi.com/p/bitcoin-odds-trading-above-86-000-how-high-will-btc-go-this-year",
-      "links": [
-        "https://news.kalshi.com/p/bitcoin-odds-trading-above-86-000-how-high-will-btc-go-this-year"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:30 PM ET",
-      "body": "- **Kalshi traders price Bitcoin hitting $100,000 by end of 2026 at 40%** — Kalshi traders priced Bitcoin exceeding $100,000 before the end of 2026 at 40%, a move above $110,000 at 20%, and a surge past $130,000 at around 8%. ([Kalshi News](https://news.kalshi.com/p/bitcoin-odds-trading-above-86-000-how-high-will-btc-go-this-year))",
-      "image_url": null,
-      "published": "2026-10-13T13:30:00-04:00",
-      "source": "2026-10-13_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1330-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1330-edt-4",
-      "title": "Kalshi closed Detroit Lions at 99% against Arizona Cardinals",
-      "content_text": "- **Kalshi closed Detroit Lions at 99% against Arizona Cardinals** — Kalshi closed its Detroit Lions versus Arizona Cardinals market with Detroit at 99% and Arizona at 1%, compared with a final sportsbook consensus of 93.4% for Detroit across eight books. ([Sportsbookish](https://sportsbookish.com/sports/nfl/2026/det-lions-vs-ari-cardinals-oct-11))",
-      "content_html": "<p>- **Kalshi closed Detroit Lions at 99% against Arizona Cardinals** — Kalshi closed its Detroit Lions versus Arizona Cardinals market with Detroit at 99% and Arizona at 1%, compared with a final sportsbook consensus of 93.4% for Detroit across eight books. ([Sportsbookish](https://sportsbookish.com/sports/nfl/2026/det-lions-vs-ari-cardinals-oct-11))</p>",
-      "date_published": "2026-10-13T13:30:00-04:00",
-      "date_modified": "2026-10-13T13:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://sportsbookish.com/sports/nfl/2026/det-lions-vs-ari-cardinals-oct-11",
-      "links": [
-        "https://sportsbookish.com/sports/nfl/2026/det-lions-vs-ari-cardinals-oct-11"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:30 PM ET",
-      "body": "- **Kalshi closed Detroit Lions at 99% against Arizona Cardinals** — Kalshi closed its Detroit Lions versus Arizona Cardinals market with Detroit at 99% and Arizona at 1%, compared with a final sportsbook consensus of 93.4% for Detroit across eight books. ([Sportsbookish](https://sportsbookish.com/sports/nfl/2026/det-lions-vs-ari-cardinals-oct-11))",
-      "image_url": null,
-      "published": "2026-10-13T13:30:00-04:00",
-      "source": "2026-10-13_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_1324-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1324-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKalshi traded 598,464 contracts on the Cardinals' draft pick — more than on any other player\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh notable trade leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators\n\nNevada governor's race flips on Polymarket: Ford now leads Lombardo 55% to 51%\nDemocratic candidate Aaron Ford, the state attorney general, overtook Republican Gov. Joe Lombardo in about 48 hours — Lombardo led at 51% this weekend and had held the…\n#PredictionMarkets #Polymarket\nhttps://www.actionnetwork.com/politics/nevada-governor-odds-flip-dem-aaron-ford-takes-the-lead-over-gov-joe-lombardo\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi traded 598,464 contracts on the Cardinals&#x27; draft pick — more than on any other player<br/>Quiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh notable trade leads, in a different category from the last three editions…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators<br/><br/>Nevada governor&#x27;s race flips on Polymarket: Ford now leads Lombardo 55% to 51%<br/>Democratic candidate Aaron Ford, the state attorney general, overtook Republican Gov. Joe Lombardo in about 48 hours — Lombardo led at 51% this weekend and had held the…<br/>#PredictionMarkets #Polymarket<br/>https://www.actionnetwork.com/politics/nevada-governor-odds-flip-dem-aaron-ford-takes-the-lead-over-gov-joe-lombardo<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T13:24:00-04:00",
-      "date_modified": "2026-10-13T13:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators",
-      "links": [
-        "https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators",
-        "https://www.actionnetwork.com/politics/nevada-governor-odds-flip-dem-aaron-ford-takes-the-lead-over-gov-joe-lombardo"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:24 PM ET",
-      "body": "Infiniti Briefing\n\nKalshi traded 598,464 contracts on the Cardinals' draft pick — more than on any other player\nQuiet quarter-hour — no significant new headline in the last 15 minutes, so this fresh notable trade leads, in a different category from the last three editions…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators\n\nNevada governor's race flips on Polymarket: Ford now leads Lombardo 55% to 51%\nDemocratic candidate Aaron Ford, the state attorney general, overtook Republican Gov. Joe Lombardo in about 48 hours — Lombardo led at 51% this weekend and had held the…\n#PredictionMarkets #Polymarket\nhttps://www.actionnetwork.com/politics/nevada-governor-odds-flip-dem-aaron-ford-takes-the-lead-over-gov-joe-lombardo\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T13:24:00-04:00",
-      "source": "2026-10-13_1324-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1315-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1315-edt-0",
-      "title": "Prediction markets give Bitcoin a 2% chance of reaching $200,000 in 2026, a record low",
-      "content_text": "- **Prediction markets give Bitcoin a 2% chance of reaching $200,000 in 2026, a record low** — Kalshi prices Bitcoin trading above $200,000 by January 1, 2027 at 2%, with Polymarket at a similar level between less than 1% and 2%, down from around 4%. Total volume across the related Polymarket contracts exceeds $74 million, with Bitcoin trading near $82,000 to $84,000 in early October. ([TradingView](https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
-      "content_html": "<p>- **Prediction markets give Bitcoin a 2% chance of reaching $200,000 in 2026, a record low** — Kalshi prices Bitcoin trading above $200,000 by January 1, 2027 at 2%, with Polymarket at a similar level between less than 1% and 2%, down from around 4%. Total volume across the related Polymarket contracts exceeds $74 million, with Bitcoin trading near $82,000 to $84,000 in early October. ([TradingView](https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))</p>",
-      "date_published": "2026-10-13T13:15:00-04:00",
-      "date_modified": "2026-10-13T13:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/",
-      "links": [
-        "https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:15 PM ET",
-      "body": "- **Prediction markets give Bitcoin a 2% chance of reaching $200,000 in 2026, a record low** — Kalshi prices Bitcoin trading above $200,000 by January 1, 2027 at 2%, with Polymarket at a similar level between less than 1% and 2%, down from around 4%. Total volume across the related Polymarket contracts exceeds $74 million, with Bitcoin trading near $82,000 to $84,000 in early October. ([TradingView](https://in.tradingview.com/news/cryptobriefing:de96c88c2094b:0-prediction-markets-give-bitcoin-a-2-shot-at-200-000-in-2026-a-record-low/))",
-      "image_url": null,
-      "published": "2026-10-13T13:15:00-04:00",
-      "source": "2026-10-13_1315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1315-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1315-edt-1",
-      "title": "Blockchain.com seeks CFTC approval to launch US prediction markets and crypto derivatives",
-      "content_text": "- **Blockchain.com seeks CFTC approval to launch US prediction markets and crypto derivatives** — Blockchain.com has submitted applications for a designated contract market license and futures commission merchant registration with the CFTC. Approval would allow it to offer event contracts and crypto derivatives to retail and institutional customers in the United States under its own regulated structure. ([Crowdfund Insider](https://www.crowdfundinsider.com/2026/10/317124-blockchain-com-seeks-cftc-approval-to-launch-us-prediction-markets-and-crypto-derivatives/))",
-      "content_html": "<p>- **Blockchain.com seeks CFTC approval to launch US prediction markets and crypto derivatives** — Blockchain.com has submitted applications for a designated contract market license and futures commission merchant registration with the CFTC. Approval would allow it to offer event contracts and crypto derivatives to retail and institutional customers in the United States under its own regulated structure. ([Crowdfund Insider](https://www.crowdfundinsider.com/2026/10/317124-blockchain-com-seeks-cftc-approval-to-launch-us-prediction-markets-and-crypto-derivatives/))</p>",
-      "date_published": "2026-10-13T13:15:00-04:00",
-      "date_modified": "2026-10-13T13:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.crowdfundinsider.com/2026/10/317124-blockchain-com-seeks-cftc-approval-to-launch-us-prediction-markets-and-crypto-derivatives/",
-      "links": [
-        "https://www.crowdfundinsider.com/2026/10/317124-blockchain-com-seeks-cftc-approval-to-launch-us-prediction-markets-and-crypto-derivatives/"
-      ],
-      "timestamp": "Oct 13, 2026 · 1:15 PM ET",
-      "body": "- **Blockchain.com seeks CFTC approval to launch US prediction markets and crypto derivatives** — Blockchain.com has submitted applications for a designated contract market license and futures commission merchant registration with the CFTC. Approval would allow it to offer event contracts and crypto derivatives to retail and institutional customers in the United States under its own regulated structure. ([Crowdfund Insider](https://www.crowdfundinsider.com/2026/10/317124-blockchain-com-seeks-cftc-approval-to-launch-us-prediction-markets-and-crypto-derivatives/))",
-      "image_url": null,
-      "published": "2026-10-13T13:15:00-04:00",
-      "source": "2026-10-13_1315-edt.json",
       "matches_facebook_post": false
     }
   ]
