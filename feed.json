@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T13:52:04.441055-04:00",
+  "updated": "2026-10-14T13:55:32.412883-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,43 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_1354-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_1354-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPolymarket Protocol V2 moves new markets over on Nov. 2\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product-launch category different from the previous…\n#PredictionMarkets #Polymarket\nhttps://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2\n\nWuhan Tennis Open: Sabalenka vs. Ann Li draws $1.5M in 24 hours, with Ann Li at 76%\nPolydict's live Polymarket board, as of Oct. 14 at 1:52 PM UTC, ranks the Wuhan matchup fourth by 24-hour volume at $1.5M, ahead of Manchester City vs. Paris…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket Protocol V2 moves new markets over on Nov. 2<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product-launch category different from the previous…<br/>#PredictionMarkets #Polymarket<br/>https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2<br/><br/>Wuhan Tennis Open: Sabalenka vs. Ann Li draws $1.5M in 24 hours, with Ann Li at 76%<br/>Polydict&#x27;s live Polymarket board, as of Oct. 14 at 1:52 PM UTC, ranks the Wuhan matchup fourth by 24-hour volume at $1.5M, ahead of Manchester City vs. Paris…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T13:54:00-04:00",
+      "date_modified": "2026-10-14T13:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Midterms",
+        "Bitcoin",
+        "Ethereum",
+        "Gold",
+        "Silver",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2",
+      "links": [
+        "https://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2",
+        "https://polydict.app/markets"
+      ],
+      "timestamp": "Oct 14, 2026 · 1:54 PM ET",
+      "body": "Infiniti Briefing\n\nPolymarket Protocol V2 moves new markets over on Nov. 2\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product-launch category different from the previous…\n#PredictionMarkets #Polymarket\nhttps://www.kucoin.com/blog/polymarket-launches-protocol-v2-with-new-markets-moving-over-on-november-2\n\nWuhan Tennis Open: Sabalenka vs. Ann Li draws $1.5M in 24 hours, with Ann Li at 76%\nPolydict's live Polymarket board, as of Oct. 14 at 1:52 PM UTC, ranks the Wuhan matchup fourth by 24-hour volume at $1.5M, ahead of Manchester City vs. Paris…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T13:54:00-04:00",
+      "source": "2026-10-14_1354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_1345-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1345-edt-0",
@@ -15212,36 +15249,6 @@
       ],
       "timestamp": "Oct 13, 2026 · 8:00 PM ET",
       "body": "- **Kalshi and Polymarket price Chris Pappas at 89 percent in New Hampshire Senate race** — DeFi Rate readings on October 13 averaged Kalshi at 90 percent and Polymarket at 89 percent for Chris Pappas in the New Hampshire Senate race, ahead of John E. Sununu at about 11 to 12 percent, with about 3,000 dollars in combined 24-hour volume shown for the race. ([DeFi Rate](https://defirate.com/odds/senate/))",
-      "image_url": null,
-      "published": "2026-10-13T20:00:00-04:00",
-      "source": "2026-10-13_2000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2000-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2000-edt-2",
-      "title": "Kalshi and Polymarket price about one-in-four odds the Paramount Skydance merger fails",
-      "content_text": "- **Kalshi and Polymarket price about one-in-four odds the Paramount Skydance merger fails** — TipRanks reported Kalshi traders at 74 percent that the Paramount Skydance and Warner Bros. Discovery deal goes through by July 2027, with about 22 percent pricing failure on Kalshi and about 23 percent on Polymarket. ([TipRanks](https://www.tipranks.com/news/one-in-four-odds-the-merger-fails-say-kalshi-polymarket-paramount-skydance-nasdaqpsky-stock-gains-regardless))",
-      "content_html": "<p>- **Kalshi and Polymarket price about one-in-four odds the Paramount Skydance merger fails** — TipRanks reported Kalshi traders at 74 percent that the Paramount Skydance and Warner Bros. Discovery deal goes through by July 2027, with about 22 percent pricing failure on Kalshi and about 23 percent on Polymarket. ([TipRanks](https://www.tipranks.com/news/one-in-four-odds-the-merger-fails-say-kalshi-polymarket-paramount-skydance-nasdaqpsky-stock-gains-regardless))</p>",
-      "date_published": "2026-10-13T20:00:00-04:00",
-      "date_modified": "2026-10-13T20:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.tipranks.com/news/one-in-four-odds-the-merger-fails-say-kalshi-polymarket-paramount-skydance-nasdaqpsky-stock-gains-regardless",
-      "links": [
-        "https://www.tipranks.com/news/one-in-four-odds-the-merger-fails-say-kalshi-polymarket-paramount-skydance-nasdaqpsky-stock-gains-regardless"
-      ],
-      "timestamp": "Oct 13, 2026 · 8:00 PM ET",
-      "body": "- **Kalshi and Polymarket price about one-in-four odds the Paramount Skydance merger fails** — TipRanks reported Kalshi traders at 74 percent that the Paramount Skydance and Warner Bros. Discovery deal goes through by July 2027, with about 22 percent pricing failure on Kalshi and about 23 percent on Polymarket. ([TipRanks](https://www.tipranks.com/news/one-in-four-odds-the-merger-fails-say-kalshi-polymarket-paramount-skydance-nasdaqpsky-stock-gains-regardless))",
       "image_url": null,
       "published": "2026-10-13T20:00:00-04:00",
       "source": "2026-10-13_2000-edt.json",
