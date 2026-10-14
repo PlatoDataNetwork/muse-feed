@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Infiniti — 24h Max Throttle Dashboard</title>
+<style>
+  body{background:#0a0a0a;color:#e8e8e8;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;padding:24px}
+  h1{font-size:22px;margin:0 0 4px} .sub{color:#9a9a9a;font-size:13px;margin-bottom:20px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+  .card{background:#141414;border:1px solid #262626;border-radius:12px;padding:16px}
+  .card h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:#9a9a9a;margin:0 0 8px}
+  .big{font-size:34px;font-weight:700;line-height:1}
+  .row{display:flex;justify-content:space-between;font-size:13px;color:#c9c9c9;margin-top:8px}
+  .row b{color:#fff}
+  .accent{color:#3fd68b}.warn{color:#ffb020}
+  table{width:100%;border-collapse:collapse;margin-top:6px;font-size:13px}
+  td,th{padding:6px 4px;border-bottom:1px solid #222;text-align:right}
+  td:first-child,th:first-child{text-align:left}
+  .foot{color:#777;font-size:12px;margin-top:18px}
+</style>
+</head>
+<body>
+<h1>🔮 Infiniti — Max Throttle Test</h1>
+<div class="sub">24-hour window: <span id="win"></span> · Elapsed <b id="elapsed">–</b> · Remaining <b id="remain">–</b> · Updated <span id="updated">–</span></div>
+
+<div class="grid">
+  <div class="card"><h2>Website feed items</h2><div class="big accent" id="feedTotal">–</div>
+    <div class="row"><span>per hour</span><b id="feedRate">–</b></div>
+    <div class="row"><span>projected 24h</span><b id="feedProj">–</b></div>
+    <div class="row"><span>items live on site now</span><b id="feedLive">–</b></div></div>
+  <div class="card"><h2>Cash cost (consolidated)</h2><div class="big" id="cashTotal">–</div>
+    <div class="row"><span>X API</span><b id="cashX">–</b></div>
+    <div class="row"><span>Facebook / Telegram / hosting</span><b>$0.00</b></div>
+    <div class="row"><span>projected 24h X cost</span><b id="cashProj">–</b></div></div>
+  <div class="card"><h2>Muse usage (window)</h2><div class="big" id="claudeDelta">–</div>
+    <div class="row"><span>of weekly limit (now)</span><b id="claudeNow">–</b></div>
+    <div class="row"><span>burn rate</span><b id="claudeRate">–</b></div>
+    <div class="row"><span>projected 24h</span><b id="claudeProj">–</b></div>
+    <div class="row"><span>additional tokens used</span><b id="claudeAddl">–</b></div></div>
+</div>
+
+<div class="card" style="margin-top:14px"><h2>Per channel</h2>
+<table><thead><tr><th>Channel</th><th>Produced</th><th>Per hour</th><th>Proj. 24h</th><th>Platform cost</th></tr></thead>
+<tbody id="channels"></tbody></table></div>
+
+<div class="foot">Throttle settings: website top-up batch 15/run (normal 5), briefings every 15 min, feed cap 500 (normal 150). X cost estimated at $0.20/tweet, ~3 tweets/thread. X threads and Telegram messages mirror Facebook Page posts (newest-only). Muse usage is measured against the Power plan weekly allowance; no per-token dollar billing. Data refreshes every 30 seconds from the production meter.</div>
+
+<script>
+const fmt$ = n => "$" + Number(n).toFixed(2);
+async function tick(){
+  try{
+    const r = await fetch("stats.json?ts=" + Date.now(), {cache:"no-store"});
+    const s = await r.json();
+    const c = s.channels, p = s.projected_24h_at_current_rate, m = s.muse_usage;
+    document.getElementById("win").textContent = s.window_start.replace("T"," ").slice(0,16) + " → " + s.window_end.replace("T"," ").slice(0,16) + " ET";
+    document.getElementById("elapsed").textContent = s.elapsed_hours + "h";
+    document.getElementById("remain").textContent = s.remaining_hours + "h";
+    document.getElementById("updated").textContent = s.updated_at.replace("T"," ").slice(0,19);
+    document.getElementById("feedTotal").textContent = s.website_feed_items_total;
+    document.getElementById("feedRate").textContent = s.website_feed_items_per_hour + "/h";
+    document.getElementById("feedProj").textContent = p.website_feed_items;
+    document.getElementById("feedLive").textContent = s.feed_items_on_site_now;
+    document.getElementById("cashTotal").textContent = fmt$(s.cash_cost_usd.total);
+    document.getElementById("cashX").textContent = fmt$(s.cash_cost_usd.x_api);
+    document.getElementById("cashProj").textContent = fmt$(p.x_cost_usd);
+    document.getElementById("claudeDelta").textContent = (m.weekly_pct_delta_window ?? "–") + "%";
+    document.getElementById("claudeNow").textContent = (m.weekly_pct_now ?? "–") + "%";
+    document.getElementById("claudeRate").textContent = (m.weekly_pct_per_hour ?? "–") + "%/h";
+    document.getElementById("claudeProj").textContent = (p.muse_weekly_pct ?? "–") + "%";
+    document.getElementById("claudeAddl").textContent = (m.additional_pct_delta_window ?? "–") + "% of 1B";
+    const rows = [
+      ["Chat briefings", c.chat_briefings, null],
+      ["Website-only items", c.website_items, null],
+      ["Facebook Page posts", c.facebook_page_posts, null],
+      ["X threads", c.x_threads, p.x_threads],
+      ["Telegram messages", c.telegram_messages, null],
+    ];
+    document.getElementById("channels").innerHTML = rows.map(([name,ch,proj]) =>
+      "<tr><td>"+name+"</td><td>"+ch.count+"</td><td>"+ch.per_hour+"/h</td><td>"+(proj ?? Math.round(ch.per_hour*24))+"</td><td>"+fmt$(ch.platform_cost_usd)+"</td></tr>").join("");
+  }catch(e){ /* keep last render */ }
+}
+tick(); setInterval(tick, 30000);
+</script>
+</body>
+</html>
