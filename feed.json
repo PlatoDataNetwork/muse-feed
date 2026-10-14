@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T00:19:08.719148-04:00",
+  "updated": "2026-10-14T00:34:49.919351-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_0030-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0030-edt-0",
+      "title": "Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth",
+      "content_text": "- **Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth** — Prediction markets posted a record 78.2 billion dollars in notional volume in September, passing the previous high of 56.4 billion dollars set in July, as sports trading rebounded after a late-summer slowdown. Weekly volume recovered to about 19.9 billion dollars after slipping to roughly 10 billion dollars from late July to mid-August. ([Bonus.com](https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/))",
+      "content_html": "<p>- **Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth** — Prediction markets posted a record 78.2 billion dollars in notional volume in September, passing the previous high of 56.4 billion dollars set in July, as sports trading rebounded after a late-summer slowdown. Weekly volume recovered to about 19.9 billion dollars after slipping to roughly 10 billion dollars from late July to mid-August. ([Bonus.com](https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/))</p>",
+      "date_published": "2026-10-14T00:30:00-04:00",
+      "date_modified": "2026-10-14T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/",
+      "links": [
+        "https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:30 AM ET",
+      "body": "- **Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth** — Prediction markets posted a record 78.2 billion dollars in notional volume in September, passing the previous high of 56.4 billion dollars set in July, as sports trading rebounded after a late-summer slowdown. Weekly volume recovered to about 19.9 billion dollars after slipping to roughly 10 billion dollars from late July to mid-August. ([Bonus.com](https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/))",
+      "image_url": null,
+      "published": "2026-10-14T00:30:00-04:00",
+      "source": "2026-10-14_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0030-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0030-edt-1",
+      "title": "Polymarket prices Democratic midterm sweep at 62 percent as CLARITY Act outlook is questioned",
+      "content_text": "- **Polymarket prices Democratic midterm sweep at 62 percent as CLARITY Act outlook is questioned** — Polymarket gave Democrats a 62 percent chance of sweeping both chambers of Congress in the November 3 midterms, while Kalshi put the odds at 61 percent. The report said a sweep could complicate efforts to revive the CLARITY Act, the crypto market structure bill that would divide oversight between the SEC and the CFTC. ([Financier](https://financier.news/polymarket-traders-now-price-62-odds-of-democratic-midterm-sweep-putting-clarity-acts-crypto-future-in-jeopardy/))",
+      "content_html": "<p>- **Polymarket prices Democratic midterm sweep at 62 percent as CLARITY Act outlook is questioned** — Polymarket gave Democrats a 62 percent chance of sweeping both chambers of Congress in the November 3 midterms, while Kalshi put the odds at 61 percent. The report said a sweep could complicate efforts to revive the CLARITY Act, the crypto market structure bill that would divide oversight between the SEC and the CFTC. ([Financier](https://financier.news/polymarket-traders-now-price-62-odds-of-democratic-midterm-sweep-putting-clarity-acts-crypto-future-in-jeopardy/))</p>",
+      "date_published": "2026-10-14T00:30:00-04:00",
+      "date_modified": "2026-10-14T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Congress",
+        "SEC",
+        "CFTC",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://financier.news/polymarket-traders-now-price-62-odds-of-democratic-midterm-sweep-putting-clarity-acts-crypto-future-in-jeopardy/",
+      "links": [
+        "https://financier.news/polymarket-traders-now-price-62-odds-of-democratic-midterm-sweep-putting-clarity-acts-crypto-future-in-jeopardy/"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:30 AM ET",
+      "body": "- **Polymarket prices Democratic midterm sweep at 62 percent as CLARITY Act outlook is questioned** — Polymarket gave Democrats a 62 percent chance of sweeping both chambers of Congress in the November 3 midterms, while Kalshi put the odds at 61 percent. The report said a sweep could complicate efforts to revive the CLARITY Act, the crypto market structure bill that would divide oversight between the SEC and the CFTC. ([Financier](https://financier.news/polymarket-traders-now-price-62-odds-of-democratic-midterm-sweep-putting-clarity-acts-crypto-future-in-jeopardy/))",
+      "image_url": null,
+      "published": "2026-10-14T00:30:00-04:00",
+      "source": "2026-10-14_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0030-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0030-edt-2",
+      "title": "Polymarket Wellington temperature market for October 13 leads with 13 degrees Celsius at 100 percent",
+      "content_text": "- **Polymarket Wellington temperature market for October 13 leads with 13 degrees Celsius at 100 percent** — A Polymarket market on the lowest temperature in Wellington on October 13 leads with 13 degrees Celsius at 100 percent, followed by 12 degrees at 11 percent. The market has generated 28,200 dollars in trading volume since launching on October 11. ([Polymarket](https://polymarket.com/event/lowest-temperature-in-wellington-on-october-13-2026))",
+      "content_html": "<p>- **Polymarket Wellington temperature market for October 13 leads with 13 degrees Celsius at 100 percent** — A Polymarket market on the lowest temperature in Wellington on October 13 leads with 13 degrees Celsius at 100 percent, followed by 12 degrees at 11 percent. The market has generated 28,200 dollars in trading volume since launching on October 11. ([Polymarket](https://polymarket.com/event/lowest-temperature-in-wellington-on-october-13-2026))</p>",
+      "date_published": "2026-10-14T00:30:00-04:00",
+      "date_modified": "2026-10-14T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/lowest-temperature-in-wellington-on-october-13-2026",
+      "links": [
+        "https://polymarket.com/event/lowest-temperature-in-wellington-on-october-13-2026"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:30 AM ET",
+      "body": "- **Polymarket Wellington temperature market for October 13 leads with 13 degrees Celsius at 100 percent** — A Polymarket market on the lowest temperature in Wellington on October 13 leads with 13 degrees Celsius at 100 percent, followed by 12 degrees at 11 percent. The market has generated 28,200 dollars in trading volume since launching on October 11. ([Polymarket](https://polymarket.com/event/lowest-temperature-in-wellington-on-october-13-2026))",
+      "image_url": null,
+      "published": "2026-10-14T00:30:00-04:00",
+      "source": "2026-10-14_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0030-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0030-edt-3",
+      "title": "Kalshi lists live tennis event contracts for ATP and WTA tournaments",
+      "content_text": "- **Kalshi lists live tennis event contracts for ATP and WTA tournaments** — Kalshi is offering prediction markets on professional tennis matches across the ATP Shanghai, WTA Beijing, WTA Wuhan, ATP Challenger, WTA Challenger and ITF events. Listings included a live moneyline market for a Stearns and Han Shi match and an ATP Shanghai Masters round of 32 market between Khachanov and Mannarino. ([Prediction News](https://predictionnews.com/story/rita-reviews-compares-kalshi-alternatives-for-tennis-event-contracts))",
+      "content_html": "<p>- **Kalshi lists live tennis event contracts for ATP and WTA tournaments** — Kalshi is offering prediction markets on professional tennis matches across the ATP Shanghai, WTA Beijing, WTA Wuhan, ATP Challenger, WTA Challenger and ITF events. Listings included a live moneyline market for a Stearns and Han Shi match and an ATP Shanghai Masters round of 32 market between Khachanov and Mannarino. ([Prediction News](https://predictionnews.com/story/rita-reviews-compares-kalshi-alternatives-for-tennis-event-contracts))</p>",
+      "date_published": "2026-10-14T00:30:00-04:00",
+      "date_modified": "2026-10-14T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/rita-reviews-compares-kalshi-alternatives-for-tennis-event-contracts",
+      "links": [
+        "https://predictionnews.com/story/rita-reviews-compares-kalshi-alternatives-for-tennis-event-contracts"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:30 AM ET",
+      "body": "- **Kalshi lists live tennis event contracts for ATP and WTA tournaments** — Kalshi is offering prediction markets on professional tennis matches across the ATP Shanghai, WTA Beijing, WTA Wuhan, ATP Challenger, WTA Challenger and ITF events. Listings included a live moneyline market for a Stearns and Han Shi match and an ATP Shanghai Masters round of 32 market between Khachanov and Mannarino. ([Prediction News](https://predictionnews.com/story/rita-reviews-compares-kalshi-alternatives-for-tennis-event-contracts))",
+      "image_url": null,
+      "published": "2026-10-14T00:30:00-04:00",
+      "source": "2026-10-14_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0030-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0030-edt-4",
+      "title": "Gold holds near 4,187 dollars as prediction markets price a December Fed hike",
+      "content_text": "- **Gold holds near 4,187 dollars as prediction markets price a December Fed hike** — Gold held near 4,187 dollars on Tuesday, pinned between expectations of further Fed tightening and central bank buying, ahead of the Wednesday CPI report. Real-money prediction markets priced an October rate hike at 19.5 percent and a hike by December at 75.5 percent as of late Monday. ([TradingNews](https://www.tradingnews.com/news/gold-at-4187-usd-as-289-tonne-central-bank-bid-meets-a-hawkish-fed-4300-usd-in-play))",
+      "content_html": "<p>- **Gold holds near 4,187 dollars as prediction markets price a December Fed hike** — Gold held near 4,187 dollars on Tuesday, pinned between expectations of further Fed tightening and central bank buying, ahead of the Wednesday CPI report. Real-money prediction markets priced an October rate hike at 19.5 percent and a hike by December at 75.5 percent as of late Monday. ([TradingNews](https://www.tradingnews.com/news/gold-at-4187-usd-as-289-tonne-central-bank-bid-meets-a-hawkish-fed-4300-usd-in-play))</p>",
+      "date_published": "2026-10-14T00:30:00-04:00",
+      "date_modified": "2026-10-14T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://www.tradingnews.com/news/gold-at-4187-usd-as-289-tonne-central-bank-bid-meets-a-hawkish-fed-4300-usd-in-play",
+      "links": [
+        "https://www.tradingnews.com/news/gold-at-4187-usd-as-289-tonne-central-bank-bid-meets-a-hawkish-fed-4300-usd-in-play"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:30 AM ET",
+      "body": "- **Gold holds near 4,187 dollars as prediction markets price a December Fed hike** — Gold held near 4,187 dollars on Tuesday, pinned between expectations of further Fed tightening and central bank buying, ahead of the Wednesday CPI report. Real-money prediction markets priced an October rate hike at 19.5 percent and a hike by December at 75.5 percent as of late Monday. ([TradingNews](https://www.tradingnews.com/news/gold-at-4187-usd-as-289-tonne-central-bank-bid-meets-a-hawkish-fed-4300-usd-in-play))",
+      "image_url": null,
+      "published": "2026-10-14T00:30:00-04:00",
+      "source": "2026-10-14_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_0024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nOct. 13 rain market tops the weather board at $398K in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather snapshot leads, in a weather/volume category different from the…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\n\"No Hormuz agreement\" contract reprices to 89%, up 73.2 points in 72 hours\nA Swiss Whale Intelligence daily note for Oct. 13 puts Polymarket's \"no Hormuz agreement\" outcome at 89%, a sharp 73.2-point rise over 72 hours that it flags as…\n#PredictionMarkets #Polymarket #Senate\nhttps://swisswhaleintelligence.com/daily/2026-10-13/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Oct. 13 rain market tops the weather board at $398K in 24 hours<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather snapshot leads, in a weather/volume category different from the…<br/>#PredictionMarkets<br/>https://defirate.com/odds/<br/><br/>&quot;No Hormuz agreement&quot; contract reprices to 89%, up 73.2 points in 72 hours<br/>A Swiss Whale Intelligence daily note for Oct. 13 puts Polymarket&#x27;s &quot;no Hormuz agreement&quot; outcome at 89%, a sharp 73.2-point rise over 72 hours that it flags as…<br/>#PredictionMarkets #Polymarket #Senate<br/>https://swisswhaleintelligence.com/daily/2026-10-13/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T00:24:00-04:00",
+      "date_modified": "2026-10-14T00:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/",
+      "links": [
+        "https://defirate.com/odds/",
+        "https://swisswhaleintelligence.com/daily/2026-10-13/"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:24 AM ET",
+      "body": "Infiniti Briefing\n\nOct. 13 rain market tops the weather board at $398K in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather snapshot leads, in a weather/volume category different from the…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\n\"No Hormuz agreement\" contract reprices to 89%, up 73.2 points in 72 hours\nA Swiss Whale Intelligence daily note for Oct. 13 puts Polymarket's \"no Hormuz agreement\" outcome at 89%, a sharp 73.2-point rise over 72 hours that it flags as…\n#PredictionMarkets #Polymarket #Senate\nhttps://swisswhaleintelligence.com/daily/2026-10-13/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T00:24:00-04:00",
+      "source": "2026-10-14_0024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0015-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0015-edt-0",
@@ -4500,188 +4680,6 @@
       "image_url": null,
       "published": "2026-10-13T18:15:00-04:00",
       "source": "2026-10-13_1815-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1815-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1815-edt-4",
-      "title": "Dexsport enters crypto prediction market comparison as Kalshi and Polymarket top 45 billion dollars in August",
-      "content_text": "- **Dexsport enters crypto prediction market comparison as Kalshi and Polymarket top 45 billion dollars in August** — Kalshi and Polymarket together handled more than 45 billion dollars in prediction market volume in August 2026, according to a platform comparison. Dexsport entered the category in September with a crypto sportsbook model that sells Yes and No shares from one account. ([Crypto Daily](https://cryptodaily.co.uk/2026/09/dexsport-polymarket-and-kalshi-how-crypto-prediction-platforms-compare-in-2026))",
-      "content_html": "<p>- **Dexsport enters crypto prediction market comparison as Kalshi and Polymarket top 45 billion dollars in August** — Kalshi and Polymarket together handled more than 45 billion dollars in prediction market volume in August 2026, according to a platform comparison. Dexsport entered the category in September with a crypto sportsbook model that sells Yes and No shares from one account. ([Crypto Daily](https://cryptodaily.co.uk/2026/09/dexsport-polymarket-and-kalshi-how-crypto-prediction-platforms-compare-in-2026))</p>",
-      "date_published": "2026-10-13T18:15:00-04:00",
-      "date_modified": "2026-10-13T18:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://cryptodaily.co.uk/2026/09/dexsport-polymarket-and-kalshi-how-crypto-prediction-platforms-compare-in-2026",
-      "links": [
-        "https://cryptodaily.co.uk/2026/09/dexsport-polymarket-and-kalshi-how-crypto-prediction-platforms-compare-in-2026"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:15 PM ET",
-      "body": "- **Dexsport enters crypto prediction market comparison as Kalshi and Polymarket top 45 billion dollars in August** — Kalshi and Polymarket together handled more than 45 billion dollars in prediction market volume in August 2026, according to a platform comparison. Dexsport entered the category in September with a crypto sportsbook model that sells Yes and No shares from one account. ([Crypto Daily](https://cryptodaily.co.uk/2026/09/dexsport-polymarket-and-kalshi-how-crypto-prediction-platforms-compare-in-2026))",
-      "image_url": null,
-      "published": "2026-10-13T18:15:00-04:00",
-      "source": "2026-10-13_1815-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_1809-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1809-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nRomania's next prime minister priced as an independent or technocrat at 88.5%, up 26 points in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh political mover leads, in a different category from the last three…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nBetMGM CEO says the prediction-market addressable market should shrink ahead of a Supreme Court ruling\nSpeaking on the operator's Q3 earnings call on Tuesday, Oct. 13, Adam Greenblatt said he expects a progressive reduction in the sector's total addressable market as more…\n#PredictionMarkets #SCOTUS\nhttps://www.egr.global/intel/insight/betmgm-ceo-prediction-markets-tam-should-reduce-ahead-of-supreme-court-hearing/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Romania&#x27;s next prime minister priced as an independent or technocrat at 88.5%, up 26 points in 24 hours<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh political mover leads, in a different category from the last three…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/<br/><br/>BetMGM CEO says the prediction-market addressable market should shrink ahead of a Supreme Court ruling<br/>Speaking on the operator&#x27;s Q3 earnings call on Tuesday, Oct. 13, Adam Greenblatt said he expects a progressive reduction in the sector&#x27;s total addressable market as more…<br/>#PredictionMarkets #SCOTUS<br/>https://www.egr.global/intel/insight/betmgm-ceo-prediction-markets-tam-should-reduce-ahead-of-supreme-court-hearing/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-13T18:09:00-04:00",
-      "date_modified": "2026-10-13T18:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "SCOTUS"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/",
-      "links": [
-        "https://predictionbubbles.net/markets/",
-        "https://www.egr.global/intel/insight/betmgm-ceo-prediction-markets-tam-should-reduce-ahead-of-supreme-court-hearing/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:09 PM ET",
-      "body": "Infiniti Briefing\n\nRomania's next prime minister priced as an independent or technocrat at 88.5%, up 26 points in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh political mover leads, in a different category from the last three…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nBetMGM CEO says the prediction-market addressable market should shrink ahead of a Supreme Court ruling\nSpeaking on the operator's Q3 earnings call on Tuesday, Oct. 13, Adam Greenblatt said he expects a progressive reduction in the sector's total addressable market as more…\n#PredictionMarkets #SCOTUS\nhttps://www.egr.global/intel/insight/betmgm-ceo-prediction-markets-tam-should-reduce-ahead-of-supreme-court-hearing/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-13T18:09:00-04:00",
-      "source": "2026-10-13_1809-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1800-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1800-edt-0",
-      "title": "Kalshi wins Tennessee ruling as judge finds sports event contracts are swaps",
-      "content_text": "- **Kalshi wins Tennessee ruling as judge finds sports event contracts are swaps** — A federal judge in Tennessee ruled in favor of Kalshi, finding its sports event contracts qualify as swaps under the Commodity Exchange Act. The court granted a preliminary injunction barring state gaming regulators from enforcing gambling laws against the platform. ([GambleRss](https://gamblerss.com/kalshi-scores-legal-win-in-tennessee-judge-rules-sports-event-contracts-are-swaps-57532))",
-      "content_html": "<p>- **Kalshi wins Tennessee ruling as judge finds sports event contracts are swaps** — A federal judge in Tennessee ruled in favor of Kalshi, finding its sports event contracts qualify as swaps under the Commodity Exchange Act. The court granted a preliminary injunction barring state gaming regulators from enforcing gambling laws against the platform. ([GambleRss](https://gamblerss.com/kalshi-scores-legal-win-in-tennessee-judge-rules-sports-event-contracts-are-swaps-57532))</p>",
-      "date_published": "2026-10-13T18:00:00-04:00",
-      "date_modified": "2026-10-13T18:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/kalshi-scores-legal-win-in-tennessee-judge-rules-sports-event-contracts-are-swaps-57532",
-      "links": [
-        "https://gamblerss.com/kalshi-scores-legal-win-in-tennessee-judge-rules-sports-event-contracts-are-swaps-57532"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 PM ET",
-      "body": "- **Kalshi wins Tennessee ruling as judge finds sports event contracts are swaps** — A federal judge in Tennessee ruled in favor of Kalshi, finding its sports event contracts qualify as swaps under the Commodity Exchange Act. The court granted a preliminary injunction barring state gaming regulators from enforcing gambling laws against the platform. ([GambleRss](https://gamblerss.com/kalshi-scores-legal-win-in-tennessee-judge-rules-sports-event-contracts-are-swaps-57532))",
-      "image_url": null,
-      "published": "2026-10-13T18:00:00-04:00",
-      "source": "2026-10-13_1800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1800-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1800-edt-1",
-      "title": "Nevada governor race is a coin flip across prediction markets, InGame monitor finds",
-      "content_text": "- **Nevada governor race is a coin flip across prediction markets, InGame monitor finds** — An October 13 midterm market monitor found Democrat Aaron Ford leading incumbent Joe Lombardo in Nevada's governor race on Polymarket, PredictIt and Kalshi, with Robinhood pricing the race even. In Michigan's 4th District, Republican Bill Huizenga stood at 53 percent against Democrat Sean McCann at 49 percent on Polymarket. ([InGame](https://www.ingame.com/midterm-market-monitor-10-13-26/))",
-      "content_html": "<p>- **Nevada governor race is a coin flip across prediction markets, InGame monitor finds** — An October 13 midterm market monitor found Democrat Aaron Ford leading incumbent Joe Lombardo in Nevada&#x27;s governor race on Polymarket, PredictIt and Kalshi, with Robinhood pricing the race even. In Michigan&#x27;s 4th District, Republican Bill Huizenga stood at 53 percent against Democrat Sean McCann at 49 percent on Polymarket. ([InGame](https://www.ingame.com/midterm-market-monitor-10-13-26/))</p>",
-      "date_published": "2026-10-13T18:00:00-04:00",
-      "date_modified": "2026-10-13T18:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "PredictIt",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.ingame.com/midterm-market-monitor-10-13-26/",
-      "links": [
-        "https://www.ingame.com/midterm-market-monitor-10-13-26/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 PM ET",
-      "body": "- **Nevada governor race is a coin flip across prediction markets, InGame monitor finds** — An October 13 midterm market monitor found Democrat Aaron Ford leading incumbent Joe Lombardo in Nevada's governor race on Polymarket, PredictIt and Kalshi, with Robinhood pricing the race even. In Michigan's 4th District, Republican Bill Huizenga stood at 53 percent against Democrat Sean McCann at 49 percent on Polymarket. ([InGame](https://www.ingame.com/midterm-market-monitor-10-13-26/))",
-      "image_url": null,
-      "published": "2026-10-13T18:00:00-04:00",
-      "source": "2026-10-13_1800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1800-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1800-edt-2",
-      "title": "Kalshi prices Miley Cyrus at 48 percent to headline Super Bowl LXI halftime show",
-      "content_text": "- **Kalshi prices Miley Cyrus at 48 percent to headline Super Bowl LXI halftime show** — Kalshi's market for the Super Bowl LXI halftime performer puts Miley Cyrus at 48 percent and Jay-Z at 46 percent, ahead of Harry Styles, Beyonce and Justin Bieber. The NFL has not announced the performer for the 2027 game. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/whos-doing-the-super-bowl-halftime-show-2027-when-announced/92231621007/))",
-      "content_html": "<p>- **Kalshi prices Miley Cyrus at 48 percent to headline Super Bowl LXI halftime show** — Kalshi&#x27;s market for the Super Bowl LXI halftime performer puts Miley Cyrus at 48 percent and Jay-Z at 46 percent, ahead of Harry Styles, Beyonce and Justin Bieber. The NFL has not announced the performer for the 2027 game. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/whos-doing-the-super-bowl-halftime-show-2027-when-announced/92231621007/))</p>",
-      "date_published": "2026-10-13T18:00:00-04:00",
-      "date_modified": "2026-10-13T18:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.northjersey.com/story/news/2026/10/13/whos-doing-the-super-bowl-halftime-show-2027-when-announced/92231621007/",
-      "links": [
-        "https://www.northjersey.com/story/news/2026/10/13/whos-doing-the-super-bowl-halftime-show-2027-when-announced/92231621007/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 PM ET",
-      "body": "- **Kalshi prices Miley Cyrus at 48 percent to headline Super Bowl LXI halftime show** — Kalshi's market for the Super Bowl LXI halftime performer puts Miley Cyrus at 48 percent and Jay-Z at 46 percent, ahead of Harry Styles, Beyonce and Justin Bieber. The NFL has not announced the performer for the 2027 game. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/whos-doing-the-super-bowl-halftime-show-2027-when-announced/92231621007/))",
-      "image_url": null,
-      "published": "2026-10-13T18:00:00-04:00",
-      "source": "2026-10-13_1800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1800-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1800-edt-3",
-      "title": "House Oversight expands insider trading probe to PredictIt, Crypto.com and Hyperliquid",
-      "content_text": "- **House Oversight expands insider trading probe to PredictIt, Crypto.com and Hyperliquid** — House Oversight Chairman James Comer sent letters expanding a congressional insider trading probe to Hyperliquid Labs, Crypto.com and PredictIt operator Aristotle Exchange. The requests seek records on identity verification, employee trades and suspicious activity referrals, with responses due October 13. ([Prediction News](https://predictionnews.com/story/rep-james-comer-expands-house-investigation-into-prediction-market-insider-tradi))",
-      "content_html": "<p>- **House Oversight expands insider trading probe to PredictIt, Crypto.com and Hyperliquid** — House Oversight Chairman James Comer sent letters expanding a congressional insider trading probe to Hyperliquid Labs, Crypto.com and PredictIt operator Aristotle Exchange. The requests seek records on identity verification, employee trades and suspicious activity referrals, with responses due October 13. ([Prediction News](https://predictionnews.com/story/rep-james-comer-expands-house-investigation-into-prediction-market-insider-tradi))</p>",
-      "date_published": "2026-10-13T18:00:00-04:00",
-      "date_modified": "2026-10-13T18:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictIt"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/rep-james-comer-expands-house-investigation-into-prediction-market-insider-tradi",
-      "links": [
-        "https://predictionnews.com/story/rep-james-comer-expands-house-investigation-into-prediction-market-insider-tradi"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:00 PM ET",
-      "body": "- **House Oversight expands insider trading probe to PredictIt, Crypto.com and Hyperliquid** — House Oversight Chairman James Comer sent letters expanding a congressional insider trading probe to Hyperliquid Labs, Crypto.com and PredictIt operator Aristotle Exchange. The requests seek records on identity verification, employee trades and suspicious activity referrals, with responses due October 13. ([Prediction News](https://predictionnews.com/story/rep-james-comer-expands-house-investigation-into-prediction-market-insider-tradi))",
-      "image_url": null,
-      "published": "2026-10-13T18:00:00-04:00",
-      "source": "2026-10-13_1800-edt.json",
       "matches_facebook_post": false
     }
   ]
