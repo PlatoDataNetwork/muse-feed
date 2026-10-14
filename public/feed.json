@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T05:34:22.719187-04:00",
+  "updated": "2026-10-14T05:49:31.526262-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,129 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_0545-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0545-edt-0",
+      "title": "Election betting booms ahead of midterms as states weigh power to curb prediction markets",
+      "content_text": "- **Election betting booms ahead of midterms as states weigh power to curb prediction markets** — Election betting is surging as the midterms near, while states question whether they can curb the platforms. The CFTC asserts federal authority over event contracts, Polymarket backs a federal framework over state rules, and 16 civic watchdog groups have urged the CFTC to prohibit election-related contracts. ([South Florida Reporter](https://southfloridareporter.com/election-betting-is-booming-as-the-midterms-near-do-states-have-the-power-to-curb-it/?no_cache=1))",
+      "content_html": "<p>- **Election betting booms ahead of midterms as states weigh power to curb prediction markets** — Election betting is surging as the midterms near, while states question whether they can curb the platforms. The CFTC asserts federal authority over event contracts, Polymarket backs a federal framework over state rules, and 16 civic watchdog groups have urged the CFTC to prohibit election-related contracts. ([South Florida Reporter](https://southfloridareporter.com/election-betting-is-booming-as-the-midterms-near-do-states-have-the-power-to-curb-it/?no_cache=1))</p>",
+      "date_published": "2026-10-14T05:45:00-04:00",
+      "date_modified": "2026-10-14T05:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://southfloridareporter.com/election-betting-is-booming-as-the-midterms-near-do-states-have-the-power-to-curb-it/?no_cache=1",
+      "links": [
+        "https://southfloridareporter.com/election-betting-is-booming-as-the-midterms-near-do-states-have-the-power-to-curb-it/?no_cache=1"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:45 AM ET",
+      "body": "- **Election betting booms ahead of midterms as states weigh power to curb prediction markets** — Election betting is surging as the midterms near, while states question whether they can curb the platforms. The CFTC asserts federal authority over event contracts, Polymarket backs a federal framework over state rules, and 16 civic watchdog groups have urged the CFTC to prohibit election-related contracts. ([South Florida Reporter](https://southfloridareporter.com/election-betting-is-booming-as-the-midterms-near-do-states-have-the-power-to-curb-it/?no_cache=1))",
+      "image_url": null,
+      "published": "2026-10-14T05:45:00-04:00",
+      "source": "2026-10-14_0545-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0545-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0545-edt-1",
+      "title": "Gold holds near 4,159 dollars as U.S. inflation data tests the Fed rate outlook",
+      "content_text": "- **Gold holds near 4,159 dollars as U.S. inflation data tests the Fed rate outlook** — Spot gold held at 4,159.45 dollars an ounce ahead of the U.S. CPI report, with December futures up 0.1 percent at 4,182.60 dollars. Market expectations put the chance of a rate hike at 23 percent this month and 88 percent by December, while oil jumped after a reported attack on a Saudi Aramco facility. ([Traders Union](https://tradersunion.com/news/financial-news/show/3798607-gold-holds-steady-us-inflation/))",
+      "content_html": "<p>- **Gold holds near 4,159 dollars as U.S. inflation data tests the Fed rate outlook** — Spot gold held at 4,159.45 dollars an ounce ahead of the U.S. CPI report, with December futures up 0.1 percent at 4,182.60 dollars. Market expectations put the chance of a rate hike at 23 percent this month and 88 percent by December, while oil jumped after a reported attack on a Saudi Aramco facility. ([Traders Union](https://tradersunion.com/news/financial-news/show/3798607-gold-holds-steady-us-inflation/))</p>",
+      "date_published": "2026-10-14T05:45:00-04:00",
+      "date_modified": "2026-10-14T05:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Gold",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://tradersunion.com/news/financial-news/show/3798607-gold-holds-steady-us-inflation/",
+      "links": [
+        "https://tradersunion.com/news/financial-news/show/3798607-gold-holds-steady-us-inflation/"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:45 AM ET",
+      "body": "- **Gold holds near 4,159 dollars as U.S. inflation data tests the Fed rate outlook** — Spot gold held at 4,159.45 dollars an ounce ahead of the U.S. CPI report, with December futures up 0.1 percent at 4,182.60 dollars. Market expectations put the chance of a rate hike at 23 percent this month and 88 percent by December, while oil jumped after a reported attack on a Saudi Aramco facility. ([Traders Union](https://tradersunion.com/news/financial-news/show/3798607-gold-holds-steady-us-inflation/))",
+      "image_url": null,
+      "published": "2026-10-14T05:45:00-04:00",
+      "source": "2026-10-14_0545-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0545-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0545-edt-2",
+      "title": "Bank of America upgrades DraftKings as prediction market growth lifts its outlook",
+      "content_text": "- **Bank of America upgrades DraftKings as prediction market growth lifts its outlook** — Bank of America upgraded DraftKings on the strength of its prediction market growth, and Bernstein estimates the DraftKings exchange could reach 1 billion dollars in trading volume by December. DraftKings Predictions annualized trading volume grew from 2.3 billion dollars to 11 billion dollars between April and July 2026. ([NextPredict](https://nextpredict.io/market-news/industry/bofa-bullish-draftkings-prediction-markets/))",
+      "content_html": "<p>- **Bank of America upgrades DraftKings as prediction market growth lifts its outlook** — Bank of America upgraded DraftKings on the strength of its prediction market growth, and Bernstein estimates the DraftKings exchange could reach 1 billion dollars in trading volume by December. DraftKings Predictions annualized trading volume grew from 2.3 billion dollars to 11 billion dollars between April and July 2026. ([NextPredict](https://nextpredict.io/market-news/industry/bofa-bullish-draftkings-prediction-markets/))</p>",
+      "date_published": "2026-10-14T05:45:00-04:00",
+      "date_modified": "2026-10-14T05:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://nextpredict.io/market-news/industry/bofa-bullish-draftkings-prediction-markets/",
+      "links": [
+        "https://nextpredict.io/market-news/industry/bofa-bullish-draftkings-prediction-markets/"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:45 AM ET",
+      "body": "- **Bank of America upgrades DraftKings as prediction market growth lifts its outlook** — Bank of America upgraded DraftKings on the strength of its prediction market growth, and Bernstein estimates the DraftKings exchange could reach 1 billion dollars in trading volume by December. DraftKings Predictions annualized trading volume grew from 2.3 billion dollars to 11 billion dollars between April and July 2026. ([NextPredict](https://nextpredict.io/market-news/industry/bofa-bullish-draftkings-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-14T05:45:00-04:00",
+      "source": "2026-10-14_0545-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_0539-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0539-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAnthropic IPO by Dec. 31 falls to 69c, down 13.5 points on the movers board\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh tech snapshot leads, in a tech/business category different from the…\n#PredictionMarkets #Elections\nhttps://picksbyodds.com/\n\nTexas vs. Oklahoma is a lockstep board: Longhorns at 74% on both venues, every sub-market at 50%\nPolymarket and Kalshi both price No. 1 Texas at 74% against Oklahoma at the Cotton Bowl, with the spread, the total and the Texas team total all at exactly 50%, while…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic IPO by Dec. 31 falls to 69c, down 13.5 points on the movers board<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh tech snapshot leads, in a tech/business category different from the…<br/>#PredictionMarkets #Elections<br/>https://picksbyodds.com/<br/><br/>Texas vs. Oklahoma is a lockstep board: Longhorns at 74% on both venues, every sub-market at 50%<br/>Polymarket and Kalshi both price No. 1 Texas at 74% against Oklahoma at the Cotton Bowl, with the spread, the total and the Texas team total all at exactly 50%, while…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T05:39:00-04:00",
+      "date_modified": "2026-10-14T05:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Elections",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://picksbyodds.com/",
+      "links": [
+        "https://picksbyodds.com/",
+        "https://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/"
+      ],
+      "timestamp": "Oct 14, 2026 · 5:39 AM ET",
+      "body": "Infiniti Briefing\n\nAnthropic IPO by Dec. 31 falls to 69c, down 13.5 points on the movers board\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh tech snapshot leads, in a tech/business category different from the…\n#PredictionMarkets #Elections\nhttps://picksbyodds.com/\n\nTexas vs. Oklahoma is a lockstep board: Longhorns at 74% on both venues, every sub-market at 50%\nPolymarket and Kalshi both price No. 1 Texas at 74% against Oklahoma at the Cotton Bowl, with the spread, the total and the Texas team total all at exactly 50%, while…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.rockytopinsider.com/2026/10/09/texas-oklahoma-odds-update-polymarket-kalshi-prediction-markets-red-river-rivalry/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T05:39:00-04:00",
+      "source": "2026-10-14_0539-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0530-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0530-edt-0",
@@ -4570,124 +4693,6 @@
       ],
       "timestamp": "Oct 13, 2026 · 11:00 PM ET",
       "body": "- **Polymarket launches Perps perpetual futures with up to 20x leverage** — Polymarket has launched Polymarket Perps, a perpetual futures service with leverage up to 20x across nine assets including Bitcoin, Ethereum, Solana, gold, silver, WTI crude oil, the S and P 500, the Nasdaq 100 and SpaceX shares, according to BitRss, citing Crypto Briefing. The contracts have no set expiration date and expand Polymarket beyond event prediction markets into financial derivatives. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))",
-      "image_url": null,
-      "published": "2026-10-13T23:00:00-04:00",
-      "source": "2026-10-13_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2300-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2300-edt-1",
-      "title": "Polymarket Ethiopia targets Eritrea market leads with December 31 at 88 percent",
-      "content_text": "- **Polymarket Ethiopia targets Eritrea market leads with December 31 at 88 percent** — Polymarket's market on whether Ethiopia targets Eritrea, launched on October 12, leads with December 31 at 88 percent, followed by October 31 at 51 percent. Prices reflect trader-implied probabilities and update continuously as traders react to new developments. ([Polymarket](https://polymarket.com/event/ethiopia-targets-eritrea-by))",
-      "content_html": "<p>- **Polymarket Ethiopia targets Eritrea market leads with December 31 at 88 percent** — Polymarket&#x27;s market on whether Ethiopia targets Eritrea, launched on October 12, leads with December 31 at 88 percent, followed by October 31 at 51 percent. Prices reflect trader-implied probabilities and update continuously as traders react to new developments. ([Polymarket](https://polymarket.com/event/ethiopia-targets-eritrea-by))</p>",
-      "date_published": "2026-10-13T23:00:00-04:00",
-      "date_modified": "2026-10-13T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/ethiopia-targets-eritrea-by",
-      "links": [
-        "https://polymarket.com/event/ethiopia-targets-eritrea-by"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 PM ET",
-      "body": "- **Polymarket Ethiopia targets Eritrea market leads with December 31 at 88 percent** — Polymarket's market on whether Ethiopia targets Eritrea, launched on October 12, leads with December 31 at 88 percent, followed by October 31 at 51 percent. Prices reflect trader-implied probabilities and update continuously as traders react to new developments. ([Polymarket](https://polymarket.com/event/ethiopia-targets-eritrea-by))",
-      "image_url": null,
-      "published": "2026-10-13T23:00:00-04:00",
-      "source": "2026-10-13_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2300-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2300-edt-2",
-      "title": "Whale holds Polymarket Fed unchanged position now priced at 83.5 percent",
-      "content_text": "- **Whale holds Polymarket Fed unchanged position now priced at 83.5 percent** — A multi-market whale identified as rjgrant.eth holds 1,600 shares of a Polymarket position for the Fed to keep rates unchanged in October, bought at an average implied probability of 54 percent and now priced at 83.5 percent, according to Binance, citing BlockBeats. The position is worth 1,336 dollars with an unrealized profit of 472 dollars, alongside about 38.1 million dollars in long crypto positions. ([Binance](https://www.binance.com/en/square/post/10-08-2026-cross-market-whale-rjgrant-eth-holds-approximately-38-1251-million-in-long-positions-in-crypto-assets-374988688776729))",
-      "content_html": "<p>- **Whale holds Polymarket Fed unchanged position now priced at 83.5 percent** — A multi-market whale identified as rjgrant.eth holds 1,600 shares of a Polymarket position for the Fed to keep rates unchanged in October, bought at an average implied probability of 54 percent and now priced at 83.5 percent, according to Binance, citing BlockBeats. The position is worth 1,336 dollars with an unrealized profit of 472 dollars, alongside about 38.1 million dollars in long crypto positions. ([Binance](https://www.binance.com/en/square/post/10-08-2026-cross-market-whale-rjgrant-eth-holds-approximately-38-1251-million-in-long-positions-in-crypto-assets-374988688776729))</p>",
-      "date_published": "2026-10-13T23:00:00-04:00",
-      "date_modified": "2026-10-13T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://www.binance.com/en/square/post/10-08-2026-cross-market-whale-rjgrant-eth-holds-approximately-38-1251-million-in-long-positions-in-crypto-assets-374988688776729",
-      "links": [
-        "https://www.binance.com/en/square/post/10-08-2026-cross-market-whale-rjgrant-eth-holds-approximately-38-1251-million-in-long-positions-in-crypto-assets-374988688776729"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 PM ET",
-      "body": "- **Whale holds Polymarket Fed unchanged position now priced at 83.5 percent** — A multi-market whale identified as rjgrant.eth holds 1,600 shares of a Polymarket position for the Fed to keep rates unchanged in October, bought at an average implied probability of 54 percent and now priced at 83.5 percent, according to Binance, citing BlockBeats. The position is worth 1,336 dollars with an unrealized profit of 472 dollars, alongside about 38.1 million dollars in long crypto positions. ([Binance](https://www.binance.com/en/square/post/10-08-2026-cross-market-whale-rjgrant-eth-holds-approximately-38-1251-million-in-long-positions-in-crypto-assets-374988688776729))",
-      "image_url": null,
-      "published": "2026-10-13T23:00:00-04:00",
-      "source": "2026-10-13_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2300-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2300-edt-3",
-      "title": "Kalshi prices Rams at 62 cents against Bills at 39 cents for Monday night",
-      "content_text": "- **Kalshi prices Rams at 62 cents against Bills at 39 cents for Monday night** — Kalshi prices the Rams at 62 cents to beat the Bills at 39 cents, with the Rams to win by 3 or more points at 57 cents and over 54.5 points at 49 cents, according to Action Network. The prices were reported as of Monday afternoon ahead of the game. ([Action Network](https://www.actionnetwork.com/news/kalshi-promo-code-action55-55-bonus-for-bills-vs-rams-mnf-today))",
-      "content_html": "<p>- **Kalshi prices Rams at 62 cents against Bills at 39 cents for Monday night** — Kalshi prices the Rams at 62 cents to beat the Bills at 39 cents, with the Rams to win by 3 or more points at 57 cents and over 54.5 points at 49 cents, according to Action Network. The prices were reported as of Monday afternoon ahead of the game. ([Action Network](https://www.actionnetwork.com/news/kalshi-promo-code-action55-55-bonus-for-bills-vs-rams-mnf-today))</p>",
-      "date_published": "2026-10-13T23:00:00-04:00",
-      "date_modified": "2026-10-13T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/kalshi-promo-code-action55-55-bonus-for-bills-vs-rams-mnf-today",
-      "links": [
-        "https://www.actionnetwork.com/news/kalshi-promo-code-action55-55-bonus-for-bills-vs-rams-mnf-today"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 PM ET",
-      "body": "- **Kalshi prices Rams at 62 cents against Bills at 39 cents for Monday night** — Kalshi prices the Rams at 62 cents to beat the Bills at 39 cents, with the Rams to win by 3 or more points at 57 cents and over 54.5 points at 49 cents, according to Action Network. The prices were reported as of Monday afternoon ahead of the game. ([Action Network](https://www.actionnetwork.com/news/kalshi-promo-code-action55-55-bonus-for-bills-vs-rams-mnf-today))",
-      "image_url": null,
-      "published": "2026-10-13T23:00:00-04:00",
-      "source": "2026-10-13_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_2300-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_2300-edt-4",
-      "title": "Riot Games holds esports sponsorship talks with Polymarket and Kalshi",
-      "content_text": "- **Riot Games holds esports sponsorship talks with Polymarket and Kalshi** — Riot Games has discussed potential esports sponsorship agreements with Kalshi and Polymarket as the League of Legends World Championship approaches in October, according to CoinSpectator, citing Bloomberg reporting from September 11. The talks involve the Tencent-owned game publisher and both prediction market operators. ([CoinSpectator](https://coinspectator.com/cryptonews/2026/09/11/riot-games-holds-sponsorship-talks-with-polymarket-kalshi/))",
-      "content_html": "<p>- **Riot Games holds esports sponsorship talks with Polymarket and Kalshi** — Riot Games has discussed potential esports sponsorship agreements with Kalshi and Polymarket as the League of Legends World Championship approaches in October, according to CoinSpectator, citing Bloomberg reporting from September 11. The talks involve the Tencent-owned game publisher and both prediction market operators. ([CoinSpectator](https://coinspectator.com/cryptonews/2026/09/11/riot-games-holds-sponsorship-talks-with-polymarket-kalshi/))</p>",
-      "date_published": "2026-10-13T23:00:00-04:00",
-      "date_modified": "2026-10-13T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://coinspectator.com/cryptonews/2026/09/11/riot-games-holds-sponsorship-talks-with-polymarket-kalshi/",
-      "links": [
-        "https://coinspectator.com/cryptonews/2026/09/11/riot-games-holds-sponsorship-talks-with-polymarket-kalshi/"
-      ],
-      "timestamp": "Oct 13, 2026 · 11:00 PM ET",
-      "body": "- **Riot Games holds esports sponsorship talks with Polymarket and Kalshi** — Riot Games has discussed potential esports sponsorship agreements with Kalshi and Polymarket as the League of Legends World Championship approaches in October, according to CoinSpectator, citing Bloomberg reporting from September 11. The talks involve the Tencent-owned game publisher and both prediction market operators. ([CoinSpectator](https://coinspectator.com/cryptonews/2026/09/11/riot-games-holds-sponsorship-talks-with-polymarket-kalshi/))",
       "image_url": null,
       "published": "2026-10-13T23:00:00-04:00",
       "source": "2026-10-13_2300-edt.json",
