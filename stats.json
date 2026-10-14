@@ -1,41 +1,41 @@
 {
   "window_start": "2026-10-14T10:42:00-04:00",
   "window_end": "2026-10-15T10:42:00-04:00",
-  "updated_at": "2026-10-14T18:31:33.393124-04:00",
-  "elapsed_hours": 7.83,
-  "remaining_hours": 16.17,
+  "updated_at": "2026-10-14T18:46:30.944073-04:00",
+  "elapsed_hours": 8.08,
+  "remaining_hours": 15.92,
   "channels": {
     "chat_briefings": {
-      "count": 31,
+      "count": 32,
       "per_hour": 3.96,
       "platform_cost_usd": 0
     },
     "website_items": {
-      "count": 324,
-      "per_hour": 41.4,
+      "count": 328,
+      "per_hour": 40.62,
       "platform_cost_usd": 0
     },
     "facebook_page_posts": {
-      "count": 4,
-      "per_hour": 0.51,
+      "count": 5,
+      "per_hour": 0.62,
       "platform_cost_usd": 0
     },
     "x_threads": {
-      "count": 4,
-      "per_hour": 0.51,
-      "tweets_est": 12,
-      "platform_cost_usd": 2.4,
+      "count": 5,
+      "per_hour": 0.62,
+      "tweets_est": 15,
+      "platform_cost_usd": 3.0,
       "note": "mirrors FB posts; tweets est. at 3/thread, $0.20/tweet"
     },
     "telegram_messages": {
-      "count": 4,
-      "per_hour": 0.51,
+      "count": 5,
+      "per_hour": 0.62,
       "platform_cost_usd": 0,
       "note": "mirrors FB posts"
     }
   },
-  "website_feed_items_total": 355,
-  "website_feed_items_per_hour": 45.36,
+  "website_feed_items_total": 360,
+  "website_feed_items_per_hour": 44.58,
   "feed_items_on_site_now": 500,
   "muse_usage": {
     "baseline_weekly_pct": 12,
@@ -43,20 +43,20 @@
     "weekly_pct_delta_window": 3,
     "additional_pct_now": 0,
     "additional_pct_delta_window": 0,
-    "weekly_pct_per_hour": 0.38
+    "weekly_pct_per_hour": 0.37
   },
   "cash_cost_usd": {
-    "x_api": 2.4,
+    "x_api": 3.0,
     "facebook": 0,
     "telegram": 0,
     "hosting": 0,
-    "total": 2.4
+    "total": 3.0
   },
   "projected_24h_at_current_rate": {
-    "website_feed_items": 1089,
-    "facebook_page_posts": 12,
-    "x_threads": 12,
-    "x_cost_usd": 7.36,
+    "website_feed_items": 1070,
+    "facebook_page_posts": 15,
+    "x_threads": 15,
+    "x_cost_usd": 8.92,
     "muse_weekly_pct": 9
   }
 }
