@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T14:20:05.432398-04:00",
+  "updated": "2026-10-14T14:26:50.908975-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_1424-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_1424-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAaron Boone's Kalshi firing market spikes to 52%, up from 27% in five days\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Kalshi\nhttps://www.si.com/prediction-markets/aaron-boone-out-kalshi-market-trends-up-for-yankees-to-move-on-01m4xezcdme0\n\nStarkWare opens OffMarket to the public, adding private trading on top of Polymarket\nLaunched publicly on Oct. 14 after limited access since August, OffMarket uses Starknet privacy technology to trade Polymarket markets without linking positions to a…\n#PredictionMarkets #Polymarket\nhttps://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Aaron Boone&#x27;s Kalshi firing market spikes to 52%, up from 27% in five days<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…<br/>#PredictionMarkets #Kalshi<br/>https://www.si.com/prediction-markets/aaron-boone-out-kalshi-market-trends-up-for-yankees-to-move-on-01m4xezcdme0<br/><br/>StarkWare opens OffMarket to the public, adding private trading on top of Polymarket<br/>Launched publicly on Oct. 14 after limited access since August, OffMarket uses Starknet privacy technology to trade Polymarket markets without linking positions to a…<br/>#PredictionMarkets #Polymarket<br/>https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T14:24:00-04:00",
+      "date_modified": "2026-10-14T14:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.si.com/prediction-markets/aaron-boone-out-kalshi-market-trends-up-for-yankees-to-move-on-01m4xezcdme0",
+      "links": [
+        "https://www.si.com/prediction-markets/aaron-boone-out-kalshi-market-trends-up-for-yankees-to-move-on-01m4xezcdme0",
+        "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567"
+      ],
+      "timestamp": "Oct 14, 2026 · 2:24 PM ET",
+      "body": "Infiniti Briefing\n\nAaron Boone's Kalshi firing market spikes to 52%, up from 27% in five days\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh sports snapshot leads, in a sports category different from the previous…\n#PredictionMarkets #Kalshi\nhttps://www.si.com/prediction-markets/aaron-boone-out-kalshi-market-trends-up-for-yankees-to-move-on-01m4xezcdme0\n\nStarkWare opens OffMarket to the public, adding private trading on top of Polymarket\nLaunched publicly on Oct. 14 after limited access since August, OffMarket uses Starknet privacy technology to trade Polymarket markets without linking positions to a…\n#PredictionMarkets #Polymarket\nhttps://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T14:24:00-04:00",
+      "source": "2026-10-14_1424-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_1415-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1415-edt-0",
@@ -15188,42 +15220,6 @@
       "published": "2026-10-13T21:15:00-04:00",
       "source": "2026-10-13_2115-edt.json",
       "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_2109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_2109-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nCboe and Robinhood plan KPI binary contracts for 23 companies, no fees through year-end\nSEC-regulated contracts tied to company KPIs, Robinhood as first retail broker, expected October pending approval.\n#PredictionMarkets #Robinhood #Cboe\nhttps://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html\n\nSeahawks vs. Broncos heating up on Polymarket at 57.5% on $525K\nDown 2.0 points in 24 hours, with resolution in about two days.\n#NFL #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/\n\nBest AI race is a two-way fight: Claude 43.2%, Gemini 41.3% on Kalshi\nChatGPT well back at 10.1% for best AI on Dec. 31.\n#AI #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/\n\nMarkets: Gold $4,184 | Brent $106 | BTC $83,363 | ETH $2,509\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Cboe and Robinhood plan KPI binary contracts for 23 companies, no fees through year-end<br/>SEC-regulated contracts tied to company KPIs, Robinhood as first retail broker, expected October pending approval.<br/>#PredictionMarkets #Robinhood #Cboe<br/>https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html<br/><br/>Seahawks vs. Broncos heating up on Polymarket at 57.5% on $525K<br/>Down 2.0 points in 24 hours, with resolution in about two days.<br/>#NFL #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/<br/><br/>Best AI race is a two-way fight: Claude 43.2%, Gemini 41.3% on Kalshi<br/>ChatGPT well back at 10.1% for best AI on Dec. 31.<br/>#AI #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/<br/><br/>Markets: Gold $4,184 | Brent $106 | BTC $83,363 | ETH $2,509<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_2109-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-13T21:09:00-04:00",
-      "date_modified": "2026-10-13T21:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Robinhood",
-        "Cboe",
-        "NFL",
-        "Polymarket",
-        "AI",
-        "Kalshi"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_2109-edt.jpg",
-      "external_url": "https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html",
-      "links": [
-        "https://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html",
-        "https://predictionbubbles.net/markets/"
-      ],
-      "timestamp": "Oct 13, 2026 · 9:09 PM ET",
-      "body": "Infiniti Briefing\nCboe and Robinhood plan KPI binary contracts for 23 companies, no fees through year-end\nSEC-regulated contracts tied to company KPIs, Robinhood as first retail broker, expected October pending approval.\n#PredictionMarkets #Robinhood #Cboe\nhttps://www.prnewswire.com/news-releases/cboe-and-robinhood-announce-planned-launch-of-new-kpi-contracts-further-expanding-prediction-market-offerings-302894389.html\n\nSeahawks vs. Broncos heating up on Polymarket at 57.5% on $525K\nDown 2.0 points in 24 hours, with resolution in about two days.\n#NFL #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/\n\nBest AI race is a two-way fight: Claude 43.2%, Gemini 41.3% on Kalshi\nChatGPT well back at 10.1% for best AI on Dec. 31.\n#AI #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/\n\nMarkets: Gold $4,184 | Brent $106 | BTC $83,363 | ETH $2,509\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_2109-edt.jpg",
-      "published": "2026-10-13T21:09:00-04:00",
-      "source": "2026-10-13_2109-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
