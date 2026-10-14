@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T09:03:13.915359-04:00",
+  "updated": "2026-10-14T09:18:58.048248-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_0915-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0915-edt-0",
+      "title": "Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth",
+      "content_text": "- **Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth** — Prediction market volume reached a record 78.2 billion dollars in September, with a latest weekly tally of 19.9 billion dollars, according to the report cited by Bonus. Sports trading helped drive the rebound, with soccer accounting for 46 percent of Polymarket sports volume in the September 14 to 20 period. ([Bonus](https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/))",
+      "content_html": "<p>- **Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth** — Prediction market volume reached a record 78.2 billion dollars in September, with a latest weekly tally of 19.9 billion dollars, according to the report cited by Bonus. Sports trading helped drive the rebound, with soccer accounting for 46 percent of Polymarket sports volume in the September 14 to 20 period. ([Bonus](https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/))</p>",
+      "date_published": "2026-10-14T09:15:00-04:00",
+      "date_modified": "2026-10-14T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/",
+      "links": [
+        "https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:15 AM ET",
+      "body": "- **Prediction market volume reaches record 78.2 billion dollars in September on sports trading growth** — Prediction market volume reached a record 78.2 billion dollars in September, with a latest weekly tally of 19.9 billion dollars, according to the report cited by Bonus. Sports trading helped drive the rebound, with soccer accounting for 46 percent of Polymarket sports volume in the September 14 to 20 period. ([Bonus](https://www.bonus.com/news/prediction-market-volume-hits-record-78-2b-in-september-as-sports-trading-accelerates/))",
+      "image_url": null,
+      "published": "2026-10-14T09:15:00-04:00",
+      "source": "2026-10-14_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0915-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0915-edt-1",
+      "title": "Prediction markets NFL boom tests sports betting rules after record weekend",
+      "content_text": "- **Prediction markets NFL boom tests sports betting rules after record weekend** — NFL and college football games boosted Kalshi and Polymarket to consecutive daily records for a two-day total of 8.56 billion dollars, with combined weekly volume reaching a record 22.2 billion dollars, according to Dune Analytics data cited by Bloomberg Law. The growth is putting prediction markets on a collision course with traditional sportsbooks. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
+      "content_html": "<p>- **Prediction markets NFL boom tests sports betting rules after record weekend** — NFL and college football games boosted Kalshi and Polymarket to consecutive daily records for a two-day total of 8.56 billion dollars, with combined weekly volume reaching a record 22.2 billion dollars, according to Dune Analytics data cited by Bloomberg Law. The growth is putting prediction markets on a collision course with traditional sportsbooks. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))</p>",
+      "date_published": "2026-10-14T09:15:00-04:00",
+      "date_modified": "2026-10-14T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules",
+      "links": [
+        "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:15 AM ET",
+      "body": "- **Prediction markets NFL boom tests sports betting rules after record weekend** — NFL and college football games boosted Kalshi and Polymarket to consecutive daily records for a two-day total of 8.56 billion dollars, with combined weekly volume reaching a record 22.2 billion dollars, according to Dune Analytics data cited by Bloomberg Law. The growth is putting prediction markets on a collision course with traditional sportsbooks. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
+      "image_url": null,
+      "published": "2026-10-14T09:15:00-04:00",
+      "source": "2026-10-14_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0915-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0915-edt-2",
+      "title": "Polymarket enters real estate with Parcl home-price prediction markets",
+      "content_text": "- **Polymarket enters real estate with Parcl home-price prediction markets** — Polymarket has partnered with housing data firm Parcl to launch markets on home-price movements in major U.S. cities. The rollout will start in phases with a curated group of high-liquidity cities, using Parcl data for settlement and standardized market templates. ([GambleRss](https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388))",
+      "content_html": "<p>- **Polymarket enters real estate with Parcl home-price prediction markets** — Polymarket has partnered with housing data firm Parcl to launch markets on home-price movements in major U.S. cities. The rollout will start in phases with a curated group of high-liquidity cities, using Parcl data for settlement and standardized market templates. ([GambleRss](https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388))</p>",
+      "date_published": "2026-10-14T09:15:00-04:00",
+      "date_modified": "2026-10-14T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388",
+      "links": [
+        "https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:15 AM ET",
+      "body": "- **Polymarket enters real estate with Parcl home-price prediction markets** — Polymarket has partnered with housing data firm Parcl to launch markets on home-price movements in major U.S. cities. The rollout will start in phases with a curated group of high-liquidity cities, using Parcl data for settlement and standardized market templates. ([GambleRss](https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388))",
+      "image_url": null,
+      "published": "2026-10-14T09:15:00-04:00",
+      "source": "2026-10-14_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0915-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0915-edt-3",
+      "title": "Betr to launch prediction markets through multi-year Polymarket partnership",
+      "content_text": "- **Betr to launch prediction markets through multi-year Polymarket partnership** — Gaming company Betr will launch prediction markets powered by Polymarket contracts on its mobile app later this year under a multi-year partnership. Financial terms were not disclosed, and Betr said the contracts will sit alongside its Picks, Sportsbook, Casino and Arcade products. ([GambleRss](https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826))",
+      "content_html": "<p>- **Betr to launch prediction markets through multi-year Polymarket partnership** — Gaming company Betr will launch prediction markets powered by Polymarket contracts on its mobile app later this year under a multi-year partnership. Financial terms were not disclosed, and Betr said the contracts will sit alongside its Picks, Sportsbook, Casino and Arcade products. ([GambleRss](https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826))</p>",
+      "date_published": "2026-10-14T09:15:00-04:00",
+      "date_modified": "2026-10-14T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826",
+      "links": [
+        "https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:15 AM ET",
+      "body": "- **Betr to launch prediction markets through multi-year Polymarket partnership** — Gaming company Betr will launch prediction markets powered by Polymarket contracts on its mobile app later this year under a multi-year partnership. Financial terms were not disclosed, and Betr said the contracts will sit alongside its Picks, Sportsbook, Casino and Arcade products. ([GambleRss](https://gamblerss.com/betr-diving-into-prediction-markets-through-polymarket-partnership-58826))",
+      "image_url": null,
+      "published": "2026-10-14T09:15:00-04:00",
+      "source": "2026-10-14_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0915-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0915-edt-4",
+      "title": "FCA holds talks as Polymarket and Kalshi weigh UK entry",
+      "content_text": "- **FCA holds talks as Polymarket and Kalshi weigh UK entry** — The UK Financial Conduct Authority has held talks with prediction market operators as Polymarket and Kalshi explore entry into the UK, according to reporting cited by The Paypers. The discussions come while the FCA ban on selling binary options to retail customers, in force since 2019, remains in effect. ([The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/news/fca-reportedly-confirms-talks-as-prediction-markets-push-back-on-gambling-label))",
+      "content_html": "<p>- **FCA holds talks as Polymarket and Kalshi weigh UK entry** — The UK Financial Conduct Authority has held talks with prediction market operators as Polymarket and Kalshi explore entry into the UK, according to reporting cited by The Paypers. The discussions come while the FCA ban on selling binary options to retail customers, in force since 2019, remains in effect. ([The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/news/fca-reportedly-confirms-talks-as-prediction-markets-push-back-on-gambling-label))</p>",
+      "date_published": "2026-10-14T09:15:00-04:00",
+      "date_modified": "2026-10-14T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "FCA"
+      ],
+      "image": null,
+      "external_url": "https://thepaypers.com/crypto-web3-and-cbdc/news/fca-reportedly-confirms-talks-as-prediction-markets-push-back-on-gambling-label",
+      "links": [
+        "https://thepaypers.com/crypto-web3-and-cbdc/news/fca-reportedly-confirms-talks-as-prediction-markets-push-back-on-gambling-label"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:15 AM ET",
+      "body": "- **FCA holds talks as Polymarket and Kalshi weigh UK entry** — The UK Financial Conduct Authority has held talks with prediction market operators as Polymarket and Kalshi explore entry into the UK, according to reporting cited by The Paypers. The discussions come while the FCA ban on selling binary options to retail customers, in force since 2019, remains in effect. ([The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/news/fca-reportedly-confirms-talks-as-prediction-markets-push-back-on-gambling-label))",
+      "image_url": null,
+      "published": "2026-10-14T09:15:00-04:00",
+      "source": "2026-10-14_0915-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_0909-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0909-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nState legal map hardens: 21 states in disputes, three petitions now at the Supreme Court\nQuiet on new platform headlines in the last 15 minutes, so this fresh Oct. 14 legal roundup leads, in a legal/regulatory category different from the previous three leads…\n#PredictionMarkets #Kalshi #CFTC #SCOTUS\nhttps://www.wsn.com/prediction-markets/\n\nTonight's MLB board is a coin flip in the Bronx: Yankees 50-52%, Orioles 48-50%\nAction Network's cross-venue board prices New York between 50% and 52% across Kalshi, Polymarket and Novig against Baltimore at 48-50%, with Kalshi showing a dead-even…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/best-mlb-player-props-today-orioles-vs-yankees-cardinals-vs-reds-kalshi-polymarket-novig-prediction-markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>State legal map hardens: 21 states in disputes, three petitions now at the Supreme Court<br/>Quiet on new platform headlines in the last 15 minutes, so this fresh Oct. 14 legal roundup leads, in a legal/regulatory category different from the previous three leads…<br/>#PredictionMarkets #Kalshi #CFTC #SCOTUS<br/>https://www.wsn.com/prediction-markets/<br/><br/>Tonight&#x27;s MLB board is a coin flip in the Bronx: Yankees 50-52%, Orioles 48-50%<br/>Action Network&#x27;s cross-venue board prices New York between 50% and 52% across Kalshi, Polymarket and Novig against Baltimore at 48-50%, with Kalshi showing a dead-even…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.actionnetwork.com/news/best-mlb-player-props-today-orioles-vs-yankees-cardinals-vs-reds-kalshi-polymarket-novig-prediction-markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T09:09:00-04:00",
+      "date_modified": "2026-10-14T09:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "SCOTUS",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.wsn.com/prediction-markets/",
+      "links": [
+        "https://www.wsn.com/prediction-markets/",
+        "https://www.actionnetwork.com/news/best-mlb-player-props-today-orioles-vs-yankees-cardinals-vs-reds-kalshi-polymarket-novig-prediction-markets"
+      ],
+      "timestamp": "Oct 14, 2026 · 9:09 AM ET",
+      "body": "Infiniti Briefing\n\nState legal map hardens: 21 states in disputes, three petitions now at the Supreme Court\nQuiet on new platform headlines in the last 15 minutes, so this fresh Oct. 14 legal roundup leads, in a legal/regulatory category different from the previous three leads…\n#PredictionMarkets #Kalshi #CFTC #SCOTUS\nhttps://www.wsn.com/prediction-markets/\n\nTonight's MLB board is a coin flip in the Bronx: Yankees 50-52%, Orioles 48-50%\nAction Network's cross-venue board prices New York between 50% and 52% across Kalshi, Polymarket and Novig against Baltimore at 48-50%, with Kalshi showing a dead-even…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.actionnetwork.com/news/best-mlb-player-props-today-orioles-vs-yankees-cardinals-vs-reds-kalshi-polymarket-novig-prediction-markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T09:09:00-04:00",
+      "source": "2026-10-14_0909-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0900-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0900-edt-0",
@@ -4518,192 +4701,6 @@
       "image_url": null,
       "published": "2026-10-14T02:45:00-04:00",
       "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0245-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0245-edt-2",
-      "title": "Dodgers lead World Series markets at about 44 percent and Rays lead ALCS at up to 65 percent",
-      "content_text": "- **Dodgers lead World Series markets at about 44 percent and Rays lead ALCS at up to 65 percent** — Covers reports Kalshi and Polymarket traders have traded a combined 164 million dollars on World Series markets, led by the Dodgers at 44 percent on Kalshi and 43 percent on Polymarket. Tampa Bay leads the ALCS market at 63 percent on Kalshi and 65 percent on Polymarket, with more than 25 million dollars traded on the two championship series markets. ([Covers](https://www.covers.com/industry/dodgers-rays-expected-to-win-championship-series-at-prediction-markets-oct-2026))",
-      "content_html": "<p>- **Dodgers lead World Series markets at about 44 percent and Rays lead ALCS at up to 65 percent** — Covers reports Kalshi and Polymarket traders have traded a combined 164 million dollars on World Series markets, led by the Dodgers at 44 percent on Kalshi and 43 percent on Polymarket. Tampa Bay leads the ALCS market at 63 percent on Kalshi and 65 percent on Polymarket, with more than 25 million dollars traded on the two championship series markets. ([Covers](https://www.covers.com/industry/dodgers-rays-expected-to-win-championship-series-at-prediction-markets-oct-2026))</p>",
-      "date_published": "2026-10-14T02:45:00-04:00",
-      "date_modified": "2026-10-14T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/industry/dodgers-rays-expected-to-win-championship-series-at-prediction-markets-oct-2026",
-      "links": [
-        "https://www.covers.com/industry/dodgers-rays-expected-to-win-championship-series-at-prediction-markets-oct-2026"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:45 AM ET",
-      "body": "- **Dodgers lead World Series markets at about 44 percent and Rays lead ALCS at up to 65 percent** — Covers reports Kalshi and Polymarket traders have traded a combined 164 million dollars on World Series markets, led by the Dodgers at 44 percent on Kalshi and 43 percent on Polymarket. Tampa Bay leads the ALCS market at 63 percent on Kalshi and 65 percent on Polymarket, with more than 25 million dollars traded on the two championship series markets. ([Covers](https://www.covers.com/industry/dodgers-rays-expected-to-win-championship-series-at-prediction-markets-oct-2026))",
-      "image_url": null,
-      "published": "2026-10-14T02:45:00-04:00",
-      "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0245-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0245-edt-3",
-      "title": "Polymarket SI.gov launch market leads with October 31 at 84 percent",
-      "content_text": "- **Polymarket SI.gov launch market leads with October 31 at 84 percent** — Polymarket's market on when SI.gov will launch, created on October 7, leads with October 31 at 84 percent, followed by October 15 at 54 percent. The market prices trader expectations for the launch date across its possible outcomes. ([Polymarket](https://polymarket.com/event/will-siptgov-launch-by))",
-      "content_html": "<p>- **Polymarket SI.gov launch market leads with October 31 at 84 percent** — Polymarket&#x27;s market on when SI.gov will launch, created on October 7, leads with October 31 at 84 percent, followed by October 15 at 54 percent. The market prices trader expectations for the launch date across its possible outcomes. ([Polymarket](https://polymarket.com/event/will-siptgov-launch-by))</p>",
-      "date_published": "2026-10-14T02:45:00-04:00",
-      "date_modified": "2026-10-14T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/will-siptgov-launch-by",
-      "links": [
-        "https://polymarket.com/event/will-siptgov-launch-by"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:45 AM ET",
-      "body": "- **Polymarket SI.gov launch market leads with October 31 at 84 percent** — Polymarket's market on when SI.gov will launch, created on October 7, leads with October 31 at 84 percent, followed by October 15 at 54 percent. The market prices trader expectations for the launch date across its possible outcomes. ([Polymarket](https://polymarket.com/event/will-siptgov-launch-by))",
-      "image_url": null,
-      "published": "2026-10-14T02:45:00-04:00",
-      "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0245-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0245-edt-4",
-      "title": "Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume",
-      "content_text": "- **Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume** — Bonus reports observers flagged unusual long-shot volume on Polymarket, including about 56 million dollars traded on an outcome priced at 3 percent or lower in an Ethiopia prime minister market, while Polymarket denied wash trading and pointed to algorithmic traders exploiting mispricing. A Columbia University study cited in the report put patterns indicative of wash trading at 20 percent of weekly volume by October 2025, down from 60 percent in December 2024. ([Bonus.com](https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/))",
-      "content_html": "<p>- **Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume** — Bonus reports observers flagged unusual long-shot volume on Polymarket, including about 56 million dollars traded on an outcome priced at 3 percent or lower in an Ethiopia prime minister market, while Polymarket denied wash trading and pointed to algorithmic traders exploiting mispricing. A Columbia University study cited in the report put patterns indicative of wash trading at 20 percent of weekly volume by October 2025, down from 60 percent in December 2024. ([Bonus.com](https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/))</p>",
-      "date_published": "2026-10-14T02:45:00-04:00",
-      "date_modified": "2026-10-14T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/",
-      "links": [
-        "https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:45 AM ET",
-      "body": "- **Kalshi and Polymarket draw scrutiny over unusual long-shot trading volume** — Bonus reports observers flagged unusual long-shot volume on Polymarket, including about 56 million dollars traded on an outcome priced at 3 percent or lower in an Ethiopia prime minister market, while Polymarket denied wash trading and pointed to algorithmic traders exploiting mispricing. A Columbia University study cited in the report put patterns indicative of wash trading at 20 percent of weekly volume by October 2025, down from 60 percent in December 2024. ([Bonus.com](https://www.bonus.com/news/kalshi-polymarket-face-scrutiny-over-unusual-trading-patterns/))",
-      "image_url": null,
-      "published": "2026-10-14T02:45:00-04:00",
-      "source": "2026-10-14_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_0239-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0239-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nAvalanche favored at 56c over the Stars at 45c for tonight's NHL matchup in Dallas\nPolymarket prices Colorado at 56c, Dallas at 45c on $25,406 traded for Oct. 14 at 8:30 PM ET, with spreads, totals and props live.\n#NHL #PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14\n\nGemini Argon release-date market settles toward Oct. 13 at 94%, with Oct. 14 at just 6%\nPolymarket's contract traded $70.5K across 25 outcomes, putting almost all weight on Oct. 13.\n#AI #PredictionMarkets #Polymarket\nhttps://polymarket.com/event/gemini-argon-released-onptptpt-20261007\n\nOctober Fed hike is the biggest 7-day mover on DeFi Rate's board, up 3 points to 19%\nDeFi Rate ranks the Oct. 28 hike first among 7-day moves, up 16% to 19%, ahead of September CPI.\n#Fed #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,159 | Brent $106 | BTC $83,900 | ETH $2,520\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Avalanche favored at 56c over the Stars at 45c for tonight&#x27;s NHL matchup in Dallas<br/>Polymarket prices Colorado at 56c, Dallas at 45c on $25,406 traded for Oct. 14 at 8:30 PM ET, with spreads, totals and props live.<br/>#NHL #PredictionMarkets #Polymarket<br/>https://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14<br/><br/>Gemini Argon release-date market settles toward Oct. 13 at 94%, with Oct. 14 at just 6%<br/>Polymarket&#x27;s contract traded $70.5K across 25 outcomes, putting almost all weight on Oct. 13.<br/>#AI #PredictionMarkets #Polymarket<br/>https://polymarket.com/event/gemini-argon-released-onptptpt-20261007<br/><br/>October Fed hike is the biggest 7-day mover on DeFi Rate&#x27;s board, up 3 points to 19%<br/>DeFi Rate ranks the Oct. 28 hike first among 7-day moves, up 16% to 19%, ahead of September CPI.<br/>#Fed #Kalshi #Polymarket<br/>https://defirate.com/?s<br/><br/>Markets: Gold $4,159 | Brent $106 | BTC $83,900 | ETH $2,520<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-14_0239-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-14T02:39:00-04:00",
-      "date_modified": "2026-10-14T02:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "NHL",
-        "PredictionMarkets",
-        "Polymarket",
-        "AI",
-        "Fed",
-        "Kalshi"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-14_0239-edt.jpg",
-      "external_url": "https://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14",
-      "links": [
-        "https://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14",
-        "https://polymarket.com/event/gemini-argon-released-onptptpt-20261007",
-        "https://defirate.com/?s"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:39 AM ET",
-      "body": "Infiniti Briefing\nAvalanche favored at 56c over the Stars at 45c for tonight's NHL matchup in Dallas\nPolymarket prices Colorado at 56c, Dallas at 45c on $25,406 traded for Oct. 14 at 8:30 PM ET, with spreads, totals and props live.\n#NHL #PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-dal-col-2026-10-14\n\nGemini Argon release-date market settles toward Oct. 13 at 94%, with Oct. 14 at just 6%\nPolymarket's contract traded $70.5K across 25 outcomes, putting almost all weight on Oct. 13.\n#AI #PredictionMarkets #Polymarket\nhttps://polymarket.com/event/gemini-argon-released-onptptpt-20261007\n\nOctober Fed hike is the biggest 7-day mover on DeFi Rate's board, up 3 points to 19%\nDeFi Rate ranks the Oct. 28 hike first among 7-day moves, up 16% to 19%, ahead of September CPI.\n#Fed #Kalshi #Polymarket\nhttps://defirate.com/?s\n\nMarkets: Gold $4,159 | Brent $106 | BTC $83,900 | ETH $2,520\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-14_0239-edt.jpg",
-      "published": "2026-10-14T02:39:00-04:00",
-      "source": "2026-10-14_0239-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-14_0230-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0230-edt-0",
-      "title": "Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds",
-      "content_text": "- **Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds** — Predictions.io reports the same midterm wording trades at 44.5 percent on Polymarket and 36 percent on Kalshi, an 8.5 point gap, with a median gap above 4 points across matched pairs. The tracker compares more than 9,700 markets across Kalshi, Polymarket and Manifold. ([Predictions.io](https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026))",
-      "content_html": "<p>- **Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds** — Predictions.io reports the same midterm wording trades at 44.5 percent on Polymarket and 36 percent on Kalshi, an 8.5 point gap, with a median gap above 4 points across matched pairs. The tracker compares more than 9,700 markets across Kalshi, Polymarket and Manifold. ([Predictions.io](https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026))</p>",
-      "date_published": "2026-10-14T02:30:00-04:00",
-      "date_modified": "2026-10-14T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026",
-      "links": [
-        "https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:30 AM ET",
-      "body": "- **Same midterm question priced 8.5 points apart on Polymarket and Kalshi, analysis finds** — Predictions.io reports the same midterm wording trades at 44.5 percent on Polymarket and 36 percent on Kalshi, an 8.5 point gap, with a median gap above 4 points across matched pairs. The tracker compares more than 9,700 markets across Kalshi, Polymarket and Manifold. ([Predictions.io](https://predictions.io/news/kalshi-polymarket-same-question-different-price-midterms-2026))",
-      "image_url": null,
-      "published": "2026-10-14T02:30:00-04:00",
-      "source": "2026-10-14_0230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0230-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0230-edt-1",
-      "title": "Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip",
-      "content_text": "- **Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip** — NewsBeep reports Gemini 4.0 release by October 13 rose from 38 percent to 82 percent in a day on Polymarket, while Bitcoin reaching 85,000 dollars in October fell from 89 percent to 78 percent. Bitcoin traded near 81,969 dollars late Monday, down 2.1 percent in 24 hours, and ether was near 2,450 dollars, down 3.7 percent. ([NewsBeep](https://www.newsbeep.com/768967/))",
-      "content_html": "<p>- **Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip** — NewsBeep reports Gemini 4.0 release by October 13 rose from 38 percent to 82 percent in a day on Polymarket, while Bitcoin reaching 85,000 dollars in October fell from 89 percent to 78 percent. Bitcoin traded near 81,969 dollars late Monday, down 2.1 percent in 24 hours, and ether was near 2,450 dollars, down 3.7 percent. ([NewsBeep](https://www.newsbeep.com/768967/))</p>",
-      "date_published": "2026-10-14T02:30:00-04:00",
-      "date_modified": "2026-10-14T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.newsbeep.com/768967/",
-      "links": [
-        "https://www.newsbeep.com/768967/"
-      ],
-      "timestamp": "Oct 14, 2026 · 2:30 AM ET",
-      "body": "- **Polymarket movers show Gemini 4.0 odds up 44 points as crypto targets slip** — NewsBeep reports Gemini 4.0 release by October 13 rose from 38 percent to 82 percent in a day on Polymarket, while Bitcoin reaching 85,000 dollars in October fell from 89 percent to 78 percent. Bitcoin traded near 81,969 dollars late Monday, down 2.1 percent in 24 hours, and ether was near 2,450 dollars, down 3.7 percent. ([NewsBeep](https://www.newsbeep.com/768967/))",
-      "image_url": null,
-      "published": "2026-10-14T02:30:00-04:00",
-      "source": "2026-10-14_0230-edt.json",
       "matches_facebook_post": false
     }
   ]
