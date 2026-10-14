@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T01:04:47.684929-04:00",
+  "updated": "2026-10-14T01:11:16.771494-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_0109-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0109-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKansas Senate money floods in, but traders still favor Marshall — Democrats priced at 38.5%, up from 36% a day earlier\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fundraising snapshot leads, in a fundraising/business category different…\n#PredictionMarkets #Senate #Elections\nhttps://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/\n\nWeekend volume topped $10B for the first time, with Kalshi at $7.87B and combos near 70% of its flow\nTickerTracker put weekend notional at $10.4B (+11% vs. the prior weekend) and DeFi Rate near $10.5B, with Kalshi setting consecutive daily records of $3.91B Saturday and…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kansas Senate money floods in, but traders still favor Marshall — Democrats priced at 38.5%, up from 36% a day earlier<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fundraising snapshot leads, in a fundraising/business category different…<br/>#PredictionMarkets #Senate #Elections<br/>https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/<br/><br/>Weekend volume topped $10B for the first time, with Kalshi at $7.87B and combos near 70% of its flow<br/>TickerTracker put weekend notional at $10.4B (+11% vs. the prior weekend) and DeFi Rate near $10.5B, with Kalshi setting consecutive daily records of $3.91B Saturday and…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T01:09:00-04:00",
+      "date_modified": "2026-10-14T01:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Senate",
+        "Elections",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/",
+      "links": [
+        "https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/",
+        "https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll"
+      ],
+      "timestamp": "Oct 14, 2026 · 1:09 AM ET",
+      "body": "Infiniti Briefing\n\nKansas Senate money floods in, but traders still favor Marshall — Democrats priced at 38.5%, up from 36% a day earlier\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fundraising snapshot leads, in a fundraising/business category different…\n#PredictionMarkets #Senate #Elections\nhttps://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/\n\nWeekend volume topped $10B for the first time, with Kalshi at $7.87B and combos near 70% of its flow\nTickerTracker put weekend notional at $10.4B (+11% vs. the prior weekend) and DeFi Rate near $10.5B, with Kalshi setting consecutive daily records of $3.91B Saturday and…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T01:09:00-04:00",
+      "source": "2026-10-14_0109-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0100-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0100-edt-0",
@@ -4642,37 +4676,6 @@
       ],
       "timestamp": "Oct 13, 2026 · 6:45 PM ET",
       "body": "- **Kalshi passes 2 billion dollars in annualized revenue as early IPO talks begin** — Kalshi has reportedly exceeded 2 billion dollars in annualized revenue and begun preliminary discussions with investment banks about a potential initial public offering. The talks follow a 1 billion dollar Series F round that valued the company at 22 billion dollars. ([BitRss](https://bitrss.com/kalshi-surpasses-2-billion-revenue-as-ipo-discussions-begin-amid-regulatory-challenges-222901))",
-      "image_url": null,
-      "published": "2026-10-13T18:45:00-04:00",
-      "source": "2026-10-13_1845-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1845-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1845-edt-3",
-      "title": "Kalshi adds Brier scores and low-volume tags to midterm election markets",
-      "content_text": "- **Kalshi adds Brier scores and low-volume tags to midterm election markets** — Kalshi is adding three transparency features to its 2026 midterm election markets: Brier scores measuring forecast accuracy, low-volume tags flagging thin markets, and more prominent real-time activity feeds. The exchange also said it has fined and suspended four congressional candidates this year for trading on their own races. ([Croupier](https://croupier.media/news/kalshi-adds-brier-scores-and-low-volume-tags-to-its-midterm-election-markets/))",
-      "content_html": "<p>- **Kalshi adds Brier scores and low-volume tags to midterm election markets** — Kalshi is adding three transparency features to its 2026 midterm election markets: Brier scores measuring forecast accuracy, low-volume tags flagging thin markets, and more prominent real-time activity feeds. The exchange also said it has fined and suspended four congressional candidates this year for trading on their own races. ([Croupier](https://croupier.media/news/kalshi-adds-brier-scores-and-low-volume-tags-to-its-midterm-election-markets/))</p>",
-      "date_published": "2026-10-13T18:45:00-04:00",
-      "date_modified": "2026-10-13T18:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://croupier.media/news/kalshi-adds-brier-scores-and-low-volume-tags-to-its-midterm-election-markets/",
-      "links": [
-        "https://croupier.media/news/kalshi-adds-brier-scores-and-low-volume-tags-to-its-midterm-election-markets/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:45 PM ET",
-      "body": "- **Kalshi adds Brier scores and low-volume tags to midterm election markets** — Kalshi is adding three transparency features to its 2026 midterm election markets: Brier scores measuring forecast accuracy, low-volume tags flagging thin markets, and more prominent real-time activity feeds. The exchange also said it has fined and suspended four congressional candidates this year for trading on their own races. ([Croupier](https://croupier.media/news/kalshi-adds-brier-scores-and-low-volume-tags-to-its-midterm-election-markets/))",
       "image_url": null,
       "published": "2026-10-13T18:45:00-04:00",
       "source": "2026-10-13_1845-edt.json",
