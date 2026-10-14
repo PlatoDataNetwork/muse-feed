@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T00:34:49.919351-04:00",
+  "updated": "2026-10-14T00:49:23.625807-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-14_0045-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0045-edt-0",
+      "title": "Kalshi weather markets beat leading public forecast in six of seven cities, study finds",
+      "content_text": "- **Kalshi weather markets beat leading public forecast in six of seven cities, study finds** — A study of Kalshi temperature markets since 2021 found the market-implied next-day forecast beat the National Blend of Models in six of seven cities, with about 10 percent lower error early in trading. The paper by Alexander W. Crosier was posted to arXiv on September 21. ([NextPredict](https://nextpredict.io/market-news/industry/study-kalshi-weather-markets-outperform-public-forecasts/))",
+      "content_html": "<p>- **Kalshi weather markets beat leading public forecast in six of seven cities, study finds** — A study of Kalshi temperature markets since 2021 found the market-implied next-day forecast beat the National Blend of Models in six of seven cities, with about 10 percent lower error early in trading. The paper by Alexander W. Crosier was posted to arXiv on September 21. ([NextPredict](https://nextpredict.io/market-news/industry/study-kalshi-weather-markets-outperform-public-forecasts/))</p>",
+      "date_published": "2026-10-14T00:45:00-04:00",
+      "date_modified": "2026-10-14T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://nextpredict.io/market-news/industry/study-kalshi-weather-markets-outperform-public-forecasts/",
+      "links": [
+        "https://nextpredict.io/market-news/industry/study-kalshi-weather-markets-outperform-public-forecasts/"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:45 AM ET",
+      "body": "- **Kalshi weather markets beat leading public forecast in six of seven cities, study finds** — A study of Kalshi temperature markets since 2021 found the market-implied next-day forecast beat the National Blend of Models in six of seven cities, with about 10 percent lower error early in trading. The paper by Alexander W. Crosier was posted to arXiv on September 21. ([NextPredict](https://nextpredict.io/market-news/industry/study-kalshi-weather-markets-outperform-public-forecasts/))",
+      "image_url": null,
+      "published": "2026-10-14T00:45:00-04:00",
+      "source": "2026-10-14_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0045-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0045-edt-1",
+      "title": "Kalshi nears 40 billion dollar valuation in funding round ahead of possible 2027 IPO",
+      "content_text": "- **Kalshi nears 40 billion dollar valuation in funding round ahead of possible 2027 IPO** — Kalshi is wrapping up a funding round valuing the prediction market at about 40 billion dollars, according to Bloomberg reporting relayed on October 1. The raise is described as likely its last private round before a public listing that could arrive as soon as next year. ([SpendNode](https://www.spendnode.io/blog/kalshi-40b-valuation-ipo-2027-october-2026/))",
+      "content_html": "<p>- **Kalshi nears 40 billion dollar valuation in funding round ahead of possible 2027 IPO** — Kalshi is wrapping up a funding round valuing the prediction market at about 40 billion dollars, according to Bloomberg reporting relayed on October 1. The raise is described as likely its last private round before a public listing that could arrive as soon as next year. ([SpendNode](https://www.spendnode.io/blog/kalshi-40b-valuation-ipo-2027-october-2026/))</p>",
+      "date_published": "2026-10-14T00:45:00-04:00",
+      "date_modified": "2026-10-14T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.spendnode.io/blog/kalshi-40b-valuation-ipo-2027-october-2026/",
+      "links": [
+        "https://www.spendnode.io/blog/kalshi-40b-valuation-ipo-2027-october-2026/"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:45 AM ET",
+      "body": "- **Kalshi nears 40 billion dollar valuation in funding round ahead of possible 2027 IPO** — Kalshi is wrapping up a funding round valuing the prediction market at about 40 billion dollars, according to Bloomberg reporting relayed on October 1. The raise is described as likely its last private round before a public listing that could arrive as soon as next year. ([SpendNode](https://www.spendnode.io/blog/kalshi-40b-valuation-ipo-2027-october-2026/))",
+      "image_url": null,
+      "published": "2026-10-14T00:45:00-04:00",
+      "source": "2026-10-14_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0045-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0045-edt-2",
+      "title": "Mention markets lead with Trump Alaska rally contract at 154,000 dollars in 24 hour volume",
+      "content_text": "- **Mention markets lead with Trump Alaska rally contract at 154,000 dollars in 24 hour volume** — DeFi Rate lists mention markets by 24 hour volume with a Kalshi contract on what Trump will say at his Alaska rally on top at 154,000 dollars. A Polymarket contract on Elon Musk tweets from October 12 to 14 followed at 135,000 dollars, with 65 to 89 tweets priced at 63 percent. ([DeFi Rate](https://defirate.com/odds/mention-markets/))",
+      "content_html": "<p>- **Mention markets lead with Trump Alaska rally contract at 154,000 dollars in 24 hour volume** — DeFi Rate lists mention markets by 24 hour volume with a Kalshi contract on what Trump will say at his Alaska rally on top at 154,000 dollars. A Polymarket contract on Elon Musk tweets from October 12 to 14 followed at 135,000 dollars, with 65 to 89 tweets priced at 63 percent. ([DeFi Rate](https://defirate.com/odds/mention-markets/))</p>",
+      "date_published": "2026-10-14T00:45:00-04:00",
+      "date_modified": "2026-10-14T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/mention-markets/",
+      "links": [
+        "https://defirate.com/odds/mention-markets/"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:45 AM ET",
+      "body": "- **Mention markets lead with Trump Alaska rally contract at 154,000 dollars in 24 hour volume** — DeFi Rate lists mention markets by 24 hour volume with a Kalshi contract on what Trump will say at his Alaska rally on top at 154,000 dollars. A Polymarket contract on Elon Musk tweets from October 12 to 14 followed at 135,000 dollars, with 65 to 89 tweets priced at 63 percent. ([DeFi Rate](https://defirate.com/odds/mention-markets/))",
+      "image_url": null,
+      "published": "2026-10-14T00:45:00-04:00",
+      "source": "2026-10-14_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0045-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0045-edt-3",
+      "title": "Democrats inject 5 million dollars into Kansas Senate race as polls show Hamilton and Marshall close",
+      "content_text": "- **Democrats inject 5 million dollars into Kansas Senate race as polls show Hamilton and Marshall close** — A Democratic Senate super PAC injected an additional 5 million dollars into the Kansas race, where an Emerson College poll showed Adam Hamilton at 45 percent and Roger Marshall at 43 percent. Market pricing put a Democratic win at 38.5 percent, up from 36 percent a day earlier. ([CryptoBriefing](https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/))",
+      "content_html": "<p>- **Democrats inject 5 million dollars into Kansas Senate race as polls show Hamilton and Marshall close** — A Democratic Senate super PAC injected an additional 5 million dollars into the Kansas race, where an Emerson College poll showed Adam Hamilton at 45 percent and Roger Marshall at 43 percent. Market pricing put a Democratic win at 38.5 percent, up from 36 percent a day earlier. ([CryptoBriefing](https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/))</p>",
+      "date_published": "2026-10-14T00:45:00-04:00",
+      "date_modified": "2026-10-14T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/",
+      "links": [
+        "https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:45 AM ET",
+      "body": "- **Democrats inject 5 million dollars into Kansas Senate race as polls show Hamilton and Marshall close** — A Democratic Senate super PAC injected an additional 5 million dollars into the Kansas race, where an Emerson College poll showed Adam Hamilton at 45 percent and Roger Marshall at 43 percent. Market pricing put a Democratic win at 38.5 percent, up from 36 percent a day earlier. ([CryptoBriefing](https://cryptobriefing.com/democrats-inject-5m-into-kansas-senate-race-intensifying-battleground-contest/))",
+      "image_url": null,
+      "published": "2026-10-14T00:45:00-04:00",
+      "source": "2026-10-14_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-14_0045-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0045-edt-4",
+      "title": "Bitcoin closes at 83,708 dollars as Polymarket prices dip to 80,000 dollars in October at 53.5 percent",
+      "content_text": "- **Bitcoin closes at 83,708 dollars as Polymarket prices dip to 80,000 dollars in October at 53.5 percent** — Bitcoin closed at 83,708 dollars with a gain of about 1 percent over 24 hours and a range near 82,848 to 84,073 dollars. Polymarket priced a dip to 80,000 dollars in October at 53.5 percent and Bitcoin above 80,000 dollars on October 14 at 98.95 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-14-0330-utc))",
+      "content_html": "<p>- **Bitcoin closes at 83,708 dollars as Polymarket prices dip to 80,000 dollars in October at 53.5 percent** — Bitcoin closed at 83,708 dollars with a gain of about 1 percent over 24 hours and a range near 82,848 to 84,073 dollars. Polymarket priced a dip to 80,000 dollars in October at 53.5 percent and Bitcoin above 80,000 dollars on October 14 at 98.95 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-14-0330-utc))</p>",
+      "date_published": "2026-10-14T00:45:00-04:00",
+      "date_modified": "2026-10-14T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-14-0330-utc",
+      "links": [
+        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-14-0330-utc"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:45 AM ET",
+      "body": "- **Bitcoin closes at 83,708 dollars as Polymarket prices dip to 80,000 dollars in October at 53.5 percent** — Bitcoin closed at 83,708 dollars with a gain of about 1 percent over 24 hours and a range near 82,848 to 84,073 dollars. Polymarket priced a dip to 80,000 dollars in October at 53.5 percent and Bitcoin above 80,000 dollars on October 14 at 98.95 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-14-0330-utc))",
+      "image_url": null,
+      "published": "2026-10-14T00:45:00-04:00",
+      "source": "2026-10-14_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-14_0039-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_0039-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKalshi and Polymarket will not be part of the FTC sports gambling probe\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory report leads, in a category different from the previous…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/\n\nSouth Carolina Senate market prices Graham at 86c on both venues, far ahead of tight polls\nPolymarket and Kalshi both price Lindsey Graham at 86c against Catherine Andrews at 16c on Polymarket and 15c on Kalshi, even as cited public polls show a near-tied race…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/south-carolina-senate-race-2026-odds-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi and Polymarket will not be part of the FTC sports gambling probe<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory report leads, in a category different from the previous…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/<br/><br/>South Carolina Senate market prices Graham at 86c on both venues, far ahead of tight polls<br/>Polymarket and Kalshi both price Lindsey Graham at 86c against Catherine Andrews at 16c on Polymarket and 15c on Kalshi, even as cited public polls show a near-tied race…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.actionnetwork.com/news/south-carolina-senate-race-2026-odds-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T00:39:00-04:00",
+      "date_modified": "2026-10-14T00:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/",
+      "links": [
+        "https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/",
+        "https://www.actionnetwork.com/news/south-carolina-senate-race-2026-odds-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions"
+      ],
+      "timestamp": "Oct 14, 2026 · 12:39 AM ET",
+      "body": "Infiniti Briefing\n\nKalshi and Polymarket will not be part of the FTC sports gambling probe\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory report leads, in a category different from the previous…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/\n\nSouth Carolina Senate market prices Graham at 86c on both venues, far ahead of tight polls\nPolymarket and Kalshi both price Lindsey Graham at 86c against Catherine Andrews at 16c on Polymarket and 15c on Kalshi, even as cited public polls show a near-tied race…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/south-carolina-senate-race-2026-odds-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T00:39:00-04:00",
+      "source": "2026-10-14_0039-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_0030-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0030-edt-0",
@@ -4492,194 +4672,6 @@
       "image_url": null,
       "published": "2026-10-13T18:30:00-04:00",
       "source": "2026-10-13_1830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1830-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1830-edt-4",
-      "title": "Whale holds 38.1 million dollars in crypto longs as no October rate hike prediction profits",
-      "content_text": "- **Whale holds 38.1 million dollars in crypto longs as no October rate hike prediction profits** — A cross-market whale tracked as rjgrant.eth held about 38.1 million dollars in crypto long positions with about 2.49 million dollars in unrealized profit, according to monitoring cited October 8. The account also held a Yes position on the Fed holding rates steady in October, which had gained as that probability rose. ([KuCoin](https://www.kucoin.com/news/flash/whale-maintains-38-1m-crypto-longs-as-no-rate-hike-in-october-prediction-profits))",
-      "content_html": "<p>- **Whale holds 38.1 million dollars in crypto longs as no October rate hike prediction profits** — A cross-market whale tracked as rjgrant.eth held about 38.1 million dollars in crypto long positions with about 2.49 million dollars in unrealized profit, according to monitoring cited October 8. The account also held a Yes position on the Fed holding rates steady in October, which had gained as that probability rose. ([KuCoin](https://www.kucoin.com/news/flash/whale-maintains-38-1m-crypto-longs-as-no-rate-hike-in-october-prediction-profits))</p>",
-      "date_published": "2026-10-13T18:30:00-04:00",
-      "date_modified": "2026-10-13T18:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://www.kucoin.com/news/flash/whale-maintains-38-1m-crypto-longs-as-no-rate-hike-in-october-prediction-profits",
-      "links": [
-        "https://www.kucoin.com/news/flash/whale-maintains-38-1m-crypto-longs-as-no-rate-hike-in-october-prediction-profits"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:30 PM ET",
-      "body": "- **Whale holds 38.1 million dollars in crypto longs as no October rate hike prediction profits** — A cross-market whale tracked as rjgrant.eth held about 38.1 million dollars in crypto long positions with about 2.49 million dollars in unrealized profit, according to monitoring cited October 8. The account also held a Yes position on the Fed holding rates steady in October, which had gained as that probability rose. ([KuCoin](https://www.kucoin.com/news/flash/whale-maintains-38-1m-crypto-longs-as-no-rate-hike-in-october-prediction-profits))",
-      "image_url": null,
-      "published": "2026-10-13T18:30:00-04:00",
-      "source": "2026-10-13_1830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-13_1824-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-13_1824-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nConnecticut judge says CFTC cannot override court's reading of federal law in Kalshi case\nJudge Oliver ruled the CFTC lacks authority to dictate an order conflicting with the court's interpretation.\n#Kalshi #CFTC #PredictionMarkets\nhttps://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760\n\nChampionship-series win odds swing more than 20 points\nPolymarket: Cleveland 58.2% to win the ALCS, up 21.9 pts; Milwaukee 69.8% to win the NLCS, up 22.6 pts.\n#MLB #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/\n\nPolymarket most-traded: Bills-Rams still first\nBills vs. Rams leads at $8.7M, followed by two League of Legends playoff markets at $7.9M and $7.3M.\n#NFL #Esports #Polymarket\nhttps://defirate.com/prediction-markets/volume/polymarket/\n\nMarkets: Gold $4,159 | WTI $94.90 | BTC $83,200 | ETH $2,504\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Connecticut judge says CFTC cannot override court&#x27;s reading of federal law in Kalshi case<br/>Judge Oliver ruled the CFTC lacks authority to dictate an order conflicting with the court&#x27;s interpretation.<br/>#Kalshi #CFTC #PredictionMarkets<br/>https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760<br/><br/>Championship-series win odds swing more than 20 points<br/>Polymarket: Cleveland 58.2% to win the ALCS, up 21.9 pts; Milwaukee 69.8% to win the NLCS, up 22.6 pts.<br/>#MLB #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/<br/><br/>Polymarket most-traded: Bills-Rams still first<br/>Bills vs. Rams leads at $8.7M, followed by two League of Legends playoff markets at $7.9M and $7.3M.<br/>#NFL #Esports #Polymarket<br/>https://defirate.com/prediction-markets/volume/polymarket/<br/><br/>Markets: Gold $4,159 | WTI $94.90 | BTC $83,200 | ETH $2,504<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-13_1824-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-13T18:24:00-04:00",
-      "date_modified": "2026-10-13T18:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC",
-        "PredictionMarkets",
-        "MLB",
-        "Polymarket",
-        "NFL",
-        "Esports"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-13_1824-edt.jpg",
-      "external_url": "https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760",
-      "links": [
-        "https://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760",
-        "https://predictionbubbles.net/markets/",
-        "https://defirate.com/prediction-markets/volume/polymarket/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:24 PM ET",
-      "body": "Infiniti Briefing\nConnecticut judge says CFTC cannot override court's reading of federal law in Kalshi case\nJudge Oliver ruled the CFTC lacks authority to dictate an order conflicting with the court's interpretation.\n#Kalshi #CFTC #PredictionMarkets\nhttps://gamblerss.com/connecticut-judge-says-cftc-cannot-override-court-s-reading-of-federal-law-in-prediction-markets-case-67760\n\nChampionship-series win odds swing more than 20 points\nPolymarket: Cleveland 58.2% to win the ALCS, up 21.9 pts; Milwaukee 69.8% to win the NLCS, up 22.6 pts.\n#MLB #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/\n\nPolymarket most-traded: Bills-Rams still first\nBills vs. Rams leads at $8.7M, followed by two League of Legends playoff markets at $7.9M and $7.3M.\n#NFL #Esports #Polymarket\nhttps://defirate.com/prediction-markets/volume/polymarket/\n\nMarkets: Gold $4,159 | WTI $94.90 | BTC $83,200 | ETH $2,504\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-13_1824-edt.jpg",
-      "published": "2026-10-13T18:24:00-04:00",
-      "source": "2026-10-13_1824-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-13_1815-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1815-edt-0",
-      "title": "Polymarket prices Democrats at 91 percent for the House and 64 percent for the Senate in 2026 midterms",
-      "content_text": "- **Polymarket prices Democrats at 91 percent for the House and 64 percent for the Senate in 2026 midterms** — Polymarket favors Democrats to win the House at 91 percent and the Senate at 64 percent, while Kalshi lists a Democratic sweep as the leading balance-of-power outcome. Individual Senate markets favor Democrats in Texas, Maine, Michigan, Alaska and Ohio, with Republicans favored in Iowa. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
-      "content_html": "<p>- **Polymarket prices Democrats at 91 percent for the House and 64 percent for the Senate in 2026 midterms** — Polymarket favors Democrats to win the House at 91 percent and the Senate at 64 percent, while Kalshi lists a Democratic sweep as the leading balance-of-power outcome. Individual Senate markets favor Democrats in Texas, Maine, Michigan, Alaska and Ohio, with Republicans favored in Iowa. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))</p>",
-      "date_published": "2026-10-13T18:15:00-04:00",
-      "date_modified": "2026-10-13T18:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/",
-      "links": [
-        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:15 PM ET",
-      "body": "- **Polymarket prices Democrats at 91 percent for the House and 64 percent for the Senate in 2026 midterms** — Polymarket favors Democrats to win the House at 91 percent and the Senate at 64 percent, while Kalshi lists a Democratic sweep as the leading balance-of-power outcome. Individual Senate markets favor Democrats in Texas, Maine, Michigan, Alaska and Ohio, with Republicans favored in Iowa. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
-      "image_url": null,
-      "published": "2026-10-13T18:15:00-04:00",
-      "source": "2026-10-13_1815-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1815-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1815-edt-1",
-      "title": "Polymarket US weekly volume reaches 2.72 billion dollars in week ending October 11",
-      "content_text": "- **Polymarket US weekly volume reaches 2.72 billion dollars in week ending October 11** — Polymarket US recorded 2.72 billion dollars in notional volume in the week ending October 11, peaking at 698.8 million dollars on October 11, with a trailing 30-day total of 11.39 billion dollars. Football contracts have driven most of the growth since the season opened. ([Gambity](https://gambity.com/article/breaking/polymarket-us-weekly-volume-reaches-272-billion-dollars-breaking))",
-      "content_html": "<p>- **Polymarket US weekly volume reaches 2.72 billion dollars in week ending October 11** — Polymarket US recorded 2.72 billion dollars in notional volume in the week ending October 11, peaking at 698.8 million dollars on October 11, with a trailing 30-day total of 11.39 billion dollars. Football contracts have driven most of the growth since the season opened. ([Gambity](https://gambity.com/article/breaking/polymarket-us-weekly-volume-reaches-272-billion-dollars-breaking))</p>",
-      "date_published": "2026-10-13T18:15:00-04:00",
-      "date_modified": "2026-10-13T18:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://gambity.com/article/breaking/polymarket-us-weekly-volume-reaches-272-billion-dollars-breaking",
-      "links": [
-        "https://gambity.com/article/breaking/polymarket-us-weekly-volume-reaches-272-billion-dollars-breaking"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:15 PM ET",
-      "body": "- **Polymarket US weekly volume reaches 2.72 billion dollars in week ending October 11** — Polymarket US recorded 2.72 billion dollars in notional volume in the week ending October 11, peaking at 698.8 million dollars on October 11, with a trailing 30-day total of 11.39 billion dollars. Football contracts have driven most of the growth since the season opened. ([Gambity](https://gambity.com/article/breaking/polymarket-us-weekly-volume-reaches-272-billion-dollars-breaking))",
-      "image_url": null,
-      "published": "2026-10-13T18:15:00-04:00",
-      "source": "2026-10-13_1815-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1815-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1815-edt-2",
-      "title": "Prediction markets NFL boom tests sports betting rules, Bloomberg Law reports",
-      "content_text": "- **Prediction markets NFL boom tests sports betting rules, Bloomberg Law reports** — NFL and college football pushed Kalshi and Polymarket to consecutive daily records for a two-day total of 8.56 billion dollars and a combined weekly record of 22.2 billion dollars. The growth is putting prediction markets on a collision course with traditional sportsbooks and sports betting rules. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
-      "content_html": "<p>- **Prediction markets NFL boom tests sports betting rules, Bloomberg Law reports** — NFL and college football pushed Kalshi and Polymarket to consecutive daily records for a two-day total of 8.56 billion dollars and a combined weekly record of 22.2 billion dollars. The growth is putting prediction markets on a collision course with traditional sportsbooks and sports betting rules. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))</p>",
-      "date_published": "2026-10-13T18:15:00-04:00",
-      "date_modified": "2026-10-13T18:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules",
-      "links": [
-        "https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:15 PM ET",
-      "body": "- **Prediction markets NFL boom tests sports betting rules, Bloomberg Law reports** — NFL and college football pushed Kalshi and Polymarket to consecutive daily records for a two-day total of 8.56 billion dollars and a combined weekly record of 22.2 billion dollars. The growth is putting prediction markets on a collision course with traditional sportsbooks and sports betting rules. ([Bloomberg Law](https://news.bloomberglaw.com/securities-law/prediction-markets-nfl-boom-tests-sports-betting-rules))",
-      "image_url": null,
-      "published": "2026-10-13T18:15:00-04:00",
-      "source": "2026-10-13_1815-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-13_1815-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-13_1815-edt-3",
-      "title": "Kalshi crypto chief rebuts fake volume allegations over identical 5,500 dollar trades",
-      "content_text": "- **Kalshi crypto chief rebuts fake volume allegations over identical 5,500 dollar trades** — Kalshi responded to allegations of fake crypto volume flagged over identical 5,500 dollar trades, saying its volume follows the same payout-based convention as Polymarket. The platform also said self-clearing membership is open to firms meeting CFTC requirements and that it offers no rebates on crypto event contracts. ([CoinDesk](https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades))",
-      "content_html": "<p>- **Kalshi crypto chief rebuts fake volume allegations over identical 5,500 dollar trades** — Kalshi responded to allegations of fake crypto volume flagged over identical 5,500 dollar trades, saying its volume follows the same payout-based convention as Polymarket. The platform also said self-clearing membership is open to firms meeting CFTC requirements and that it offers no rebates on crypto event contracts. ([CoinDesk](https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades))</p>",
-      "date_published": "2026-10-13T18:15:00-04:00",
-      "date_modified": "2026-10-13T18:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
-      "links": [
-        "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades"
-      ],
-      "timestamp": "Oct 13, 2026 · 6:15 PM ET",
-      "body": "- **Kalshi crypto chief rebuts fake volume allegations over identical 5,500 dollar trades** — Kalshi responded to allegations of fake crypto volume flagged over identical 5,500 dollar trades, saying its volume follows the same payout-based convention as Polymarket. The platform also said self-clearing membership is open to firms meeting CFTC requirements and that it offers no rebates on crypto event contracts. ([CoinDesk](https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades))",
-      "image_url": null,
-      "published": "2026-10-13T18:15:00-04:00",
-      "source": "2026-10-13_1815-edt.json",
       "matches_facebook_post": false
     }
   ]
