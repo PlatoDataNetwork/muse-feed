@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T17:34:29.886417-04:00",
+  "updated": "2026-10-15T17:49:41.666499-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-15_1739-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1739-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nTop-50 prediction markets total $25M in 24 hours, with sports taking $18M across 24 markets\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nNFC East Division Winner draws $329K in 24 hours, with Dallas at 44c on Kalshi\nThe New York Giants sit second at 25c and Philadelphia third at 22c on the live board — a division-winner market not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nGeorgia Southern vs. Old Dominion draws $418K in 24 hours, with Georgia Southern at 60c on Kalshi\nTonight's matchup prices the Georgia Southern -3.5 spread at 47c and the Over 45.5 total at 50c — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Top-50 prediction markets total $25M in 24 hours, with sports taking $18M across 24 markets<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a volume/metrics category different from the…<br/>#PredictionMarkets<br/>https://defirate.com/odds/<br/><br/>NFC East Division Winner draws $329K in 24 hours, with Dallas at 44c on Kalshi<br/>The New York Giants sit second at 25c and Philadelphia third at 22c on the live board — a division-winner market not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/<br/><br/>Georgia Southern vs. Old Dominion draws $418K in 24 hours, with Georgia Southern at 60c on Kalshi<br/>Tonight&#x27;s matchup prices the Georgia Southern -3.5 spread at 47c and the Over 45.5 total at 50c — a matchup not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T17:39:00-04:00",
+      "date_modified": "2026-10-15T17:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Solana",
+        "Silver",
+        "Oil",
+        "Natural Gas"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/",
+      "links": [
+        "https://defirate.com/odds/"
+      ],
+      "timestamp": "Oct 15, 2026 · 5:39 PM ET",
+      "body": "Infiniti Briefing\n\nTop-50 prediction markets total $25M in 24 hours, with sports taking $18M across 24 markets\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nNFC East Division Winner draws $329K in 24 hours, with Dallas at 44c on Kalshi\nThe New York Giants sit second at 25c and Philadelphia third at 22c on the live board — a division-winner market not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nGeorgia Southern vs. Old Dominion draws $418K in 24 hours, with Georgia Southern at 60c on Kalshi\nTonight's matchup prices the Georgia Southern -3.5 spread at 47c and the Over 45.5 total at 50c — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T17:39:00-04:00",
+      "source": "2026-10-15_1739-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_1730-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1730-edt-0",
@@ -4610,37 +4644,6 @@
       ],
       "timestamp": "Oct 15, 2026 · 10:15 AM ET",
       "body": "- **Open-source guide shows how to track Polymarket whales with Python and no API key** — A Dev.to tutorial describes tracking large Polymarket trades with Python, filtering by minimum size, topic and side. In an October 13 test, the largest recent trade cited was a 5,000 dollar position in a combined election market. ([Dev.to](https://dev.to/fishinabowl95/track-polymarket-whales-and-top-traders-with-python-no-api-key-41il))",
-      "image_url": null,
-      "published": "2026-10-15T10:15:00-04:00",
-      "source": "2026-10-15_1015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1015-edt-8",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1015-edt-8",
-      "title": "Weather prediction markets cover temperature, rain and hurricanes across Kalshi, Polymarket and Robinhood, Bonus.com reports",
-      "content_text": "- **Weather prediction markets cover temperature, rain and hurricanes across Kalshi, Polymarket and Robinhood, Bonus.com reports** — Bonus.com says Kalshi offers the most comprehensive weather lineup among regulated platforms, with Polymarket running a similarly deep set of contracts. Robinhood offers weather contracts through a partnership with Kalshi, while DraftKings Predictions is still building its lineup. ([Bonus.com](https://www.bonus.com/prediction-markets/trading-guide/weather/))",
-      "content_html": "<p>- **Weather prediction markets cover temperature, rain and hurricanes across Kalshi, Polymarket and Robinhood, Bonus.com reports** — Bonus.com says Kalshi offers the most comprehensive weather lineup among regulated platforms, with Polymarket running a similarly deep set of contracts. Robinhood offers weather contracts through a partnership with Kalshi, while DraftKings Predictions is still building its lineup. ([Bonus.com](https://www.bonus.com/prediction-markets/trading-guide/weather/))</p>",
-      "date_published": "2026-10-15T10:15:00-04:00",
-      "date_modified": "2026-10-15T10:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/prediction-markets/trading-guide/weather/",
-      "links": [
-        "https://www.bonus.com/prediction-markets/trading-guide/weather/"
-      ],
-      "timestamp": "Oct 15, 2026 · 10:15 AM ET",
-      "body": "- **Weather prediction markets cover temperature, rain and hurricanes across Kalshi, Polymarket and Robinhood, Bonus.com reports** — Bonus.com says Kalshi offers the most comprehensive weather lineup among regulated platforms, with Polymarket running a similarly deep set of contracts. Robinhood offers weather contracts through a partnership with Kalshi, while DraftKings Predictions is still building its lineup. ([Bonus.com](https://www.bonus.com/prediction-markets/trading-guide/weather/))",
       "image_url": null,
       "published": "2026-10-15T10:15:00-04:00",
       "source": "2026-10-15_1015-edt.json",
