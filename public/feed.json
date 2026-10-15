@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T20:19:27.851182-04:00",
+  "updated": "2026-10-14T20:28:50.533887-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_2024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_2024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKalshi CEO Tarek Mansour warns state-led regulation would push prediction markets offshore\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh Oct. 14 item leads, in a legal/regulatory category different from the…\n#PredictionMarkets #Kalshi #CFTC #Bitcoin\nhttps://en.cryptonomist.ch/2026/10/14/us-prediction-markets-regulation/\n\nNetanyahu's next-PM odds fall to 25.0%, down 5.5 points in 24 hours and 10.5 in seven days\nThe updated pricing, on $336,383 traded in 24 hours with $394,692 in open interest, is a genuine move from the 31% reading carried this morning, so it runs only as a…\n#PredictionMarkets\nhttps://www.global-political-spotlight.com/articles/polymarket/briefs/netanyahu-next-pm-odds-fall-on-official-election-governance-scrutiny-20261015-0005\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi CEO Tarek Mansour warns state-led regulation would push prediction markets offshore<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh Oct. 14 item leads, in a legal/regulatory category different from the…<br/>#PredictionMarkets #Kalshi #CFTC #Bitcoin<br/>https://en.cryptonomist.ch/2026/10/14/us-prediction-markets-regulation/<br/><br/>Netanyahu&#x27;s next-PM odds fall to 25.0%, down 5.5 points in 24 hours and 10.5 in seven days<br/>The updated pricing, on $336,383 traded in 24 hours with $394,692 in open interest, is a genuine move from the 31% reading carried this morning, so it runs only as a…<br/>#PredictionMarkets<br/>https://www.global-political-spotlight.com/articles/polymarket/briefs/netanyahu-next-pm-odds-fall-on-official-election-governance-scrutiny-20261015-0005<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T20:24:00-04:00",
+      "date_modified": "2026-10-14T20:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://en.cryptonomist.ch/2026/10/14/us-prediction-markets-regulation/",
+      "links": [
+        "https://en.cryptonomist.ch/2026/10/14/us-prediction-markets-regulation/",
+        "https://www.global-political-spotlight.com/articles/polymarket/briefs/netanyahu-next-pm-odds-fall-on-official-election-governance-scrutiny-20261015-0005"
+      ],
+      "timestamp": "Oct 14, 2026 · 8:24 PM ET",
+      "body": "Infiniti Briefing\n\nKalshi CEO Tarek Mansour warns state-led regulation would push prediction markets offshore\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh Oct. 14 item leads, in a legal/regulatory category different from the…\n#PredictionMarkets #Kalshi #CFTC #Bitcoin\nhttps://en.cryptonomist.ch/2026/10/14/us-prediction-markets-regulation/\n\nNetanyahu's next-PM odds fall to 25.0%, down 5.5 points in 24 hours and 10.5 in seven days\nThe updated pricing, on $336,383 traded in 24 hours with $394,692 in open interest, is a genuine move from the 31% reading carried this morning, so it runs only as a…\n#PredictionMarkets\nhttps://www.global-political-spotlight.com/articles/polymarket/briefs/netanyahu-next-pm-odds-fall-on-official-election-governance-scrutiny-20261015-0005\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T20:24:00-04:00",
+      "source": "2026-10-14_2024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_2015-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2015-edt-0",
@@ -15084,33 +15117,6 @@
       ],
       "timestamp": "Oct 14, 2026 · 8:00 AM ET",
       "body": "- **Connecticut says Webull, Gemini and ProphetX have left after cease-and-desist orders** — Connecticut consumer protection officials say three of the nine prediction market operators ordered to stop sports contracts in the state are leaving, while the state remains in contact with six others including Polymarket, Coinbase and Robinhood. ([iGaming Times](https://igaming-times.com/news/prediction-markets/connecticut-says-webull-gemini-and-prophetx-have-left-after-its-cease-and-desists))",
-      "image_url": null,
-      "published": "2026-10-14T08:00:00-04:00",
-      "source": "2026-10-14_0800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_0800-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_0800-edt-2",
-      "title": "Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding",
-      "content_text": "- **Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding** — SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital to launch Momentum Markets, a platform that creates live in-game micro-markets for prediction market operators in response to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))",
-      "content_html": "<p>- **Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding** — SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital to launch Momentum Markets, a platform that creates live in-game micro-markets for prediction market operators in response to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))</p>",
-      "date_published": "2026-10-14T08:00:00-04:00",
-      "date_modified": "2026-10-14T08:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728",
-      "links": [
-        "https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728"
-      ],
-      "timestamp": "Oct 14, 2026 · 8:00 AM ET",
-      "body": "- **Micro-betting prediction markets startup SpeedLabs raises 6.5 million dollars in seed funding** — SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital to launch Momentum Markets, a platform that creates live in-game micro-markets for prediction market operators in response to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))",
       "image_url": null,
       "published": "2026-10-14T08:00:00-04:00",
       "source": "2026-10-14_0800-edt.json",
