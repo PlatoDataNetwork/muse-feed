@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T01:34:49.551259-04:00",
+  "updated": "2026-10-15T01:40:23.618430-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-15_0139-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_0139-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPrediction markets trade $3.3B in 24 hours across 9 exchanges\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh Oct. 15 volume snapshot leads, in a volume/metrics category different…\n#PredictionMarkets #Elections\nhttp://defirate.com/\n\nEPL 2027 Champion draws $172K in 24 hours, with Arsenal on top at 63%\nPolymarket's board as of Oct. 15, 04:52 AM UTC ranks the 2027 Premier League title book 36th by 24-hour volume, across 20 outcomes — a futures book not featured in any…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nDemocratic Presidential Nominee 2028 draws $152K in 24 hours, with Alexandria Ocasio-Cortez on top at 17%\nPolymarket's board ranks the 2028 Democratic nominee book 39th by 24-hour volume, across 53 outcomes — a contract not featured in any Oct. 15 edition, in a…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Prediction markets trade $3.3B in 24 hours across 9 exchanges<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh Oct. 15 volume snapshot leads, in a volume/metrics category different…<br/>#PredictionMarkets #Elections<br/>http://defirate.com/<br/><br/>EPL 2027 Champion draws $172K in 24 hours, with Arsenal on top at 63%<br/>Polymarket&#x27;s board as of Oct. 15, 04:52 AM UTC ranks the 2027 Premier League title book 36th by 24-hour volume, across 20 outcomes — a futures book not featured in any…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>Democratic Presidential Nominee 2028 draws $152K in 24 hours, with Alexandria Ocasio-Cortez on top at 17%<br/>Polymarket&#x27;s board ranks the 2028 Democratic nominee book 39th by 24-hour volume, across 53 outcomes — a contract not featured in any Oct. 15 edition, in a…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T01:39:00-04:00",
+      "date_modified": "2026-10-15T01:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Elections",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "http://defirate.com/",
+      "links": [
+        "http://defirate.com/",
+        "https://polydict.app/markets"
+      ],
+      "timestamp": "Oct 15, 2026 · 1:39 AM ET",
+      "body": "Infiniti Briefing\n\nPrediction markets trade $3.3B in 24 hours across 9 exchanges\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh Oct. 15 volume snapshot leads, in a volume/metrics category different…\n#PredictionMarkets #Elections\nhttp://defirate.com/\n\nEPL 2027 Champion draws $172K in 24 hours, with Arsenal on top at 63%\nPolymarket's board as of Oct. 15, 04:52 AM UTC ranks the 2027 Premier League title book 36th by 24-hour volume, across 20 outcomes — a futures book not featured in any…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nDemocratic Presidential Nominee 2028 draws $152K in 24 hours, with Alexandria Ocasio-Cortez on top at 17%\nPolymarket's board ranks the 2028 Democratic nominee book 39th by 24-hour volume, across 53 outcomes — a contract not featured in any Oct. 15 edition, in a…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T01:39:00-04:00",
+      "source": "2026-10-15_0139-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_0130-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0130-edt-0",
@@ -15054,36 +15086,6 @@
       ],
       "timestamp": "Oct 14, 2026 · 1:45 PM ET",
       "body": "- **Oddpool raises 3 million dollar seed round and joins Kalshi** — Prediction market data infrastructure startup Oddpool raised a 3 million dollar seed round and subsequently joined Kalshi. The Y Combinator-backed company builds data tools intended to help institutions treat prediction markets as a professional asset class. ([Prediction News](https://predictionnews.com/story/oddpool-raises-3m-seed-then-joins-kalshi))",
-      "image_url": null,
-      "published": "2026-10-14T13:45:00-04:00",
-      "source": "2026-10-14_1345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_1345-edt-12",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1345-edt-12",
-      "title": "Polymarket trending markets for October 14 span Champions League, MLB playoffs and NFL",
-      "content_text": "- **Polymarket trending markets for October 14 span Champions League, MLB playoffs and NFL** — Polymarket's trending markets on October 14 include Manchester City against PSG, Roma against Real Madrid and LASK against Liverpool in the Champions League, the Brewers against the Dodgers in the MLB playoffs, and the Seahawks against the Broncos in the NFL. Popular futures markets include the 2027 NFL champion and the World Series champion. ([Elite Sports NY](https://elitesportsny.com/2026/10/14/polymarket-invite-code/))",
-      "content_html": "<p>- **Polymarket trending markets for October 14 span Champions League, MLB playoffs and NFL** — Polymarket&#x27;s trending markets on October 14 include Manchester City against PSG, Roma against Real Madrid and LASK against Liverpool in the Champions League, the Brewers against the Dodgers in the MLB playoffs, and the Seahawks against the Broncos in the NFL. Popular futures markets include the 2027 NFL champion and the World Series champion. ([Elite Sports NY](https://elitesportsny.com/2026/10/14/polymarket-invite-code/))</p>",
-      "date_published": "2026-10-14T13:45:00-04:00",
-      "date_modified": "2026-10-14T13:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://elitesportsny.com/2026/10/14/polymarket-invite-code/",
-      "links": [
-        "https://elitesportsny.com/2026/10/14/polymarket-invite-code/"
-      ],
-      "timestamp": "Oct 14, 2026 · 1:45 PM ET",
-      "body": "- **Polymarket trending markets for October 14 span Champions League, MLB playoffs and NFL** — Polymarket's trending markets on October 14 include Manchester City against PSG, Roma against Real Madrid and LASK against Liverpool in the Champions League, the Brewers against the Dodgers in the MLB playoffs, and the Seahawks against the Broncos in the NFL. Popular futures markets include the 2027 NFL champion and the World Series champion. ([Elite Sports NY](https://elitesportsny.com/2026/10/14/polymarket-invite-code/))",
       "image_url": null,
       "published": "2026-10-14T13:45:00-04:00",
       "source": "2026-10-14_1345-edt.json",
