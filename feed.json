@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T13:21:21.688656-04:00",
+  "updated": "2026-10-15T13:35:33.168836-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,159 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_1330-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1330-edt-0",
+      "title": "Nevada regulator says there is no plan B if states lose prediction market fight at the Supreme Court",
+      "content_text": "- **Nevada regulator says there is no plan B if states lose prediction market fight at the Supreme Court** — Nevada gaming regulator Dreitzer told a G2E audience the state is not preparing a fallback if states and tribes lose at the Supreme Court, calling Kalshi-style sports contracts illegal sportsbooks and urging regulators to hold the line together. ([Legal Sports Report](https://www.legalsportsreport.com/282066/nevada-regulator-not-planning-for-supreme-court-loss-on-prediction-markets/))",
+      "content_html": "<p>- **Nevada regulator says there is no plan B if states lose prediction market fight at the Supreme Court** — Nevada gaming regulator Dreitzer told a G2E audience the state is not preparing a fallback if states and tribes lose at the Supreme Court, calling Kalshi-style sports contracts illegal sportsbooks and urging regulators to hold the line together. ([Legal Sports Report](https://www.legalsportsreport.com/282066/nevada-regulator-not-planning-for-supreme-court-loss-on-prediction-markets/))</p>",
+      "date_published": "2026-10-15T13:30:00-04:00",
+      "date_modified": "2026-10-15T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://www.legalsportsreport.com/282066/nevada-regulator-not-planning-for-supreme-court-loss-on-prediction-markets/",
+      "links": [
+        "https://www.legalsportsreport.com/282066/nevada-regulator-not-planning-for-supreme-court-loss-on-prediction-markets/"
+      ],
+      "timestamp": "Oct 15, 2026 · 1:30 PM ET",
+      "body": "- **Nevada regulator says there is no plan B if states lose prediction market fight at the Supreme Court** — Nevada gaming regulator Dreitzer told a G2E audience the state is not preparing a fallback if states and tribes lose at the Supreme Court, calling Kalshi-style sports contracts illegal sportsbooks and urging regulators to hold the line together. ([Legal Sports Report](https://www.legalsportsreport.com/282066/nevada-regulator-not-planning-for-supreme-court-loss-on-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-15T13:30:00-04:00",
+      "source": "2026-10-15_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_1330-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1330-edt-1",
+      "title": "Kalshi partners with Signify Group on athlete-harassment protections for traders",
+      "content_text": "- **Kalshi partners with Signify Group on athlete-harassment protections for traders** — Kalshi has partnered with Signify Group to monitor online harassment and threats aimed at athletes, coaches and other sports personnel across major leagues, using its Threat Matrix monitoring, and added a rule against trading-related abuse that can lead to permanent account closure. ([Gambling Insider](https://www.gamblinginsider.com/news/197055/sec-cboe-options-kalshi-polymarket-kentucky-remand))",
+      "content_html": "<p>- **Kalshi partners with Signify Group on athlete-harassment protections for traders** — Kalshi has partnered with Signify Group to monitor online harassment and threats aimed at athletes, coaches and other sports personnel across major leagues, using its Threat Matrix monitoring, and added a rule against trading-related abuse that can lead to permanent account closure. ([Gambling Insider](https://www.gamblinginsider.com/news/197055/sec-cboe-options-kalshi-polymarket-kentucky-remand))</p>",
+      "date_published": "2026-10-15T13:30:00-04:00",
+      "date_modified": "2026-10-15T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.gamblinginsider.com/news/197055/sec-cboe-options-kalshi-polymarket-kentucky-remand",
+      "links": [
+        "https://www.gamblinginsider.com/news/197055/sec-cboe-options-kalshi-polymarket-kentucky-remand"
+      ],
+      "timestamp": "Oct 15, 2026 · 1:30 PM ET",
+      "body": "- **Kalshi partners with Signify Group on athlete-harassment protections for traders** — Kalshi has partnered with Signify Group to monitor online harassment and threats aimed at athletes, coaches and other sports personnel across major leagues, using its Threat Matrix monitoring, and added a rule against trading-related abuse that can lead to permanent account closure. ([Gambling Insider](https://www.gamblinginsider.com/news/197055/sec-cboe-options-kalshi-polymarket-kentucky-remand))",
+      "image_url": null,
+      "published": "2026-10-15T13:30:00-04:00",
+      "source": "2026-10-15_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_1330-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1330-edt-2",
+      "title": "Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds",
+      "content_text": "- **Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds** — A forensic review of two global election markets on Polymarket found more than 600 million dollars in volume, most of it after the races ended and concentrated in long-shot losing candidates, with much of the Ethiopian market activity traced to pairs of accounts trading repeatedly with each other. ([Technologist Mag](https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/))",
+      "content_html": "<p>- **Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds** — A forensic review of two global election markets on Polymarket found more than 600 million dollars in volume, most of it after the races ended and concentrated in long-shot losing candidates, with much of the Ethiopian market activity traced to pairs of accounts trading repeatedly with each other. ([Technologist Mag](https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/))</p>",
+      "date_published": "2026-10-15T13:30:00-04:00",
+      "date_modified": "2026-10-15T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/",
+      "links": [
+        "https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/"
+      ],
+      "timestamp": "Oct 15, 2026 · 1:30 PM ET",
+      "body": "- **Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds** — A forensic review of two global election markets on Polymarket found more than 600 million dollars in volume, most of it after the races ended and concentrated in long-shot losing candidates, with much of the Ethiopian market activity traced to pairs of accounts trading repeatedly with each other. ([Technologist Mag](https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/))",
+      "image_url": null,
+      "published": "2026-10-15T13:30:00-04:00",
+      "source": "2026-10-15_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_1330-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1330-edt-3",
+      "title": "Public and Kalshi launch AI agents that trade prediction market contracts",
+      "content_text": "- **Public and Kalshi launch AI agents that trade prediction market contracts** — Public has integrated with Kalshi to launch AI agents that can trade event contracts and use event probabilities as triggers for traditional portfolio moves, part of a wider push by brokerages to build automated, probability-driven investing tools. ([CVJ.AI](https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/))",
+      "content_html": "<p>- **Public and Kalshi launch AI agents that trade prediction market contracts** — Public has integrated with Kalshi to launch AI agents that can trade event contracts and use event probabilities as triggers for traditional portfolio moves, part of a wider push by brokerages to build automated, probability-driven investing tools. ([CVJ.AI](https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/))</p>",
+      "date_published": "2026-10-15T13:30:00-04:00",
+      "date_modified": "2026-10-15T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/",
+      "links": [
+        "https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/"
+      ],
+      "timestamp": "Oct 15, 2026 · 1:30 PM ET",
+      "body": "- **Public and Kalshi launch AI agents that trade prediction market contracts** — Public has integrated with Kalshi to launch AI agents that can trade event contracts and use event probabilities as triggers for traditional portfolio moves, part of a wider push by brokerages to build automated, probability-driven investing tools. ([CVJ.AI](https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/))",
+      "image_url": null,
+      "published": "2026-10-15T13:30:00-04:00",
+      "source": "2026-10-15_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_1324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1324-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCounter-Strike: Heroic vs. BC.Game Esports draws $306K in 24 hours, with Heroic priced above 99%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads. Polymarket's Stake Pulse Beat III Group D match…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nFed Decision in October volume eases to $3.2M in 24 hours, with No change at 72%\nPolymarket's October Fed book now tops the 24-hour board at $3.2M, down from the $5.3M–$5.5M readings carried earlier today, with No change down from 75% to 72% —…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Counter-Strike: Heroic vs. BC.Game Esports draws $306K in 24 hours, with Heroic priced above 99%<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads. Polymarket&#x27;s Stake Pulse Beat III Group D match…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>Fed Decision in October volume eases to $3.2M in 24 hours, with No change at 72%<br/>Polymarket&#x27;s October Fed book now tops the 24-hour board at $3.2M, down from the $5.3M–$5.5M readings carried earlier today, with No change down from 75% to 72% —…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T13:24:00-04:00",
+      "date_modified": "2026-10-15T13:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Elections",
+        "Gold",
+        "Silver",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://polydict.app/markets",
+      "links": [
+        "https://polydict.app/markets"
+      ],
+      "timestamp": "Oct 15, 2026 · 1:24 PM ET",
+      "body": "Infiniti Briefing\n\nCounter-Strike: Heroic vs. BC.Game Esports draws $306K in 24 hours, with Heroic priced above 99%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads. Polymarket's Stake Pulse Beat III Group D match…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nFed Decision in October volume eases to $3.2M in 24 hours, with No change at 72%\nPolymarket's October Fed book now tops the 24-hour board at $3.2M, down from the $5.3M–$5.5M readings carried earlier today, with No change down from 75% to 72% —…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T13:24:00-04:00",
+      "source": "2026-10-15_1324-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_1315-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1315-edt-0",
@@ -4472,160 +4625,6 @@
       "image_url": null,
       "published": "2026-10-15T08:45:00-04:00",
       "source": "2026-10-15_0845-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0845-edt-12",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-12",
-      "title": "Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports",
-      "content_text": "- **Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports** — SportsBookReview reports four tribal nations are launching prediction apps on Kalshi infrastructure, including PokkeTrades, Greenville, AIR Markets and Sovereign Edge. Each venture owns its app and customer relationships while Kalshi handles matching, clearing, custody and surveillance. ([SportsBookReview](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))",
-      "content_html": "<p>- **Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports** — SportsBookReview reports four tribal nations are launching prediction apps on Kalshi infrastructure, including PokkeTrades, Greenville, AIR Markets and Sovereign Edge. Each venture owns its app and customer relationships while Kalshi handles matching, clearing, custody and surveillance. ([SportsBookReview](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))</p>",
-      "date_published": "2026-10-15T08:45:00-04:00",
-      "date_modified": "2026-10-15T08:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/",
-      "links": [
-        "https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/"
-      ],
-      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
-      "body": "- **Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports** — SportsBookReview reports four tribal nations are launching prediction apps on Kalshi infrastructure, including PokkeTrades, Greenville, AIR Markets and Sovereign Edge. Each venture owns its app and customer relationships while Kalshi handles matching, clearing, custody and surveillance. ([SportsBookReview](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))",
-      "image_url": null,
-      "published": "2026-10-15T08:45:00-04:00",
-      "source": "2026-10-15_0845-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0845-edt-13",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-13",
-      "title": "Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges",
-      "content_text": "- **Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges** — Her Campus at Northeastern examines how Kalshi grew rapidly this summer and why its federal CFTC classification has created debate over use in states where traditional sports betting is illegal. The piece notes Kalshi contracts trade between one and 99 cents across sports, entertainment and other events. ([Her Campus](https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/))",
-      "content_html": "<p>- **Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges** — Her Campus at Northeastern examines how Kalshi grew rapidly this summer and why its federal CFTC classification has created debate over use in states where traditional sports betting is illegal. The piece notes Kalshi contracts trade between one and 99 cents across sports, entertainment and other events. ([Her Campus](https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/))</p>",
-      "date_published": "2026-10-15T08:45:00-04:00",
-      "date_modified": "2026-10-15T08:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/",
-      "links": [
-        "https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/"
-      ],
-      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
-      "body": "- **Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges** — Her Campus at Northeastern examines how Kalshi grew rapidly this summer and why its federal CFTC classification has created debate over use in states where traditional sports betting is illegal. The piece notes Kalshi contracts trade between one and 99 cents across sports, entertainment and other events. ([Her Campus](https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/))",
-      "image_url": null,
-      "published": "2026-10-15T08:45:00-04:00",
-      "source": "2026-10-15_0845-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_0839-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_0839-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPolymarket US traded $11.6B in the 30 days to Oct. 14, up 139% on the prior 30 days, for a 12% share\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh venue snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://defirate.com/prediction-markets/volume/polymarket-us/\n\nKalshi prices an October hike two ways on its own board: 30.8% in one market, 31.5% in another\nDeFi Rate flags the same-venue split between two contracts that settle on the same October outcome — a pricing detail not featured in any earlier edition today, in an…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket US traded $11.6B in the 30 days to Oct. 14, up 139% on the prior 30 days, for a 12% share<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh venue snapshot leads, in a volume/metrics category different from the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://defirate.com/prediction-markets/volume/polymarket-us/<br/><br/>Kalshi prices an October hike two ways on its own board: 30.8% in one market, 31.5% in another<br/>DeFi Rate flags the same-venue split between two contracts that settle on the same October outcome — a pricing detail not featured in any earlier edition today, in an…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/?ref=steemhunt<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T08:39:00-04:00",
-      "date_modified": "2026-10-15T08:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/polymarket-us/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/polymarket-us/",
-        "https://defirate.com/?ref=steemhunt"
-      ],
-      "timestamp": "Oct 15, 2026 · 8:39 AM ET",
-      "body": "Infiniti Briefing\n\nPolymarket US traded $11.6B in the 30 days to Oct. 14, up 139% on the prior 30 days, for a 12% share\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh venue snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://defirate.com/prediction-markets/volume/polymarket-us/\n\nKalshi prices an October hike two ways on its own board: 30.8% in one market, 31.5% in another\nDeFi Rate flags the same-venue split between two contracts that settle on the same October outcome — a pricing detail not featured in any earlier edition today, in an…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T08:39:00-04:00",
-      "source": "2026-10-15_0839-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0830-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0830-edt-0",
-      "title": "Polymarket Senate and oil combo market leads with oil above 85 dollars and a Democratic Senate at 52 percent",
-      "content_text": "- **Polymarket Senate and oil combo market leads with oil above 85 dollars and a Democratic Senate at 52 percent** — Polymarket's combined market on Senate control and oil below 85 dollars before the midterms has traded 234,500 dollars since launching on October 12. The leading outcome pairs oil at or above 85 dollars with a Democratic Senate at 52 percent, followed by oil above 85 dollars with a Republican Senate at 26 percent. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms))",
-      "content_html": "<p>- **Polymarket Senate and oil combo market leads with oil above 85 dollars and a Democratic Senate at 52 percent** — Polymarket&#x27;s combined market on Senate control and oil below 85 dollars before the midterms has traded 234,500 dollars since launching on October 12. The leading outcome pairs oil at or above 85 dollars with a Democratic Senate at 52 percent, followed by oil above 85 dollars with a Republican Senate at 26 percent. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms))</p>",
-      "date_published": "2026-10-15T08:30:00-04:00",
-      "date_modified": "2026-10-15T08:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms",
-      "links": [
-        "https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms"
-      ],
-      "timestamp": "Oct 15, 2026 · 8:30 AM ET",
-      "body": "- **Polymarket Senate and oil combo market leads with oil above 85 dollars and a Democratic Senate at 52 percent** — Polymarket's combined market on Senate control and oil below 85 dollars before the midterms has traded 234,500 dollars since launching on October 12. The leading outcome pairs oil at or above 85 dollars with a Democratic Senate at 52 percent, followed by oil above 85 dollars with a Republican Senate at 26 percent. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms))",
-      "image_url": null,
-      "published": "2026-10-15T08:30:00-04:00",
-      "source": "2026-10-15_0830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0830-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0830-edt-1",
-      "title": "Polymarket second Senate and oil combo prices oil above 80 dollars with a Democratic Senate at 55 percent",
-      "content_text": "- **Polymarket second Senate and oil combo prices oil above 80 dollars with a Democratic Senate at 55 percent** — A separate Polymarket combo contract using an 80 dollar oil threshold has traded 195,700 dollars since October 12. Its leading outcome is oil at or above 80 dollars paired with a Democratic Senate at 55 percent, with the Republican Senate version at 31 percent. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-oil-above-or-below-80-before-the-midterms))",
-      "content_html": "<p>- **Polymarket second Senate and oil combo prices oil above 80 dollars with a Democratic Senate at 55 percent** — A separate Polymarket combo contract using an 80 dollar oil threshold has traded 195,700 dollars since October 12. Its leading outcome is oil at or above 80 dollars paired with a Democratic Senate at 55 percent, with the Republican Senate version at 31 percent. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-oil-above-or-below-80-before-the-midterms))</p>",
-      "date_published": "2026-10-15T08:30:00-04:00",
-      "date_modified": "2026-10-15T08:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/who-wins-the-senate-pending-oil-above-or-below-80-before-the-midterms",
-      "links": [
-        "https://polymarket.com/event/who-wins-the-senate-pending-oil-above-or-below-80-before-the-midterms"
-      ],
-      "timestamp": "Oct 15, 2026 · 8:30 AM ET",
-      "body": "- **Polymarket second Senate and oil combo prices oil above 80 dollars with a Democratic Senate at 55 percent** — A separate Polymarket combo contract using an 80 dollar oil threshold has traded 195,700 dollars since October 12. Its leading outcome is oil at or above 80 dollars paired with a Democratic Senate at 55 percent, with the Republican Senate version at 31 percent. ([Polymarket](https://polymarket.com/event/who-wins-the-senate-pending-oil-above-or-below-80-before-the-midterms))",
-      "image_url": null,
-      "published": "2026-10-15T08:30:00-04:00",
-      "source": "2026-10-15_0830-edt.json",
       "matches_facebook_post": false
     }
   ]
