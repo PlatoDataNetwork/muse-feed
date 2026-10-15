@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-14T23:05:56.100855-04:00",
+  "updated": "2026-10-14T23:11:33.777236-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-14_2309-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_2309-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNATO–Russia direct clash contract draws $146K in 24 hours, pricing Dec. 31 at 25% and Oct. 31 at 7%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh geopolitics snapshot leads, in a political/geopolitics category different…\n#PredictionMarkets\nhttps://actionnetwork.com/prediction-markets/markets\n\nBrewers push the NLCS Game 3 lead to 6-2 in the bottom of the ninth\nMilwaukee added a ninth-inning run to stretch the 5-2, top-of-the-ninth reading carried in the previous edition to 6-2, outhitting Los Angeles 9-5 and standing three…\n#PredictionMarkets\nhttps://sportradar.com/?q=6602424554397449743\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>NATO–Russia direct clash contract draws $146K in 24 hours, pricing Dec. 31 at 25% and Oct. 31 at 7%<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh geopolitics snapshot leads, in a political/geopolitics category different…<br/>#PredictionMarkets<br/>https://actionnetwork.com/prediction-markets/markets<br/><br/>Brewers push the NLCS Game 3 lead to 6-2 in the bottom of the ninth<br/>Milwaukee added a ninth-inning run to stretch the 5-2, top-of-the-ninth reading carried in the previous edition to 6-2, outhitting Los Angeles 9-5 and standing three…<br/>#PredictionMarkets<br/>https://sportradar.com/?q=6602424554397449743<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-14T23:09:00-04:00",
+      "date_modified": "2026-10-14T23:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Oil",
+        "Natural Gas"
+      ],
+      "image": null,
+      "external_url": "https://actionnetwork.com/prediction-markets/markets",
+      "links": [
+        "https://actionnetwork.com/prediction-markets/markets",
+        "https://sportradar.com/?q=6602424554397449743"
+      ],
+      "timestamp": "Oct 14, 2026 · 11:09 PM ET",
+      "body": "Infiniti Briefing\n\nNATO–Russia direct clash contract draws $146K in 24 hours, pricing Dec. 31 at 25% and Oct. 31 at 7%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh geopolitics snapshot leads, in a political/geopolitics category different…\n#PredictionMarkets\nhttps://actionnetwork.com/prediction-markets/markets\n\nBrewers push the NLCS Game 3 lead to 6-2 in the bottom of the ninth\nMilwaukee added a ninth-inning run to stretch the 5-2, top-of-the-ninth reading carried in the previous edition to 6-2, outhitting Los Angeles 9-5 and standing three…\n#PredictionMarkets\nhttps://sportradar.com/?q=6602424554397449743\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-14T23:09:00-04:00",
+      "source": "2026-10-14_2309-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-14_2300-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2300-edt-0",
@@ -15032,35 +15066,6 @@
       ],
       "timestamp": "Oct 14, 2026 · 11:45 AM ET",
       "body": "- **Kalshi October Fed hike odds rise to 46 percent after hotter CPI data** — HokaNews, citing Coin Bureau figures, reports Kalshi odds for a 25 basis point October Fed hike climbed from 21 percent to 46 percent after hotter than expected U.S. CPI data. The probability of rates staying unchanged fell from 79 percent to 55 percent in the same move. ([HokaNews](https://www.hokanews.com/2026/10/markets-reprice-october-fed-rate-hike.html))",
-      "image_url": null,
-      "published": "2026-10-14T11:45:00-04:00",
-      "source": "2026-10-14_1145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_1145-edt-8",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_1145-edt-8",
-      "title": "September CPI release expected to test Kalshi year-end inflation pricing",
-      "content_text": "- **September CPI release expected to test Kalshi year-end inflation pricing** — Odaily reports the September CPI release is expected tonight, with headline inflation possibly reaching a five-month high. Kalshi traders put the chance of core inflation falling below 2.2 percent by year-end at only 6 percent. ([Odaily](https://www.odaily.news/en/post/5213373))",
-      "content_html": "<p>- **September CPI release expected to test Kalshi year-end inflation pricing** — Odaily reports the September CPI release is expected tonight, with headline inflation possibly reaching a five-month high. Kalshi traders put the chance of core inflation falling below 2.2 percent by year-end at only 6 percent. ([Odaily](https://www.odaily.news/en/post/5213373))</p>",
-      "date_published": "2026-10-14T11:45:00-04:00",
-      "date_modified": "2026-10-14T11:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.odaily.news/en/post/5213373",
-      "links": [
-        "https://www.odaily.news/en/post/5213373"
-      ],
-      "timestamp": "Oct 14, 2026 · 11:45 AM ET",
-      "body": "- **September CPI release expected to test Kalshi year-end inflation pricing** — Odaily reports the September CPI release is expected tonight, with headline inflation possibly reaching a five-month high. Kalshi traders put the chance of core inflation falling below 2.2 percent by year-end at only 6 percent. ([Odaily](https://www.odaily.news/en/post/5213373))",
       "image_url": null,
       "published": "2026-10-14T11:45:00-04:00",
       "source": "2026-10-14_1145-edt.json",
