@@ -1,41 +1,41 @@
 {
   "window_start": "2026-10-14T10:42:00-04:00",
   "window_end": "2026-10-15T10:42:00-04:00",
-  "updated_at": "2026-10-15T02:01:22.988273-04:00",
-  "elapsed_hours": 15.32,
-  "remaining_hours": 8.68,
+  "updated_at": "2026-10-15T02:16:27.198443-04:00",
+  "elapsed_hours": 15.57,
+  "remaining_hours": 8.43,
   "channels": {
     "chat_briefings": {
-      "count": 61,
+      "count": 62,
       "per_hour": 3.98,
       "platform_cost_usd": 0
     },
     "website_items": {
-      "count": 604,
+      "count": 614,
       "per_hour": 39.42,
       "platform_cost_usd": 0
     },
     "facebook_page_posts": {
       "count": 5,
-      "per_hour": 0.33,
+      "per_hour": 0.32,
       "platform_cost_usd": 0
     },
     "x_threads": {
       "count": 5,
-      "per_hour": 0.33,
+      "per_hour": 0.32,
       "tweets_est": 15,
       "platform_cost_usd": 3.0,
       "note": "mirrors FB posts; tweets est. at 3/thread, $0.20/tweet"
     },
     "telegram_messages": {
       "count": 5,
-      "per_hour": 0.33,
+      "per_hour": 0.32,
       "platform_cost_usd": 0,
       "note": "mirrors FB posts"
     }
   },
-  "website_feed_items_total": 665,
-  "website_feed_items_per_hour": 43.4,
+  "website_feed_items_total": 676,
+  "website_feed_items_per_hour": 43.41,
   "feed_items_on_site_now": 500,
   "muse_usage": {
     "baseline_weekly_pct": 12,
@@ -56,7 +56,7 @@
     "website_feed_items": 1042,
     "facebook_page_posts": 8,
     "x_threads": 8,
-    "x_cost_usd": 4.7,
+    "x_cost_usd": 4.62,
     "muse_weekly_pct": 9
   }
 }
