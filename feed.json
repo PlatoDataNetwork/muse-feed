@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T08:34:47.331395-04:00",
+  "updated": "2026-10-15T08:49:36.623121-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,459 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_0845-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-0",
+      "title": "Sixth Circuit ruling on Kalshi sports contracts deepens federal circuit split, JD Supra analysis finds",
+      "content_text": "- **Sixth Circuit ruling on Kalshi sports contracts deepens federal circuit split, JD Supra analysis finds** — A Blank Rome analysis published on JD Supra says the Sixth Circuit held Kalshi sports-event contracts are not swaps and that federal commodities law does not preempt Ohio and Tennessee gambling laws. The analysis says the decision widens a split with other circuits over state oversight of prediction markets. ([JD Supra](https://www.jdsupra.com/legalnews/sixth-circuit-deepens-circuit-split-2315499/))",
+      "content_html": "<p>- **Sixth Circuit ruling on Kalshi sports contracts deepens federal circuit split, JD Supra analysis finds** — A Blank Rome analysis published on JD Supra says the Sixth Circuit held Kalshi sports-event contracts are not swaps and that federal commodities law does not preempt Ohio and Tennessee gambling laws. The analysis says the decision widens a split with other circuits over state oversight of prediction markets. ([JD Supra](https://www.jdsupra.com/legalnews/sixth-circuit-deepens-circuit-split-2315499/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.jdsupra.com/legalnews/sixth-circuit-deepens-circuit-split-2315499/",
+      "links": [
+        "https://www.jdsupra.com/legalnews/sixth-circuit-deepens-circuit-split-2315499/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Sixth Circuit ruling on Kalshi sports contracts deepens federal circuit split, JD Supra analysis finds** — A Blank Rome analysis published on JD Supra says the Sixth Circuit held Kalshi sports-event contracts are not swaps and that federal commodities law does not preempt Ohio and Tennessee gambling laws. The analysis says the decision widens a split with other circuits over state oversight of prediction markets. ([JD Supra](https://www.jdsupra.com/legalnews/sixth-circuit-deepens-circuit-split-2315499/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-1",
+      "title": "Yahoo Finance ends Polymarket prediction market data partnership, Bonus.com reports",
+      "content_text": "- **Yahoo Finance ends Polymarket prediction market data partnership, Bonus.com reports** — Bonus.com reports Yahoo Finance has ended its data partnership with Polymarket while keeping an advertising relationship. The report notes Kalshi has media data agreements with brands including CNN, CNBC and Fox, and that no replacement Polymarket placement was announced. ([Bonus.com](https://www.bonus.com/news/yahoo-finance-ends-polymarket-data-partnership-keeps-advertising-relationship/))",
+      "content_html": "<p>- **Yahoo Finance ends Polymarket prediction market data partnership, Bonus.com reports** — Bonus.com reports Yahoo Finance has ended its data partnership with Polymarket while keeping an advertising relationship. The report notes Kalshi has media data agreements with brands including CNN, CNBC and Fox, and that no replacement Polymarket placement was announced. ([Bonus.com](https://www.bonus.com/news/yahoo-finance-ends-polymarket-data-partnership-keeps-advertising-relationship/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/yahoo-finance-ends-polymarket-data-partnership-keeps-advertising-relationship/",
+      "links": [
+        "https://www.bonus.com/news/yahoo-finance-ends-polymarket-data-partnership-keeps-advertising-relationship/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Yahoo Finance ends Polymarket prediction market data partnership, Bonus.com reports** — Bonus.com reports Yahoo Finance has ended its data partnership with Polymarket while keeping an advertising relationship. The report notes Kalshi has media data agreements with brands including CNN, CNBC and Fox, and that no replacement Polymarket placement was announced. ([Bonus.com](https://www.bonus.com/news/yahoo-finance-ends-polymarket-data-partnership-keeps-advertising-relationship/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-2",
+      "title": "Polymarket tests Protocol V2 with a single positions contract and pUSD collateral",
+      "content_text": "- **Polymarket tests Protocol V2 with a single positions contract and pUSD collateral** — Traders Union reports Polymarket is testing Protocol V2 canary markets through October 30, using a single ERC-1155 positions contract and pUSD collateral. A tentative switch for new markets is described for November 2, alongside a new oracle aggregator and Data API V2. ([Traders Union](https://tradersunion.com/news/cryptocurrency-news/show/3682282-polymarket-v2-upgrade-prediction-markets/))",
+      "content_html": "<p>- **Polymarket tests Protocol V2 with a single positions contract and pUSD collateral** — Traders Union reports Polymarket is testing Protocol V2 canary markets through October 30, using a single ERC-1155 positions contract and pUSD collateral. A tentative switch for new markets is described for November 2, alongside a new oracle aggregator and Data API V2. ([Traders Union](https://tradersunion.com/news/cryptocurrency-news/show/3682282-polymarket-v2-upgrade-prediction-markets/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://tradersunion.com/news/cryptocurrency-news/show/3682282-polymarket-v2-upgrade-prediction-markets/",
+      "links": [
+        "https://tradersunion.com/news/cryptocurrency-news/show/3682282-polymarket-v2-upgrade-prediction-markets/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Polymarket tests Protocol V2 with a single positions contract and pUSD collateral** — Traders Union reports Polymarket is testing Protocol V2 canary markets through October 30, using a single ERC-1155 positions contract and pUSD collateral. A tentative switch for new markets is described for November 2, alongside a new oracle aggregator and Data API V2. ([Traders Union](https://tradersunion.com/news/cryptocurrency-news/show/3682282-polymarket-v2-upgrade-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-3",
+      "title": "Kalshi adds Brier scores, low-volume tags and live activity feeds to midterm markets",
+      "content_text": "- **Kalshi adds Brier scores, low-volume tags and live activity feeds to midterm markets** — Kalshi says its midterm election markets now show Brier scores for forecast accuracy, tags for liquidity and volume, and real-time activity feeds. The company says election trading volume in 2026 is higher than in 2024 and that viewers outnumber traders five to one on midterm markets. ([Kalshi News](https://news.kalshi.com/p/kalshi-adds-context-to-2026-midterm-election-markets))",
+      "content_html": "<p>- **Kalshi adds Brier scores, low-volume tags and live activity feeds to midterm markets** — Kalshi says its midterm election markets now show Brier scores for forecast accuracy, tags for liquidity and volume, and real-time activity feeds. The company says election trading volume in 2026 is higher than in 2024 and that viewers outnumber traders five to one on midterm markets. ([Kalshi News](https://news.kalshi.com/p/kalshi-adds-context-to-2026-midterm-election-markets))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://news.kalshi.com/p/kalshi-adds-context-to-2026-midterm-election-markets",
+      "links": [
+        "https://news.kalshi.com/p/kalshi-adds-context-to-2026-midterm-election-markets"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Kalshi adds Brier scores, low-volume tags and live activity feeds to midterm markets** — Kalshi says its midterm election markets now show Brier scores for forecast accuracy, tags for liquidity and volume, and real-time activity feeds. The company says election trading volume in 2026 is higher than in 2024 and that viewers outnumber traders five to one on midterm markets. ([Kalshi News](https://news.kalshi.com/p/kalshi-adds-context-to-2026-midterm-election-markets))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-4",
+      "title": "Polymarket 2026 best-performer market leads with the S and P 500 at 69 percent over Bitcoin and gold",
+      "content_text": "- **Polymarket 2026 best-performer market leads with the S and P 500 at 69 percent over Bitcoin and gold** — Polymarket's Bitcoin vs. Gold vs. S and P 500 market for 2026 puts the S and P 500 in the lead at 69 percent, followed by Bitcoin at 20 percent. The market page reports about 944,800 dollars in total trading volume since launch. ([Polymarket](https://polymarket.com/event/bitcoin-vs-gold-vs-sp-500-in-2026/will-bitcoin-have-the-best-performance-in-2026-749))",
+      "content_html": "<p>- **Polymarket 2026 best-performer market leads with the S and P 500 at 69 percent over Bitcoin and gold** — Polymarket&#x27;s Bitcoin vs. Gold vs. S and P 500 market for 2026 puts the S and P 500 in the lead at 69 percent, followed by Bitcoin at 20 percent. The market page reports about 944,800 dollars in total trading volume since launch. ([Polymarket](https://polymarket.com/event/bitcoin-vs-gold-vs-sp-500-in-2026/will-bitcoin-have-the-best-performance-in-2026-749))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/bitcoin-vs-gold-vs-sp-500-in-2026/will-bitcoin-have-the-best-performance-in-2026-749",
+      "links": [
+        "https://polymarket.com/event/bitcoin-vs-gold-vs-sp-500-in-2026/will-bitcoin-have-the-best-performance-in-2026-749"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Polymarket 2026 best-performer market leads with the S and P 500 at 69 percent over Bitcoin and gold** — Polymarket's Bitcoin vs. Gold vs. S and P 500 market for 2026 puts the S and P 500 in the lead at 69 percent, followed by Bitcoin at 20 percent. The market page reports about 944,800 dollars in total trading volume since launch. ([Polymarket](https://polymarket.com/event/bitcoin-vs-gold-vs-sp-500-in-2026/will-bitcoin-have-the-best-performance-in-2026-749))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-5",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-5",
+      "title": "Polymarket oil market puts a move to 100 dollars a barrel at 38 percent odds",
+      "content_text": "- **Polymarket oil market puts a move to 100 dollars a barrel at 38 percent odds** — Blockchain.News reports Polymarket traders pricing a 38 percent chance of oil reaching 100 dollars a barrel by the end of the month. The report links the pricing to geopolitical risk and supply concerns affecting energy markets. ([Blockchain.News](https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds))",
+      "content_html": "<p>- **Polymarket oil market puts a move to 100 dollars a barrel at 38 percent odds** — Blockchain.News reports Polymarket traders pricing a 38 percent chance of oil reaching 100 dollars a barrel by the end of the month. The report links the pricing to geopolitical risk and supply concerns affecting energy markets. ([Blockchain.News](https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds",
+      "links": [
+        "https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Polymarket oil market puts a move to 100 dollars a barrel at 38 percent odds** — Blockchain.News reports Polymarket traders pricing a 38 percent chance of oil reaching 100 dollars a barrel by the end of the month. The report links the pricing to geopolitical risk and supply concerns affecting energy markets. ([Blockchain.News](https://blockchainnews.azurewebsites.net/flashnews/polymarket-oil-hits-100-38-odds))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-6",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-6",
+      "title": "Polymarket Titans against Colts board prices Indianapolis at 75 percent for Sunday",
+      "content_text": "- **Polymarket Titans against Colts board prices Indianapolis at 75 percent for Sunday** — Rocky Top Insider reports Polymarket prices the Colts at 75 percent and the Titans at 26 percent ahead of their Sunday matchup, with Indianapolis also favored on the 6.5-point spread market. The prices are for the Week 6 game in Indianapolis. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/14/polymarket-promo-code-rocky-titans-vs-colts-week-6-odds/))",
+      "content_html": "<p>- **Polymarket Titans against Colts board prices Indianapolis at 75 percent for Sunday** — Rocky Top Insider reports Polymarket prices the Colts at 75 percent and the Titans at 26 percent ahead of their Sunday matchup, with Indianapolis also favored on the 6.5-point spread market. The prices are for the Week 6 game in Indianapolis. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/14/polymarket-promo-code-rocky-titans-vs-colts-week-6-odds/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.rockytopinsider.com/2026/10/14/polymarket-promo-code-rocky-titans-vs-colts-week-6-odds/",
+      "links": [
+        "https://www.rockytopinsider.com/2026/10/14/polymarket-promo-code-rocky-titans-vs-colts-week-6-odds/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Polymarket Titans against Colts board prices Indianapolis at 75 percent for Sunday** — Rocky Top Insider reports Polymarket prices the Colts at 75 percent and the Titans at 26 percent ahead of their Sunday matchup, with Indianapolis also favored on the 6.5-point spread market. The prices are for the Week 6 game in Indianapolis. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/14/polymarket-promo-code-rocky-titans-vs-colts-week-6-odds/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-7",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-7",
+      "title": "Covers touchdown picks for Seahawks against Broncos cite Kalshi prices for Smith-Njigba and Dobbins",
+      "content_text": "- **Covers touchdown picks for Seahawks against Broncos cite Kalshi prices for Smith-Njigba and Dobbins** — Covers lists Kalshi probabilities of 47 percent for Jaxon Smith-Njigba and 34 percent for J.K. Dobbins to score a touchdown in Thursday night's Seahawks against Broncos game. Smith-Njigba is also listed at 14 percent to score the first touchdown. ([Covers](https://www.covers.com/nfl/seahawks-vs-broncos-anytime-touchdown-scorer-prediction-props-week-6-2026))",
+      "content_html": "<p>- **Covers touchdown picks for Seahawks against Broncos cite Kalshi prices for Smith-Njigba and Dobbins** — Covers lists Kalshi probabilities of 47 percent for Jaxon Smith-Njigba and 34 percent for J.K. Dobbins to score a touchdown in Thursday night&#x27;s Seahawks against Broncos game. Smith-Njigba is also listed at 14 percent to score the first touchdown. ([Covers](https://www.covers.com/nfl/seahawks-vs-broncos-anytime-touchdown-scorer-prediction-props-week-6-2026))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/nfl/seahawks-vs-broncos-anytime-touchdown-scorer-prediction-props-week-6-2026",
+      "links": [
+        "https://www.covers.com/nfl/seahawks-vs-broncos-anytime-touchdown-scorer-prediction-props-week-6-2026"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Covers touchdown picks for Seahawks against Broncos cite Kalshi prices for Smith-Njigba and Dobbins** — Covers lists Kalshi probabilities of 47 percent for Jaxon Smith-Njigba and 34 percent for J.K. Dobbins to score a touchdown in Thursday night's Seahawks against Broncos game. Smith-Njigba is also listed at 14 percent to score the first touchdown. ([Covers](https://www.covers.com/nfl/seahawks-vs-broncos-anytime-touchdown-scorer-prediction-props-week-6-2026))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-8",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-8",
+      "title": "New York governor markets price Hochul above 90 percent on Polymarket and Kalshi after debate",
+      "content_text": "- **New York governor markets price Hochul above 90 percent on Polymarket and Kalshi after debate** — NorthJersey.com reports Polymarket prices Kathy Hochul at 95 percent and Kalshi at 93.3 percent to win the New York governor race against Bruce Blakeman. Polling averages cited in the report show Hochul leading by about 12.8 points ahead of the November 3 election. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/14/who-won-ny-governor-debate-hochul-blakeman-polls-odds/92247166007/))",
+      "content_html": "<p>- **New York governor markets price Hochul above 90 percent on Polymarket and Kalshi after debate** — NorthJersey.com reports Polymarket prices Kathy Hochul at 95 percent and Kalshi at 93.3 percent to win the New York governor race against Bruce Blakeman. Polling averages cited in the report show Hochul leading by about 12.8 points ahead of the November 3 election. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/14/who-won-ny-governor-debate-hochul-blakeman-polls-odds/92247166007/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.northjersey.com/story/news/2026/10/14/who-won-ny-governor-debate-hochul-blakeman-polls-odds/92247166007/",
+      "links": [
+        "https://www.northjersey.com/story/news/2026/10/14/who-won-ny-governor-debate-hochul-blakeman-polls-odds/92247166007/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **New York governor markets price Hochul above 90 percent on Polymarket and Kalshi after debate** — NorthJersey.com reports Polymarket prices Kathy Hochul at 95 percent and Kalshi at 93.3 percent to win the New York governor race against Bruce Blakeman. Polling averages cited in the report show Hochul leading by about 12.8 points ahead of the November 3 election. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/14/who-won-ny-governor-debate-hochul-blakeman-polls-odds/92247166007/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-9",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-9",
+      "title": "Survivor 51 prediction markets remain absent from Kalshi and Polymarket for October 2026",
+      "content_text": "- **Survivor 51 prediction markets remain absent from Kalshi and Polymarket for October 2026** — Action Network reports Survivor 51 markets are currently nowhere to be found on Kalshi, Polymarket or other top prediction markets. Earlier seasons had drawn high-volume Kalshi markets for contestant eliminations and phrases spoken by the host. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))",
+      "content_html": "<p>- **Survivor 51 prediction markets remain absent from Kalshi and Polymarket for October 2026** — Action Network reports Survivor 51 markets are currently nowhere to be found on Kalshi, Polymarket or other top prediction markets. Earlier seasons had drawn high-volume Kalshi markets for contestant eliminations and phrases spoken by the host. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets",
+      "links": [
+        "https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Survivor 51 prediction markets remain absent from Kalshi and Polymarket for October 2026** — Action Network reports Survivor 51 markets are currently nowhere to be found on Kalshi, Polymarket or other top prediction markets. Earlier seasons had drawn high-volume Kalshi markets for contestant eliminations and phrases spoken by the host. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-10",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-10",
+      "title": "Reuters reports booming midterm election betting on Polymarket and Kalshi amid integrity concerns",
+      "content_text": "- **Reuters reports booming midterm election betting on Polymarket and Kalshi amid integrity concerns** — Reuters, via the Los Angeles Post, reports betting on the U.S. midterm elections has surged this year on Polymarket and Kalshi. The report notes platforms say they guard against misconduct and refer cases to authorities, while a Reuters Ipsos poll found most Americans oppose election wagering. ([LA Post / Reuters](https://www.lapost.com/content/inside-the-booming-market-for-us-midterm-election-bets))",
+      "content_html": "<p>- **Reuters reports booming midterm election betting on Polymarket and Kalshi amid integrity concerns** — Reuters, via the Los Angeles Post, reports betting on the U.S. midterm elections has surged this year on Polymarket and Kalshi. The report notes platforms say they guard against misconduct and refer cases to authorities, while a Reuters Ipsos poll found most Americans oppose election wagering. ([LA Post / Reuters](https://www.lapost.com/content/inside-the-booming-market-for-us-midterm-election-bets))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.lapost.com/content/inside-the-booming-market-for-us-midterm-election-bets",
+      "links": [
+        "https://www.lapost.com/content/inside-the-booming-market-for-us-midterm-election-bets"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Reuters reports booming midterm election betting on Polymarket and Kalshi amid integrity concerns** — Reuters, via the Los Angeles Post, reports betting on the U.S. midterm elections has surged this year on Polymarket and Kalshi. The report notes platforms say they guard against misconduct and refer cases to authorities, while a Reuters Ipsos poll found most Americans oppose election wagering. ([LA Post / Reuters](https://www.lapost.com/content/inside-the-booming-market-for-us-midterm-election-bets))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-11",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-11",
+      "title": "Novig funding round would quadruple its valuation as larger rivals pursue billion-dollar raises",
+      "content_text": "- **Novig funding round would quadruple its valuation as larger rivals pursue billion-dollar raises** — Front Office Sports reports Novig is raising funding that would quadruple its valuation, after more than 105 million dollars raised to date. The report also cites advanced Kalshi talks to raise about 1 billion dollars near a 40 billion dollar valuation and a Polymarket round near 21 billion dollars. ([Front Office Sports](https://frontofficesports.com/article/novig-to-quadruple-valuation-with-new-funding-round/))",
+      "content_html": "<p>- **Novig funding round would quadruple its valuation as larger rivals pursue billion-dollar raises** — Front Office Sports reports Novig is raising funding that would quadruple its valuation, after more than 105 million dollars raised to date. The report also cites advanced Kalshi talks to raise about 1 billion dollars near a 40 billion dollar valuation and a Polymarket round near 21 billion dollars. ([Front Office Sports](https://frontofficesports.com/article/novig-to-quadruple-valuation-with-new-funding-round/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://frontofficesports.com/article/novig-to-quadruple-valuation-with-new-funding-round/",
+      "links": [
+        "https://frontofficesports.com/article/novig-to-quadruple-valuation-with-new-funding-round/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Novig funding round would quadruple its valuation as larger rivals pursue billion-dollar raises** — Front Office Sports reports Novig is raising funding that would quadruple its valuation, after more than 105 million dollars raised to date. The report also cites advanced Kalshi talks to raise about 1 billion dollars near a 40 billion dollar valuation and a Polymarket round near 21 billion dollars. ([Front Office Sports](https://frontofficesports.com/article/novig-to-quadruple-valuation-with-new-funding-round/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-12",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-12",
+      "title": "Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports",
+      "content_text": "- **Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports** — SportsBookReview reports four tribal nations are launching prediction apps on Kalshi infrastructure, including PokkeTrades, Greenville, AIR Markets and Sovereign Edge. Each venture owns its app and customer relationships while Kalshi handles matching, clearing, custody and surveillance. ([SportsBookReview](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))",
+      "content_html": "<p>- **Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports** — SportsBookReview reports four tribal nations are launching prediction apps on Kalshi infrastructure, including PokkeTrades, Greenville, AIR Markets and Sovereign Edge. Each venture owns its app and customer relationships while Kalshi handles matching, clearing, custody and surveillance. ([SportsBookReview](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/",
+      "links": [
+        "https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Four tribal nations launch prediction apps built on Kalshi infrastructure, SportsBookReview reports** — SportsBookReview reports four tribal nations are launching prediction apps on Kalshi infrastructure, including PokkeTrades, Greenville, AIR Markets and Sovereign Edge. Each venture owns its app and customer relationships while Kalshi handles matching, clearing, custody and surveillance. ([SportsBookReview](https://www.sportsbookreview.com/news/kalshi-partners-with-tribal-nations-oct-9-2026/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_0845-edt-13",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0845-edt-13",
+      "title": "Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges",
+      "content_text": "- **Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges** — Her Campus at Northeastern examines how Kalshi grew rapidly this summer and why its federal CFTC classification has created debate over use in states where traditional sports betting is illegal. The piece notes Kalshi contracts trade between one and 99 cents across sports, entertainment and other events. ([Her Campus](https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/))",
+      "content_html": "<p>- **Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges** — Her Campus at Northeastern examines how Kalshi grew rapidly this summer and why its federal CFTC classification has created debate over use in states where traditional sports betting is illegal. The piece notes Kalshi contracts trade between one and 99 cents across sports, entertainment and other events. ([Her Campus](https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/))</p>",
+      "date_published": "2026-10-15T08:45:00-04:00",
+      "date_modified": "2026-10-15T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/",
+      "links": [
+        "https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 AM ET",
+      "body": "- **Student analysis examines Kalshi legal debate as sports contracts face state gambling challenges** — Her Campus at Northeastern examines how Kalshi grew rapidly this summer and why its federal CFTC classification has created debate over use in states where traditional sports betting is illegal. The piece notes Kalshi contracts trade between one and 99 cents across sports, entertainment and other events. ([Her Campus](https://www.hercampus.com/school/northeastern/kalshis-legal-gamble/))",
+      "image_url": null,
+      "published": "2026-10-15T08:45:00-04:00",
+      "source": "2026-10-15_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_0839-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_0839-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPolymarket US traded $11.6B in the 30 days to Oct. 14, up 139% on the prior 30 days, for a 12% share\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh venue snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://defirate.com/prediction-markets/volume/polymarket-us/\n\nKalshi prices an October hike two ways on its own board: 30.8% in one market, 31.5% in another\nDeFi Rate flags the same-venue split between two contracts that settle on the same October outcome — a pricing detail not featured in any earlier edition today, in an…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket US traded $11.6B in the 30 days to Oct. 14, up 139% on the prior 30 days, for a 12% share<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh venue snapshot leads, in a volume/metrics category different from the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://defirate.com/prediction-markets/volume/polymarket-us/<br/><br/>Kalshi prices an October hike two ways on its own board: 30.8% in one market, 31.5% in another<br/>DeFi Rate flags the same-venue split between two contracts that settle on the same October outcome — a pricing detail not featured in any earlier edition today, in an…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/?ref=steemhunt<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T08:39:00-04:00",
+      "date_modified": "2026-10-15T08:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/prediction-markets/volume/polymarket-us/",
+      "links": [
+        "https://defirate.com/prediction-markets/volume/polymarket-us/",
+        "https://defirate.com/?ref=steemhunt"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:39 AM ET",
+      "body": "Infiniti Briefing\n\nPolymarket US traded $11.6B in the 30 days to Oct. 14, up 139% on the prior 30 days, for a 12% share\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh venue snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://defirate.com/prediction-markets/volume/polymarket-us/\n\nKalshi prices an October hike two ways on its own board: 30.8% in one market, 31.5% in another\nDeFi Rate flags the same-venue split between two contracts that settle on the same October outcome — a pricing detail not featured in any earlier edition today, in an…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/?ref=steemhunt\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T08:39:00-04:00",
+      "source": "2026-10-15_0839-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_0830-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0830-edt-0",
@@ -14713,450 +15166,6 @@
       "image_url": null,
       "published": "2026-10-14T21:30:00-04:00",
       "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2130-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2130-edt-1",
-      "title": "Kalshi reportedly in advanced talks to raise about 1 billion dollars at a 40 billion dollar valuation",
-      "content_text": "- **Kalshi reportedly in advanced talks to raise about 1 billion dollars at a 40 billion dollar valuation** — CoinGabbar reported Kalshi is in advanced talks to raise about 1 billion dollars at a valuation near 40 billion dollars, up from 22 billion dollars in May 2026, with Sequoia Capital, Wellington Management, Tiger Global and Dragoneer among the investors in discussions. The report also noted Kalshi is ending its volume incentive program no earlier than October 13. ([CoinGabbar](https://www.coingabbar.com/en/kalshi-prediction-market-news-funding-valuation-october-13))",
-      "content_html": "<p>- **Kalshi reportedly in advanced talks to raise about 1 billion dollars at a 40 billion dollar valuation** — CoinGabbar reported Kalshi is in advanced talks to raise about 1 billion dollars at a valuation near 40 billion dollars, up from 22 billion dollars in May 2026, with Sequoia Capital, Wellington Management, Tiger Global and Dragoneer among the investors in discussions. The report also noted Kalshi is ending its volume incentive program no earlier than October 13. ([CoinGabbar](https://www.coingabbar.com/en/kalshi-prediction-market-news-funding-valuation-october-13))</p>",
-      "date_published": "2026-10-14T21:30:00-04:00",
-      "date_modified": "2026-10-14T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.coingabbar.com/en/kalshi-prediction-market-news-funding-valuation-october-13",
-      "links": [
-        "https://www.coingabbar.com/en/kalshi-prediction-market-news-funding-valuation-october-13"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:30 PM ET",
-      "body": "- **Kalshi reportedly in advanced talks to raise about 1 billion dollars at a 40 billion dollar valuation** — CoinGabbar reported Kalshi is in advanced talks to raise about 1 billion dollars at a valuation near 40 billion dollars, up from 22 billion dollars in May 2026, with Sequoia Capital, Wellington Management, Tiger Global and Dragoneer among the investors in discussions. The report also noted Kalshi is ending its volume incentive program no earlier than October 13. ([CoinGabbar](https://www.coingabbar.com/en/kalshi-prediction-market-news-funding-valuation-october-13))",
-      "image_url": null,
-      "published": "2026-10-14T21:30:00-04:00",
-      "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2130-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2130-edt-2",
-      "title": "Macquarie forecast puts 2026 prediction market taker volume on track for 187 billion dollars",
-      "content_text": "- **Macquarie forecast puts 2026 prediction market taker volume on track for 187 billion dollars** — Sigma reported Macquarie expects prediction market taker volume to reach about 187 billion dollars in 2026, after total volume hit 20.1 billion dollars in September, up 1,079 percent year on year. Sports event contracts accounted for 79 percent of September volume on the largest prediction market in the analysis. ([Sigma](https://sigma.world/news/prediction-market-volume-187b-2026-report/))",
-      "content_html": "<p>- **Macquarie forecast puts 2026 prediction market taker volume on track for 187 billion dollars** — Sigma reported Macquarie expects prediction market taker volume to reach about 187 billion dollars in 2026, after total volume hit 20.1 billion dollars in September, up 1,079 percent year on year. Sports event contracts accounted for 79 percent of September volume on the largest prediction market in the analysis. ([Sigma](https://sigma.world/news/prediction-market-volume-187b-2026-report/))</p>",
-      "date_published": "2026-10-14T21:30:00-04:00",
-      "date_modified": "2026-10-14T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://sigma.world/news/prediction-market-volume-187b-2026-report/",
-      "links": [
-        "https://sigma.world/news/prediction-market-volume-187b-2026-report/"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:30 PM ET",
-      "body": "- **Macquarie forecast puts 2026 prediction market taker volume on track for 187 billion dollars** — Sigma reported Macquarie expects prediction market taker volume to reach about 187 billion dollars in 2026, after total volume hit 20.1 billion dollars in September, up 1,079 percent year on year. Sports event contracts accounted for 79 percent of September volume on the largest prediction market in the analysis. ([Sigma](https://sigma.world/news/prediction-market-volume-187b-2026-report/))",
-      "image_url": null,
-      "published": "2026-10-14T21:30:00-04:00",
-      "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2130-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2130-edt-3",
-      "title": "S&P Global survey finds 70 percent of prediction market users traded sports contracts",
-      "content_text": "- **S&P Global survey finds 70 percent of prediction market users traded sports contracts** — S&P Global's third quarter 2026 consumer survey found 70 percent of prediction market users traded sports contracts, ahead of 36 percent for financial outcomes and 33 percent for political outcomes. Only 10 percent of respondents said they had traded on a yes or no exchange over the past year. ([SCCG Management](https://sccgmanagement.com/sccg-articles/2026/10/14/sp-global-survey-data-shows-sports-contracts-drive-most-prediction-market-activity/))",
-      "content_html": "<p>- **S&amp;P Global survey finds 70 percent of prediction market users traded sports contracts** — S&amp;P Global&#x27;s third quarter 2026 consumer survey found 70 percent of prediction market users traded sports contracts, ahead of 36 percent for financial outcomes and 33 percent for political outcomes. Only 10 percent of respondents said they had traded on a yes or no exchange over the past year. ([SCCG Management](https://sccgmanagement.com/sccg-articles/2026/10/14/sp-global-survey-data-shows-sports-contracts-drive-most-prediction-market-activity/))</p>",
-      "date_published": "2026-10-14T21:30:00-04:00",
-      "date_modified": "2026-10-14T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://sccgmanagement.com/sccg-articles/2026/10/14/sp-global-survey-data-shows-sports-contracts-drive-most-prediction-market-activity/",
-      "links": [
-        "https://sccgmanagement.com/sccg-articles/2026/10/14/sp-global-survey-data-shows-sports-contracts-drive-most-prediction-market-activity/"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:30 PM ET",
-      "body": "- **S&P Global survey finds 70 percent of prediction market users traded sports contracts** — S&P Global's third quarter 2026 consumer survey found 70 percent of prediction market users traded sports contracts, ahead of 36 percent for financial outcomes and 33 percent for political outcomes. Only 10 percent of respondents said they had traded on a yes or no exchange over the past year. ([SCCG Management](https://sccgmanagement.com/sccg-articles/2026/10/14/sp-global-survey-data-shows-sports-contracts-drive-most-prediction-market-activity/))",
-      "image_url": null,
-      "published": "2026-10-14T21:30:00-04:00",
-      "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2130-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2130-edt-4",
-      "title": "Kalshi midterm board updated October 14 puts Democrats at 90.3 percent for the House and 61.5 percent for the Senate",
-      "content_text": "- **Kalshi midterm board updated October 14 puts Democrats at 90.3 percent for the House and 61.5 percent for the Senate** — A Kalshi midterm dashboard updated October 14 at 5:40 PM ET priced Democrats at 90.3 percent to win the House and 61.5 percent to win the Senate. Its balance of power market put a Democratic sweep of both chambers at 61.5 percent ahead of the November 3 election. ([Election Central](https://www.uspresidentialelectionnews.com/2026-midterm-election-odds/))",
-      "content_html": "<p>- **Kalshi midterm board updated October 14 puts Democrats at 90.3 percent for the House and 61.5 percent for the Senate** — A Kalshi midterm dashboard updated October 14 at 5:40 PM ET priced Democrats at 90.3 percent to win the House and 61.5 percent to win the Senate. Its balance of power market put a Democratic sweep of both chambers at 61.5 percent ahead of the November 3 election. ([Election Central](https://www.uspresidentialelectionnews.com/2026-midterm-election-odds/))</p>",
-      "date_published": "2026-10-14T21:30:00-04:00",
-      "date_modified": "2026-10-14T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.uspresidentialelectionnews.com/2026-midterm-election-odds/",
-      "links": [
-        "https://www.uspresidentialelectionnews.com/2026-midterm-election-odds/"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:30 PM ET",
-      "body": "- **Kalshi midterm board updated October 14 puts Democrats at 90.3 percent for the House and 61.5 percent for the Senate** — A Kalshi midterm dashboard updated October 14 at 5:40 PM ET priced Democrats at 90.3 percent to win the House and 61.5 percent to win the Senate. Its balance of power market put a Democratic sweep of both chambers at 61.5 percent ahead of the November 3 election. ([Election Central](https://www.uspresidentialelectionnews.com/2026-midterm-election-odds/))",
-      "image_url": null,
-      "published": "2026-10-14T21:30:00-04:00",
-      "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2130-edt-5",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2130-edt-5",
-      "title": "Polymarket Manchester City against Paris Saint-Germain market drew about 4.4 million dollars in volume",
-      "content_text": "- **Polymarket Manchester City against Paris Saint-Germain market drew about 4.4 million dollars in volume** — Polymarket's market on the October 14 Champions League game between Manchester City and Paris Saint-Germain generated about 4.4 million dollars in total trading volume across moneyline, spread, total and player prop markets. The game was scheduled for 3:00 PM ET on October 14. ([Polymarket](https://polymarket.com/sports/ucl/ucl-mnc-psg-2026-10-14))",
-      "content_html": "<p>- **Polymarket Manchester City against Paris Saint-Germain market drew about 4.4 million dollars in volume** — Polymarket&#x27;s market on the October 14 Champions League game between Manchester City and Paris Saint-Germain generated about 4.4 million dollars in total trading volume across moneyline, spread, total and player prop markets. The game was scheduled for 3:00 PM ET on October 14. ([Polymarket](https://polymarket.com/sports/ucl/ucl-mnc-psg-2026-10-14))</p>",
-      "date_published": "2026-10-14T21:30:00-04:00",
-      "date_modified": "2026-10-14T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/sports/ucl/ucl-mnc-psg-2026-10-14",
-      "links": [
-        "https://polymarket.com/sports/ucl/ucl-mnc-psg-2026-10-14"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:30 PM ET",
-      "body": "- **Polymarket Manchester City against Paris Saint-Germain market drew about 4.4 million dollars in volume** — Polymarket's market on the October 14 Champions League game between Manchester City and Paris Saint-Germain generated about 4.4 million dollars in total trading volume across moneyline, spread, total and player prop markets. The game was scheduled for 3:00 PM ET on October 14. ([Polymarket](https://polymarket.com/sports/ucl/ucl-mnc-psg-2026-10-14))",
-      "image_url": null,
-      "published": "2026-10-14T21:30:00-04:00",
-      "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2130-edt-6",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2130-edt-6",
-      "title": "Dot Esports tests eight prediction market apps for October 2026, with Kalshi and Polymarket leading on depth",
-      "content_text": "- **Dot Esports tests eight prediction market apps for October 2026, with Kalshi and Polymarket leading on depth** — Dot Esports said it tested eight prediction market apps for October 2026, checking pricing, funding, payouts, market depth and settlement rules. It counted 3,997 markets on Kalshi's sports page and roughly 3,500 markets on Polymarket's politics page. ([Dot Esports](https://dotesports.com/prediction-markets/best-prediction-market-apps))",
-      "content_html": "<p>- **Dot Esports tests eight prediction market apps for October 2026, with Kalshi and Polymarket leading on depth** — Dot Esports said it tested eight prediction market apps for October 2026, checking pricing, funding, payouts, market depth and settlement rules. It counted 3,997 markets on Kalshi&#x27;s sports page and roughly 3,500 markets on Polymarket&#x27;s politics page. ([Dot Esports](https://dotesports.com/prediction-markets/best-prediction-market-apps))</p>",
-      "date_published": "2026-10-14T21:30:00-04:00",
-      "date_modified": "2026-10-14T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://dotesports.com/prediction-markets/best-prediction-market-apps",
-      "links": [
-        "https://dotesports.com/prediction-markets/best-prediction-market-apps"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:30 PM ET",
-      "body": "- **Dot Esports tests eight prediction market apps for October 2026, with Kalshi and Polymarket leading on depth** — Dot Esports said it tested eight prediction market apps for October 2026, checking pricing, funding, payouts, market depth and settlement rules. It counted 3,997 markets on Kalshi's sports page and roughly 3,500 markets on Polymarket's politics page. ([Dot Esports](https://dotesports.com/prediction-markets/best-prediction-market-apps))",
-      "image_url": null,
-      "published": "2026-10-14T21:30:00-04:00",
-      "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2130-edt-7",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2130-edt-7",
-      "title": "Legal Sports Report updates its October 14 roundup of the best prediction market apps",
-      "content_text": "- **Legal Sports Report updates its October 14 roundup of the best prediction market apps** — Legal Sports Report published its updated October 14, 2026 guide to the best prediction market apps, covering platforms that let users trade on elections, sports results, economic indicators and cultural events rather than placing fixed bets against a house. The guide compares the top apps available in each state. ([Legal Sports Report](https://www.legalsportsreport.com/prediction-markets/))",
-      "content_html": "<p>- **Legal Sports Report updates its October 14 roundup of the best prediction market apps** — Legal Sports Report published its updated October 14, 2026 guide to the best prediction market apps, covering platforms that let users trade on elections, sports results, economic indicators and cultural events rather than placing fixed bets against a house. The guide compares the top apps available in each state. ([Legal Sports Report](https://www.legalsportsreport.com/prediction-markets/))</p>",
-      "date_published": "2026-10-14T21:30:00-04:00",
-      "date_modified": "2026-10-14T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.legalsportsreport.com/prediction-markets/",
-      "links": [
-        "https://www.legalsportsreport.com/prediction-markets/"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:30 PM ET",
-      "body": "- **Legal Sports Report updates its October 14 roundup of the best prediction market apps** — Legal Sports Report published its updated October 14, 2026 guide to the best prediction market apps, covering platforms that let users trade on elections, sports results, economic indicators and cultural events rather than placing fixed bets against a house. The guide compares the top apps available in each state. ([Legal Sports Report](https://www.legalsportsreport.com/prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-14T21:30:00-04:00",
-      "source": "2026-10-14_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_2124-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_2124-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPolymarket takes its Dutch ban to court in The Hague over a €420,000 penalty\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory item leads, in a category different from the previous…\n#PredictionMarkets #Polymarket #Elections\nhttps://www.ccn.com/news/crypto/polymarket-dutch-court-challenge-gambling-penalty/\n\nKalshi set back-to-back daily volume records of $3.91B and $3.96B, with combos near 70% of flow\nThe Oct. 10 and Oct. 11 records beat the prior $3.68B high from Oct. 4, with combo contracts at about $2.80B and $2.75B on the two days — a daily-record breakdown not…\n#PredictionMarkets #Kalshi\nhttps://infobets.com/news/kalshi-parlay-volume-record\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket takes its Dutch ban to court in The Hague over a €420,000 penalty<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory item leads, in a category different from the previous…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://www.ccn.com/news/crypto/polymarket-dutch-court-challenge-gambling-penalty/<br/><br/>Kalshi set back-to-back daily volume records of $3.91B and $3.96B, with combos near 70% of flow<br/>The Oct. 10 and Oct. 11 records beat the prior $3.68B high from Oct. 4, with combo contracts at about $2.80B and $2.75B on the two days — a daily-record breakdown not…<br/>#PredictionMarkets #Kalshi<br/>https://infobets.com/news/kalshi-parlay-volume-record<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-14T21:24:00-04:00",
-      "date_modified": "2026-10-14T21:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.ccn.com/news/crypto/polymarket-dutch-court-challenge-gambling-penalty/",
-      "links": [
-        "https://www.ccn.com/news/crypto/polymarket-dutch-court-challenge-gambling-penalty/",
-        "https://infobets.com/news/kalshi-parlay-volume-record"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:24 PM ET",
-      "body": "Infiniti Briefing\n\nPolymarket takes its Dutch ban to court in The Hague over a €420,000 penalty\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh legal/regulatory item leads, in a category different from the previous…\n#PredictionMarkets #Polymarket #Elections\nhttps://www.ccn.com/news/crypto/polymarket-dutch-court-challenge-gambling-penalty/\n\nKalshi set back-to-back daily volume records of $3.91B and $3.96B, with combos near 70% of flow\nThe Oct. 10 and Oct. 11 records beat the prior $3.68B high from Oct. 4, with combo contracts at about $2.80B and $2.75B on the two days — a daily-record breakdown not…\n#PredictionMarkets #Kalshi\nhttps://infobets.com/news/kalshi-parlay-volume-record\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-14T21:24:00-04:00",
-      "source": "2026-10-14_2124-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2115-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2115-edt-0",
-      "title": "Polymarket launches Senate three-way combo market for Texas, Kansas and Nebraska",
-      "content_text": "- **Polymarket launches Senate three-way combo market for Texas, Kansas and Nebraska** — Polymarket listed a new Senate three-way combo market covering Texas, Kansas and Nebraska on October 14, with eight possible outcomes. The Republicans sweep outcome led early pricing at 59 percent. ([Polymarket](https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska))",
-      "content_html": "<p>- **Polymarket launches Senate three-way combo market for Texas, Kansas and Nebraska** — Polymarket listed a new Senate three-way combo market covering Texas, Kansas and Nebraska on October 14, with eight possible outcomes. The Republicans sweep outcome led early pricing at 59 percent. ([Polymarket](https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska))</p>",
-      "date_published": "2026-10-14T21:15:00-04:00",
-      "date_modified": "2026-10-14T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska",
-      "links": [
-        "https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:15 PM ET",
-      "body": "- **Polymarket launches Senate three-way combo market for Texas, Kansas and Nebraska** — Polymarket listed a new Senate three-way combo market covering Texas, Kansas and Nebraska on October 14, with eight possible outcomes. The Republicans sweep outcome led early pricing at 59 percent. ([Polymarket](https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska))",
-      "image_url": null,
-      "published": "2026-10-14T21:15:00-04:00",
-      "source": "2026-10-14_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2115-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2115-edt-1",
-      "title": "Polymarket lists new Jynxzi LoL Tournament winner market",
-      "content_text": "- **Polymarket lists new Jynxzi LoL Tournament winner market** — Polymarket launched a winner market for the Jynxzi LoL Tournament on October 14 with eight possible outcomes. The market is newly created, so early prices reflect initial trading as participants set the first odds. ([Polymarket](https://polymarket.com/event/jynxzi-lol-tournament-winner?marketSlug=will-team-jojo-win-the-jynxzi-lol-tournament&outcomeIndex=0))",
-      "content_html": "<p>- **Polymarket lists new Jynxzi LoL Tournament winner market** — Polymarket launched a winner market for the Jynxzi LoL Tournament on October 14 with eight possible outcomes. The market is newly created, so early prices reflect initial trading as participants set the first odds. ([Polymarket](https://polymarket.com/event/jynxzi-lol-tournament-winner?marketSlug=will-team-jojo-win-the-jynxzi-lol-tournament&amp;outcomeIndex=0))</p>",
-      "date_published": "2026-10-14T21:15:00-04:00",
-      "date_modified": "2026-10-14T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/jynxzi-lol-tournament-winner?marketSlug=will-team-jojo-win-the-jynxzi-lol-tournament&outcomeIndex=0",
-      "links": [
-        "https://polymarket.com/event/jynxzi-lol-tournament-winner?marketSlug=will-team-jojo-win-the-jynxzi-lol-tournament&outcomeIndex=0"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:15 PM ET",
-      "body": "- **Polymarket lists new Jynxzi LoL Tournament winner market** — Polymarket launched a winner market for the Jynxzi LoL Tournament on October 14 with eight possible outcomes. The market is newly created, so early prices reflect initial trading as participants set the first odds. ([Polymarket](https://polymarket.com/event/jynxzi-lol-tournament-winner?marketSlug=will-team-jojo-win-the-jynxzi-lol-tournament&outcomeIndex=0))",
-      "image_url": null,
-      "published": "2026-10-14T21:15:00-04:00",
-      "source": "2026-10-14_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2115-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2115-edt-2",
-      "title": "GamingToday review notes PredictIt stays focused on politics and elections",
-      "content_text": "- **GamingToday review notes PredictIt stays focused on politics and elections** — A GamingToday review of PredictIt notes the platform focuses almost entirely on politics and elections, unlike broader platforms such as Kalshi that also cover sports, crypto and entertainment. The review covers how its election markets work and why fees matter when holding positions to settlement. ([GamingToday](https://www.gamingtoday.com/prediction-markets/predictit/))",
-      "content_html": "<p>- **GamingToday review notes PredictIt stays focused on politics and elections** — A GamingToday review of PredictIt notes the platform focuses almost entirely on politics and elections, unlike broader platforms such as Kalshi that also cover sports, crypto and entertainment. The review covers how its election markets work and why fees matter when holding positions to settlement. ([GamingToday](https://www.gamingtoday.com/prediction-markets/predictit/))</p>",
-      "date_published": "2026-10-14T21:15:00-04:00",
-      "date_modified": "2026-10-14T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "PredictIt",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.gamingtoday.com/prediction-markets/predictit/",
-      "links": [
-        "https://www.gamingtoday.com/prediction-markets/predictit/"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:15 PM ET",
-      "body": "- **GamingToday review notes PredictIt stays focused on politics and elections** — A GamingToday review of PredictIt notes the platform focuses almost entirely on politics and elections, unlike broader platforms such as Kalshi that also cover sports, crypto and entertainment. The review covers how its election markets work and why fees matter when holding positions to settlement. ([GamingToday](https://www.gamingtoday.com/prediction-markets/predictit/))",
-      "image_url": null,
-      "published": "2026-10-14T21:15:00-04:00",
-      "source": "2026-10-14_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2115-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2115-edt-3",
-      "title": "Kalshi newsroom puts October Fed hold at 66 percent and a 25 basis point hike at 33 percent",
-      "content_text": "- **Kalshi newsroom puts October Fed hold at 66 percent and a 25 basis point hike at 33 percent** — Kalshi's newsroom reported its October Federal Reserve market at 66 percent for no change and 33 percent for a 25 basis point hike following the latest inflation report. Traders are watching upcoming policymaker comments ahead of the October meeting. ([Kalshi News](https://news.kalshi.com/p/october-fed-rate-hike-odds-jump-to-33-after-inflation-report))",
-      "content_html": "<p>- **Kalshi newsroom puts October Fed hold at 66 percent and a 25 basis point hike at 33 percent** — Kalshi&#x27;s newsroom reported its October Federal Reserve market at 66 percent for no change and 33 percent for a 25 basis point hike following the latest inflation report. Traders are watching upcoming policymaker comments ahead of the October meeting. ([Kalshi News](https://news.kalshi.com/p/october-fed-rate-hike-odds-jump-to-33-after-inflation-report))</p>",
-      "date_published": "2026-10-14T21:15:00-04:00",
-      "date_modified": "2026-10-14T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://news.kalshi.com/p/october-fed-rate-hike-odds-jump-to-33-after-inflation-report",
-      "links": [
-        "https://news.kalshi.com/p/october-fed-rate-hike-odds-jump-to-33-after-inflation-report"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:15 PM ET",
-      "body": "- **Kalshi newsroom puts October Fed hold at 66 percent and a 25 basis point hike at 33 percent** — Kalshi's newsroom reported its October Federal Reserve market at 66 percent for no change and 33 percent for a 25 basis point hike following the latest inflation report. Traders are watching upcoming policymaker comments ahead of the October meeting. ([Kalshi News](https://news.kalshi.com/p/october-fed-rate-hike-odds-jump-to-33-after-inflation-report))",
-      "image_url": null,
-      "published": "2026-10-14T21:15:00-04:00",
-      "source": "2026-10-14_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-14_2109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-14_2109-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nCombined industry volume reaches $25.6B for the week, the highest weekly total in the PM Pulse series\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/\n\nKennesaw State vs. Missouri State is No. 3 on the board at $966K in 24 hours, with Kennesaw State at 57c on both venues\nDeFi Rate's latest board puts the matchup third by 24-hour volume, with the Kennesaw State -2.5 spread at 52c and the Over 51.5 total at 54c — a priced, high-volume…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Combined industry volume reaches $25.6B for the week, the highest weekly total in the PM Pulse series<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/<br/><br/>Kennesaw State vs. Missouri State is No. 3 on the board at $966K in 24 hours, with Kennesaw State at 57c on both venues<br/>DeFi Rate&#x27;s latest board puts the matchup third by 24-hour volume, with the Kennesaw State -2.5 spread at 52c and the Over 51.5 total at 54c — a priced, high-volume…<br/>#PredictionMarkets<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-14T21:09:00-04:00",
-      "date_modified": "2026-10-14T21:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/",
-      "links": [
-        "https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/",
-        "https://defirate.com/odds/"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:09 PM ET",
-      "body": "Infiniti Briefing\n\nCombined industry volume reaches $25.6B for the week, the highest weekly total in the PM Pulse series\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh volume snapshot leads, in a volume/metrics category different from the…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/\n\nKennesaw State vs. Missouri State is No. 3 on the board at $966K in 24 hours, with Kennesaw State at 57c on both venues\nDeFi Rate's latest board puts the matchup third by 24-hour volume, with the Kennesaw State -2.5 spread at 52c and the Over 51.5 total at 54c — a priced, high-volume…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-14T21:09:00-04:00",
-      "source": "2026-10-14_2109-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2100-edt-0",
-      "title": "Polymarket October Fed hike odds surge to 43 percent after CPI hits 3.7 percent",
-      "content_text": "- **Polymarket October Fed hike odds surge to 43 percent after CPI hits 3.7 percent** — Polymarket odds for a 25 basis point October hike rose about 25 points to 43 percent after September CPI came in at 3.7 percent, above the 3.6 percent forecast. No change remained the favorite at 57 percent ahead of the October 27 to 28 meeting. ([BitRss](https://bitrss.com/october-fed-rate-hike-odds-surge-to-43-as-u-s-cpi-inflation-hits-3-7-260827))",
-      "content_html": "<p>- **Polymarket October Fed hike odds surge to 43 percent after CPI hits 3.7 percent** — Polymarket odds for a 25 basis point October hike rose about 25 points to 43 percent after September CPI came in at 3.7 percent, above the 3.6 percent forecast. No change remained the favorite at 57 percent ahead of the October 27 to 28 meeting. ([BitRss](https://bitrss.com/october-fed-rate-hike-odds-surge-to-43-as-u-s-cpi-inflation-hits-3-7-260827))</p>",
-      "date_published": "2026-10-14T21:00:00-04:00",
-      "date_modified": "2026-10-14T21:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/october-fed-rate-hike-odds-surge-to-43-as-u-s-cpi-inflation-hits-3-7-260827",
-      "links": [
-        "https://bitrss.com/october-fed-rate-hike-odds-surge-to-43-as-u-s-cpi-inflation-hits-3-7-260827"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:00 PM ET",
-      "body": "- **Polymarket October Fed hike odds surge to 43 percent after CPI hits 3.7 percent** — Polymarket odds for a 25 basis point October hike rose about 25 points to 43 percent after September CPI came in at 3.7 percent, above the 3.6 percent forecast. No change remained the favorite at 57 percent ahead of the October 27 to 28 meeting. ([BitRss](https://bitrss.com/october-fed-rate-hike-odds-surge-to-43-as-u-s-cpi-inflation-hits-3-7-260827))",
-      "image_url": null,
-      "published": "2026-10-14T21:00:00-04:00",
-      "source": "2026-10-14_2100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2100-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2100-edt-1",
-      "title": "Novig launches nationwide sports prediction market after CFTC contract market approval",
-      "content_text": "- **Novig launches nationwide sports prediction market after CFTC contract market approval** — Novig said its sports prediction market is launching nationwide after CFTC approval as a designated contract market, putting it under federal oversight instead of state by state sportsbook licensing. The company said the launch adds instant live trading, more payment methods and expanded compliance and surveillance controls, with users required to be at least 21. ([DeviceDaily](https://www.devicedaily.com/?p=437872))",
-      "content_html": "<p>- **Novig launches nationwide sports prediction market after CFTC contract market approval** — Novig said its sports prediction market is launching nationwide after CFTC approval as a designated contract market, putting it under federal oversight instead of state by state sportsbook licensing. The company said the launch adds instant live trading, more payment methods and expanded compliance and surveillance controls, with users required to be at least 21. ([DeviceDaily](https://www.devicedaily.com/?p=437872))</p>",
-      "date_published": "2026-10-14T21:00:00-04:00",
-      "date_modified": "2026-10-14T21:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.devicedaily.com/?p=437872",
-      "links": [
-        "https://www.devicedaily.com/?p=437872"
-      ],
-      "timestamp": "Oct 14, 2026 · 9:00 PM ET",
-      "body": "- **Novig launches nationwide sports prediction market after CFTC contract market approval** — Novig said its sports prediction market is launching nationwide after CFTC approval as a designated contract market, putting it under federal oversight instead of state by state sportsbook licensing. The company said the launch adds instant live trading, more payment methods and expanded compliance and surveillance controls, with users required to be at least 21. ([DeviceDaily](https://www.devicedaily.com/?p=437872))",
-      "image_url": null,
-      "published": "2026-10-14T21:00:00-04:00",
-      "source": "2026-10-14_2100-edt.json",
       "matches_facebook_post": false
     }
   ]
