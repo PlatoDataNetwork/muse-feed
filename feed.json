@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T18:00:17.954745-04:00",
+  "updated": "2026-10-15T18:11:35.711650-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-15_1809-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1809-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBest AI model on LiveBench (Mathematics) at end of October: Anthropic leads at 79%, OpenAI at 23% on $51.8K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a tech category different from the previous three…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-mathematics-end-of-october/will-deepseek-have-the-best-ai-model-on-livebench-mathematics-at-the-end-of-october-2026-20260811194842702\n\nAFC East winner: Buffalo Bills at 66% on Kalshi and 64% on Polymarket, Patriots at 30% and 31%\nPrices read Oct. 15 at 19:21 UTC put Buffalo down 4 points since the Oct. 9 reading, with the Jets at 4%/3% and Miami at 1% on both venues, on $59,588 traded over the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Best AI model on LiveBench (Mathematics) at end of October: Anthropic leads at 79%, OpenAI at 23% on $51.8K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a tech category different from the previous three…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-mathematics-end-of-october/will-deepseek-have-the-best-ai-model-on-livebench-mathematics-at-the-end-of-october-2026-20260811194842702<br/><br/>AFC East winner: Buffalo Bills at 66% on Kalshi and 64% on Polymarket, Patriots at 30% and 31%<br/>Prices read Oct. 15 at 19:21 UTC put Buffalo down 4 points since the Oct. 9 reading, with the Jets at 4%/3% and Miami at 1% on both venues, on $59,588 traded over the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T18:09:00-04:00",
+      "date_modified": "2026-10-15T18:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-mathematics-end-of-october/will-deepseek-have-the-best-ai-model-on-livebench-mathematics-at-the-end-of-october-2026-20260811194842702",
+      "links": [
+        "https://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-mathematics-end-of-october/will-deepseek-have-the-best-ai-model-on-livebench-mathematics-at-the-end-of-october-2026-20260811194842702",
+        "https://ipredicta.co/insights/nfl-division-winners-2026/"
+      ],
+      "timestamp": "Oct 15, 2026 · 6:09 PM ET",
+      "body": "Infiniti Briefing\n\nBest AI model on LiveBench (Mathematics) at end of October: Anthropic leads at 79%, OpenAI at 23% on $51.8K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a tech category different from the previous three…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/which-company-has-the-best-ai-model-on-livebench-mathematics-end-of-october/will-deepseek-have-the-best-ai-model-on-livebench-mathematics-at-the-end-of-october-2026-20260811194842702\n\nAFC East winner: Buffalo Bills at 66% on Kalshi and 64% on Polymarket, Patriots at 30% and 31%\nPrices read Oct. 15 at 19:21 UTC put Buffalo down 4 points since the Oct. 9 reading, with the Jets at 4%/3% and Miami at 1% on both venues, on $59,588 traded over the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T18:09:00-04:00",
+      "source": "2026-10-15_1809-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-15_1754-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1754-edt",
@@ -4617,35 +4649,6 @@
       ],
       "timestamp": "Oct 15, 2026 · 10:15 AM ET",
       "body": "- **Esports.gg promo guide maps state availability for Kalshi, Polymarket US, ProphetX and Novig** — Esports.gg summarizes the current US position for major prediction platforms, noting ProphetX stopped sports services in Connecticut in October and Novig is unavailable in Arizona, Michigan and Nevada. The guide says availability varies by platform, contract type and state. ([Esports.gg](https://esports.gg/guides/predictions/prediction-market-promos/))",
-      "image_url": null,
-      "published": "2026-10-15T10:15:00-04:00",
-      "source": "2026-10-15_1015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1015-edt-6",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1015-edt-6",
-      "title": "DraftKings builds its own exchange while FanDuel relies on partners, GamblingSite comparison finds",
-      "content_text": "- **DraftKings builds its own exchange while FanDuel relies on partners, GamblingSite comparison finds** — GamblingSite compares the two sportsbook operators, saying DraftKings launched its own DKeX exchange in June using technology from its Railbird acquisition. FanDuel Predicts uses CME Group for financial contracts and Crypto.com for sports and novelty contracts. ([GamblingSite](https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/))",
-      "content_html": "<p>- **DraftKings builds its own exchange while FanDuel relies on partners, GamblingSite comparison finds** — GamblingSite compares the two sportsbook operators, saying DraftKings launched its own DKeX exchange in June using technology from its Railbird acquisition. FanDuel Predicts uses CME Group for financial contracts and Crypto.com for sports and novelty contracts. ([GamblingSite](https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/))</p>",
-      "date_published": "2026-10-15T10:15:00-04:00",
-      "date_modified": "2026-10-15T10:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/",
-      "links": [
-        "https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/"
-      ],
-      "timestamp": "Oct 15, 2026 · 10:15 AM ET",
-      "body": "- **DraftKings builds its own exchange while FanDuel relies on partners, GamblingSite comparison finds** — GamblingSite compares the two sportsbook operators, saying DraftKings launched its own DKeX exchange in June using technology from its Railbird acquisition. FanDuel Predicts uses CME Group for financial contracts and Crypto.com for sports and novelty contracts. ([GamblingSite](https://www.gamblingsite.com/blog/draftkings-fanduel-prediction-markets/))",
       "image_url": null,
       "published": "2026-10-15T10:15:00-04:00",
       "source": "2026-10-15_1015-edt.json",
