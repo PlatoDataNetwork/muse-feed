@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T16:36:36.561131-04:00",
+  "updated": "2026-10-15T16:52:59.663585-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,159 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_1645-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1645-edt-0",
+      "title": "Google Ads now requires a CFTC license for domestic prediction market ads",
+      "content_text": "- **Google Ads now requires a CFTC license for domestic prediction market ads** — Google has added a dedicated prediction markets section to its advertising policy, requiring domestic operators to hold a CFTC Designated Contract Market license to run ads. The policy permits ads for economics, sports and current-events contracts only in listed locations, favoring licensed platforms such as Kalshi and Polymarket US over unlicensed rivals. ([Prediction News](https://predictionnews.com/story/google-ads-adds-prediction-markets-section-to-advertising-policies))",
+      "content_html": "<p>- **Google Ads now requires a CFTC license for domestic prediction market ads** — Google has added a dedicated prediction markets section to its advertising policy, requiring domestic operators to hold a CFTC Designated Contract Market license to run ads. The policy permits ads for economics, sports and current-events contracts only in listed locations, favoring licensed platforms such as Kalshi and Polymarket US over unlicensed rivals. ([Prediction News](https://predictionnews.com/story/google-ads-adds-prediction-markets-section-to-advertising-policies))</p>",
+      "date_published": "2026-10-15T16:45:00-04:00",
+      "date_modified": "2026-10-15T16:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/google-ads-adds-prediction-markets-section-to-advertising-policies",
+      "links": [
+        "https://predictionnews.com/story/google-ads-adds-prediction-markets-section-to-advertising-policies"
+      ],
+      "timestamp": "Oct 15, 2026 · 4:45 PM ET",
+      "body": "- **Google Ads now requires a CFTC license for domestic prediction market ads** — Google has added a dedicated prediction markets section to its advertising policy, requiring domestic operators to hold a CFTC Designated Contract Market license to run ads. The policy permits ads for economics, sports and current-events contracts only in listed locations, favoring licensed platforms such as Kalshi and Polymarket US over unlicensed rivals. ([Prediction News](https://predictionnews.com/story/google-ads-adds-prediction-markets-section-to-advertising-policies))",
+      "image_url": null,
+      "published": "2026-10-15T16:45:00-04:00",
+      "source": "2026-10-15_1645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_1645-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1645-edt-1",
+      "title": "Kalshi inflation trader Brian Golden has made over 2 million dollars beating Wall Street forecasts",
+      "content_text": "- **Kalshi inflation trader Brian Golden has made over 2 million dollars beating Wall Street forecasts** — Bloomberg Law profiles Brian Golden, a Los Angeles trader and former theater director who has made over 2 million dollars on Kalshi. Golden has been the platform's most successful trader in economic-indicator markets, repeatedly out-forecasting Wall Street banks on inflation prints. ([Bloomberg Law](https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage))",
+      "content_html": "<p>- **Kalshi inflation trader Brian Golden has made over 2 million dollars beating Wall Street forecasts** — Bloomberg Law profiles Brian Golden, a Los Angeles trader and former theater director who has made over 2 million dollars on Kalshi. Golden has been the platform&#x27;s most successful trader in economic-indicator markets, repeatedly out-forecasting Wall Street banks on inflation prints. ([Bloomberg Law](https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage))</p>",
+      "date_published": "2026-10-15T16:45:00-04:00",
+      "date_modified": "2026-10-15T16:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage",
+      "links": [
+        "https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage"
+      ],
+      "timestamp": "Oct 15, 2026 · 4:45 PM ET",
+      "body": "- **Kalshi inflation trader Brian Golden has made over 2 million dollars beating Wall Street forecasts** — Bloomberg Law profiles Brian Golden, a Los Angeles trader and former theater director who has made over 2 million dollars on Kalshi. Golden has been the platform's most successful trader in economic-indicator markets, repeatedly out-forecasting Wall Street banks on inflation prints. ([Bloomberg Law](https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage))",
+      "image_url": null,
+      "published": "2026-10-15T16:45:00-04:00",
+      "source": "2026-10-15_1645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_1645-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1645-edt-2",
+      "title": "Prediction market favorites won 74 percent of 33,716 settled questions a day before outcomes, PredictionScout review finds",
+      "content_text": "- **Prediction market favorites won 74 percent of 33,716 settled questions a day before outcomes, PredictionScout review finds** — PredictionScout reviewed 33,716 settled Kalshi and Polymarket questions that closed between January 2025 and September 2026 and found the favorite won 74.0 percent of the time one day before the outcome was clear. Kalshi's favorite was correct on all 28 Federal Open Market Committee decisions in the period a day ahead. ([Blockonomi](https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/))",
+      "content_html": "<p>- **Prediction market favorites won 74 percent of 33,716 settled questions a day before outcomes, PredictionScout review finds** — PredictionScout reviewed 33,716 settled Kalshi and Polymarket questions that closed between January 2025 and September 2026 and found the favorite won 74.0 percent of the time one day before the outcome was clear. Kalshi&#x27;s favorite was correct on all 28 Federal Open Market Committee decisions in the period a day ahead. ([Blockonomi](https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/))</p>",
+      "date_published": "2026-10-15T16:45:00-04:00",
+      "date_modified": "2026-10-15T16:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/",
+      "links": [
+        "https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/"
+      ],
+      "timestamp": "Oct 15, 2026 · 4:45 PM ET",
+      "body": "- **Prediction market favorites won 74 percent of 33,716 settled questions a day before outcomes, PredictionScout review finds** — PredictionScout reviewed 33,716 settled Kalshi and Polymarket questions that closed between January 2025 and September 2026 and found the favorite won 74.0 percent of the time one day before the outcome was clear. Kalshi's favorite was correct on all 28 Federal Open Market Committee decisions in the period a day ahead. ([Blockonomi](https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/))",
+      "image_url": null,
+      "published": "2026-10-15T16:45:00-04:00",
+      "source": "2026-10-15_1645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_1645-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1645-edt-3",
+      "title": "Kalshi climate and weather markets traded 4.59 million dollars on October 14, with 113.3 million over 30 days",
+      "content_text": "- **Kalshi climate and weather markets traded 4.59 million dollars on October 14, with 113.3 million over 30 days** — Kalshi's Climate and Weather category traded 4,586,557 dollars on October 14, its most recent complete day, and 113,278,486 dollars over the trailing 30 days, according to TickerTracker. Daily rain markets led the category over the last seven days at about 9.1 million dollars. ([TickerTracker](https://ticker-tracker.com/kalshi/volume/climate-and-weather))",
+      "content_html": "<p>- **Kalshi climate and weather markets traded 4.59 million dollars on October 14, with 113.3 million over 30 days** — Kalshi&#x27;s Climate and Weather category traded 4,586,557 dollars on October 14, its most recent complete day, and 113,278,486 dollars over the trailing 30 days, according to TickerTracker. Daily rain markets led the category over the last seven days at about 9.1 million dollars. ([TickerTracker](https://ticker-tracker.com/kalshi/volume/climate-and-weather))</p>",
+      "date_published": "2026-10-15T16:45:00-04:00",
+      "date_modified": "2026-10-15T16:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://ticker-tracker.com/kalshi/volume/climate-and-weather",
+      "links": [
+        "https://ticker-tracker.com/kalshi/volume/climate-and-weather"
+      ],
+      "timestamp": "Oct 15, 2026 · 4:45 PM ET",
+      "body": "- **Kalshi climate and weather markets traded 4.59 million dollars on October 14, with 113.3 million over 30 days** — Kalshi's Climate and Weather category traded 4,586,557 dollars on October 14, its most recent complete day, and 113,278,486 dollars over the trailing 30 days, according to TickerTracker. Daily rain markets led the category over the last seven days at about 9.1 million dollars. ([TickerTracker](https://ticker-tracker.com/kalshi/volume/climate-and-weather))",
+      "image_url": null,
+      "published": "2026-10-15T16:45:00-04:00",
+      "source": "2026-10-15_1645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_1639-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1639-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSenate Three-Way Combo: Texas, Kansas, Nebraska leads with Dems in Texas, Republicans in Kansas and Nebraska at 39%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this newly created book leads, in a political/election markets category different…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska\n\nRuzic vs. Andreescu is the most-traded market right now at $2.1M in 24 hours, with Antonia Ruzic at 59c on Kalshi\nDeFi Rate's live board as of late afternoon ranks the tennis matchup first overall, ahead of Bianca Andreescu at 42c — a matchup not featured in any earlier edition…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Senate Three-Way Combo: Texas, Kansas, Nebraska leads with Dems in Texas, Republicans in Kansas and Nebraska at 39%<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this newly created book leads, in a political/election markets category different…<br/>#PredictionMarkets #Polymarket #Senate #Elections<br/>https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska<br/><br/>Ruzic vs. Andreescu is the most-traded market right now at $2.1M in 24 hours, with Antonia Ruzic at 59c on Kalshi<br/>DeFi Rate&#x27;s live board as of late afternoon ranks the tennis matchup first overall, ahead of Bianca Andreescu at 42c — a matchup not featured in any earlier edition…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T16:39:00-04:00",
+      "date_modified": "2026-10-15T16:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Senate",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska",
+      "links": [
+        "https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska",
+        "https://defirate.com/odds/"
+      ],
+      "timestamp": "Oct 15, 2026 · 4:39 PM ET",
+      "body": "Infiniti Briefing\n\nSenate Three-Way Combo: Texas, Kansas, Nebraska leads with Dems in Texas, Republicans in Kansas and Nebraska at 39%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this newly created book leads, in a political/election markets category different…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska\n\nRuzic vs. Andreescu is the most-traded market right now at $2.1M in 24 hours, with Antonia Ruzic at 59c on Kalshi\nDeFi Rate's live board as of late afternoon ranks the tennis matchup first overall, ahead of Bianca Andreescu at 42c — a matchup not featured in any earlier edition…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T16:39:00-04:00",
+      "source": "2026-10-15_1639-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_1630-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1630-edt-0",
@@ -275,6 +428,39 @@
       "image_url": null,
       "published": "2026-10-15T16:30:00-04:00",
       "source": "2026-10-15_1630-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_1624-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1624-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nTampa Bay Rays vs. Cleveland Guardians draws $701K in 24 hours, with Cleveland at 57%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a sports markets category different from the…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nMidterms margin-of-victory markets are booming, with over half of state markets on margins, not outright winners\nA fresh Oct. 15 look at Kalshi trading finds margin markets drawing the bulk of activity in the biggest state books, notably Texas, Michigan and South Carolina, as…\n#PredictionMarkets #Kalshi #Elections\nhttps://www.thelines.com/prediction-markets/trending/midterms-margins-prediction-markets-kalshi-traders-hit-key-states/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Tampa Bay Rays vs. Cleveland Guardians draws $701K in 24 hours, with Cleveland at 57%<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a sports markets category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>Midterms margin-of-victory markets are booming, with over half of state markets on margins, not outright winners<br/>A fresh Oct. 15 look at Kalshi trading finds margin markets drawing the bulk of activity in the biggest state books, notably Texas, Michigan and South Carolina, as…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://www.thelines.com/prediction-markets/trending/midterms-margins-prediction-markets-kalshi-traders-hit-key-states/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T16:24:00-04:00",
+      "date_modified": "2026-10-15T16:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://polydict.app/markets",
+      "links": [
+        "https://polydict.app/markets",
+        "https://www.thelines.com/prediction-markets/trending/midterms-margins-prediction-markets-kalshi-traders-hit-key-states/"
+      ],
+      "timestamp": "Oct 15, 2026 · 4:24 PM ET",
+      "body": "Infiniti Briefing\n\nTampa Bay Rays vs. Cleveland Guardians draws $701K in 24 hours, with Cleveland at 57%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a sports markets category different from the…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nMidterms margin-of-victory markets are booming, with over half of state markets on margins, not outright winners\nA fresh Oct. 15 look at Kalshi trading finds margin markets drawing the bulk of activity in the biggest state books, notably Texas, Michigan and South Carolina, as…\n#PredictionMarkets #Kalshi #Elections\nhttps://www.thelines.com/prediction-markets/trending/midterms-margins-prediction-markets-kalshi-traders-hit-key-states/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T16:24:00-04:00",
+      "source": "2026-10-15_1624-edt.md",
       "matches_facebook_post": false
     },
     {
@@ -4447,178 +4633,6 @@
       ],
       "timestamp": "Oct 15, 2026 · 9:45 AM ET",
       "body": "- **Kalshi market on Aaron Boone being out as Yankees manager rises to 52 percent** — A Kalshi market on whether Aaron Boone will be out as Yankees manager has risen from 27 percent to 52 percent over five days. The market settles on whether Boone is still the Yankees manager by December 1, even as several Yankees writers say a change this offseason looks unlikely. ([Sports Illustrated](https://www.si.com/prediction-markets/aaron-boone-out-kalshi-market-trends-up-for-yankees-to-move-on-01m4xezcdme0))",
-      "image_url": null,
-      "published": "2026-10-15T09:45:00-04:00",
-      "source": "2026-10-15_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0945-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0945-edt-3",
-      "title": "Gold trades near 4,138 dollars after rejection at 4,160 dollars on October 15",
-      "content_text": "- **Gold trades near 4,138 dollars after rejection at 4,160 dollars on October 15** — Gold was trading around 4,138 dollars on October 15 after bouncing from the 4,075 dollar area and stalling at resistance near 4,159 to 4,161 dollars. Analysts cited falling Treasury yields and a softer dollar for the recovery, with 4,117 dollars watched as near-term support. ([FX Leaders](https://www.fxleaders.com/news/2026/10/15/gold-price-forecast-xau-usd-4160-resistance-4117-support/))",
-      "content_html": "<p>- **Gold trades near 4,138 dollars after rejection at 4,160 dollars on October 15** — Gold was trading around 4,138 dollars on October 15 after bouncing from the 4,075 dollar area and stalling at resistance near 4,159 to 4,161 dollars. Analysts cited falling Treasury yields and a softer dollar for the recovery, with 4,117 dollars watched as near-term support. ([FX Leaders](https://www.fxleaders.com/news/2026/10/15/gold-price-forecast-xau-usd-4160-resistance-4117-support/))</p>",
-      "date_published": "2026-10-15T09:45:00-04:00",
-      "date_modified": "2026-10-15T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Gold"
-      ],
-      "image": null,
-      "external_url": "https://www.fxleaders.com/news/2026/10/15/gold-price-forecast-xau-usd-4160-resistance-4117-support/",
-      "links": [
-        "https://www.fxleaders.com/news/2026/10/15/gold-price-forecast-xau-usd-4160-resistance-4117-support/"
-      ],
-      "timestamp": "Oct 15, 2026 · 9:45 AM ET",
-      "body": "- **Gold trades near 4,138 dollars after rejection at 4,160 dollars on October 15** — Gold was trading around 4,138 dollars on October 15 after bouncing from the 4,075 dollar area and stalling at resistance near 4,159 to 4,161 dollars. Analysts cited falling Treasury yields and a softer dollar for the recovery, with 4,117 dollars watched as near-term support. ([FX Leaders](https://www.fxleaders.com/news/2026/10/15/gold-price-forecast-xau-usd-4160-resistance-4117-support/))",
-      "image_url": null,
-      "published": "2026-10-15T09:45:00-04:00",
-      "source": "2026-10-15_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0945-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0945-edt-4",
-      "title": "Crypto market loses about 100 billion dollars as 953 million dollars in positions are liquidated",
-      "content_text": "- **Crypto market loses about 100 billion dollars as 953 million dollars in positions are liquidated** — Total crypto market capitalization fell 3.63 percent to about 2.7 trillion dollars on October 15, with 953 million dollars in leveraged positions liquidated over 24 hours and longs accounting for most of the total. Bitcoin traded near 80,767 dollars and Ethereum fell to about 2,353 dollars after the September producer price report came in hotter than expected. ([ETHNews](https://ethnews.com/crypto-market-loses-100b-as-ethereum-leads-953m-liquidation/))",
-      "content_html": "<p>- **Crypto market loses about 100 billion dollars as 953 million dollars in positions are liquidated** — Total crypto market capitalization fell 3.63 percent to about 2.7 trillion dollars on October 15, with 953 million dollars in leveraged positions liquidated over 24 hours and longs accounting for most of the total. Bitcoin traded near 80,767 dollars and Ethereum fell to about 2,353 dollars after the September producer price report came in hotter than expected. ([ETHNews](https://ethnews.com/crypto-market-loses-100b-as-ethereum-leads-953m-liquidation/))</p>",
-      "date_published": "2026-10-15T09:45:00-04:00",
-      "date_modified": "2026-10-15T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://ethnews.com/crypto-market-loses-100b-as-ethereum-leads-953m-liquidation/",
-      "links": [
-        "https://ethnews.com/crypto-market-loses-100b-as-ethereum-leads-953m-liquidation/"
-      ],
-      "timestamp": "Oct 15, 2026 · 9:45 AM ET",
-      "body": "- **Crypto market loses about 100 billion dollars as 953 million dollars in positions are liquidated** — Total crypto market capitalization fell 3.63 percent to about 2.7 trillion dollars on October 15, with 953 million dollars in leveraged positions liquidated over 24 hours and longs accounting for most of the total. Bitcoin traded near 80,767 dollars and Ethereum fell to about 2,353 dollars after the September producer price report came in hotter than expected. ([ETHNews](https://ethnews.com/crypto-market-loses-100b-as-ethereum-leads-953m-liquidation/))",
-      "image_url": null,
-      "published": "2026-10-15T09:45:00-04:00",
-      "source": "2026-10-15_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0945-edt-5",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0945-edt-5",
-      "title": "Insider trading concerns grow over political prediction markets ahead of the midterms",
-      "content_text": "- **Insider trading concerns grow over political prediction markets ahead of the midterms** — A watchdog report found that markets on predictable political developments, such as candidate withdrawals and endorsements, have drawn more than 20 million dollars in trading volume, raising concerns that campaign insiders could trade on nonpublic information. Kalshi said it has suspended at least six candidates for betting on their own races and monitors trading for unusual activity. ([TippInsights](https://tippinsights.com/political-betting-platforms-face-insider-trading-concerns-ahead-of-midterms/))",
-      "content_html": "<p>- **Insider trading concerns grow over political prediction markets ahead of the midterms** — A watchdog report found that markets on predictable political developments, such as candidate withdrawals and endorsements, have drawn more than 20 million dollars in trading volume, raising concerns that campaign insiders could trade on nonpublic information. Kalshi said it has suspended at least six candidates for betting on their own races and monitors trading for unusual activity. ([TippInsights](https://tippinsights.com/political-betting-platforms-face-insider-trading-concerns-ahead-of-midterms/))</p>",
-      "date_published": "2026-10-15T09:45:00-04:00",
-      "date_modified": "2026-10-15T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://tippinsights.com/political-betting-platforms-face-insider-trading-concerns-ahead-of-midterms/",
-      "links": [
-        "https://tippinsights.com/political-betting-platforms-face-insider-trading-concerns-ahead-of-midterms/"
-      ],
-      "timestamp": "Oct 15, 2026 · 9:45 AM ET",
-      "body": "- **Insider trading concerns grow over political prediction markets ahead of the midterms** — A watchdog report found that markets on predictable political developments, such as candidate withdrawals and endorsements, have drawn more than 20 million dollars in trading volume, raising concerns that campaign insiders could trade on nonpublic information. Kalshi said it has suspended at least six candidates for betting on their own races and monitors trading for unusual activity. ([TippInsights](https://tippinsights.com/political-betting-platforms-face-insider-trading-concerns-ahead-of-midterms/))",
-      "image_url": null,
-      "published": "2026-10-15T09:45:00-04:00",
-      "source": "2026-10-15_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0945-edt-6",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0945-edt-6",
-      "title": "Dodgers remain favored for NLCS Game 4 despite trailing the Brewers in the series",
-      "content_text": "- **Dodgers remain favored for NLCS Game 4 despite trailing the Brewers in the series** — Milwaukee is one win away from the World Series heading into NLCS Game 4 on October 15 at Dodger Stadium, but oddsmakers still favor Los Angeles, opening the Dodgers around minus 174 with a 7.5-run total. The preview notes Milwaukee is expected to lean on its bullpen while Los Angeles relies on its starter, lineup and home field. ([Hello Rookie](https://hellorookie.com/brewers-vs-dodgers-prediction-nlcs-game-4-picks-and-best-bet-for-october-15/))",
-      "content_html": "<p>- **Dodgers remain favored for NLCS Game 4 despite trailing the Brewers in the series** — Milwaukee is one win away from the World Series heading into NLCS Game 4 on October 15 at Dodger Stadium, but oddsmakers still favor Los Angeles, opening the Dodgers around minus 174 with a 7.5-run total. The preview notes Milwaukee is expected to lean on its bullpen while Los Angeles relies on its starter, lineup and home field. ([Hello Rookie](https://hellorookie.com/brewers-vs-dodgers-prediction-nlcs-game-4-picks-and-best-bet-for-october-15/))</p>",
-      "date_published": "2026-10-15T09:45:00-04:00",
-      "date_modified": "2026-10-15T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://hellorookie.com/brewers-vs-dodgers-prediction-nlcs-game-4-picks-and-best-bet-for-october-15/",
-      "links": [
-        "https://hellorookie.com/brewers-vs-dodgers-prediction-nlcs-game-4-picks-and-best-bet-for-october-15/"
-      ],
-      "timestamp": "Oct 15, 2026 · 9:45 AM ET",
-      "body": "- **Dodgers remain favored for NLCS Game 4 despite trailing the Brewers in the series** — Milwaukee is one win away from the World Series heading into NLCS Game 4 on October 15 at Dodger Stadium, but oddsmakers still favor Los Angeles, opening the Dodgers around minus 174 with a 7.5-run total. The preview notes Milwaukee is expected to lean on its bullpen while Los Angeles relies on its starter, lineup and home field. ([Hello Rookie](https://hellorookie.com/brewers-vs-dodgers-prediction-nlcs-game-4-picks-and-best-bet-for-october-15/))",
-      "image_url": null,
-      "published": "2026-10-15T09:45:00-04:00",
-      "source": "2026-10-15_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0945-edt-7",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0945-edt-7",
-      "title": "Guardians favored over Rays in ALCS Game 3 as the series arrives tied at 1 to 1",
-      "content_text": "- **Guardians favored over Rays in ALCS Game 3 as the series arrives tied at 1 to 1** — The Tampa Bay Rays visit the Cleveland Guardians for ALCS Game 3 on October 15 with the series tied at one game each. Listed odds show Cleveland favored on the moneyline at minus 135 against Tampa Bay at plus 115, with a 6.5-run total. ([NorthJersey.com](https://www.northjersey.com/story/sports/mlb/2026/10/15/mlb-playoff-games-today-october-15-start-times-schedule-alcs-nlcs/92246093007/))",
-      "content_html": "<p>- **Guardians favored over Rays in ALCS Game 3 as the series arrives tied at 1 to 1** — The Tampa Bay Rays visit the Cleveland Guardians for ALCS Game 3 on October 15 with the series tied at one game each. Listed odds show Cleveland favored on the moneyline at minus 135 against Tampa Bay at plus 115, with a 6.5-run total. ([NorthJersey.com](https://www.northjersey.com/story/sports/mlb/2026/10/15/mlb-playoff-games-today-october-15-start-times-schedule-alcs-nlcs/92246093007/))</p>",
-      "date_published": "2026-10-15T09:45:00-04:00",
-      "date_modified": "2026-10-15T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.northjersey.com/story/sports/mlb/2026/10/15/mlb-playoff-games-today-october-15-start-times-schedule-alcs-nlcs/92246093007/",
-      "links": [
-        "https://www.northjersey.com/story/sports/mlb/2026/10/15/mlb-playoff-games-today-october-15-start-times-schedule-alcs-nlcs/92246093007/"
-      ],
-      "timestamp": "Oct 15, 2026 · 9:45 AM ET",
-      "body": "- **Guardians favored over Rays in ALCS Game 3 as the series arrives tied at 1 to 1** — The Tampa Bay Rays visit the Cleveland Guardians for ALCS Game 3 on October 15 with the series tied at one game each. Listed odds show Cleveland favored on the moneyline at minus 135 against Tampa Bay at plus 115, with a 6.5-run total. ([NorthJersey.com](https://www.northjersey.com/story/sports/mlb/2026/10/15/mlb-playoff-games-today-october-15-start-times-schedule-alcs-nlcs/92246093007/))",
-      "image_url": null,
-      "published": "2026-10-15T09:45:00-04:00",
-      "source": "2026-10-15_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_0945-edt-8",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0945-edt-8",
-      "title": "Lineups compares prediction market welcome offers across FanDuel, Kalshi, DraftKings and Fanatics",
-      "content_text": "- **Lineups compares prediction market welcome offers across FanDuel, Kalshi, DraftKings and Fanatics** — A comparison of prediction market welcome offers lists FanDuel Predicts at 100 dollars in bonuses after trading 1 dollar a day for five days, DraftKings Predictions at 200 dollars after a 5 dollar trade, and Fanatics Markets matching trades up to 150 dollars in FanCash. The comparison also covers ProphetX, Underdog Predict, OG and Crypto.com offers and their age and state restrictions. ([Lineups](https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/))",
-      "content_html": "<p>- **Lineups compares prediction market welcome offers across FanDuel, Kalshi, DraftKings and Fanatics** — A comparison of prediction market welcome offers lists FanDuel Predicts at 100 dollars in bonuses after trading 1 dollar a day for five days, DraftKings Predictions at 200 dollars after a 5 dollar trade, and Fanatics Markets matching trades up to 150 dollars in FanCash. The comparison also covers ProphetX, Underdog Predict, OG and Crypto.com offers and their age and state restrictions. ([Lineups](https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/))</p>",
-      "date_published": "2026-10-15T09:45:00-04:00",
-      "date_modified": "2026-10-15T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/",
-      "links": [
-        "https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/"
-      ],
-      "timestamp": "Oct 15, 2026 · 9:45 AM ET",
-      "body": "- **Lineups compares prediction market welcome offers across FanDuel, Kalshi, DraftKings and Fanatics** — A comparison of prediction market welcome offers lists FanDuel Predicts at 100 dollars in bonuses after trading 1 dollar a day for five days, DraftKings Predictions at 200 dollars after a 5 dollar trade, and Fanatics Markets matching trades up to 150 dollars in FanCash. The comparison also covers ProphetX, Underdog Predict, OG and Crypto.com offers and their age and state restrictions. ([Lineups](https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/))",
       "image_url": null,
       "published": "2026-10-15T09:45:00-04:00",
       "source": "2026-10-15_0945-edt.json",
