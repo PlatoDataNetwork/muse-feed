@@ -1,18 +1,18 @@
 {
   "window_start": "2026-10-14T10:42:00-04:00",
   "window_end": "2026-10-15T10:42:00-04:00",
-  "updated_at": "2026-10-15T03:16:23.777641-04:00",
-  "elapsed_hours": 16.57,
-  "remaining_hours": 7.43,
+  "updated_at": "2026-10-15T03:31:25.166225-04:00",
+  "elapsed_hours": 16.82,
+  "remaining_hours": 7.18,
   "channels": {
     "chat_briefings": {
-      "count": 66,
+      "count": 67,
       "per_hour": 3.98,
       "platform_cost_usd": 0
     },
     "website_items": {
-      "count": 647,
-      "per_hour": 39.04,
+      "count": 655,
+      "per_hour": 38.93,
       "platform_cost_usd": 0
     },
     "facebook_page_posts": {
@@ -34,8 +34,8 @@
       "note": "mirrors FB posts"
     }
   },
-  "website_feed_items_total": 713,
-  "website_feed_items_per_hour": 43.02,
+  "website_feed_items_total": 722,
+  "website_feed_items_per_hour": 42.92,
   "feed_items_on_site_now": 500,
   "muse_usage": {
     "baseline_weekly_pct": 12,
@@ -53,10 +53,10 @@
     "total": 3.0
   },
   "projected_24h_at_current_rate": {
-    "website_feed_items": 1033,
+    "website_feed_items": 1030,
     "facebook_page_posts": 7,
     "x_threads": 7,
-    "x_cost_usd": 4.34,
+    "x_cost_usd": 4.28,
     "muse_weekly_pct": 9
   }
 }
