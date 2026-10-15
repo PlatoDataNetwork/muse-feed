@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T09:37:01.900235-04:00",
+  "updated": "2026-10-15T09:42:56.639037-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-15_0939-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_0939-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNext James Bond actor: Jack Lowden leads at 34% on $1.4M traded\nPolymarket's Bond succession book puts Lowden clear at 34% on $1.4M traded in the RG daily snapshot — a culture contract not featured in any earlier edition today, in a…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026\n\nUK entry remains talks, not launches, as regulators split sport and finance\nBritain's Gambling Commission views current prediction-market products as a betting intermediary needing a licence for sport, while the FCA confirmed on Oct. 6 it is in…\n#PredictionMarkets #Kalshi #Polymarket #FCA\nhttps://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Next James Bond actor: Jack Lowden leads at 34% on $1.4M traded<br/>Polymarket&#x27;s Bond succession book puts Lowden clear at 34% on $1.4M traded in the RG daily snapshot — a culture contract not featured in any earlier edition today, in a…<br/>#PredictionMarkets #Polymarket<br/>https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026<br/><br/>UK entry remains talks, not launches, as regulators split sport and finance<br/>Britain&#x27;s Gambling Commission views current prediction-market products as a betting intermediary needing a licence for sport, while the FCA confirmed on Oct. 6 it is in…<br/>#PredictionMarkets #Kalshi #Polymarket #FCA<br/>https://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T09:39:00-04:00",
+      "date_modified": "2026-10-15T09:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi",
+        "FCA"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026",
+      "links": [
+        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026",
+        "https://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports"
+      ],
+      "timestamp": "Oct 15, 2026 · 9:39 AM ET",
+      "body": "Infiniti Briefing\n\nNext James Bond actor: Jack Lowden leads at 34% on $1.4M traded\nPolymarket's Bond succession book puts Lowden clear at 34% on $1.4M traded in the RG daily snapshot — a culture contract not featured in any earlier edition today, in a…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026\n\nUK entry remains talks, not launches, as regulators split sport and finance\nBritain's Gambling Commission views current prediction-market products as a betting intermediary needing a licence for sport, while the FCA confirmed on Oct. 6 it is in…\n#PredictionMarkets #Kalshi #Polymarket #FCA\nhttps://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T09:39:00-04:00",
+      "source": "2026-10-15_0939-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_0930-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_0930-edt-0",
@@ -15125,35 +15158,6 @@
       ],
       "timestamp": "Oct 14, 2026 · 10:30 PM ET",
       "body": "- **Bitcoin ETF inflows return as Kalshi traders price roughly a 55 percent chance of an October Fed hike** — TradingNews reports Bitcoin ETF inflows of 175.7 million dollars on October 13 after a weekly exodus, as a hotter 3.7 percent CPI reading lifted rate expectations. The report says Kalshi traders priced roughly a 55 percent chance of an October hike while Bitcoin fell to 81,776 dollars in late morning trading. ([TradingNews](https://www.tradingnews.com/news/bitcoin-etf-inflows-175m-usd-returns-to-ibit-etf-and-fbtc-but-a-597m-usd-5-day-deficit-hot-cpi))",
-      "image_url": null,
-      "published": "2026-10-14T22:30:00-04:00",
-      "source": "2026-10-14_2230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2230-edt-5",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2230-edt-5",
-      "title": "Polymarket offers markets on private companies including OpenAI and SpaceX with Nasdaq Private Market data",
-      "content_text": "- **Polymarket offers markets on private companies including OpenAI and SpaceX with Nasdaq Private Market data** — Yogonet reports Polymarket launched markets tied to private companies in partnership with Nasdaq Private Market, covering valuation milestones, IPO timing and secondary share activity. Initial contracts include whether OpenAI surpasses a 1 trillion dollar valuation by the end of 2026, alongside markets linked to Anthropic, Anduril, SpaceX, Stripe, Kraken and Databricks. ([Yogonet](https://www.yogonet.com/international/news/2026/05/20/121166-polymarket-launches-prediction-markets-on-private-companies-like-openai-and-spacex))",
-      "content_html": "<p>- **Polymarket offers markets on private companies including OpenAI and SpaceX with Nasdaq Private Market data** — Yogonet reports Polymarket launched markets tied to private companies in partnership with Nasdaq Private Market, covering valuation milestones, IPO timing and secondary share activity. Initial contracts include whether OpenAI surpasses a 1 trillion dollar valuation by the end of 2026, alongside markets linked to Anthropic, Anduril, SpaceX, Stripe, Kraken and Databricks. ([Yogonet](https://www.yogonet.com/international/news/2026/05/20/121166-polymarket-launches-prediction-markets-on-private-companies-like-openai-and-spacex))</p>",
-      "date_published": "2026-10-14T22:30:00-04:00",
-      "date_modified": "2026-10-14T22:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.yogonet.com/international/news/2026/05/20/121166-polymarket-launches-prediction-markets-on-private-companies-like-openai-and-spacex",
-      "links": [
-        "https://www.yogonet.com/international/news/2026/05/20/121166-polymarket-launches-prediction-markets-on-private-companies-like-openai-and-spacex"
-      ],
-      "timestamp": "Oct 14, 2026 · 10:30 PM ET",
-      "body": "- **Polymarket offers markets on private companies including OpenAI and SpaceX with Nasdaq Private Market data** — Yogonet reports Polymarket launched markets tied to private companies in partnership with Nasdaq Private Market, covering valuation milestones, IPO timing and secondary share activity. Initial contracts include whether OpenAI surpasses a 1 trillion dollar valuation by the end of 2026, alongside markets linked to Anthropic, Anduril, SpaceX, Stripe, Kraken and Databricks. ([Yogonet](https://www.yogonet.com/international/news/2026/05/20/121166-polymarket-launches-prediction-markets-on-private-companies-like-openai-and-spacex))",
       "image_url": null,
       "published": "2026-10-14T22:30:00-04:00",
       "source": "2026-10-14_2230-edt.json",
