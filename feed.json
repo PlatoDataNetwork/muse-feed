@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T10:36:18.985989-04:00",
+  "updated": "2026-10-15T10:41:57.808096-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-15_1039-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1039-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nTaiwan blocks Kalshi and Coinbase over suspected election betting ahead of November polls\nA Bloomberg report published Oct. 15 says the New Taipei District Court approved a Criminal Investigation Bureau request to bar domestic access to both sites, citing…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/\n\nTaiwan Level 4 travel-warning odds at 69% on Kalshi after China's multi-sea drills\nKalshi's contract on a U.S. Level 4 warning for Taiwan before Jan. 1, 2030 priced about 69% on Oct. 14, up roughly 31 points in a day, after Chinese live-fire drills, a…\n#PredictionMarkets #Kalshi\nhttps://tech-insider.org/taiwan-level-4-travel-warning-kalshi-odds-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Taiwan blocks Kalshi and Coinbase over suspected election betting ahead of November polls<br/>A Bloomberg report published Oct. 15 says the New Taipei District Court approved a Criminal Investigation Bureau request to bar domestic access to both sites, citing…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/<br/><br/>Taiwan Level 4 travel-warning odds at 69% on Kalshi after China&#x27;s multi-sea drills<br/>Kalshi&#x27;s contract on a U.S. Level 4 warning for Taiwan before Jan. 1, 2030 priced about 69% on Oct. 14, up roughly 31 points in a day, after Chinese live-fire drills, a…<br/>#PredictionMarkets #Kalshi<br/>https://tech-insider.org/taiwan-level-4-travel-warning-kalshi-odds-2026/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T10:39:00-04:00",
+      "date_modified": "2026-10-15T10:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/",
+      "links": [
+        "https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/",
+        "https://tech-insider.org/taiwan-level-4-travel-warning-kalshi-odds-2026/"
+      ],
+      "timestamp": "Oct 15, 2026 · 10:39 AM ET",
+      "body": "Infiniti Briefing\n\nTaiwan blocks Kalshi and Coinbase over suspected election betting ahead of November polls\nA Bloomberg report published Oct. 15 says the New Taipei District Court approved a Criminal Investigation Bureau request to bar domestic access to both sites, citing…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/\n\nTaiwan Level 4 travel-warning odds at 69% on Kalshi after China's multi-sea drills\nKalshi's contract on a U.S. Level 4 warning for Taiwan before Jan. 1, 2030 priced about 69% on Oct. 14, up roughly 31 points in a day, after Chinese live-fire drills, a…\n#PredictionMarkets #Kalshi\nhttps://tech-insider.org/taiwan-level-4-travel-warning-kalshi-odds-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T10:39:00-04:00",
+      "source": "2026-10-15_1039-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_1030-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1030-edt-0",
@@ -15113,37 +15146,6 @@
       "image_url": null,
       "published": "2026-10-14T23:54:00-04:00",
       "source": "2026-10-14_2354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-14_2345-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-14_2345-edt-0",
-      "title": "House Oversight expands insider trading probe to Hyperliquid, Crypto.com and PredictIt operator",
-      "content_text": "- **House Oversight expands insider trading probe to Hyperliquid, Crypto.com and PredictIt operator** — The Lines reports House Oversight Chairman James Comer expanded his insider trading investigation to Hyperliquid Labs, Crypto.com and Aristotle Exchange, owner of PredictIt, requesting documents on identity verification and detection of suspicious trading. The committee says it has already received nearly 1,000 documents from Polymarket and Kalshi in the probe launched in May. ([The Lines](https://www.thelines.com/prediction-markets/industry-news/house-committee-expands-probe-into-prediction-markets-insider-trading/))",
-      "content_html": "<p>- **House Oversight expands insider trading probe to Hyperliquid, Crypto.com and PredictIt operator** — The Lines reports House Oversight Chairman James Comer expanded his insider trading investigation to Hyperliquid Labs, Crypto.com and Aristotle Exchange, owner of PredictIt, requesting documents on identity verification and detection of suspicious trading. The committee says it has already received nearly 1,000 documents from Polymarket and Kalshi in the probe launched in May. ([The Lines](https://www.thelines.com/prediction-markets/industry-news/house-committee-expands-probe-into-prediction-markets-insider-trading/))</p>",
-      "date_published": "2026-10-14T23:45:00-04:00",
-      "date_modified": "2026-10-14T23:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "PredictIt"
-      ],
-      "image": null,
-      "external_url": "https://www.thelines.com/prediction-markets/industry-news/house-committee-expands-probe-into-prediction-markets-insider-trading/",
-      "links": [
-        "https://www.thelines.com/prediction-markets/industry-news/house-committee-expands-probe-into-prediction-markets-insider-trading/"
-      ],
-      "timestamp": "Oct 14, 2026 · 11:45 PM ET",
-      "body": "- **House Oversight expands insider trading probe to Hyperliquid, Crypto.com and PredictIt operator** — The Lines reports House Oversight Chairman James Comer expanded his insider trading investigation to Hyperliquid Labs, Crypto.com and Aristotle Exchange, owner of PredictIt, requesting documents on identity verification and detection of suspicious trading. The committee says it has already received nearly 1,000 documents from Polymarket and Kalshi in the probe launched in May. ([The Lines](https://www.thelines.com/prediction-markets/industry-news/house-committee-expands-probe-into-prediction-markets-insider-trading/))",
-      "image_url": null,
-      "published": "2026-10-14T23:45:00-04:00",
-      "source": "2026-10-14_2345-edt.json",
       "matches_facebook_post": false
     }
   ]
