@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T18:11:35.711650-04:00",
+  "updated": "2026-10-15T18:20:48.445238-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,35 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_1815-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1815-edt-0",
+      "title": "Kalshi donates 5,000 dollars to Idaho Attorney General Raúl Labrador campaign",
+      "content_text": "- **Kalshi donates 5,000 dollars to Idaho Attorney General Raúl Labrador campaign** — Kalshi donated 5,000 dollars to Idaho Attorney General Raúl Labrador's campaign, RG.org reports. Labrador's office said the donation would not change his position that states, not the federal government, should set gambling policy, and Kalshi gave 15,500 dollars in total to Idaho Republicans over the past month. ([RG.org](https://rg.org/news/gambling-industry/kalshi-gives-5000-to-idaho-ag-labrador-amid-betting-fight))",
+      "content_html": "<p>- **Kalshi donates 5,000 dollars to Idaho Attorney General Raúl Labrador campaign** — Kalshi donated 5,000 dollars to Idaho Attorney General Raúl Labrador&#x27;s campaign, RG.org reports. Labrador&#x27;s office said the donation would not change his position that states, not the federal government, should set gambling policy, and Kalshi gave 15,500 dollars in total to Idaho Republicans over the past month. ([RG.org](https://rg.org/news/gambling-industry/kalshi-gives-5000-to-idaho-ag-labrador-amid-betting-fight))</p>",
+      "date_published": "2026-10-15T18:15:00-04:00",
+      "date_modified": "2026-10-15T18:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/gambling-industry/kalshi-gives-5000-to-idaho-ag-labrador-amid-betting-fight",
+      "links": [
+        "https://rg.org/news/gambling-industry/kalshi-gives-5000-to-idaho-ag-labrador-amid-betting-fight"
+      ],
+      "timestamp": "Oct 15, 2026 · 6:15 PM ET",
+      "body": "- **Kalshi donates 5,000 dollars to Idaho Attorney General Raúl Labrador campaign** — Kalshi donated 5,000 dollars to Idaho Attorney General Raúl Labrador's campaign, RG.org reports. Labrador's office said the donation would not change his position that states, not the federal government, should set gambling policy, and Kalshi gave 15,500 dollars in total to Idaho Republicans over the past month. ([RG.org](https://rg.org/news/gambling-industry/kalshi-gives-5000-to-idaho-ag-labrador-amid-betting-fight))",
+      "image_url": null,
+      "published": "2026-10-15T18:15:00-04:00",
+      "source": "2026-10-15_1815-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-15_1809-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1809-edt",
@@ -4619,36 +4648,6 @@
       ],
       "timestamp": "Oct 15, 2026 · 10:15 AM ET",
       "body": "- **FantasyAlarm Week 6 promo roundup includes Kalshi and OG among prediction market offers** — FantasyAlarm compares NFL Week 6 offers across sportsbooks and prediction markets, listing Kalshi with a trade 25 dollars get 25 dollars offer and OG with a similar 25 dollar trade offer. The roundup notes state limits for sports contracts on both platforms. ([FantasyAlarm](https://www.fantasyalarm.com/articles/promotions/best-nfl-week-6-promo-codes-sign-up-bonuses-sportsbooks-prediction-markets/196941))",
-      "image_url": null,
-      "published": "2026-10-15T10:15:00-04:00",
-      "source": "2026-10-15_1015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1015-edt-5",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1015-edt-5",
-      "title": "Esports.gg promo guide maps state availability for Kalshi, Polymarket US, ProphetX and Novig",
-      "content_text": "- **Esports.gg promo guide maps state availability for Kalshi, Polymarket US, ProphetX and Novig** — Esports.gg summarizes the current US position for major prediction platforms, noting ProphetX stopped sports services in Connecticut in October and Novig is unavailable in Arizona, Michigan and Nevada. The guide says availability varies by platform, contract type and state. ([Esports.gg](https://esports.gg/guides/predictions/prediction-market-promos/))",
-      "content_html": "<p>- **Esports.gg promo guide maps state availability for Kalshi, Polymarket US, ProphetX and Novig** — Esports.gg summarizes the current US position for major prediction platforms, noting ProphetX stopped sports services in Connecticut in October and Novig is unavailable in Arizona, Michigan and Nevada. The guide says availability varies by platform, contract type and state. ([Esports.gg](https://esports.gg/guides/predictions/prediction-market-promos/))</p>",
-      "date_published": "2026-10-15T10:15:00-04:00",
-      "date_modified": "2026-10-15T10:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://esports.gg/guides/predictions/prediction-market-promos/",
-      "links": [
-        "https://esports.gg/guides/predictions/prediction-market-promos/"
-      ],
-      "timestamp": "Oct 15, 2026 · 10:15 AM ET",
-      "body": "- **Esports.gg promo guide maps state availability for Kalshi, Polymarket US, ProphetX and Novig** — Esports.gg summarizes the current US position for major prediction platforms, noting ProphetX stopped sports services in Connecticut in October and Novig is unavailable in Arizona, Michigan and Nevada. The guide says availability varies by platform, contract type and state. ([Esports.gg](https://esports.gg/guides/predictions/prediction-market-promos/))",
       "image_url": null,
       "published": "2026-10-15T10:15:00-04:00",
       "source": "2026-10-15_1015-edt.json",
