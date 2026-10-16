@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T20:36:29.737033-04:00",
+  "updated": "2026-10-15T20:51:03.311526-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,159 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_2045-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2045-edt-0",
+      "title": "Football pushes prediction markets past 10.5 billion dollars in weekend volume",
+      "content_text": "- **Football pushes prediction markets past 10.5 billion dollars in weekend volume** — Prediction markets recorded about 10.5 billion dollars in notional volume over the October 10-11 weekend, according to DeFi Rate data reported by Sportsbook Review. Kalshi accounted for about 7.88 billion dollars of that total, while Polymarket US recorded about 1.22 billion dollars. ([Sportsbook Review](https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/))",
+      "content_html": "<p>- **Football pushes prediction markets past 10.5 billion dollars in weekend volume** — Prediction markets recorded about 10.5 billion dollars in notional volume over the October 10-11 weekend, according to DeFi Rate data reported by Sportsbook Review. Kalshi accounted for about 7.88 billion dollars of that total, while Polymarket US recorded about 1.22 billion dollars. ([Sportsbook Review](https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/))</p>",
+      "date_published": "2026-10-15T20:45:00-04:00",
+      "date_modified": "2026-10-15T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/",
+      "links": [
+        "https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 PM ET",
+      "body": "- **Football pushes prediction markets past 10.5 billion dollars in weekend volume** — Prediction markets recorded about 10.5 billion dollars in notional volume over the October 10-11 weekend, according to DeFi Rate data reported by Sportsbook Review. Kalshi accounted for about 7.88 billion dollars of that total, while Polymarket US recorded about 1.22 billion dollars. ([Sportsbook Review](https://www.sportsbookreview.com/news/football-helps-push-prediction-markets-past-ten-billion-weekend-oct-14-2026/))",
+      "image_url": null,
+      "published": "2026-10-15T20:45:00-04:00",
+      "source": "2026-10-15_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2045-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2045-edt-1",
+      "title": "Baltimore sues Kalshi and Polymarket over consumer protection claims",
+      "content_text": "- **Baltimore sues Kalshi and Polymarket over consumer protection claims** — The city of Baltimore has filed a lawsuit against Kalshi and Polymarket alleging violations of consumer protection laws. Both companies responded that their markets operate under the federal CFTC framework rather than state and local gambling rules. ([GambleRSS](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))",
+      "content_html": "<p>- **Baltimore sues Kalshi and Polymarket over consumer protection claims** — The city of Baltimore has filed a lawsuit against Kalshi and Polymarket alleging violations of consumer protection laws. Both companies responded that their markets operate under the federal CFTC framework rather than state and local gambling rules. ([GambleRSS](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))</p>",
+      "date_published": "2026-10-15T20:45:00-04:00",
+      "date_modified": "2026-10-15T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639",
+      "links": [
+        "https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 PM ET",
+      "body": "- **Baltimore sues Kalshi and Polymarket over consumer protection claims** — The city of Baltimore has filed a lawsuit against Kalshi and Polymarket alleging violations of consumer protection laws. Both companies responded that their markets operate under the federal CFTC framework rather than state and local gambling rules. ([GambleRSS](https://gamblerss.com/baltimore-sues-kalshi-polymarket-claims-they-broke-consumer-protection-laws-67639))",
+      "image_url": null,
+      "published": "2026-10-15T20:45:00-04:00",
+      "source": "2026-10-15_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2045-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2045-edt-2",
+      "title": "Taiwan blocks Coinbase and Kalshi over suspected election betting",
+      "content_text": "- **Taiwan blocks Coinbase and Kalshi over suspected election betting** — Taiwan has restricted domestic access to Coinbase and Kalshi over suspected election betting ahead of November local polls, following an earlier restriction on Polymarket. A New Taipei District Court approved the request, and some users reported losing access from October 14. ([MPost](https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/))",
+      "content_html": "<p>- **Taiwan blocks Coinbase and Kalshi over suspected election betting** — Taiwan has restricted domestic access to Coinbase and Kalshi over suspected election betting ahead of November local polls, following an earlier restriction on Polymarket. A New Taipei District Court approved the request, and some users reported losing access from October 14. ([MPost](https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/))</p>",
+      "date_published": "2026-10-15T20:45:00-04:00",
+      "date_modified": "2026-10-15T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/",
+      "links": [
+        "https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 PM ET",
+      "body": "- **Taiwan blocks Coinbase and Kalshi over suspected election betting** — Taiwan has restricted domestic access to Coinbase and Kalshi over suspected election betting ahead of November local polls, following an earlier restriction on Polymarket. A New Taipei District Court approved the request, and some users reported losing access from October 14. ([MPost](https://mpost.io/taiwan-blocks-coinbase-and-kalshi-over-suspected-election-betting-ahead-of-november-polls/))",
+      "image_url": null,
+      "published": "2026-10-15T20:45:00-04:00",
+      "source": "2026-10-15_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2045-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2045-edt-3",
+      "title": "Kalshi prices Acton at 68 percent against Ramaswamy in Ohio governor race",
+      "content_text": "- **Kalshi prices Acton at 68 percent against Ramaswamy in Ohio governor race** — Kalshi traders price Amy Acton at 68 percent and Vivek Ramaswamy at 32 percent to win the Ohio governor race, with Acton up 14 points over the past month. Kalshi attributes the move to a series of polls showing Acton with a narrow lead. ([Kalshi News](https://news.kalshi.com/p/ohio-governor-odds-acton-surges-to-68-against-ramaswamy-in-the-ohio))",
+      "content_html": "<p>- **Kalshi prices Acton at 68 percent against Ramaswamy in Ohio governor race** — Kalshi traders price Amy Acton at 68 percent and Vivek Ramaswamy at 32 percent to win the Ohio governor race, with Acton up 14 points over the past month. Kalshi attributes the move to a series of polls showing Acton with a narrow lead. ([Kalshi News](https://news.kalshi.com/p/ohio-governor-odds-acton-surges-to-68-against-ramaswamy-in-the-ohio))</p>",
+      "date_published": "2026-10-15T20:45:00-04:00",
+      "date_modified": "2026-10-15T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://news.kalshi.com/p/ohio-governor-odds-acton-surges-to-68-against-ramaswamy-in-the-ohio",
+      "links": [
+        "https://news.kalshi.com/p/ohio-governor-odds-acton-surges-to-68-against-ramaswamy-in-the-ohio"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:45 PM ET",
+      "body": "- **Kalshi prices Acton at 68 percent against Ramaswamy in Ohio governor race** — Kalshi traders price Amy Acton at 68 percent and Vivek Ramaswamy at 32 percent to win the Ohio governor race, with Acton up 14 points over the past month. Kalshi attributes the move to a series of polls showing Acton with a narrow lead. ([Kalshi News](https://news.kalshi.com/p/ohio-governor-odds-acton-surges-to-68-against-ramaswamy-in-the-ohio))",
+      "image_url": null,
+      "published": "2026-10-15T20:45:00-04:00",
+      "source": "2026-10-15_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_2039-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_2039-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nOpenAI reports another AI sandbox escape by Oct. 31 at 69% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh tech contract leads, in a tech category different from the previous three…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarket.com/event/openai-reports-another-ai-sandbox-escape-byptptpt-20261012\n\nFlames vs. Golden Knights: Vegas at 73%, Calgary at 28% on Polymarket\nCasino.org's Oct. 15 trending snapshot puts Vegas well ahead in the NHL contract, with Kraken vs. Lightning also trending at 31% to 70% — a matchup not featured in any…\n#PredictionMarkets #Polymarket\nhttps://www.casino.org/us/predictions/bonus/polymarket/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>OpenAI reports another AI sandbox escape by Oct. 31 at 69% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh tech contract leads, in a tech category different from the previous three…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polymarket.com/event/openai-reports-another-ai-sandbox-escape-byptptpt-20261012<br/><br/>Flames vs. Golden Knights: Vegas at 73%, Calgary at 28% on Polymarket<br/>Casino.org&#x27;s Oct. 15 trending snapshot puts Vegas well ahead in the NHL contract, with Kraken vs. Lightning also trending at 31% to 70% — a matchup not featured in any…<br/>#PredictionMarkets #Polymarket<br/>https://www.casino.org/us/predictions/bonus/polymarket/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T20:39:00-04:00",
+      "date_modified": "2026-10-15T20:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/openai-reports-another-ai-sandbox-escape-byptptpt-20261012",
+      "links": [
+        "https://polymarket.com/event/openai-reports-another-ai-sandbox-escape-byptptpt-20261012",
+        "https://www.casino.org/us/predictions/bonus/polymarket/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:39 PM ET",
+      "body": "Infiniti Briefing\n\nOpenAI reports another AI sandbox escape by Oct. 31 at 69% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh tech contract leads, in a tech category different from the previous three…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarket.com/event/openai-reports-another-ai-sandbox-escape-byptptpt-20261012\n\nFlames vs. Golden Knights: Vegas at 73%, Calgary at 28% on Polymarket\nCasino.org's Oct. 15 trending snapshot puts Vegas well ahead in the NHL contract, with Kraken vs. Lightning also trending at 31% to 70% — a matchup not featured in any…\n#PredictionMarkets #Polymarket\nhttps://www.casino.org/us/predictions/bonus/polymarket/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T20:39:00-04:00",
+      "source": "2026-10-15_2039-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_2030-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2030-edt-0",
@@ -4513,158 +4666,6 @@
       "image_url": null,
       "published": "2026-10-15T11:54:00-04:00",
       "source": "2026-10-15_1154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1145-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1145-edt-0",
-      "title": "Polymarket Palestinian elections market prices another delay at 61 percent",
-      "content_text": "- **Polymarket Palestinian elections market prices another delay at 61 percent** — Polymarket's newly created market, launched on October 14, asks whether Palestinian elections will be delayed again. Traders price Yes at 61 percent in early trading. ([Polymarket](https://polymarket.com/event/palestinian-elections-delayed-again))",
-      "content_html": "<p>- **Polymarket Palestinian elections market prices another delay at 61 percent** — Polymarket&#x27;s newly created market, launched on October 14, asks whether Palestinian elections will be delayed again. Traders price Yes at 61 percent in early trading. ([Polymarket](https://polymarket.com/event/palestinian-elections-delayed-again))</p>",
-      "date_published": "2026-10-15T11:45:00-04:00",
-      "date_modified": "2026-10-15T11:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/palestinian-elections-delayed-again",
-      "links": [
-        "https://polymarket.com/event/palestinian-elections-delayed-again"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:45 AM ET",
-      "body": "- **Polymarket Palestinian elections market prices another delay at 61 percent** — Polymarket's newly created market, launched on October 14, asks whether Palestinian elections will be delayed again. Traders price Yes at 61 percent in early trading. ([Polymarket](https://polymarket.com/event/palestinian-elections-delayed-again))",
-      "image_url": null,
-      "published": "2026-10-15T11:45:00-04:00",
-      "source": "2026-10-15_1145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1145-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1145-edt-1",
-      "title": "Polymarket Oscars 2027 Production Design market leads with The Odyssey at 45 percent",
-      "content_text": "- **Polymarket Oscars 2027 Production Design market leads with The Odyssey at 45 percent** — Polymarket launched its Oscars 2027 Best Production Design Winner market on October 14 with 11 possible outcomes. The Odyssey leads at 45 percent, followed by Project Hail Mary at 27 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-production-design-winner-20261013180153422?marketSlug=will-project-hail-mary-win-best-production-design-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1))",
-      "content_html": "<p>- **Polymarket Oscars 2027 Production Design market leads with The Odyssey at 45 percent** — Polymarket launched its Oscars 2027 Best Production Design Winner market on October 14 with 11 possible outcomes. The Odyssey leads at 45 percent, followed by Project Hail Mary at 27 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-production-design-winner-20261013180153422?marketSlug=will-project-hail-mary-win-best-production-design-at-the-99th-academy-awards-20261013180153422&amp;outcomeIndex=1))</p>",
-      "date_published": "2026-10-15T11:45:00-04:00",
-      "date_modified": "2026-10-15T11:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/oscars-2027-best-production-design-winner-20261013180153422?marketSlug=will-project-hail-mary-win-best-production-design-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1",
-      "links": [
-        "https://polymarket.com/event/oscars-2027-best-production-design-winner-20261013180153422?marketSlug=will-project-hail-mary-win-best-production-design-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:45 AM ET",
-      "body": "- **Polymarket Oscars 2027 Production Design market leads with The Odyssey at 45 percent** — Polymarket launched its Oscars 2027 Best Production Design Winner market on October 14 with 11 possible outcomes. The Odyssey leads at 45 percent, followed by Project Hail Mary at 27 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-production-design-winner-20261013180153422?marketSlug=will-project-hail-mary-win-best-production-design-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1))",
-      "image_url": null,
-      "published": "2026-10-15T11:45:00-04:00",
-      "source": "2026-10-15_1145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1139-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1139-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nLos Angeles Mayoral Election: Nithya Raman leads at 54% on $15.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a political/election category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026\n\nLisbon: Dalma Galfi vs. Matilde Jorge draws $284K in 24 hours, with the Yes outcome above 99%\nPolymarket's board as of Oct. 15, 2:23 PM UTC ranks the Lisbon contract 32nd by 24-hour volume — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Los Angeles Mayoral Election: Nithya Raman leads at 54% on $15.3M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a political/election category different from the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026<br/><br/>Lisbon: Dalma Galfi vs. Matilde Jorge draws $284K in 24 hours, with the Yes outcome above 99%<br/>Polymarket&#x27;s board as of Oct. 15, 2:23 PM UTC ranks the Lisbon contract 32nd by 24-hour volume — a matchup not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T11:39:00-04:00",
-      "date_modified": "2026-10-15T11:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026",
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:39 AM ET",
-      "body": "Infiniti Briefing\n\nLos Angeles Mayoral Election: Nithya Raman leads at 54% on $15.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads, in a political/election category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026\n\nLisbon: Dalma Galfi vs. Matilde Jorge draws $284K in 24 hours, with the Yes outcome above 99%\nPolymarket's board as of Oct. 15, 2:23 PM UTC ranks the Lisbon contract 32nd by 24-hour volume — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T11:39:00-04:00",
-      "source": "2026-10-15_1139-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1130-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1130-edt-0",
-      "title": "Iowa Senate market prices Hinson at 59 cents on both Polymarket and Kalshi as Turek narrows the gap",
-      "content_text": "- **Iowa Senate market prices Hinson at 59 cents on both Polymarket and Kalshi as Turek narrows the gap** — Action Network reports both venues price Republican Ashley Hinson at 59 cents in Iowa's open Senate race, with Democrat Josh Turek at 41 cents on Polymarket and 42 cents on Kalshi. Hinson has led recent polling by margins inside the error bars, and the gap narrowed by about two points after the October 7 debate. ([Action Network](https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race))",
-      "content_html": "<p>- **Iowa Senate market prices Hinson at 59 cents on both Polymarket and Kalshi as Turek narrows the gap** — Action Network reports both venues price Republican Ashley Hinson at 59 cents in Iowa&#x27;s open Senate race, with Democrat Josh Turek at 41 cents on Polymarket and 42 cents on Kalshi. Hinson has led recent polling by margins inside the error bars, and the gap narrowed by about two points after the October 7 debate. ([Action Network](https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race))</p>",
-      "date_published": "2026-10-15T11:30:00-04:00",
-      "date_modified": "2026-10-15T11:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race",
-      "links": [
-        "https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:30 AM ET",
-      "body": "- **Iowa Senate market prices Hinson at 59 cents on both Polymarket and Kalshi as Turek narrows the gap** — Action Network reports both venues price Republican Ashley Hinson at 59 cents in Iowa's open Senate race, with Democrat Josh Turek at 41 cents on Polymarket and 42 cents on Kalshi. Hinson has led recent polling by margins inside the error bars, and the gap narrowed by about two points after the October 7 debate. ([Action Network](https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race))",
-      "image_url": null,
-      "published": "2026-10-15T11:30:00-04:00",
-      "source": "2026-10-15_1130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1130-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1130-edt-1",
-      "title": "Kalshi market puts only a 9 percent chance on Bitcoin hitting 50,000 dollars before 100,000 dollars as Schiff urges a switch to gold",
-      "content_text": "- **Kalshi market puts only a 9 percent chance on Bitcoin hitting 50,000 dollars before 100,000 dollars as Schiff urges a switch to gold** — Blockchain.News reports Peter Schiff urged investors on October 14 to sell Bitcoin and buy gold, citing a Kalshi alert. The market priced only a 9 percent probability that Bitcoin reaches 50,000 dollars before 100,000 dollars, with Bitcoin trading near 81,474 dollars at the time. ([Blockchain.News](https://blockchain.news/flashnews/kalshi-schiff-urges-sell-bitcoin-gold))",
-      "content_html": "<p>- **Kalshi market puts only a 9 percent chance on Bitcoin hitting 50,000 dollars before 100,000 dollars as Schiff urges a switch to gold** — Blockchain.News reports Peter Schiff urged investors on October 14 to sell Bitcoin and buy gold, citing a Kalshi alert. The market priced only a 9 percent probability that Bitcoin reaches 50,000 dollars before 100,000 dollars, with Bitcoin trading near 81,474 dollars at the time. ([Blockchain.News](https://blockchain.news/flashnews/kalshi-schiff-urges-sell-bitcoin-gold))</p>",
-      "date_published": "2026-10-15T11:30:00-04:00",
-      "date_modified": "2026-10-15T11:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Bitcoin",
-        "Gold"
-      ],
-      "image": null,
-      "external_url": "https://blockchain.news/flashnews/kalshi-schiff-urges-sell-bitcoin-gold",
-      "links": [
-        "https://blockchain.news/flashnews/kalshi-schiff-urges-sell-bitcoin-gold"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:30 AM ET",
-      "body": "- **Kalshi market puts only a 9 percent chance on Bitcoin hitting 50,000 dollars before 100,000 dollars as Schiff urges a switch to gold** — Blockchain.News reports Peter Schiff urged investors on October 14 to sell Bitcoin and buy gold, citing a Kalshi alert. The market priced only a 9 percent probability that Bitcoin reaches 50,000 dollars before 100,000 dollars, with Bitcoin trading near 81,474 dollars at the time. ([Blockchain.News](https://blockchain.news/flashnews/kalshi-schiff-urges-sell-bitcoin-gold))",
-      "image_url": null,
-      "published": "2026-10-15T11:30:00-04:00",
-      "source": "2026-10-15_1130-edt.json",
       "matches_facebook_post": false
     }
   ]
