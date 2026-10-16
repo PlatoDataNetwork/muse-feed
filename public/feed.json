@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T15:35:39.249973-04:00",
+  "updated": "2026-10-16T15:50:40.272540-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-16_1539-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1539-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nJuan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded, in a newly listed market\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (the Reuters $220M midterm study surfacing again in search is a struck repeat), so this…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/\n\nElon Musk # tweets October 15-17: the 90-114 outcome at 43% on Polymarket, on $219K traded in 24 hours\nPolydict ranks the short-window count book among the day's top 40 by 24-hour volume ahead of its Oct. 17 close — a new window distinct from the October 13-20 and October…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Juan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded, in a newly listed market<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (the Reuters $220M midterm study surfacing again in search is a struck repeat), so this…<br/>#PredictionMarkets #Kalshi #Midterms<br/>https://predictionbubbles.net/markets/<br/><br/>Elon Musk # tweets October 15-17: the 90-114 outcome at 43% on Polymarket, on $219K traded in 24 hours<br/>Polydict ranks the short-window count book among the day&#x27;s top 40 by 24-hour volume ahead of its Oct. 17 close — a new window distinct from the October 13-20 and October…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T15:39:00-04:00",
+      "date_modified": "2026-10-16T15:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Midterms",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/",
+        "https://polydict.app/markets"
+      ],
+      "timestamp": "Oct 16, 2026 · 3:39 PM ET",
+      "body": "Infiniti Briefing\n\nJuan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded, in a newly listed market\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (the Reuters $220M midterm study surfacing again in search is a struck repeat), so this…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/\n\nElon Musk # tweets October 15-17: the 90-114 outcome at 43% on Polymarket, on $219K traded in 24 hours\nPolydict ranks the short-window count book among the day's top 40 by 24-hour volume ahead of its Oct. 17 close — a new window distinct from the October 13-20 and October…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T15:39:00-04:00",
+      "source": "2026-10-16_1539-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1530-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1530-edt-0",
@@ -4605,35 +4638,6 @@
       ],
       "timestamp": "Oct 16, 2026 · 8:30 AM ET",
       "body": "- **Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections** — Taiwan authorised restrictions on Coinbase and Kalshi over suspected violations of the Public Officials Election and Recall Act, which prohibits gambling for profit based on election outcomes, ahead of local elections scheduled for November 28. Some Coinbase users reported access problems from Wednesday, and Polymarket has also been blocked in Taiwan. ([Grafa](https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets))",
-      "image_url": null,
-      "published": "2026-10-16T08:30:00-04:00",
-      "source": "2026-10-16_0830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0830-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0830-edt-1",
-      "title": "KuCoin plans Predictions feature giving users access to Polymarket markets in its app",
-      "content_text": "- **KuCoin plans Predictions feature giving users access to Polymarket markets in its app** — KuCoin's planned Predictions feature will let eligible users access supported markets provided by Polymarket via KuCoin Web3 within the KuCoin App. The move brings prediction markets into a financial app users already use for digital assets. ([Coin Edition](https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/))",
-      "content_html": "<p>- **KuCoin plans Predictions feature giving users access to Polymarket markets in its app** — KuCoin&#x27;s planned Predictions feature will let eligible users access supported markets provided by Polymarket via KuCoin Web3 within the KuCoin App. The move brings prediction markets into a financial app users already use for digital assets. ([Coin Edition](https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/))</p>",
-      "date_published": "2026-10-16T08:30:00-04:00",
-      "date_modified": "2026-10-16T08:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/",
-      "links": [
-        "https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/"
-      ],
-      "timestamp": "Oct 16, 2026 · 8:30 AM ET",
-      "body": "- **KuCoin plans Predictions feature giving users access to Polymarket markets in its app** — KuCoin's planned Predictions feature will let eligible users access supported markets provided by Polymarket via KuCoin Web3 within the KuCoin App. The move brings prediction markets into a financial app users already use for digital assets. ([Coin Edition](https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/))",
       "image_url": null,
       "published": "2026-10-16T08:30:00-04:00",
       "source": "2026-10-16_0830-edt.json",
