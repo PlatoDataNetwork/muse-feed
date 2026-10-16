@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T03:33:39.404833-04:00",
+  "updated": "2026-10-16T03:48:24.716722-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-16_0339-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0339-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nWeekly volume: Kalshi at $19B and Polymarket at $3.7B, both up about 85% on the week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm study surfacing again in search is a struck repeat, so…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/\n\nNBA 2026-27 Points Per Game Leader: Michael Porter Jr. at 88% on Polymarket, LeBron James at 82%\nPolymarket's season scoring-leader book puts Porter Jr. clear at the top at 88%, with James next at 82% — a futures contract not featured in any Oct. 16 edition, in a…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/nba-2026-27-ppg-leader\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Weekly volume: Kalshi at $19B and Polymarket at $3.7B, both up about 85% on the week<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm study surfacing again in search is a struck repeat, so…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/<br/><br/>NBA 2026-27 Points Per Game Leader: Michael Porter Jr. at 88% on Polymarket, LeBron James at 82%<br/>Polymarket&#x27;s season scoring-leader book puts Porter Jr. clear at the top at 88%, with James next at 82% — a futures contract not featured in any Oct. 16 edition, in a…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/nba-2026-27-ppg-leader<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T03:39:00-04:00",
+      "date_modified": "2026-10-16T03:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/",
+      "links": [
+        "https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/",
+        "https://polymarket.com/event/nba-2026-27-ppg-leader"
+      ],
+      "timestamp": "Oct 16, 2026 · 3:39 AM ET",
+      "body": "Infiniti Briefing\n\nWeekly volume: Kalshi at $19B and Polymarket at $3.7B, both up about 85% on the week\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm study surfacing again in search is a struck repeat, so…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/\n\nNBA 2026-27 Points Per Game Leader: Michael Porter Jr. at 88% on Polymarket, LeBron James at 82%\nPolymarket's season scoring-leader book puts Porter Jr. clear at the top at 88%, with James next at 82% — a futures contract not featured in any Oct. 16 edition, in a…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/nba-2026-27-ppg-leader\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T03:39:00-04:00",
+      "source": "2026-10-16_0339-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-16_0324-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0324-edt",
@@ -4650,35 +4683,6 @@
       "image_url": null,
       "published": "2026-10-15T18:39:00-04:00",
       "source": "2026-10-15_1839-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1830-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1830-edt-0",
-      "title": "Kalshi College Football Playoff odds put Georgia at 93 percent and Notre Dame at 92 percent",
-      "content_text": "- **Kalshi College Football Playoff odds put Georgia at 93 percent and Notre Dame at 92 percent** — Kalshi's College Football Playoff qualifier market lists Georgia at 93 percent and Notre Dame at 92 percent, followed by Miami at 88 percent, Ohio State at 84 percent and Indiana at 78 percent. Texas stays at 68 percent after its loss to Oklahoma, while Oregon and LSU fell sharply after second losses. ([Kalshi News](https://news.kalshi.com/p/college-football-playoff-odds-update-texas-lsu-plummet-after-upsets))",
-      "content_html": "<p>- **Kalshi College Football Playoff odds put Georgia at 93 percent and Notre Dame at 92 percent** — Kalshi&#x27;s College Football Playoff qualifier market lists Georgia at 93 percent and Notre Dame at 92 percent, followed by Miami at 88 percent, Ohio State at 84 percent and Indiana at 78 percent. Texas stays at 68 percent after its loss to Oklahoma, while Oregon and LSU fell sharply after second losses. ([Kalshi News](https://news.kalshi.com/p/college-football-playoff-odds-update-texas-lsu-plummet-after-upsets))</p>",
-      "date_published": "2026-10-15T18:30:00-04:00",
-      "date_modified": "2026-10-15T18:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://news.kalshi.com/p/college-football-playoff-odds-update-texas-lsu-plummet-after-upsets",
-      "links": [
-        "https://news.kalshi.com/p/college-football-playoff-odds-update-texas-lsu-plummet-after-upsets"
-      ],
-      "timestamp": "Oct 15, 2026 · 6:30 PM ET",
-      "body": "- **Kalshi College Football Playoff odds put Georgia at 93 percent and Notre Dame at 92 percent** — Kalshi's College Football Playoff qualifier market lists Georgia at 93 percent and Notre Dame at 92 percent, followed by Miami at 88 percent, Ohio State at 84 percent and Indiana at 78 percent. Texas stays at 68 percent after its loss to Oklahoma, while Oregon and LSU fell sharply after second losses. ([Kalshi News](https://news.kalshi.com/p/college-football-playoff-odds-update-texas-lsu-plummet-after-upsets))",
-      "image_url": null,
-      "published": "2026-10-15T18:30:00-04:00",
-      "source": "2026-10-15_1830-edt.json",
       "matches_facebook_post": false
     }
   ]
