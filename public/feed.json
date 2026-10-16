@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T11:34:19.002695-04:00",
+  "updated": "2026-10-16T11:51:29.094985-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,155 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_1145-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1145-edt-0",
+      "title": "Prediction markets price a Republican win in the Alabama governor race at 92 to 94 percent",
+      "content_text": "- **Prediction markets price a Republican win in the Alabama governor race at 92 to 94 percent** — A Covers preview of the Alabama race published October 15 said Kalshi priced a Republican victory at 92 percent, while Polymarket priced Tuberville at 94 percent against Jones at 6 percent. Both candidates have backed letting voters decide on a state lottery, leaving the next governor a key role in any negotiations. ([Covers](https://www.covers.com/industry/alabama-election-preview-governors-support-lottery-october-15-2026))",
+      "content_html": "<p>- **Prediction markets price a Republican win in the Alabama governor race at 92 to 94 percent** — A Covers preview of the Alabama race published October 15 said Kalshi priced a Republican victory at 92 percent, while Polymarket priced Tuberville at 94 percent against Jones at 6 percent. Both candidates have backed letting voters decide on a state lottery, leaving the next governor a key role in any negotiations. ([Covers](https://www.covers.com/industry/alabama-election-preview-governors-support-lottery-october-15-2026))</p>",
+      "date_published": "2026-10-16T11:45:00-04:00",
+      "date_modified": "2026-10-16T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/industry/alabama-election-preview-governors-support-lottery-october-15-2026",
+      "links": [
+        "https://www.covers.com/industry/alabama-election-preview-governors-support-lottery-october-15-2026"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:45 AM ET",
+      "body": "- **Prediction markets price a Republican win in the Alabama governor race at 92 to 94 percent** — A Covers preview of the Alabama race published October 15 said Kalshi priced a Republican victory at 92 percent, while Polymarket priced Tuberville at 94 percent against Jones at 6 percent. Both candidates have backed letting voters decide on a state lottery, leaving the next governor a key role in any negotiations. ([Covers](https://www.covers.com/industry/alabama-election-preview-governors-support-lottery-october-15-2026))",
+      "image_url": null,
+      "published": "2026-10-16T11:45:00-04:00",
+      "source": "2026-10-16_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1145-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1145-edt-1",
+      "title": "Prediction markets face scrutiny over bets tied to murder trials",
+      "content_text": "- **Prediction markets face scrutiny over bets tied to murder trials** — Reporting on markets tied to criminal verdicts said a federal court in Chicago is putting insider-trading policies in place for staff, and two House members have petitioned authorities to bar judges, clerks and other court personnel from trading in such markets. Federal regulators have also proposed limits on event contracts tied to war, terrorism and assassination. ([NewsBetting](https://newsbetting.net/latest-news/prediction-markets-under-scrutiny-for-murder-trial-bets/))",
+      "content_html": "<p>- **Prediction markets face scrutiny over bets tied to murder trials** — Reporting on markets tied to criminal verdicts said a federal court in Chicago is putting insider-trading policies in place for staff, and two House members have petitioned authorities to bar judges, clerks and other court personnel from trading in such markets. Federal regulators have also proposed limits on event contracts tied to war, terrorism and assassination. ([NewsBetting](https://newsbetting.net/latest-news/prediction-markets-under-scrutiny-for-murder-trial-bets/))</p>",
+      "date_published": "2026-10-16T11:45:00-04:00",
+      "date_modified": "2026-10-16T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://newsbetting.net/latest-news/prediction-markets-under-scrutiny-for-murder-trial-bets/",
+      "links": [
+        "https://newsbetting.net/latest-news/prediction-markets-under-scrutiny-for-murder-trial-bets/"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:45 AM ET",
+      "body": "- **Prediction markets face scrutiny over bets tied to murder trials** — Reporting on markets tied to criminal verdicts said a federal court in Chicago is putting insider-trading policies in place for staff, and two House members have petitioned authorities to bar judges, clerks and other court personnel from trading in such markets. Federal regulators have also proposed limits on event contracts tied to war, terrorism and assassination. ([NewsBetting](https://newsbetting.net/latest-news/prediction-markets-under-scrutiny-for-murder-trial-bets/))",
+      "image_url": null,
+      "published": "2026-10-16T11:45:00-04:00",
+      "source": "2026-10-16_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1145-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1145-edt-2",
+      "title": "Sports made up about 82 percent of Kalshi US prediction volume over the last year, Sportradar piece notes",
+      "content_text": "- **Sports made up about 82 percent of Kalshi US prediction volume over the last year, Sportradar piece notes** — An October 16 Benzinga piece on Sportradar and the prediction markets boom, citing Eilers and Krejcik research, said sports accounted for about 82 percent of Kalshi US prediction volume over the last twelve months. It put total monthly US prediction market contract volume at 49.0 billion contracts in July 2026, about 49 times the August 2025 level. ([NewMediaWire](https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692))",
+      "content_html": "<p>- **Sports made up about 82 percent of Kalshi US prediction volume over the last year, Sportradar piece notes** — An October 16 Benzinga piece on Sportradar and the prediction markets boom, citing Eilers and Krejcik research, said sports accounted for about 82 percent of Kalshi US prediction volume over the last twelve months. It put total monthly US prediction market contract volume at 49.0 billion contracts in July 2026, about 49 times the August 2025 level. ([NewMediaWire](https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692))</p>",
+      "date_published": "2026-10-16T11:45:00-04:00",
+      "date_modified": "2026-10-16T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692",
+      "links": [
+        "https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:45 AM ET",
+      "body": "- **Sports made up about 82 percent of Kalshi US prediction volume over the last year, Sportradar piece notes** — An October 16 Benzinga piece on Sportradar and the prediction markets boom, citing Eilers and Krejcik research, said sports accounted for about 82 percent of Kalshi US prediction volume over the last twelve months. It put total monthly US prediction market contract volume at 49.0 billion contracts in July 2026, about 49 times the August 2025 level. ([NewMediaWire](https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692))",
+      "image_url": null,
+      "published": "2026-10-16T11:45:00-04:00",
+      "source": "2026-10-16_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1145-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1145-edt-3",
+      "title": "Polymarket prices Ethereum dipping to 2,300 dollars in October up 42 points to 79 percent",
+      "content_text": "- **Polymarket prices Ethereum dipping to 2,300 dollars in October up 42 points to 79 percent** — RG.org's movers table, comparing Tuesday night to Wednesday night prices, put the contract on Ethereum dipping to 2,300 dollars in October up from 37 percent to 79 percent. The move was the largest in that 24-hour table, ahead of declines in several Bitcoin reach contracts. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026))",
+      "content_html": "<p>- **Polymarket prices Ethereum dipping to 2,300 dollars in October up 42 points to 79 percent** — RG.org&#x27;s movers table, comparing Tuesday night to Wednesday night prices, put the contract on Ethereum dipping to 2,300 dollars in October up from 37 percent to 79 percent. The move was the largest in that 24-hour table, ahead of declines in several Bitcoin reach contracts. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026))</p>",
+      "date_published": "2026-10-16T11:45:00-04:00",
+      "date_modified": "2026-10-16T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026",
+      "links": [
+        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:45 AM ET",
+      "body": "- **Polymarket prices Ethereum dipping to 2,300 dollars in October up 42 points to 79 percent** — RG.org's movers table, comparing Tuesday night to Wednesday night prices, put the contract on Ethereum dipping to 2,300 dollars in October up from 37 percent to 79 percent. The move was the largest in that 24-hour table, ahead of declines in several Bitcoin reach contracts. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026))",
+      "image_url": null,
+      "published": "2026-10-16T11:45:00-04:00",
+      "source": "2026-10-16_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_1139-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1139-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nIran full airspace closure by Dec. 31 rises 5 points to 33% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh geopolitical repricing leads, in a political/geopolitical category…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026\n\nTampa Bay win the 2026 Pro Baseball American League Championship falls 17 points to 38% on Kalshi, on $2.3M traded\nPredictionBubbles' movers board puts Tampa Bay down 17 points in 24 hours — a contract not featured in any earlier edition today, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Iran full airspace closure by Dec. 31 rises 5 points to 33% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh geopolitical repricing leads, in a political/geopolitical category…<br/>#PredictionMarkets #Polymarket<br/>https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026<br/><br/>Tampa Bay win the 2026 Pro Baseball American League Championship falls 17 points to 38% on Kalshi, on $2.3M traded<br/>PredictionBubbles&#x27; movers board puts Tampa Bay down 17 points in 24 hours — a contract not featured in any earlier edition today, in a sports markets category distinct…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T11:39:00-04:00",
+      "date_modified": "2026-10-16T11:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026",
+      "links": [
+        "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026",
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:39 AM ET",
+      "body": "Infiniti Briefing\n\nIran full airspace closure by Dec. 31 rises 5 points to 33% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh geopolitical repricing leads, in a political/geopolitical category…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026\n\nTampa Bay win the 2026 Pro Baseball American League Championship falls 17 points to 38% on Kalshi, on $2.3M traded\nPredictionBubbles' movers board puts Tampa Bay down 17 points in 24 hours — a contract not featured in any earlier edition today, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T11:39:00-04:00",
+      "source": "2026-10-16_1139-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1130-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1130-edt-0",
@@ -4509,157 +4658,6 @@
       "image_url": null,
       "published": "2026-10-16T04:15:00-04:00",
       "source": "2026-10-16_0415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0415-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0415-edt-1",
-      "title": "Polymarket Oscars Best Sound market launched October 14 leads with Dune Part Three at 40 percent",
-      "content_text": "- **Polymarket Oscars Best Sound market launched October 14 leads with Dune Part Three at 40 percent** — Polymarket launched its Oscars 2027 Best Sound winner market on October 14 with 14 possible outcomes. Dune Part Three leads at 40 percent, just ahead of The Odyssey at 39 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-sound-winner-20261013180153422?marketSlug=will-the-odyssey-win-best-sound-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1))",
-      "content_html": "<p>- **Polymarket Oscars Best Sound market launched October 14 leads with Dune Part Three at 40 percent** — Polymarket launched its Oscars 2027 Best Sound winner market on October 14 with 14 possible outcomes. Dune Part Three leads at 40 percent, just ahead of The Odyssey at 39 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-sound-winner-20261013180153422?marketSlug=will-the-odyssey-win-best-sound-at-the-99th-academy-awards-20261013180153422&amp;outcomeIndex=1))</p>",
-      "date_published": "2026-10-16T04:15:00-04:00",
-      "date_modified": "2026-10-16T04:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/oscars-2027-best-sound-winner-20261013180153422?marketSlug=will-the-odyssey-win-best-sound-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1",
-      "links": [
-        "https://polymarket.com/event/oscars-2027-best-sound-winner-20261013180153422?marketSlug=will-the-odyssey-win-best-sound-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1"
-      ],
-      "timestamp": "Oct 16, 2026 · 4:15 AM ET",
-      "body": "- **Polymarket Oscars Best Sound market launched October 14 leads with Dune Part Three at 40 percent** — Polymarket launched its Oscars 2027 Best Sound winner market on October 14 with 14 possible outcomes. Dune Part Three leads at 40 percent, just ahead of The Odyssey at 39 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-sound-winner-20261013180153422?marketSlug=will-the-odyssey-win-best-sound-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1))",
-      "image_url": null,
-      "published": "2026-10-16T04:15:00-04:00",
-      "source": "2026-10-16_0415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0415-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0415-edt-2",
-      "title": "Polymarket market for most Oscar nominations leads with The Odyssey at 84 percent",
-      "content_text": "- **Polymarket market for most Oscar nominations leads with The Odyssey at 84 percent** — Polymarket traders price The Odyssey at 84 percent to receive the most nominations at the 99th Academy Awards, ahead of Dune Messiah at 11 percent. The market has drawn 236,600 dollars in total trading volume since it launched in February. ([Polymarket](https://polymarket.com/event/which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards/will-the-odyssey-get-the-most-oscar-nominations-at-the-99th-academy-awards))",
-      "content_html": "<p>- **Polymarket market for most Oscar nominations leads with The Odyssey at 84 percent** — Polymarket traders price The Odyssey at 84 percent to receive the most nominations at the 99th Academy Awards, ahead of Dune Messiah at 11 percent. The market has drawn 236,600 dollars in total trading volume since it launched in February. ([Polymarket](https://polymarket.com/event/which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards/will-the-odyssey-get-the-most-oscar-nominations-at-the-99th-academy-awards))</p>",
-      "date_published": "2026-10-16T04:15:00-04:00",
-      "date_modified": "2026-10-16T04:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards/will-the-odyssey-get-the-most-oscar-nominations-at-the-99th-academy-awards",
-      "links": [
-        "https://polymarket.com/event/which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards/will-the-odyssey-get-the-most-oscar-nominations-at-the-99th-academy-awards"
-      ],
-      "timestamp": "Oct 16, 2026 · 4:15 AM ET",
-      "body": "- **Polymarket market for most Oscar nominations leads with The Odyssey at 84 percent** — Polymarket traders price The Odyssey at 84 percent to receive the most nominations at the 99th Academy Awards, ahead of Dune Messiah at 11 percent. The market has drawn 236,600 dollars in total trading volume since it launched in February. ([Polymarket](https://polymarket.com/event/which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards/will-the-odyssey-get-the-most-oscar-nominations-at-the-99th-academy-awards))",
-      "image_url": null,
-      "published": "2026-10-16T04:15:00-04:00",
-      "source": "2026-10-16_0415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0415-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0415-edt-3",
-      "title": "Kalshi championship boards lead with 49ers and Bills at 12 percent for the NFL title",
-      "content_text": "- **Kalshi championship boards lead with 49ers and Bills at 12 percent for the NFL title** — Kalshi championship futures list the 49ers and Bills at 12 percent each for the 2027 NFL title, Ohio State at 17 percent for the college football title, and Milwaukee at 44.4 percent for the baseball title. The NBA board is led by the Thunder and Spurs at 22 percent each. ([Action Network](https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi/))",
-      "content_html": "<p>- **Kalshi championship boards lead with 49ers and Bills at 12 percent for the NFL title** — Kalshi championship futures list the 49ers and Bills at 12 percent each for the 2027 NFL title, Ohio State at 17 percent for the college football title, and Milwaukee at 44.4 percent for the baseball title. The NBA board is led by the Thunder and Spurs at 22 percent each. ([Action Network](https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi/))</p>",
-      "date_published": "2026-10-16T04:15:00-04:00",
-      "date_modified": "2026-10-16T04:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi/",
-      "links": [
-        "https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi/"
-      ],
-      "timestamp": "Oct 16, 2026 · 4:15 AM ET",
-      "body": "- **Kalshi championship boards lead with 49ers and Bills at 12 percent for the NFL title** — Kalshi championship futures list the 49ers and Bills at 12 percent each for the 2027 NFL title, Ohio State at 17 percent for the college football title, and Milwaukee at 44.4 percent for the baseball title. The NBA board is led by the Thunder and Spurs at 22 percent each. ([Action Network](https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi/))",
-      "image_url": null,
-      "published": "2026-10-16T04:15:00-04:00",
-      "source": "2026-10-16_0415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0409-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0409-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKalshi Midterms Hub seat projection: Democrats favored in 224 House districts, Republicans in 204, with 7 toss-ups\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm study surfacing again in search is a struck repeat, so…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/\n\nMinnesota Senate: Peggy Flanagan at 88% on both Kalshi and Polymarket, on $53K combined in 24 hours\nDeFi Rate's Senate board, observed Oct. 16 at 12:59 AM ET, puts Flanagan (D) at 88c on both venues against Michele Tafoya (R) at 13%, with $49K of the volume on Kalshi…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://defirate.com/odds/senate/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi Midterms Hub seat projection: Democrats favored in 224 House districts, Republicans in 204, with 7 toss-ups<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm study surfacing again in search is a struck repeat, so…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/<br/><br/>Minnesota Senate: Peggy Flanagan at 88% on both Kalshi and Polymarket, on $53K combined in 24 hours<br/>DeFi Rate&#x27;s Senate board, observed Oct. 16 at 12:59 AM ET, puts Flanagan (D) at 88c on both venues against Michele Tafoya (R) at 13%, with $49K of the volume on Kalshi…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://defirate.com/odds/senate/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T04:09:00-04:00",
-      "date_modified": "2026-10-16T04:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Senate",
-        "Elections",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/",
-      "links": [
-        "https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/",
-        "https://defirate.com/odds/senate/"
-      ],
-      "timestamp": "Oct 16, 2026 · 4:09 AM ET",
-      "body": "Infiniti Briefing\n\nKalshi Midterms Hub seat projection: Democrats favored in 224 House districts, Republicans in 204, with 7 toss-ups\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm study surfacing again in search is a struck repeat, so…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/\n\nMinnesota Senate: Peggy Flanagan at 88% on both Kalshi and Polymarket, on $53K combined in 24 hours\nDeFi Rate's Senate board, observed Oct. 16 at 12:59 AM ET, puts Flanagan (D) at 88c on both venues against Michele Tafoya (R) at 13%, with $49K of the volume on Kalshi…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://defirate.com/odds/senate/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T04:09:00-04:00",
-      "source": "2026-10-16_0409-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0400-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0400-edt-0",
-      "title": "Kalshi prices Colts at 74 percent against Titans at 26 percent",
-      "content_text": "- **Kalshi prices Colts at 74 percent against Titans at 26 percent** — Kalshi pricing as of October 14 put Indianapolis at 74 percent to beat Tennessee at 26 percent, with the Colts to win by more than 6.5 points at 54 percent and the game total over 43.5 points at 53 percent. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/14/kalshi-promo-code-rocky-titans-colts-odds/))",
-      "content_html": "<p>- **Kalshi prices Colts at 74 percent against Titans at 26 percent** — Kalshi pricing as of October 14 put Indianapolis at 74 percent to beat Tennessee at 26 percent, with the Colts to win by more than 6.5 points at 54 percent and the game total over 43.5 points at 53 percent. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/14/kalshi-promo-code-rocky-titans-colts-odds/))</p>",
-      "date_published": "2026-10-16T04:00:00-04:00",
-      "date_modified": "2026-10-16T04:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.rockytopinsider.com/2026/10/14/kalshi-promo-code-rocky-titans-colts-odds/",
-      "links": [
-        "https://www.rockytopinsider.com/2026/10/14/kalshi-promo-code-rocky-titans-colts-odds/"
-      ],
-      "timestamp": "Oct 16, 2026 · 4:00 AM ET",
-      "body": "- **Kalshi prices Colts at 74 percent against Titans at 26 percent** — Kalshi pricing as of October 14 put Indianapolis at 74 percent to beat Tennessee at 26 percent, with the Colts to win by more than 6.5 points at 54 percent and the game total over 43.5 points at 53 percent. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/14/kalshi-promo-code-rocky-titans-colts-odds/))",
-      "image_url": null,
-      "published": "2026-10-16T04:00:00-04:00",
-      "source": "2026-10-16_0400-edt.json",
       "matches_facebook_post": false
     }
   ]
