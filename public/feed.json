@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T16:49:13.308596-04:00",
+  "updated": "2026-10-16T17:04:32.731854-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,184 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_1700-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1700-edt-0",
+      "title": "UK punters remain blocked from Kalshi and Polymarket as UK regulators weigh entry",
+      "content_text": "- **UK punters remain blocked from Kalshi and Polymarket as UK regulators weigh entry** — Both Kalshi and Polymarket block UK users. The Gambling Commission said in February 2026 that such products would be treated as a betting intermediary needing a licence for sport, while the FCA confirmed on October 6 that it is in talks with operators exploring UK entry. ([Tipster Competition](https://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports))",
+      "content_html": "<p>- **UK punters remain blocked from Kalshi and Polymarket as UK regulators weigh entry** — Both Kalshi and Polymarket block UK users. The Gambling Commission said in February 2026 that such products would be treated as a betting intermediary needing a licence for sport, while the FCA confirmed on October 6 that it is in talks with operators exploring UK entry. ([Tipster Competition](https://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports))</p>",
+      "date_published": "2026-10-16T17:00:00-04:00",
+      "date_modified": "2026-10-16T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "FCA"
+      ],
+      "image": null,
+      "external_url": "https://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports",
+      "links": [
+        "https://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 PM ET",
+      "body": "- **UK punters remain blocked from Kalshi and Polymarket as UK regulators weigh entry** — Both Kalshi and Polymarket block UK users. The Gambling Commission said in February 2026 that such products would be treated as a betting intermediary needing a licence for sport, while the FCA confirmed on October 6 that it is in talks with operators exploring UK entry. ([Tipster Competition](https://tipstercompetition.com/article/prediction-markets-explained-kalshi-polymarket-sports))",
+      "image_url": null,
+      "published": "2026-10-16T17:00:00-04:00",
+      "source": "2026-10-16_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1700-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1700-edt-1",
+      "title": "SpeedLabs raises 6.5 million dollars in seed funding for micro-betting prediction markets",
+      "content_text": "- **SpeedLabs raises 6.5 million dollars in seed funding for micro-betting prediction markets** — Prediction markets supplier SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital, with Bullpen Capital, TA Ventures and EdgeEquity also taking part. The funding prepares the launch of Momentum Markets, a platform for live in-game micro-markets that react to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))",
+      "content_html": "<p>- **SpeedLabs raises 6.5 million dollars in seed funding for micro-betting prediction markets** — Prediction markets supplier SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital, with Bullpen Capital, TA Ventures and EdgeEquity also taking part. The funding prepares the launch of Momentum Markets, a platform for live in-game micro-markets that react to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))</p>",
+      "date_published": "2026-10-16T17:00:00-04:00",
+      "date_modified": "2026-10-16T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728",
+      "links": [
+        "https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 PM ET",
+      "body": "- **SpeedLabs raises 6.5 million dollars in seed funding for micro-betting prediction markets** — Prediction markets supplier SpeedLabs raised 6.5 million dollars in seed funding led by Parlay Capital, with Bullpen Capital, TA Ventures and EdgeEquity also taking part. The funding prepares the launch of Momentum Markets, a platform for live in-game micro-markets that react to events during games. ([GambleRss](https://gamblerss.com/micro-betting-prediction-markets-startup-raises-6-5m-in-seed-funding-63728))",
+      "image_url": null,
+      "published": "2026-10-16T17:00:00-04:00",
+      "source": "2026-10-16_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1700-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1700-edt-2",
+      "title": "KuCoin launches Predictions on October 12 with Polymarket markets inside its app",
+      "content_text": "- **KuCoin launches Predictions on October 12 with Polymarket markets inside its app** — KuCoin Predictions launched on October 12, powered by an integration with Polymarket. Users can browse and trade supported Polymarket event markets directly in the KuCoin app with USDT settlement, while Polymarket provides the markets, prices, liquidity and result determination. ([KuCoin](https://www.kucoin.com/blog/why-prediction-markets-are-crypto-next-big-business-line))",
+      "content_html": "<p>- **KuCoin launches Predictions on October 12 with Polymarket markets inside its app** — KuCoin Predictions launched on October 12, powered by an integration with Polymarket. Users can browse and trade supported Polymarket event markets directly in the KuCoin app with USDT settlement, while Polymarket provides the markets, prices, liquidity and result determination. ([KuCoin](https://www.kucoin.com/blog/why-prediction-markets-are-crypto-next-big-business-line))</p>",
+      "date_published": "2026-10-16T17:00:00-04:00",
+      "date_modified": "2026-10-16T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.kucoin.com/blog/why-prediction-markets-are-crypto-next-big-business-line",
+      "links": [
+        "https://www.kucoin.com/blog/why-prediction-markets-are-crypto-next-big-business-line"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 PM ET",
+      "body": "- **KuCoin launches Predictions on October 12 with Polymarket markets inside its app** — KuCoin Predictions launched on October 12, powered by an integration with Polymarket. Users can browse and trade supported Polymarket event markets directly in the KuCoin app with USDT settlement, while Polymarket provides the markets, prices, liquidity and result determination. ([KuCoin](https://www.kucoin.com/blog/why-prediction-markets-are-crypto-next-big-business-line))",
+      "image_url": null,
+      "published": "2026-10-16T17:00:00-04:00",
+      "source": "2026-10-16_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1700-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1700-edt-3",
+      "title": "Kalshi inflation trader Brian Golden beats Wall Street forecasters with over 2 million dollars made",
+      "content_text": "- **Kalshi inflation trader Brian Golden beats Wall Street forecasters with over 2 million dollars made** — Brian Golden, a 44-year-old former theater director trading from Los Angeles, has become the most successful trader in Kalshi markets on economic indicators such as inflation. Bloomberg Law reports he has made over 2 million dollars on the platform. ([Bloomberg Law](https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage))",
+      "content_html": "<p>- **Kalshi inflation trader Brian Golden beats Wall Street forecasters with over 2 million dollars made** — Brian Golden, a 44-year-old former theater director trading from Los Angeles, has become the most successful trader in Kalshi markets on economic indicators such as inflation. Bloomberg Law reports he has made over 2 million dollars on the platform. ([Bloomberg Law](https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage))</p>",
+      "date_published": "2026-10-16T17:00:00-04:00",
+      "date_modified": "2026-10-16T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage",
+      "links": [
+        "https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 PM ET",
+      "body": "- **Kalshi inflation trader Brian Golden beats Wall Street forecasters with over 2 million dollars made** — Brian Golden, a 44-year-old former theater director trading from Los Angeles, has become the most successful trader in Kalshi markets on economic indicators such as inflation. Bloomberg Law reports he has made over 2 million dollars on the platform. ([Bloomberg Law](https://news.bloomberglaw.com/banking-law/screenwriter-beats-wall-street-on-inflation-bets-from-his-garage))",
+      "image_url": null,
+      "published": "2026-10-16T17:00:00-04:00",
+      "source": "2026-10-16_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1700-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1700-edt-4",
+      "title": "Prediction markets favor Democrats for the House and Senate ahead of the 2026 midterms",
+      "content_text": "- **Prediction markets favor Democrats for the House and Senate ahead of the 2026 midterms** — As of Tuesday, Polymarket gave Democrats a 91 percent chance of winning the House and a 64 percent chance of taking the Senate. Kalshi also listed a Democratic sweep as the leading balance-of-power outcome, with its individual markets favoring Democrats in Texas, Maine and Ohio and Republicans in Iowa. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
+      "content_html": "<p>- **Prediction markets favor Democrats for the House and Senate ahead of the 2026 midterms** — As of Tuesday, Polymarket gave Democrats a 91 percent chance of winning the House and a 64 percent chance of taking the Senate. Kalshi also listed a Democratic sweep as the leading balance-of-power outcome, with its individual markets favoring Democrats in Texas, Maine and Ohio and Republicans in Iowa. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))</p>",
+      "date_published": "2026-10-16T17:00:00-04:00",
+      "date_modified": "2026-10-16T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/",
+      "links": [
+        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 PM ET",
+      "body": "- **Prediction markets favor Democrats for the House and Senate ahead of the 2026 midterms** — As of Tuesday, Polymarket gave Democrats a 91 percent chance of winning the House and a 64 percent chance of taking the Senate. Kalshi also listed a Democratic sweep as the leading balance-of-power outcome, with its individual markets favoring Democrats in Texas, Maine and Ohio and Republicans in Iowa. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
+      "image_url": null,
+      "published": "2026-10-16T17:00:00-04:00",
+      "source": "2026-10-16_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_1654-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1654-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nInk FDV above $100M one day after launch rises 11.5 points to 33.5% on Polymarket, on $174K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh launch-valuation contract leads, in a crypto category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nPete Hegseth leaves as Secretary of Defense before 2027 rises 7 points to 28% on Kalshi, on $1.3M traded\nPredictionBubbles ranks the cabinet-exit contract among the day's notable upward moves — a contract not featured in any earlier edition today, in a political category…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Ink FDV above $100M one day after launch rises 11.5 points to 33.5% on Polymarket, on $174K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh launch-valuation contract leads, in a crypto category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Pete Hegseth leaves as Secretary of Defense before 2027 rises 7 points to 28% on Kalshi, on $1.3M traded<br/>PredictionBubbles ranks the cabinet-exit contract among the day&#x27;s notable upward moves — a contract not featured in any earlier edition today, in a political category…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T16:54:00-04:00",
+      "date_modified": "2026-10-16T16:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:54 PM ET",
+      "body": "Infiniti Briefing\n\nInk FDV above $100M one day after launch rises 11.5 points to 33.5% on Polymarket, on $174K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh launch-valuation contract leads, in a crypto category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nPete Hegseth leaves as Secretary of Defense before 2027 rises 7 points to 28% on Kalshi, on $1.3M traded\nPredictionBubbles ranks the cabinet-exit contract among the day's notable upward moves — a contract not featured in any earlier edition today, in a political category…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T16:54:00-04:00",
+      "source": "2026-10-16_1654-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1645-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1645-edt-0",
@@ -4480,181 +4658,6 @@
       "image_url": null,
       "published": "2026-10-16T10:09:00-04:00",
       "source": "2026-10-16_1009-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1000-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1000-edt-0",
-      "title": "Fanatics plans up to 1 billion dollars in betting and gaming marketing for 2027",
-      "content_text": "- **Fanatics plans up to 1 billion dollars in betting and gaming marketing for 2027** — Bonus reports Fanatics CEO Michael Rubin told Bloomberg the company could spend as much as 1 billion dollars on betting and gaming marketing in 2027, up from about 350 million dollars this year, with the 2027 plan starting at 800 million dollars. Fanatics Markets, launched in December 2025, reaches states including California, Florida, Georgia and Texas where Fanatics cannot run a sportsbook. ([Bonus.com](https://www.bonus.com/news/prediction-markets-fanatics-1-billion-ad-plan/))",
-      "content_html": "<p>- **Fanatics plans up to 1 billion dollars in betting and gaming marketing for 2027** — Bonus reports Fanatics CEO Michael Rubin told Bloomberg the company could spend as much as 1 billion dollars on betting and gaming marketing in 2027, up from about 350 million dollars this year, with the 2027 plan starting at 800 million dollars. Fanatics Markets, launched in December 2025, reaches states including California, Florida, Georgia and Texas where Fanatics cannot run a sportsbook. ([Bonus.com](https://www.bonus.com/news/prediction-markets-fanatics-1-billion-ad-plan/))</p>",
-      "date_published": "2026-10-16T10:00:00-04:00",
-      "date_modified": "2026-10-16T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/prediction-markets-fanatics-1-billion-ad-plan/",
-      "links": [
-        "https://www.bonus.com/news/prediction-markets-fanatics-1-billion-ad-plan/"
-      ],
-      "timestamp": "Oct 16, 2026 · 10:00 AM ET",
-      "body": "- **Fanatics plans up to 1 billion dollars in betting and gaming marketing for 2027** — Bonus reports Fanatics CEO Michael Rubin told Bloomberg the company could spend as much as 1 billion dollars on betting and gaming marketing in 2027, up from about 350 million dollars this year, with the 2027 plan starting at 800 million dollars. Fanatics Markets, launched in December 2025, reaches states including California, Florida, Georgia and Texas where Fanatics cannot run a sportsbook. ([Bonus.com](https://www.bonus.com/news/prediction-markets-fanatics-1-billion-ad-plan/))",
-      "image_url": null,
-      "published": "2026-10-16T10:00:00-04:00",
-      "source": "2026-10-16_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1000-edt-1",
-      "title": "Deadspin October list notes prediction markets pulling back in Connecticut and Ohio amid state notices",
-      "content_text": "- **Deadspin October list notes prediction markets pulling back in Connecticut and Ohio amid state notices** — Deadspin, in a list updated October 16, says Gemini Predictions was among the platforms to pull out of Connecticut in early October after the state sent cease-and-desist letters to nine companies, and was also challenged in Ohio, which sent notices to 10 prediction market sites. The list says Novig, a sports-only market, is available in 47 states and DC and unavailable in Arizona, Nevada and Michigan. ([Deadspin](https://deadspin.com/prediction-markets/))",
-      "content_html": "<p>- **Deadspin October list notes prediction markets pulling back in Connecticut and Ohio amid state notices** — Deadspin, in a list updated October 16, says Gemini Predictions was among the platforms to pull out of Connecticut in early October after the state sent cease-and-desist letters to nine companies, and was also challenged in Ohio, which sent notices to 10 prediction market sites. The list says Novig, a sports-only market, is available in 47 states and DC and unavailable in Arizona, Nevada and Michigan. ([Deadspin](https://deadspin.com/prediction-markets/))</p>",
-      "date_published": "2026-10-16T10:00:00-04:00",
-      "date_modified": "2026-10-16T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://deadspin.com/prediction-markets/",
-      "links": [
-        "https://deadspin.com/prediction-markets/"
-      ],
-      "timestamp": "Oct 16, 2026 · 10:00 AM ET",
-      "body": "- **Deadspin October list notes prediction markets pulling back in Connecticut and Ohio amid state notices** — Deadspin, in a list updated October 16, says Gemini Predictions was among the platforms to pull out of Connecticut in early October after the state sent cease-and-desist letters to nine companies, and was also challenged in Ohio, which sent notices to 10 prediction market sites. The list says Novig, a sports-only market, is available in 47 states and DC and unavailable in Arizona, Nevada and Michigan. ([Deadspin](https://deadspin.com/prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-16T10:00:00-04:00",
-      "source": "2026-10-16_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1000-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1000-edt-2",
-      "title": "Polymarket Oscars 2027 Best Original Score nominations market launched October 14 leads with The Odyssey at 94 percent",
-      "content_text": "- **Polymarket Oscars 2027 Best Original Score nominations market launched October 14 leads with The Odyssey at 94 percent** — Polymarket launched its Oscars 2027 Best Original Score nominations market on October 14, with 12 possible outcomes. The Odyssey leads at 94 percent, followed by Dune: Part Three at 78 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-original-score-nominations-20261013180153422?marketSlug=will-project-hail-mary-be-nominated-for-best-original-score-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1))",
-      "content_html": "<p>- **Polymarket Oscars 2027 Best Original Score nominations market launched October 14 leads with The Odyssey at 94 percent** — Polymarket launched its Oscars 2027 Best Original Score nominations market on October 14, with 12 possible outcomes. The Odyssey leads at 94 percent, followed by Dune: Part Three at 78 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-original-score-nominations-20261013180153422?marketSlug=will-project-hail-mary-be-nominated-for-best-original-score-at-the-99th-academy-awards-20261013180153422&amp;outcomeIndex=1))</p>",
-      "date_published": "2026-10-16T10:00:00-04:00",
-      "date_modified": "2026-10-16T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/oscars-2027-best-original-score-nominations-20261013180153422?marketSlug=will-project-hail-mary-be-nominated-for-best-original-score-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1",
-      "links": [
-        "https://polymarket.com/event/oscars-2027-best-original-score-nominations-20261013180153422?marketSlug=will-project-hail-mary-be-nominated-for-best-original-score-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1"
-      ],
-      "timestamp": "Oct 16, 2026 · 10:00 AM ET",
-      "body": "- **Polymarket Oscars 2027 Best Original Score nominations market launched October 14 leads with The Odyssey at 94 percent** — Polymarket launched its Oscars 2027 Best Original Score nominations market on October 14, with 12 possible outcomes. The Odyssey leads at 94 percent, followed by Dune: Part Three at 78 percent. ([Polymarket](https://polymarket.com/event/oscars-2027-best-original-score-nominations-20261013180153422?marketSlug=will-project-hail-mary-be-nominated-for-best-original-score-at-the-99th-academy-awards-20261013180153422&outcomeIndex=1))",
-      "image_url": null,
-      "published": "2026-10-16T10:00:00-04:00",
-      "source": "2026-10-16_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0954-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0954-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nUS to break its record for billion-dollar weather and climate disasters in 2026 at 34% on Polymarket\nThe weather book, launched Aug. 19, prices Yes at 34c for a new annual record — a contract not featured in any earlier edition today, in a weather/science category…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673\n\nNew Stranger Things episode released worldwide before Jan. 1, 2027 at 4% on Kalshi\nPredictionBubbles' culture board lists the episode contract at 4.0% on Kalshi, inside a culture slice carrying $103.4M traded across 47 open markets — a contract not…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>US to break its record for billion-dollar weather and climate disasters in 2026 at 34% on Polymarket<br/>The weather book, launched Aug. 19, prices Yes at 34c for a new annual record — a contract not featured in any earlier edition today, in a weather/science category…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673<br/><br/>New Stranger Things episode released worldwide before Jan. 1, 2027 at 4% on Kalshi<br/>PredictionBubbles&#x27; culture board lists the episode contract at 4.0% on Kalshi, inside a culture slice carrying $103.4M traded across 47 open markets — a contract not…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T09:54:00-04:00",
-      "date_modified": "2026-10-16T09:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673",
-      "links": [
-        "https://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673",
-        "https://predictionbubbles.net/markets/"
-      ],
-      "timestamp": "Oct 16, 2026 · 9:54 AM ET",
-      "body": "Infiniti Briefing\n\nUS to break its record for billion-dollar weather and climate disasters in 2026 at 34% on Polymarket\nThe weather book, launched Aug. 19, prices Yes at 34c for a new annual record — a contract not featured in any earlier edition today, in a weather/science category…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673\n\nNew Stranger Things episode released worldwide before Jan. 1, 2027 at 4% on Kalshi\nPredictionBubbles' culture board lists the episode contract at 4.0% on Kalshi, inside a culture slice carrying $103.4M traded across 47 open markets — a contract not…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T09:54:00-04:00",
-      "source": "2026-10-16_0954-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0945-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0945-edt-0",
-      "title": "Polymarket biggest movers put SpaceX as largest IPO of 2026 up 13 points to 63 percent",
-      "content_text": "- **Polymarket biggest movers put SpaceX as largest IPO of 2026 up 13 points to 63 percent** — RG's October 16 daily review of Polymarket's largest 24-hour movers lists SpaceX as the largest IPO of 2026 rising 13 points to 63 percent and Bitcoin reaching 90,000 dollars in 2026 rising 7 points to 59 percent. Brazil presidential candidate Lula rose 4 points to 21 percent in the same review. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))",
-      "content_html": "<p>- **Polymarket biggest movers put SpaceX as largest IPO of 2026 up 13 points to 63 percent** — RG&#x27;s October 16 daily review of Polymarket&#x27;s largest 24-hour movers lists SpaceX as the largest IPO of 2026 rising 13 points to 63 percent and Bitcoin reaching 90,000 dollars in 2026 rising 7 points to 59 percent. Brazil presidential candidate Lula rose 4 points to 21 percent in the same review. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))</p>",
-      "date_published": "2026-10-16T09:45:00-04:00",
-      "date_modified": "2026-10-16T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026"
-      ],
-      "timestamp": "Oct 16, 2026 · 9:45 AM ET",
-      "body": "- **Polymarket biggest movers put SpaceX as largest IPO of 2026 up 13 points to 63 percent** — RG's October 16 daily review of Polymarket's largest 24-hour movers lists SpaceX as the largest IPO of 2026 rising 13 points to 63 percent and Bitcoin reaching 90,000 dollars in 2026 rising 7 points to 59 percent. Brazil presidential candidate Lula rose 4 points to 21 percent in the same review. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))",
-      "image_url": null,
-      "published": "2026-10-16T09:45:00-04:00",
-      "source": "2026-10-16_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0945-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0945-edt-1",
-      "title": "Hyperliquid HIP-4 prediction markets trail Kalshi and Polymarket with about 1.25 million dollars in daily volume",
-      "content_text": "- **Hyperliquid HIP-4 prediction markets trail Kalshi and Polymarket with about 1.25 million dollars in daily volume** — A ChainCatcher analysis cited by Bonus says Hyperliquid's HIP-4 outcome markets have processed 317 million dollars since launching on May 2, 2026, but daily volume was only about 1.25 million dollars in early October. The report says most activity sits in a subsidized rewards program rather than organic standalone market creation. ([Bonus.com](https://www.bonus.com/news/hyperliquid-s-hip-4-prediction-market-trails-far-behind-kalshi-and-polymarket-report-says/))",
-      "content_html": "<p>- **Hyperliquid HIP-4 prediction markets trail Kalshi and Polymarket with about 1.25 million dollars in daily volume** — A ChainCatcher analysis cited by Bonus says Hyperliquid&#x27;s HIP-4 outcome markets have processed 317 million dollars since launching on May 2, 2026, but daily volume was only about 1.25 million dollars in early October. The report says most activity sits in a subsidized rewards program rather than organic standalone market creation. ([Bonus.com](https://www.bonus.com/news/hyperliquid-s-hip-4-prediction-market-trails-far-behind-kalshi-and-polymarket-report-says/))</p>",
-      "date_published": "2026-10-16T09:45:00-04:00",
-      "date_modified": "2026-10-16T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/hyperliquid-s-hip-4-prediction-market-trails-far-behind-kalshi-and-polymarket-report-says/",
-      "links": [
-        "https://www.bonus.com/news/hyperliquid-s-hip-4-prediction-market-trails-far-behind-kalshi-and-polymarket-report-says/"
-      ],
-      "timestamp": "Oct 16, 2026 · 9:45 AM ET",
-      "body": "- **Hyperliquid HIP-4 prediction markets trail Kalshi and Polymarket with about 1.25 million dollars in daily volume** — A ChainCatcher analysis cited by Bonus says Hyperliquid's HIP-4 outcome markets have processed 317 million dollars since launching on May 2, 2026, but daily volume was only about 1.25 million dollars in early October. The report says most activity sits in a subsidized rewards program rather than organic standalone market creation. ([Bonus.com](https://www.bonus.com/news/hyperliquid-s-hip-4-prediction-market-trails-far-behind-kalshi-and-polymarket-report-says/))",
-      "image_url": null,
-      "published": "2026-10-16T09:45:00-04:00",
-      "source": "2026-10-16_0945-edt.json",
       "matches_facebook_post": false
     }
   ]
