@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T12:18:42.402705-04:00",
+  "updated": "2026-10-16T12:34:29.896466-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,158 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_1230-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1230-edt-0",
+      "title": "Prediction markets price California billionaire tax passage at 25 percent on both Kalshi and Polymarket",
+      "content_text": "- **Prediction markets price California billionaire tax passage at 25 percent on both Kalshi and Polymarket** — DeFi Rate observed both venues at 25 percent late on the morning of October 16, with the Kalshi price down 2 points over the past week. The contract on the one-time billionaire wealth tax ballot measure closes on November 3. ([DeFi Rate](https://defirate.com/odds/california-wealth-tax/))",
+      "content_html": "<p>- **Prediction markets price California billionaire tax passage at 25 percent on both Kalshi and Polymarket** — DeFi Rate observed both venues at 25 percent late on the morning of October 16, with the Kalshi price down 2 points over the past week. The contract on the one-time billionaire wealth tax ballot measure closes on November 3. ([DeFi Rate](https://defirate.com/odds/california-wealth-tax/))</p>",
+      "date_published": "2026-10-16T12:30:00-04:00",
+      "date_modified": "2026-10-16T12:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/california-wealth-tax/",
+      "links": [
+        "https://defirate.com/odds/california-wealth-tax/"
+      ],
+      "timestamp": "Oct 16, 2026 · 12:30 PM ET",
+      "body": "- **Prediction markets price California billionaire tax passage at 25 percent on both Kalshi and Polymarket** — DeFi Rate observed both venues at 25 percent late on the morning of October 16, with the Kalshi price down 2 points over the past week. The contract on the one-time billionaire wealth tax ballot measure closes on November 3. ([DeFi Rate](https://defirate.com/odds/california-wealth-tax/))",
+      "image_url": null,
+      "published": "2026-10-16T12:30:00-04:00",
+      "source": "2026-10-16_1230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1230-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1230-edt-1",
+      "title": "Polymarket October Fed no-change odds surge 13 points to 86.5 percent",
+      "content_text": "- **Polymarket October Fed no-change odds surge 13 points to 86.5 percent** — A Casino Reviews roundup on October 16 reported the no-change price jumping 13 points in 24 hours, while a 25 basis point hike fell to 13.5 percent and a larger hike stayed near 0.35 percent. The market settles on the Federal Reserve decision at its October 27-28 meeting. ([Casino Reviews](https://www.casinoreviews.net/news/fed-hold-odds-surge-as-bitcoin-dip-falls-and-brewers-rise/))",
+      "content_html": "<p>- **Polymarket October Fed no-change odds surge 13 points to 86.5 percent** — A Casino Reviews roundup on October 16 reported the no-change price jumping 13 points in 24 hours, while a 25 basis point hike fell to 13.5 percent and a larger hike stayed near 0.35 percent. The market settles on the Federal Reserve decision at its October 27-28 meeting. ([Casino Reviews](https://www.casinoreviews.net/news/fed-hold-odds-surge-as-bitcoin-dip-falls-and-brewers-rise/))</p>",
+      "date_published": "2026-10-16T12:30:00-04:00",
+      "date_modified": "2026-10-16T12:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.casinoreviews.net/news/fed-hold-odds-surge-as-bitcoin-dip-falls-and-brewers-rise/",
+      "links": [
+        "https://www.casinoreviews.net/news/fed-hold-odds-surge-as-bitcoin-dip-falls-and-brewers-rise/"
+      ],
+      "timestamp": "Oct 16, 2026 · 12:30 PM ET",
+      "body": "- **Polymarket October Fed no-change odds surge 13 points to 86.5 percent** — A Casino Reviews roundup on October 16 reported the no-change price jumping 13 points in 24 hours, while a 25 basis point hike fell to 13.5 percent and a larger hike stayed near 0.35 percent. The market settles on the Federal Reserve decision at its October 27-28 meeting. ([Casino Reviews](https://www.casinoreviews.net/news/fed-hold-odds-surge-as-bitcoin-dip-falls-and-brewers-rise/))",
+      "image_url": null,
+      "published": "2026-10-16T12:30:00-04:00",
+      "source": "2026-10-16_1230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1230-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1230-edt-2",
+      "title": "New wave of prediction market apps joins Kalshi and Polymarket as Kalshi posts about 14.8 billion dollars in 30 days",
+      "content_text": "- **New wave of prediction market apps joins Kalshi and Polymarket as Kalshi posts about 14.8 billion dollars in 30 days** — A Nerdbot explainer published October 15 put Kalshi at about 14.8 billion dollars over 30 days to October 13 and Polymarket at about 5.2 billion dollars over the same period. It listed newer US entrants including FanDuel Predicts, Fanatics Markets, Gemini Predictions, Novig and ProphetX, with market access varying by state. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
+      "content_html": "<p>- **New wave of prediction market apps joins Kalshi and Polymarket as Kalshi posts about 14.8 billion dollars in 30 days** — A Nerdbot explainer published October 15 put Kalshi at about 14.8 billion dollars over 30 days to October 13 and Polymarket at about 5.2 billion dollars over the same period. It listed newer US entrants including FanDuel Predicts, Fanatics Markets, Gemini Predictions, Novig and ProphetX, with market access varying by state. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))</p>",
+      "date_published": "2026-10-16T12:30:00-04:00",
+      "date_modified": "2026-10-16T12:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/",
+      "links": [
+        "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/"
+      ],
+      "timestamp": "Oct 16, 2026 · 12:30 PM ET",
+      "body": "- **New wave of prediction market apps joins Kalshi and Polymarket as Kalshi posts about 14.8 billion dollars in 30 days** — A Nerdbot explainer published October 15 put Kalshi at about 14.8 billion dollars over 30 days to October 13 and Polymarket at about 5.2 billion dollars over the same period. It listed newer US entrants including FanDuel Predicts, Fanatics Markets, Gemini Predictions, Novig and ProphetX, with market access varying by state. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
+      "image_url": null,
+      "published": "2026-10-16T12:30:00-04:00",
+      "source": "2026-10-16_1230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1230-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1230-edt-3",
+      "title": "Polymarket prices Flavio Bolsonaro at 79 percent against Lula at 21 percent in Brazil runoff",
+      "content_text": "- **Polymarket prices Flavio Bolsonaro at 79 percent against Lula at 21 percent in Brazil runoff** — An RG roundup on October 16 put Bolsonaro at 79 percent and Lula at 21 percent in a market with 184.2 million dollars traded, with Lula up from 17 percent a day earlier. Recent polls cited in the piece were much closer than the market price, with two debates still to come before the vote. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))",
+      "content_html": "<p>- **Polymarket prices Flavio Bolsonaro at 79 percent against Lula at 21 percent in Brazil runoff** — An RG roundup on October 16 put Bolsonaro at 79 percent and Lula at 21 percent in a market with 184.2 million dollars traded, with Lula up from 17 percent a day earlier. Recent polls cited in the piece were much closer than the market price, with two debates still to come before the vote. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))</p>",
+      "date_published": "2026-10-16T12:30:00-04:00",
+      "date_modified": "2026-10-16T12:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026",
+      "links": [
+        "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026"
+      ],
+      "timestamp": "Oct 16, 2026 · 12:30 PM ET",
+      "body": "- **Polymarket prices Flavio Bolsonaro at 79 percent against Lula at 21 percent in Brazil runoff** — An RG roundup on October 16 put Bolsonaro at 79 percent and Lula at 21 percent in a market with 184.2 million dollars traded, with Lula up from 17 percent a day earlier. Recent polls cited in the piece were much closer than the market price, with two debates still to come before the vote. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))",
+      "image_url": null,
+      "published": "2026-10-16T12:30:00-04:00",
+      "source": "2026-10-16_1230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_1224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1224-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBitcoin dip to $55,000 by Dec. 31, 2026 at 9.5% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm-volume study surfacing again in search is a struck repeat…\n#PredictionMarkets #Polymarket #Bitcoin #Midterms\nhttps://predictionbubbles.net/markets/\n\nTodd Bowles fired by March at 79% on Kalshi, down 4 points after Tampa Bay's first win\nSI reports the head-coach-fired market still tops the board at 79%, easing from 83% after the Buccaneers beat Dallas 24-16 in Week 5 despite an 0-4 start; the market…\n#PredictionMarkets #Kalshi\nhttps://www.si.com/prediction-markets/todd-bowles-coach-to-be-fired-market-on-kalshi-remains-high-despite-bucs-win-01m4xmqcgrhd\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin dip to $55,000 by Dec. 31, 2026 at 9.5% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm-volume study surfacing again in search is a struck repeat…<br/>#PredictionMarkets #Polymarket #Bitcoin #Midterms<br/>https://predictionbubbles.net/markets/<br/><br/>Todd Bowles fired by March at 79% on Kalshi, down 4 points after Tampa Bay&#x27;s first win<br/>SI reports the head-coach-fired market still tops the board at 79%, easing from 83% after the Buccaneers beat Dallas 24-16 in Week 5 despite an 0-4 start; the market…<br/>#PredictionMarkets #Kalshi<br/>https://www.si.com/prediction-markets/todd-bowles-coach-to-be-fired-market-on-kalshi-remains-high-despite-bucs-win-01m4xmqcgrhd<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T12:24:00-04:00",
+      "date_modified": "2026-10-16T12:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/",
+        "https://www.si.com/prediction-markets/todd-bowles-coach-to-be-fired-market-on-kalshi-remains-high-despite-bucs-win-01m4xmqcgrhd"
+      ],
+      "timestamp": "Oct 16, 2026 · 12:24 PM ET",
+      "body": "Infiniti Briefing\n\nBitcoin dip to $55,000 by Dec. 31, 2026 at 9.5% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the Reuters $220M midterm-volume study surfacing again in search is a struck repeat…\n#PredictionMarkets #Polymarket #Bitcoin #Midterms\nhttps://predictionbubbles.net/markets/\n\nTodd Bowles fired by March at 79% on Kalshi, down 4 points after Tampa Bay's first win\nSI reports the head-coach-fired market still tops the board at 79%, easing from 83% after the Buccaneers beat Dallas 24-16 in Week 5 despite an 0-4 start; the market…\n#PredictionMarkets #Kalshi\nhttps://www.si.com/prediction-markets/todd-bowles-coach-to-be-fired-market-on-kalshi-remains-high-despite-bucs-win-01m4xmqcgrhd\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T12:24:00-04:00",
+      "source": "2026-10-16_1224-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1215-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1215-edt-0",
@@ -4517,155 +4669,6 @@
       "image_url": null,
       "published": "2026-10-16T05:15:00-04:00",
       "source": "2026-10-16_0515-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0515-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0515-edt-1",
-      "title": "Polymarket prices Trudy reaching Category 4 at 68 percent",
-      "content_text": "- **Polymarket prices Trudy reaching Category 4 at 68 percent** — The Polymarket market on how strong Trudy will be, launched October 13, prices Category 4 at 68 percent, followed by Category 3 at 23 percent, among five possible outcomes. ([Polymarket](https://polymarket.com/event/what-category-will-trudy-reach))",
-      "content_html": "<p>- **Polymarket prices Trudy reaching Category 4 at 68 percent** — The Polymarket market on how strong Trudy will be, launched October 13, prices Category 4 at 68 percent, followed by Category 3 at 23 percent, among five possible outcomes. ([Polymarket](https://polymarket.com/event/what-category-will-trudy-reach))</p>",
-      "date_published": "2026-10-16T05:15:00-04:00",
-      "date_modified": "2026-10-16T05:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/what-category-will-trudy-reach",
-      "links": [
-        "https://polymarket.com/event/what-category-will-trudy-reach"
-      ],
-      "timestamp": "Oct 16, 2026 · 5:15 AM ET",
-      "body": "- **Polymarket prices Trudy reaching Category 4 at 68 percent** — The Polymarket market on how strong Trudy will be, launched October 13, prices Category 4 at 68 percent, followed by Category 3 at 23 percent, among five possible outcomes. ([Polymarket](https://polymarket.com/event/what-category-will-trudy-reach))",
-      "image_url": null,
-      "published": "2026-10-16T05:15:00-04:00",
-      "source": "2026-10-16_0515-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0515-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0515-edt-2",
-      "title": "Polymarket Trump pardon market prices a pardon by December 31 at 88 percent",
-      "content_text": "- **Polymarket Trump pardon market prices a pardon by December 31 at 88 percent** — The Polymarket market on whether Trump will pardon anyone, launched October 14, prices a pardon by December 31 at 88 percent and by October 31 at 46 percent. ([Polymarket](https://polymarket.com/event/will-trump-pardon-anyone-byptptpt-20261014))",
-      "content_html": "<p>- **Polymarket Trump pardon market prices a pardon by December 31 at 88 percent** — The Polymarket market on whether Trump will pardon anyone, launched October 14, prices a pardon by December 31 at 88 percent and by October 31 at 46 percent. ([Polymarket](https://polymarket.com/event/will-trump-pardon-anyone-byptptpt-20261014))</p>",
-      "date_published": "2026-10-16T05:15:00-04:00",
-      "date_modified": "2026-10-16T05:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/will-trump-pardon-anyone-byptptpt-20261014",
-      "links": [
-        "https://polymarket.com/event/will-trump-pardon-anyone-byptptpt-20261014"
-      ],
-      "timestamp": "Oct 16, 2026 · 5:15 AM ET",
-      "body": "- **Polymarket Trump pardon market prices a pardon by December 31 at 88 percent** — The Polymarket market on whether Trump will pardon anyone, launched October 14, prices a pardon by December 31 at 88 percent and by October 31 at 46 percent. ([Polymarket](https://polymarket.com/event/will-trump-pardon-anyone-byptptpt-20261014))",
-      "image_url": null,
-      "published": "2026-10-16T05:15:00-04:00",
-      "source": "2026-10-16_0515-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0515-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0515-edt-3",
-      "title": "Polymarket Bab el-Mandeb transit market leads with 190 to 209 ships for week of October 19 at 35 percent",
-      "content_text": "- **Polymarket Bab el-Mandeb transit market leads with 190 to 209 ships for week of October 19 at 35 percent** — The Polymarket market on how many ships transit the Bab el-Mandeb Strait in the week of October 19, launched October 13, leads with 190 to 209 ships at 35 percent, followed by 170 to 189 at 24 percent. ([Polymarket](https://polymarket.com/event/how-many-ships-transit-bab-el-mandeb-strait-week-of-october-19))",
-      "content_html": "<p>- **Polymarket Bab el-Mandeb transit market leads with 190 to 209 ships for week of October 19 at 35 percent** — The Polymarket market on how many ships transit the Bab el-Mandeb Strait in the week of October 19, launched October 13, leads with 190 to 209 ships at 35 percent, followed by 170 to 189 at 24 percent. ([Polymarket](https://polymarket.com/event/how-many-ships-transit-bab-el-mandeb-strait-week-of-october-19))</p>",
-      "date_published": "2026-10-16T05:15:00-04:00",
-      "date_modified": "2026-10-16T05:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/how-many-ships-transit-bab-el-mandeb-strait-week-of-october-19",
-      "links": [
-        "https://polymarket.com/event/how-many-ships-transit-bab-el-mandeb-strait-week-of-october-19"
-      ],
-      "timestamp": "Oct 16, 2026 · 5:15 AM ET",
-      "body": "- **Polymarket Bab el-Mandeb transit market leads with 190 to 209 ships for week of October 19 at 35 percent** — The Polymarket market on how many ships transit the Bab el-Mandeb Strait in the week of October 19, launched October 13, leads with 190 to 209 ships at 35 percent, followed by 170 to 189 at 24 percent. ([Polymarket](https://polymarket.com/event/how-many-ships-transit-bab-el-mandeb-strait-week-of-october-19))",
-      "image_url": null,
-      "published": "2026-10-16T05:15:00-04:00",
-      "source": "2026-10-16_0515-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0515-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0515-edt-4",
-      "title": "Polymarket Titled Tuesday October 20 winner market lists Turunen at 74 percent",
-      "content_text": "- **Polymarket Titled Tuesday October 20 winner market lists Turunen at 74 percent** — The Polymarket market for the Titled Tuesday winner on October 20, launched October 13, lists Tuomas Turunen at 74 percent, followed by Maxime Vachier-Lagrave at 71 percent, among more than 66 possible outcomes. ([Polymarket](https://polymarket.com/event/titled-tuesday-2026-10-20-winner/titled-tuesday-2026-10-20-winner-magnus-carlsen))",
-      "content_html": "<p>- **Polymarket Titled Tuesday October 20 winner market lists Turunen at 74 percent** — The Polymarket market for the Titled Tuesday winner on October 20, launched October 13, lists Tuomas Turunen at 74 percent, followed by Maxime Vachier-Lagrave at 71 percent, among more than 66 possible outcomes. ([Polymarket](https://polymarket.com/event/titled-tuesday-2026-10-20-winner/titled-tuesday-2026-10-20-winner-magnus-carlsen))</p>",
-      "date_published": "2026-10-16T05:15:00-04:00",
-      "date_modified": "2026-10-16T05:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/titled-tuesday-2026-10-20-winner/titled-tuesday-2026-10-20-winner-magnus-carlsen",
-      "links": [
-        "https://polymarket.com/event/titled-tuesday-2026-10-20-winner/titled-tuesday-2026-10-20-winner-magnus-carlsen"
-      ],
-      "timestamp": "Oct 16, 2026 · 5:15 AM ET",
-      "body": "- **Polymarket Titled Tuesday October 20 winner market lists Turunen at 74 percent** — The Polymarket market for the Titled Tuesday winner on October 20, launched October 13, lists Tuomas Turunen at 74 percent, followed by Maxime Vachier-Lagrave at 71 percent, among more than 66 possible outcomes. ([Polymarket](https://polymarket.com/event/titled-tuesday-2026-10-20-winner/titled-tuesday-2026-10-20-winner-magnus-carlsen))",
-      "image_url": null,
-      "published": "2026-10-16T05:15:00-04:00",
-      "source": "2026-10-16_0515-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0509-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0509-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nDemocratic sweep priced above forecast models: Polymarket at 63%, Kalshi at 61%\nNo significant new platform headline in the last 15 minutes, so this fresh sweep comparison leads, in a political/election category different from the previous three…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.newsbeep.com/772229/\n\nBruins vs. Ducks on Oct. 16: Boston at 51c, Anaheim at 50c on Polymarket\nThe near coin-flip NHL moneyline for tonight's 10:00 PM ET game has generated about $1.5K in total volume — a matchup not featured in any Oct. 16 edition, in a sports…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-bos-ana-2026-10-16\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Democratic sweep priced above forecast models: Polymarket at 63%, Kalshi at 61%<br/>No significant new platform headline in the last 15 minutes, so this fresh sweep comparison leads, in a political/election category different from the previous three…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.newsbeep.com/772229/<br/><br/>Bruins vs. Ducks on Oct. 16: Boston at 51c, Anaheim at 50c on Polymarket<br/>The near coin-flip NHL moneyline for tonight&#x27;s 10:00 PM ET game has generated about $1.5K in total volume — a matchup not featured in any Oct. 16 edition, in a sports…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/sports/nhl/nhl-bos-ana-2026-10-16<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T05:09:00-04:00",
-      "date_modified": "2026-10-16T05:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.newsbeep.com/772229/",
-      "links": [
-        "https://www.newsbeep.com/772229/",
-        "https://polymarket.com/sports/nhl/nhl-bos-ana-2026-10-16"
-      ],
-      "timestamp": "Oct 16, 2026 · 5:09 AM ET",
-      "body": "Infiniti Briefing\n\nDemocratic sweep priced above forecast models: Polymarket at 63%, Kalshi at 61%\nNo significant new platform headline in the last 15 minutes, so this fresh sweep comparison leads, in a political/election category different from the previous three…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.newsbeep.com/772229/\n\nBruins vs. Ducks on Oct. 16: Boston at 51c, Anaheim at 50c on Polymarket\nThe near coin-flip NHL moneyline for tonight's 10:00 PM ET game has generated about $1.5K in total volume — a matchup not featured in any Oct. 16 edition, in a sports…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/sports/nhl/nhl-bos-ana-2026-10-16\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T05:09:00-04:00",
-      "source": "2026-10-16_0509-edt.md",
       "matches_facebook_post": false
     }
   ]
