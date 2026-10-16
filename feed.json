@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T15:50:40.272540-04:00",
+  "updated": "2026-10-16T16:05:05.590079-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,11 +128,133 @@
   ],
   "items": [
     {
+      "id": "web-2026-10-16_1600-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1600-edt-0",
+      "title": "Kalshi selects Pyth Network as pricing source for its commodities markets",
+      "content_text": "- **Kalshi selects Pyth Network as pricing source for its commodities markets** — Kalshi has chosen Pyth Network to supply real-time pricing data for its commodities hub, with the feeds used to settle contracts tied to assets such as gold, silver, oil and copper. ([Cointelegraph](https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data))",
+      "content_html": "<p>- **Kalshi selects Pyth Network as pricing source for its commodities markets** — Kalshi has chosen Pyth Network to supply real-time pricing data for its commodities hub, with the feeds used to settle contracts tied to assets such as gold, silver, oil and copper. ([Cointelegraph](https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data))</p>",
+      "date_published": "2026-10-16T16:00:00-04:00",
+      "date_modified": "2026-10-16T16:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Gold",
+        "Silver",
+        "Oil",
+        "Copper"
+      ],
+      "image": null,
+      "external_url": "https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data",
+      "links": [
+        "https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:00 PM ET",
+      "body": "- **Kalshi selects Pyth Network as pricing source for its commodities markets** — Kalshi has chosen Pyth Network to supply real-time pricing data for its commodities hub, with the feeds used to settle contracts tied to assets such as gold, silver, oil and copper. ([Cointelegraph](https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data))",
+      "image_url": null,
+      "published": "2026-10-16T16:00:00-04:00",
+      "source": "2026-10-16_1600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1600-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1600-edt-1",
+      "title": "Polymarket whale beachboy4 rebounds with about 10.5 million dollars in profit in two days",
+      "content_text": "- **Polymarket whale beachboy4 rebounds with about 10.5 million dollars in profit in two days** — The trader known as beachboy4 recovered from a loss of about 6.8 million dollars to a small net gain after posting about 10.5 million dollars in profit over two days, with some single positions above 3 million dollars. ([Blockchain.News](https://blockchain.news/flashnews/polymarket-whale-trader-beachboy4-rebounds-with-10-5m-profit-in-2-days))",
+      "content_html": "<p>- **Polymarket whale beachboy4 rebounds with about 10.5 million dollars in profit in two days** — The trader known as beachboy4 recovered from a loss of about 6.8 million dollars to a small net gain after posting about 10.5 million dollars in profit over two days, with some single positions above 3 million dollars. ([Blockchain.News](https://blockchain.news/flashnews/polymarket-whale-trader-beachboy4-rebounds-with-10-5m-profit-in-2-days))</p>",
+      "date_published": "2026-10-16T16:00:00-04:00",
+      "date_modified": "2026-10-16T16:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://blockchain.news/flashnews/polymarket-whale-trader-beachboy4-rebounds-with-10-5m-profit-in-2-days",
+      "links": [
+        "https://blockchain.news/flashnews/polymarket-whale-trader-beachboy4-rebounds-with-10-5m-profit-in-2-days"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:00 PM ET",
+      "body": "- **Polymarket whale beachboy4 rebounds with about 10.5 million dollars in profit in two days** — The trader known as beachboy4 recovered from a loss of about 6.8 million dollars to a small net gain after posting about 10.5 million dollars in profit over two days, with some single positions above 3 million dollars. ([Blockchain.News](https://blockchain.news/flashnews/polymarket-whale-trader-beachboy4-rebounds-with-10-5m-profit-in-2-days))",
+      "image_url": null,
+      "published": "2026-10-16T16:00:00-04:00",
+      "source": "2026-10-16_1600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1600-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1600-edt-2",
+      "title": "Polymarket prices Nvidia reaching 232 dollars in October at 89 percent",
+      "content_text": "- **Polymarket prices Nvidia reaching 232 dollars in October at 89 percent** — Polymarket October contracts price Nvidia shares reaching 232 dollars at 89 percent and 240 dollars at 51 percent, with much lower odds at higher thresholds up to 272 dollars by October 31. ([TokenPost](https://www.tokenpost.com/news/investing/31702))",
+      "content_html": "<p>- **Polymarket prices Nvidia reaching 232 dollars in October at 89 percent** — Polymarket October contracts price Nvidia shares reaching 232 dollars at 89 percent and 240 dollars at 51 percent, with much lower odds at higher thresholds up to 272 dollars by October 31. ([TokenPost](https://www.tokenpost.com/news/investing/31702))</p>",
+      "date_published": "2026-10-16T16:00:00-04:00",
+      "date_modified": "2026-10-16T16:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.tokenpost.com/news/investing/31702",
+      "links": [
+        "https://www.tokenpost.com/news/investing/31702"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:00 PM ET",
+      "body": "- **Polymarket prices Nvidia reaching 232 dollars in October at 89 percent** — Polymarket October contracts price Nvidia shares reaching 232 dollars at 89 percent and 240 dollars at 51 percent, with much lower odds at higher thresholds up to 272 dollars by October 31. ([TokenPost](https://www.tokenpost.com/news/investing/31702))",
+      "image_url": null,
+      "published": "2026-10-16T16:00:00-04:00",
+      "source": "2026-10-16_1600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_1554-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1554-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBrazil Presidential Election Second Round margin: Flávio Bolsonaro by under 4% at 40% on Polymarket, on $298K traded in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh margin contract leads, in a political/election category distinct from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nEintracht Frankfurt vs. 1. FC Köln at $844K in 24 hours, with Eintracht Frankfurt at 49% on Polymarket\nPolydict ranks the Bundesliga matchup 9th by 24-hour volume ahead of its Oct. 16 close — a matchup not featured in any earlier edition today, in a sports markets…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Brazil Presidential Election Second Round margin: Flávio Bolsonaro by under 4% at 40% on Polymarket, on $298K traded in 24 hours<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh margin contract leads, in a political/election category distinct from the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polydict.app/markets<br/><br/>Eintracht Frankfurt vs. 1. FC Köln at $844K in 24 hours, with Eintracht Frankfurt at 49% on Polymarket<br/>Polydict ranks the Bundesliga matchup 9th by 24-hour volume ahead of its Oct. 16 close — a matchup not featured in any earlier edition today, in a sports markets…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T15:54:00-04:00",
+      "date_modified": "2026-10-16T15:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://polydict.app/markets",
+      "links": [
+        "https://polydict.app/markets"
+      ],
+      "timestamp": "Oct 16, 2026 · 3:54 PM ET",
+      "body": "Infiniti Briefing\n\nBrazil Presidential Election Second Round margin: Flávio Bolsonaro by under 4% at 40% on Polymarket, on $298K traded in 24 hours\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh margin contract leads, in a political/election category distinct from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nEintracht Frankfurt vs. 1. FC Köln at $844K in 24 hours, with Eintracht Frankfurt at 49% on Polymarket\nPolydict ranks the Bundesliga matchup 9th by 24-hour volume ahead of its Oct. 16 close — a matchup not featured in any earlier edition today, in a sports markets…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T15:54:00-04:00",
+      "source": "2026-10-16_1554-edt.md",
+      "matches_facebook_post": false
+    },
+    {
       "id": "infiniti-2026-10-16_1539-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1539-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nJuan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded, in a newly listed market\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (the Reuters $220M midterm study surfacing again in search is a struck repeat), so this…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/\n\nElon Musk # tweets October 15-17: the 90-114 outcome at 43% on Polymarket, on $219K traded in 24 hours\nPolydict ranks the short-window count book among the day's top 40 by 24-hour volume ahead of its Oct. 17 close — a new window distinct from the October 13-20 and October…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Juan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded, in a newly listed market<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (the Reuters $220M midterm study surfacing again in search is a struck repeat), so this…<br/>#PredictionMarkets #Kalshi #Midterms<br/>https://predictionbubbles.net/markets/<br/><br/>Elon Musk # tweets October 15-17: the 90-114 outcome at 43% on Polymarket, on $219K traded in 24 hours<br/>Polydict ranks the short-window count book among the day&#x27;s top 40 by 24-hour volume ahead of its Oct. 17 close — a new window distinct from the October 13-20 and October…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nJuan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded\nNewly listed tennis contract, created about 18 hours ago, resolving in about 13 days.\n#Tennis #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nElon Musk tweets Oct 15-17: 90-114 outcome at 43% on Polymarket\n$219K traded in 24 hours, ranked among the day's top markets by Polydict.\n#ElonMusk #PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nRahm Emanuel Democratic nominee in 2028 at 2.6% on Kalshi\nLongshot nomination contract on $7.6M traded, flagged on heating-up board.\n#Politics #Election2028 #Kalshi\nhttps://predictionbubbles.net/markets/\n\nMarkets: Gold $4,185 | Brent ~$110 | WTI $101.75 | BTC $81,558\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Juan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded<br/>Newly listed tennis contract, created about 18 hours ago, resolving in about 13 days.<br/>#Tennis #PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>Elon Musk tweets Oct 15-17: 90-114 outcome at 43% on Polymarket<br/>$219K traded in 24 hours, ranked among the day&#x27;s top markets by Polydict.<br/>#ElonMusk #PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>Rahm Emanuel Democratic nominee in 2028 at 2.6% on Kalshi<br/>Longshot nomination contract on $7.6M traded, flagged on heating-up board.<br/>#Politics #Election2028 #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>Markets: Gold $4,185 | Brent ~$110 | WTI $101.75 | BTC $81,558<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-16_1539-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-16T15:39:00-04:00",
       "date_modified": "2026-10-16T15:39:00-04:00",
       "authors": [
@@ -142,23 +264,26 @@
         }
       ],
       "tags": [
+        "Tennis",
         "PredictionMarkets",
         "Kalshi",
-        "Midterms",
-        "Polymarket"
+        "ElonMusk",
+        "Polymarket",
+        "Politics",
+        "Election2028"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-16_1539-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/",
       "links": [
         "https://predictionbubbles.net/markets/",
         "https://polydict.app/markets"
       ],
       "timestamp": "Oct 16, 2026 · 3:39 PM ET",
-      "body": "Infiniti Briefing\n\nJuan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded, in a newly listed market\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (the Reuters $220M midterm study surfacing again in search is a struck repeat), so this…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/\n\nElon Musk # tweets October 15-17: the 90-114 outcome at 43% on Polymarket, on $219K traded in 24 hours\nPolydict ranks the short-window count book among the day's top 40 by 24-hour volume ahead of its Oct. 17 close — a new window distinct from the October 13-20 and October…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nJuan Sebastian Gomez wins priced at 2% on Kalshi, on $832K traded\nNewly listed tennis contract, created about 18 hours ago, resolving in about 13 days.\n#Tennis #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nElon Musk tweets Oct 15-17: 90-114 outcome at 43% on Polymarket\n$219K traded in 24 hours, ranked among the day's top markets by Polydict.\n#ElonMusk #PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nRahm Emanuel Democratic nominee in 2028 at 2.6% on Kalshi\nLongshot nomination contract on $7.6M traded, flagged on heating-up board.\n#Politics #Election2028 #Kalshi\nhttps://predictionbubbles.net/markets/\n\nMarkets: Gold $4,185 | Brent ~$110 | WTI $101.75 | BTC $81,558\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-16_1539-edt.jpg",
       "published": "2026-10-16T15:39:00-04:00",
       "source": "2026-10-16_1539-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-16_1530-edt-0",
@@ -4517,130 +4642,6 @@
       "image_url": null,
       "published": "2026-10-16T09:00:00-04:00",
       "source": "2026-10-16_0900-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0900-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0900-edt-4",
-      "title": "Crypto.com trending list puts Slay the Spire 2 at 90 percent for video game of the year",
-      "content_text": "- **Crypto.com trending list puts Slay the Spire 2 at 90 percent for video game of the year** — Casino.org's October trending contracts list for Crypto.com puts Slay the Spire 2 at 90 percent for video game of the year in 2026, alongside the Los Angeles Rams at 13 percent to win the Super Bowl in 2027. ([Casino.org](https://www.casino.org/us/predictions/bonus/crypto-com/))",
-      "content_html": "<p>- **Crypto.com trending list puts Slay the Spire 2 at 90 percent for video game of the year** — Casino.org&#x27;s October trending contracts list for Crypto.com puts Slay the Spire 2 at 90 percent for video game of the year in 2026, alongside the Los Angeles Rams at 13 percent to win the Super Bowl in 2027. ([Casino.org](https://www.casino.org/us/predictions/bonus/crypto-com/))</p>",
-      "date_published": "2026-10-16T09:00:00-04:00",
-      "date_modified": "2026-10-16T09:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.casino.org/us/predictions/bonus/crypto-com/",
-      "links": [
-        "https://www.casino.org/us/predictions/bonus/crypto-com/"
-      ],
-      "timestamp": "Oct 16, 2026 · 9:00 AM ET",
-      "body": "- **Crypto.com trending list puts Slay the Spire 2 at 90 percent for video game of the year** — Casino.org's October trending contracts list for Crypto.com puts Slay the Spire 2 at 90 percent for video game of the year in 2026, alongside the Los Angeles Rams at 13 percent to win the Super Bowl in 2027. ([Casino.org](https://www.casino.org/us/predictions/bonus/crypto-com/))",
-      "image_url": null,
-      "published": "2026-10-16T09:00:00-04:00",
-      "source": "2026-10-16_0900-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0854-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0854-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nWhich party wins 2028: Democrats at about 61%, with J.D. Vance the single likeliest winner at 21% on Polymarket\nNo significant new platform headline in the last 15 minutes, so this fresh party book leads, in a political/election category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/us-president/\n\nDaniil Medvedev wins: 92% on Kalshi, up 25 points, on $854K traded\nPredictionBubbles' live ending-soon board, read Oct. 16 at 12:09 UTC, ranks the Medvedev contract among the biggest movers, with Tommy Paul the other side of the same…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/ending-soon/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Which party wins 2028: Democrats at about 61%, with J.D. Vance the single likeliest winner at 21% on Polymarket<br/>No significant new platform headline in the last 15 minutes, so this fresh party book leads, in a political/election category different from the previous three leads…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/us-president/<br/><br/>Daniil Medvedev wins: 92% on Kalshi, up 25 points, on $854K traded<br/>PredictionBubbles&#x27; live ending-soon board, read Oct. 16 at 12:09 UTC, ranks the Medvedev contract among the biggest movers, with Tommy Paul the other side of the same…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/ending-soon/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T08:54:00-04:00",
-      "date_modified": "2026-10-16T08:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/us-president/",
-      "links": [
-        "https://defirate.com/odds/us-president/",
-        "https://predictionbubbles.net/markets/ending-soon/"
-      ],
-      "timestamp": "Oct 16, 2026 · 8:54 AM ET",
-      "body": "Infiniti Briefing\n\nWhich party wins 2028: Democrats at about 61%, with J.D. Vance the single likeliest winner at 21% on Polymarket\nNo significant new platform headline in the last 15 minutes, so this fresh party book leads, in a political/election category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/us-president/\n\nDaniil Medvedev wins: 92% on Kalshi, up 25 points, on $854K traded\nPredictionBubbles' live ending-soon board, read Oct. 16 at 12:09 UTC, ranks the Medvedev contract among the biggest movers, with Tommy Paul the other side of the same…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/ending-soon/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T08:54:00-04:00",
-      "source": "2026-10-16_0854-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0839-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0839-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPhishing sites copying Kalshi and Polymarket surface ahead of the midterms\nQuiet quarter-hour for platform headlines, so this fresh security item leads, in a legal/security category different from the previous three leads (crypto/commodities,…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\nhttps://cxotoday.com/others/election-scams-are-getting-harder-to-spot-as-real-campaign-outreach-and-fraud-converge/\n\nFed October hold strengthens to 87%, with Kalshi's own two October contracts 1 point apart\nDeFi Rate's board, observed Oct. 16 between 7:42 and 7:44 AM ET, prices the Oct. 28 meeting at 87% hold / 14% hike, while Kalshi's decision market puts a hike at 12.5%…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/fed-decision/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Phishing sites copying Kalshi and Polymarket surface ahead of the midterms<br/>Quiet quarter-hour for platform headlines, so this fresh security item leads, in a legal/security category different from the previous three leads (crypto/commodities,…<br/>#PredictionMarkets #Kalshi #Polymarket #Midterms<br/>https://cxotoday.com/others/election-scams-are-getting-harder-to-spot-as-real-campaign-outreach-and-fraud-converge/<br/><br/>Fed October hold strengthens to 87%, with Kalshi&#x27;s own two October contracts 1 point apart<br/>DeFi Rate&#x27;s board, observed Oct. 16 between 7:42 and 7:44 AM ET, prices the Oct. 28 meeting at 87% hold / 14% hike, while Kalshi&#x27;s decision market puts a hike at 12.5%…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/fed-decision/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T08:39:00-04:00",
-      "date_modified": "2026-10-16T08:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://cxotoday.com/others/election-scams-are-getting-harder-to-spot-as-real-campaign-outreach-and-fraud-converge/",
-      "links": [
-        "https://cxotoday.com/others/election-scams-are-getting-harder-to-spot-as-real-campaign-outreach-and-fraud-converge/",
-        "https://defirate.com/odds/fed-decision/"
-      ],
-      "timestamp": "Oct 16, 2026 · 8:39 AM ET",
-      "body": "Infiniti Briefing\n\nPhishing sites copying Kalshi and Polymarket surface ahead of the midterms\nQuiet quarter-hour for platform headlines, so this fresh security item leads, in a legal/security category different from the previous three leads (crypto/commodities,…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\nhttps://cxotoday.com/others/election-scams-are-getting-harder-to-spot-as-real-campaign-outreach-and-fraud-converge/\n\nFed October hold strengthens to 87%, with Kalshi's own two October contracts 1 point apart\nDeFi Rate's board, observed Oct. 16 between 7:42 and 7:44 AM ET, prices the Oct. 28 meeting at 87% hold / 14% hike, while Kalshi's decision market puts a hike at 12.5%…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/fed-decision/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T08:39:00-04:00",
-      "source": "2026-10-16_0839-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0830-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0830-edt-0",
-      "title": "Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections",
-      "content_text": "- **Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections** — Taiwan authorised restrictions on Coinbase and Kalshi over suspected violations of the Public Officials Election and Recall Act, which prohibits gambling for profit based on election outcomes, ahead of local elections scheduled for November 28. Some Coinbase users reported access problems from Wednesday, and Polymarket has also been blocked in Taiwan. ([Grafa](https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets))",
-      "content_html": "<p>- **Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections** — Taiwan authorised restrictions on Coinbase and Kalshi over suspected violations of the Public Officials Election and Recall Act, which prohibits gambling for profit based on election outcomes, ahead of local elections scheduled for November 28. Some Coinbase users reported access problems from Wednesday, and Polymarket has also been blocked in Taiwan. ([Grafa](https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets))</p>",
-      "date_published": "2026-10-16T08:30:00-04:00",
-      "date_modified": "2026-10-16T08:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets",
-      "links": [
-        "https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets"
-      ],
-      "timestamp": "Oct 16, 2026 · 8:30 AM ET",
-      "body": "- **Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections** — Taiwan authorised restrictions on Coinbase and Kalshi over suspected violations of the Public Officials Election and Recall Act, which prohibits gambling for profit based on election outcomes, ahead of local elections scheduled for November 28. Some Coinbase users reported access problems from Wednesday, and Polymarket has also been blocked in Taiwan. ([Grafa](https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets))",
-      "image_url": null,
-      "published": "2026-10-16T08:30:00-04:00",
-      "source": "2026-10-16_0830-edt.json",
       "matches_facebook_post": false
     }
   ]
