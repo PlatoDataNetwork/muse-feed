@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T21:21:22.355910-04:00",
+  "updated": "2026-10-15T21:27:05.798688-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-15_2124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_2124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCrypto.com launches Predict Pro for U.S. prediction-market traders\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this Oct. 15 launch leads, in a product launches/partnerships category different…\n#PredictionMarkets #CFTC #Elections\nhttps://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/\n\nHuracan vs. Gimnasia La Plata draws $531K in 24 hours, with Gimnasia at 56c on both venues\nDeFi Rate's live board ranks the Argentine matchup 12th overall, with the Over 2.5 total at 45c — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Crypto.com launches Predict Pro for U.S. prediction-market traders<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this Oct. 15 launch leads, in a product launches/partnerships category different…<br/>#PredictionMarkets #CFTC #Elections<br/>https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/<br/><br/>Huracan vs. Gimnasia La Plata draws $531K in 24 hours, with Gimnasia at 56c on both venues<br/>DeFi Rate&#x27;s live board ranks the Argentine matchup 12th overall, with the Over 2.5 total at 45c — a matchup not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T21:24:00-04:00",
+      "date_modified": "2026-10-15T21:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/",
+      "links": [
+        "https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/",
+        "https://defirate.com/odds/"
+      ],
+      "timestamp": "Oct 15, 2026 · 9:24 PM ET",
+      "body": "Infiniti Briefing\n\nCrypto.com launches Predict Pro for U.S. prediction-market traders\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this Oct. 15 launch leads, in a product launches/partnerships category different…\n#PredictionMarkets #CFTC #Elections\nhttps://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/\n\nHuracan vs. Gimnasia La Plata draws $531K in 24 hours, with Gimnasia at 56c on both venues\nDeFi Rate's live board ranks the Argentine matchup 12th overall, with the Over 2.5 total at 45c — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T21:24:00-04:00",
+      "source": "2026-10-15_2124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_2115-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2115-edt-0",
@@ -4621,35 +4653,6 @@
       ],
       "timestamp": "Oct 15, 2026 · 12:30 PM ET",
       "body": "- **Fed decision market favors a hold on October 28 at about 72 percent as hike odds climb to 28 percent** — DeFi Rate data observed late morning on October 15 shows the October 28 hike odds on Kalshi up 12 points in a week, with a hold still favored at about 72 to 73 percent. December hike odds are near 79 percent in the same tracker. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
-      "image_url": null,
-      "published": "2026-10-15T12:30:00-04:00",
-      "source": "2026-10-15_1230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1230-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1230-edt-1",
-      "title": "Polymarket volume by category shows sports at 2.0 billion dollars and 44 percent of trading",
-      "content_text": "- **Polymarket volume by category shows sports at 2.0 billion dollars and 44 percent of trading** — DeFi Rate category totals put sports first on Polymarket, followed by other, crypto and politics. The tracker lists AS Roma against Real Madrid as the most traded Polymarket market in the last 24 hours at 11 million dollars. ([DeFi Rate](https://defirate.com/prediction-markets/volume/polymarket/))",
-      "content_html": "<p>- **Polymarket volume by category shows sports at 2.0 billion dollars and 44 percent of trading** — DeFi Rate category totals put sports first on Polymarket, followed by other, crypto and politics. The tracker lists AS Roma against Real Madrid as the most traded Polymarket market in the last 24 hours at 11 million dollars. ([DeFi Rate](https://defirate.com/prediction-markets/volume/polymarket/))</p>",
-      "date_published": "2026-10-15T12:30:00-04:00",
-      "date_modified": "2026-10-15T12:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/polymarket/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/polymarket/"
-      ],
-      "timestamp": "Oct 15, 2026 · 12:30 PM ET",
-      "body": "- **Polymarket volume by category shows sports at 2.0 billion dollars and 44 percent of trading** — DeFi Rate category totals put sports first on Polymarket, followed by other, crypto and politics. The tracker lists AS Roma against Real Madrid as the most traded Polymarket market in the last 24 hours at 11 million dollars. ([DeFi Rate](https://defirate.com/prediction-markets/volume/polymarket/))",
       "image_url": null,
       "published": "2026-10-15T12:30:00-04:00",
       "source": "2026-10-15_1230-edt.json",
