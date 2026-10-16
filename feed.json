@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T23:21:47.783259-04:00",
+  "updated": "2026-10-15T23:27:03.243837-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-15_2324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_2324-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCalifornia winter 2026-27 wetter or drier? at 48% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather contract leads, in a weather/science category different from the…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/california-winter-2026-27-wetter-or-drier\n\nVenue gap: Oklahoma City Thunder as 2027 Pro Basketball Champion at 22c on Kalshi vs. 19c on Polymarket\nPicksByOdds' cross-listed pairs board shows a 3.0-point gap on the Thunder title contract — a venue-gap reading not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://picksbyodds.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>California winter 2026-27 wetter or drier? at 48% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather contract leads, in a weather/science category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/california-winter-2026-27-wetter-or-drier<br/><br/>Venue gap: Oklahoma City Thunder as 2027 Pro Basketball Champion at 22c on Kalshi vs. 19c on Polymarket<br/>PicksByOdds&#x27; cross-listed pairs board shows a 3.0-point gap on the Thunder title contract — a venue-gap reading not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://picksbyodds.com/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T23:24:00-04:00",
+      "date_modified": "2026-10-15T23:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/california-winter-2026-27-wetter-or-drier",
+      "links": [
+        "https://polymarket.com/event/california-winter-2026-27-wetter-or-drier",
+        "https://picksbyodds.com/"
+      ],
+      "timestamp": "Oct 15, 2026 · 11:24 PM ET",
+      "body": "Infiniti Briefing\n\nCalifornia winter 2026-27 wetter or drier? at 48% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather contract leads, in a weather/science category different from the…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/california-winter-2026-27-wetter-or-drier\n\nVenue gap: Oklahoma City Thunder as 2027 Pro Basketball Champion at 22c on Kalshi vs. 19c on Polymarket\nPicksByOdds' cross-listed pairs board shows a 3.0-point gap on the Thunder title contract — a venue-gap reading not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://picksbyodds.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T23:24:00-04:00",
+      "source": "2026-10-15_2324-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-15_2309-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_2309-edt",
@@ -4620,36 +4652,6 @@
       ],
       "timestamp": "Oct 15, 2026 · 1:45 PM ET",
       "body": "- **Polymarket prices Brewers as World Series favorites after 3-0 NLCS lead over Dodgers** — RG.org reports Milwaukee beat Los Angeles 6-2 to take a 3-0 NLCS lead, with Polymarket pricing the Brewers at -139 to win the World Series, ahead of the Rays at +322, the Guardians at +635 and the Dodgers at +1329. The pennant market prices Tampa Bay at 56 percent and Cleveland at 46 percent with the ALCS tied 1-1. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026))",
-      "image_url": null,
-      "published": "2026-10-15T13:45:00-04:00",
-      "source": "2026-10-15_1345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1345-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1345-edt-1",
-      "title": "NetChoice argues prediction markets need one federal rulebook as courts split",
-      "content_text": "- **NetChoice argues prediction markets need one federal rulebook as courts split** — NetChoice argues event contracts should follow a single federal framework, noting CNN and CNBC now carry Kalshi data and federal courts are divided over whether the markets are financial products or state-regulated gambling. The piece says the Supreme Court has been asked to decide and cites Pew data showing monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))",
-      "content_html": "<p>- **NetChoice argues prediction markets need one federal rulebook as courts split** — NetChoice argues event contracts should follow a single federal framework, noting CNN and CNBC now carry Kalshi data and federal courts are divided over whether the markets are financial products or state-regulated gambling. The piece says the Supreme Court has been asked to decide and cites Pew data showing monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))</p>",
-      "date_published": "2026-10-15T13:45:00-04:00",
-      "date_modified": "2026-10-15T13:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "SCOTUS"
-      ],
-      "image": null,
-      "external_url": "https://netchoice.org/prediction-markets-need-one-rulebook/",
-      "links": [
-        "https://netchoice.org/prediction-markets-need-one-rulebook/"
-      ],
-      "timestamp": "Oct 15, 2026 · 1:45 PM ET",
-      "body": "- **NetChoice argues prediction markets need one federal rulebook as courts split** — NetChoice argues event contracts should follow a single federal framework, noting CNN and CNBC now carry Kalshi data and federal courts are divided over whether the markets are financial products or state-regulated gambling. The piece says the Supreme Court has been asked to decide and cites Pew data showing monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))",
       "image_url": null,
       "published": "2026-10-15T13:45:00-04:00",
       "source": "2026-10-15_1345-edt.json",
