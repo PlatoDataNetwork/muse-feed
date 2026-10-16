@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T14:04:59.233382-04:00",
+  "updated": "2026-10-16T14:19:48.346216-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_1415-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1415-edt-0",
+      "title": "Outpoll adds perpetual futures trading inside its prediction market app",
+      "content_text": "- **Outpoll adds perpetual futures trading inside its prediction market app** — Outpoll said on October 15 that it launched Trading, a perpetual futures exchange built into its prediction market platform, so event positions and futures share one account and one balance. The service lists more than 80 crypto pairs, more than 20 stock and index pairs and four commodity pairs, all perpetual with leverage up to 100x. ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/10/15/3381433/0/en/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading.html))",
+      "content_html": "<p>- **Outpoll adds perpetual futures trading inside its prediction market app** — Outpoll said on October 15 that it launched Trading, a perpetual futures exchange built into its prediction market platform, so event positions and futures share one account and one balance. The service lists more than 80 crypto pairs, more than 20 stock and index pairs and four commodity pairs, all perpetual with leverage up to 100x. ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/10/15/3381433/0/en/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading.html))</p>",
+      "date_published": "2026-10-16T14:15:00-04:00",
+      "date_modified": "2026-10-16T14:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.globenewswire.com/news-release/2026/10/15/3381433/0/en/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading.html",
+      "links": [
+        "https://www.globenewswire.com/news-release/2026/10/15/3381433/0/en/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading.html"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:15 PM ET",
+      "body": "- **Outpoll adds perpetual futures trading inside its prediction market app** — Outpoll said on October 15 that it launched Trading, a perpetual futures exchange built into its prediction market platform, so event positions and futures share one account and one balance. The service lists more than 80 crypto pairs, more than 20 stock and index pairs and four commodity pairs, all perpetual with leverage up to 100x. ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/10/15/3381433/0/en/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading.html))",
+      "image_url": null,
+      "published": "2026-10-16T14:15:00-04:00",
+      "source": "2026-10-16_1415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1415-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1415-edt-1",
+      "title": "Kalshi perpetual futures volume runs many times open interest, drawing expert scrutiny",
+      "content_text": "- **Kalshi perpetual futures volume runs many times open interest, drawing expert scrutiny** — Trading volume on Kalshi bitcoin and ether perpetual futures runs about 42 and 66 times open interest, far above comparable ratios on Polymarket and Hyperliquid, and finance professors quoted in the report question whether incentive programs are inflating the churn. Kalshi responded that lower leverage, capped at 4.9 times against up to 25 times offshore, and US regulatory limits help explain the gap. ([7Globe](https://www.7globe.in/kalshi-polymarket-trading-volumes-on-some-products-raises-questions-amid-massive-growth/))",
+      "content_html": "<p>- **Kalshi perpetual futures volume runs many times open interest, drawing expert scrutiny** — Trading volume on Kalshi bitcoin and ether perpetual futures runs about 42 and 66 times open interest, far above comparable ratios on Polymarket and Hyperliquid, and finance professors quoted in the report question whether incentive programs are inflating the churn. Kalshi responded that lower leverage, capped at 4.9 times against up to 25 times offshore, and US regulatory limits help explain the gap. ([7Globe](https://www.7globe.in/kalshi-polymarket-trading-volumes-on-some-products-raises-questions-amid-massive-growth/))</p>",
+      "date_published": "2026-10-16T14:15:00-04:00",
+      "date_modified": "2026-10-16T14:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.7globe.in/kalshi-polymarket-trading-volumes-on-some-products-raises-questions-amid-massive-growth/",
+      "links": [
+        "https://www.7globe.in/kalshi-polymarket-trading-volumes-on-some-products-raises-questions-amid-massive-growth/"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:15 PM ET",
+      "body": "- **Kalshi perpetual futures volume runs many times open interest, drawing expert scrutiny** — Trading volume on Kalshi bitcoin and ether perpetual futures runs about 42 and 66 times open interest, far above comparable ratios on Polymarket and Hyperliquid, and finance professors quoted in the report question whether incentive programs are inflating the churn. Kalshi responded that lower leverage, capped at 4.9 times against up to 25 times offshore, and US regulatory limits help explain the gap. ([7Globe](https://www.7globe.in/kalshi-polymarket-trading-volumes-on-some-products-raises-questions-amid-massive-growth/))",
+      "image_url": null,
+      "published": "2026-10-16T14:15:00-04:00",
+      "source": "2026-10-16_1415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1415-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1415-edt-2",
+      "title": "Polymarket trader turns 5,000 dollars into 35,000 dollars as Bitcoin selloff triggers 1 billion dollars in liquidations",
+      "content_text": "- **Polymarket trader turns 5,000 dollars into 35,000 dollars as Bitcoin selloff triggers 1 billion dollars in liquidations** — Leveraged crypto positions worth more than 1 billion dollars were liquidated in 24 hours as Bitcoin fell below 85,000 dollars and Ether dropped 7.7 percent, according to CoinGlass data cited in the report. One Polymarket trader who bet against market sentiment at about 14 percent odds turned a 5,000 dollar stake into 35,000 dollars. ([CoinMarketCap](https://coinmarketcap.com/academy/article/bitcoin-crash-triggers-dollar1b-liquidations-while-one-polymarket-trader-wins-big))",
+      "content_html": "<p>- **Polymarket trader turns 5,000 dollars into 35,000 dollars as Bitcoin selloff triggers 1 billion dollars in liquidations** — Leveraged crypto positions worth more than 1 billion dollars were liquidated in 24 hours as Bitcoin fell below 85,000 dollars and Ether dropped 7.7 percent, according to CoinGlass data cited in the report. One Polymarket trader who bet against market sentiment at about 14 percent odds turned a 5,000 dollar stake into 35,000 dollars. ([CoinMarketCap](https://coinmarketcap.com/academy/article/bitcoin-crash-triggers-dollar1b-liquidations-while-one-polymarket-trader-wins-big))</p>",
+      "date_published": "2026-10-16T14:15:00-04:00",
+      "date_modified": "2026-10-16T14:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://coinmarketcap.com/academy/article/bitcoin-crash-triggers-dollar1b-liquidations-while-one-polymarket-trader-wins-big",
+      "links": [
+        "https://coinmarketcap.com/academy/article/bitcoin-crash-triggers-dollar1b-liquidations-while-one-polymarket-trader-wins-big"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:15 PM ET",
+      "body": "- **Polymarket trader turns 5,000 dollars into 35,000 dollars as Bitcoin selloff triggers 1 billion dollars in liquidations** — Leveraged crypto positions worth more than 1 billion dollars were liquidated in 24 hours as Bitcoin fell below 85,000 dollars and Ether dropped 7.7 percent, according to CoinGlass data cited in the report. One Polymarket trader who bet against market sentiment at about 14 percent odds turned a 5,000 dollar stake into 35,000 dollars. ([CoinMarketCap](https://coinmarketcap.com/academy/article/bitcoin-crash-triggers-dollar1b-liquidations-while-one-polymarket-trader-wins-big))",
+      "image_url": null,
+      "published": "2026-10-16T14:15:00-04:00",
+      "source": "2026-10-16_1415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1415-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1415-edt-3",
+      "title": "Polymarket earnings trader posts 41 wins in 42 bets on companies audited by KPMG",
+      "content_text": "- **Polymarket earnings trader posts 41 wins in 42 bets on companies audited by KPMG** — On-chain researchers identified a Polymarket account that won 41 of 42 earnings bets and made about 22,000 dollars, with all 18 companies involved audited by KPMG. The report notes there is no evidence establishing use of confidential information, and KPMG said it has zero tolerance for employees trading on nonpublic client information. ([Alphawire](https://alphawire.xyz/markets/prediction-markets/polymarket-trader-22k-kpmg-earnings-bets/))",
+      "content_html": "<p>- **Polymarket earnings trader posts 41 wins in 42 bets on companies audited by KPMG** — On-chain researchers identified a Polymarket account that won 41 of 42 earnings bets and made about 22,000 dollars, with all 18 companies involved audited by KPMG. The report notes there is no evidence establishing use of confidential information, and KPMG said it has zero tolerance for employees trading on nonpublic client information. ([Alphawire](https://alphawire.xyz/markets/prediction-markets/polymarket-trader-22k-kpmg-earnings-bets/))</p>",
+      "date_published": "2026-10-16T14:15:00-04:00",
+      "date_modified": "2026-10-16T14:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://alphawire.xyz/markets/prediction-markets/polymarket-trader-22k-kpmg-earnings-bets/",
+      "links": [
+        "https://alphawire.xyz/markets/prediction-markets/polymarket-trader-22k-kpmg-earnings-bets/"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:15 PM ET",
+      "body": "- **Polymarket earnings trader posts 41 wins in 42 bets on companies audited by KPMG** — On-chain researchers identified a Polymarket account that won 41 of 42 earnings bets and made about 22,000 dollars, with all 18 companies involved audited by KPMG. The report notes there is no evidence establishing use of confidential information, and KPMG said it has zero tolerance for employees trading on nonpublic client information. ([Alphawire](https://alphawire.xyz/markets/prediction-markets/polymarket-trader-22k-kpmg-earnings-bets/))",
+      "image_url": null,
+      "published": "2026-10-16T14:15:00-04:00",
+      "source": "2026-10-16_1415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1415-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1415-edt-4",
+      "title": "Survivor 51 markets are absent from Kalshi and Polymarket despite earlier seasons trading heavily",
+      "content_text": "- **Survivor 51 markets are absent from Kalshi and Polymarket despite earlier seasons trading heavily** — Action Network reported that Survivor 51 prediction markets are currently listed on none of the top platforms, including Kalshi and Polymarket. Earlier seasons Survivor 49 and Survivor 50 drew high-volume Kalshi markets, including contestant elimination contracts and markets on phrases host Jeff Probst might say. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))",
+      "content_html": "<p>- **Survivor 51 markets are absent from Kalshi and Polymarket despite earlier seasons trading heavily** — Action Network reported that Survivor 51 prediction markets are currently listed on none of the top platforms, including Kalshi and Polymarket. Earlier seasons Survivor 49 and Survivor 50 drew high-volume Kalshi markets, including contestant elimination contracts and markets on phrases host Jeff Probst might say. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))</p>",
+      "date_published": "2026-10-16T14:15:00-04:00",
+      "date_modified": "2026-10-16T14:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets",
+      "links": [
+        "https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:15 PM ET",
+      "body": "- **Survivor 51 markets are absent from Kalshi and Polymarket despite earlier seasons trading heavily** — Action Network reported that Survivor 51 prediction markets are currently listed on none of the top platforms, including Kalshi and Polymarket. Earlier seasons Survivor 49 and Survivor 50 drew high-volume Kalshi markets, including contestant elimination contracts and markets on phrases host Jeff Probst might say. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))",
+      "image_url": null,
+      "published": "2026-10-16T14:15:00-04:00",
+      "source": "2026-10-16_1415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_1409-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1409-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCFTC unveils prediction-market rulemaking for Kalshi, Polymarket and Coinbase\nThe agency issued a staff advisory treating event contracts as a distinct asset class and filed an advanced notice of proposed rulemaking, opening a 45-day comment…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://bitrss.com/cftc-unveils-prediction-market-regulations-impacting-kalshi-polymarket-and-coinbase-192620\n\nYera wins priced at 86% on Kalshi, on $2K traded, in a newly listed market\nPredictionBubbles' new-markets board lists the tennis contract, created about an hour ago and resolving in about 14 days — a matchup not featured in any earlier edition…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>CFTC unveils prediction-market rulemaking for Kalshi, Polymarket and Coinbase<br/>The agency issued a staff advisory treating event contracts as a distinct asset class and filed an advanced notice of proposed rulemaking, opening a 45-day comment…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://bitrss.com/cftc-unveils-prediction-market-regulations-impacting-kalshi-polymarket-and-coinbase-192620<br/><br/>Yera wins priced at 86% on Kalshi, on $2K traded, in a newly listed market<br/>PredictionBubbles&#x27; new-markets board lists the tennis contract, created about an hour ago and resolving in about 14 days — a matchup not featured in any earlier edition…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T14:09:00-04:00",
+      "date_modified": "2026-10-16T14:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/cftc-unveils-prediction-market-regulations-impacting-kalshi-polymarket-and-coinbase-192620",
+      "links": [
+        "https://bitrss.com/cftc-unveils-prediction-market-regulations-impacting-kalshi-polymarket-and-coinbase-192620",
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:09 PM ET",
+      "body": "Infiniti Briefing\n\nCFTC unveils prediction-market rulemaking for Kalshi, Polymarket and Coinbase\nThe agency issued a staff advisory treating event contracts as a distinct asset class and filed an advanced notice of proposed rulemaking, opening a 45-day comment…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://bitrss.com/cftc-unveils-prediction-market-regulations-impacting-kalshi-polymarket-and-coinbase-192620\n\nYera wins priced at 86% on Kalshi, on $2K traded, in a newly listed market\nPredictionBubbles' new-markets board lists the tennis contract, created about an hour ago and resolving in about 14 days — a matchup not featured in any earlier edition…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T14:09:00-04:00",
+      "source": "2026-10-16_1409-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1400-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1400-edt-0",
@@ -4464,188 +4644,6 @@
       "image_url": null,
       "published": "2026-10-16T07:00:00-04:00",
       "source": "2026-10-16_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0700-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0700-edt-1",
-      "title": "Kalshi September CPI markets finalized on schedule after on-time BLS release",
-      "content_text": "- **Kalshi September CPI markets finalized on schedule after on-time BLS release** — A post-release check of Kalshi's September CPI markets found the Bureau of Labor Statistics released on schedule, so the contracts' shutdown-delay extension never came into play. Both the monthly and year-over-year events finalized the same morning, and the monthly market's close was confirmed at 8:29 AM ET. ([KalshiView](https://kalshiview.com/blog/september-2026-cpi-october-14-bls-calendar-kalshi-source-recheck/))",
-      "content_html": "<p>- **Kalshi September CPI markets finalized on schedule after on-time BLS release** — A post-release check of Kalshi&#x27;s September CPI markets found the Bureau of Labor Statistics released on schedule, so the contracts&#x27; shutdown-delay extension never came into play. Both the monthly and year-over-year events finalized the same morning, and the monthly market&#x27;s close was confirmed at 8:29 AM ET. ([KalshiView](https://kalshiview.com/blog/september-2026-cpi-october-14-bls-calendar-kalshi-source-recheck/))</p>",
-      "date_published": "2026-10-16T07:00:00-04:00",
-      "date_modified": "2026-10-16T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://kalshiview.com/blog/september-2026-cpi-october-14-bls-calendar-kalshi-source-recheck/",
-      "links": [
-        "https://kalshiview.com/blog/september-2026-cpi-october-14-bls-calendar-kalshi-source-recheck/"
-      ],
-      "timestamp": "Oct 16, 2026 · 7:00 AM ET",
-      "body": "- **Kalshi September CPI markets finalized on schedule after on-time BLS release** — A post-release check of Kalshi's September CPI markets found the Bureau of Labor Statistics released on schedule, so the contracts' shutdown-delay extension never came into play. Both the monthly and year-over-year events finalized the same morning, and the monthly market's close was confirmed at 8:29 AM ET. ([KalshiView](https://kalshiview.com/blog/september-2026-cpi-october-14-bls-calendar-kalshi-source-recheck/))",
-      "image_url": null,
-      "published": "2026-10-16T07:00:00-04:00",
-      "source": "2026-10-16_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0700-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0700-edt-2",
-      "title": "Kalshi hurricane suite lists Hawaii landfall market above 171,000 dollars in volume",
-      "content_text": "- **Kalshi hurricane suite lists Hawaii landfall market above 171,000 dollars in volume** — Kalshi's hurricane category includes a market on a hurricane making landfall in Hawaii this year with about 171,107 dollars in volume, alongside a major Atlantic hurricanes suite showing about 197,163 dollars across seven markets. The suite also lists Florida Category 4 landfall and Northeast Category 3 landfall contracts. ([Kalshi](https://kalshi.com/category/climate/hurricanes))",
-      "content_html": "<p>- **Kalshi hurricane suite lists Hawaii landfall market above 171,000 dollars in volume** — Kalshi&#x27;s hurricane category includes a market on a hurricane making landfall in Hawaii this year with about 171,107 dollars in volume, alongside a major Atlantic hurricanes suite showing about 197,163 dollars across seven markets. The suite also lists Florida Category 4 landfall and Northeast Category 3 landfall contracts. ([Kalshi](https://kalshi.com/category/climate/hurricanes))</p>",
-      "date_published": "2026-10-16T07:00:00-04:00",
-      "date_modified": "2026-10-16T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://kalshi.com/category/climate/hurricanes",
-      "links": [
-        "https://kalshi.com/category/climate/hurricanes"
-      ],
-      "timestamp": "Oct 16, 2026 · 7:00 AM ET",
-      "body": "- **Kalshi hurricane suite lists Hawaii landfall market above 171,000 dollars in volume** — Kalshi's hurricane category includes a market on a hurricane making landfall in Hawaii this year with about 171,107 dollars in volume, alongside a major Atlantic hurricanes suite showing about 197,163 dollars across seven markets. The suite also lists Florida Category 4 landfall and Northeast Category 3 landfall contracts. ([Kalshi](https://kalshi.com/category/climate/hurricanes))",
-      "image_url": null,
-      "published": "2026-10-16T07:00:00-04:00",
-      "source": "2026-10-16_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0700-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0700-edt-3",
-      "title": "Polymarket number one paid app market for October 16 leads with Shadowrocket at 99 percent",
-      "content_text": "- **Polymarket number one paid app market for October 16 leads with Shadowrocket at 99 percent** — Polymarket's market for the number one paid app in the US Apple App Store on October 16 leads with Shadowrocket at 99 percent, followed by Procreate Pocket at 2 percent. The five-outcome market was launched on October 11, 2026. ([Polymarket](https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-october-16))",
-      "content_html": "<p>- **Polymarket number one paid app market for October 16 leads with Shadowrocket at 99 percent** — Polymarket&#x27;s market for the number one paid app in the US Apple App Store on October 16 leads with Shadowrocket at 99 percent, followed by Procreate Pocket at 2 percent. The five-outcome market was launched on October 11, 2026. ([Polymarket](https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-october-16))</p>",
-      "date_published": "2026-10-16T07:00:00-04:00",
-      "date_modified": "2026-10-16T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-october-16",
-      "links": [
-        "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-october-16"
-      ],
-      "timestamp": "Oct 16, 2026 · 7:00 AM ET",
-      "body": "- **Polymarket number one paid app market for October 16 leads with Shadowrocket at 99 percent** — Polymarket's market for the number one paid app in the US Apple App Store on October 16 leads with Shadowrocket at 99 percent, followed by Procreate Pocket at 2 percent. The five-outcome market was launched on October 11, 2026. ([Polymarket](https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-october-16))",
-      "image_url": null,
-      "published": "2026-10-16T07:00:00-04:00",
-      "source": "2026-10-16_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0654-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nAlaska Senate: Mary Peltola at 74% on Polymarket and Kalshi, well ahead of the polling\nNo significant new platform headline in the last 15 minutes, so this fresh Senate book leads, in a political/election category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://defirate.com/odds/senate/\n\nValorant VCT Champions Playoffs: LOUD at 54% against Team Vitality, with $756K traded in 24 hours\nPolydict's board as of Oct. 16, 08:55 UTC ranks the best-of-three 10th by 24-hour volume ahead of its Oct. 16 end — a single-match volume reading distinct from the…\n#PredictionMarkets\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Alaska Senate: Mary Peltola at 74% on Polymarket and Kalshi, well ahead of the polling<br/>No significant new platform headline in the last 15 minutes, so this fresh Senate book leads, in a political/election category different from the previous three leads…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://defirate.com/odds/senate/<br/><br/>Valorant VCT Champions Playoffs: LOUD at 54% against Team Vitality, with $756K traded in 24 hours<br/>Polydict&#x27;s board as of Oct. 16, 08:55 UTC ranks the best-of-three 10th by 24-hour volume ahead of its Oct. 16 end — a single-match volume reading distinct from the…<br/>#PredictionMarkets<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T06:54:00-04:00",
-      "date_modified": "2026-10-16T06:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/senate/",
-      "links": [
-        "https://defirate.com/odds/senate/",
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 16, 2026 · 6:54 AM ET",
-      "body": "Infiniti Briefing\n\nAlaska Senate: Mary Peltola at 74% on Polymarket and Kalshi, well ahead of the polling\nNo significant new platform headline in the last 15 minutes, so this fresh Senate book leads, in a political/election category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://defirate.com/odds/senate/\n\nValorant VCT Champions Playoffs: LOUD at 54% against Team Vitality, with $756K traded in 24 hours\nPolydict's board as of Oct. 16, 08:55 UTC ranks the best-of-three 10th by 24-hour volume ahead of its Oct. 16 end — a single-match volume reading distinct from the…\n#PredictionMarkets\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T06:54:00-04:00",
-      "source": "2026-10-16_0654-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0645-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0645-edt-0",
-      "title": "Kalshi and Polymarket lobbying and contributions pass 3 million dollars in 2026",
-      "content_text": "- **Kalshi and Polymarket lobbying and contributions pass 3 million dollars in 2026** — Kalshi, Polymarket and the Coalition for Prediction Markets have spent at least 3 million dollars combined on lobbying and political contributions in 2026. Kalshi had registered lobbyists in 41 states as of September and spent nearly 1 million dollars on federal lobbying through June 30. ([Bonus.com](https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/))",
-      "content_html": "<p>- **Kalshi and Polymarket lobbying and contributions pass 3 million dollars in 2026** — Kalshi, Polymarket and the Coalition for Prediction Markets have spent at least 3 million dollars combined on lobbying and political contributions in 2026. Kalshi had registered lobbyists in 41 states as of September and spent nearly 1 million dollars on federal lobbying through June 30. ([Bonus.com](https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/))</p>",
-      "date_published": "2026-10-16T06:45:00-04:00",
-      "date_modified": "2026-10-16T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/",
-      "links": [
-        "https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/"
-      ],
-      "timestamp": "Oct 16, 2026 · 6:45 AM ET",
-      "body": "- **Kalshi and Polymarket lobbying and contributions pass 3 million dollars in 2026** — Kalshi, Polymarket and the Coalition for Prediction Markets have spent at least 3 million dollars combined on lobbying and political contributions in 2026. Kalshi had registered lobbyists in 41 states as of September and spent nearly 1 million dollars on federal lobbying through June 30. ([Bonus.com](https://www.bonus.com/news/kalshi-s-41-state-lobbying-push-puts-prediction-market-rules-in-the-spotlight/))",
-      "image_url": null,
-      "published": "2026-10-16T06:45:00-04:00",
-      "source": "2026-10-16_0645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0645-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0645-edt-1",
-      "title": "Polymarket midterm markets price Democrats at 91 percent for the House and 64 percent for the Senate",
-      "content_text": "- **Polymarket midterm markets price Democrats at 91 percent for the House and 64 percent for the Senate** — Polymarket priced Democrats at 91 percent to win the House and 64 percent to take the Senate in markets updated this week. Kalshi balance-of-power markets also listed a Democratic sweep as the leading outcome. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
-      "content_html": "<p>- **Polymarket midterm markets price Democrats at 91 percent for the House and 64 percent for the Senate** — Polymarket priced Democrats at 91 percent to win the House and 64 percent to take the Senate in markets updated this week. Kalshi balance-of-power markets also listed a Democratic sweep as the leading outcome. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))</p>",
-      "date_published": "2026-10-16T06:45:00-04:00",
-      "date_modified": "2026-10-16T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/",
-      "links": [
-        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
-      ],
-      "timestamp": "Oct 16, 2026 · 6:45 AM ET",
-      "body": "- **Polymarket midterm markets price Democrats at 91 percent for the House and 64 percent for the Senate** — Polymarket priced Democrats at 91 percent to win the House and 64 percent to take the Senate in markets updated this week. Kalshi balance-of-power markets also listed a Democratic sweep as the leading outcome. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/))",
-      "image_url": null,
-      "published": "2026-10-16T06:45:00-04:00",
-      "source": "2026-10-16_0645-edt.json",
       "matches_facebook_post": false
     }
   ]
