@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T08:49:30.689984-04:00",
+  "updated": "2026-10-16T08:55:34.568775-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-16_0854-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0854-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nWhich party wins 2028: Democrats at about 61%, with J.D. Vance the single likeliest winner at 21% on Polymarket\nNo significant new platform headline in the last 15 minutes, so this fresh party book leads, in a political/election category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/us-president/\n\nDaniil Medvedev wins: 92% on Kalshi, up 25 points, on $854K traded\nPredictionBubbles' live ending-soon board, read Oct. 16 at 12:09 UTC, ranks the Medvedev contract among the biggest movers, with Tommy Paul the other side of the same…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/ending-soon/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Which party wins 2028: Democrats at about 61%, with J.D. Vance the single likeliest winner at 21% on Polymarket<br/>No significant new platform headline in the last 15 minutes, so this fresh party book leads, in a political/election category different from the previous three leads…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/us-president/<br/><br/>Daniil Medvedev wins: 92% on Kalshi, up 25 points, on $854K traded<br/>PredictionBubbles&#x27; live ending-soon board, read Oct. 16 at 12:09 UTC, ranks the Medvedev contract among the biggest movers, with Tommy Paul the other side of the same…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/ending-soon/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T08:54:00-04:00",
+      "date_modified": "2026-10-16T08:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/us-president/",
+      "links": [
+        "https://defirate.com/odds/us-president/",
+        "https://predictionbubbles.net/markets/ending-soon/"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:54 AM ET",
+      "body": "Infiniti Briefing\n\nWhich party wins 2028: Democrats at about 61%, with J.D. Vance the single likeliest winner at 21% on Polymarket\nNo significant new platform headline in the last 15 minutes, so this fresh party book leads, in a political/election category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/us-president/\n\nDaniil Medvedev wins: 92% on Kalshi, up 25 points, on $854K traded\nPredictionBubbles' live ending-soon board, read Oct. 16 at 12:09 UTC, ranks the Medvedev contract among the biggest movers, with Tommy Paul the other side of the same…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/ending-soon/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T08:54:00-04:00",
+      "source": "2026-10-16_0854-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-16_0839-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0839-edt",
@@ -4680,38 +4713,6 @@
       "image_url": null,
       "published": "2026-10-16T00:30:00-04:00",
       "source": "2026-10-16_0030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0024-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0024-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBrazil Presidential Election leads Polymarket's Brazil board at 79.1% for Flávio Bolsonaro\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh election book leads, in a political/election category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarkettrader.com/odds/brazil/\n\nBest AI model at year-end: Google and Anthropic just over 40c each, OpenAI at 8c on Polymarket\nThe year-end book, settled on the Chatbot Arena leaderboard, puts Google Gemini and Anthropic Claude as the joint front-runners, with OpenAI a distant third — a distinct…\n#PredictionMarkets #Polymarket\nhttps://deadspin.com/prediction-markets/trending/top-ai-trades-on-polymarket-best-ai-models-data-center-moratoriums-and-more/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Brazil Presidential Election leads Polymarket&#x27;s Brazil board at 79.1% for Flávio Bolsonaro<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh election book leads, in a political/election category different from the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polymarkettrader.com/odds/brazil/<br/><br/>Best AI model at year-end: Google and Anthropic just over 40c each, OpenAI at 8c on Polymarket<br/>The year-end book, settled on the Chatbot Arena leaderboard, puts Google Gemini and Anthropic Claude as the joint front-runners, with OpenAI a distant third — a distinct…<br/>#PredictionMarkets #Polymarket<br/>https://deadspin.com/prediction-markets/trending/top-ai-trades-on-polymarket-best-ai-models-data-center-moratoriums-and-more/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T00:24:00-04:00",
-      "date_modified": "2026-10-16T00:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://polymarkettrader.com/odds/brazil/",
-      "links": [
-        "https://polymarkettrader.com/odds/brazil/",
-        "https://deadspin.com/prediction-markets/trending/top-ai-trades-on-polymarket-best-ai-models-data-center-moratoriums-and-more/"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:24 AM ET",
-      "body": "Infiniti Briefing\n\nBrazil Presidential Election leads Polymarket's Brazil board at 79.1% for Flávio Bolsonaro\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh election book leads, in a political/election category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarkettrader.com/odds/brazil/\n\nBest AI model at year-end: Google and Anthropic just over 40c each, OpenAI at 8c on Polymarket\nThe year-end book, settled on the Chatbot Arena leaderboard, puts Google Gemini and Anthropic Claude as the joint front-runners, with OpenAI a distant third — a distinct…\n#PredictionMarkets #Polymarket\nhttps://deadspin.com/prediction-markets/trending/top-ai-trades-on-polymarket-best-ai-models-data-center-moratoriums-and-more/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T00:24:00-04:00",
-      "source": "2026-10-16_0024-edt.md",
       "matches_facebook_post": false
     }
   ]
