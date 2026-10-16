@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T04:48:57.107993-04:00",
+  "updated": "2026-10-16T05:03:15.425864-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,188 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_0500-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0500-edt-0",
+      "title": "Taiwan blocks Coinbase and Kalshi over suspected election betting",
+      "content_text": "- **Taiwan blocks Coinbase and Kalshi over suspected election betting** — Taiwan blocked domestic access to Coinbase and Kalshi following a court order concerning suspected illegal election betting ahead of the November 28 local elections. Kalshi said trading was unavailable in Taiwan, while Coinbase said it was investigating website access problems reported from October 14. ([crypto.news](https://crypto.news/taiwan-blocks-coinbase-kalshi-election-betting/))",
+      "content_html": "<p>- **Taiwan blocks Coinbase and Kalshi over suspected election betting** — Taiwan blocked domestic access to Coinbase and Kalshi following a court order concerning suspected illegal election betting ahead of the November 28 local elections. Kalshi said trading was unavailable in Taiwan, while Coinbase said it was investigating website access problems reported from October 14. ([crypto.news](https://crypto.news/taiwan-blocks-coinbase-kalshi-election-betting/))</p>",
+      "date_published": "2026-10-16T05:00:00-04:00",
+      "date_modified": "2026-10-16T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://crypto.news/taiwan-blocks-coinbase-kalshi-election-betting/",
+      "links": [
+        "https://crypto.news/taiwan-blocks-coinbase-kalshi-election-betting/"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 AM ET",
+      "body": "- **Taiwan blocks Coinbase and Kalshi over suspected election betting** — Taiwan blocked domestic access to Coinbase and Kalshi following a court order concerning suspected illegal election betting ahead of the November 28 local elections. Kalshi said trading was unavailable in Taiwan, while Coinbase said it was investigating website access problems reported from October 14. ([crypto.news](https://crypto.news/taiwan-blocks-coinbase-kalshi-election-betting/))",
+      "image_url": null,
+      "published": "2026-10-16T05:00:00-04:00",
+      "source": "2026-10-16_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0500-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0500-edt-1",
+      "title": "Federal magistrate recommends sending Kentucky Polymarket and Kalshi suits back to state court",
+      "content_text": "- **Federal magistrate recommends sending Kentucky Polymarket and Kalshi suits back to state court** — A federal magistrate recommended on October 14 that Kentucky gambling suits against Polymarket and Kalshi be remanded to state court, citing the Sixth Circuit September ruling on sports contracts. The recommendations are not final, and district judges will decide whether to adopt them. ([iGaming Times](https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court))",
+      "content_html": "<p>- **Federal magistrate recommends sending Kentucky Polymarket and Kalshi suits back to state court** — A federal magistrate recommended on October 14 that Kentucky gambling suits against Polymarket and Kalshi be remanded to state court, citing the Sixth Circuit September ruling on sports contracts. The recommendations are not final, and district judges will decide whether to adopt them. ([iGaming Times](https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court))</p>",
+      "date_published": "2026-10-16T05:00:00-04:00",
+      "date_modified": "2026-10-16T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court",
+      "links": [
+        "https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 AM ET",
+      "body": "- **Federal magistrate recommends sending Kentucky Polymarket and Kalshi suits back to state court** — A federal magistrate recommended on October 14 that Kentucky gambling suits against Polymarket and Kalshi be remanded to state court, citing the Sixth Circuit September ruling on sports contracts. The recommendations are not final, and district judges will decide whether to adopt them. ([iGaming Times](https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court))",
+      "image_url": null,
+      "published": "2026-10-16T05:00:00-04:00",
+      "source": "2026-10-16_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0500-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0500-edt-2",
+      "title": "New wave of prediction market apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions",
+      "content_text": "- **New wave of prediction market apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions** — A roundup of the new wave of US prediction market apps notes entries from FanDuel, Fanatics and Gemini alongside Novig and ProphetX, with access varying by state. It listed Kalshi at about 14.8 billion dollars in 30-day volume as of October 13 and Polymarket at about 5.2 billion dollars over the same period. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
+      "content_html": "<p>- **New wave of prediction market apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions** — A roundup of the new wave of US prediction market apps notes entries from FanDuel, Fanatics and Gemini alongside Novig and ProphetX, with access varying by state. It listed Kalshi at about 14.8 billion dollars in 30-day volume as of October 13 and Polymarket at about 5.2 billion dollars over the same period. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))</p>",
+      "date_published": "2026-10-16T05:00:00-04:00",
+      "date_modified": "2026-10-16T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/",
+      "links": [
+        "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 AM ET",
+      "body": "- **New wave of prediction market apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions** — A roundup of the new wave of US prediction market apps notes entries from FanDuel, Fanatics and Gemini alongside Novig and ProphetX, with access varying by state. It listed Kalshi at about 14.8 billion dollars in 30-day volume as of October 13 and Polymarket at about 5.2 billion dollars over the same period. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
+      "image_url": null,
+      "published": "2026-10-16T05:00:00-04:00",
+      "source": "2026-10-16_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0500-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0500-edt-3",
+      "title": "Polymarket prices Avalanche at 66 percent against Penguins for October 16 NHL game",
+      "content_text": "- **Polymarket prices Avalanche at 66 percent against Penguins for October 16 NHL game** — Polymarket priced the Colorado Avalanche at 66 cents and the Pittsburgh Penguins at 35 cents for their October 16 NHL game scheduled for 9:00 PM ET. The market had generated about 6,232 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-pit-col-2026-10-16))",
+      "content_html": "<p>- **Polymarket prices Avalanche at 66 percent against Penguins for October 16 NHL game** — Polymarket priced the Colorado Avalanche at 66 cents and the Pittsburgh Penguins at 35 cents for their October 16 NHL game scheduled for 9:00 PM ET. The market had generated about 6,232 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-pit-col-2026-10-16))</p>",
+      "date_published": "2026-10-16T05:00:00-04:00",
+      "date_modified": "2026-10-16T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/sports/nhl/nhl-pit-col-2026-10-16",
+      "links": [
+        "https://polymarket.com/sports/nhl/nhl-pit-col-2026-10-16"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 AM ET",
+      "body": "- **Polymarket prices Avalanche at 66 percent against Penguins for October 16 NHL game** — Polymarket priced the Colorado Avalanche at 66 cents and the Pittsburgh Penguins at 35 cents for their October 16 NHL game scheduled for 9:00 PM ET. The market had generated about 6,232 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-pit-col-2026-10-16))",
+      "image_url": null,
+      "published": "2026-10-16T05:00:00-04:00",
+      "source": "2026-10-16_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0500-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0500-edt-4",
+      "title": "Polymarket prices next Anthropic Fable model release by October 24 at about 82 percent",
+      "content_text": "- **Polymarket prices next Anthropic Fable model release by October 24 at about 82 percent** — Polymarket traders priced a new Anthropic Fable model numbered 5.2 or higher at about 82 percent to be released by October 24 and about 99 percent by December 31. The market prices reflect trading activity, not an announced release date from Anthropic. ([MadRobot](https://madrobot.blog/2026/10/16/claude-fable-5-5-release-date-is-it-out/))",
+      "content_html": "<p>- **Polymarket prices next Anthropic Fable model release by October 24 at about 82 percent** — Polymarket traders priced a new Anthropic Fable model numbered 5.2 or higher at about 82 percent to be released by October 24 and about 99 percent by December 31. The market prices reflect trading activity, not an announced release date from Anthropic. ([MadRobot](https://madrobot.blog/2026/10/16/claude-fable-5-5-release-date-is-it-out/))</p>",
+      "date_published": "2026-10-16T05:00:00-04:00",
+      "date_modified": "2026-10-16T05:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://madrobot.blog/2026/10/16/claude-fable-5-5-release-date-is-it-out/",
+      "links": [
+        "https://madrobot.blog/2026/10/16/claude-fable-5-5-release-date-is-it-out/"
+      ],
+      "timestamp": "Oct 16, 2026 · 5:00 AM ET",
+      "body": "- **Polymarket prices next Anthropic Fable model release by October 24 at about 82 percent** — Polymarket traders priced a new Anthropic Fable model numbered 5.2 or higher at about 82 percent to be released by October 24 and about 99 percent by December 31. The market prices reflect trading activity, not an announced release date from Anthropic. ([MadRobot](https://madrobot.blog/2026/10/16/claude-fable-5-5-release-date-is-it-out/))",
+      "image_url": null,
+      "published": "2026-10-16T05:00:00-04:00",
+      "source": "2026-10-16_0500-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_0454-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0454-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNBA Teams to Win 50+ Games: Atlanta Hawks and Boston Celtics both at 99% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the $220M midterm study surfacing again in search is a struck repeat, so this fresh…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://polymarket.com/event/nba-teams-50-plus-wins-2026-27\n\nTrump approval Friday contract on Kalshi has climbed steadily all week into its Oct. 16 resolution\nAction Network notes the recurring contract has ground higher since the weekend and shifted its favored range, even as national polling averages sat in the mid-to-upper…\n#PredictionMarkets #Kalshi #Elections\nhttps://www.actionnetwork.com/politics/trump-approval-rating-friday-prediction-what-the-kalshi-market-is-forecasting\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>NBA Teams to Win 50+ Games: Atlanta Hawks and Boston Celtics both at 99% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, and the $220M midterm study surfacing again in search is a struck repeat, so this fresh…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/>https://polymarket.com/event/nba-teams-50-plus-wins-2026-27<br/><br/>Trump approval Friday contract on Kalshi has climbed steadily all week into its Oct. 16 resolution<br/>Action Network notes the recurring contract has ground higher since the weekend and shifted its favored range, even as national polling averages sat in the mid-to-upper…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://www.actionnetwork.com/politics/trump-approval-rating-friday-prediction-what-the-kalshi-market-is-forecasting<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T04:54:00-04:00",
+      "date_modified": "2026-10-16T04:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/nba-teams-50-plus-wins-2026-27",
+      "links": [
+        "https://polymarket.com/event/nba-teams-50-plus-wins-2026-27",
+        "https://www.actionnetwork.com/politics/trump-approval-rating-friday-prediction-what-the-kalshi-market-is-forecasting"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:54 AM ET",
+      "body": "Infiniti Briefing\n\nNBA Teams to Win 50+ Games: Atlanta Hawks and Boston Celtics both at 99% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, and the $220M midterm study surfacing again in search is a struck repeat, so this fresh…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://polymarket.com/event/nba-teams-50-plus-wins-2026-27\n\nTrump approval Friday contract on Kalshi has climbed steadily all week into its Oct. 16 resolution\nAction Network notes the recurring contract has ground higher since the weekend and shifted its favored range, even as national polling averages sat in the mid-to-upper…\n#PredictionMarkets #Kalshi #Elections\nhttps://www.actionnetwork.com/politics/trump-approval-rating-friday-prediction-what-the-kalshi-market-is-forecasting\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T04:54:00-04:00",
+      "source": "2026-10-16_0454-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_0445-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0445-edt-0",
@@ -4505,190 +4687,6 @@
       "image_url": null,
       "published": "2026-10-15T20:00:00-04:00",
       "source": "2026-10-15_2000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1954-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1954-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nCalifornia billionaire wealth tax passes at just 25% on both Kalshi and Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh ballot contract leads, in a political/election markets category different…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/california-wealth-tax/\n\nU.S. breaks its record for billion-dollar weather and climate disasters in 2026 at 34% on Polymarket\nThe Aug. 19-launched book prices Yes at 34c — a climate/weather contract not featured in any earlier edition today, in a weather/science category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>California billionaire wealth tax passes at just 25% on both Kalshi and Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh ballot contract leads, in a political/election markets category different…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/california-wealth-tax/<br/><br/>U.S. breaks its record for billion-dollar weather and climate disasters in 2026 at 34% on Polymarket<br/>The Aug. 19-launched book prices Yes at 34c — a climate/weather contract not featured in any earlier edition today, in a weather/science category distinct from the lead<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T19:54:00-04:00",
-      "date_modified": "2026-10-15T19:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/california-wealth-tax/",
-      "links": [
-        "https://defirate.com/odds/california-wealth-tax/",
-        "https://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:54 PM ET",
-      "body": "Infiniti Briefing\n\nCalifornia billionaire wealth tax passes at just 25% on both Kalshi and Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh ballot contract leads, in a political/election markets category different…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/california-wealth-tax/\n\nU.S. breaks its record for billion-dollar weather and climate disasters in 2026 at 34% on Polymarket\nThe Aug. 19-launched book prices Yes at 34c — a climate/weather contract not featured in any earlier edition today, in a weather/science category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/will-the-us-break-its-record-for-billion-dollar-weather-and-climate-disasters-in-2026-1787153419673\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T19:54:00-04:00",
-      "source": "2026-10-15_1954-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1945-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1945-edt-0",
-      "title": "Coinbase halts sports-event contracts in Michigan under agreement with state officials",
-      "content_text": "- **Coinbase halts sports-event contracts in Michigan under agreement with state officials** — Coinbase has halted sports-event contracts for Michigan residents under an agreement with state officials, joining Kalshi and Robinhood as platforms that have reached agreements or faced court orders there. Attorney General Dana Nessel said the state will bring all sports betting into compliance with Michigan gaming law, by agreement or court order. ([Betting.net](https://www.betting.net/news/prediction-markets/coinbase-halts-sports-event-contracts-in-michigan/))",
-      "content_html": "<p>- **Coinbase halts sports-event contracts in Michigan under agreement with state officials** — Coinbase has halted sports-event contracts for Michigan residents under an agreement with state officials, joining Kalshi and Robinhood as platforms that have reached agreements or faced court orders there. Attorney General Dana Nessel said the state will bring all sports betting into compliance with Michigan gaming law, by agreement or court order. ([Betting.net](https://www.betting.net/news/prediction-markets/coinbase-halts-sports-event-contracts-in-michigan/))</p>",
-      "date_published": "2026-10-15T19:45:00-04:00",
-      "date_modified": "2026-10-15T19:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.betting.net/news/prediction-markets/coinbase-halts-sports-event-contracts-in-michigan/",
-      "links": [
-        "https://www.betting.net/news/prediction-markets/coinbase-halts-sports-event-contracts-in-michigan/"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:45 PM ET",
-      "body": "- **Coinbase halts sports-event contracts in Michigan under agreement with state officials** — Coinbase has halted sports-event contracts for Michigan residents under an agreement with state officials, joining Kalshi and Robinhood as platforms that have reached agreements or faced court orders there. Attorney General Dana Nessel said the state will bring all sports betting into compliance with Michigan gaming law, by agreement or court order. ([Betting.net](https://www.betting.net/news/prediction-markets/coinbase-halts-sports-event-contracts-in-michigan/))",
-      "image_url": null,
-      "published": "2026-10-15T19:45:00-04:00",
-      "source": "2026-10-15_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1945-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1945-edt-1",
-      "title": "Georgia Senate markets price Ossoff above 95 percent on both Polymarket and Kalshi",
-      "content_text": "- **Georgia Senate markets price Ossoff above 95 percent on both Polymarket and Kalshi** — Polymarket prices Jon Ossoff at 96 cents and Kalshi at 95.2 cents against Mike Collins in Georgia's 2026 Senate race, a wider gap than recent polling shows. The markets resolve once the race is called or certified after the November 3 election, and a December runoff remains possible if no candidate clears 50 percent. ([Action Network](https://www.actionnetwork.com/news/georgia-senate-race-2026-polls-odds-ossoff-vs-collins-polls-georgia-senate-race-2026-polls-analysis-prediction-markets))",
-      "content_html": "<p>- **Georgia Senate markets price Ossoff above 95 percent on both Polymarket and Kalshi** — Polymarket prices Jon Ossoff at 96 cents and Kalshi at 95.2 cents against Mike Collins in Georgia&#x27;s 2026 Senate race, a wider gap than recent polling shows. The markets resolve once the race is called or certified after the November 3 election, and a December runoff remains possible if no candidate clears 50 percent. ([Action Network](https://www.actionnetwork.com/news/georgia-senate-race-2026-polls-odds-ossoff-vs-collins-polls-georgia-senate-race-2026-polls-analysis-prediction-markets))</p>",
-      "date_published": "2026-10-15T19:45:00-04:00",
-      "date_modified": "2026-10-15T19:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/georgia-senate-race-2026-polls-odds-ossoff-vs-collins-polls-georgia-senate-race-2026-polls-analysis-prediction-markets",
-      "links": [
-        "https://www.actionnetwork.com/news/georgia-senate-race-2026-polls-odds-ossoff-vs-collins-polls-georgia-senate-race-2026-polls-analysis-prediction-markets"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:45 PM ET",
-      "body": "- **Georgia Senate markets price Ossoff above 95 percent on both Polymarket and Kalshi** — Polymarket prices Jon Ossoff at 96 cents and Kalshi at 95.2 cents against Mike Collins in Georgia's 2026 Senate race, a wider gap than recent polling shows. The markets resolve once the race is called or certified after the November 3 election, and a December runoff remains possible if no candidate clears 50 percent. ([Action Network](https://www.actionnetwork.com/news/georgia-senate-race-2026-polls-odds-ossoff-vs-collins-polls-georgia-senate-race-2026-polls-analysis-prediction-markets))",
-      "image_url": null,
-      "published": "2026-10-15T19:45:00-04:00",
-      "source": "2026-10-15_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1945-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1945-edt-2",
-      "title": "Indiana statewide data-center moratorium odds fall 4 points in October 15 roundup",
-      "content_text": "- **Indiana statewide data-center moratorium odds fall 4 points in October 15 roundup** — CasinoReviews' October 15 prediction market roundup reports that odds on a statewide data-center moratorium in Indiana fell 4 points. Local restrictions on data centers have not translated into clear momentum for a statewide measure, according to the roundup. ([CasinoReviews](https://www.casinoreviews.net/news/fed-hike-odds-rise-as-hormuz-deadlock-and-indiana-markets-shift/))",
-      "content_html": "<p>- **Indiana statewide data-center moratorium odds fall 4 points in October 15 roundup** — CasinoReviews&#x27; October 15 prediction market roundup reports that odds on a statewide data-center moratorium in Indiana fell 4 points. Local restrictions on data centers have not translated into clear momentum for a statewide measure, according to the roundup. ([CasinoReviews](https://www.casinoreviews.net/news/fed-hike-odds-rise-as-hormuz-deadlock-and-indiana-markets-shift/))</p>",
-      "date_published": "2026-10-15T19:45:00-04:00",
-      "date_modified": "2026-10-15T19:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.casinoreviews.net/news/fed-hike-odds-rise-as-hormuz-deadlock-and-indiana-markets-shift/",
-      "links": [
-        "https://www.casinoreviews.net/news/fed-hike-odds-rise-as-hormuz-deadlock-and-indiana-markets-shift/"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:45 PM ET",
-      "body": "- **Indiana statewide data-center moratorium odds fall 4 points in October 15 roundup** — CasinoReviews' October 15 prediction market roundup reports that odds on a statewide data-center moratorium in Indiana fell 4 points. Local restrictions on data centers have not translated into clear momentum for a statewide measure, according to the roundup. ([CasinoReviews](https://www.casinoreviews.net/news/fed-hike-odds-rise-as-hormuz-deadlock-and-indiana-markets-shift/))",
-      "image_url": null,
-      "published": "2026-10-15T19:45:00-04:00",
-      "source": "2026-10-15_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1945-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1945-edt-3",
-      "title": "49ers lead Super Bowl LXI board at about 13 percent on Kalshi and Polymarket, DeFi Rate reports",
-      "content_text": "- **49ers lead Super Bowl LXI board at about 13 percent on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate's October 15 board prices the San Francisco 49ers as Super Bowl LXI favorites at about 13 percent, up 4 points over seven days. Kalshi prices the contract at 13.5 cents and Polymarket at 12.6 cents. ([DeFi Rate](https://defirate.com/))",
-      "content_html": "<p>- **49ers lead Super Bowl LXI board at about 13 percent on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate&#x27;s October 15 board prices the San Francisco 49ers as Super Bowl LXI favorites at about 13 percent, up 4 points over seven days. Kalshi prices the contract at 13.5 cents and Polymarket at 12.6 cents. ([DeFi Rate](https://defirate.com/))</p>",
-      "date_published": "2026-10-15T19:45:00-04:00",
-      "date_modified": "2026-10-15T19:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/",
-      "links": [
-        "https://defirate.com/"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:45 PM ET",
-      "body": "- **49ers lead Super Bowl LXI board at about 13 percent on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate's October 15 board prices the San Francisco 49ers as Super Bowl LXI favorites at about 13 percent, up 4 points over seven days. Kalshi prices the contract at 13.5 cents and Polymarket at 12.6 cents. ([DeFi Rate](https://defirate.com/))",
-      "image_url": null,
-      "published": "2026-10-15T19:45:00-04:00",
-      "source": "2026-10-15_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1939-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1939-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nHow many ships transit the Strait of Hormuz in the week of Oct. 19: fewer than 20 leads at 46% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a world/geopolitics category different from the…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-19\n\nAnthropic reports another AI sandbox escape by Oct. 31 at 26% on Polymarket\nThe Oct. 12-launched book puts the Oct. 15 outcome at just 8% — an AI-safety contract not featured in any earlier edition today, in a tech category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/anthropic-reports-another-ai-sandbox-escape-byptptpt-20261012\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>How many ships transit the Strait of Hormuz in the week of Oct. 19: fewer than 20 leads at 46% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a world/geopolitics category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-19<br/><br/>Anthropic reports another AI sandbox escape by Oct. 31 at 26% on Polymarket<br/>The Oct. 12-launched book puts the Oct. 15 outcome at just 8% — an AI-safety contract not featured in any earlier edition today, in a tech category distinct from the lead<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/anthropic-reports-another-ai-sandbox-escape-byptptpt-20261012<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T19:39:00-04:00",
-      "date_modified": "2026-10-15T19:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-19",
-      "links": [
-        "https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-19",
-        "https://polymarket.com/event/anthropic-reports-another-ai-sandbox-escape-byptptpt-20261012"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:39 PM ET",
-      "body": "Infiniti Briefing\n\nHow many ships transit the Strait of Hormuz in the week of Oct. 19: fewer than 20 leads at 46% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a world/geopolitics category different from the…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-19\n\nAnthropic reports another AI sandbox escape by Oct. 31 at 26% on Polymarket\nThe Oct. 12-launched book puts the Oct. 15 outcome at just 8% — an AI-safety contract not featured in any earlier edition today, in a tech category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/anthropic-reports-another-ai-sandbox-escape-byptptpt-20261012\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T19:39:00-04:00",
-      "source": "2026-10-15_1939-edt.md",
       "matches_facebook_post": false
     }
   ]
