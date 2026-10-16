@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T22:36:12.072059-04:00",
+  "updated": "2026-10-15T22:50:21.680425-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,153 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_2245-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2245-edt-0",
+      "title": "US wholesale inflation hits 6.3 percent as Polymarket prices Fed hold at 72 percent",
+      "content_text": "- **US wholesale inflation hits 6.3 percent as Polymarket prices Fed hold at 72 percent** — September producer prices rose 1.3 percent in the month and 6.3 percent from a year earlier, above forecasts, with producer gasoline prices up 20.3 percent in the month. Polymarket traders still priced a 72 percent chance that the Federal Reserve leaves rates unchanged at its October meeting. ([Bitcoin.com News](https://news.bitcoin.com/finance/us-wholesale-inflation-hits-6-3-putting-fed-spot/))",
+      "content_html": "<p>- **US wholesale inflation hits 6.3 percent as Polymarket prices Fed hold at 72 percent** — September producer prices rose 1.3 percent in the month and 6.3 percent from a year earlier, above forecasts, with producer gasoline prices up 20.3 percent in the month. Polymarket traders still priced a 72 percent chance that the Federal Reserve leaves rates unchanged at its October meeting. ([Bitcoin.com News](https://news.bitcoin.com/finance/us-wholesale-inflation-hits-6-3-putting-fed-spot/))</p>",
+      "date_published": "2026-10-15T22:45:00-04:00",
+      "date_modified": "2026-10-15T22:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://news.bitcoin.com/finance/us-wholesale-inflation-hits-6-3-putting-fed-spot/",
+      "links": [
+        "https://news.bitcoin.com/finance/us-wholesale-inflation-hits-6-3-putting-fed-spot/"
+      ],
+      "timestamp": "Oct 15, 2026 · 10:45 PM ET",
+      "body": "- **US wholesale inflation hits 6.3 percent as Polymarket prices Fed hold at 72 percent** — September producer prices rose 1.3 percent in the month and 6.3 percent from a year earlier, above forecasts, with producer gasoline prices up 20.3 percent in the month. Polymarket traders still priced a 72 percent chance that the Federal Reserve leaves rates unchanged at its October meeting. ([Bitcoin.com News](https://news.bitcoin.com/finance/us-wholesale-inflation-hits-6-3-putting-fed-spot/))",
+      "image_url": null,
+      "published": "2026-10-15T22:45:00-04:00",
+      "source": "2026-10-15_2245-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2245-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2245-edt-1",
+      "title": "Polymarket September core CPI market resolves at 2.6 percent",
+      "content_text": "- **Polymarket September core CPI market resolves at 2.6 percent** — The Bureau of Labor Statistics confirmed September core CPI at 2.6 percent year over year on October 14, above the 2.5 percent consensus, and the Polymarket market for that outcome resolved at 100 percent on October 15. The market reported 59,337 dollars in total volume. ([Lines.com](https://www.lines.com/prediction-markets/economy/inflation/core-cpi-yoy-september-2026))",
+      "content_html": "<p>- **Polymarket September core CPI market resolves at 2.6 percent** — The Bureau of Labor Statistics confirmed September core CPI at 2.6 percent year over year on October 14, above the 2.5 percent consensus, and the Polymarket market for that outcome resolved at 100 percent on October 15. The market reported 59,337 dollars in total volume. ([Lines.com](https://www.lines.com/prediction-markets/economy/inflation/core-cpi-yoy-september-2026))</p>",
+      "date_published": "2026-10-15T22:45:00-04:00",
+      "date_modified": "2026-10-15T22:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.lines.com/prediction-markets/economy/inflation/core-cpi-yoy-september-2026",
+      "links": [
+        "https://www.lines.com/prediction-markets/economy/inflation/core-cpi-yoy-september-2026"
+      ],
+      "timestamp": "Oct 15, 2026 · 10:45 PM ET",
+      "body": "- **Polymarket September core CPI market resolves at 2.6 percent** — The Bureau of Labor Statistics confirmed September core CPI at 2.6 percent year over year on October 14, above the 2.5 percent consensus, and the Polymarket market for that outcome resolved at 100 percent on October 15. The market reported 59,337 dollars in total volume. ([Lines.com](https://www.lines.com/prediction-markets/economy/inflation/core-cpi-yoy-september-2026))",
+      "image_url": null,
+      "published": "2026-10-15T22:45:00-04:00",
+      "source": "2026-10-15_2245-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2245-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2245-edt-2",
+      "title": "Polymarket prices Blackhawks at 73 percent against Jets for October 15 NHL game",
+      "content_text": "- **Polymarket prices Blackhawks at 73 percent against Jets for October 15 NHL game** — Polymarket's market for the October 15 NHL game between Winnipeg and Chicago prices the Blackhawks at 73 percent and the Jets at 28 percent. The market reports about 70,100 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-wpg-chi-2026-10-15))",
+      "content_html": "<p>- **Polymarket prices Blackhawks at 73 percent against Jets for October 15 NHL game** — Polymarket&#x27;s market for the October 15 NHL game between Winnipeg and Chicago prices the Blackhawks at 73 percent and the Jets at 28 percent. The market reports about 70,100 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-wpg-chi-2026-10-15))</p>",
+      "date_published": "2026-10-15T22:45:00-04:00",
+      "date_modified": "2026-10-15T22:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/sports/nhl/nhl-wpg-chi-2026-10-15",
+      "links": [
+        "https://polymarket.com/sports/nhl/nhl-wpg-chi-2026-10-15"
+      ],
+      "timestamp": "Oct 15, 2026 · 10:45 PM ET",
+      "body": "- **Polymarket prices Blackhawks at 73 percent against Jets for October 15 NHL game** — Polymarket's market for the October 15 NHL game between Winnipeg and Chicago prices the Blackhawks at 73 percent and the Jets at 28 percent. The market reports about 70,100 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-wpg-chi-2026-10-15))",
+      "image_url": null,
+      "published": "2026-10-15T22:45:00-04:00",
+      "source": "2026-10-15_2245-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2245-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2245-edt-3",
+      "title": "Polymarket prices Red Wings at 100 percent against Flyers for October 15 NHL game",
+      "content_text": "- **Polymarket prices Red Wings at 100 percent against Flyers for October 15 NHL game** — Polymarket's market for the October 15 NHL game between Philadelphia and Detroit prices the Red Wings at 100 percent and the Flyers at 0 percent. The market reports about 56,500 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-phi-det-2026-10-15))",
+      "content_html": "<p>- **Polymarket prices Red Wings at 100 percent against Flyers for October 15 NHL game** — Polymarket&#x27;s market for the October 15 NHL game between Philadelphia and Detroit prices the Red Wings at 100 percent and the Flyers at 0 percent. The market reports about 56,500 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-phi-det-2026-10-15))</p>",
+      "date_published": "2026-10-15T22:45:00-04:00",
+      "date_modified": "2026-10-15T22:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/sports/nhl/nhl-phi-det-2026-10-15",
+      "links": [
+        "https://polymarket.com/sports/nhl/nhl-phi-det-2026-10-15"
+      ],
+      "timestamp": "Oct 15, 2026 · 10:45 PM ET",
+      "body": "- **Polymarket prices Red Wings at 100 percent against Flyers for October 15 NHL game** — Polymarket's market for the October 15 NHL game between Philadelphia and Detroit prices the Red Wings at 100 percent and the Flyers at 0 percent. The market reports about 56,500 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-phi-det-2026-10-15))",
+      "image_url": null,
+      "published": "2026-10-15T22:45:00-04:00",
+      "source": "2026-10-15_2245-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_2239-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_2239-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nEstudiantes de La Plata vs. CR Flamengo draws $380K in 24 hours, with the Draw at 42% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board contract leads, in a sports markets category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nDota 2: Amaru Gaming vs. Skyreavers draws $267K in 24 hours, with Skyreavers at 75% on Polymarket\nThe DreamLeague South America closed-qualifier playoff book ranks 36th on Polydict's board ahead of its Oct. 16 end — a matchup distinct from the Amaru Gaming vs.…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Estudiantes de La Plata vs. CR Flamengo draws $380K in 24 hours, with the Draw at 42% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board contract leads, in a sports markets category different from the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polydict.app/markets<br/><br/>Dota 2: Amaru Gaming vs. Skyreavers draws $267K in 24 hours, with Skyreavers at 75% on Polymarket<br/>The DreamLeague South America closed-qualifier playoff book ranks 36th on Polydict&#x27;s board ahead of its Oct. 16 end — a matchup distinct from the Amaru Gaming vs.…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T22:39:00-04:00",
+      "date_modified": "2026-10-15T22:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://polydict.app/markets",
+      "links": [
+        "https://polydict.app/markets"
+      ],
+      "timestamp": "Oct 15, 2026 · 10:39 PM ET",
+      "body": "Infiniti Briefing\n\nEstudiantes de La Plata vs. CR Flamengo draws $380K in 24 hours, with the Draw at 42% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board contract leads, in a sports markets category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nDota 2: Amaru Gaming vs. Skyreavers draws $267K in 24 hours, with Skyreavers at 75% on Polymarket\nThe DreamLeague South America closed-qualifier playoff book ranks 36th on Polydict's board ahead of its Oct. 16 end — a matchup distinct from the Amaru Gaming vs.…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T22:39:00-04:00",
+      "source": "2026-10-15_2239-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_2230-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2230-edt-0",
@@ -4501,160 +4648,6 @@
       "image_url": null,
       "published": "2026-10-15T13:30:00-04:00",
       "source": "2026-10-15_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1330-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1330-edt-2",
-      "title": "Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds",
-      "content_text": "- **Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds** — A forensic review of two global election markets on Polymarket found more than 600 million dollars in volume, most of it after the races ended and concentrated in long-shot losing candidates, with much of the Ethiopian market activity traced to pairs of accounts trading repeatedly with each other. ([Technologist Mag](https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/))",
-      "content_html": "<p>- **Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds** — A forensic review of two global election markets on Polymarket found more than 600 million dollars in volume, most of it after the races ended and concentrated in long-shot losing candidates, with much of the Ethiopian market activity traced to pairs of accounts trading repeatedly with each other. ([Technologist Mag](https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/))</p>",
-      "date_published": "2026-10-15T13:30:00-04:00",
-      "date_modified": "2026-10-15T13:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/",
-      "links": [
-        "https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/"
-      ],
-      "timestamp": "Oct 15, 2026 · 1:30 PM ET",
-      "body": "- **Over 600 million dollars in Polymarket election trades took place after races had ended, analysis finds** — A forensic review of two global election markets on Polymarket found more than 600 million dollars in volume, most of it after the races ended and concentrated in long-shot losing candidates, with much of the Ethiopian market activity traced to pairs of accounts trading repeatedly with each other. ([Technologist Mag](https://technologistmag.com/over-600-million-in-polymarket-election-trades-took-place-after-races-ended/))",
-      "image_url": null,
-      "published": "2026-10-15T13:30:00-04:00",
-      "source": "2026-10-15_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1330-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1330-edt-3",
-      "title": "Public and Kalshi launch AI agents that trade prediction market contracts",
-      "content_text": "- **Public and Kalshi launch AI agents that trade prediction market contracts** — Public has integrated with Kalshi to launch AI agents that can trade event contracts and use event probabilities as triggers for traditional portfolio moves, part of a wider push by brokerages to build automated, probability-driven investing tools. ([CVJ.AI](https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/))",
-      "content_html": "<p>- **Public and Kalshi launch AI agents that trade prediction market contracts** — Public has integrated with Kalshi to launch AI agents that can trade event contracts and use event probabilities as triggers for traditional portfolio moves, part of a wider push by brokerages to build automated, probability-driven investing tools. ([CVJ.AI](https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/))</p>",
-      "date_published": "2026-10-15T13:30:00-04:00",
-      "date_modified": "2026-10-15T13:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/",
-      "links": [
-        "https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/"
-      ],
-      "timestamp": "Oct 15, 2026 · 1:30 PM ET",
-      "body": "- **Public and Kalshi launch AI agents that trade prediction market contracts** — Public has integrated with Kalshi to launch AI agents that can trade event contracts and use event probabilities as triggers for traditional portfolio moves, part of a wider push by brokerages to build automated, probability-driven investing tools. ([CVJ.AI](https://cvj.ai/briefing/crypto-news/public-and-kalshi-launch-ai-agents-for-prediction-market-trading/))",
-      "image_url": null,
-      "published": "2026-10-15T13:30:00-04:00",
-      "source": "2026-10-15_1330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1324-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1324-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nCounter-Strike: Heroic vs. BC.Game Esports draws $306K in 24 hours, with Heroic priced above 99%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads. Polymarket's Stake Pulse Beat III Group D match…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nFed Decision in October volume eases to $3.2M in 24 hours, with No change at 72%\nPolymarket's October Fed book now tops the 24-hour board at $3.2M, down from the $5.3M–$5.5M readings carried earlier today, with No change down from 75% to 72% —…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Counter-Strike: Heroic vs. BC.Game Esports draws $306K in 24 hours, with Heroic priced above 99%<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads. Polymarket&#x27;s Stake Pulse Beat III Group D match…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>Fed Decision in October volume eases to $3.2M in 24 hours, with No change at 72%<br/>Polymarket&#x27;s October Fed book now tops the 24-hour board at $3.2M, down from the $5.3M–$5.5M readings carried earlier today, with No change down from 75% to 72% —…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T13:24:00-04:00",
-      "date_modified": "2026-10-15T13:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Elections",
-        "Gold",
-        "Silver",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://polydict.app/markets",
-      "links": [
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 15, 2026 · 1:24 PM ET",
-      "body": "Infiniti Briefing\n\nCounter-Strike: Heroic vs. BC.Game Esports draws $306K in 24 hours, with Heroic priced above 99%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh board snapshot leads. Polymarket's Stake Pulse Beat III Group D match…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nFed Decision in October volume eases to $3.2M in 24 hours, with No change at 72%\nPolymarket's October Fed book now tops the 24-hour board at $3.2M, down from the $5.3M–$5.5M readings carried earlier today, with No change down from 75% to 72% —…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T13:24:00-04:00",
-      "source": "2026-10-15_1324-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1315-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1315-edt-0",
-      "title": "Guardians host Rays in ALCS Game 3 on Polymarket with the series tied 1-1",
-      "content_text": "- **Guardians host Rays in ALCS Game 3 on Polymarket with the series tied 1-1** — Cleveland hosts Tampa Bay in Game 3 of the American League Championship Series on October 15, with the series tied at one game each. Polymarket lists the matchup among its U.S. sports markets for the day. ([RotoWire](https://www.rotowire.com/news/polymarket-promo-code-rotowire-25-bonus-for-rays-guardians-alcs-game-3-141193))",
-      "content_html": "<p>- **Guardians host Rays in ALCS Game 3 on Polymarket with the series tied 1-1** — Cleveland hosts Tampa Bay in Game 3 of the American League Championship Series on October 15, with the series tied at one game each. Polymarket lists the matchup among its U.S. sports markets for the day. ([RotoWire](https://www.rotowire.com/news/polymarket-promo-code-rotowire-25-bonus-for-rays-guardians-alcs-game-3-141193))</p>",
-      "date_published": "2026-10-15T13:15:00-04:00",
-      "date_modified": "2026-10-15T13:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.rotowire.com/news/polymarket-promo-code-rotowire-25-bonus-for-rays-guardians-alcs-game-3-141193",
-      "links": [
-        "https://www.rotowire.com/news/polymarket-promo-code-rotowire-25-bonus-for-rays-guardians-alcs-game-3-141193"
-      ],
-      "timestamp": "Oct 15, 2026 · 1:15 PM ET",
-      "body": "- **Guardians host Rays in ALCS Game 3 on Polymarket with the series tied 1-1** — Cleveland hosts Tampa Bay in Game 3 of the American League Championship Series on October 15, with the series tied at one game each. Polymarket lists the matchup among its U.S. sports markets for the day. ([RotoWire](https://www.rotowire.com/news/polymarket-promo-code-rotowire-25-bonus-for-rays-guardians-alcs-game-3-141193))",
-      "image_url": null,
-      "published": "2026-10-15T13:15:00-04:00",
-      "source": "2026-10-15_1315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1315-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1315-edt-1",
-      "title": "Bookies Week 6 guide ranks NFL prediction markets across Polymarket, Kalshi, Novig, OG and ProphetX",
-      "content_text": "- **Bookies Week 6 guide ranks NFL prediction markets across Polymarket, Kalshi, Novig, OG and ProphetX** — A Week 6 guide updated on October 15 compares NFL prediction market offers from Polymarket, Kalshi, Novig, OG and ProphetX ahead of Thursday Night Football. The guide notes each platform's eligibility terms and trading-risk disclosures for U.S. users. ([Bookies.com](https://bookies.com/news/promo/best-nfl-prediction-markets-week-6-thursday-night-football))",
-      "content_html": "<p>- **Bookies Week 6 guide ranks NFL prediction markets across Polymarket, Kalshi, Novig, OG and ProphetX** — A Week 6 guide updated on October 15 compares NFL prediction market offers from Polymarket, Kalshi, Novig, OG and ProphetX ahead of Thursday Night Football. The guide notes each platform&#x27;s eligibility terms and trading-risk disclosures for U.S. users. ([Bookies.com](https://bookies.com/news/promo/best-nfl-prediction-markets-week-6-thursday-night-football))</p>",
-      "date_published": "2026-10-15T13:15:00-04:00",
-      "date_modified": "2026-10-15T13:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://bookies.com/news/promo/best-nfl-prediction-markets-week-6-thursday-night-football",
-      "links": [
-        "https://bookies.com/news/promo/best-nfl-prediction-markets-week-6-thursday-night-football"
-      ],
-      "timestamp": "Oct 15, 2026 · 1:15 PM ET",
-      "body": "- **Bookies Week 6 guide ranks NFL prediction markets across Polymarket, Kalshi, Novig, OG and ProphetX** — A Week 6 guide updated on October 15 compares NFL prediction market offers from Polymarket, Kalshi, Novig, OG and ProphetX ahead of Thursday Night Football. The guide notes each platform's eligibility terms and trading-risk disclosures for U.S. users. ([Bookies.com](https://bookies.com/news/promo/best-nfl-prediction-markets-week-6-thursday-night-football))",
-      "image_url": null,
-      "published": "2026-10-15T13:15:00-04:00",
-      "source": "2026-10-15_1315-edt.json",
       "matches_facebook_post": false
     }
   ]
