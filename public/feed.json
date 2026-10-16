@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T20:04:04.361730-04:00",
+  "updated": "2026-10-15T20:20:39.918802-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,127 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_2015-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2015-edt-0",
+      "title": "Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket",
+      "content_text": "- **Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket** — Senator Richard Blumenthal said he plans to question DraftKings and prediction market platforms including Kalshi and Polymarket about VIP bettor programs and consumer safeguards. The move follows lawmaker criticism of FanDuel responses on VIP promotions and protections for problem gamblers. ([Bonus.com](https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/))",
+      "content_html": "<p>- **Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket** — Senator Richard Blumenthal said he plans to question DraftKings and prediction market platforms including Kalshi and Polymarket about VIP bettor programs and consumer safeguards. The move follows lawmaker criticism of FanDuel responses on VIP promotions and protections for problem gamblers. ([Bonus.com](https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/))</p>",
+      "date_published": "2026-10-15T20:15:00-04:00",
+      "date_modified": "2026-10-15T20:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/",
+      "links": [
+        "https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:15 PM ET",
+      "body": "- **Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket** — Senator Richard Blumenthal said he plans to question DraftKings and prediction market platforms including Kalshi and Polymarket about VIP bettor programs and consumer safeguards. The move follows lawmaker criticism of FanDuel responses on VIP promotions and protections for problem gamblers. ([Bonus.com](https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-15T20:15:00-04:00",
+      "source": "2026-10-15_2015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2015-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2015-edt-1",
+      "title": "Polymarket partners with Parcl to launch real estate prediction markets on home prices",
+      "content_text": "- **Polymarket partners with Parcl to launch real estate prediction markets on home prices** — Polymarket announced a partnership with housing data firm Parcl to offer markets on home-price movements in major US cities. The first markets will start with a curated group of high-liquidity cities, with trades on whether a city home price index moves up or down or reaches set thresholds. ([GambleRss](https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388))",
+      "content_html": "<p>- **Polymarket partners with Parcl to launch real estate prediction markets on home prices** — Polymarket announced a partnership with housing data firm Parcl to offer markets on home-price movements in major US cities. The first markets will start with a curated group of high-liquidity cities, with trades on whether a city home price index moves up or down or reaches set thresholds. ([GambleRss](https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388))</p>",
+      "date_published": "2026-10-15T20:15:00-04:00",
+      "date_modified": "2026-10-15T20:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388",
+      "links": [
+        "https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:15 PM ET",
+      "body": "- **Polymarket partners with Parcl to launch real estate prediction markets on home prices** — Polymarket announced a partnership with housing data firm Parcl to offer markets on home-price movements in major US cities. The first markets will start with a curated group of high-liquidity cities, with trades on whether a city home price index moves up or down or reaches set thresholds. ([GambleRss](https://gamblerss.com/polymarket-enters-real-estate-with-new-prediction-markets-offerings-53388))",
+      "image_url": null,
+      "published": "2026-10-15T20:15:00-04:00",
+      "source": "2026-10-15_2015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2015-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2015-edt-2",
+      "title": "Polymarket introduces voluntary deposit limits and lock-outs to address compulsive trading",
+      "content_text": "- **Polymarket introduces voluntary deposit limits and lock-outs to address compulsive trading** — Polymarket rolled out tools that let users set daily, weekly or monthly deposit limits and voluntarily lock themselves out for 30 days, one year or a lifetime. The company also partnered with Birches Health on treatment resources and introduced a Trust and Safety Center. ([Reuters](https://www.reuters.com/legal/government/polymarket-introduces-deposit-limits-lock-outs-combat-trading-addiction-2026-09-30/))",
+      "content_html": "<p>- **Polymarket introduces voluntary deposit limits and lock-outs to address compulsive trading** — Polymarket rolled out tools that let users set daily, weekly or monthly deposit limits and voluntarily lock themselves out for 30 days, one year or a lifetime. The company also partnered with Birches Health on treatment resources and introduced a Trust and Safety Center. ([Reuters](https://www.reuters.com/legal/government/polymarket-introduces-deposit-limits-lock-outs-combat-trading-addiction-2026-09-30/))</p>",
+      "date_published": "2026-10-15T20:15:00-04:00",
+      "date_modified": "2026-10-15T20:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.reuters.com/legal/government/polymarket-introduces-deposit-limits-lock-outs-combat-trading-addiction-2026-09-30/",
+      "links": [
+        "https://www.reuters.com/legal/government/polymarket-introduces-deposit-limits-lock-outs-combat-trading-addiction-2026-09-30/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:15 PM ET",
+      "body": "- **Polymarket introduces voluntary deposit limits and lock-outs to address compulsive trading** — Polymarket rolled out tools that let users set daily, weekly or monthly deposit limits and voluntarily lock themselves out for 30 days, one year or a lifetime. The company also partnered with Birches Health on treatment resources and introduced a Trust and Safety Center. ([Reuters](https://www.reuters.com/legal/government/polymarket-introduces-deposit-limits-lock-outs-combat-trading-addiction-2026-09-30/))",
+      "image_url": null,
+      "published": "2026-10-15T20:15:00-04:00",
+      "source": "2026-10-15_2015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_2009-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_2009-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nWhat will be said on the next All-In Podcast (October 16): 'Massive' at 100% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh culture contract leads. The Oct. 13-launched, 11-outcome book also puts…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/what-will-be-said-on-the-next-all-in-podcast-october-16-20261016\n\nSuper Bowl LXI winner: San Francisco 49ers lead at 13% on both venues, up 4 points in 7 days\nDeFi Rate's Oct. 15 reading, observed 8:08 PM ET, puts the 49ers at 13.5c on Kalshi and 12.6c on Polymarket — a winner book distinct from the Super Bowl…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>What will be said on the next All-In Podcast (October 16): &#x27;Massive&#x27; at 100% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh culture contract leads. The Oct. 13-launched, 11-outcome book also puts…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/what-will-be-said-on-the-next-all-in-podcast-october-16-20261016<br/><br/>Super Bowl LXI winner: San Francisco 49ers lead at 13% on both venues, up 4 points in 7 days<br/>DeFi Rate&#x27;s Oct. 15 reading, observed 8:08 PM ET, puts the 49ers at 13.5c on Kalshi and 12.6c on Polymarket — a winner book distinct from the Super Bowl…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T20:09:00-04:00",
+      "date_modified": "2026-10-15T20:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/what-will-be-said-on-the-next-all-in-podcast-october-16-20261016",
+      "links": [
+        "https://polymarket.com/event/what-will-be-said-on-the-next-all-in-podcast-october-16-20261016",
+        "https://defirate.com/"
+      ],
+      "timestamp": "Oct 15, 2026 · 8:09 PM ET",
+      "body": "Infiniti Briefing\n\nWhat will be said on the next All-In Podcast (October 16): 'Massive' at 100% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh culture contract leads. The Oct. 13-launched, 11-outcome book also puts…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/what-will-be-said-on-the-next-all-in-podcast-october-16-20261016\n\nSuper Bowl LXI winner: San Francisco 49ers lead at 13% on both venues, up 4 points in 7 days\nDeFi Rate's Oct. 15 reading, observed 8:08 PM ET, puts the 49ers at 13.5c on Kalshi and 12.6c on Polymarket — a winner book distinct from the Super Bowl…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T20:09:00-04:00",
+      "source": "2026-10-15_2009-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_2000-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2000-edt-0",
@@ -4542,131 +4663,6 @@
       "image_url": null,
       "published": "2026-10-15T11:30:00-04:00",
       "source": "2026-10-15_1130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1124-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1124-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nWhat price will Bitcoin hit October 12-18 draws $289K in 24 hours, with the $84,000 upside outcome at 27%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weekly book leads, in a crypto/commodities category different from the…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://polydict.app/markets\n\nCounter-Strike: Legacy vs. FURIA draws $424K in 24 hours, with FURIA at 56%\nPolymarket's board ranks the Thunderpick World Championship Group B match 21st by 24-hour volume — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>What price will Bitcoin hit October 12-18 draws $289K in 24 hours, with the $84,000 upside outcome at 27%<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weekly book leads, in a crypto/commodities category different from the…<br/>#PredictionMarkets #Polymarket #Bitcoin<br/>https://polydict.app/markets<br/><br/>Counter-Strike: Legacy vs. FURIA draws $424K in 24 hours, with FURIA at 56%<br/>Polymarket&#x27;s board ranks the Thunderpick World Championship Group B match 21st by 24-hour volume — a matchup not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T11:24:00-04:00",
-      "date_modified": "2026-10-15T11:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://polydict.app/markets",
-      "links": [
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:24 AM ET",
-      "body": "Infiniti Briefing\n\nWhat price will Bitcoin hit October 12-18 draws $289K in 24 hours, with the $84,000 upside outcome at 27%\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weekly book leads, in a crypto/commodities category different from the…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://polydict.app/markets\n\nCounter-Strike: Legacy vs. FURIA draws $424K in 24 hours, with FURIA at 56%\nPolymarket's board ranks the Thunderpick World Championship Group B match 21st by 24-hour volume — a matchup not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T11:24:00-04:00",
-      "source": "2026-10-15_1124-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1115-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1115-edt-0",
-      "title": "Kansas Senate polls show Democrat Hamilton competitive, but Kalshi and Polymarket still favor Marshall, Universe News Network reports",
-      "content_text": "- **Kansas Senate polls show Democrat Hamilton competitive, but Kalshi and Polymarket still favor Marshall, Universe News Network reports** — Recent polling has Democrat Adam Hamilton level with or ahead of Republican Roger Marshall in Kansas, while Kalshi prices Marshall at 66 percent and Polymarket at 68 percent. A Republican super PAC has reserved more than 8 million dollars in advertising to defend the seat. ([Universe News Network](https://www.universenewsnetwork.com/2026/10/14/kansas-senate-race-polls-show-democrat-ahead-but-markets-arent-buying-it/))",
-      "content_html": "<p>- **Kansas Senate polls show Democrat Hamilton competitive, but Kalshi and Polymarket still favor Marshall, Universe News Network reports** — Recent polling has Democrat Adam Hamilton level with or ahead of Republican Roger Marshall in Kansas, while Kalshi prices Marshall at 66 percent and Polymarket at 68 percent. A Republican super PAC has reserved more than 8 million dollars in advertising to defend the seat. ([Universe News Network](https://www.universenewsnetwork.com/2026/10/14/kansas-senate-race-polls-show-democrat-ahead-but-markets-arent-buying-it/))</p>",
-      "date_published": "2026-10-15T11:15:00-04:00",
-      "date_modified": "2026-10-15T11:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.universenewsnetwork.com/2026/10/14/kansas-senate-race-polls-show-democrat-ahead-but-markets-arent-buying-it/",
-      "links": [
-        "https://www.universenewsnetwork.com/2026/10/14/kansas-senate-race-polls-show-democrat-ahead-but-markets-arent-buying-it/"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:15 AM ET",
-      "body": "- **Kansas Senate polls show Democrat Hamilton competitive, but Kalshi and Polymarket still favor Marshall, Universe News Network reports** — Recent polling has Democrat Adam Hamilton level with or ahead of Republican Roger Marshall in Kansas, while Kalshi prices Marshall at 66 percent and Polymarket at 68 percent. A Republican super PAC has reserved more than 8 million dollars in advertising to defend the seat. ([Universe News Network](https://www.universenewsnetwork.com/2026/10/14/kansas-senate-race-polls-show-democrat-ahead-but-markets-arent-buying-it/))",
-      "image_url": null,
-      "published": "2026-10-15T11:15:00-04:00",
-      "source": "2026-10-15_1115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1115-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1115-edt-1",
-      "title": "Covers Week 6 expert picks cite Kalshi prices for Seahawks against Broncos props",
-      "content_text": "- **Covers Week 6 expert picks cite Kalshi prices for Seahawks against Broncos props** — Covers experts lean toward Seattle on Thursday night, citing Kalshi probabilities that include Rashid Shaheed at 56 percent for 20 or more receiving yards and Jaxon Smith-Njigba at 45 percent for 100 or more yards. The Seahawks moneyline is listed at 57 percent, with Seattle minus 2.5 at 52 percent. ([Covers](https://www.covers.com/nfl/seahawks-vs-broncos-expert-picks-week-6-2026))",
-      "content_html": "<p>- **Covers Week 6 expert picks cite Kalshi prices for Seahawks against Broncos props** — Covers experts lean toward Seattle on Thursday night, citing Kalshi probabilities that include Rashid Shaheed at 56 percent for 20 or more receiving yards and Jaxon Smith-Njigba at 45 percent for 100 or more yards. The Seahawks moneyline is listed at 57 percent, with Seattle minus 2.5 at 52 percent. ([Covers](https://www.covers.com/nfl/seahawks-vs-broncos-expert-picks-week-6-2026))</p>",
-      "date_published": "2026-10-15T11:15:00-04:00",
-      "date_modified": "2026-10-15T11:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/nfl/seahawks-vs-broncos-expert-picks-week-6-2026",
-      "links": [
-        "https://www.covers.com/nfl/seahawks-vs-broncos-expert-picks-week-6-2026"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:15 AM ET",
-      "body": "- **Covers Week 6 expert picks cite Kalshi prices for Seahawks against Broncos props** — Covers experts lean toward Seattle on Thursday night, citing Kalshi probabilities that include Rashid Shaheed at 56 percent for 20 or more receiving yards and Jaxon Smith-Njigba at 45 percent for 100 or more yards. The Seahawks moneyline is listed at 57 percent, with Seattle minus 2.5 at 52 percent. ([Covers](https://www.covers.com/nfl/seahawks-vs-broncos-expert-picks-week-6-2026))",
-      "image_url": null,
-      "published": "2026-10-15T11:15:00-04:00",
-      "source": "2026-10-15_1115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1109-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nNFC West flips to a 49ers runaway: San Francisco up 27 points to 67% on Kalshi and 69% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh division board leads: the Rams fell 9 points to 20% / 16% and the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nSolana prediction books reprice sharply lower this week\nOn Polymarket, the odds of SOL falling below $90 rocketed from 25% to 58% and the odds of topping $140 were slashed from 46% to 27%, while on Kalshi the odds of falling…\n#PredictionMarkets #Kalshi #Polymarket #Solana\nhttps://cryptorank.io/price/solana/predictions\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>NFC West flips to a 49ers runaway: San Francisco up 27 points to 67% on Kalshi and 69% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh division board leads: the Rams fell 9 points to 20% / 16% and the…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>Solana prediction books reprice sharply lower this week<br/>On Polymarket, the odds of SOL falling below $90 rocketed from 25% to 58% and the odds of topping $140 were slashed from 46% to 27%, while on Kalshi the odds of falling…<br/>#PredictionMarkets #Kalshi #Polymarket #Solana<br/>https://cryptorank.io/price/solana/predictions<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T11:09:00-04:00",
-      "date_modified": "2026-10-15T11:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections",
-        "Solana"
-      ],
-      "image": null,
-      "external_url": "https://ipredicta.co/insights/nfl-division-winners-2026/",
-      "links": [
-        "https://ipredicta.co/insights/nfl-division-winners-2026/",
-        "https://cryptorank.io/price/solana/predictions"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:09 AM ET",
-      "body": "Infiniti Briefing\n\nNFC West flips to a 49ers runaway: San Francisco up 27 points to 67% on Kalshi and 69% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh division board leads: the Rams fell 9 points to 20% / 16% and the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nSolana prediction books reprice sharply lower this week\nOn Polymarket, the odds of SOL falling below $90 rocketed from 25% to 58% and the odds of topping $140 were slashed from 46% to 27%, while on Kalshi the odds of falling…\n#PredictionMarkets #Kalshi #Polymarket #Solana\nhttps://cryptorank.io/price/solana/predictions\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T11:09:00-04:00",
-      "source": "2026-10-15_1109-edt.md",
       "matches_facebook_post": false
     }
   ]
