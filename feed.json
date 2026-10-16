@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T02:18:26.083135-04:00",
+  "updated": "2026-10-16T02:33:08.369751-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_0230-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0230-edt-0",
+      "title": "Crypto.com launches Predict Pro for US prediction market traders",
+      "content_text": "- **Crypto.com launches Predict Pro for US prediction market traders** — Crypto.com announced on October 15 that Predict Pro is live on its exchange, connecting US users to OG.com Markets, a CFTC-registered exchange and clearinghouse. The platform offers real-time order-book data, probability charts and market, limit and stop orders across sports, elections, crypto and Fed decisions. ([Crypto Times](https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/))",
+      "content_html": "<p>- **Crypto.com launches Predict Pro for US prediction market traders** — Crypto.com announced on October 15 that Predict Pro is live on its exchange, connecting US users to OG.com Markets, a CFTC-registered exchange and clearinghouse. The platform offers real-time order-book data, probability charts and market, limit and stop orders across sports, elections, crypto and Fed decisions. ([Crypto Times](https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/))</p>",
+      "date_published": "2026-10-16T02:30:00-04:00",
+      "date_modified": "2026-10-16T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/",
+      "links": [
+        "https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:30 AM ET",
+      "body": "- **Crypto.com launches Predict Pro for US prediction market traders** — Crypto.com announced on October 15 that Predict Pro is live on its exchange, connecting US users to OG.com Markets, a CFTC-registered exchange and clearinghouse. The platform offers real-time order-book data, probability charts and market, limit and stop orders across sports, elections, crypto and Fed decisions. ([Crypto Times](https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/))",
+      "image_url": null,
+      "published": "2026-10-16T02:30:00-04:00",
+      "source": "2026-10-16_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0230-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0230-edt-1",
+      "title": "ESMA says prediction markets are rife with inside trading in September report",
+      "content_text": "- **ESMA says prediction markets are rife with inside trading in September report** — The European Securities and Markets Authority said in a September 2026 report that prediction markets including Kalshi and Polymarket are rife with inside trading and called for urgent regulatory scrutiny. ESMA also flagged inconsistent geo-blocks across EU states and noted neither platform holds an EU financial services licence. ([WeeBet](https://weebet.com/news/esma-prediction-markets-inside-trading-kalshi-polymarket))",
+      "content_html": "<p>- **ESMA says prediction markets are rife with inside trading in September report** — The European Securities and Markets Authority said in a September 2026 report that prediction markets including Kalshi and Polymarket are rife with inside trading and called for urgent regulatory scrutiny. ESMA also flagged inconsistent geo-blocks across EU states and noted neither platform holds an EU financial services licence. ([WeeBet](https://weebet.com/news/esma-prediction-markets-inside-trading-kalshi-polymarket))</p>",
+      "date_published": "2026-10-16T02:30:00-04:00",
+      "date_modified": "2026-10-16T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://weebet.com/news/esma-prediction-markets-inside-trading-kalshi-polymarket",
+      "links": [
+        "https://weebet.com/news/esma-prediction-markets-inside-trading-kalshi-polymarket"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:30 AM ET",
+      "body": "- **ESMA says prediction markets are rife with inside trading in September report** — The European Securities and Markets Authority said in a September 2026 report that prediction markets including Kalshi and Polymarket are rife with inside trading and called for urgent regulatory scrutiny. ESMA also flagged inconsistent geo-blocks across EU states and noted neither platform holds an EU financial services licence. ([WeeBet](https://weebet.com/news/esma-prediction-markets-inside-trading-kalshi-polymarket))",
+      "image_url": null,
+      "published": "2026-10-16T02:30:00-04:00",
+      "source": "2026-10-16_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0230-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0230-edt-2",
+      "title": "Polymarket valued at 21 billion dollars and Kalshi at 22 billion dollars after billion-dollar rounds",
+      "content_text": "- **Polymarket valued at 21 billion dollars and Kalshi at 22 billion dollars after billion-dollar rounds** — A comparison updated in the last week reports Polymarket was valued at 21 billion dollars after a 1 billion dollar round reported September 1, 2026, while Kalshi was valued at 22 billion dollars after a 1 billion dollar round in May 2026. For the 30 days to October 7, Kalshi held 75.6 percent of tracked volume. ([DataWallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))",
+      "content_html": "<p>- **Polymarket valued at 21 billion dollars and Kalshi at 22 billion dollars after billion-dollar rounds** — A comparison updated in the last week reports Polymarket was valued at 21 billion dollars after a 1 billion dollar round reported September 1, 2026, while Kalshi was valued at 22 billion dollars after a 1 billion dollar round in May 2026. For the 30 days to October 7, Kalshi held 75.6 percent of tracked volume. ([DataWallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))</p>",
+      "date_published": "2026-10-16T02:30:00-04:00",
+      "date_modified": "2026-10-16T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.datawallet.com/crypto/polymarket-vs-kalshi",
+      "links": [
+        "https://www.datawallet.com/crypto/polymarket-vs-kalshi"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:30 AM ET",
+      "body": "- **Polymarket valued at 21 billion dollars and Kalshi at 22 billion dollars after billion-dollar rounds** — A comparison updated in the last week reports Polymarket was valued at 21 billion dollars after a 1 billion dollar round reported September 1, 2026, while Kalshi was valued at 22 billion dollars after a 1 billion dollar round in May 2026. For the 30 days to October 7, Kalshi held 75.6 percent of tracked volume. ([DataWallet](https://www.datawallet.com/crypto/polymarket-vs-kalshi))",
+      "image_url": null,
+      "published": "2026-10-16T02:30:00-04:00",
+      "source": "2026-10-16_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0230-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0230-edt-3",
+      "title": "Combined Kalshi and Polymarket monthly volume reached 20.1 billion dollars in September 2026",
+      "content_text": "- **Combined Kalshi and Polymarket monthly volume reached 20.1 billion dollars in September 2026** — Macquarie reported total prediction market volume reached 20.1 billion dollars in September 2026, up 1,079 percent from a year earlier. Kalshi settled markets rose from 564 in January 2025 to 32,835 in September 2026, while Polymarket peaked at 21,686 in April 2026 and slipped to 12,392 in September. ([Blockonomi](https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/))",
+      "content_html": "<p>- **Combined Kalshi and Polymarket monthly volume reached 20.1 billion dollars in September 2026** — Macquarie reported total prediction market volume reached 20.1 billion dollars in September 2026, up 1,079 percent from a year earlier. Kalshi settled markets rose from 564 in January 2025 to 32,835 in September 2026, while Polymarket peaked at 21,686 in April 2026 and slipped to 12,392 in September. ([Blockonomi](https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/))</p>",
+      "date_published": "2026-10-16T02:30:00-04:00",
+      "date_modified": "2026-10-16T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/",
+      "links": [
+        "https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:30 AM ET",
+      "body": "- **Combined Kalshi and Polymarket monthly volume reached 20.1 billion dollars in September 2026** — Macquarie reported total prediction market volume reached 20.1 billion dollars in September 2026, up 1,079 percent from a year earlier. Kalshi settled markets rose from 564 in January 2025 to 32,835 in September 2026, while Polymarket peaked at 21,686 in April 2026 and slipped to 12,392 in September. ([Blockonomi](https://blockonomi.com/prediction-market-statistics-2026-kalshi-polymarket-and-the-numbers-behind-the-boom/))",
+      "image_url": null,
+      "published": "2026-10-16T02:30:00-04:00",
+      "source": "2026-10-16_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0230-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0230-edt-4",
+      "title": "Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game",
+      "content_text": "- **Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game** — Polymarket priced Alabama at 74 percent and Tennessee at 26 percent ahead of their Saturday college football game, with Alabama at minus 7.5 at 50 percent. Kalshi priced Alabama at 73 percent and Tennessee at 27 percent for the same matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/))",
+      "content_html": "<p>- **Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game** — Polymarket priced Alabama at 74 percent and Tennessee at 26 percent ahead of their Saturday college football game, with Alabama at minus 7.5 at 50 percent. Kalshi priced Alabama at 73 percent and Tennessee at 27 percent for the same matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/))</p>",
+      "date_published": "2026-10-16T02:30:00-04:00",
+      "date_modified": "2026-10-16T02:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/",
+      "links": [
+        "https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:30 AM ET",
+      "body": "- **Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game** — Polymarket priced Alabama at 74 percent and Tennessee at 26 percent ahead of their Saturday college football game, with Alabama at minus 7.5 at 50 percent. Kalshi priced Alabama at 73 percent and Tennessee at 27 percent for the same matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/))",
+      "image_url": null,
+      "published": "2026-10-16T02:30:00-04:00",
+      "source": "2026-10-16_0230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_0224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0224-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCoinbase 15-minute crypto contracts, supplied by Kalshi, draw fresh scrutiny\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product launches/partnerships category different from…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/\n\nTexas Senate: James Talarico at 65c on Polymarket and 64c on Kalshi, Ken Paxton at 37c on both\nBoth venues price Talarico as the favorite in the race for the seat being vacated, ahead of early voting starting Oct. 19 and the Nov. 3 election — a race not featured…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Coinbase 15-minute crypto contracts, supplied by Kalshi, draw fresh scrutiny<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product launches/partnerships category different from…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/<br/><br/>Texas Senate: James Talarico at 65c on Polymarket and 64c on Kalshi, Ken Paxton at 37c on both<br/>Both venues price Talarico as the favorite in the race for the seat being vacated, ahead of early voting starting Oct. 19 and the Nov. 3 election — a race not featured…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T02:24:00-04:00",
+      "date_modified": "2026-10-16T02:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
+      "links": [
+        "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
+        "https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis"
+      ],
+      "timestamp": "Oct 16, 2026 · 2:24 AM ET",
+      "body": "Infiniti Briefing\n\nCoinbase 15-minute crypto contracts, supplied by Kalshi, draw fresh scrutiny\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product launches/partnerships category different from…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/\n\nTexas Senate: James Talarico at 65c on Polymarket and 64c on Kalshi, Ken Paxton at 37c on both\nBoth venues price Talarico as the favorite in the race for the seat being vacated, ahead of early voting starting Oct. 19 and the Nov. 3 election — a race not featured…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T02:24:00-04:00",
+      "source": "2026-10-16_0224-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_0215-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0215-edt-0",
@@ -4494,192 +4677,6 @@
       "image_url": null,
       "published": "2026-10-15T17:09:00-04:00",
       "source": "2026-10-15_1709-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1700-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1700-edt-0",
-      "title": "Federal magistrate recommends sending Kentucky suits against Polymarket and Kalshi back to state court",
-      "content_text": "- **Federal magistrate recommends sending Kentucky suits against Polymarket and Kalshi back to state court** — A federal magistrate recommended on October 14 that Kentucky's gambling suits against Polymarket be remanded to state court, relying on the Sixth Circuit's September ruling against Kalshi, with a matching recommendation reported in the Kalshi case. The recommendations are not final and district judges will decide whether to adopt them. ([iGaming Times](https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court))",
-      "content_html": "<p>- **Federal magistrate recommends sending Kentucky suits against Polymarket and Kalshi back to state court** — A federal magistrate recommended on October 14 that Kentucky&#x27;s gambling suits against Polymarket be remanded to state court, relying on the Sixth Circuit&#x27;s September ruling against Kalshi, with a matching recommendation reported in the Kalshi case. The recommendations are not final and district judges will decide whether to adopt them. ([iGaming Times](https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court))</p>",
-      "date_published": "2026-10-15T17:00:00-04:00",
-      "date_modified": "2026-10-15T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court",
-      "links": [
-        "https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court"
-      ],
-      "timestamp": "Oct 15, 2026 · 5:00 PM ET",
-      "body": "- **Federal magistrate recommends sending Kentucky suits against Polymarket and Kalshi back to state court** — A federal magistrate recommended on October 14 that Kentucky's gambling suits against Polymarket be remanded to state court, relying on the Sixth Circuit's September ruling against Kalshi, with a matching recommendation reported in the Kalshi case. The recommendations are not final and district judges will decide whether to adopt them. ([iGaming Times](https://igaming-times.com/news/prediction-markets/federal-magistrate-recommends-sending-kentuckys-polymarket-and-kalshi-suits-back-to-state-court))",
-      "image_url": null,
-      "published": "2026-10-15T17:00:00-04:00",
-      "source": "2026-10-15_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1700-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1700-edt-1",
-      "title": "Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love, Gambling Insider reports",
-      "content_text": "- **Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love, Gambling Insider reports** — Kalshi customers traded 598,464 contracts on Jeremiyah Love being the third pick in the 2026 NFL draft, more than on any other player, according to Kalshi public market data. State gaming regulators are reviewing related sportsbook betting, while no regulator has said publicly it is examining the prediction market trading. ([Gambling Insider](https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators))",
-      "content_html": "<p>- **Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love, Gambling Insider reports** — Kalshi customers traded 598,464 contracts on Jeremiyah Love being the third pick in the 2026 NFL draft, more than on any other player, according to Kalshi public market data. State gaming regulators are reviewing related sportsbook betting, while no regulator has said publicly it is examining the prediction market trading. ([Gambling Insider](https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators))</p>",
-      "date_published": "2026-10-15T17:00:00-04:00",
-      "date_modified": "2026-10-15T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators",
-      "links": [
-        "https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators"
-      ],
-      "timestamp": "Oct 15, 2026 · 5:00 PM ET",
-      "body": "- **Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love, Gambling Insider reports** — Kalshi customers traded 598,464 contracts on Jeremiyah Love being the third pick in the 2026 NFL draft, more than on any other player, according to Kalshi public market data. State gaming regulators are reviewing related sportsbook betting, while no regulator has said publicly it is examining the prediction market trading. ([Gambling Insider](https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators))",
-      "image_url": null,
-      "published": "2026-10-15T17:00:00-04:00",
-      "source": "2026-10-15_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1700-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1700-edt-2",
-      "title": "Texas Senate markets price Talarico ahead of Paxton at about 65 cents on Polymarket and 64 cents on Kalshi",
-      "content_text": "- **Texas Senate markets price Talarico ahead of Paxton at about 65 cents on Polymarket and 64 cents on Kalshi** — Action Network reports both Polymarket and Kalshi price Democrat James Talarico as the favorite over Republican Ken Paxton in the Texas Senate race for the seat John Cornyn is vacating. Polling shows the race within a point or two, with early voting starting October 19 ahead of the November 3 election. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis))",
-      "content_html": "<p>- **Texas Senate markets price Talarico ahead of Paxton at about 65 cents on Polymarket and 64 cents on Kalshi** — Action Network reports both Polymarket and Kalshi price Democrat James Talarico as the favorite over Republican Ken Paxton in the Texas Senate race for the seat John Cornyn is vacating. Polling shows the race within a point or two, with early voting starting October 19 ahead of the November 3 election. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis))</p>",
-      "date_published": "2026-10-15T17:00:00-04:00",
-      "date_modified": "2026-10-15T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis",
-      "links": [
-        "https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis"
-      ],
-      "timestamp": "Oct 15, 2026 · 5:00 PM ET",
-      "body": "- **Texas Senate markets price Talarico ahead of Paxton at about 65 cents on Polymarket and 64 cents on Kalshi** — Action Network reports both Polymarket and Kalshi price Democrat James Talarico as the favorite over Republican Ken Paxton in the Texas Senate race for the seat John Cornyn is vacating. Polling shows the race within a point or two, with early voting starting October 19 ahead of the November 3 election. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis))",
-      "image_url": null,
-      "published": "2026-10-15T17:00:00-04:00",
-      "source": "2026-10-15_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1700-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1700-edt-3",
-      "title": "Kalshi leads 30-day prediction market volume at about 14.8 billion dollars, ahead of Polymarket at about 5.2 billion",
-      "content_text": "- **Kalshi leads 30-day prediction market volume at about 14.8 billion dollars, ahead of Polymarket at about 5.2 billion** — A Nerdbot explainer published October 15 puts Kalshi at about 14.8 billion dollars in volume over 30 days as of October 13, with Polymarket second at about 5.2 billion over the same period. The piece also surveys the new wave of US apps including FanDuel Predicts, Fanatics Markets and Gemini Predictions. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
-      "content_html": "<p>- **Kalshi leads 30-day prediction market volume at about 14.8 billion dollars, ahead of Polymarket at about 5.2 billion** — A Nerdbot explainer published October 15 puts Kalshi at about 14.8 billion dollars in volume over 30 days as of October 13, with Polymarket second at about 5.2 billion over the same period. The piece also surveys the new wave of US apps including FanDuel Predicts, Fanatics Markets and Gemini Predictions. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))</p>",
-      "date_published": "2026-10-15T17:00:00-04:00",
-      "date_modified": "2026-10-15T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/",
-      "links": [
-        "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/"
-      ],
-      "timestamp": "Oct 15, 2026 · 5:00 PM ET",
-      "body": "- **Kalshi leads 30-day prediction market volume at about 14.8 billion dollars, ahead of Polymarket at about 5.2 billion** — A Nerdbot explainer published October 15 puts Kalshi at about 14.8 billion dollars in volume over 30 days as of October 13, with Polymarket second at about 5.2 billion over the same period. The piece also surveys the new wave of US apps including FanDuel Predicts, Fanatics Markets and Gemini Predictions. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
-      "image_url": null,
-      "published": "2026-10-15T17:00:00-04:00",
-      "source": "2026-10-15_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1700-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1700-edt-4",
-      "title": "15-minute crypto prediction markets surge as Coinbase offers contracts on Kalshi infrastructure, Motley Fool reports",
-      "content_text": "- **15-minute crypto prediction markets surge as Coinbase offers contracts on Kalshi infrastructure, Motley Fool reports** — The Motley Fool reports ultra-short crypto prediction markets are more popular than ever, with Coinbase starting on October 6 to offer 15-minute rise-or-fall contracts on Bitcoin, Ethereum and eight other cryptocurrencies using Kalshi infrastructure. Financial Times reporting cited in the piece found five- to 15-minute contracts made up more than half of crypto betting on Kalshi and Polymarket as of March 2026. ([The Motley Fool](https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/))",
-      "content_html": "<p>- **15-minute crypto prediction markets surge as Coinbase offers contracts on Kalshi infrastructure, Motley Fool reports** — The Motley Fool reports ultra-short crypto prediction markets are more popular than ever, with Coinbase starting on October 6 to offer 15-minute rise-or-fall contracts on Bitcoin, Ethereum and eight other cryptocurrencies using Kalshi infrastructure. Financial Times reporting cited in the piece found five- to 15-minute contracts made up more than half of crypto betting on Kalshi and Polymarket as of March 2026. ([The Motley Fool](https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/))</p>",
-      "date_published": "2026-10-15T17:00:00-04:00",
-      "date_modified": "2026-10-15T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
-      "links": [
-        "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/"
-      ],
-      "timestamp": "Oct 15, 2026 · 5:00 PM ET",
-      "body": "- **15-minute crypto prediction markets surge as Coinbase offers contracts on Kalshi infrastructure, Motley Fool reports** — The Motley Fool reports ultra-short crypto prediction markets are more popular than ever, with Coinbase starting on October 6 to offer 15-minute rise-or-fall contracts on Bitcoin, Ethereum and eight other cryptocurrencies using Kalshi infrastructure. Financial Times reporting cited in the piece found five- to 15-minute contracts made up more than half of crypto betting on Kalshi and Polymarket as of March 2026. ([The Motley Fool](https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/))",
-      "image_url": null,
-      "published": "2026-10-15T17:00:00-04:00",
-      "source": "2026-10-15_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1654-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPolymarket US overhauls maker and taker rebates from Oct. 19, with no maker rebate below $10M in monthly volume\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fee change leads, in a product launches/partnerships category different…\n#PredictionMarkets #Polymarket #Elections\nhttps://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll\n\nGoogle bans prediction-market ads in Connecticut, the fifth U.S. state excluded\nGoogle posted the change on Oct. 7, effective the same day, adding Connecticut after Nevada, Ohio, Michigan and New York, following the state's September…\n#PredictionMarkets\nhttps://ppc.land/google-bans-prediction-market-ads-in-connecticut-fifth-us-state-excluded/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket US overhauls maker and taker rebates from Oct. 19, with no maker rebate below $10M in monthly volume<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fee change leads, in a product launches/partnerships category different…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll<br/><br/>Google bans prediction-market ads in Connecticut, the fifth U.S. state excluded<br/>Google posted the change on Oct. 7, effective the same day, adding Connecticut after Nevada, Ohio, Michigan and New York, following the state&#x27;s September…<br/>#PredictionMarkets<br/>https://ppc.land/google-bans-prediction-market-ads-in-connecticut-fifth-us-state-excluded/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T16:54:00-04:00",
-      "date_modified": "2026-10-15T16:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll",
-      "links": [
-        "https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll",
-        "https://ppc.land/google-bans-prediction-market-ads-in-connecticut-fifth-us-state-excluded/"
-      ],
-      "timestamp": "Oct 15, 2026 · 4:54 PM ET",
-      "body": "Infiniti Briefing\n\nPolymarket US overhauls maker and taker rebates from Oct. 19, with no maker rebate below $10M in monthly volume\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh fee change leads, in a product launches/partnerships category different…\n#PredictionMarkets #Polymarket #Elections\nhttps://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll\n\nGoogle bans prediction-market ads in Connecticut, the fifth U.S. state excluded\nGoogle posted the change on Oct. 7, effective the same day, adding Connecticut after Nevada, Ohio, Michigan and New York, following the state's September…\n#PredictionMarkets\nhttps://ppc.land/google-bans-prediction-market-ads-in-connecticut-fifth-us-state-excluded/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T16:54:00-04:00",
-      "source": "2026-10-15_1654-edt.md",
       "matches_facebook_post": false
     }
   ]
