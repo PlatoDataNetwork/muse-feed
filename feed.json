@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T10:18:25.255195-04:00",
+  "updated": "2026-10-16T10:33:31.908231-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,190 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_1030-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1030-edt-0",
+      "title": "Prediction markets headed for Supreme Court review over state versus federal regulation",
+      "content_text": "- **Prediction markets headed for Supreme Court review over state versus federal regulation** — A report says circuit splits between federal and state courts over whether Kalshi and Polymarket are CFTC-regulated exchanges or state-licensed gambling operators could push the dispute to the Supreme Court in the October 2026 term. States including Arizona, Nevada, Massachusetts and New Jersey have taken opposing positions to federal regulators. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))",
+      "content_html": "<p>- **Prediction markets headed for Supreme Court review over state versus federal regulation** — A report says circuit splits between federal and state courts over whether Kalshi and Polymarket are CFTC-regulated exchanges or state-licensed gambling operators could push the dispute to the Supreme Court in the October 2026 term. States including Arizona, Nevada, Massachusetts and New Jersey have taken opposing positions to federal regulators. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))</p>",
+      "date_published": "2026-10-16T10:30:00-04:00",
+      "date_modified": "2026-10-16T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/",
+      "links": [
+        "https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 AM ET",
+      "body": "- **Prediction markets headed for Supreme Court review over state versus federal regulation** — A report says circuit splits between federal and state courts over whether Kalshi and Polymarket are CFTC-regulated exchanges or state-licensed gambling operators could push the dispute to the Supreme Court in the October 2026 term. States including Arizona, Nevada, Massachusetts and New Jersey have taken opposing positions to federal regulators. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))",
+      "image_url": null,
+      "published": "2026-10-16T10:30:00-04:00",
+      "source": "2026-10-16_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1030-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1030-edt-1",
+      "title": "Crypto.com launches Predict Pro for US event contract trading",
+      "content_text": "- **Crypto.com launches Predict Pro for US event contract trading** — Crypto.com announced on October 15 that Predict Pro is live on its exchange, connecting users to OG.com Markets, a CFTC-registered exchange and clearinghouse. The platform offers order-book depth, probability charts and limit and stop orders across sports, elections, crypto and Federal Reserve markets. ([Crypto Times](https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/))",
+      "content_html": "<p>- **Crypto.com launches Predict Pro for US event contract trading** — Crypto.com announced on October 15 that Predict Pro is live on its exchange, connecting users to OG.com Markets, a CFTC-registered exchange and clearinghouse. The platform offers order-book depth, probability charts and limit and stop orders across sports, elections, crypto and Federal Reserve markets. ([Crypto Times](https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/))</p>",
+      "date_published": "2026-10-16T10:30:00-04:00",
+      "date_modified": "2026-10-16T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/",
+      "links": [
+        "https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 AM ET",
+      "body": "- **Crypto.com launches Predict Pro for US event contract trading** — Crypto.com announced on October 15 that Predict Pro is live on its exchange, connecting users to OG.com Markets, a CFTC-registered exchange and clearinghouse. The platform offers order-book depth, probability charts and limit and stop orders across sports, elections, crypto and Federal Reserve markets. ([Crypto Times](https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/))",
+      "image_url": null,
+      "published": "2026-10-16T10:30:00-04:00",
+      "source": "2026-10-16_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1030-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1030-edt-2",
+      "title": "Polymarket prices El-Sayed at 69 percent in Michigan Senate race",
+      "content_text": "- **Polymarket prices El-Sayed at 69 percent in Michigan Senate race** — Polymarket prices Abdul El-Sayed at 69 cents and Mike Rogers at 32 cents in Michigan's open Senate race, with El-Sayed up 2 points. Recent polls cited in the report show a tight race, including a 49-48 YouGov survey. ([Action Network](https://www.actionnetwork.com/news/michigan-senate-polls-2026-race-odds-abdul-el-sayed-vs-mike-rogers-polls-michigan-senate-race-predictions))",
+      "content_html": "<p>- **Polymarket prices El-Sayed at 69 percent in Michigan Senate race** — Polymarket prices Abdul El-Sayed at 69 cents and Mike Rogers at 32 cents in Michigan&#x27;s open Senate race, with El-Sayed up 2 points. Recent polls cited in the report show a tight race, including a 49-48 YouGov survey. ([Action Network](https://www.actionnetwork.com/news/michigan-senate-polls-2026-race-odds-abdul-el-sayed-vs-mike-rogers-polls-michigan-senate-race-predictions))</p>",
+      "date_published": "2026-10-16T10:30:00-04:00",
+      "date_modified": "2026-10-16T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/michigan-senate-polls-2026-race-odds-abdul-el-sayed-vs-mike-rogers-polls-michigan-senate-race-predictions",
+      "links": [
+        "https://www.actionnetwork.com/news/michigan-senate-polls-2026-race-odds-abdul-el-sayed-vs-mike-rogers-polls-michigan-senate-race-predictions"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 AM ET",
+      "body": "- **Polymarket prices El-Sayed at 69 percent in Michigan Senate race** — Polymarket prices Abdul El-Sayed at 69 cents and Mike Rogers at 32 cents in Michigan's open Senate race, with El-Sayed up 2 points. Recent polls cited in the report show a tight race, including a 49-48 YouGov survey. ([Action Network](https://www.actionnetwork.com/news/michigan-senate-polls-2026-race-odds-abdul-el-sayed-vs-mike-rogers-polls-michigan-senate-race-predictions))",
+      "image_url": null,
+      "published": "2026-10-16T10:30:00-04:00",
+      "source": "2026-10-16_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1030-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1030-edt-3",
+      "title": "Polymarket and Kalshi price Fed October no change four points apart",
+      "content_text": "- **Polymarket and Kalshi price Fed October no change four points apart** — An October 15 comparison of public market data put Polymarket at 75.5 percent and Kalshi at 71.5 percent for no change at the Federal Reserve's October 27-28 meeting. Both venues priced a 25 basis point hike as the main alternative, at 24.5 percent on Polymarket and 27.5 percent on Kalshi. ([DEV Community](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
+      "content_html": "<p>- **Polymarket and Kalshi price Fed October no change four points apart** — An October 15 comparison of public market data put Polymarket at 75.5 percent and Kalshi at 71.5 percent for no change at the Federal Reserve&#x27;s October 27-28 meeting. Both venues priced a 25 basis point hike as the main alternative, at 24.5 percent on Polymarket and 27.5 percent on Kalshi. ([DEV Community](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))</p>",
+      "date_published": "2026-10-16T10:30:00-04:00",
+      "date_modified": "2026-10-16T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln",
+      "links": [
+        "http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 AM ET",
+      "body": "- **Polymarket and Kalshi price Fed October no change four points apart** — An October 15 comparison of public market data put Polymarket at 75.5 percent and Kalshi at 71.5 percent for no change at the Federal Reserve's October 27-28 meeting. Both venues priced a 25 basis point hike as the main alternative, at 24.5 percent on Polymarket and 27.5 percent on Kalshi. ([DEV Community](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
+      "image_url": null,
+      "published": "2026-10-16T10:30:00-04:00",
+      "source": "2026-10-16_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1030-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1030-edt-4",
+      "title": "Polymarket prices Bitcoin touching 80,000 dollars in October at 72 percent versus Kalshi at 62 percent",
+      "content_text": "- **Polymarket prices Bitcoin touching 80,000 dollars in October at 72 percent versus Kalshi at 62 percent** — Polymarket and Kalshi differ on Bitcoin downside for October, with Polymarket at 72 percent for touching 80,000 dollars compared with Kalshi at 62 percent for falling below that level. The gap narrows at deeper targets, with both venues at 18 percent for a move to 92,500 dollars on the upside. ([Crypto Times](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))",
+      "content_html": "<p>- **Polymarket prices Bitcoin touching 80,000 dollars in October at 72 percent versus Kalshi at 62 percent** — Polymarket and Kalshi differ on Bitcoin downside for October, with Polymarket at 72 percent for touching 80,000 dollars compared with Kalshi at 62 percent for falling below that level. The gap narrows at deeper targets, with both venues at 18 percent for a move to 92,500 dollars on the upside. ([Crypto Times](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))</p>",
+      "date_published": "2026-10-16T10:30:00-04:00",
+      "date_modified": "2026-10-16T10:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/",
+      "links": [
+        "https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 AM ET",
+      "body": "- **Polymarket prices Bitcoin touching 80,000 dollars in October at 72 percent versus Kalshi at 62 percent** — Polymarket and Kalshi differ on Bitcoin downside for October, with Polymarket at 72 percent for touching 80,000 dollars compared with Kalshi at 62 percent for falling below that level. The gap narrows at deeper targets, with both venues at 18 percent for a move to 92,500 dollars on the upside. ([Crypto Times](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))",
+      "image_url": null,
+      "published": "2026-10-16T10:30:00-04:00",
+      "source": "2026-10-16_1030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_1024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nEthereum dip to $2,250 by Dec. 31, 2026 falls 18 points to 55.5% on Polymarket, on $1.5M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this sharp downside repricing leads, in a crypto/commodities category different from…\n#PredictionMarkets #Polymarket #Ethereum\nhttps://predictionbubbles.net/markets/\n\nU.S. confirm that aliens exist before 2027 at 4.0% on Kalshi\nPredictionBubbles' tech board lists the longshot confirmation contract at 4.0% on Kalshi, with the Polymarket version at 4.1% on $41.7M traded — a contract not featured…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Ethereum dip to $2,250 by Dec. 31, 2026 falls 18 points to 55.5% on Polymarket, on $1.5M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this sharp downside repricing leads, in a crypto/commodities category different from…<br/>#PredictionMarkets #Polymarket #Ethereum<br/>https://predictionbubbles.net/markets/<br/><br/>U.S. confirm that aliens exist before 2027 at 4.0% on Kalshi<br/>PredictionBubbles&#x27; tech board lists the longshot confirmation contract at 4.0% on Kalshi, with the Polymarket version at 4.1% on $41.7M traded — a contract not featured…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T10:24:00-04:00",
+      "date_modified": "2026-10-16T10:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Ethereum",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:24 AM ET",
+      "body": "Infiniti Briefing\n\nEthereum dip to $2,250 by Dec. 31, 2026 falls 18 points to 55.5% on Polymarket, on $1.5M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this sharp downside repricing leads, in a crypto/commodities category different from…\n#PredictionMarkets #Polymarket #Ethereum\nhttps://predictionbubbles.net/markets/\n\nU.S. confirm that aliens exist before 2027 at 4.0% on Kalshi\nPredictionBubbles' tech board lists the longshot confirmation contract at 4.0% on Kalshi, with the Polymarket version at 4.1% on $41.7M traded — a contract not featured…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T10:24:00-04:00",
+      "source": "2026-10-16_1024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1015-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1015-edt-0",
@@ -4497,192 +4681,6 @@
       "image_url": null,
       "published": "2026-10-16T02:30:00-04:00",
       "source": "2026-10-16_0230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0230-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0230-edt-4",
-      "title": "Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game",
-      "content_text": "- **Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game** — Polymarket priced Alabama at 74 percent and Tennessee at 26 percent ahead of their Saturday college football game, with Alabama at minus 7.5 at 50 percent. Kalshi priced Alabama at 73 percent and Tennessee at 27 percent for the same matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/))",
-      "content_html": "<p>- **Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game** — Polymarket priced Alabama at 74 percent and Tennessee at 26 percent ahead of their Saturday college football game, with Alabama at minus 7.5 at 50 percent. Kalshi priced Alabama at 73 percent and Tennessee at 27 percent for the same matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/))</p>",
-      "date_published": "2026-10-16T02:30:00-04:00",
-      "date_modified": "2026-10-16T02:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/",
-      "links": [
-        "https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:30 AM ET",
-      "body": "- **Alabama priced at 74 percent against Tennessee at 26 percent on Polymarket for Saturday game** — Polymarket priced Alabama at 74 percent and Tennessee at 26 percent ahead of their Saturday college football game, with Alabama at minus 7.5 at 50 percent. Kalshi priced Alabama at 73 percent and Tennessee at 27 percent for the same matchup. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/15/polymarket-promo-code-rocky-alabama-vs-tennessee-odds-update/))",
-      "image_url": null,
-      "published": "2026-10-16T02:30:00-04:00",
-      "source": "2026-10-16_0230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0224-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0224-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nCoinbase 15-minute crypto contracts, supplied by Kalshi, draw fresh scrutiny\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product launches/partnerships category different from…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/\n\nTexas Senate: James Talarico at 65c on Polymarket and 64c on Kalshi, Ken Paxton at 37c on both\nBoth venues price Talarico as the favorite in the race for the seat being vacated, ahead of early voting starting Oct. 19 and the Nov. 3 election — a race not featured…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Coinbase 15-minute crypto contracts, supplied by Kalshi, draw fresh scrutiny<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product launches/partnerships category different from…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/<br/><br/>Texas Senate: James Talarico at 65c on Polymarket and 64c on Kalshi, Ken Paxton at 37c on both<br/>Both venues price Talarico as the favorite in the race for the seat being vacated, ahead of early voting starting Oct. 19 and the Nov. 3 election — a race not featured…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T02:24:00-04:00",
-      "date_modified": "2026-10-16T02:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
-      "links": [
-        "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
-        "https://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:24 AM ET",
-      "body": "Infiniti Briefing\n\nCoinbase 15-minute crypto contracts, supplied by Kalshi, draw fresh scrutiny\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this product item leads, in a product launches/partnerships category different from…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/\n\nTexas Senate: James Talarico at 65c on Polymarket and 64c on Kalshi, Ken Paxton at 37c on both\nBoth venues price Talarico as the favorite in the race for the seat being vacated, ahead of early voting starting Oct. 19 and the Nov. 3 election — a race not featured…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://www.actionnetwork.com/news/texas-senate-race-odds-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T02:24:00-04:00",
-      "source": "2026-10-16_0224-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0215-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0215-edt-0",
-      "title": "Midterm markets price Democrats at 90 percent for the House and about 61 percent for the Senate",
-      "content_text": "- **Midterm markets price Democrats at 90 percent for the House and about 61 percent for the Senate** — Action Network compared polls and prediction markets for the 2026 midterms as of October 16. Polymarket US and Kalshi both priced Democrats at 90 percent to control the House, while Senate control was priced at 61 percent on Polymarket US and 62 percent on Kalshi. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))",
-      "content_html": "<p>- **Midterm markets price Democrats at 90 percent for the House and about 61 percent for the Senate** — Action Network compared polls and prediction markets for the 2026 midterms as of October 16. Polymarket US and Kalshi both priced Democrats at 90 percent to control the House, while Senate control was priced at 61 percent on Polymarket US and 62 percent on Kalshi. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))</p>",
-      "date_published": "2026-10-16T02:15:00-04:00",
-      "date_modified": "2026-10-16T02:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls",
-      "links": [
-        "https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:15 AM ET",
-      "body": "- **Midterm markets price Democrats at 90 percent for the House and about 61 percent for the Senate** — Action Network compared polls and prediction markets for the 2026 midterms as of October 16. Polymarket US and Kalshi both priced Democrats at 90 percent to control the House, while Senate control was priced at 61 percent on Polymarket US and 62 percent on Kalshi. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))",
-      "image_url": null,
-      "published": "2026-10-16T02:15:00-04:00",
-      "source": "2026-10-16_0215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0215-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0215-edt-1",
-      "title": "Polymarket and Kalshi price the Fed October decision four points apart on no change",
-      "content_text": "- **Polymarket and Kalshi price the Fed October decision four points apart on no change** — An analysis of both venues on October 15 found Polymarket pricing no change at the Fed October meeting at 75.5 percent, compared with 71.5 percent on Kalshi. Polymarket October event volume was about 40.5 million dollars, with Kalshi at about 11.1 million contracts. ([DEV Community](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
-      "content_html": "<p>- **Polymarket and Kalshi price the Fed October decision four points apart on no change** — An analysis of both venues on October 15 found Polymarket pricing no change at the Fed October meeting at 75.5 percent, compared with 71.5 percent on Kalshi. Polymarket October event volume was about 40.5 million dollars, with Kalshi at about 11.1 million contracts. ([DEV Community](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))</p>",
-      "date_published": "2026-10-16T02:15:00-04:00",
-      "date_modified": "2026-10-16T02:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln",
-      "links": [
-        "http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:15 AM ET",
-      "body": "- **Polymarket and Kalshi price the Fed October decision four points apart on no change** — An analysis of both venues on October 15 found Polymarket pricing no change at the Fed October meeting at 75.5 percent, compared with 71.5 percent on Kalshi. Polymarket October event volume was about 40.5 million dollars, with Kalshi at about 11.1 million contracts. ([DEV Community](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
-      "image_url": null,
-      "published": "2026-10-16T02:15:00-04:00",
-      "source": "2026-10-16_0215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0215-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0215-edt-2",
-      "title": "15-minute crypto price markets surge as Coinbase offers Kalshi-powered contracts",
-      "content_text": "- **15-minute crypto price markets surge as Coinbase offers Kalshi-powered contracts** — The Motley Fool reported that five- to 15-minute contracts made up more than half of crypto betting on Kalshi and Polymarket as of March 2026. Coinbase began offering 15-minute crypto prediction contracts on October 6 using Kalshi infrastructure. ([The Motley Fool](https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/))",
-      "content_html": "<p>- **15-minute crypto price markets surge as Coinbase offers Kalshi-powered contracts** — The Motley Fool reported that five- to 15-minute contracts made up more than half of crypto betting on Kalshi and Polymarket as of March 2026. Coinbase began offering 15-minute crypto prediction contracts on October 6 using Kalshi infrastructure. ([The Motley Fool](https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/))</p>",
-      "date_published": "2026-10-16T02:15:00-04:00",
-      "date_modified": "2026-10-16T02:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
-      "links": [
-        "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:15 AM ET",
-      "body": "- **15-minute crypto price markets surge as Coinbase offers Kalshi-powered contracts** — The Motley Fool reported that five- to 15-minute contracts made up more than half of crypto betting on Kalshi and Polymarket as of March 2026. Coinbase began offering 15-minute crypto prediction contracts on October 6 using Kalshi infrastructure. ([The Motley Fool](https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/))",
-      "image_url": null,
-      "published": "2026-10-16T02:15:00-04:00",
-      "source": "2026-10-16_0215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0215-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0215-edt-3",
-      "title": "Polymarket prices Ravens at 67 cents against Browns at 34 cents for October 18 game",
-      "content_text": "- **Polymarket prices Ravens at 67 cents against Browns at 34 cents for October 18 game** — Polymarket listed Baltimore at 67 cents and Cleveland at 34 cents for the October 18 NFL game scheduled for 1:00 PM ET. The market has generated about 90,500 dollars in total trading volume across moneyline, spreads, totals and player props. ([Polymarket](https://polymarket.com/combos/sports/nfl/nfl-bal-cle-2026-10-18))",
-      "content_html": "<p>- **Polymarket prices Ravens at 67 cents against Browns at 34 cents for October 18 game** — Polymarket listed Baltimore at 67 cents and Cleveland at 34 cents for the October 18 NFL game scheduled for 1:00 PM ET. The market has generated about 90,500 dollars in total trading volume across moneyline, spreads, totals and player props. ([Polymarket](https://polymarket.com/combos/sports/nfl/nfl-bal-cle-2026-10-18))</p>",
-      "date_published": "2026-10-16T02:15:00-04:00",
-      "date_modified": "2026-10-16T02:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/combos/sports/nfl/nfl-bal-cle-2026-10-18",
-      "links": [
-        "https://polymarket.com/combos/sports/nfl/nfl-bal-cle-2026-10-18"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:15 AM ET",
-      "body": "- **Polymarket prices Ravens at 67 cents against Browns at 34 cents for October 18 game** — Polymarket listed Baltimore at 67 cents and Cleveland at 34 cents for the October 18 NFL game scheduled for 1:00 PM ET. The market has generated about 90,500 dollars in total trading volume across moneyline, spreads, totals and player props. ([Polymarket](https://polymarket.com/combos/sports/nfl/nfl-bal-cle-2026-10-18))",
-      "image_url": null,
-      "published": "2026-10-16T02:15:00-04:00",
-      "source": "2026-10-16_0215-edt.json",
       "matches_facebook_post": false
     }
   ]
