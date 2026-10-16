@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T18:37:12.007506-04:00",
+  "updated": "2026-10-16T18:41:06.837809-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-16_1839-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1839-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBetween 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026 priced at 17% on Polymarket, down 3.5 points, on $421K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a climate/science category different from the previous…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nJuan Manuel La Serna wins priced at 80% on Kalshi, on $1.3M traded\nPredictionBubbles' most-active board ranks the tennis contract second by volume among long-dated markets, resolving in about 13 days 22 hours — a matchup not featured in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Between 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026 priced at 17% on Polymarket, down 3.5 points, on $421K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a climate/science category different from the previous…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Juan Manuel La Serna wins priced at 80% on Kalshi, on $1.3M traded<br/>PredictionBubbles&#x27; most-active board ranks the tennis contract second by volume among long-dated markets, resolving in about 13 days 22 hours — a matchup not featured in…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T18:39:00-04:00",
+      "date_modified": "2026-10-16T18:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 16, 2026 · 6:39 PM ET",
+      "body": "Infiniti Briefing\n\nBetween 11 and 13 earthquakes of magnitude 7.0 or higher worldwide in 2026 priced at 17% on Polymarket, down 3.5 points, on $421K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a climate/science category different from the previous…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nJuan Manuel La Serna wins priced at 80% on Kalshi, on $1.3M traded\nPredictionBubbles' most-active board ranks the tennis contract second by volume among long-dated markets, resolving in about 13 days 22 hours — a matchup not featured in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T18:39:00-04:00",
+      "source": "2026-10-16_1839-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1830-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1830-edt-0",
@@ -4629,35 +4661,6 @@
       "image_url": null,
       "published": "2026-10-16T11:39:00-04:00",
       "source": "2026-10-16_1139-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1130-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1130-edt-0",
-      "title": "Polymarket prices US-Iran ceasefire holding through October 31 at 81.5 percent",
-      "content_text": "- **Polymarket prices US-Iran ceasefire holding through October 31 at 81.5 percent** — A daily situation report tracking Polymarket geopolitical contracts puts a US-Iran ceasefire continuing through October 31 at 81.5 percent and an Israel-Iran ceasefire through October 21 at 93.5 percent, while traffic through the Strait of Hormuz returning to normal by October 31 sits at just 0.5 percent. The same snapshot prices Brazil's presidential runoff with Flavio Bolsonaro at 78.4 percent against Lula at 21.5 percent. ([Huffman Writes SITREP](https://www.huffmanwrites.org/posts/sitrep/sitrep-2026-10-16/))",
-      "content_html": "<p>- **Polymarket prices US-Iran ceasefire holding through October 31 at 81.5 percent** — A daily situation report tracking Polymarket geopolitical contracts puts a US-Iran ceasefire continuing through October 31 at 81.5 percent and an Israel-Iran ceasefire through October 21 at 93.5 percent, while traffic through the Strait of Hormuz returning to normal by October 31 sits at just 0.5 percent. The same snapshot prices Brazil&#x27;s presidential runoff with Flavio Bolsonaro at 78.4 percent against Lula at 21.5 percent. ([Huffman Writes SITREP](https://www.huffmanwrites.org/posts/sitrep/sitrep-2026-10-16/))</p>",
-      "date_published": "2026-10-16T11:30:00-04:00",
-      "date_modified": "2026-10-16T11:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.huffmanwrites.org/posts/sitrep/sitrep-2026-10-16/",
-      "links": [
-        "https://www.huffmanwrites.org/posts/sitrep/sitrep-2026-10-16/"
-      ],
-      "timestamp": "Oct 16, 2026 · 11:30 AM ET",
-      "body": "- **Polymarket prices US-Iran ceasefire holding through October 31 at 81.5 percent** — A daily situation report tracking Polymarket geopolitical contracts puts a US-Iran ceasefire continuing through October 31 at 81.5 percent and an Israel-Iran ceasefire through October 21 at 93.5 percent, while traffic through the Strait of Hormuz returning to normal by October 31 sits at just 0.5 percent. The same snapshot prices Brazil's presidential runoff with Flavio Bolsonaro at 78.4 percent against Lula at 21.5 percent. ([Huffman Writes SITREP](https://www.huffmanwrites.org/posts/sitrep/sitrep-2026-10-16/))",
-      "image_url": null,
-      "published": "2026-10-16T11:30:00-04:00",
-      "source": "2026-10-16_1130-edt.json",
       "matches_facebook_post": false
     }
   ]
