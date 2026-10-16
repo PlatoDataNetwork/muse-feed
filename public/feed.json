@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-15T23:37:35.922493-04:00",
+  "updated": "2026-10-15T23:49:16.550637-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-15_2345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2345-edt-0",
+      "title": "California governor market prices Xavier Becerra at about 96 percent on Kalshi and Polymarket",
+      "content_text": "- **California governor market prices Xavier Becerra at about 96 percent on Kalshi and Polymarket** — DeFi Rate data observed on October 15 between 8:53 PM and 9:41 PM ET shows Xavier Becerra priced at 95.9 cents on Kalshi and 96.3 cents on Polymarket in the California governor market, with Steve Hilton next at about 4 percent. Combined 24-hour volume for the race was about 27,000 dollars. ([DeFi Rate](https://defirate.com/odds/california-governor/))",
+      "content_html": "<p>- **California governor market prices Xavier Becerra at about 96 percent on Kalshi and Polymarket** — DeFi Rate data observed on October 15 between 8:53 PM and 9:41 PM ET shows Xavier Becerra priced at 95.9 cents on Kalshi and 96.3 cents on Polymarket in the California governor market, with Steve Hilton next at about 4 percent. Combined 24-hour volume for the race was about 27,000 dollars. ([DeFi Rate](https://defirate.com/odds/california-governor/))</p>",
+      "date_published": "2026-10-15T23:45:00-04:00",
+      "date_modified": "2026-10-15T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/california-governor/",
+      "links": [
+        "https://defirate.com/odds/california-governor/"
+      ],
+      "timestamp": "Oct 15, 2026 · 11:45 PM ET",
+      "body": "- **California governor market prices Xavier Becerra at about 96 percent on Kalshi and Polymarket** — DeFi Rate data observed on October 15 between 8:53 PM and 9:41 PM ET shows Xavier Becerra priced at 95.9 cents on Kalshi and 96.3 cents on Polymarket in the California governor market, with Steve Hilton next at about 4 percent. Combined 24-hour volume for the race was about 27,000 dollars. ([DeFi Rate](https://defirate.com/odds/california-governor/))",
+      "image_url": null,
+      "published": "2026-10-15T23:45:00-04:00",
+      "source": "2026-10-15_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2345-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2345-edt-1",
+      "title": "CFTC proposes prediction market rules treating many sports contracts as not contrary to public interest",
+      "content_text": "- **CFTC proposes prediction market rules treating many sports contracts as not contrary to public interest** — The CFTC has proposed new rules for prediction markets that distinguish sports event contracts based on final scores and win-loss records from games of pure chance, while contracts tied to player injuries or officiating are unlikely to pass the public interest test. The proposal also clarifies that election contracts are not considered gaming, and the draft rules are open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))",
+      "content_html": "<p>- **CFTC proposes prediction market rules treating many sports contracts as not contrary to public interest** — The CFTC has proposed new rules for prediction markets that distinguish sports event contracts based on final scores and win-loss records from games of pure chance, while contracts tied to player injuries or officiating are unlikely to pass the public interest test. The proposal also clarifies that election contracts are not considered gaming, and the draft rules are open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))</p>",
+      "date_published": "2026-10-15T23:45:00-04:00",
+      "date_modified": "2026-10-15T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts",
+      "links": [
+        "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts"
+      ],
+      "timestamp": "Oct 15, 2026 · 11:45 PM ET",
+      "body": "- **CFTC proposes prediction market rules treating many sports contracts as not contrary to public interest** — The CFTC has proposed new rules for prediction markets that distinguish sports event contracts based on final scores and win-loss records from games of pure chance, while contracts tied to player injuries or officiating are unlikely to pass the public interest test. The proposal also clarifies that election contracts are not considered gaming, and the draft rules are open for public comment for 45 days. ([Cointelegraph](https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts))",
+      "image_url": null,
+      "published": "2026-10-15T23:45:00-04:00",
+      "source": "2026-10-15_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2345-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2345-edt-2",
+      "title": "Survivor 51 markets are absent from Kalshi and Polymarket, Action Network reports",
+      "content_text": "- **Survivor 51 markets are absent from Kalshi and Polymarket, Action Network reports** — Action Network reports that Survivor 51 prediction markets are currently nowhere to be found on Kalshi, Polymarket, or other top prediction markets. That absence is notable after the high-volume Kalshi markets offered for Survivor 49 and Survivor 50, which included contestant elimination contracts and other reality TV markets. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))",
+      "content_html": "<p>- **Survivor 51 markets are absent from Kalshi and Polymarket, Action Network reports** — Action Network reports that Survivor 51 prediction markets are currently nowhere to be found on Kalshi, Polymarket, or other top prediction markets. That absence is notable after the high-volume Kalshi markets offered for Survivor 49 and Survivor 50, which included contestant elimination contracts and other reality TV markets. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))</p>",
+      "date_published": "2026-10-15T23:45:00-04:00",
+      "date_modified": "2026-10-15T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets",
+      "links": [
+        "https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets"
+      ],
+      "timestamp": "Oct 15, 2026 · 11:45 PM ET",
+      "body": "- **Survivor 51 markets are absent from Kalshi and Polymarket, Action Network reports** — Action Network reports that Survivor 51 prediction markets are currently nowhere to be found on Kalshi, Polymarket, or other top prediction markets. That absence is notable after the high-volume Kalshi markets offered for Survivor 49 and Survivor 50, which included contestant elimination contracts and other reality TV markets. ([Action Network](https://www.actionnetwork.com/news/survivor-51-kalshi-markets-update-for-october-2026-live-odds-and-analysis-of-reality-tv-prediction-markets))",
+      "image_url": null,
+      "published": "2026-10-15T23:45:00-04:00",
+      "source": "2026-10-15_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2345-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2345-edt-3",
+      "title": "Polymarket prices Wild at 98 percent against Blues for October 15 NHL game",
+      "content_text": "- **Polymarket prices Wild at 98 percent against Blues for October 15 NHL game** — Polymarket's market for the October 15 NHL game between St. Louis and Minnesota prices the Wild at 98 cents and the Blues at 2 cents. The market reports about 58,500 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-stl-min-2026-10-15))",
+      "content_html": "<p>- **Polymarket prices Wild at 98 percent against Blues for October 15 NHL game** — Polymarket&#x27;s market for the October 15 NHL game between St. Louis and Minnesota prices the Wild at 98 cents and the Blues at 2 cents. The market reports about 58,500 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-stl-min-2026-10-15))</p>",
+      "date_published": "2026-10-15T23:45:00-04:00",
+      "date_modified": "2026-10-15T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/sports/nhl/nhl-stl-min-2026-10-15",
+      "links": [
+        "https://polymarket.com/sports/nhl/nhl-stl-min-2026-10-15"
+      ],
+      "timestamp": "Oct 15, 2026 · 11:45 PM ET",
+      "body": "- **Polymarket prices Wild at 98 percent against Blues for October 15 NHL game** — Polymarket's market for the October 15 NHL game between St. Louis and Minnesota prices the Wild at 98 cents and the Blues at 2 cents. The market reports about 58,500 dollars in total trading volume across market types. ([Polymarket](https://polymarket.com/sports/nhl/nhl-stl-min-2026-10-15))",
+      "image_url": null,
+      "published": "2026-10-15T23:45:00-04:00",
+      "source": "2026-10-15_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-15_2345-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2345-edt-4",
+      "title": "Prediction markets head toward possible Supreme Court review in October 2026 term",
+      "content_text": "- **Prediction markets head toward possible Supreme Court review in October 2026 term** — Conflicting federal and state court rulings over whether Kalshi and Polymarket operate as CFTC-regulated derivatives exchanges or state-licensed gambling operators have pushed the issue toward Supreme Court review in the October 2026 term. The dispute covers about 20 billion dollars in monthly trading volume, with states including Arizona, Nevada, Massachusetts, and New Jersey taking opposing positions to the CFTC. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))",
+      "content_html": "<p>- **Prediction markets head toward possible Supreme Court review in October 2026 term** — Conflicting federal and state court rulings over whether Kalshi and Polymarket operate as CFTC-regulated derivatives exchanges or state-licensed gambling operators have pushed the issue toward Supreme Court review in the October 2026 term. The dispute covers about 20 billion dollars in monthly trading volume, with states including Arizona, Nevada, Massachusetts, and New Jersey taking opposing positions to the CFTC. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))</p>",
+      "date_published": "2026-10-15T23:45:00-04:00",
+      "date_modified": "2026-10-15T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/",
+      "links": [
+        "https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/"
+      ],
+      "timestamp": "Oct 15, 2026 · 11:45 PM ET",
+      "body": "- **Prediction markets head toward possible Supreme Court review in October 2026 term** — Conflicting federal and state court rulings over whether Kalshi and Polymarket operate as CFTC-regulated derivatives exchanges or state-licensed gambling operators have pushed the issue toward Supreme Court review in the October 2026 term. The dispute covers about 20 billion dollars in monthly trading volume, with states including Arizona, Nevada, Massachusetts, and New Jersey taking opposing positions to the CFTC. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))",
+      "image_url": null,
+      "published": "2026-10-15T23:45:00-04:00",
+      "source": "2026-10-15_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-15_2339-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_2339-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSeattle vs. Denver passing yards draws $484K in 24 hours, with Bo Nix's 100+ line leading\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh props book leads, in a sports markets category different from the…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nUtah vs. Oilers jumps to $669K in 24 hours, with Utah at 85%\nVolume and price have genuinely moved from the $62,151 in total volume with Edmonton at 53c carried before tonight's game, so it runs only as a supporting bullet and not…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nNext French Presidential Election volume rises to $848K in 24 hours, with Marine Le Pen at 47%\nVolume has genuinely moved from the $717K reading carried earlier today, so it runs only as a supporting bullet and not as a lead. Polymarket's late board puts the 2027…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Seattle vs. Denver passing yards draws $484K in 24 hours, with Bo Nix&#x27;s 100+ line leading<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh props book leads, in a sports markets category different from the…<br/>#PredictionMarkets<br/>https://defirate.com/odds/<br/><br/>Utah vs. Oilers jumps to $669K in 24 hours, with Utah at 85%<br/>Volume and price have genuinely moved from the $62,151 in total volume with Edmonton at 53c carried before tonight&#x27;s game, so it runs only as a supporting bullet and not…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>Next French Presidential Election volume rises to $848K in 24 hours, with Marine Le Pen at 47%<br/>Volume has genuinely moved from the $717K reading carried earlier today, so it runs only as a supporting bullet and not as a lead. Polymarket&#x27;s late board puts the 2027…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-15T23:39:00-04:00",
+      "date_modified": "2026-10-15T23:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/",
+      "links": [
+        "https://defirate.com/odds/",
+        "https://polydict.app/markets"
+      ],
+      "timestamp": "Oct 15, 2026 · 11:39 PM ET",
+      "body": "Infiniti Briefing\n\nSeattle vs. Denver passing yards draws $484K in 24 hours, with Bo Nix's 100+ line leading\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh props book leads, in a sports markets category different from the…\n#PredictionMarkets\nhttps://defirate.com/odds/\n\nUtah vs. Oilers jumps to $669K in 24 hours, with Utah at 85%\nVolume and price have genuinely moved from the $62,151 in total volume with Edmonton at 53c carried before tonight's game, so it runs only as a supporting bullet and not…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nNext French Presidential Election volume rises to $848K in 24 hours, with Marine Le Pen at 47%\nVolume has genuinely moved from the $717K reading carried earlier today, so it runs only as a supporting bullet and not as a lead. Polymarket's late board puts the 2027…\n#PredictionMarkets #Polymarket #Elections\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-15T23:39:00-04:00",
+      "source": "2026-10-15_2339-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-15_2330-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2330-edt-0",
@@ -4463,187 +4646,6 @@
       "image_url": null,
       "published": "2026-10-15T14:30:00-04:00",
       "source": "2026-10-15_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1430-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1430-edt-1",
-      "title": "Celta against Juventus trends on Polymarket for October 15 Europa League play",
-      "content_text": "- **Celta against Juventus trends on Polymarket for October 15 Europa League play** — Elite Sports NY's October 15 trending list for Polymarket includes the Celta against Juventus Europa League match alongside the Seahawks against Broncos, Rays against Guardians and Brewers against Dodgers games. The soccer match is a trending Polymarket market that has not featured in today's feed. ([Elite Sports NY](https://elitesportsny.com/2026/10/15/polymarket-invite-code/))",
-      "content_html": "<p>- **Celta against Juventus trends on Polymarket for October 15 Europa League play** — Elite Sports NY&#x27;s October 15 trending list for Polymarket includes the Celta against Juventus Europa League match alongside the Seahawks against Broncos, Rays against Guardians and Brewers against Dodgers games. The soccer match is a trending Polymarket market that has not featured in today&#x27;s feed. ([Elite Sports NY](https://elitesportsny.com/2026/10/15/polymarket-invite-code/))</p>",
-      "date_published": "2026-10-15T14:30:00-04:00",
-      "date_modified": "2026-10-15T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://elitesportsny.com/2026/10/15/polymarket-invite-code/",
-      "links": [
-        "https://elitesportsny.com/2026/10/15/polymarket-invite-code/"
-      ],
-      "timestamp": "Oct 15, 2026 · 2:30 PM ET",
-      "body": "- **Celta against Juventus trends on Polymarket for October 15 Europa League play** — Elite Sports NY's October 15 trending list for Polymarket includes the Celta against Juventus Europa League match alongside the Seahawks against Broncos, Rays against Guardians and Brewers against Dodgers games. The soccer match is a trending Polymarket market that has not featured in today's feed. ([Elite Sports NY](https://elitesportsny.com/2026/10/15/polymarket-invite-code/))",
-      "image_url": null,
-      "published": "2026-10-15T14:30:00-04:00",
-      "source": "2026-10-15_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1430-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1430-edt-2",
-      "title": "Kalshi Street Fighter Rotten Tomatoes market prices scores above 10 and above 15 both at 99 percent",
-      "content_text": "- **Kalshi Street Fighter Rotten Tomatoes market prices scores above 10 and above 15 both at 99 percent** — DeFi Rate's entertainment board lists Kalshi's Street Fighter Rotten Tomatoes score market as the top entertainment contract by volume at about 153,000 dollars, with scores above 10 and above 15 both priced at 99 percent. The market closes October 19, 2026. ([DeFi Rate](https://defirate.com/odds/entertainment/))",
-      "content_html": "<p>- **Kalshi Street Fighter Rotten Tomatoes market prices scores above 10 and above 15 both at 99 percent** — DeFi Rate&#x27;s entertainment board lists Kalshi&#x27;s Street Fighter Rotten Tomatoes score market as the top entertainment contract by volume at about 153,000 dollars, with scores above 10 and above 15 both priced at 99 percent. The market closes October 19, 2026. ([DeFi Rate](https://defirate.com/odds/entertainment/))</p>",
-      "date_published": "2026-10-15T14:30:00-04:00",
-      "date_modified": "2026-10-15T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/entertainment/",
-      "links": [
-        "https://defirate.com/odds/entertainment/"
-      ],
-      "timestamp": "Oct 15, 2026 · 2:30 PM ET",
-      "body": "- **Kalshi Street Fighter Rotten Tomatoes market prices scores above 10 and above 15 both at 99 percent** — DeFi Rate's entertainment board lists Kalshi's Street Fighter Rotten Tomatoes score market as the top entertainment contract by volume at about 153,000 dollars, with scores above 10 and above 15 both priced at 99 percent. The market closes October 19, 2026. ([DeFi Rate](https://defirate.com/odds/entertainment/))",
-      "image_url": null,
-      "published": "2026-10-15T14:30:00-04:00",
-      "source": "2026-10-15_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1430-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1430-edt-3",
-      "title": "Kalshi Dancing with the Stars Episode 7 elimination market leads with Jackson Olson at 22 percent",
-      "content_text": "- **Kalshi Dancing with the Stars Episode 7 elimination market leads with Jackson Olson at 22 percent** — DeFi Rate's entertainment board shows Kalshi's Dancing with the Stars Episode 7 elimination market leading with Jackson Olson at 22 percent, ahead of Tyler Cameron at 20 percent, on about 35,000 dollars in volume. The market closes October 20, 2026. ([DeFi Rate](https://defirate.com/odds/entertainment/))",
-      "content_html": "<p>- **Kalshi Dancing with the Stars Episode 7 elimination market leads with Jackson Olson at 22 percent** — DeFi Rate&#x27;s entertainment board shows Kalshi&#x27;s Dancing with the Stars Episode 7 elimination market leading with Jackson Olson at 22 percent, ahead of Tyler Cameron at 20 percent, on about 35,000 dollars in volume. The market closes October 20, 2026. ([DeFi Rate](https://defirate.com/odds/entertainment/))</p>",
-      "date_published": "2026-10-15T14:30:00-04:00",
-      "date_modified": "2026-10-15T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/entertainment/",
-      "links": [
-        "https://defirate.com/odds/entertainment/"
-      ],
-      "timestamp": "Oct 15, 2026 · 2:30 PM ET",
-      "body": "- **Kalshi Dancing with the Stars Episode 7 elimination market leads with Jackson Olson at 22 percent** — DeFi Rate's entertainment board shows Kalshi's Dancing with the Stars Episode 7 elimination market leading with Jackson Olson at 22 percent, ahead of Tyler Cameron at 20 percent, on about 35,000 dollars in volume. The market closes October 20, 2026. ([DeFi Rate](https://defirate.com/odds/entertainment/))",
-      "image_url": null,
-      "published": "2026-10-15T14:30:00-04:00",
-      "source": "2026-10-15_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1424-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1424-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\n15-minute crypto price markets surge in popularity, with most retail bettors losing\nQuiet quarter-hour for platform headlines, so this fresh Oct. 15 analysis leads, in a product launches/partnerships category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/\n\nElon Musk tweet-count market draws $1.0M in 24 hours, with 320-339 tweets at 41%\nPolymarket's board ranks the Oct. 9-16 tweet-count book ninth by 24-hour volume — a culture contract not featured in any earlier edition today, in a notable trades…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>15-minute crypto price markets surge in popularity, with most retail bettors losing<br/>Quiet quarter-hour for platform headlines, so this fresh Oct. 15 analysis leads, in a product launches/partnerships category different from the previous three leads…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/<br/><br/>Elon Musk tweet-count market draws $1.0M in 24 hours, with 320-339 tweets at 41%<br/>Polymarket&#x27;s board ranks the Oct. 9-16 tweet-count book ninth by 24-hour volume — a culture contract not featured in any earlier edition today, in a notable trades…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T14:24:00-04:00",
-      "date_modified": "2026-10-15T14:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
-      "links": [
-        "https://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/",
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 15, 2026 · 2:24 PM ET",
-      "body": "Infiniti Briefing\n\n15-minute crypto price markets surge in popularity, with most retail bettors losing\nQuiet quarter-hour for platform headlines, so this fresh Oct. 15 analysis leads, in a product launches/partnerships category different from the previous three leads…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://www.fool.com/investing/2026/10/15/15-minute-markets-for-cryptocurrency-prices-are-su/\n\nElon Musk tweet-count market draws $1.0M in 24 hours, with 320-339 tweets at 41%\nPolymarket's board ranks the Oct. 9-16 tweet-count book ninth by 24-hour volume — a culture contract not featured in any earlier edition today, in a notable trades…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T14:24:00-04:00",
-      "source": "2026-10-15_1424-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1415-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1415-edt-0",
-      "title": "Kalshi and Polymarket hit 8.56 billion dollars in two-day trading volume, CoinCu reports",
-      "content_text": "- **Kalshi and Polymarket hit 8.56 billion dollars in two-day trading volume, CoinCu reports** — CoinCu reports Kalshi and Polymarket together reached 8.56 billion dollars in trading volume over two days. The report notes headline volume should be read alongside order-book liquidity, as published figures may not reflect genuine two-sided trading. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
-      "content_html": "<p>- **Kalshi and Polymarket hit 8.56 billion dollars in two-day trading volume, CoinCu reports** — CoinCu reports Kalshi and Polymarket together reached 8.56 billion dollars in trading volume over two days. The report notes headline volume should be read alongside order-book liquidity, as published figures may not reflect genuine two-sided trading. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))</p>",
-      "date_published": "2026-10-15T14:15:00-04:00",
-      "date_modified": "2026-10-15T14:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
-      "links": [
-        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/"
-      ],
-      "timestamp": "Oct 15, 2026 · 2:15 PM ET",
-      "body": "- **Kalshi and Polymarket hit 8.56 billion dollars in two-day trading volume, CoinCu reports** — CoinCu reports Kalshi and Polymarket together reached 8.56 billion dollars in trading volume over two days. The report notes headline volume should be read alongside order-book liquidity, as published figures may not reflect genuine two-sided trading. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
-      "image_url": null,
-      "published": "2026-10-15T14:15:00-04:00",
-      "source": "2026-10-15_1415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1415-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1415-edt-1",
-      "title": "Polymarket political volume at 507 million dollars in a recent week, far ahead of Kalshi at 16.8 million dollars",
-      "content_text": "- **Polymarket political volume at 507 million dollars in a recent week, far ahead of Kalshi at 16.8 million dollars** — SI's Kalshi vs. Polymarket comparison says Polymarket recorded 507 million dollars in political market volume in a recent week, compared with 16.8 million dollars on Kalshi. The comparison attributes the gap to Polymarket's global user base and its election and geopolitical trading. ([SI](https://www.si.com/prediction-markets/reviews/kalshi-vs-polymarket))",
-      "content_html": "<p>- **Polymarket political volume at 507 million dollars in a recent week, far ahead of Kalshi at 16.8 million dollars** — SI&#x27;s Kalshi vs. Polymarket comparison says Polymarket recorded 507 million dollars in political market volume in a recent week, compared with 16.8 million dollars on Kalshi. The comparison attributes the gap to Polymarket&#x27;s global user base and its election and geopolitical trading. ([SI](https://www.si.com/prediction-markets/reviews/kalshi-vs-polymarket))</p>",
-      "date_published": "2026-10-15T14:15:00-04:00",
-      "date_modified": "2026-10-15T14:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.si.com/prediction-markets/reviews/kalshi-vs-polymarket",
-      "links": [
-        "https://www.si.com/prediction-markets/reviews/kalshi-vs-polymarket"
-      ],
-      "timestamp": "Oct 15, 2026 · 2:15 PM ET",
-      "body": "- **Polymarket political volume at 507 million dollars in a recent week, far ahead of Kalshi at 16.8 million dollars** — SI's Kalshi vs. Polymarket comparison says Polymarket recorded 507 million dollars in political market volume in a recent week, compared with 16.8 million dollars on Kalshi. The comparison attributes the gap to Polymarket's global user base and its election and geopolitical trading. ([SI](https://www.si.com/prediction-markets/reviews/kalshi-vs-polymarket))",
-      "image_url": null,
-      "published": "2026-10-15T14:15:00-04:00",
-      "source": "2026-10-15_1415-edt.json",
       "matches_facebook_post": false
     }
   ]
