@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T01:19:34.390948-04:00",
+  "updated": "2026-10-16T01:33:34.611495-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,43 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-16_0124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nGoogle blocks prediction-market ads in a fifth state, with Connecticut the latest addition\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh advertising restriction leads, in a legal/regulatory category different…\n#PredictionMarkets\nhttps://defirate.com/news/google-blocks-prediction-market-ads-connecticut/\n\nNBA 2027 conference futures: San Antonio Spurs at 36% in the West, Philadelphia 76ers at 24% in the East on Polymarket\nCasino.org's Oct. 16 snapshot puts the Spurs ahead in the Western Conference Champion book and the 76ers at 24% in the Eastern Conference Champion book — futures…\n#PredictionMarkets #Polymarket\nhttps://www.casino.org/us/predictions/bonus/polymarket/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Google blocks prediction-market ads in a fifth state, with Connecticut the latest addition<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh advertising restriction leads, in a legal/regulatory category different…<br/>#PredictionMarkets<br/>https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/<br/><br/>NBA 2027 conference futures: San Antonio Spurs at 36% in the West, Philadelphia 76ers at 24% in the East on Polymarket<br/>Casino.org&#x27;s Oct. 16 snapshot puts the Spurs ahead in the Western Conference Champion book and the 76ers at 24% in the Eastern Conference Champion book — futures…<br/>#PredictionMarkets #Polymarket<br/>https://www.casino.org/us/predictions/bonus/polymarket/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T01:24:00-04:00",
+      "date_modified": "2026-10-16T01:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi",
+        "Bitcoin",
+        "Gold",
+        "Silver",
+        "Oil",
+        "Natural Gas"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/",
+      "links": [
+        "https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/",
+        "https://www.casino.org/us/predictions/bonus/polymarket/"
+      ],
+      "timestamp": "Oct 16, 2026 · 1:24 AM ET",
+      "body": "Infiniti Briefing\n\nGoogle blocks prediction-market ads in a fifth state, with Connecticut the latest addition\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh advertising restriction leads, in a legal/regulatory category different…\n#PredictionMarkets\nhttps://defirate.com/news/google-blocks-prediction-market-ads-connecticut/\n\nNBA 2027 conference futures: San Antonio Spurs at 36% in the West, Philadelphia 76ers at 24% in the East on Polymarket\nCasino.org's Oct. 16 snapshot puts the Spurs ahead in the Western Conference Champion book and the 76ers at 24% in the Eastern Conference Champion book — futures…\n#PredictionMarkets #Polymarket\nhttps://www.casino.org/us/predictions/bonus/polymarket/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T01:24:00-04:00",
+      "source": "2026-10-16_0124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_0115-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0115-edt-0",
@@ -4631,35 +4668,6 @@
       ],
       "timestamp": "Oct 15, 2026 · 3:45 PM ET",
       "body": "- **Crypto.com launches Predict Pro for US prediction market traders** — Crypto.com launched Predict Pro on October 15, a platform on its exchange technology that connects US users to the CFTC-registered OG.com Markets. It offers real-time order-book data and probability charts, supports several order types, and lets traders combine two to 20 predictions across sports, elections, crypto prices and Federal Reserve decisions. ([CryptoTimes](https://www.cryptotimes.io/2026/10/15/crypto-com-launches-predict-pro-for-us-prediction-market-traders/))",
-      "image_url": null,
-      "published": "2026-10-15T15:45:00-04:00",
-      "source": "2026-10-15_1545-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1545-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1545-edt-1",
-      "title": "Polymarket Flock cameras market prices another state ban or pause by December 31 at 73 percent",
-      "content_text": "- **Polymarket Flock cameras market prices another state ban or pause by December 31 at 73 percent** — A Polymarket market launched on October 14 asks whether another state will ban or pause police use of Flock cameras by December 31. The Yes outcome is priced at 73 percent in early trading. ([Polymarket](https://polymarket.com/event/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31))",
-      "content_html": "<p>- **Polymarket Flock cameras market prices another state ban or pause by December 31 at 73 percent** — A Polymarket market launched on October 14 asks whether another state will ban or pause police use of Flock cameras by December 31. The Yes outcome is priced at 73 percent in early trading. ([Polymarket](https://polymarket.com/event/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31))</p>",
-      "date_published": "2026-10-15T15:45:00-04:00",
-      "date_modified": "2026-10-15T15:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31",
-      "links": [
-        "https://polymarket.com/event/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31"
-      ],
-      "timestamp": "Oct 15, 2026 · 3:45 PM ET",
-      "body": "- **Polymarket Flock cameras market prices another state ban or pause by December 31 at 73 percent** — A Polymarket market launched on October 14 asks whether another state will ban or pause police use of Flock cameras by December 31. The Yes outcome is priced at 73 percent in early trading. ([Polymarket](https://polymarket.com/event/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31))",
       "image_url": null,
       "published": "2026-10-15T15:45:00-04:00",
       "source": "2026-10-15_1545-edt.json",
