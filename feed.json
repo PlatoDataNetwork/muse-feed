@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T08:22:01.835447-04:00",
+  "updated": "2026-10-16T08:33:07.831787-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_0830-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0830-edt-0",
+      "title": "Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections",
+      "content_text": "- **Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections** — Taiwan authorised restrictions on Coinbase and Kalshi over suspected violations of the Public Officials Election and Recall Act, which prohibits gambling for profit based on election outcomes, ahead of local elections scheduled for November 28. Some Coinbase users reported access problems from Wednesday, and Polymarket has also been blocked in Taiwan. ([Grafa](https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets))",
+      "content_html": "<p>- **Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections** — Taiwan authorised restrictions on Coinbase and Kalshi over suspected violations of the Public Officials Election and Recall Act, which prohibits gambling for profit based on election outcomes, ahead of local elections scheduled for November 28. Some Coinbase users reported access problems from Wednesday, and Polymarket has also been blocked in Taiwan. ([Grafa](https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets))</p>",
+      "date_published": "2026-10-16T08:30:00-04:00",
+      "date_modified": "2026-10-16T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets",
+      "links": [
+        "https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:30 AM ET",
+      "body": "- **Taiwan blocks Coinbase and Kalshi over election bets ahead of November local elections** — Taiwan authorised restrictions on Coinbase and Kalshi over suspected violations of the Public Officials Election and Recall Act, which prohibits gambling for profit based on election outcomes, ahead of local elections scheduled for November 28. Some Coinbase users reported access problems from Wednesday, and Polymarket has also been blocked in Taiwan. ([Grafa](https://grafa.com/en/news/crypto/taiwan-blocks-coinbase-and-kalshi-over-election-bets))",
+      "image_url": null,
+      "published": "2026-10-16T08:30:00-04:00",
+      "source": "2026-10-16_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0830-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0830-edt-1",
+      "title": "KuCoin plans Predictions feature giving users access to Polymarket markets in its app",
+      "content_text": "- **KuCoin plans Predictions feature giving users access to Polymarket markets in its app** — KuCoin's planned Predictions feature will let eligible users access supported markets provided by Polymarket via KuCoin Web3 within the KuCoin App. The move brings prediction markets into a financial app users already use for digital assets. ([Coin Edition](https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/))",
+      "content_html": "<p>- **KuCoin plans Predictions feature giving users access to Polymarket markets in its app** — KuCoin&#x27;s planned Predictions feature will let eligible users access supported markets provided by Polymarket via KuCoin Web3 within the KuCoin App. The move brings prediction markets into a financial app users already use for digital assets. ([Coin Edition](https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/))</p>",
+      "date_published": "2026-10-16T08:30:00-04:00",
+      "date_modified": "2026-10-16T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/",
+      "links": [
+        "https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:30 AM ET",
+      "body": "- **KuCoin plans Predictions feature giving users access to Polymarket markets in its app** — KuCoin's planned Predictions feature will let eligible users access supported markets provided by Polymarket via KuCoin Web3 within the KuCoin App. The move brings prediction markets into a financial app users already use for digital assets. ([Coin Edition](https://coinedition.com/prediction-markets-move-into-familiar-financial-apps-as-kucoin-expands-access-to-polymarket/))",
+      "image_url": null,
+      "published": "2026-10-16T08:30:00-04:00",
+      "source": "2026-10-16_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0830-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0830-edt-2",
+      "title": "Polymarket Next President of FIFA market launched October 15 leads with Infantino at 82 percent",
+      "content_text": "- **Polymarket Next President of FIFA market launched October 15 leads with Infantino at 82 percent** — Polymarket launched its Next President of FIFA market on October 15 with 9 possible outcomes. Gianni Infantino leads at 82 percent, followed by Patrice Motsepe at 8 percent. ([Polymarket](https://polymarket.com/event/next-president-of-fifa-20261015100426413))",
+      "content_html": "<p>- **Polymarket Next President of FIFA market launched October 15 leads with Infantino at 82 percent** — Polymarket launched its Next President of FIFA market on October 15 with 9 possible outcomes. Gianni Infantino leads at 82 percent, followed by Patrice Motsepe at 8 percent. ([Polymarket](https://polymarket.com/event/next-president-of-fifa-20261015100426413))</p>",
+      "date_published": "2026-10-16T08:30:00-04:00",
+      "date_modified": "2026-10-16T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/next-president-of-fifa-20261015100426413",
+      "links": [
+        "https://polymarket.com/event/next-president-of-fifa-20261015100426413"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:30 AM ET",
+      "body": "- **Polymarket Next President of FIFA market launched October 15 leads with Infantino at 82 percent** — Polymarket launched its Next President of FIFA market on October 15 with 9 possible outcomes. Gianni Infantino leads at 82 percent, followed by Patrice Motsepe at 8 percent. ([Polymarket](https://polymarket.com/event/next-president-of-fifa-20261015100426413))",
+      "image_url": null,
+      "published": "2026-10-16T08:30:00-04:00",
+      "source": "2026-10-16_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0830-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0830-edt-3",
+      "title": "Polymarket Palestinian elections delayed again market launched October 14 prices Yes at 62 percent",
+      "content_text": "- **Polymarket Palestinian elections delayed again market launched October 14 prices Yes at 62 percent** — Polymarket launched its Palestinian elections delayed again market on October 14. Traders price Yes at 62 percent, meaning the market assigns a 62 percent chance that the elections are delayed again. ([Polymarket](https://polymarket.com/event/palestinian-elections-delayed-again))",
+      "content_html": "<p>- **Polymarket Palestinian elections delayed again market launched October 14 prices Yes at 62 percent** — Polymarket launched its Palestinian elections delayed again market on October 14. Traders price Yes at 62 percent, meaning the market assigns a 62 percent chance that the elections are delayed again. ([Polymarket](https://polymarket.com/event/palestinian-elections-delayed-again))</p>",
+      "date_published": "2026-10-16T08:30:00-04:00",
+      "date_modified": "2026-10-16T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/palestinian-elections-delayed-again",
+      "links": [
+        "https://polymarket.com/event/palestinian-elections-delayed-again"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:30 AM ET",
+      "body": "- **Polymarket Palestinian elections delayed again market launched October 14 prices Yes at 62 percent** — Polymarket launched its Palestinian elections delayed again market on October 14. Traders price Yes at 62 percent, meaning the market assigns a 62 percent chance that the elections are delayed again. ([Polymarket](https://polymarket.com/event/palestinian-elections-delayed-again))",
+      "image_url": null,
+      "published": "2026-10-16T08:30:00-04:00",
+      "source": "2026-10-16_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0830-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0830-edt-4",
+      "title": "Kalshi leads 30-day prediction market volume at about 14.8 billion dollars as new apps enter",
+      "content_text": "- **Kalshi leads 30-day prediction market volume at about 14.8 billion dollars as new apps enter** — A new explainer puts Kalshi at about 14.8 billion dollars in volume over 30 days as of October 13, with Polymarket at about 5.2 billion dollars over the same period. It also lists a new wave of US apps including FanDuel Predicts, Fanatics Markets, Gemini Predictions, Novig and ProphetX. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
+      "content_html": "<p>- **Kalshi leads 30-day prediction market volume at about 14.8 billion dollars as new apps enter** — A new explainer puts Kalshi at about 14.8 billion dollars in volume over 30 days as of October 13, with Polymarket at about 5.2 billion dollars over the same period. It also lists a new wave of US apps including FanDuel Predicts, Fanatics Markets, Gemini Predictions, Novig and ProphetX. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))</p>",
+      "date_published": "2026-10-16T08:30:00-04:00",
+      "date_modified": "2026-10-16T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/",
+      "links": [
+        "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:30 AM ET",
+      "body": "- **Kalshi leads 30-day prediction market volume at about 14.8 billion dollars as new apps enter** — A new explainer puts Kalshi at about 14.8 billion dollars in volume over 30 days as of October 13, with Polymarket at about 5.2 billion dollars over the same period. It also lists a new wave of US apps including FanDuel Predicts, Fanatics Markets, Gemini Predictions, Novig and ProphetX. ([Nerdbot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
+      "image_url": null,
+      "published": "2026-10-16T08:30:00-04:00",
+      "source": "2026-10-16_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_0824-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0824-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nVenue gap: Philadelphia Eagles as NFC East Division Winner at 22c on Kalshi vs. 26c on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh cross-venue gap leads, in a sports markets category different from the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://picksbyodds.com/\n\nVenue gap: Javier Milei as Argentina presidential election winner at 54c on Kalshi vs. 48c on Polymarket\nPicksByOdds lists the Milei contract as the widest disagreement on its verified cross-listed board, at 6.0 points — a political/election reading not featured in any…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://picksbyodds.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Venue gap: Philadelphia Eagles as NFC East Division Winner at 22c on Kalshi vs. 26c on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh cross-venue gap leads, in a sports markets category different from the…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://picksbyodds.com/<br/><br/>Venue gap: Javier Milei as Argentina presidential election winner at 54c on Kalshi vs. 48c on Polymarket<br/>PicksByOdds lists the Milei contract as the widest disagreement on its verified cross-listed board, at 6.0 points — a political/election reading not featured in any…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://picksbyodds.com/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T08:24:00-04:00",
+      "date_modified": "2026-10-16T08:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://picksbyodds.com/",
+      "links": [
+        "https://picksbyodds.com/"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:24 AM ET",
+      "body": "Infiniti Briefing\n\nVenue gap: Philadelphia Eagles as NFC East Division Winner at 22c on Kalshi vs. 26c on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh cross-venue gap leads, in a sports markets category different from the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://picksbyodds.com/\n\nVenue gap: Javier Milei as Argentina presidential election winner at 54c on Kalshi vs. 48c on Polymarket\nPicksByOdds lists the Milei contract as the widest disagreement on its verified cross-listed board, at 6.0 points — a political/election reading not featured in any…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://picksbyodds.com/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T08:24:00-04:00",
+      "source": "2026-10-16_0824-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_0815-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0815-edt-0",
@@ -4528,189 +4708,6 @@
       "image_url": null,
       "published": "2026-10-16T00:15:00-04:00",
       "source": "2026-10-16_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0015-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0015-edt-1",
-      "title": "Iowa Senate market prices Hinson at 59 cents on Kalshi and Polymarket",
-      "content_text": "- **Iowa Senate market prices Hinson at 59 cents on Kalshi and Polymarket** — Action Network data for the Iowa Senate race prices Ashley Hinson at 59 cents on both Polymarket and Kalshi, with Turek at 41 cents on Polymarket and 42 cents on Kalshi. Hinson's gap narrowed by two points after the October 7 debate, and both contracts settle after the November 3 election. ([Action Network](https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race))",
-      "content_html": "<p>- **Iowa Senate market prices Hinson at 59 cents on Kalshi and Polymarket** — Action Network data for the Iowa Senate race prices Ashley Hinson at 59 cents on both Polymarket and Kalshi, with Turek at 41 cents on Polymarket and 42 cents on Kalshi. Hinson&#x27;s gap narrowed by two points after the October 7 debate, and both contracts settle after the November 3 election. ([Action Network](https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race))</p>",
-      "date_published": "2026-10-16T00:15:00-04:00",
-      "date_modified": "2026-10-16T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race",
-      "links": [
-        "https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:15 AM ET",
-      "body": "- **Iowa Senate market prices Hinson at 59 cents on Kalshi and Polymarket** — Action Network data for the Iowa Senate race prices Ashley Hinson at 59 cents on both Polymarket and Kalshi, with Turek at 41 cents on Polymarket and 42 cents on Kalshi. Hinson's gap narrowed by two points after the October 7 debate, and both contracts settle after the November 3 election. ([Action Network](https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race))",
-      "image_url": null,
-      "published": "2026-10-16T00:15:00-04:00",
-      "source": "2026-10-16_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0015-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0015-edt-2",
-      "title": "Kalshi asks full Sixth Circuit to rehear Ohio and Tennessee sports contract rulings",
-      "content_text": "- **Kalshi asks full Sixth Circuit to rehear Ohio and Tennessee sports contract rulings** — Kalshi has asked the full Sixth Circuit to rehear a panel decision that affirmed Ohio's denial of an injunction and vacated an injunction in Tennessee, letting both states apply gambling laws to its sports event contracts. Kalshi argues the panel misread the Commodity Exchange Act on preemption and on whether the contracts are swaps. ([DeFi Rate](https://defirate.com/news/kalshi-asks-full-sixth-circuit-to-review-panel-decision-favoring-ohio-and-tennessee-officials/))",
-      "content_html": "<p>- **Kalshi asks full Sixth Circuit to rehear Ohio and Tennessee sports contract rulings** — Kalshi has asked the full Sixth Circuit to rehear a panel decision that affirmed Ohio&#x27;s denial of an injunction and vacated an injunction in Tennessee, letting both states apply gambling laws to its sports event contracts. Kalshi argues the panel misread the Commodity Exchange Act on preemption and on whether the contracts are swaps. ([DeFi Rate](https://defirate.com/news/kalshi-asks-full-sixth-circuit-to-review-panel-decision-favoring-ohio-and-tennessee-officials/))</p>",
-      "date_published": "2026-10-16T00:15:00-04:00",
-      "date_modified": "2026-10-16T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/kalshi-asks-full-sixth-circuit-to-review-panel-decision-favoring-ohio-and-tennessee-officials/",
-      "links": [
-        "https://defirate.com/news/kalshi-asks-full-sixth-circuit-to-review-panel-decision-favoring-ohio-and-tennessee-officials/"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:15 AM ET",
-      "body": "- **Kalshi asks full Sixth Circuit to rehear Ohio and Tennessee sports contract rulings** — Kalshi has asked the full Sixth Circuit to rehear a panel decision that affirmed Ohio's denial of an injunction and vacated an injunction in Tennessee, letting both states apply gambling laws to its sports event contracts. Kalshi argues the panel misread the Commodity Exchange Act on preemption and on whether the contracts are swaps. ([DeFi Rate](https://defirate.com/news/kalshi-asks-full-sixth-circuit-to-review-panel-decision-favoring-ohio-and-tennessee-officials/))",
-      "image_url": null,
-      "published": "2026-10-16T00:15:00-04:00",
-      "source": "2026-10-16_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0009-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0009-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\n#2 Free App in the US Apple App Store on October 16: Vinted leads at 92% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh app-chart contract leads, in a tech/culture category different from the…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012\n\nFed path priced meeting by meeting: December hike at 82%, October hold at 71%\nDeFi Rate's late Oct. 15 board, observed 10:21–11:16 PM ET, puts the Dec. 9 meeting at 82% hike / 20% hold, against Oct. 28 at 71% hold / 30% hike — a meeting-by-meeting…\n#PredictionMarkets\nhttps://defirate.com/odds/fed-decision/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>#2 Free App in the US Apple App Store on October 16: Vinted leads at 92% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh app-chart contract leads, in a tech/culture category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012<br/><br/>Fed path priced meeting by meeting: December hike at 82%, October hold at 71%<br/>DeFi Rate&#x27;s late Oct. 15 board, observed 10:21–11:16 PM ET, puts the Dec. 9 meeting at 82% hike / 20% hold, against Oct. 28 at 71% hold / 30% hike — a meeting-by-meeting…<br/>#PredictionMarkets<br/>https://defirate.com/odds/fed-decision/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T00:09:00-04:00",
-      "date_modified": "2026-10-16T00:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "2",
-        "PredictionMarkets",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012",
-      "links": [
-        "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012",
-        "https://defirate.com/odds/fed-decision/"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:09 AM ET",
-      "body": "Infiniti Briefing\n\n#2 Free App in the US Apple App Store on October 16: Vinted leads at 92% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh app-chart contract leads, in a tech/culture category different from the…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012\n\nFed path priced meeting by meeting: December hike at 82%, October hold at 71%\nDeFi Rate's late Oct. 15 board, observed 10:21–11:16 PM ET, puts the Dec. 9 meeting at 82% hike / 20% hold, against Oct. 28 at 71% hold / 30% hike — a meeting-by-meeting…\n#PredictionMarkets\nhttps://defirate.com/odds/fed-decision/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T00:09:00-04:00",
-      "source": "2026-10-16_0009-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0000-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0000-edt-0",
-      "title": "Kalshi launches midterm forecasting hub with timeline slider and American Power Index",
-      "content_text": "- **Kalshi launches midterm forecasting hub with timeline slider and American Power Index** — Kalshi has turned its election markets into a midterm forecasting hub with House, Senate and governor maps, a timeline slider showing how odds moved, and a Balance of Power tab built on its American Power Index, which was leaning Republican by 2.2 points on Wednesday morning. ([DeFi Rate](https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/))",
-      "content_html": "<p>- **Kalshi launches midterm forecasting hub with timeline slider and American Power Index** — Kalshi has turned its election markets into a midterm forecasting hub with House, Senate and governor maps, a timeline slider showing how odds moved, and a Balance of Power tab built on its American Power Index, which was leaning Republican by 2.2 points on Wednesday morning. ([DeFi Rate](https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/))</p>",
-      "date_published": "2026-10-16T00:00:00-04:00",
-      "date_modified": "2026-10-16T00:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/",
-      "links": [
-        "https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:00 AM ET",
-      "body": "- **Kalshi launches midterm forecasting hub with timeline slider and American Power Index** — Kalshi has turned its election markets into a midterm forecasting hub with House, Senate and governor maps, a timeline slider showing how odds moved, and a Balance of Power tab built on its American Power Index, which was leaning Republican by 2.2 points on Wednesday morning. ([DeFi Rate](https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/))",
-      "image_url": null,
-      "published": "2026-10-16T00:00:00-04:00",
-      "source": "2026-10-16_0000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0000-edt-1",
-      "title": "Polymarket largest company market prices Nvidia at 93.5 percent to finish October on top",
-      "content_text": "- **Polymarket largest company market prices Nvidia at 93.5 percent to finish October on top** — The Polymarket largest company market for the end of October prices Nvidia at a 93.5 percent implied probability of finishing as the largest company by market capitalization, with the No side at 6.5 percent, on about 35,981 dollars in volume ahead of the November 1 resolution. ([Lines](https://www.lines.com/prediction-markets/economy/largest-company-end-of-october-2026))",
-      "content_html": "<p>- **Polymarket largest company market prices Nvidia at 93.5 percent to finish October on top** — The Polymarket largest company market for the end of October prices Nvidia at a 93.5 percent implied probability of finishing as the largest company by market capitalization, with the No side at 6.5 percent, on about 35,981 dollars in volume ahead of the November 1 resolution. ([Lines](https://www.lines.com/prediction-markets/economy/largest-company-end-of-october-2026))</p>",
-      "date_published": "2026-10-16T00:00:00-04:00",
-      "date_modified": "2026-10-16T00:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.lines.com/prediction-markets/economy/largest-company-end-of-october-2026",
-      "links": [
-        "https://www.lines.com/prediction-markets/economy/largest-company-end-of-october-2026"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:00 AM ET",
-      "body": "- **Polymarket largest company market prices Nvidia at 93.5 percent to finish October on top** — The Polymarket largest company market for the end of October prices Nvidia at a 93.5 percent implied probability of finishing as the largest company by market capitalization, with the No side at 6.5 percent, on about 35,981 dollars in volume ahead of the November 1 resolution. ([Lines](https://www.lines.com/prediction-markets/economy/largest-company-end-of-october-2026))",
-      "image_url": null,
-      "published": "2026-10-16T00:00:00-04:00",
-      "source": "2026-10-16_0000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0000-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0000-edt-2",
-      "title": "Kalshi prices Devils at 56 cents against Rangers at 45 cents in rivalry game",
-      "content_text": "- **Kalshi prices Devils at 56 cents against Rangers at 45 cents in rivalry game** — Kalshi winner prices for the Rangers against Devils rivalry game list New Jersey at 56 cents and New York at 45 cents, while BetMGM moneyline odds list the Devils at -149 and the Rangers at +125 with a total of 6.0 goals. ([SportsBettingDime](https://www.sportsbettingdime.com/news/nhl/rangers-devils-prediction-rivalry-odds-best-bet-oct-15/))",
-      "content_html": "<p>- **Kalshi prices Devils at 56 cents against Rangers at 45 cents in rivalry game** — Kalshi winner prices for the Rangers against Devils rivalry game list New Jersey at 56 cents and New York at 45 cents, while BetMGM moneyline odds list the Devils at -149 and the Rangers at +125 with a total of 6.0 goals. ([SportsBettingDime](https://www.sportsbettingdime.com/news/nhl/rangers-devils-prediction-rivalry-odds-best-bet-oct-15/))</p>",
-      "date_published": "2026-10-16T00:00:00-04:00",
-      "date_modified": "2026-10-16T00:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.sportsbettingdime.com/news/nhl/rangers-devils-prediction-rivalry-odds-best-bet-oct-15/",
-      "links": [
-        "https://www.sportsbettingdime.com/news/nhl/rangers-devils-prediction-rivalry-odds-best-bet-oct-15/"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:00 AM ET",
-      "body": "- **Kalshi prices Devils at 56 cents against Rangers at 45 cents in rivalry game** — Kalshi winner prices for the Rangers against Devils rivalry game list New Jersey at 56 cents and New York at 45 cents, while BetMGM moneyline odds list the Devils at -149 and the Rangers at +125 with a total of 6.0 goals. ([SportsBettingDime](https://www.sportsbettingdime.com/news/nhl/rangers-devils-prediction-rivalry-odds-best-bet-oct-15/))",
-      "image_url": null,
-      "published": "2026-10-16T00:00:00-04:00",
-      "source": "2026-10-16_0000-edt.json",
       "matches_facebook_post": false
     }
   ]
