@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T07:35:15.850395-04:00",
+  "updated": "2026-10-16T07:50:13.874530-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,99 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_0745-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0745-edt-0",
+      "title": "Louisiana regulators delay full DraftKings license renewal and grant conditional extension through February",
+      "content_text": "- **Louisiana regulators delay full DraftKings license renewal and grant conditional extension through February** — The Louisiana Gaming Control Board voted unanimously to grant DraftKings a conditional four-month extension through February 19, with a full renewal hearing on February 18, while regulators examine reports on AI use and shareholder suitability. DraftKings must file suitability submissions and formal responses, including on its prediction market activity, within 30 days. ([Legal Sports Report](https://www.legalsportsreport.com/282177/louisiana-regulators-delay-draftkings-license-renewal-amid-ai-investigation/))",
+      "content_html": "<p>- **Louisiana regulators delay full DraftKings license renewal and grant conditional extension through February** — The Louisiana Gaming Control Board voted unanimously to grant DraftKings a conditional four-month extension through February 19, with a full renewal hearing on February 18, while regulators examine reports on AI use and shareholder suitability. DraftKings must file suitability submissions and formal responses, including on its prediction market activity, within 30 days. ([Legal Sports Report](https://www.legalsportsreport.com/282177/louisiana-regulators-delay-draftkings-license-renewal-amid-ai-investigation/))</p>",
+      "date_published": "2026-10-16T07:45:00-04:00",
+      "date_modified": "2026-10-16T07:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://www.legalsportsreport.com/282177/louisiana-regulators-delay-draftkings-license-renewal-amid-ai-investigation/",
+      "links": [
+        "https://www.legalsportsreport.com/282177/louisiana-regulators-delay-draftkings-license-renewal-amid-ai-investigation/"
+      ],
+      "timestamp": "Oct 16, 2026 · 7:45 AM ET",
+      "body": "- **Louisiana regulators delay full DraftKings license renewal and grant conditional extension through February** — The Louisiana Gaming Control Board voted unanimously to grant DraftKings a conditional four-month extension through February 19, with a full renewal hearing on February 18, while regulators examine reports on AI use and shareholder suitability. DraftKings must file suitability submissions and formal responses, including on its prediction market activity, within 30 days. ([Legal Sports Report](https://www.legalsportsreport.com/282177/louisiana-regulators-delay-draftkings-license-renewal-amid-ai-investigation/))",
+      "image_url": null,
+      "published": "2026-10-16T07:45:00-04:00",
+      "source": "2026-10-16_0745-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0745-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0745-edt-1",
+      "title": "Investigation flags more than 600 million dollars in unusual Polymarket election trades",
+      "content_text": "- **Investigation flags more than 600 million dollars in unusual Polymarket election trades** — A WIRED investigation identified more than 600 million dollars in trading across Polymarket election markets in Ethiopia and Romania, much of it after outcomes were effectively decided. Researchers traced about 284 million dollars in the Ethiopia market to pairs of accounts trading with each other, and Polymarket said it blocked the accounts involved. ([InfoBets](https://infobets.com/news/polymarket-wash-trading-election-markets))",
+      "content_html": "<p>- **Investigation flags more than 600 million dollars in unusual Polymarket election trades** — A WIRED investigation identified more than 600 million dollars in trading across Polymarket election markets in Ethiopia and Romania, much of it after outcomes were effectively decided. Researchers traced about 284 million dollars in the Ethiopia market to pairs of accounts trading with each other, and Polymarket said it blocked the accounts involved. ([InfoBets](https://infobets.com/news/polymarket-wash-trading-election-markets))</p>",
+      "date_published": "2026-10-16T07:45:00-04:00",
+      "date_modified": "2026-10-16T07:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://infobets.com/news/polymarket-wash-trading-election-markets",
+      "links": [
+        "https://infobets.com/news/polymarket-wash-trading-election-markets"
+      ],
+      "timestamp": "Oct 16, 2026 · 7:45 AM ET",
+      "body": "- **Investigation flags more than 600 million dollars in unusual Polymarket election trades** — A WIRED investigation identified more than 600 million dollars in trading across Polymarket election markets in Ethiopia and Romania, much of it after outcomes were effectively decided. Researchers traced about 284 million dollars in the Ethiopia market to pairs of accounts trading with each other, and Polymarket said it blocked the accounts involved. ([InfoBets](https://infobets.com/news/polymarket-wash-trading-election-markets))",
+      "image_url": null,
+      "published": "2026-10-16T07:45:00-04:00",
+      "source": "2026-10-16_0745-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_0739-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0739-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNetanyahu out by end of 2026: No at 62% on Polymarket, with $124.6M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh politics book leads. RG.org's Polymarket board ranks the Israel…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026\n\nCommodities & crypto stats\nFresh tape: gold futures advanced 0.7% to $4,200 an ounce, Brent crude futures were 0.3% higher at $106.25 a barrel and WTI slipped 0.2% to $97.80. Crypto: Bitcoin at…\n#PredictionMarkets #Bitcoin #Gold #Oil\nhttps://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10162026-12176848\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Netanyahu out by end of 2026: No at 62% on Polymarket, with $124.6M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh politics book leads. RG.org&#x27;s Polymarket board ranks the Israel…<br/>#PredictionMarkets #Polymarket<br/>https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026<br/><br/>Commodities &amp; crypto stats<br/>Fresh tape: gold futures advanced 0.7% to $4,200 an ounce, Brent crude futures were 0.3% higher at $106.25 a barrel and WTI slipped 0.2% to $97.80. Crypto: Bitcoin at…<br/>#PredictionMarkets #Bitcoin #Gold #Oil<br/>https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10162026-12176848<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T07:39:00-04:00",
+      "date_modified": "2026-10-16T07:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Gold",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026",
+      "links": [
+        "https://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026",
+        "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10162026-12176848"
+      ],
+      "timestamp": "Oct 16, 2026 · 7:39 AM ET",
+      "body": "Infiniti Briefing\n\nNetanyahu out by end of 2026: No at 62% on Polymarket, with $124.6M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh politics book leads. RG.org's Polymarket board ranks the Israel…\n#PredictionMarkets #Polymarket\nhttps://rg.org/news/prediction-markets/polymarket-daily-fed-october-hike-bitcoin-apple-nvidia-world-series-october-15-2026\n\nCommodities & crypto stats\nFresh tape: gold futures advanced 0.7% to $4,200 an ounce, Brent crude futures were 0.3% higher at $106.25 a barrel and WTI slipped 0.2% to $97.80. Crypto: Bitcoin at…\n#PredictionMarkets #Bitcoin #Gold #Oil\nhttps://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10162026-12176848\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T07:39:00-04:00",
+      "source": "2026-10-16_0739-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_0730-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0730-edt-0",
@@ -4624,89 +4717,6 @@
       "image_url": null,
       "published": "2026-10-15T23:39:00-04:00",
       "source": "2026-10-15_2339-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_2330-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2330-edt-0",
-      "title": "Kalshi partners with U.S. Black Chambers to offer hedging education for Black-owned businesses",
-      "content_text": "- **Kalshi partners with U.S. Black Chambers to offer hedging education for Black-owned businesses** — Kalshi announced a partnership with U.S. Black Chambers, Inc., which represents more than 145 chambers and organizations and about 326,000 Black businesses, to provide risk management resources and education. Kalshi will host an interactive workshop showing owners how event contracts can help hedge risks from weather, economic shifts and local sports outcomes. ([Business Wire](https://wkow.marketminute.com/article/bizwire-2026-10-8-kalshi-partners-with-us-black-chambers-unlocking-risk-management-resources-for-black-owned-businesses))",
-      "content_html": "<p>- **Kalshi partners with U.S. Black Chambers to offer hedging education for Black-owned businesses** — Kalshi announced a partnership with U.S. Black Chambers, Inc., which represents more than 145 chambers and organizations and about 326,000 Black businesses, to provide risk management resources and education. Kalshi will host an interactive workshop showing owners how event contracts can help hedge risks from weather, economic shifts and local sports outcomes. ([Business Wire](https://wkow.marketminute.com/article/bizwire-2026-10-8-kalshi-partners-with-us-black-chambers-unlocking-risk-management-resources-for-black-owned-businesses))</p>",
-      "date_published": "2026-10-15T23:30:00-04:00",
-      "date_modified": "2026-10-15T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://wkow.marketminute.com/article/bizwire-2026-10-8-kalshi-partners-with-us-black-chambers-unlocking-risk-management-resources-for-black-owned-businesses",
-      "links": [
-        "https://wkow.marketminute.com/article/bizwire-2026-10-8-kalshi-partners-with-us-black-chambers-unlocking-risk-management-resources-for-black-owned-businesses"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:30 PM ET",
-      "body": "- **Kalshi partners with U.S. Black Chambers to offer hedging education for Black-owned businesses** — Kalshi announced a partnership with U.S. Black Chambers, Inc., which represents more than 145 chambers and organizations and about 326,000 Black businesses, to provide risk management resources and education. Kalshi will host an interactive workshop showing owners how event contracts can help hedge risks from weather, economic shifts and local sports outcomes. ([Business Wire](https://wkow.marketminute.com/article/bizwire-2026-10-8-kalshi-partners-with-us-black-chambers-unlocking-risk-management-resources-for-black-owned-businesses))",
-      "image_url": null,
-      "published": "2026-10-15T23:30:00-04:00",
-      "source": "2026-10-15_2330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_2330-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2330-edt-1",
-      "title": "Matchbook launches World Cup prediction platform with ADI Predictstreet",
-      "content_text": "- **Matchbook launches World Cup prediction platform with ADI Predictstreet** — Matchbook has launched a FIFA World Cup prediction market platform with ADI Predictstreet, its second white-label prediction market solution to go live in the UK, with availability also in Ireland and Canada. The offering covers winner, top scorer and in-play yes or no markets, alongside live streaming of every match. ([GambleRss](https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201))",
-      "content_html": "<p>- **Matchbook launches World Cup prediction platform with ADI Predictstreet** — Matchbook has launched a FIFA World Cup prediction market platform with ADI Predictstreet, its second white-label prediction market solution to go live in the UK, with availability also in Ireland and Canada. The offering covers winner, top scorer and in-play yes or no markets, alongside live streaming of every match. ([GambleRss](https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201))</p>",
-      "date_published": "2026-10-15T23:30:00-04:00",
-      "date_modified": "2026-10-15T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201",
-      "links": [
-        "https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:30 PM ET",
-      "body": "- **Matchbook launches World Cup prediction platform with ADI Predictstreet** — Matchbook has launched a FIFA World Cup prediction market platform with ADI Predictstreet, its second white-label prediction market solution to go live in the UK, with availability also in Ireland and Canada. The offering covers winner, top scorer and in-play yes or no markets, alongside live streaming of every match. ([GambleRss](https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201))",
-      "image_url": null,
-      "published": "2026-10-15T23:30:00-04:00",
-      "source": "2026-10-15_2330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_2330-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_2330-edt-2",
-      "title": "Gibraltar Prediction Market Regulations 2026 create a separate authorisation for operators",
-      "content_text": "- **Gibraltar Prediction Market Regulations 2026 create a separate authorisation for operators** — Gibraltar's Prediction Market Regulations 2026 establish a dedicated framework that treats prediction markets as a separate regulated activity rather than betting or gambling, and operators must obtain a Prediction Market Authorisation even if they already hold a Gibraltar gambling licence. The regime permits digital asset and stablecoin payments and requires controls against manipulation and insider dealing, plus anti-money-laundering compliance and client money protection. ([Isolas](http://gibraltarlawyers.com/gibraltar-prediction-market-regulation-summary-q-a/))",
-      "content_html": "<p>- **Gibraltar Prediction Market Regulations 2026 create a separate authorisation for operators** — Gibraltar&#x27;s Prediction Market Regulations 2026 establish a dedicated framework that treats prediction markets as a separate regulated activity rather than betting or gambling, and operators must obtain a Prediction Market Authorisation even if they already hold a Gibraltar gambling licence. The regime permits digital asset and stablecoin payments and requires controls against manipulation and insider dealing, plus anti-money-laundering compliance and client money protection. ([Isolas](http://gibraltarlawyers.com/gibraltar-prediction-market-regulation-summary-q-a/))</p>",
-      "date_published": "2026-10-15T23:30:00-04:00",
-      "date_modified": "2026-10-15T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "http://gibraltarlawyers.com/gibraltar-prediction-market-regulation-summary-q-a/",
-      "links": [
-        "http://gibraltarlawyers.com/gibraltar-prediction-market-regulation-summary-q-a/"
-      ],
-      "timestamp": "Oct 15, 2026 · 11:30 PM ET",
-      "body": "- **Gibraltar Prediction Market Regulations 2026 create a separate authorisation for operators** — Gibraltar's Prediction Market Regulations 2026 establish a dedicated framework that treats prediction markets as a separate regulated activity rather than betting or gambling, and operators must obtain a Prediction Market Authorisation even if they already hold a Gibraltar gambling licence. The regime permits digital asset and stablecoin payments and requires controls against manipulation and insider dealing, plus anti-money-laundering compliance and client money protection. ([Isolas](http://gibraltarlawyers.com/gibraltar-prediction-market-regulation-summary-q-a/))",
-      "image_url": null,
-      "published": "2026-10-15T23:30:00-04:00",
-      "source": "2026-10-15_2330-edt.json",
       "matches_facebook_post": false
     }
   ]
