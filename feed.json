@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T04:33:46.331399-04:00",
+  "updated": "2026-10-16T04:48:57.107993-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,127 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_0445-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0445-edt-0",
+      "title": "Prediction markets pull back sports contracts in three more states amid regulatory pressure",
+      "content_text": "- **Prediction markets pull back sports contracts in three more states amid regulatory pressure** — Coinbase agreed to stop offering new sports event contracts in Michigan by October 10 and close remaining positions by that deadline, according to the Michigan Gaming Control Board. Michigan has now secured agreements or court orders halting sports contracts from Coinbase, Robinhood and Kalshi. ([Legal Sports Report](https://www.legalsportsreport.com/280892/prediction-market-retreat-continues-in-three-states/))",
+      "content_html": "<p>- **Prediction markets pull back sports contracts in three more states amid regulatory pressure** — Coinbase agreed to stop offering new sports event contracts in Michigan by October 10 and close remaining positions by that deadline, according to the Michigan Gaming Control Board. Michigan has now secured agreements or court orders halting sports contracts from Coinbase, Robinhood and Kalshi. ([Legal Sports Report](https://www.legalsportsreport.com/280892/prediction-market-retreat-continues-in-three-states/))</p>",
+      "date_published": "2026-10-16T04:45:00-04:00",
+      "date_modified": "2026-10-16T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.legalsportsreport.com/280892/prediction-market-retreat-continues-in-three-states/",
+      "links": [
+        "https://www.legalsportsreport.com/280892/prediction-market-retreat-continues-in-three-states/"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:45 AM ET",
+      "body": "- **Prediction markets pull back sports contracts in three more states amid regulatory pressure** — Coinbase agreed to stop offering new sports event contracts in Michigan by October 10 and close remaining positions by that deadline, according to the Michigan Gaming Control Board. Michigan has now secured agreements or court orders halting sports contracts from Coinbase, Robinhood and Kalshi. ([Legal Sports Report](https://www.legalsportsreport.com/280892/prediction-market-retreat-continues-in-three-states/))",
+      "image_url": null,
+      "published": "2026-10-16T04:45:00-04:00",
+      "source": "2026-10-16_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0445-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0445-edt-1",
+      "title": "Kalshi prices El-Sayed at 70 percent in Michigan Senate race on nearly 6 million dollars in volume",
+      "content_text": "- **Kalshi prices El-Sayed at 70 percent in Michigan Senate race on nearly 6 million dollars in volume** — Kalshi traders price Democrat Abdul El-Sayed at 70 percent to beat Republican Mike Rogers for Michigan's open Senate seat, on nearly 6 million dollars in volume, up from the low 60s earlier this month. A Suffolk University poll of 500 likely voters conducted September 16-20 put El-Sayed ahead 47 percent to 40 percent. ([DeFi Rate](https://defirate.com/news/kalshi-el-sayed-edge-michigan-senate/))",
+      "content_html": "<p>- **Kalshi prices El-Sayed at 70 percent in Michigan Senate race on nearly 6 million dollars in volume** — Kalshi traders price Democrat Abdul El-Sayed at 70 percent to beat Republican Mike Rogers for Michigan&#x27;s open Senate seat, on nearly 6 million dollars in volume, up from the low 60s earlier this month. A Suffolk University poll of 500 likely voters conducted September 16-20 put El-Sayed ahead 47 percent to 40 percent. ([DeFi Rate](https://defirate.com/news/kalshi-el-sayed-edge-michigan-senate/))</p>",
+      "date_published": "2026-10-16T04:45:00-04:00",
+      "date_modified": "2026-10-16T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/news/kalshi-el-sayed-edge-michigan-senate/",
+      "links": [
+        "https://defirate.com/news/kalshi-el-sayed-edge-michigan-senate/"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:45 AM ET",
+      "body": "- **Kalshi prices El-Sayed at 70 percent in Michigan Senate race on nearly 6 million dollars in volume** — Kalshi traders price Democrat Abdul El-Sayed at 70 percent to beat Republican Mike Rogers for Michigan's open Senate seat, on nearly 6 million dollars in volume, up from the low 60s earlier this month. A Suffolk University poll of 500 likely voters conducted September 16-20 put El-Sayed ahead 47 percent to 40 percent. ([DeFi Rate](https://defirate.com/news/kalshi-el-sayed-edge-michigan-senate/))",
+      "image_url": null,
+      "published": "2026-10-16T04:45:00-04:00",
+      "source": "2026-10-16_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_0445-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0445-edt-2",
+      "title": "Polymarket Protocol V2 mainnet switchover set for November 2 after canary testing",
+      "content_text": "- **Polymarket Protocol V2 mainnet switchover set for November 2 after canary testing** — Polymarket plans a November 2 mainnet switchover to Protocol V2, with canary markets running from October 5 to October 30 before the launch. The upgrade consolidates market types under a single framework, uses a single ERC-1155 position contract and pUSD as collateral, and adds a multi-oracle aggregator including UMA and Chainlink. ([Bonus](https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/))",
+      "content_html": "<p>- **Polymarket Protocol V2 mainnet switchover set for November 2 after canary testing** — Polymarket plans a November 2 mainnet switchover to Protocol V2, with canary markets running from October 5 to October 30 before the launch. The upgrade consolidates market types under a single framework, uses a single ERC-1155 position contract and pUSD as collateral, and adds a multi-oracle aggregator including UMA and Chainlink. ([Bonus](https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/))</p>",
+      "date_published": "2026-10-16T04:45:00-04:00",
+      "date_modified": "2026-10-16T04:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/",
+      "links": [
+        "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:45 AM ET",
+      "body": "- **Polymarket Protocol V2 mainnet switchover set for November 2 after canary testing** — Polymarket plans a November 2 mainnet switchover to Protocol V2, with canary markets running from October 5 to October 30 before the launch. The upgrade consolidates market types under a single framework, uses a single ERC-1155 position contract and pUSD as collateral, and adds a multi-oracle aggregator including UMA and Chainlink. ([Bonus](https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/))",
+      "image_url": null,
+      "published": "2026-10-16T04:45:00-04:00",
+      "source": "2026-10-16_0445-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_0439-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0439-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nHow many hurricanes will form in the 2026 Atlantic season: 1-3 leads at 99% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather book leads, in a weather/science category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarket.com/event/how-many-hurricanes-will-form-during-the-atlantic-hurricane-season-in-2026-20260728201848339/will-there-be-0-hurricanes-during-the-atlantic-hurricane-season-in-2026-20260728204231220\n\nNFC South division winner: Carolina Panthers at 40% on both Kalshi and Polymarket\nA fresh Oct. 16, 04:31 UTC reading puts Carolina at 40% on both venues, ahead of Atlanta at 29% on Kalshi and 30% on Polymarket, New Orleans at 16% on both and Tampa Bay…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>How many hurricanes will form in the 2026 Atlantic season: 1-3 leads at 99% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather book leads, in a weather/science category different from the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://polymarket.com/event/how-many-hurricanes-will-form-during-the-atlantic-hurricane-season-in-2026-20260728201848339/will-there-be-0-hurricanes-during-the-atlantic-hurricane-season-in-2026-20260728204231220<br/><br/>NFC South division winner: Carolina Panthers at 40% on both Kalshi and Polymarket<br/>A fresh Oct. 16, 04:31 UTC reading puts Carolina at 40% on both venues, ahead of Atlanta at 29% on Kalshi and 30% on Polymarket, New Orleans at 16% on both and Tampa Bay…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T04:39:00-04:00",
+      "date_modified": "2026-10-16T04:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/how-many-hurricanes-will-form-during-the-atlantic-hurricane-season-in-2026-20260728201848339/will-there-be-0-hurricanes-during-the-atlantic-hurricane-season-in-2026-20260728204231220",
+      "links": [
+        "https://polymarket.com/event/how-many-hurricanes-will-form-during-the-atlantic-hurricane-season-in-2026-20260728201848339/will-there-be-0-hurricanes-during-the-atlantic-hurricane-season-in-2026-20260728204231220",
+        "https://ipredicta.co/insights/nfl-division-winners-2026/"
+      ],
+      "timestamp": "Oct 16, 2026 · 4:39 AM ET",
+      "body": "Infiniti Briefing\n\nHow many hurricanes will form in the 2026 Atlantic season: 1-3 leads at 99% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh weather book leads, in a weather/science category different from the…\n#PredictionMarkets #Polymarket #Elections\nhttps://polymarket.com/event/how-many-hurricanes-will-form-during-the-atlantic-hurricane-season-in-2026-20260728201848339/will-there-be-0-hurricanes-during-the-atlantic-hurricane-season-in-2026-20260728204231220\n\nNFC South division winner: Carolina Panthers at 40% on both Kalshi and Polymarket\nA fresh Oct. 16, 04:31 UTC reading puts Carolina at 40% on both venues, ahead of Atlanta at 29% on Kalshi and 30% on Polymarket, New Orleans at 16% on both and Tampa Bay…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T04:39:00-04:00",
+      "source": "2026-10-16_0439-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-16_0424-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0424-edt",
@@ -4568,126 +4689,6 @@
       "image_url": null,
       "published": "2026-10-15T19:39:00-04:00",
       "source": "2026-10-15_1939-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-15_1924-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-15_1924-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nNFC North winner: Minnesota Vikings at 47% on Kalshi and 45% on Polymarket, up 8 points\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh division board leads, in a sports markets category different from the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nNFC South winner: Carolina Panthers at 40% on both venues, up 8 points\nThe same Oct. 15 reading puts Atlanta at 29% / 30%, down 7 points, New Orleans at 16% on both venues and Tampa Bay at 16% / 15%, on $61,292 traded over the Polymarket…\n#PredictionMarkets #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>NFC North winner: Minnesota Vikings at 47% on Kalshi and 45% on Polymarket, up 8 points<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh division board leads, in a sports markets category different from the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>NFC South winner: Carolina Panthers at 40% on both venues, up 8 points<br/>The same Oct. 15 reading puts Atlanta at 29% / 30%, down 7 points, New Orleans at 16% on both venues and Tampa Bay at 16% / 15%, on $61,292 traded over the Polymarket…<br/>#PredictionMarkets #Polymarket<br/>https://ipredicta.co/insights/nfl-division-winners-2026/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-15T19:24:00-04:00",
-      "date_modified": "2026-10-15T19:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://ipredicta.co/insights/nfl-division-winners-2026/",
-      "links": [
-        "https://ipredicta.co/insights/nfl-division-winners-2026/"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:24 PM ET",
-      "body": "Infiniti Briefing\n\nNFC North winner: Minnesota Vikings at 47% on Kalshi and 45% on Polymarket, up 8 points\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh division board leads, in a sports markets category different from the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nNFC South winner: Carolina Panthers at 40% on both venues, up 8 points\nThe same Oct. 15 reading puts Atlanta at 29% / 30%, down 7 points, New Orleans at 16% on both venues and Tampa Bay at 16% / 15%, on $61,292 traded over the Polymarket…\n#PredictionMarkets #Polymarket\nhttps://ipredicta.co/insights/nfl-division-winners-2026/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-15T19:24:00-04:00",
-      "source": "2026-10-15_1924-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1915-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1915-edt-0",
-      "title": "Kalshi and Polymarket will not be part of FTC sports gambling probe, report says",
-      "content_text": "- **Kalshi and Polymarket will not be part of FTC sports gambling probe, report says** — A report said Kalshi and Polymarket will not be part of an FTC sports gambling probe. Both platforms say they operate as federally regulated financial markets under the CFTC rather than as gambling operators. ([CryptoPulse Daily](https://cryptopulsedaily.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/))",
-      "content_html": "<p>- **Kalshi and Polymarket will not be part of FTC sports gambling probe, report says** — A report said Kalshi and Polymarket will not be part of an FTC sports gambling probe. Both platforms say they operate as federally regulated financial markets under the CFTC rather than as gambling operators. ([CryptoPulse Daily](https://cryptopulsedaily.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/))</p>",
-      "date_published": "2026-10-15T19:15:00-04:00",
-      "date_modified": "2026-10-15T19:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://cryptopulsedaily.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/",
-      "links": [
-        "https://cryptopulsedaily.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:15 PM ET",
-      "body": "- **Kalshi and Polymarket will not be part of FTC sports gambling probe, report says** — A report said Kalshi and Polymarket will not be part of an FTC sports gambling probe. Both platforms say they operate as federally regulated financial markets under the CFTC rather than as gambling operators. ([CryptoPulse Daily](https://cryptopulsedaily.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/))",
-      "image_url": null,
-      "published": "2026-10-15T19:15:00-04:00",
-      "source": "2026-10-15_1915-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1915-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1915-edt-1",
-      "title": "Polymarket prices FURIA at 87 percent against Legacy in Thunderpick Counter-Strike match",
-      "content_text": "- **Polymarket prices FURIA at 87 percent against Legacy in Thunderpick Counter-Strike match** — Polymarket priced FURIA at 87 percent against Legacy at 14 percent in their Thunderpick World Championship Group B best-of-three on October 15. The market had generated about 2.4 million dollars in total trading volume. ([Polymarket](https://polymarket.com/esports/cs2/thunderpick-world-championship/cs2-lgc-furia-2026-10-15))",
-      "content_html": "<p>- **Polymarket prices FURIA at 87 percent against Legacy in Thunderpick Counter-Strike match** — Polymarket priced FURIA at 87 percent against Legacy at 14 percent in their Thunderpick World Championship Group B best-of-three on October 15. The market had generated about 2.4 million dollars in total trading volume. ([Polymarket](https://polymarket.com/esports/cs2/thunderpick-world-championship/cs2-lgc-furia-2026-10-15))</p>",
-      "date_published": "2026-10-15T19:15:00-04:00",
-      "date_modified": "2026-10-15T19:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/esports/cs2/thunderpick-world-championship/cs2-lgc-furia-2026-10-15",
-      "links": [
-        "https://polymarket.com/esports/cs2/thunderpick-world-championship/cs2-lgc-furia-2026-10-15"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:15 PM ET",
-      "body": "- **Polymarket prices FURIA at 87 percent against Legacy in Thunderpick Counter-Strike match** — Polymarket priced FURIA at 87 percent against Legacy at 14 percent in their Thunderpick World Championship Group B best-of-three on October 15. The market had generated about 2.4 million dollars in total trading volume. ([Polymarket](https://polymarket.com/esports/cs2/thunderpick-world-championship/cs2-lgc-furia-2026-10-15))",
-      "image_url": null,
-      "published": "2026-10-15T19:15:00-04:00",
-      "source": "2026-10-15_1915-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-15_1915-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-15_1915-edt-2",
-      "title": "Polymarket prices Florida at 100 percent for Isaias hurricane landfall",
-      "content_text": "- **Polymarket prices Florida at 100 percent for Isaias hurricane landfall** — Polymarket priced Florida at 100 percent in its market for where Isaias will make landfall as a hurricane, with Alabama next at 8 percent. The market has recorded about 21,000 dollars in trading volume since launching on October 7. ([Polymarket](https://polymarket.com/event/where-will-isaias-make-landfall-as-a-hurricane-1791380120953))",
-      "content_html": "<p>- **Polymarket prices Florida at 100 percent for Isaias hurricane landfall** — Polymarket priced Florida at 100 percent in its market for where Isaias will make landfall as a hurricane, with Alabama next at 8 percent. The market has recorded about 21,000 dollars in trading volume since launching on October 7. ([Polymarket](https://polymarket.com/event/where-will-isaias-make-landfall-as-a-hurricane-1791380120953))</p>",
-      "date_published": "2026-10-15T19:15:00-04:00",
-      "date_modified": "2026-10-15T19:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/where-will-isaias-make-landfall-as-a-hurricane-1791380120953",
-      "links": [
-        "https://polymarket.com/event/where-will-isaias-make-landfall-as-a-hurricane-1791380120953"
-      ],
-      "timestamp": "Oct 15, 2026 · 7:15 PM ET",
-      "body": "- **Polymarket prices Florida at 100 percent for Isaias hurricane landfall** — Polymarket priced Florida at 100 percent in its market for where Isaias will make landfall as a hurricane, with Alabama next at 8 percent. The market has recorded about 21,000 dollars in trading volume since launching on October 7. ([Polymarket](https://polymarket.com/event/where-will-isaias-make-landfall-as-a-hurricane-1791380120953))",
-      "image_url": null,
-      "published": "2026-10-15T19:15:00-04:00",
-      "source": "2026-10-15_1915-edt.json",
       "matches_facebook_post": false
     }
   ]
