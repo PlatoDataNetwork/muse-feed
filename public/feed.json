@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T10:49:21.492828-04:00",
+  "updated": "2026-10-16T11:05:12.967463-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,184 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_1100-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1100-edt-0",
+      "title": "Kalshi adds NFL ladder and escalator prediction markets for player statistics",
+      "content_text": "- **Kalshi adds NFL ladder and escalator prediction markets for player statistics** — Kalshi has introduced ladder and escalator contracts on select NFL player markets such as receptions, receiving yards and rushing yards. The contracts still pay a maximum of 1 dollar but pay incremental amounts as a player moves toward the stated milestone, with escalators called Slingshots in the Kalshi app. ([Covers](https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026))",
+      "content_html": "<p>- **Kalshi adds NFL ladder and escalator prediction markets for player statistics** — Kalshi has introduced ladder and escalator contracts on select NFL player markets such as receptions, receiving yards and rushing yards. The contracts still pay a maximum of 1 dollar but pay incremental amounts as a player moves toward the stated milestone, with escalators called Slingshots in the Kalshi app. ([Covers](https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026))</p>",
+      "date_published": "2026-10-16T11:00:00-04:00",
+      "date_modified": "2026-10-16T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026",
+      "links": [
+        "https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 AM ET",
+      "body": "- **Kalshi adds NFL ladder and escalator prediction markets for player statistics** — Kalshi has introduced ladder and escalator contracts on select NFL player markets such as receptions, receiving yards and rushing yards. The contracts still pay a maximum of 1 dollar but pay incremental amounts as a player moves toward the stated milestone, with escalators called Slingshots in the Kalshi app. ([Covers](https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026))",
+      "image_url": null,
+      "published": "2026-10-16T11:00:00-04:00",
+      "source": "2026-10-16_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1100-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1100-edt-1",
+      "title": "Five tribal operators sign distribution partnerships with Kalshi",
+      "content_text": "- **Five tribal operators sign distribution partnerships with Kalshi** — Kalshi's tribal expansion began in September with the Tunica-Biloxi Tribe of Louisiana and continued on October 7 with four more partnerships in Oklahoma and California. The ventures give participating tribes their own consumer-facing apps for Kalshi event contracts, with one platform, PokkeTrades, expected to launch in November 2026. ([Gambling Insider](https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits))",
+      "content_html": "<p>- **Five tribal operators sign distribution partnerships with Kalshi** — Kalshi&#x27;s tribal expansion began in September with the Tunica-Biloxi Tribe of Louisiana and continued on October 7 with four more partnerships in Oklahoma and California. The ventures give participating tribes their own consumer-facing apps for Kalshi event contracts, with one platform, PokkeTrades, expected to launch in November 2026. ([Gambling Insider](https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits))</p>",
+      "date_published": "2026-10-16T11:00:00-04:00",
+      "date_modified": "2026-10-16T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits",
+      "links": [
+        "https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 AM ET",
+      "body": "- **Five tribal operators sign distribution partnerships with Kalshi** — Kalshi's tribal expansion began in September with the Tunica-Biloxi Tribe of Louisiana and continued on October 7 with four more partnerships in Oklahoma and California. The ventures give participating tribes their own consumer-facing apps for Kalshi event contracts, with one platform, PokkeTrades, expected to launch in November 2026. ([Gambling Insider](https://www.gamblinginsider.com/news/196909/kalshi-partnerships-tribes-lawsuits))",
+      "image_url": null,
+      "published": "2026-10-16T11:00:00-04:00",
+      "source": "2026-10-16_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1100-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1100-edt-2",
+      "title": "Kalshi Senate guide prices Pappas at 89 percent in New Hampshire and Cooper at 95 percent in North Carolina",
+      "content_text": "- **Kalshi Senate guide prices Pappas at 89 percent in New Hampshire and Cooper at 95 percent in North Carolina** — Kalshi's Senate control guide, using odds as of 5:43 PM ET on October 15, lists Chris Pappas at 89 percent in New Hampshire and Roy Cooper at 95 percent in North Carolina. Both seats are rated as leaning or likely Democratic in the guide's summary of races that could decide Senate control. ([Kalshi News](https://news.kalshi.com/p/who-will-control-the-senate-2026))",
+      "content_html": "<p>- **Kalshi Senate guide prices Pappas at 89 percent in New Hampshire and Cooper at 95 percent in North Carolina** — Kalshi&#x27;s Senate control guide, using odds as of 5:43 PM ET on October 15, lists Chris Pappas at 89 percent in New Hampshire and Roy Cooper at 95 percent in North Carolina. Both seats are rated as leaning or likely Democratic in the guide&#x27;s summary of races that could decide Senate control. ([Kalshi News](https://news.kalshi.com/p/who-will-control-the-senate-2026))</p>",
+      "date_published": "2026-10-16T11:00:00-04:00",
+      "date_modified": "2026-10-16T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://news.kalshi.com/p/who-will-control-the-senate-2026",
+      "links": [
+        "https://news.kalshi.com/p/who-will-control-the-senate-2026"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 AM ET",
+      "body": "- **Kalshi Senate guide prices Pappas at 89 percent in New Hampshire and Cooper at 95 percent in North Carolina** — Kalshi's Senate control guide, using odds as of 5:43 PM ET on October 15, lists Chris Pappas at 89 percent in New Hampshire and Roy Cooper at 95 percent in North Carolina. Both seats are rated as leaning or likely Democratic in the guide's summary of races that could decide Senate control. ([Kalshi News](https://news.kalshi.com/p/who-will-control-the-senate-2026))",
+      "image_url": null,
+      "published": "2026-10-16T11:00:00-04:00",
+      "source": "2026-10-16_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1100-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1100-edt-3",
+      "title": "Polymarket prices Brewers at 65 percent to win the World Series after sweeping the Dodgers",
+      "content_text": "- **Polymarket prices Brewers at 65 percent to win the World Series after sweeping the Dodgers** — Milwaukee completed an NLCS sweep of Los Angeles to reach its first World Series since 1982. Polymarket-sourced World Series odds list the Brewers at 65 percent, ahead of the Cleveland Guardians at 21 percent and the Tampa Bay Rays at 15 percent while the ALCS continues. ([OddsShark](https://www.oddsshark.com/mlb/mlb-2017-world-series-odds-tracker))",
+      "content_html": "<p>- **Polymarket prices Brewers at 65 percent to win the World Series after sweeping the Dodgers** — Milwaukee completed an NLCS sweep of Los Angeles to reach its first World Series since 1982. Polymarket-sourced World Series odds list the Brewers at 65 percent, ahead of the Cleveland Guardians at 21 percent and the Tampa Bay Rays at 15 percent while the ALCS continues. ([OddsShark](https://www.oddsshark.com/mlb/mlb-2017-world-series-odds-tracker))</p>",
+      "date_published": "2026-10-16T11:00:00-04:00",
+      "date_modified": "2026-10-16T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.oddsshark.com/mlb/mlb-2017-world-series-odds-tracker",
+      "links": [
+        "https://www.oddsshark.com/mlb/mlb-2017-world-series-odds-tracker"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 AM ET",
+      "body": "- **Polymarket prices Brewers at 65 percent to win the World Series after sweeping the Dodgers** — Milwaukee completed an NLCS sweep of Los Angeles to reach its first World Series since 1982. Polymarket-sourced World Series odds list the Brewers at 65 percent, ahead of the Cleveland Guardians at 21 percent and the Tampa Bay Rays at 15 percent while the ALCS continues. ([OddsShark](https://www.oddsshark.com/mlb/mlb-2017-world-series-odds-tracker))",
+      "image_url": null,
+      "published": "2026-10-16T11:00:00-04:00",
+      "source": "2026-10-16_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_1100-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1100-edt-4",
+      "title": "Polymarket number two free app market for October 16 leads with Vinted at 94 percent",
+      "content_text": "- **Polymarket number two free app market for October 16 leads with Vinted at 94 percent** — Polymarket's market for the number two free app in the US Apple App Store on October 16 leads with Vinted, a pre-loved marketplace app, at 94 percent. ChatGPT is next at 21 percent in the six-outcome market, which was launched on October 12. ([Polymarket](https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012))",
+      "content_html": "<p>- **Polymarket number two free app market for October 16 leads with Vinted at 94 percent** — Polymarket&#x27;s market for the number two free app in the US Apple App Store on October 16 leads with Vinted, a pre-loved marketplace app, at 94 percent. ChatGPT is next at 21 percent in the six-outcome market, which was launched on October 12. ([Polymarket](https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012))</p>",
+      "date_published": "2026-10-16T11:00:00-04:00",
+      "date_modified": "2026-10-16T11:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012",
+      "links": [
+        "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 AM ET",
+      "body": "- **Polymarket number two free app market for October 16 leads with Vinted at 94 percent** — Polymarket's market for the number two free app in the US Apple App Store on October 16 leads with Vinted, a pre-loved marketplace app, at 94 percent. ChatGPT is next at 21 percent in the six-outcome market, which was launched on October 12. ([Polymarket](https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012))",
+      "image_url": null,
+      "published": "2026-10-16T11:00:00-04:00",
+      "source": "2026-10-16_1100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_1054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nDominika Salkova wins priced at 62% on Kalshi, on $1.1M traded\nPredictionBubbles' new-markets board lists the contract, created about 14 hours ago, at 62.0% — a contract not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nAt least 10,000 measles cases in the U.S. in 2026 at 7.4% on Polymarket\nPredictionBubbles' climate board lists the public-health contract at 7.4% — a contract not featured in any earlier edition today, in a climate/science category distinct…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nRecession in 2026 at 5.0% on Kalshi\nPredictionBubbles' Other board lists the recession contract at 5.0% on Kalshi — a contract not featured in any earlier edition today, in a finance category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Dominika Salkova wins priced at 62% on Kalshi, on $1.1M traded<br/>PredictionBubbles&#x27; new-markets board lists the contract, created about 14 hours ago, at 62.0% — a contract not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>At least 10,000 measles cases in the U.S. in 2026 at 7.4% on Polymarket<br/>PredictionBubbles&#x27; climate board lists the public-health contract at 7.4% — a contract not featured in any earlier edition today, in a climate/science category distinct…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/<br/><br/>Recession in 2026 at 5.0% on Kalshi<br/>PredictionBubbles&#x27; Other board lists the recession contract at 5.0% on Kalshi — a contract not featured in any earlier edition today, in a finance category distinct from…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T10:54:00-04:00",
+      "date_modified": "2026-10-16T10:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:54 AM ET",
+      "body": "Infiniti Briefing\n\nDominika Salkova wins priced at 62% on Kalshi, on $1.1M traded\nPredictionBubbles' new-markets board lists the contract, created about 14 hours ago, at 62.0% — a contract not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nAt least 10,000 measles cases in the U.S. in 2026 at 7.4% on Polymarket\nPredictionBubbles' climate board lists the public-health contract at 7.4% — a contract not featured in any earlier edition today, in a climate/science category distinct…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nRecession in 2026 at 5.0% on Kalshi\nPredictionBubbles' Other board lists the recession contract at 5.0% on Kalshi — a contract not featured in any earlier edition today, in a finance category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T10:54:00-04:00",
+      "source": "2026-10-16_1054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_1045-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1045-edt-0",
@@ -4500,190 +4678,6 @@
       "image_url": null,
       "published": "2026-10-16T03:00:00-04:00",
       "source": "2026-10-16_0300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0300-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0300-edt-1",
-      "title": "CFTC proposals would define event contracts as swaps while excluding casino-style gambling",
-      "content_text": "- **CFTC proposals would define event contracts as swaps while excluding casino-style gambling** — The Commodity Futures Trading Commission issued two measures on October 9 that would expressly include sports, political, cultural and weather event contracts in the swap definition, while an interim final rule excludes casino-style gambling products, with 30-day comment periods for both. ([CDC Gaming](https://cdcgaming.com/cftc-proposes-rules-to-confirm-prediction-market-authority/))",
-      "content_html": "<p>- **CFTC proposals would define event contracts as swaps while excluding casino-style gambling** — The Commodity Futures Trading Commission issued two measures on October 9 that would expressly include sports, political, cultural and weather event contracts in the swap definition, while an interim final rule excludes casino-style gambling products, with 30-day comment periods for both. ([CDC Gaming](https://cdcgaming.com/cftc-proposes-rules-to-confirm-prediction-market-authority/))</p>",
-      "date_published": "2026-10-16T03:00:00-04:00",
-      "date_modified": "2026-10-16T03:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://cdcgaming.com/cftc-proposes-rules-to-confirm-prediction-market-authority/",
-      "links": [
-        "https://cdcgaming.com/cftc-proposes-rules-to-confirm-prediction-market-authority/"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:00 AM ET",
-      "body": "- **CFTC proposals would define event contracts as swaps while excluding casino-style gambling** — The Commodity Futures Trading Commission issued two measures on October 9 that would expressly include sports, political, cultural and weather event contracts in the swap definition, while an interim final rule excludes casino-style gambling products, with 30-day comment periods for both. ([CDC Gaming](https://cdcgaming.com/cftc-proposes-rules-to-confirm-prediction-market-authority/))",
-      "image_url": null,
-      "published": "2026-10-16T03:00:00-04:00",
-      "source": "2026-10-16_0300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_0254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_0254-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nSenate control pending oil below $85: Oil at or above $85 with a Democratic Senate leads at 51% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh combo contract leads, in a political/election category different from the…\n#PredictionMarkets #Polymarket #Senate #Oil\nhttps://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms\n\nLargest Company end of October: NVIDIA at 85% on Polymarket, Apple at 13%\nPrice has genuinely moved from the 79% NVIDIA / 23% Apple reading carried Oct. 15, so it runs only as a supporting bullet and not as a lead. The nine-outcome book,…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/largest-company-end-of-october-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Senate control pending oil below $85: Oil at or above $85 with a Democratic Senate leads at 51% on Polymarket<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh combo contract leads, in a political/election category different from the…<br/>#PredictionMarkets #Polymarket #Senate #Oil<br/>https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms<br/><br/>Largest Company end of October: NVIDIA at 85% on Polymarket, Apple at 13%<br/>Price has genuinely moved from the 79% NVIDIA / 23% Apple reading carried Oct. 15, so it runs only as a supporting bullet and not as a lead. The nine-outcome book,…<br/>#PredictionMarkets #Polymarket<br/>https://polymarket.com/event/largest-company-end-of-october-2026<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T02:54:00-04:00",
-      "date_modified": "2026-10-16T02:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Senate",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms",
-      "links": [
-        "https://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms",
-        "https://polymarket.com/event/largest-company-end-of-october-2026"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:54 AM ET",
-      "body": "Infiniti Briefing\n\nSenate control pending oil below $85: Oil at or above $85 with a Democratic Senate leads at 51% on Polymarket\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh combo contract leads, in a political/election category different from the…\n#PredictionMarkets #Polymarket #Senate #Oil\nhttps://polymarket.com/event/who-wins-the-senate-pending-oil-below-85-before-the-midterms\n\nLargest Company end of October: NVIDIA at 85% on Polymarket, Apple at 13%\nPrice has genuinely moved from the 79% NVIDIA / 23% Apple reading carried Oct. 15, so it runs only as a supporting bullet and not as a lead. The nine-outcome book,…\n#PredictionMarkets #Polymarket\nhttps://polymarket.com/event/largest-company-end-of-october-2026\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T02:54:00-04:00",
-      "source": "2026-10-16_0254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0245-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0245-edt-0",
-      "title": "Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket",
-      "content_text": "- **Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket** — Senator Richard Blumenthal said he plans to question DraftKings and prediction market platforms Kalshi and Polymarket about VIP programs and consumer safeguards, after criticizing FanDuel responses to lawmakers. The inquiry links prediction markets to the same responsible gambling scrutiny as traditional sportsbooks. ([Bonus.com](https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/))",
-      "content_html": "<p>- **Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket** — Senator Richard Blumenthal said he plans to question DraftKings and prediction market platforms Kalshi and Polymarket about VIP programs and consumer safeguards, after criticizing FanDuel responses to lawmakers. The inquiry links prediction markets to the same responsible gambling scrutiny as traditional sportsbooks. ([Bonus.com](https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/))</p>",
-      "date_published": "2026-10-16T02:45:00-04:00",
-      "date_modified": "2026-10-16T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/",
-      "links": [
-        "https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:45 AM ET",
-      "body": "- **Blumenthal expands VIP betting scrutiny to DraftKings, Kalshi and Polymarket** — Senator Richard Blumenthal said he plans to question DraftKings and prediction market platforms Kalshi and Polymarket about VIP programs and consumer safeguards, after criticizing FanDuel responses to lawmakers. The inquiry links prediction markets to the same responsible gambling scrutiny as traditional sportsbooks. ([Bonus.com](https://www.bonus.com/news/blumenthal-expands-vip-betting-scrutiny-to-draftkings-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-16T02:45:00-04:00",
-      "source": "2026-10-16_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0245-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0245-edt-1",
-      "title": "Polymarket leads US prediction market search demand despite Kalshi trading dominance",
-      "content_text": "- **Polymarket leads US prediction market search demand despite Kalshi trading dominance** — Analytics firm Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent, down from 74.3 percent, while Kalshi rose to 35.8 percent. In August, Kalshi recorded 37.17 billion dollars in volume compared with 8.16 billion dollars across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "content_html": "<p>- **Polymarket leads US prediction market search demand despite Kalshi trading dominance** — Analytics firm Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent, down from 74.3 percent, while Kalshi rose to 35.8 percent. In August, Kalshi recorded 37.17 billion dollars in volume compared with 8.16 billion dollars across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))</p>",
-      "date_published": "2026-10-16T02:45:00-04:00",
-      "date_modified": "2026-10-16T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand",
-      "links": [
-        "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:45 AM ET",
-      "body": "- **Polymarket leads US prediction market search demand despite Kalshi trading dominance** — Analytics firm Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent, down from 74.3 percent, while Kalshi rose to 35.8 percent. In August, Kalshi recorded 37.17 billion dollars in volume compared with 8.16 billion dollars across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "image_url": null,
-      "published": "2026-10-16T02:45:00-04:00",
-      "source": "2026-10-16_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0245-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0245-edt-2",
-      "title": "Kalshi ends Volume Incentive Program effective October 13",
-      "content_text": "- **Kalshi ends Volume Incentive Program effective October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program effective no earlier than October 13, 2026, replacing a previous end date of October 1, 2027. The program awarded eligible participants a share of per-market rewards based on qualifying trading volume. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))",
-      "content_html": "<p>- **Kalshi ends Volume Incentive Program effective October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program effective no earlier than October 13, 2026, replacing a previous end date of October 1, 2027. The program awarded eligible participants a share of per-market rewards based on qualifying trading volume. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))</p>",
-      "date_published": "2026-10-16T02:45:00-04:00",
-      "date_modified": "2026-10-16T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://crypto-economy.com/kalshi-ends-volume-rewards-program/",
-      "links": [
-        "https://crypto-economy.com/kalshi-ends-volume-rewards-program/"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:45 AM ET",
-      "body": "- **Kalshi ends Volume Incentive Program effective October 13** — KalshiEX notified the CFTC on September 28 that it is terminating its Volume Incentive Program effective no earlier than October 13, 2026, replacing a previous end date of October 1, 2027. The program awarded eligible participants a share of per-market rewards based on qualifying trading volume. ([Crypto Economy](https://crypto-economy.com/kalshi-ends-volume-rewards-program/))",
-      "image_url": null,
-      "published": "2026-10-16T02:45:00-04:00",
-      "source": "2026-10-16_0245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_0245-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_0245-edt-3",
-      "title": "Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love",
-      "content_text": "- **Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love** — Kalshi customers traded 598,464 contracts on Jeremiyah Love being the third pick in the 2026 NFL draft, more than on any other player, with nearly three quarters of that volume on April 23. Arizona and Massachusetts gaming regulators are reviewing licensed sportsbooks on the pick, while no regulator has said it is examining Kalshi or Polymarket. ([Gambling Insider](https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators))",
-      "content_html": "<p>- **Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love** — Kalshi customers traded 598,464 contracts on Jeremiyah Love being the third pick in the 2026 NFL draft, more than on any other player, with nearly three quarters of that volume on April 23. Arizona and Massachusetts gaming regulators are reviewing licensed sportsbooks on the pick, while no regulator has said it is examining Kalshi or Polymarket. ([Gambling Insider](https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators))</p>",
-      "date_published": "2026-10-16T02:45:00-04:00",
-      "date_modified": "2026-10-16T02:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators",
-      "links": [
-        "https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:45 AM ET",
-      "body": "- **Kalshi traded 598,464 contracts on Cardinals draft pick Jeremiyah Love** — Kalshi customers traded 598,464 contracts on Jeremiyah Love being the third pick in the 2026 NFL draft, more than on any other player, with nearly three quarters of that volume on April 23. Arizona and Massachusetts gaming regulators are reviewing licensed sportsbooks on the pick, while no regulator has said it is examining Kalshi or Polymarket. ([Gambling Insider](https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators))",
-      "image_url": null,
-      "published": "2026-10-16T02:45:00-04:00",
-      "source": "2026-10-16_0245-edt.json",
       "matches_facebook_post": false
     }
   ]
