@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T22:18:46.633517-04:00",
+  "updated": "2026-10-16T22:33:48.698543-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_2230-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2230-edt-0",
+      "title": "Prediction market volume reaches 188 billion dollars in third quarter as Kalshi sports trading leads",
+      "content_text": "- **Prediction market volume reaches 188 billion dollars in third quarter as Kalshi sports trading leads** — Trading volume reached 188 billion dollars in the third quarter of 2026, up nearly 70 percent from the prior quarter, with sports accounting for 40 percent of Kalshi volume in the period. The report also cites analysis that 69.2 percent of 2.9 million retail Polymarket accounts were below break-even. ([Zubiqo](https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc))",
+      "content_html": "<p>- **Prediction market volume reaches 188 billion dollars in third quarter as Kalshi sports trading leads** — Trading volume reached 188 billion dollars in the third quarter of 2026, up nearly 70 percent from the prior quarter, with sports accounting for 40 percent of Kalshi volume in the period. The report also cites analysis that 69.2 percent of 2.9 million retail Polymarket accounts were below break-even. ([Zubiqo](https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc))</p>",
+      "date_published": "2026-10-16T22:30:00-04:00",
+      "date_modified": "2026-10-16T22:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc",
+      "links": [
+        "https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 PM ET",
+      "body": "- **Prediction market volume reaches 188 billion dollars in third quarter as Kalshi sports trading leads** — Trading volume reached 188 billion dollars in the third quarter of 2026, up nearly 70 percent from the prior quarter, with sports accounting for 40 percent of Kalshi volume in the period. The report also cites analysis that 69.2 percent of 2.9 million retail Polymarket accounts were below break-even. ([Zubiqo](https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc))",
+      "image_url": null,
+      "published": "2026-10-16T22:30:00-04:00",
+      "source": "2026-10-16_2230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2230-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2230-edt-1",
+      "title": "UK financial regulator confirms talks with prediction market operators on possible entry",
+      "content_text": "- **UK financial regulator confirms talks with prediction market operators on possible entry** — The Financial Conduct Authority has held talks with prediction market operators about UK entry, its markets chief confirmed on October 6. Any launch would still face the retail binary options ban in place since 2019 and separate gambling licensing for sports and political contracts. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))",
+      "content_html": "<p>- **UK financial regulator confirms talks with prediction market operators on possible entry** — The Financial Conduct Authority has held talks with prediction market operators about UK entry, its markets chief confirmed on October 6. Any launch would still face the retail binary options ban in place since 2019 and separate gambling licensing for sports and political contracts. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))</p>",
+      "date_published": "2026-10-16T22:30:00-04:00",
+      "date_modified": "2026-10-16T22:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/",
+      "links": [
+        "https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 PM ET",
+      "body": "- **UK financial regulator confirms talks with prediction market operators on possible entry** — The Financial Conduct Authority has held talks with prediction market operators about UK entry, its markets chief confirmed on October 6. Any launch would still face the retail binary options ban in place since 2019 and separate gambling licensing for sports and political contracts. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))",
+      "image_url": null,
+      "published": "2026-10-16T22:30:00-04:00",
+      "source": "2026-10-16_2230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2230-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2230-edt-2",
+      "title": "October Fed hike odds fall from 66.5 percent to 33.5 percent on Polymarket in two trading bursts",
+      "content_text": "- **October Fed hike odds fall from 66.5 percent to 33.5 percent on Polymarket in two trading bursts** — An analysis of Kalshi and Polymarket trade data shows the October Fed hike contract fell from 66.5 percent on September 25 to 33.5 percent on September 30, with most of the move in two one-hour bursts. By October 11 readings, the Kalshi contract was near 16 percent. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))",
+      "content_html": "<p>- **October Fed hike odds fall from 66.5 percent to 33.5 percent on Polymarket in two trading bursts** — An analysis of Kalshi and Polymarket trade data shows the October Fed hike contract fell from 66.5 percent on September 25 to 33.5 percent on September 30, with most of the move in two one-hour bursts. By October 11 readings, the Kalshi contract was near 16 percent. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))</p>",
+      "date_published": "2026-10-16T22:30:00-04:00",
+      "date_modified": "2026-10-16T22:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/",
+      "links": [
+        "https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 PM ET",
+      "body": "- **October Fed hike odds fall from 66.5 percent to 33.5 percent on Polymarket in two trading bursts** — An analysis of Kalshi and Polymarket trade data shows the October Fed hike contract fell from 66.5 percent on September 25 to 33.5 percent on September 30, with most of the move in two one-hour bursts. By October 11 readings, the Kalshi contract was near 16 percent. ([CleanSky](https://cleansky.io/blog/october-fed-hike-odds-halved-two-bursts-kalshi-polymarket-2026/))",
+      "image_url": null,
+      "published": "2026-10-16T22:30:00-04:00",
+      "source": "2026-10-16_2230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2230-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2230-edt-3",
+      "title": "Prediction market trading fees converge around Kalshi formula across US apps",
+      "content_text": "- **Prediction market trading fees converge around Kalshi formula across US apps** — A fee comparison checked on October 2 finds Polymarket US, Gemini, OG and Crypto.com now use a formula similar to Kalshi, capped near 1.75 cents per contract at a 50 cent price. Flat-fee apps charge up to 2 cents per contract, while PredictIt dropped its 5 percent withdrawal fee in September. ([DeFi Rate](https://defirate.com/prediction-markets/fees/))",
+      "content_html": "<p>- **Prediction market trading fees converge around Kalshi formula across US apps** — A fee comparison checked on October 2 finds Polymarket US, Gemini, OG and Crypto.com now use a formula similar to Kalshi, capped near 1.75 cents per contract at a 50 cent price. Flat-fee apps charge up to 2 cents per contract, while PredictIt dropped its 5 percent withdrawal fee in September. ([DeFi Rate](https://defirate.com/prediction-markets/fees/))</p>",
+      "date_published": "2026-10-16T22:30:00-04:00",
+      "date_modified": "2026-10-16T22:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "PredictIt"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/prediction-markets/fees/",
+      "links": [
+        "https://defirate.com/prediction-markets/fees/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 PM ET",
+      "body": "- **Prediction market trading fees converge around Kalshi formula across US apps** — A fee comparison checked on October 2 finds Polymarket US, Gemini, OG and Crypto.com now use a formula similar to Kalshi, capped near 1.75 cents per contract at a 50 cent price. Flat-fee apps charge up to 2 cents per contract, while PredictIt dropped its 5 percent withdrawal fee in September. ([DeFi Rate](https://defirate.com/prediction-markets/fees/))",
+      "image_url": null,
+      "published": "2026-10-16T22:30:00-04:00",
+      "source": "2026-10-16_2230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2230-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2230-edt-4",
+      "title": "Courts split on whether sports prediction contracts are gambling as monthly volume reaches 53 billion dollars",
+      "content_text": "- **Courts split on whether sports prediction contracts are gambling as monthly volume reaches 53 billion dollars** — Combined Kalshi and Polymarket volume rose to about 53 billion dollars in July 2026, with sports as the largest category, according to a Pew analysis cited in the report. Courts remain split, with the Third Circuit backing federal preemption in New Jersey and the Ninth Circuit taking a different view in Nevada and tribal cases. ([CCN](https://www.ccn.com/education/gambling/prediction-markets-53b-kalshi-polymarket-gambling-sports/))",
+      "content_html": "<p>- **Courts split on whether sports prediction contracts are gambling as monthly volume reaches 53 billion dollars** — Combined Kalshi and Polymarket volume rose to about 53 billion dollars in July 2026, with sports as the largest category, according to a Pew analysis cited in the report. Courts remain split, with the Third Circuit backing federal preemption in New Jersey and the Ninth Circuit taking a different view in Nevada and tribal cases. ([CCN](https://www.ccn.com/education/gambling/prediction-markets-53b-kalshi-polymarket-gambling-sports/))</p>",
+      "date_published": "2026-10-16T22:30:00-04:00",
+      "date_modified": "2026-10-16T22:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.ccn.com/education/gambling/prediction-markets-53b-kalshi-polymarket-gambling-sports/",
+      "links": [
+        "https://www.ccn.com/education/gambling/prediction-markets-53b-kalshi-polymarket-gambling-sports/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:30 PM ET",
+      "body": "- **Courts split on whether sports prediction contracts are gambling as monthly volume reaches 53 billion dollars** — Combined Kalshi and Polymarket volume rose to about 53 billion dollars in July 2026, with sports as the largest category, according to a Pew analysis cited in the report. Courts remain split, with the Third Circuit backing federal preemption in New Jersey and the Ninth Circuit taking a different view in Nevada and tribal cases. ([CCN](https://www.ccn.com/education/gambling/prediction-markets-53b-kalshi-polymarket-gambling-sports/))",
+      "image_url": null,
+      "published": "2026-10-16T22:30:00-04:00",
+      "source": "2026-10-16_2230-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_2224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2224-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nChicago win the 2027 Pro Football Championship priced at 5% on Kalshi, up 2 points, on $9.6M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category different from the previous…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nKash Patel leaves Director of the FBI before 2027 priced at 20% on Kalshi, up 3 points, on $1.3M traded\nPredictionBubbles ranks the cabinet-exit contract among the day's upward moves — a contract not featured in any earlier edition today, in a political category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Chicago win the 2027 Pro Football Championship priced at 5% on Kalshi, up 2 points, on $9.6M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category different from the previous…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Kash Patel leaves Director of the FBI before 2027 priced at 20% on Kalshi, up 3 points, on $1.3M traded<br/>PredictionBubbles ranks the cabinet-exit contract among the day&#x27;s upward moves — a contract not featured in any earlier edition today, in a political category distinct…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T22:24:00-04:00",
+      "date_modified": "2026-10-16T22:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin",
+        "Gold",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/sports/",
+      "links": [
+        "https://predictionbubbles.net/markets/sports/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:24 PM ET",
+      "body": "Infiniti Briefing\n\nChicago win the 2027 Pro Football Championship priced at 5% on Kalshi, up 2 points, on $9.6M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category different from the previous…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nKash Patel leaves Director of the FBI before 2027 priced at 20% on Kalshi, up 3 points, on $1.3M traded\nPredictionBubbles ranks the cabinet-exit contract among the day's upward moves — a contract not featured in any earlier edition today, in a political category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T22:24:00-04:00",
+      "source": "2026-10-16_2224-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_2215-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2215-edt-0",
@@ -4484,183 +4667,6 @@
       "image_url": null,
       "published": "2026-10-16T14:45:00-04:00",
       "source": "2026-10-16_1445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1445-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1445-edt-4",
-      "title": "October prediction market volume reached 8.7 billion dollars, with Kalshi leading on share",
-      "content_text": "- **October prediction market volume reached 8.7 billion dollars, with Kalshi leading on share** — Data cited by Gate put October nominal prediction market volume at 8.7 billion dollars across about 30 million trades and 524,200 users, of which 40.4 percent were new. Kalshi was reported leading with a 45 to 55 percent share, followed by Polymarket. ([Gate News](https://www.gate.com/news/detail/15568934))",
-      "content_html": "<p>- **October prediction market volume reached 8.7 billion dollars, with Kalshi leading on share** — Data cited by Gate put October nominal prediction market volume at 8.7 billion dollars across about 30 million trades and 524,200 users, of which 40.4 percent were new. Kalshi was reported leading with a 45 to 55 percent share, followed by Polymarket. ([Gate News](https://www.gate.com/news/detail/15568934))</p>",
-      "date_published": "2026-10-16T14:45:00-04:00",
-      "date_modified": "2026-10-16T14:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.gate.com/news/detail/15568934",
-      "links": [
-        "https://www.gate.com/news/detail/15568934"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:45 PM ET",
-      "body": "- **October prediction market volume reached 8.7 billion dollars, with Kalshi leading on share** — Data cited by Gate put October nominal prediction market volume at 8.7 billion dollars across about 30 million trades and 524,200 users, of which 40.4 percent were new. Kalshi was reported leading with a 45 to 55 percent share, followed by Polymarket. ([Gate News](https://www.gate.com/news/detail/15568934))",
-      "image_url": null,
-      "published": "2026-10-16T14:45:00-04:00",
-      "source": "2026-10-16_1445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_1439-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1439-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nMarvin Moeller wins priced at 25% on Kalshi, on $1.8M traded, in a newly listed market\nNo significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category distinct from the previous three leads…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nGianluca Cadenasso wins priced at 76% on Kalshi, on $1.1M traded, in a newly listed market\nPredictionBubbles' new-markets board lists the tennis contract, created about 14 hours ago and resolving in about 13 days 21 hours — a matchup not featured in any…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Marvin Moeller wins priced at 25% on Kalshi, on $1.8M traded, in a newly listed market<br/>No significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category distinct from the previous three leads…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>Gianluca Cadenasso wins priced at 76% on Kalshi, on $1.1M traded, in a newly listed market<br/>PredictionBubbles&#x27; new-markets board lists the tennis contract, created about 14 hours ago and resolving in about 13 days 21 hours — a matchup not featured in any…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T14:39:00-04:00",
-      "date_modified": "2026-10-16T14:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Oil",
-        "Bitcoin",
-        "Silver",
-        "Natural Gas"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/",
-      "links": [
-        "https://predictionbubbles.net/markets/"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:39 PM ET",
-      "body": "Infiniti Briefing\n\nMarvin Moeller wins priced at 25% on Kalshi, on $1.8M traded, in a newly listed market\nNo significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category distinct from the previous three leads…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nGianluca Cadenasso wins priced at 76% on Kalshi, on $1.1M traded, in a newly listed market\nPredictionBubbles' new-markets board lists the tennis contract, created about 14 hours ago and resolving in about 13 days 21 hours — a matchup not featured in any…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T14:39:00-04:00",
-      "source": "2026-10-16_1439-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1430-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1430-edt-0",
-      "title": "PredictArena launches prediction market for the creator economy with Crypto.com Derivatives North America",
-      "content_text": "- **PredictArena launches prediction market for the creator economy with Crypto.com Derivatives North America** — PredictArena launched its prediction market platform with an introducing broker tie-up with Crypto.com Derivatives North America, introducing event contracts aimed at the creator economy. The company said a mobile application is scheduled to launch in the coming weeks. ([Basis Desk](https://basisdesk.news/news/predictarena-launches-prediction-market-crypto-com-derivatives))",
-      "content_html": "<p>- **PredictArena launches prediction market for the creator economy with Crypto.com Derivatives North America** — PredictArena launched its prediction market platform with an introducing broker tie-up with Crypto.com Derivatives North America, introducing event contracts aimed at the creator economy. The company said a mobile application is scheduled to launch in the coming weeks. ([Basis Desk](https://basisdesk.news/news/predictarena-launches-prediction-market-crypto-com-derivatives))</p>",
-      "date_published": "2026-10-16T14:30:00-04:00",
-      "date_modified": "2026-10-16T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://basisdesk.news/news/predictarena-launches-prediction-market-crypto-com-derivatives",
-      "links": [
-        "https://basisdesk.news/news/predictarena-launches-prediction-market-crypto-com-derivatives"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:30 PM ET",
-      "body": "- **PredictArena launches prediction market for the creator economy with Crypto.com Derivatives North America** — PredictArena launched its prediction market platform with an introducing broker tie-up with Crypto.com Derivatives North America, introducing event contracts aimed at the creator economy. The company said a mobile application is scheduled to launch in the coming weeks. ([Basis Desk](https://basisdesk.news/news/predictarena-launches-prediction-market-crypto-com-derivatives))",
-      "image_url": null,
-      "published": "2026-10-16T14:30:00-04:00",
-      "source": "2026-10-16_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1430-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1430-edt-1",
-      "title": "Hacksaw Group launches B2B peer-to-peer prediction market platform for operators",
-      "content_text": "- **Hacksaw Group launches B2B peer-to-peer prediction market platform for operators** — Hacksaw Group launched a business-to-business platform that lets operators offer peer-to-peer prediction markets under their own brands using Hacksaw technology. The company said Malta approved an extension of its B2B licence to cover those services, and cited a Bernstein estimate that market-wide annual volume could reach about 1 trillion dollars by 2030. ([ReadWrite](https://readwrite.com/prediction-markets-hacksaw-platform/))",
-      "content_html": "<p>- **Hacksaw Group launches B2B peer-to-peer prediction market platform for operators** — Hacksaw Group launched a business-to-business platform that lets operators offer peer-to-peer prediction markets under their own brands using Hacksaw technology. The company said Malta approved an extension of its B2B licence to cover those services, and cited a Bernstein estimate that market-wide annual volume could reach about 1 trillion dollars by 2030. ([ReadWrite](https://readwrite.com/prediction-markets-hacksaw-platform/))</p>",
-      "date_published": "2026-10-16T14:30:00-04:00",
-      "date_modified": "2026-10-16T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://readwrite.com/prediction-markets-hacksaw-platform/",
-      "links": [
-        "https://readwrite.com/prediction-markets-hacksaw-platform/"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:30 PM ET",
-      "body": "- **Hacksaw Group launches B2B peer-to-peer prediction market platform for operators** — Hacksaw Group launched a business-to-business platform that lets operators offer peer-to-peer prediction markets under their own brands using Hacksaw technology. The company said Malta approved an extension of its B2B licence to cover those services, and cited a Bernstein estimate that market-wide annual volume could reach about 1 trillion dollars by 2030. ([ReadWrite](https://readwrite.com/prediction-markets-hacksaw-platform/))",
-      "image_url": null,
-      "published": "2026-10-16T14:30:00-04:00",
-      "source": "2026-10-16_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1430-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1430-edt-2",
-      "title": "Kalshi market prices a Tesla and SpaceX merger before 2028 at 72 percent",
-      "content_text": "- **Kalshi market prices a Tesla and SpaceX merger before 2028 at 72 percent** — A Kalshi View snapshot on October 16 at 11:20 UTC priced a Tesla and SpaceX merger before 2028 at 72 percent, with the before May 1, 2027 outcome at 60 percent, up 7 points. The event had traded 1.4 million contracts in total, including 23,200 in the previous 24 hours. ([Kalshi View](https://kalshiview.com/markets/when-will-tesla-and-spacex-merge/))",
-      "content_html": "<p>- **Kalshi market prices a Tesla and SpaceX merger before 2028 at 72 percent** — A Kalshi View snapshot on October 16 at 11:20 UTC priced a Tesla and SpaceX merger before 2028 at 72 percent, with the before May 1, 2027 outcome at 60 percent, up 7 points. The event had traded 1.4 million contracts in total, including 23,200 in the previous 24 hours. ([Kalshi View](https://kalshiview.com/markets/when-will-tesla-and-spacex-merge/))</p>",
-      "date_published": "2026-10-16T14:30:00-04:00",
-      "date_modified": "2026-10-16T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://kalshiview.com/markets/when-will-tesla-and-spacex-merge/",
-      "links": [
-        "https://kalshiview.com/markets/when-will-tesla-and-spacex-merge/"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:30 PM ET",
-      "body": "- **Kalshi market prices a Tesla and SpaceX merger before 2028 at 72 percent** — A Kalshi View snapshot on October 16 at 11:20 UTC priced a Tesla and SpaceX merger before 2028 at 72 percent, with the before May 1, 2027 outcome at 60 percent, up 7 points. The event had traded 1.4 million contracts in total, including 23,200 in the previous 24 hours. ([Kalshi View](https://kalshiview.com/markets/when-will-tesla-and-spacex-merge/))",
-      "image_url": null,
-      "published": "2026-10-16T14:30:00-04:00",
-      "source": "2026-10-16_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1430-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1430-edt-3",
-      "title": "Polymarket trader earns nearly 1 million dollars on Google search trend bets, prompting insider-trading debate",
-      "content_text": "- **Polymarket trader earns nearly 1 million dollars on Google search trend bets, prompting insider-trading debate** — A Polymarket wallet netted nearly 1 million dollars after correctly predicting most outcomes in Google Year in Search trend markets, according to the report. The report notes the insider allegations are community speculation based on the winning streak, with no confirmation the trader is a Google insider. ([BitRss](https://bitrss.com/polymarket-trader-makes-1-million-on-google-search-bets-sparking-insider-trading-fears-157570))",
-      "content_html": "<p>- **Polymarket trader earns nearly 1 million dollars on Google search trend bets, prompting insider-trading debate** — A Polymarket wallet netted nearly 1 million dollars after correctly predicting most outcomes in Google Year in Search trend markets, according to the report. The report notes the insider allegations are community speculation based on the winning streak, with no confirmation the trader is a Google insider. ([BitRss](https://bitrss.com/polymarket-trader-makes-1-million-on-google-search-bets-sparking-insider-trading-fears-157570))</p>",
-      "date_published": "2026-10-16T14:30:00-04:00",
-      "date_modified": "2026-10-16T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/polymarket-trader-makes-1-million-on-google-search-bets-sparking-insider-trading-fears-157570",
-      "links": [
-        "https://bitrss.com/polymarket-trader-makes-1-million-on-google-search-bets-sparking-insider-trading-fears-157570"
-      ],
-      "timestamp": "Oct 16, 2026 · 2:30 PM ET",
-      "body": "- **Polymarket trader earns nearly 1 million dollars on Google search trend bets, prompting insider-trading debate** — A Polymarket wallet netted nearly 1 million dollars after correctly predicting most outcomes in Google Year in Search trend markets, according to the report. The report notes the insider allegations are community speculation based on the winning streak, with no confirmation the trader is a Google insider. ([BitRss](https://bitrss.com/polymarket-trader-makes-1-million-on-google-search-bets-sparking-insider-trading-fears-157570))",
-      "image_url": null,
-      "published": "2026-10-16T14:30:00-04:00",
-      "source": "2026-10-16_1430-edt.json",
       "matches_facebook_post": false
     }
   ]
