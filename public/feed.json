@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T20:41:22.340119-04:00",
+  "updated": "2026-10-16T20:49:13.155602-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,154 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_2045-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2045-edt-0",
+      "title": "Kalshi adds NFL ladder and escalator markets for player statistics",
+      "content_text": "- **Kalshi adds NFL ladder and escalator markets for player statistics** — Covers reported October 16 that Kalshi introduced ladder and escalator contracts on select NFL player markets including receptions, receiving yards, rushing yards and fantasy points. The contracts pay incrementally as a player progresses toward a milestone, up to a maximum of 1 dollar per contract, instead of a binary yes or no payout. ([Covers](https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026))",
+      "content_html": "<p>- **Kalshi adds NFL ladder and escalator markets for player statistics** — Covers reported October 16 that Kalshi introduced ladder and escalator contracts on select NFL player markets including receptions, receiving yards, rushing yards and fantasy points. The contracts pay incrementally as a player progresses toward a milestone, up to a maximum of 1 dollar per contract, instead of a binary yes or no payout. ([Covers](https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026))</p>",
+      "date_published": "2026-10-16T20:45:00-04:00",
+      "date_modified": "2026-10-16T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026",
+      "links": [
+        "https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:45 PM ET",
+      "body": "- **Kalshi adds NFL ladder and escalator markets for player statistics** — Covers reported October 16 that Kalshi introduced ladder and escalator contracts on select NFL player markets including receptions, receiving yards, rushing yards and fantasy points. The contracts pay incrementally as a player progresses toward a milestone, up to a maximum of 1 dollar per contract, instead of a binary yes or no payout. ([Covers](https://www.covers.com/industry/kalshi-adds-nfl-ladder-escalator-prediction-markets-oct-16-2026))",
+      "image_url": null,
+      "published": "2026-10-16T20:45:00-04:00",
+      "source": "2026-10-16_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2045-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2045-edt-1",
+      "title": "Kalshi turns election markets into a new midterm forecasting hub",
+      "content_text": "- **Kalshi turns election markets into a new midterm forecasting hub** — DeFi Rate reported Kalshi has packaged its election markets into a midterm forecasting hub with maps and historical tools aimed at campaigns and other nontraders. Kalshi said candidates favored in its U.S. election markets since 2024 have won roughly nine times out of 10, though it did not publish the underlying dataset for that claim. ([DeFi Rate](https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/))",
+      "content_html": "<p>- **Kalshi turns election markets into a new midterm forecasting hub** — DeFi Rate reported Kalshi has packaged its election markets into a midterm forecasting hub with maps and historical tools aimed at campaigns and other nontraders. Kalshi said candidates favored in its U.S. election markets since 2024 have won roughly nine times out of 10, though it did not publish the underlying dataset for that claim. ([DeFi Rate](https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/))</p>",
+      "date_published": "2026-10-16T20:45:00-04:00",
+      "date_modified": "2026-10-16T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/",
+      "links": [
+        "https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:45 PM ET",
+      "body": "- **Kalshi turns election markets into a new midterm forecasting hub** — DeFi Rate reported Kalshi has packaged its election markets into a midterm forecasting hub with maps and historical tools aimed at campaigns and other nontraders. Kalshi said candidates favored in its U.S. election markets since 2024 have won roughly nine times out of 10, though it did not publish the underlying dataset for that claim. ([DeFi Rate](https://defirate.com/news/kalshi-election-markets-midterm-forecasting-hub/))",
+      "image_url": null,
+      "published": "2026-10-16T20:45:00-04:00",
+      "source": "2026-10-16_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2045-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2045-edt-2",
+      "title": "Hyperliquid HIP-4 outcome markets take aim at Kalshi and Polymarket",
+      "content_text": "- **Hyperliquid HIP-4 outcome markets take aim at Kalshi and Polymarket** — A report published October 16 described Hyperliquid HIP-4 outcome markets, launched with Bitcoin price contracts, as a direct challenge to Kalshi and Polymarket. The report said HIP-4 is expected to expand to HYPE and Ether contracts and to move beyond its current 15-minute timeframes. ([BitRss](https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565))",
+      "content_html": "<p>- **Hyperliquid HIP-4 outcome markets take aim at Kalshi and Polymarket** — A report published October 16 described Hyperliquid HIP-4 outcome markets, launched with Bitcoin price contracts, as a direct challenge to Kalshi and Polymarket. The report said HIP-4 is expected to expand to HYPE and Ether contracts and to move beyond its current 15-minute timeframes. ([BitRss](https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565))</p>",
+      "date_published": "2026-10-16T20:45:00-04:00",
+      "date_modified": "2026-10-16T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565",
+      "links": [
+        "https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:45 PM ET",
+      "body": "- **Hyperliquid HIP-4 outcome markets take aim at Kalshi and Polymarket** — A report published October 16 described Hyperliquid HIP-4 outcome markets, launched with Bitcoin price contracts, as a direct challenge to Kalshi and Polymarket. The report said HIP-4 is expected to expand to HYPE and Ether contracts and to move beyond its current 15-minute timeframes. ([BitRss](https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565))",
+      "image_url": null,
+      "published": "2026-10-16T20:45:00-04:00",
+      "source": "2026-10-16_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2045-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2045-edt-3",
+      "title": "Sportradar says it can serve prediction markets without picking a platform winner",
+      "content_text": "- **Sportradar says it can serve prediction markets without picking a platform winner** — Benzinga reported October 16 that Sportradar is positioning its existing data and technology to serve prediction market exchanges, market makers and brokers as the sector grows. The company said it works only with authorized, registered and licensed operators and complies with regulations in each market it serves. ([NewMediaWire](https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692))",
+      "content_html": "<p>- **Sportradar says it can serve prediction markets without picking a platform winner** — Benzinga reported October 16 that Sportradar is positioning its existing data and technology to serve prediction market exchanges, market makers and brokers as the sector grows. The company said it works only with authorized, registered and licensed operators and complies with regulations in each market it serves. ([NewMediaWire](https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692))</p>",
+      "date_published": "2026-10-16T20:45:00-04:00",
+      "date_modified": "2026-10-16T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692",
+      "links": [
+        "https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:45 PM ET",
+      "body": "- **Sportradar says it can serve prediction markets without picking a platform winner** — Benzinga reported October 16 that Sportradar is positioning its existing data and technology to serve prediction market exchanges, market makers and brokers as the sector grows. The company said it works only with authorized, registered and licensed operators and complies with regulations in each market it serves. ([NewMediaWire](https://www.newmediawire.com/news/the-prediction-markets-boom-why-sportradar-is-confident-it-doesn-t-need-to-pick-a-winner-7090692))",
+      "image_url": null,
+      "published": "2026-10-16T20:45:00-04:00",
+      "source": "2026-10-16_2045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2045-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2045-edt-4",
+      "title": "Polymarket daily movers put SpaceX largest IPO of 2026 at 63 percent",
+      "content_text": "- **Polymarket daily movers put SpaceX largest IPO of 2026 at 63 percent** — RG's October 16 daily review of Polymarket prices showed the market for SpaceX having the largest IPO of 2026 rising 13 points to 63 percent over 24 hours. Other large moves included a Tesla and SpaceX merger announcement by January 31, 2027 rising to 33 percent and Brazil presidential candidate Lula rising to 21 percent. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))",
+      "content_html": "<p>- **Polymarket daily movers put SpaceX largest IPO of 2026 at 63 percent** — RG&#x27;s October 16 daily review of Polymarket prices showed the market for SpaceX having the largest IPO of 2026 rising 13 points to 63 percent over 24 hours. Other large moves included a Tesla and SpaceX merger announcement by January 31, 2027 rising to 33 percent and Brazil presidential candidate Lula rising to 21 percent. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))</p>",
+      "date_published": "2026-10-16T20:45:00-04:00",
+      "date_modified": "2026-10-16T20:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026",
+      "links": [
+        "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:45 PM ET",
+      "body": "- **Polymarket daily movers put SpaceX largest IPO of 2026 at 63 percent** — RG's October 16 daily review of Polymarket prices showed the market for SpaceX having the largest IPO of 2026 rising 13 points to 63 percent over 24 hours. Other large moves included a Tesla and SpaceX merger announcement by January 31, 2027 rising to 33 percent and Brazil presidential candidate Lula rising to 21 percent. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-lula-bolsonaro-fed-hike-world-series-october-16-2026))",
+      "image_url": null,
+      "published": "2026-10-16T20:45:00-04:00",
+      "source": "2026-10-16_2045-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-16_2039-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2039-edt",
@@ -4506,156 +4654,6 @@
       "image_url": null,
       "published": "2026-10-16T13:15:00-04:00",
       "source": "2026-10-16_1315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_1309-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1309-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nOct. 16 volume so far totals $1.71B across venues, with Kalshi at $1.47B\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh intraday volume snapshot leads, in a volume/metrics category different…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/prediction-markets/volume/\n\nThea Frodin wins falls 65 points to 31% on Kalshi, on $852K traded\nPredictionBubbles' movers board ranks the drop as the largest 24-hour probability move across the whole board, with the contract resolving in about 12 days — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Oct. 16 volume so far totals $1.71B across venues, with Kalshi at $1.47B<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh intraday volume snapshot leads, in a volume/metrics category different…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Thea Frodin wins falls 65 points to 31% on Kalshi, on $852K traded<br/>PredictionBubbles&#x27; movers board ranks the drop as the largest 24-hour probability move across the whole board, with the contract resolving in about 12 days — a contract…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T13:09:00-04:00",
-      "date_modified": "2026-10-16T13:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/",
-        "https://predictionbubbles.net/markets/"
-      ],
-      "timestamp": "Oct 16, 2026 · 1:09 PM ET",
-      "body": "Infiniti Briefing\n\nOct. 16 volume so far totals $1.71B across venues, with Kalshi at $1.47B\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh intraday volume snapshot leads, in a volume/metrics category different…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/prediction-markets/volume/\n\nThea Frodin wins falls 65 points to 31% on Kalshi, on $852K traded\nPredictionBubbles' movers board ranks the drop as the largest 24-hour probability move across the whole board, with the contract resolving in about 12 days — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T13:09:00-04:00",
-      "source": "2026-10-16_1309-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1300-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1300-edt-0",
-      "title": "Kalshi 2027 Best Actress market prices Julianne Moore at 66 percent",
-      "content_text": "- **Kalshi 2027 Best Actress market prices Julianne Moore at 66 percent** — Kalshi's 2027 Best Actress board listed Julianne Moore for The Debut at 66 percent, ahead of Inde Navarrette for Obsession at 20 percent, with Anne Hathaway and Sandra Huller each at 5 percent in early trading reviewed by Covers. ([Covers](https://www.covers.com/entertainment/oscars-prediction-markets-best-actress))",
-      "content_html": "<p>- **Kalshi 2027 Best Actress market prices Julianne Moore at 66 percent** — Kalshi&#x27;s 2027 Best Actress board listed Julianne Moore for The Debut at 66 percent, ahead of Inde Navarrette for Obsession at 20 percent, with Anne Hathaway and Sandra Huller each at 5 percent in early trading reviewed by Covers. ([Covers](https://www.covers.com/entertainment/oscars-prediction-markets-best-actress))</p>",
-      "date_published": "2026-10-16T13:00:00-04:00",
-      "date_modified": "2026-10-16T13:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/entertainment/oscars-prediction-markets-best-actress",
-      "links": [
-        "https://www.covers.com/entertainment/oscars-prediction-markets-best-actress"
-      ],
-      "timestamp": "Oct 16, 2026 · 1:00 PM ET",
-      "body": "- **Kalshi 2027 Best Actress market prices Julianne Moore at 66 percent** — Kalshi's 2027 Best Actress board listed Julianne Moore for The Debut at 66 percent, ahead of Inde Navarrette for Obsession at 20 percent, with Anne Hathaway and Sandra Huller each at 5 percent in early trading reviewed by Covers. ([Covers](https://www.covers.com/entertainment/oscars-prediction-markets-best-actress))",
-      "image_url": null,
-      "published": "2026-10-16T13:00:00-04:00",
-      "source": "2026-10-16_1300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1300-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1300-edt-1",
-      "title": "Manifold market prices a major undersea cable outage by year-end at 90 percent",
-      "content_text": "- **Manifold market prices a major undersea cable outage by year-end at 90 percent** — A Manifold forecasting market on a major undersea-cable internet outage traded at 90 percent Yes as of October 7, following an October 2 cable cut that slowed service in the Philippines before carriers rerouted traffic. Manifold uses play money, so the price reflects forecaster sentiment. ([Tech Insider](https://tech-insider.org/undersea-cable-outage-prediction-market-bet-2026/))",
-      "content_html": "<p>- **Manifold market prices a major undersea cable outage by year-end at 90 percent** — A Manifold forecasting market on a major undersea-cable internet outage traded at 90 percent Yes as of October 7, following an October 2 cable cut that slowed service in the Philippines before carriers rerouted traffic. Manifold uses play money, so the price reflects forecaster sentiment. ([Tech Insider](https://tech-insider.org/undersea-cable-outage-prediction-market-bet-2026/))</p>",
-      "date_published": "2026-10-16T13:00:00-04:00",
-      "date_modified": "2026-10-16T13:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://tech-insider.org/undersea-cable-outage-prediction-market-bet-2026/",
-      "links": [
-        "https://tech-insider.org/undersea-cable-outage-prediction-market-bet-2026/"
-      ],
-      "timestamp": "Oct 16, 2026 · 1:00 PM ET",
-      "body": "- **Manifold market prices a major undersea cable outage by year-end at 90 percent** — A Manifold forecasting market on a major undersea-cable internet outage traded at 90 percent Yes as of October 7, following an October 2 cable cut that slowed service in the Philippines before carriers rerouted traffic. Manifold uses play money, so the price reflects forecaster sentiment. ([Tech Insider](https://tech-insider.org/undersea-cable-outage-prediction-market-bet-2026/))",
-      "image_url": null,
-      "published": "2026-10-16T13:00:00-04:00",
-      "source": "2026-10-16_1300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1300-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1300-edt-2",
-      "title": "Polymarket October Fed hike odds at 23 percent sit below CME FedWatch pricing",
-      "content_text": "- **Polymarket October Fed hike odds at 23 percent sit below CME FedWatch pricing** — Polymarket priced a 25-basis-point Federal Reserve hike in October at 23 percent with about 43 million dollars traded, while CME FedWatch pricing ranged from roughly 37 to 44 percent, according to a CryptoNews report updated October 16. The gap followed hotter-than-expected inflation data and a drop in Bitcoin below 82,000 dollars. ([CryptoNews](https://cryptonwz.com/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-hike/))",
-      "content_html": "<p>- **Polymarket October Fed hike odds at 23 percent sit below CME FedWatch pricing** — Polymarket priced a 25-basis-point Federal Reserve hike in October at 23 percent with about 43 million dollars traded, while CME FedWatch pricing ranged from roughly 37 to 44 percent, according to a CryptoNews report updated October 16. The gap followed hotter-than-expected inflation data and a drop in Bitcoin below 82,000 dollars. ([CryptoNews](https://cryptonwz.com/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-hike/))</p>",
-      "date_published": "2026-10-16T13:00:00-04:00",
-      "date_modified": "2026-10-16T13:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://cryptonwz.com/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-hike/",
-      "links": [
-        "https://cryptonwz.com/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-hike/"
-      ],
-      "timestamp": "Oct 16, 2026 · 1:00 PM ET",
-      "body": "- **Polymarket October Fed hike odds at 23 percent sit below CME FedWatch pricing** — Polymarket priced a 25-basis-point Federal Reserve hike in October at 23 percent with about 43 million dollars traded, while CME FedWatch pricing ranged from roughly 37 to 44 percent, according to a CryptoNews report updated October 16. The gap followed hotter-than-expected inflation data and a drop in Bitcoin below 82,000 dollars. ([CryptoNews](https://cryptonwz.com/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-hike/))",
-      "image_url": null,
-      "published": "2026-10-16T13:00:00-04:00",
-      "source": "2026-10-16_1300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_1254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1254-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPolymarket launches OREGON referral code tied to the Brewers-Dodgers NLCS\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh product item leads, in a product launches category different from the…\n#PredictionMarkets #Polymarket\nhttps://misryoum.com/polymarket-launches-oregon-referral-code-for-brewers-dodgers-nlcs\n\nMarco Trungelliti wins priced at 52% on Kalshi, on $1.9M traded, in a newly listed market\nPredictionBubbles' new-markets board lists the tennis contract, created about 14 hours ago and resolving in about 14 days — a matchup not featured in any earlier edition…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket launches OREGON referral code tied to the Brewers-Dodgers NLCS<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh product item leads, in a product launches category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://misryoum.com/polymarket-launches-oregon-referral-code-for-brewers-dodgers-nlcs<br/><br/>Marco Trungelliti wins priced at 52% on Kalshi, on $1.9M traded, in a newly listed market<br/>PredictionBubbles&#x27; new-markets board lists the tennis contract, created about 14 hours ago and resolving in about 14 days — a matchup not featured in any earlier edition…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T12:54:00-04:00",
-      "date_modified": "2026-10-16T12:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://misryoum.com/polymarket-launches-oregon-referral-code-for-brewers-dodgers-nlcs",
-      "links": [
-        "https://misryoum.com/polymarket-launches-oregon-referral-code-for-brewers-dodgers-nlcs",
-        "https://predictionbubbles.net/markets/"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:54 PM ET",
-      "body": "Infiniti Briefing\n\nPolymarket launches OREGON referral code tied to the Brewers-Dodgers NLCS\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh product item leads, in a product launches category different from the…\n#PredictionMarkets #Polymarket\nhttps://misryoum.com/polymarket-launches-oregon-referral-code-for-brewers-dodgers-nlcs\n\nMarco Trungelliti wins priced at 52% on Kalshi, on $1.9M traded, in a newly listed market\nPredictionBubbles' new-markets board lists the tennis contract, created about 14 hours ago and resolving in about 14 days — a matchup not featured in any earlier edition…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T12:54:00-04:00",
-      "source": "2026-10-16_1254-edt.md",
       "matches_facebook_post": false
     }
   ]
