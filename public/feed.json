@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T07:04:58.998763-04:00",
+  "updated": "2026-10-17T07:21:42.825179-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,41 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_0709-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0709-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAlexander Zverev wins priced at 85% on Kalshi, up 10 points, on $1.0M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nCommodities & crypto stats\nSpot tape: Bitcoin at $81,618, down 0.33%, on Finnhub. Commodities close on Oct. 16: WTI crude settled up 3.5% at $101.41 a barrel, its first close above $100 since…\n#PredictionMarkets #Bitcoin #Gold #Oil\nhttps://finnhub.io/?q=%22BTC%22\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Alexander Zverev wins priced at 85% on Kalshi, up 10 points, on $1.0M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…<br/>#PredictionMarkets #Kalshi #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Commodities &amp; crypto stats<br/>Spot tape: Bitcoin at $81,618, down 0.33%, on Finnhub. Commodities close on Oct. 16: WTI crude settled up 3.5% at $101.41 a barrel, its first close above $100 since…<br/>#PredictionMarkets #Bitcoin #Gold #Oil<br/>https://finnhub.io/?q=%22BTC%22<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T07:09:00-04:00",
+      "date_modified": "2026-10-17T07:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Midterms",
+        "Bitcoin",
+        "Gold",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://finnhub.io/?q=%22BTC%22"
+      ],
+      "timestamp": "Oct 17, 2026 · 7:09 AM ET",
+      "body": "Infiniti Briefing\n\nAlexander Zverev wins priced at 85% on Kalshi, up 10 points, on $1.0M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nCommodities & crypto stats\nSpot tape: Bitcoin at $81,618, down 0.33%, on Finnhub. Commodities close on Oct. 16: WTI crude settled up 3.5% at $101.41 a barrel, its first close above $100 since…\n#PredictionMarkets #Bitcoin #Gold #Oil\nhttps://finnhub.io/?q=%22BTC%22\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T07:09:00-04:00",
+      "source": "2026-10-17_0709-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_0700-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0700-edt-0",
@@ -4663,36 +4698,6 @@
       ],
       "timestamp": "Oct 16, 2026 · 11:00 PM ET",
       "body": "- **Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in hourly comparison** — A cross-venue comparison refreshed on October 17 put Kalshi at 40,853 active contracts, 15,086,621 dollars in 24-hour volume and an average spread of 0.30 cents. The comparison listed zero live cross-venue pairs between Kalshi and Polymarket at the refresh. ([SimpleFunctions](https://data.simplefunctions.dev/compare/kalshi-vs-polymarket))",
-      "image_url": null,
-      "published": "2026-10-16T23:00:00-04:00",
-      "source": "2026-10-16_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_2300-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2300-edt-1",
-      "title": "Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars",
-      "content_text": "- **Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars** — A late-Friday snapshot at 10:15 PM ET on October 16 showed Polymarket's October Fed decision market at 14 percent for a quarter-point hike and 87 percent for no change, with 44,668,801 dollars in total volume. Bitcoin closed at 81,524 dollars on October 16 UTC in the same report. ([TokenPost](https://www.tokenpost.com/news/investing/33658))",
-      "content_html": "<p>- **Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars** — A late-Friday snapshot at 10:15 PM ET on October 16 showed Polymarket&#x27;s October Fed decision market at 14 percent for a quarter-point hike and 87 percent for no change, with 44,668,801 dollars in total volume. Bitcoin closed at 81,524 dollars on October 16 UTC in the same report. ([TokenPost](https://www.tokenpost.com/news/investing/33658))</p>",
-      "date_published": "2026-10-16T23:00:00-04:00",
-      "date_modified": "2026-10-16T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.tokenpost.com/news/investing/33658",
-      "links": [
-        "https://www.tokenpost.com/news/investing/33658"
-      ],
-      "timestamp": "Oct 16, 2026 · 11:00 PM ET",
-      "body": "- **Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars** — A late-Friday snapshot at 10:15 PM ET on October 16 showed Polymarket's October Fed decision market at 14 percent for a quarter-point hike and 87 percent for no change, with 44,668,801 dollars in total volume. Bitcoin closed at 81,524 dollars on October 16 UTC in the same report. ([TokenPost](https://www.tokenpost.com/news/investing/33658))",
       "image_url": null,
       "published": "2026-10-16T23:00:00-04:00",
       "source": "2026-10-16_2300-edt.json",
