@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T02:34:35.795897-04:00",
+  "updated": "2026-10-17T02:49:00.006820-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_0239-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0239-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBitcoin be above $200,000 by Jan 1, 2027 priced at 2% on Kalshi, on $11.8M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/crypto/\n\nWicked: For Good be the top grossing movie of 2026 priced at 0.1% on Polymarket, on $2.2M traded\nPredictionBubbles' culture board ranks the box-office contract among its most-traded culture markets — a contract not featured in any earlier edition, in a culture…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin be above $200,000 by Jan 1, 2027 priced at 2% on Kalshi, on $11.8M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…<br/>#PredictionMarkets #Kalshi #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>Wicked: For Good be the top grossing movie of 2026 priced at 0.1% on Polymarket, on $2.2M traded<br/>PredictionBubbles&#x27; culture board ranks the box-office contract among its most-traded culture markets — a contract not featured in any earlier edition, in a culture…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/culture/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T02:39:00-04:00",
+      "date_modified": "2026-10-17T02:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Bitcoin",
+        "Elections",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/crypto/",
+      "links": [
+        "https://predictionbubbles.net/markets/crypto/",
+        "https://predictionbubbles.net/markets/culture/"
+      ],
+      "timestamp": "Oct 17, 2026 · 2:39 AM ET",
+      "body": "Infiniti Briefing\n\nBitcoin be above $200,000 by Jan 1, 2027 priced at 2% on Kalshi, on $11.8M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/crypto/\n\nWicked: For Good be the top grossing movie of 2026 priced at 0.1% on Polymarket, on $2.2M traded\nPredictionBubbles' culture board ranks the box-office contract among its most-traded culture markets — a contract not featured in any earlier edition, in a culture…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T02:39:00-04:00",
+      "source": "2026-10-17_0239-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_0230-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0230-edt-0",
@@ -4639,37 +4673,6 @@
       ],
       "timestamp": "Oct 16, 2026 · 6:30 PM ET",
       "body": "- **ParlayX raises 1.25 million dollars in pre-seed funding for institutional prediction market infrastructure** — ParlayX announced a 1.25 million dollar pre-seed round led by Dreamcraft Ventures to expand institutional order routing and capital controls for platforms including Kalshi and Polymarket. The firm says it has also onboarded ProphetX and Limitless and brought on 10 market makers as clients. ([GambleRss](https://gamblerss.com/parlayx-raises-1-25m-to-power-institutional-prediction-markets-push-68726))",
-      "image_url": null,
-      "published": "2026-10-16T18:30:00-04:00",
-      "source": "2026-10-16_1830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1830-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1830-edt-1",
-      "title": "Kalshi and Polymarket explore UK entry as FCA confirms talks and binary options ban remains",
-      "content_text": "- **Kalshi and Polymarket explore UK entry as FCA confirms talks and binary options ban remains** — Kalshi and Polymarket are exploring UK entry as the Financial Conduct Authority holds talks with prediction market operators, according to reports citing FCA markets chief Simon Walls on October 6. Britain's retail binary options ban from April 2019 remains in place, and the FCA's 2026 perimeter report said the financial prediction products it examined were binary options subject to that prohibition. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))",
-      "content_html": "<p>- **Kalshi and Polymarket explore UK entry as FCA confirms talks and binary options ban remains** — Kalshi and Polymarket are exploring UK entry as the Financial Conduct Authority holds talks with prediction market operators, according to reports citing FCA markets chief Simon Walls on October 6. Britain&#x27;s retail binary options ban from April 2019 remains in place, and the FCA&#x27;s 2026 perimeter report said the financial prediction products it examined were binary options subject to that prohibition. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))</p>",
-      "date_published": "2026-10-16T18:30:00-04:00",
-      "date_modified": "2026-10-16T18:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "FCA"
-      ],
-      "image": null,
-      "external_url": "https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/",
-      "links": [
-        "https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/"
-      ],
-      "timestamp": "Oct 16, 2026 · 6:30 PM ET",
-      "body": "- **Kalshi and Polymarket explore UK entry as FCA confirms talks and binary options ban remains** — Kalshi and Polymarket are exploring UK entry as the Financial Conduct Authority holds talks with prediction market operators, according to reports citing FCA markets chief Simon Walls on October 6. Britain's retail binary options ban from April 2019 remains in place, and the FCA's 2026 perimeter report said the financial prediction products it examined were binary options subject to that prohibition. ([CCN](https://www.ccn.com/news/crypto/polymarket-kalshi-uk-fca-prediction-markets-push-back-gambling/))",
       "image_url": null,
       "published": "2026-10-16T18:30:00-04:00",
       "source": "2026-10-16_1830-edt.json",
