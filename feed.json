@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T02:49:00.006820-04:00",
+  "updated": "2026-10-17T03:03:11.667572-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_0254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0254-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKalshi lists 30 fifteen-minute series with 20 trading, and Bitcoin was 70% of the contracts traded across them over the last day of windows\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Bitcoin #Ethereum\nhttps://predictionmarketspicks.com/kalshi/15-minute-markets\n\nIlija Srdanović be the next prime minister of Serbia priced at 19% on Polymarket, down 3.5 points, on $194K traded\nPredictionBubbles ranks the Serbian leadership contract among the day's downward moves ahead of its close in about 9 days — a contract not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi lists 30 fifteen-minute series with 20 trading, and Bitcoin was 70% of the contracts traded across them over the last day of windows<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…<br/>#PredictionMarkets #Kalshi #Bitcoin #Ethereum<br/>https://predictionmarketspicks.com/kalshi/15-minute-markets<br/><br/>Ilija Srdanović be the next prime minister of Serbia priced at 19% on Polymarket, down 3.5 points, on $194K traded<br/>PredictionBubbles ranks the Serbian leadership contract among the day&#x27;s downward moves ahead of its close in about 9 days — a contract not featured in any earlier…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T02:54:00-04:00",
+      "date_modified": "2026-10-17T02:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Bitcoin",
+        "Ethereum",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionmarketspicks.com/kalshi/15-minute-markets",
+      "links": [
+        "https://predictionmarketspicks.com/kalshi/15-minute-markets",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 2:54 AM ET",
+      "body": "Infiniti Briefing\n\nKalshi lists 30 fifteen-minute series with 20 trading, and Bitcoin was 70% of the contracts traded across them over the last day of windows\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Bitcoin #Ethereum\nhttps://predictionmarketspicks.com/kalshi/15-minute-markets\n\nIlija Srdanović be the next prime minister of Serbia priced at 19% on Polymarket, down 3.5 points, on $194K traded\nPredictionBubbles ranks the Serbian leadership contract among the day's downward moves ahead of its close in about 9 days — a contract not featured in any earlier…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T02:54:00-04:00",
+      "source": "2026-10-17_0254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-17_0239-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0239-edt",
@@ -4647,36 +4681,6 @@
       "published": "2026-10-16T18:39:00-04:00",
       "source": "2026-10-16_1839-edt.md",
       "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-16_1830-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1830-edt-0",
-      "title": "ParlayX raises 1.25 million dollars in pre-seed funding for institutional prediction market infrastructure",
-      "content_text": "- **ParlayX raises 1.25 million dollars in pre-seed funding for institutional prediction market infrastructure** — ParlayX announced a 1.25 million dollar pre-seed round led by Dreamcraft Ventures to expand institutional order routing and capital controls for platforms including Kalshi and Polymarket. The firm says it has also onboarded ProphetX and Limitless and brought on 10 market makers as clients. ([GambleRss](https://gamblerss.com/parlayx-raises-1-25m-to-power-institutional-prediction-markets-push-68726))",
-      "content_html": "<p>- **ParlayX raises 1.25 million dollars in pre-seed funding for institutional prediction market infrastructure** — ParlayX announced a 1.25 million dollar pre-seed round led by Dreamcraft Ventures to expand institutional order routing and capital controls for platforms including Kalshi and Polymarket. The firm says it has also onboarded ProphetX and Limitless and brought on 10 market makers as clients. ([GambleRss](https://gamblerss.com/parlayx-raises-1-25m-to-power-institutional-prediction-markets-push-68726))</p>",
-      "date_published": "2026-10-16T18:30:00-04:00",
-      "date_modified": "2026-10-16T18:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/parlayx-raises-1-25m-to-power-institutional-prediction-markets-push-68726",
-      "links": [
-        "https://gamblerss.com/parlayx-raises-1-25m-to-power-institutional-prediction-markets-push-68726"
-      ],
-      "timestamp": "Oct 16, 2026 · 6:30 PM ET",
-      "body": "- **ParlayX raises 1.25 million dollars in pre-seed funding for institutional prediction market infrastructure** — ParlayX announced a 1.25 million dollar pre-seed round led by Dreamcraft Ventures to expand institutional order routing and capital controls for platforms including Kalshi and Polymarket. The firm says it has also onboarded ProphetX and Limitless and brought on 10 market makers as clients. ([GambleRss](https://gamblerss.com/parlayx-raises-1-25m-to-power-institutional-prediction-markets-push-68726))",
-      "image_url": null,
-      "published": "2026-10-16T18:30:00-04:00",
-      "source": "2026-10-16_1830-edt.json",
-      "matches_facebook_post": false
     }
   ]
 }
