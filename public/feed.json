@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T23:20:37.113623-04:00",
+  "updated": "2026-10-16T23:35:23.888180-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,159 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_2330-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2330-edt-0",
+      "title": "Polymarket prices Bitcoin above 82,000 dollars on October 17 at 12.5 percent after sharp drop",
+      "content_text": "- **Polymarket prices Bitcoin above 82,000 dollars on October 17 at 12.5 percent after sharp drop** — Polymarket contracts observed at 2:30 AM UTC on October 17 priced Bitcoin above 82,000 dollars at 12.5 percent, down 16 points from a 28.5 percent baseline six hours earlier, with spot trading below 81,320 dollars. The same snapshot priced Bitcoin above 80,000 dollars at 98.05 percent and reaching 87,500 dollars in October at 29.5 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0230-utc))",
+      "content_html": "<p>- **Polymarket prices Bitcoin above 82,000 dollars on October 17 at 12.5 percent after sharp drop** — Polymarket contracts observed at 2:30 AM UTC on October 17 priced Bitcoin above 82,000 dollars at 12.5 percent, down 16 points from a 28.5 percent baseline six hours earlier, with spot trading below 81,320 dollars. The same snapshot priced Bitcoin above 80,000 dollars at 98.05 percent and reaching 87,500 dollars in October at 29.5 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0230-utc))</p>",
+      "date_published": "2026-10-16T23:30:00-04:00",
+      "date_modified": "2026-10-16T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0230-utc",
+      "links": [
+        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0230-utc"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:30 PM ET",
+      "body": "- **Polymarket prices Bitcoin above 82,000 dollars on October 17 at 12.5 percent after sharp drop** — Polymarket contracts observed at 2:30 AM UTC on October 17 priced Bitcoin above 82,000 dollars at 12.5 percent, down 16 points from a 28.5 percent baseline six hours earlier, with spot trading below 81,320 dollars. The same snapshot priced Bitcoin above 80,000 dollars at 98.05 percent and reaching 87,500 dollars in October at 29.5 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0230-utc))",
+      "image_url": null,
+      "published": "2026-10-16T23:30:00-04:00",
+      "source": "2026-10-16_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2330-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2330-edt-1",
+      "title": "Kentucky lawsuits target Kalshi, Polymarket and three brokerage partners over sports contracts",
+      "content_text": "- **Kentucky lawsuits target Kalshi, Polymarket and three brokerage partners over sports contracts** — Kentucky alleges Polymarket and Kalshi are operating unlicensed sports wagering in the state, and its complaints also name Kalshi partners Coinbase, Robinhood and Webull. The operators argue their event contracts are swaps under federal Commodity Futures Trading Commission jurisdiction, while the state treats them as gambling requiring a local license. ([BitRss](https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418))",
+      "content_html": "<p>- **Kentucky lawsuits target Kalshi, Polymarket and three brokerage partners over sports contracts** — Kentucky alleges Polymarket and Kalshi are operating unlicensed sports wagering in the state, and its complaints also name Kalshi partners Coinbase, Robinhood and Webull. The operators argue their event contracts are swaps under federal Commodity Futures Trading Commission jurisdiction, while the state treats them as gambling requiring a local license. ([BitRss](https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418))</p>",
+      "date_published": "2026-10-16T23:30:00-04:00",
+      "date_modified": "2026-10-16T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418",
+      "links": [
+        "https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:30 PM ET",
+      "body": "- **Kentucky lawsuits target Kalshi, Polymarket and three brokerage partners over sports contracts** — Kentucky alleges Polymarket and Kalshi are operating unlicensed sports wagering in the state, and its complaints also name Kalshi partners Coinbase, Robinhood and Webull. The operators argue their event contracts are swaps under federal Commodity Futures Trading Commission jurisdiction, while the state treats them as gambling requiring a local license. ([BitRss](https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418))",
+      "image_url": null,
+      "published": "2026-10-16T23:30:00-04:00",
+      "source": "2026-10-16_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2330-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2330-edt-2",
+      "title": "Backtest finds top Polymarket sports whales do not keep winning the following month",
+      "content_text": "- **Backtest finds top Polymarket sports whales do not keep winning the following month** — A walk-forward backtest across MLB, NFL, college football, League of Legends and Valorant markets found the previous two months top 10 MLB wallets made 2.72 to 3.78 dollars per 10 dollars copied, then between a 2.23 dollar loss and a 0.16 dollar gain the next month. The rank correlation between a wallet result in the pick months and the next month was between minus 0.03 and plus 0.15. ([OrcaLayer](https://orcalayer.com/blog/polymarket-copy-trading-whales-backtest))",
+      "content_html": "<p>- **Backtest finds top Polymarket sports whales do not keep winning the following month** — A walk-forward backtest across MLB, NFL, college football, League of Legends and Valorant markets found the previous two months top 10 MLB wallets made 2.72 to 3.78 dollars per 10 dollars copied, then between a 2.23 dollar loss and a 0.16 dollar gain the next month. The rank correlation between a wallet result in the pick months and the next month was between minus 0.03 and plus 0.15. ([OrcaLayer](https://orcalayer.com/blog/polymarket-copy-trading-whales-backtest))</p>",
+      "date_published": "2026-10-16T23:30:00-04:00",
+      "date_modified": "2026-10-16T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://orcalayer.com/blog/polymarket-copy-trading-whales-backtest",
+      "links": [
+        "https://orcalayer.com/blog/polymarket-copy-trading-whales-backtest"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:30 PM ET",
+      "body": "- **Backtest finds top Polymarket sports whales do not keep winning the following month** — A walk-forward backtest across MLB, NFL, college football, League of Legends and Valorant markets found the previous two months top 10 MLB wallets made 2.72 to 3.78 dollars per 10 dollars copied, then between a 2.23 dollar loss and a 0.16 dollar gain the next month. The rank correlation between a wallet result in the pick months and the next month was between minus 0.03 and plus 0.15. ([OrcaLayer](https://orcalayer.com/blog/polymarket-copy-trading-whales-backtest))",
+      "image_url": null,
+      "published": "2026-10-16T23:30:00-04:00",
+      "source": "2026-10-16_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2330-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2330-edt-3",
+      "title": "New tracker combines 270 Polymarket and Kalshi Bitcoin markets into one hourly forecast",
+      "content_text": "- **New tracker combines 270 Polymarket and Kalshi Bitcoin markets into one hourly forecast** — A rebuilt tracker page combines about 270 Bitcoin price markets from Polymarket and Kalshi into a single forecast that reruns every hour, weighting deeper markets more heavily. Its current reading puts Bitcoin near 82,700 dollars on November 1, with an 80 percent range of 71,000 to 96,000 dollars, a 36 percent chance of dipping to 77,500 dollars this month and a 58 percent chance of touching 90,000 dollars before year-end. ([CoinSpectator](https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/))",
+      "content_html": "<p>- **New tracker combines 270 Polymarket and Kalshi Bitcoin markets into one hourly forecast** — A rebuilt tracker page combines about 270 Bitcoin price markets from Polymarket and Kalshi into a single forecast that reruns every hour, weighting deeper markets more heavily. Its current reading puts Bitcoin near 82,700 dollars on November 1, with an 80 percent range of 71,000 to 96,000 dollars, a 36 percent chance of dipping to 77,500 dollars this month and a 58 percent chance of touching 90,000 dollars before year-end. ([CoinSpectator](https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/))</p>",
+      "date_published": "2026-10-16T23:30:00-04:00",
+      "date_modified": "2026-10-16T23:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/",
+      "links": [
+        "https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:30 PM ET",
+      "body": "- **New tracker combines 270 Polymarket and Kalshi Bitcoin markets into one hourly forecast** — A rebuilt tracker page combines about 270 Bitcoin price markets from Polymarket and Kalshi into a single forecast that reruns every hour, weighting deeper markets more heavily. Its current reading puts Bitcoin near 82,700 dollars on November 1, with an 80 percent range of 71,000 to 96,000 dollars, a 36 percent chance of dipping to 77,500 dollars this month and a 58 percent chance of touching 90,000 dollars before year-end. ([CoinSpectator](https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/))",
+      "image_url": null,
+      "published": "2026-10-16T23:30:00-04:00",
+      "source": "2026-10-16_2330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_2324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2324-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nMarco Rubio be the nominee for the Presidency for the Republican party priced at 18% on Kalshi, up 2 points, on $5.7M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a political/election category different from the…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nCleveland win the 2026 Pro Baseball Championship priced at 19.8% on Kalshi, up 2 points, on $6.4M traded\nPredictionBubbles' sports board ranks the championship contract among its most-traded sports markets — a contract not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Marco Rubio be the nominee for the Presidency for the Republican party priced at 18% on Kalshi, up 2 points, on $5.7M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a political/election category different from the…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Cleveland win the 2026 Pro Baseball Championship priced at 19.8% on Kalshi, up 2 points, on $6.4M traded<br/>PredictionBubbles&#x27; sports board ranks the championship contract among its most-traded sports markets — a contract not featured in any earlier edition today, in a sports…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T23:24:00-04:00",
+      "date_modified": "2026-10-16T23:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:24 PM ET",
+      "body": "Infiniti Briefing\n\nMarco Rubio be the nominee for the Presidency for the Republican party priced at 18% on Kalshi, up 2 points, on $5.7M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a political/election category different from the…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nCleveland win the 2026 Pro Baseball Championship priced at 19.8% on Kalshi, up 2 points, on $6.4M traded\nPredictionBubbles' sports board ranks the championship contract among its most-traded sports markets — a contract not featured in any earlier edition today, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T23:24:00-04:00",
+      "source": "2026-10-16_2324-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-16_2309-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2309-edt",
@@ -4526,157 +4679,6 @@
       "image_url": null,
       "published": "2026-10-16T15:30:00-04:00",
       "source": "2026-10-16_1530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1530-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1530-edt-3",
-      "title": "NFL division markets flip NFC East lead to Cowboys as Eagles price falls",
-      "content_text": "- **NFL division markets flip NFC East lead to Cowboys as Eagles price falls** — Prices read on October 16 put Dallas at 44 percent on Kalshi and 45 percent on Polymarket for the NFC East, up 7 points since October 10. Philadelphia fell 11 points to 22 percent on Kalshi and 26 percent on Polymarket in the same comparison. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
-      "content_html": "<p>- **NFL division markets flip NFC East lead to Cowboys as Eagles price falls** — Prices read on October 16 put Dallas at 44 percent on Kalshi and 45 percent on Polymarket for the NFC East, up 7 points since October 10. Philadelphia fell 11 points to 22 percent on Kalshi and 26 percent on Polymarket in the same comparison. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))</p>",
-      "date_published": "2026-10-16T15:30:00-04:00",
-      "date_modified": "2026-10-16T15:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://ipredicta.co/insights/nfl-division-winners-2026/",
-      "links": [
-        "https://ipredicta.co/insights/nfl-division-winners-2026/"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:30 PM ET",
-      "body": "- **NFL division markets flip NFC East lead to Cowboys as Eagles price falls** — Prices read on October 16 put Dallas at 44 percent on Kalshi and 45 percent on Polymarket for the NFC East, up 7 points since October 10. Philadelphia fell 11 points to 22 percent on Kalshi and 26 percent on Polymarket in the same comparison. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
-      "image_url": null,
-      "published": "2026-10-16T15:30:00-04:00",
-      "source": "2026-10-16_1530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1530-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1530-edt-4",
-      "title": "Three California tribes launch prediction market apps powered by Kalshi",
-      "content_text": "- **Three California tribes launch prediction market apps powered by Kalshi** — The Greenville Rancheria, Kletsel Dehe Wintun Nation via KEDA, and Alturas Indian Rancheria are launching tribally owned apps named Greenville, Sovereign Edge, and AIR Markets. Each app runs on Kalshi exchange infrastructure for matching and clearing. ([Bookmakers Review](https://www.bookmakersreview.com/industry/3-california-tribes-launch-kalshi-powered-prediction-market-apps/))",
-      "content_html": "<p>- **Three California tribes launch prediction market apps powered by Kalshi** — The Greenville Rancheria, Kletsel Dehe Wintun Nation via KEDA, and Alturas Indian Rancheria are launching tribally owned apps named Greenville, Sovereign Edge, and AIR Markets. Each app runs on Kalshi exchange infrastructure for matching and clearing. ([Bookmakers Review](https://www.bookmakersreview.com/industry/3-california-tribes-launch-kalshi-powered-prediction-market-apps/))</p>",
-      "date_published": "2026-10-16T15:30:00-04:00",
-      "date_modified": "2026-10-16T15:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.bookmakersreview.com/industry/3-california-tribes-launch-kalshi-powered-prediction-market-apps/",
-      "links": [
-        "https://www.bookmakersreview.com/industry/3-california-tribes-launch-kalshi-powered-prediction-market-apps/"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:30 PM ET",
-      "body": "- **Three California tribes launch prediction market apps powered by Kalshi** — The Greenville Rancheria, Kletsel Dehe Wintun Nation via KEDA, and Alturas Indian Rancheria are launching tribally owned apps named Greenville, Sovereign Edge, and AIR Markets. Each app runs on Kalshi exchange infrastructure for matching and clearing. ([Bookmakers Review](https://www.bookmakersreview.com/industry/3-california-tribes-launch-kalshi-powered-prediction-market-apps/))",
-      "image_url": null,
-      "published": "2026-10-16T15:30:00-04:00",
-      "source": "2026-10-16_1530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_1524-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1524-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nWTI Crude Oil $105 in October rises 16.5 points to 48.5% on Polymarket\nFresh threshold mover on $172K traded, atop PredictionBubbles movers board.\n#CrudeOil #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nKristi Noem to leave Trump administration before 2027 rises 17.9 points to 53.8%\nPolitical mover on $99K traded on Polymarket.\n#Politics #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nAnthropic valuation hitting $1.5T by Dec 31 priced at 86% on Polymarket\n$214K traded in 24 hours, ranked by Polydict by volume.\n#AI #Anthropic #PredictionMarkets\nhttps://polydict.app/markets\n\nMarkets: Gold $4,176 | Brent $105 | WTI $97 | BTC $81,476\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>WTI Crude Oil $105 in October rises 16.5 points to 48.5% on Polymarket<br/>Fresh threshold mover on $172K traded, atop PredictionBubbles movers board.<br/>#CrudeOil #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/<br/><br/>Kristi Noem to leave Trump administration before 2027 rises 17.9 points to 53.8%<br/>Political mover on $99K traded on Polymarket.<br/>#Politics #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/<br/><br/>Anthropic valuation hitting $1.5T by Dec 31 priced at 86% on Polymarket<br/>$214K traded in 24 hours, ranked by Polydict by volume.<br/>#AI #Anthropic #PredictionMarkets<br/>https://polydict.app/markets<br/><br/>Markets: Gold $4,176 | Brent $105 | WTI $97 | BTC $81,476<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-16_1524-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-16T15:24:00-04:00",
-      "date_modified": "2026-10-16T15:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CrudeOil",
-        "PredictionMarkets",
-        "Polymarket",
-        "Politics",
-        "AI",
-        "Anthropic"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-16_1524-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/",
-      "links": [
-        "https://predictionbubbles.net/markets/",
-        "https://polydict.app/markets"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:24 PM ET",
-      "body": "Infiniti Briefing\nWTI Crude Oil $105 in October rises 16.5 points to 48.5% on Polymarket\nFresh threshold mover on $172K traded, atop PredictionBubbles movers board.\n#CrudeOil #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nKristi Noem to leave Trump administration before 2027 rises 17.9 points to 53.8%\nPolitical mover on $99K traded on Polymarket.\n#Politics #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nAnthropic valuation hitting $1.5T by Dec 31 priced at 86% on Polymarket\n$214K traded in 24 hours, ranked by Polydict by volume.\n#AI #Anthropic #PredictionMarkets\nhttps://polydict.app/markets\n\nMarkets: Gold $4,176 | Brent $105 | WTI $97 | BTC $81,476\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-16_1524-edt.jpg",
-      "published": "2026-10-16T15:24:00-04:00",
-      "source": "2026-10-16_1524-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-16_1515-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1515-edt-0",
-      "title": "Polymarket prices Duke at 58 percent against North Carolina at 43 percent ahead of October 17 matchup",
-      "content_text": "- **Polymarket prices Duke at 58 percent against North Carolina at 43 percent ahead of October 17 matchup** — Polymarket priced Duke at about 57.5 to 58 percent and North Carolina at about 42.5 to 43 percent for their October 17 game in Durham, with about 28,000 dollars traded on the market. ([Lines](https://www.lines.com/prediction-markets/sports/cfb-ncar-duke-2026-10-17))",
-      "content_html": "<p>- **Polymarket prices Duke at 58 percent against North Carolina at 43 percent ahead of October 17 matchup** — Polymarket priced Duke at about 57.5 to 58 percent and North Carolina at about 42.5 to 43 percent for their October 17 game in Durham, with about 28,000 dollars traded on the market. ([Lines](https://www.lines.com/prediction-markets/sports/cfb-ncar-duke-2026-10-17))</p>",
-      "date_published": "2026-10-16T15:15:00-04:00",
-      "date_modified": "2026-10-16T15:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.lines.com/prediction-markets/sports/cfb-ncar-duke-2026-10-17",
-      "links": [
-        "https://www.lines.com/prediction-markets/sports/cfb-ncar-duke-2026-10-17"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:15 PM ET",
-      "body": "- **Polymarket prices Duke at 58 percent against North Carolina at 43 percent ahead of October 17 matchup** — Polymarket priced Duke at about 57.5 to 58 percent and North Carolina at about 42.5 to 43 percent for their October 17 game in Durham, with about 28,000 dollars traded on the market. ([Lines](https://www.lines.com/prediction-markets/sports/cfb-ncar-duke-2026-10-17))",
-      "image_url": null,
-      "published": "2026-10-16T15:15:00-04:00",
-      "source": "2026-10-16_1515-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1515-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1515-edt-1",
-      "title": "ForeGate launches LoL Worlds 2026 prediction campaign with about 168,000 dollars in prizes",
-      "content_text": "- **ForeGate launches LoL Worlds 2026 prediction campaign with about 168,000 dollars in prizes** — ForeGate will run its S16 Worlds: The Race to the Top campaign from October 16 to November 15, 2026, with 10 prediction rounds covering stages of the League of Legends World Championship and a prize pool valued at about 168,000 dollars. ([Steemit](https://steemit.com/foregate/@foregate/foregate-launches-s16-worlds-the-race-to-the-top-campaign-predict-lol-worlds-2026-and-win-from-a-usd168-000-prize-pool))",
-      "content_html": "<p>- **ForeGate launches LoL Worlds 2026 prediction campaign with about 168,000 dollars in prizes** — ForeGate will run its S16 Worlds: The Race to the Top campaign from October 16 to November 15, 2026, with 10 prediction rounds covering stages of the League of Legends World Championship and a prize pool valued at about 168,000 dollars. ([Steemit](https://steemit.com/foregate/@foregate/foregate-launches-s16-worlds-the-race-to-the-top-campaign-predict-lol-worlds-2026-and-win-from-a-usd168-000-prize-pool))</p>",
-      "date_published": "2026-10-16T15:15:00-04:00",
-      "date_modified": "2026-10-16T15:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://steemit.com/foregate/@foregate/foregate-launches-s16-worlds-the-race-to-the-top-campaign-predict-lol-worlds-2026-and-win-from-a-usd168-000-prize-pool",
-      "links": [
-        "https://steemit.com/foregate/@foregate/foregate-launches-s16-worlds-the-race-to-the-top-campaign-predict-lol-worlds-2026-and-win-from-a-usd168-000-prize-pool"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:15 PM ET",
-      "body": "- **ForeGate launches LoL Worlds 2026 prediction campaign with about 168,000 dollars in prizes** — ForeGate will run its S16 Worlds: The Race to the Top campaign from October 16 to November 15, 2026, with 10 prediction rounds covering stages of the League of Legends World Championship and a prize pool valued at about 168,000 dollars. ([Steemit](https://steemit.com/foregate/@foregate/foregate-launches-s16-worlds-the-race-to-the-top-campaign-predict-lol-worlds-2026-and-win-from-a-usd168-000-prize-pool))",
-      "image_url": null,
-      "published": "2026-10-16T15:15:00-04:00",
-      "source": "2026-10-16_1515-edt.json",
       "matches_facebook_post": false
     }
   ]
