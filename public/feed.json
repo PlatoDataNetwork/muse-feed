@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T20:35:01.281976-04:00",
+  "updated": "2026-10-16T20:41:22.340119-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-16_2039-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2039-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nVariational launch a token by December 31, 2026 priced at 86.6% on Polymarket, up 8 points, on $392K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a crypto category different from the previous three…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMemphis wins priced at 76% on Kalshi, up 5 points, on $1.2M traded\nPredictionBubbles' ending-soon board lists the contract as the next to resolve, in about 1 day 23 hours — a contract not featured in any earlier edition today, in a…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/ending-soon/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Variational launch a token by December 31, 2026 priced at 86.6% on Polymarket, up 8 points, on $392K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a crypto category different from the previous three…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Memphis wins priced at 76% on Kalshi, up 5 points, on $1.2M traded<br/>PredictionBubbles&#x27; ending-soon board lists the contract as the next to resolve, in about 1 day 23 hours — a contract not featured in any earlier edition today, in a…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/ending-soon/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T20:39:00-04:00",
+      "date_modified": "2026-10-16T20:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/ending-soon/"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:39 PM ET",
+      "body": "Infiniti Briefing\n\nVariational launch a token by December 31, 2026 priced at 86.6% on Polymarket, up 8 points, on $392K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a crypto category different from the previous three…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMemphis wins priced at 76% on Kalshi, up 5 points, on $1.2M traded\nPredictionBubbles' ending-soon board lists the contract as the next to resolve, in about 1 day 23 hours — a contract not featured in any earlier edition today, in a…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/ending-soon/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T20:39:00-04:00",
+      "source": "2026-10-16_2039-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-16_2024-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2024-edt",
@@ -4624,36 +4656,6 @@
       "image_url": null,
       "published": "2026-10-16T12:54:00-04:00",
       "source": "2026-10-16_1254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1245-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1245-edt-0",
-      "title": "Prediction market volume hit 188 billion dollars in the third quarter as Kalshi sports trading overtook Polymarket",
-      "content_text": "- **Prediction market volume hit 188 billion dollars in the third quarter as Kalshi sports trading overtook Polymarket** — A Zubiqo roundup says prediction market volume reached 188 billion dollars between July and September 2026, up nearly 70 percent from the previous quarter, with sports accounting for about 40 percent of Kalshi volume in the quarter. The roundup also cited Galaxy Research data showing 69.2 percent of retail Polymarket accounts finished below break-even. ([Zubiqo](https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc))",
-      "content_html": "<p>- **Prediction market volume hit 188 billion dollars in the third quarter as Kalshi sports trading overtook Polymarket** — A Zubiqo roundup says prediction market volume reached 188 billion dollars between July and September 2026, up nearly 70 percent from the previous quarter, with sports accounting for about 40 percent of Kalshi volume in the quarter. The roundup also cited Galaxy Research data showing 69.2 percent of retail Polymarket accounts finished below break-even. ([Zubiqo](https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc))</p>",
-      "date_published": "2026-10-16T12:45:00-04:00",
-      "date_modified": "2026-10-16T12:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc",
-      "links": [
-        "https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:45 PM ET",
-      "body": "- **Prediction market volume hit 188 billion dollars in the third quarter as Kalshi sports trading overtook Polymarket** — A Zubiqo roundup says prediction market volume reached 188 billion dollars between July and September 2026, up nearly 70 percent from the previous quarter, with sports accounting for about 40 percent of Kalshi volume in the quarter. The roundup also cited Galaxy Research data showing 69.2 percent of retail Polymarket accounts finished below break-even. ([Zubiqo](https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc))",
-      "image_url": null,
-      "published": "2026-10-16T12:45:00-04:00",
-      "source": "2026-10-16_1245-edt.json",
       "matches_facebook_post": false
     }
   ]
