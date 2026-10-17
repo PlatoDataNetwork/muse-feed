@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T22:48:40.527514-04:00",
+  "updated": "2026-10-16T23:05:14.975708-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,161 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-16_2300-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2300-edt-0",
+      "title": "Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in hourly comparison",
+      "content_text": "- **Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in hourly comparison** — A cross-venue comparison refreshed on October 17 put Kalshi at 40,853 active contracts, 15,086,621 dollars in 24-hour volume and an average spread of 0.30 cents. The comparison listed zero live cross-venue pairs between Kalshi and Polymarket at the refresh. ([SimpleFunctions](https://data.simplefunctions.dev/compare/kalshi-vs-polymarket))",
+      "content_html": "<p>- **Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in hourly comparison** — A cross-venue comparison refreshed on October 17 put Kalshi at 40,853 active contracts, 15,086,621 dollars in 24-hour volume and an average spread of 0.30 cents. The comparison listed zero live cross-venue pairs between Kalshi and Polymarket at the refresh. ([SimpleFunctions](https://data.simplefunctions.dev/compare/kalshi-vs-polymarket))</p>",
+      "date_published": "2026-10-16T23:00:00-04:00",
+      "date_modified": "2026-10-16T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://data.simplefunctions.dev/compare/kalshi-vs-polymarket",
+      "links": [
+        "https://data.simplefunctions.dev/compare/kalshi-vs-polymarket"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 PM ET",
+      "body": "- **Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in hourly comparison** — A cross-venue comparison refreshed on October 17 put Kalshi at 40,853 active contracts, 15,086,621 dollars in 24-hour volume and an average spread of 0.30 cents. The comparison listed zero live cross-venue pairs between Kalshi and Polymarket at the refresh. ([SimpleFunctions](https://data.simplefunctions.dev/compare/kalshi-vs-polymarket))",
+      "image_url": null,
+      "published": "2026-10-16T23:00:00-04:00",
+      "source": "2026-10-16_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2300-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2300-edt-1",
+      "title": "Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars",
+      "content_text": "- **Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars** — A late-Friday snapshot at 10:15 PM ET on October 16 showed Polymarket's October Fed decision market at 14 percent for a quarter-point hike and 87 percent for no change, with 44,668,801 dollars in total volume. Bitcoin closed at 81,524 dollars on October 16 UTC in the same report. ([TokenPost](https://www.tokenpost.com/news/investing/33658))",
+      "content_html": "<p>- **Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars** — A late-Friday snapshot at 10:15 PM ET on October 16 showed Polymarket&#x27;s October Fed decision market at 14 percent for a quarter-point hike and 87 percent for no change, with 44,668,801 dollars in total volume. Bitcoin closed at 81,524 dollars on October 16 UTC in the same report. ([TokenPost](https://www.tokenpost.com/news/investing/33658))</p>",
+      "date_published": "2026-10-16T23:00:00-04:00",
+      "date_modified": "2026-10-16T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.tokenpost.com/news/investing/33658",
+      "links": [
+        "https://www.tokenpost.com/news/investing/33658"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 PM ET",
+      "body": "- **Polymarket October Fed market totals 44.7 million dollars as Bitcoin closes at 81,524 dollars** — A late-Friday snapshot at 10:15 PM ET on October 16 showed Polymarket's October Fed decision market at 14 percent for a quarter-point hike and 87 percent for no change, with 44,668,801 dollars in total volume. Bitcoin closed at 81,524 dollars on October 16 UTC in the same report. ([TokenPost](https://www.tokenpost.com/news/investing/33658))",
+      "image_url": null,
+      "published": "2026-10-16T23:00:00-04:00",
+      "source": "2026-10-16_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2300-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2300-edt-2",
+      "title": "Polymarket prices Ethereum above 1,900 dollars at about 100 percent for October 16",
+      "content_text": "- **Polymarket prices Ethereum above 1,900 dollars at about 100 percent for October 16** — Polymarket's October 16 Ethereum threshold contracts priced trading above 1,900 dollars at an implied probability of approximately 100 percent. The platform also listed thresholds between 2,000 and 2,900 dollars for the same date. ([Zona de Azar](https://zonadeazar.com/juego-online/polymarket-gives-ethereum-a-100-chance-of-exceeding-1900/))",
+      "content_html": "<p>- **Polymarket prices Ethereum above 1,900 dollars at about 100 percent for October 16** — Polymarket&#x27;s October 16 Ethereum threshold contracts priced trading above 1,900 dollars at an implied probability of approximately 100 percent. The platform also listed thresholds between 2,000 and 2,900 dollars for the same date. ([Zona de Azar](https://zonadeazar.com/juego-online/polymarket-gives-ethereum-a-100-chance-of-exceeding-1900/))</p>",
+      "date_published": "2026-10-16T23:00:00-04:00",
+      "date_modified": "2026-10-16T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Ethereum"
+      ],
+      "image": null,
+      "external_url": "https://zonadeazar.com/juego-online/polymarket-gives-ethereum-a-100-chance-of-exceeding-1900/",
+      "links": [
+        "https://zonadeazar.com/juego-online/polymarket-gives-ethereum-a-100-chance-of-exceeding-1900/"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 PM ET",
+      "body": "- **Polymarket prices Ethereum above 1,900 dollars at about 100 percent for October 16** — Polymarket's October 16 Ethereum threshold contracts priced trading above 1,900 dollars at an implied probability of approximately 100 percent. The platform also listed thresholds between 2,000 and 2,900 dollars for the same date. ([Zona de Azar](https://zonadeazar.com/juego-online/polymarket-gives-ethereum-a-100-chance-of-exceeding-1900/))",
+      "image_url": null,
+      "published": "2026-10-16T23:00:00-04:00",
+      "source": "2026-10-16_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-16_2300-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2300-edt-3",
+      "title": "Prediction board prices gold staying below 4,800 dollars in October at 99 percent",
+      "content_text": "- **Prediction board prices gold staying below 4,800 dollars in October at 99 percent** — Decrypt's prediction market board priced gold not hitting a high of 4,800 dollars in October at 99 percent and not hitting a low of 3,600 dollars at 99 percent, with contracts resolving November 1. Silver was priced at 99 percent not to hit a high of 76 dollars in October on the same board. ([Decrypt](https://decrypt.co/prediction-markets))",
+      "content_html": "<p>- **Prediction board prices gold staying below 4,800 dollars in October at 99 percent** — Decrypt&#x27;s prediction market board priced gold not hitting a high of 4,800 dollars in October at 99 percent and not hitting a low of 3,600 dollars at 99 percent, with contracts resolving November 1. Silver was priced at 99 percent not to hit a high of 76 dollars in October on the same board. ([Decrypt](https://decrypt.co/prediction-markets))</p>",
+      "date_published": "2026-10-16T23:00:00-04:00",
+      "date_modified": "2026-10-16T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Gold",
+        "Silver"
+      ],
+      "image": null,
+      "external_url": "https://decrypt.co/prediction-markets",
+      "links": [
+        "https://decrypt.co/prediction-markets"
+      ],
+      "timestamp": "Oct 16, 2026 · 11:00 PM ET",
+      "body": "- **Prediction board prices gold staying below 4,800 dollars in October at 99 percent** — Decrypt's prediction market board priced gold not hitting a high of 4,800 dollars in October at 99 percent and not hitting a low of 3,600 dollars at 99 percent, with contracts resolving November 1. Silver was priced at 99 percent not to hit a high of 76 dollars in October on the same board. ([Decrypt](https://decrypt.co/prediction-markets))",
+      "image_url": null,
+      "published": "2026-10-16T23:00:00-04:00",
+      "source": "2026-10-16_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-16_2254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2254-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAnthropic's market cap be between $2.0T and $2.25T at market close on IPO day priced at 21.8% on Polymarket, up 7.3 points, on $369K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a fundraising/business category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nNicolás Maduro be sentenced to no prison time priced at 60% on Polymarket, down 4.5 points, on $544K traded\nPredictionBubbles ranks the no-prison outcome among the day's downward moves — a distinct outcome from the 60-year sentence contract carried earlier today, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic&#x27;s market cap be between $2.0T and $2.25T at market close on IPO day priced at 21.8% on Polymarket, up 7.3 points, on $369K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a fundraising/business category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Nicolás Maduro be sentenced to no prison time priced at 60% on Polymarket, down 4.5 points, on $544K traded<br/>PredictionBubbles ranks the no-prison outcome among the day&#x27;s downward moves — a distinct outcome from the 60-year sentence contract carried earlier today, in a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T22:54:00-04:00",
+      "date_modified": "2026-10-16T22:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi",
+        "Bitcoin",
+        "Ethereum",
+        "Gold",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 16, 2026 · 10:54 PM ET",
+      "body": "Infiniti Briefing\n\nAnthropic's market cap be between $2.0T and $2.25T at market close on IPO day priced at 21.8% on Polymarket, up 7.3 points, on $369K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a fundraising/business category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nNicolás Maduro be sentenced to no prison time priced at 60% on Polymarket, down 4.5 points, on $544K traded\nPredictionBubbles ranks the no-prison outcome among the day's downward moves — a distinct outcome from the 60-year sentence contract carried earlier today, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T22:54:00-04:00",
+      "source": "2026-10-16_2254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_2245-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2245-edt-0",
@@ -4517,158 +4672,6 @@
       "image_url": null,
       "published": "2026-10-16T15:15:00-04:00",
       "source": "2026-10-16_1515-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_1509-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1509-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nElon Musk # tweets October 13-20: the 340-359 outcome at 17% on Polymarket, on $217K traded in 24 hours\nPolydict ranks the new weekly count book 37th by 24-hour volume ahead of its Oct. 20 close — a new window distinct from the October 9-16 count book carried earlier…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nCommodities & crypto stats\nAfternoon tape, varying the highlighted contracts to Brent crude's break above $110 this edition: Brent crude at $110, up 3.78%, in CrunchUpdates' 18:39 UTC snapshot,…\n#PredictionMarkets #Bitcoin #Gold #Oil\nhttps://crunchupdates.com/markets-today/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Elon Musk # tweets October 13-20: the 340-359 outcome at 17% on Polymarket, on $217K traded in 24 hours<br/>Polydict ranks the new weekly count book 37th by 24-hour volume ahead of its Oct. 20 close — a new window distinct from the October 9-16 count book carried earlier…<br/>#PredictionMarkets #Polymarket<br/>https://polydict.app/markets<br/><br/>Commodities &amp; crypto stats<br/>Afternoon tape, varying the highlighted contracts to Brent crude&#x27;s break above $110 this edition: Brent crude at $110, up 3.78%, in CrunchUpdates&#x27; 18:39 UTC snapshot,…<br/>#PredictionMarkets #Bitcoin #Gold #Oil<br/>https://crunchupdates.com/markets-today/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T15:09:00-04:00",
-      "date_modified": "2026-10-16T15:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Gold",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://polydict.app/markets",
-      "links": [
-        "https://polydict.app/markets",
-        "https://crunchupdates.com/markets-today/"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:09 PM ET",
-      "body": "Infiniti Briefing\n\nElon Musk # tweets October 13-20: the 340-359 outcome at 17% on Polymarket, on $217K traded in 24 hours\nPolydict ranks the new weekly count book 37th by 24-hour volume ahead of its Oct. 20 close — a new window distinct from the October 9-16 count book carried earlier…\n#PredictionMarkets #Polymarket\nhttps://polydict.app/markets\n\nCommodities & crypto stats\nAfternoon tape, varying the highlighted contracts to Brent crude's break above $110 this edition: Brent crude at $110, up 3.78%, in CrunchUpdates' 18:39 UTC snapshot,…\n#PredictionMarkets #Bitcoin #Gold #Oil\nhttps://crunchupdates.com/markets-today/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T15:09:00-04:00",
-      "source": "2026-10-16_1509-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1500-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1500-edt-0",
-      "title": "Kalshi Week 7 NFL opening lines put Bears at 53 percent against Patriots on Thursday night",
-      "content_text": "- **Kalshi Week 7 NFL opening lines put Bears at 53 percent against Patriots on Thursday night** — Covers published Week 7 NFL opening lines with Kalshi contract percentages, listing Chicago at 53 percent against New England in the Thursday night game. Other opening matchups include the Texans at 73 percent against the Giants and the Rams at 75 percent against the Raiders. ([Covers](https://www.covers.com/nfl/week-7-odds-opening-lines-2026))",
-      "content_html": "<p>- **Kalshi Week 7 NFL opening lines put Bears at 53 percent against Patriots on Thursday night** — Covers published Week 7 NFL opening lines with Kalshi contract percentages, listing Chicago at 53 percent against New England in the Thursday night game. Other opening matchups include the Texans at 73 percent against the Giants and the Rams at 75 percent against the Raiders. ([Covers](https://www.covers.com/nfl/week-7-odds-opening-lines-2026))</p>",
-      "date_published": "2026-10-16T15:00:00-04:00",
-      "date_modified": "2026-10-16T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/nfl/week-7-odds-opening-lines-2026",
-      "links": [
-        "https://www.covers.com/nfl/week-7-odds-opening-lines-2026"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:00 PM ET",
-      "body": "- **Kalshi Week 7 NFL opening lines put Bears at 53 percent against Patriots on Thursday night** — Covers published Week 7 NFL opening lines with Kalshi contract percentages, listing Chicago at 53 percent against New England in the Thursday night game. Other opening matchups include the Texans at 73 percent against the Giants and the Rams at 75 percent against the Raiders. ([Covers](https://www.covers.com/nfl/week-7-odds-opening-lines-2026))",
-      "image_url": null,
-      "published": "2026-10-16T15:00:00-04:00",
-      "source": "2026-10-16_1500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1500-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1500-edt-1",
-      "title": "Polymarket whale 0x006 nets 1.34 million dollars in 24 hours, lifting total profit above 3.8 million dollars",
-      "content_text": "- **Polymarket whale 0x006 nets 1.34 million dollars in 24 hours, lifting total profit above 3.8 million dollars** — Onchain Lens data cited by Blockchain.News shows the Polymarket trader known as 0x006 earned about 1.34 million dollars in a single day. The run brought the wallet's total profit on the platform to more than 3.8 million dollars. ([Blockchain.News](https://blockchain.news/flashnews/polymarket-whale-0x006-nets-1-34m-in-24-hours-3-8m-total-profit-onchain-lens-data))",
-      "content_html": "<p>- **Polymarket whale 0x006 nets 1.34 million dollars in 24 hours, lifting total profit above 3.8 million dollars** — Onchain Lens data cited by Blockchain.News shows the Polymarket trader known as 0x006 earned about 1.34 million dollars in a single day. The run brought the wallet&#x27;s total profit on the platform to more than 3.8 million dollars. ([Blockchain.News](https://blockchain.news/flashnews/polymarket-whale-0x006-nets-1-34m-in-24-hours-3-8m-total-profit-onchain-lens-data))</p>",
-      "date_published": "2026-10-16T15:00:00-04:00",
-      "date_modified": "2026-10-16T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://blockchain.news/flashnews/polymarket-whale-0x006-nets-1-34m-in-24-hours-3-8m-total-profit-onchain-lens-data",
-      "links": [
-        "https://blockchain.news/flashnews/polymarket-whale-0x006-nets-1-34m-in-24-hours-3-8m-total-profit-onchain-lens-data"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:00 PM ET",
-      "body": "- **Polymarket whale 0x006 nets 1.34 million dollars in 24 hours, lifting total profit above 3.8 million dollars** — Onchain Lens data cited by Blockchain.News shows the Polymarket trader known as 0x006 earned about 1.34 million dollars in a single day. The run brought the wallet's total profit on the platform to more than 3.8 million dollars. ([Blockchain.News](https://blockchain.news/flashnews/polymarket-whale-0x006-nets-1-34m-in-24-hours-3-8m-total-profit-onchain-lens-data))",
-      "image_url": null,
-      "published": "2026-10-16T15:00:00-04:00",
-      "source": "2026-10-16_1500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1500-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1500-edt-2",
-      "title": "Kalshi's two October Fed contracts disagree, pricing a hike at 12.5 percent and 14.5 percent",
-      "content_text": "- **Kalshi's two October Fed contracts disagree, pricing a hike at 12.5 percent and 14.5 percent** — DeFi Rate notes that two Kalshi contracts settling on the same October Federal Reserve outcome show different prices, at 12.5 percent in the decision market and 14.5 percent in the rate-level market. Kalshi and Polymarket are close on a hike at some point in 2026, at 78.0 percent and 79.5 percent. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
-      "content_html": "<p>- **Kalshi&#x27;s two October Fed contracts disagree, pricing a hike at 12.5 percent and 14.5 percent** — DeFi Rate notes that two Kalshi contracts settling on the same October Federal Reserve outcome show different prices, at 12.5 percent in the decision market and 14.5 percent in the rate-level market. Kalshi and Polymarket are close on a hike at some point in 2026, at 78.0 percent and 79.5 percent. ([DeFi Rate](https://defirate.com/odds/fed-decision/))</p>",
-      "date_published": "2026-10-16T15:00:00-04:00",
-      "date_modified": "2026-10-16T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/fed-decision/",
-      "links": [
-        "https://defirate.com/odds/fed-decision/"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:00 PM ET",
-      "body": "- **Kalshi's two October Fed contracts disagree, pricing a hike at 12.5 percent and 14.5 percent** — DeFi Rate notes that two Kalshi contracts settling on the same October Federal Reserve outcome show different prices, at 12.5 percent in the decision market and 14.5 percent in the rate-level market. Kalshi and Polymarket are close on a hike at some point in 2026, at 78.0 percent and 79.5 percent. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
-      "image_url": null,
-      "published": "2026-10-16T15:00:00-04:00",
-      "source": "2026-10-16_1500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1500-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1500-edt-3",
-      "title": "Polymarket AI lab market prices DeepSeek at 99 percent for top OpenRouter market share in the week of October 12",
-      "content_text": "- **Polymarket AI lab market prices DeepSeek at 99 percent for top OpenRouter market share in the week of October 12** — Polymarket's market on the top AI lab by OpenRouter market share for the week of October 12 prices DeepSeek at 99 percent. Google is next at 5 percent in the 12-outcome market, which launched on October 12. ([Polymarket](https://polymarket.com/event/top-ai-lab-by-openrouter-market-share-week-of-october-12))",
-      "content_html": "<p>- **Polymarket AI lab market prices DeepSeek at 99 percent for top OpenRouter market share in the week of October 12** — Polymarket&#x27;s market on the top AI lab by OpenRouter market share for the week of October 12 prices DeepSeek at 99 percent. Google is next at 5 percent in the 12-outcome market, which launched on October 12. ([Polymarket](https://polymarket.com/event/top-ai-lab-by-openrouter-market-share-week-of-october-12))</p>",
-      "date_published": "2026-10-16T15:00:00-04:00",
-      "date_modified": "2026-10-16T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/top-ai-lab-by-openrouter-market-share-week-of-october-12",
-      "links": [
-        "https://polymarket.com/event/top-ai-lab-by-openrouter-market-share-week-of-october-12"
-      ],
-      "timestamp": "Oct 16, 2026 · 3:00 PM ET",
-      "body": "- **Polymarket AI lab market prices DeepSeek at 99 percent for top OpenRouter market share in the week of October 12** — Polymarket's market on the top AI lab by OpenRouter market share for the week of October 12 prices DeepSeek at 99 percent. Google is next at 5 percent in the 12-outcome market, which launched on October 12. ([Polymarket](https://polymarket.com/event/top-ai-lab-by-openrouter-market-share-week-of-october-12))",
-      "image_url": null,
-      "published": "2026-10-16T15:00:00-04:00",
-      "source": "2026-10-16_1500-edt.json",
       "matches_facebook_post": false
     }
   ]
