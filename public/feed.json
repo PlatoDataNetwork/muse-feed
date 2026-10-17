@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T05:21:21.056230-04:00",
+  "updated": "2026-10-17T05:35:32.140591-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,101 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-17_0530-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0530-edt-0",
+      "title": "Midterm election betting tops 750 million dollars on Kalshi and Polymarket",
+      "content_text": "- **Midterm election betting tops 750 million dollars on Kalshi and Polymarket** — A CNN analysis of public data put combined trading on 2026 election contracts on Kalshi and Polymarket above 750 million dollars. The Anti-Corruption Data Collective projects betting on congressional races alone could reach 1.4 to 1.6 billion dollars by the end of the cycle, with 221 million dollars already traded versus 92 million dollars in the entire 2024 congressional cycle. ([RG.org](https://rg.org/news/gambling-industry/midterm-prediction-market-trading-tops-750m-watchdog-sees-1-6b))",
+      "content_html": "<p>- **Midterm election betting tops 750 million dollars on Kalshi and Polymarket** — A CNN analysis of public data put combined trading on 2026 election contracts on Kalshi and Polymarket above 750 million dollars. The Anti-Corruption Data Collective projects betting on congressional races alone could reach 1.4 to 1.6 billion dollars by the end of the cycle, with 221 million dollars already traded versus 92 million dollars in the entire 2024 congressional cycle. ([RG.org](https://rg.org/news/gambling-industry/midterm-prediction-market-trading-tops-750m-watchdog-sees-1-6b))</p>",
+      "date_published": "2026-10-17T05:30:00-04:00",
+      "date_modified": "2026-10-17T05:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/gambling-industry/midterm-prediction-market-trading-tops-750m-watchdog-sees-1-6b",
+      "links": [
+        "https://rg.org/news/gambling-industry/midterm-prediction-market-trading-tops-750m-watchdog-sees-1-6b"
+      ],
+      "timestamp": "Oct 17, 2026 · 5:30 AM ET",
+      "body": "- **Midterm election betting tops 750 million dollars on Kalshi and Polymarket** — A CNN analysis of public data put combined trading on 2026 election contracts on Kalshi and Polymarket above 750 million dollars. The Anti-Corruption Data Collective projects betting on congressional races alone could reach 1.4 to 1.6 billion dollars by the end of the cycle, with 221 million dollars already traded versus 92 million dollars in the entire 2024 congressional cycle. ([RG.org](https://rg.org/news/gambling-industry/midterm-prediction-market-trading-tops-750m-watchdog-sees-1-6b))",
+      "image_url": null,
+      "published": "2026-10-17T05:30:00-04:00",
+      "source": "2026-10-17_0530-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_0530-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0530-edt-1",
+      "title": "Texas Senate leads Kalshi midterm volume in ranking of politicians by trading volume",
+      "content_text": "- **Texas Senate leads Kalshi midterm volume in ranking of politicians by trading volume** — Action Network ranked politicians by prediction market trading volume, with Kalshi's 149 midterm candidate and party markets across 71 races totaling about 90.9 million dollars. The Texas Senate race led at 21.8 million dollars, including 13.1 million dollars on Ken Paxton against 8.8 million dollars on James Talarico, ahead of Maine Senate at 8.3 million dollars. ([Action Network](https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume))",
+      "content_html": "<p>- **Texas Senate leads Kalshi midterm volume in ranking of politicians by trading volume** — Action Network ranked politicians by prediction market trading volume, with Kalshi&#x27;s 149 midterm candidate and party markets across 71 races totaling about 90.9 million dollars. The Texas Senate race led at 21.8 million dollars, including 13.1 million dollars on Ken Paxton against 8.8 million dollars on James Talarico, ahead of Maine Senate at 8.3 million dollars. ([Action Network](https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume))</p>",
+      "date_published": "2026-10-17T05:30:00-04:00",
+      "date_modified": "2026-10-17T05:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume",
+      "links": [
+        "https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume"
+      ],
+      "timestamp": "Oct 17, 2026 · 5:30 AM ET",
+      "body": "- **Texas Senate leads Kalshi midterm volume in ranking of politicians by trading volume** — Action Network ranked politicians by prediction market trading volume, with Kalshi's 149 midterm candidate and party markets across 71 races totaling about 90.9 million dollars. The Texas Senate race led at 21.8 million dollars, including 13.1 million dollars on Ken Paxton against 8.8 million dollars on James Talarico, ahead of Maine Senate at 8.3 million dollars. ([Action Network](https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume))",
+      "image_url": null,
+      "published": "2026-10-17T05:30:00-04:00",
+      "source": "2026-10-17_0530-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-17_0524-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0524-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nMax Martin attend Taylor Swift's wedding priced at 15.5% on Polymarket, down 0.8 points, on $182K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/culture/\n\nTrump acquire Greenland before 2027 priced at 2.4% on Polymarket, up 0.1 points, on $35.7M traded\nPredictionBubbles' politics board lists the acquisition contract among its most-traded politics markets — a contract not featured in any earlier October edition, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/politics/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Max Martin attend Taylor Swift&#x27;s wedding priced at 15.5% on Polymarket, down 0.8 points, on $182K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…<br/>#PredictionMarkets #Polymarket #Midterms<br/>https://predictionbubbles.net/markets/culture/<br/><br/>Trump acquire Greenland before 2027 priced at 2.4% on Polymarket, up 0.1 points, on $35.7M traded<br/>PredictionBubbles&#x27; politics board lists the acquisition contract among its most-traded politics markets — a contract not featured in any earlier October edition, in a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/politics/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T05:24:00-04:00",
+      "date_modified": "2026-10-17T05:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/culture/",
+      "links": [
+        "https://predictionbubbles.net/markets/culture/",
+        "https://predictionbubbles.net/markets/politics/"
+      ],
+      "timestamp": "Oct 17, 2026 · 5:24 AM ET",
+      "body": "Infiniti Briefing\n\nMax Martin attend Taylor Swift's wedding priced at 15.5% on Polymarket, down 0.8 points, on $182K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/culture/\n\nTrump acquire Greenland before 2027 priced at 2.4% on Polymarket, up 0.1 points, on $35.7M traded\nPredictionBubbles' politics board lists the acquisition contract among its most-traded politics markets — a contract not featured in any earlier October edition, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/politics/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T05:24:00-04:00",
+      "source": "2026-10-17_0524-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_0515-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0515-edt-0",
@@ -4596,95 +4691,6 @@
       ],
       "timestamp": "Oct 16, 2026 · 9:30 PM ET",
       "body": "- **Kalshi and Polymarket will not be part of FTC sports gambling probe, report says** — Kalshi and Polymarket will not be part of an FTC sports gambling probe, according to a report cited by Protos. Both platforms argue they offer CFTC-regulated event contracts rather than gambling and should be overseen federally instead of by individual states. ([Protos](https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/))",
-      "image_url": null,
-      "published": "2026-10-16T21:30:00-04:00",
-      "source": "2026-10-16_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_2130-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2130-edt-2",
-      "title": "Prediction market volume tracker shows 99.6 billion dollars traded in 30 days, with Kalshi at 76 percent",
-      "content_text": "- **Prediction market volume tracker shows 99.6 billion dollars traded in 30 days, with Kalshi at 76 percent** — DeFi Rate volume tracking shows 99.6 billion dollars in prediction market contracts traded in the last 30 days, with Kalshi handling 76 percent of it. The tracker reports 3.5 billion dollars traded in the last 24 hours across the tracked venues. ([DeFi Rate](https://defirate.com/prediction-markets/volume/))",
-      "content_html": "<p>- **Prediction market volume tracker shows 99.6 billion dollars traded in 30 days, with Kalshi at 76 percent** — DeFi Rate volume tracking shows 99.6 billion dollars in prediction market contracts traded in the last 30 days, with Kalshi handling 76 percent of it. The tracker reports 3.5 billion dollars traded in the last 24 hours across the tracked venues. ([DeFi Rate](https://defirate.com/prediction-markets/volume/))</p>",
-      "date_published": "2026-10-16T21:30:00-04:00",
-      "date_modified": "2026-10-16T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/"
-      ],
-      "timestamp": "Oct 16, 2026 · 9:30 PM ET",
-      "body": "- **Prediction market volume tracker shows 99.6 billion dollars traded in 30 days, with Kalshi at 76 percent** — DeFi Rate volume tracking shows 99.6 billion dollars in prediction market contracts traded in the last 30 days, with Kalshi handling 76 percent of it. The tracker reports 3.5 billion dollars traded in the last 24 hours across the tracked venues. ([DeFi Rate](https://defirate.com/prediction-markets/volume/))",
-      "image_url": null,
-      "published": "2026-10-16T21:30:00-04:00",
-      "source": "2026-10-16_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_2130-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2130-edt-3",
-      "title": "Polymarket and Kalshi priced the Fed October decision four points apart",
-      "content_text": "- **Polymarket and Kalshi priced the Fed October decision four points apart** — Polymarket and Kalshi priced the Federal Reserve October decision about four points apart, with Polymarket no-change around 75 to 76 cents and Kalshi maintains-rate around 71 to 72 cents. Polymarket October volume was reported at about 40.5 million dollars, with Kalshi at about 11.1 million contracts. ([DEV](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
-      "content_html": "<p>- **Polymarket and Kalshi priced the Fed October decision four points apart** — Polymarket and Kalshi priced the Federal Reserve October decision about four points apart, with Polymarket no-change around 75 to 76 cents and Kalshi maintains-rate around 71 to 72 cents. Polymarket October volume was reported at about 40.5 million dollars, with Kalshi at about 11.1 million contracts. ([DEV](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))</p>",
-      "date_published": "2026-10-16T21:30:00-04:00",
-      "date_modified": "2026-10-16T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln",
-      "links": [
-        "http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln"
-      ],
-      "timestamp": "Oct 16, 2026 · 9:30 PM ET",
-      "body": "- **Polymarket and Kalshi priced the Fed October decision four points apart** — Polymarket and Kalshi priced the Federal Reserve October decision about four points apart, with Polymarket no-change around 75 to 76 cents and Kalshi maintains-rate around 71 to 72 cents. Polymarket October volume was reported at about 40.5 million dollars, with Kalshi at about 11.1 million contracts. ([DEV](http://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
-      "image_url": null,
-      "published": "2026-10-16T21:30:00-04:00",
-      "source": "2026-10-16_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_2130-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2130-edt-4",
-      "title": "Kalshi Bitcoin odds for topping 90,000 dollars in October fall to 32 percent",
-      "content_text": "- **Kalshi Bitcoin odds for topping 90,000 dollars in October fall to 32 percent** — Kalshi traders gave Bitcoin a 32 percent probability of trading above 90,000 dollars during October, down 18 points on the displayed change indicator, with 90,000 dollars requiring a gain of about 9.2 percent from near 82,418 dollars. Odds were 48 percent for above 87,500 dollars and 18 percent for above 92,500 dollars. ([The Crypto Times](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))",
-      "content_html": "<p>- **Kalshi Bitcoin odds for topping 90,000 dollars in October fall to 32 percent** — Kalshi traders gave Bitcoin a 32 percent probability of trading above 90,000 dollars during October, down 18 points on the displayed change indicator, with 90,000 dollars requiring a gain of about 9.2 percent from near 82,418 dollars. Odds were 48 percent for above 87,500 dollars and 18 percent for above 92,500 dollars. ([The Crypto Times](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))</p>",
-      "date_published": "2026-10-16T21:30:00-04:00",
-      "date_modified": "2026-10-16T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/",
-      "links": [
-        "https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/"
-      ],
-      "timestamp": "Oct 16, 2026 · 9:30 PM ET",
-      "body": "- **Kalshi Bitcoin odds for topping 90,000 dollars in October fall to 32 percent** — Kalshi traders gave Bitcoin a 32 percent probability of trading above 90,000 dollars during October, down 18 points on the displayed change indicator, with 90,000 dollars requiring a gain of about 9.2 percent from near 82,418 dollars. Odds were 48 percent for above 87,500 dollars and 18 percent for above 92,500 dollars. ([The Crypto Times](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))",
       "image_url": null,
       "published": "2026-10-16T21:30:00-04:00",
       "source": "2026-10-16_2130-edt.json",
