@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T11:14:19.556279-04:00",
+  "updated": "2026-10-17T11:30:14.079548-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_1124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAnthropic's valuation hit (HIGH) $4.0T by December 31 priced at 6.1% on Polymarket, down 0.8 points, on $911K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nNapoli wins priced at 9% on Kalshi, down 48 points, on $772K traded\nPredictionBubbles ranks the Napoli win contract as the day's largest downward move on the movers board, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic&#x27;s valuation hit (HIGH) $4.0T by December 31 priced at 6.1% on Polymarket, down 0.8 points, on $911K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Napoli wins priced at 9% on Kalshi, down 48 points, on $772K traded<br/>PredictionBubbles ranks the Napoli win contract as the day&#x27;s largest downward move on the movers board, in a sports markets category distinct from the lead — a contract…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T11:24:00-04:00",
+      "date_modified": "2026-10-17T11:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/finance/",
+      "links": [
+        "https://predictionbubbles.net/markets/finance/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 11:24 AM ET",
+      "body": "Infiniti Briefing\n\nAnthropic's valuation hit (HIGH) $4.0T by December 31 priced at 6.1% on Polymarket, down 0.8 points, on $911K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nNapoli wins priced at 9% on Kalshi, down 48 points, on $772K traded\nPredictionBubbles ranks the Napoli win contract as the day's largest downward move on the movers board, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T11:24:00-04:00",
+      "source": "2026-10-17_1124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-17_1109-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1109-edt",
@@ -4666,44 +4700,6 @@
       "published": "2026-10-17T03:15:00-04:00",
       "source": "2026-10-17_0315-edt.json",
       "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_0309-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0309-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nIndiana win the College Football Playoff National Championship priced at 9% on Kalshi\nIndiana at 9% on Kalshi, up 2 points, on $2.3M traded.\n#CollegeFootball #SportsMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nMichael be the top grossing movie of 2026 priced at 0.1% on Polymarket\nMichael at 0.1% on Polymarket, on $1.3M traded.\n#Movies #Culture #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nFDA approves Retatrutide this year priced at 2.6% on Polymarket\nRetatrutide approval at 2.6% on Polymarket, on $595K traded.\n#FDA #Health #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nMarkets: Gold $4,160 | Brent $110 | BTC $81,647\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Indiana win the College Football Playoff National Championship priced at 9% on Kalshi<br/>Indiana at 9% on Kalshi, up 2 points, on $2.3M traded.<br/>#CollegeFootball #SportsMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Michael be the top grossing movie of 2026 priced at 0.1% on Polymarket<br/>Michael at 0.1% on Polymarket, on $1.3M traded.<br/>#Movies #Culture #Polymarket<br/>https://predictionbubbles.net/markets/culture/<br/><br/>FDA approves Retatrutide this year priced at 2.6% on Polymarket<br/>Retatrutide approval at 2.6% on Polymarket, on $595K traded.<br/>#FDA #Health #Polymarket<br/>https://predictionbubbles.net/markets/tech/<br/><br/>Markets: Gold $4,160 | Brent $110 | BTC $81,647<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-17_0309-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-17T03:09:00-04:00",
-      "date_modified": "2026-10-17T03:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CollegeFootball",
-        "SportsMarkets",
-        "Kalshi",
-        "Movies",
-        "Culture",
-        "Polymarket",
-        "FDA",
-        "Health"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-17_0309-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/sports/",
-      "links": [
-        "https://predictionbubbles.net/markets/sports/",
-        "https://predictionbubbles.net/markets/culture/",
-        "https://predictionbubbles.net/markets/tech/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:09 AM ET",
-      "body": "Infiniti Briefing\nIndiana win the College Football Playoff National Championship priced at 9% on Kalshi\nIndiana at 9% on Kalshi, up 2 points, on $2.3M traded.\n#CollegeFootball #SportsMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nMichael be the top grossing movie of 2026 priced at 0.1% on Polymarket\nMichael at 0.1% on Polymarket, on $1.3M traded.\n#Movies #Culture #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nFDA approves Retatrutide this year priced at 2.6% on Polymarket\nRetatrutide approval at 2.6% on Polymarket, on $595K traded.\n#FDA #Health #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nMarkets: Gold $4,160 | Brent $110 | BTC $81,647\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-17_0309-edt.jpg",
-      "published": "2026-10-17T03:09:00-04:00",
-      "source": "2026-10-17_0309-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
