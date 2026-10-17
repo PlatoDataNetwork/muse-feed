@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T13:01:12.767345-04:00",
+  "updated": "2026-10-17T13:19:53.731788-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,11 +128,102 @@
   ],
   "items": [
     {
+      "id": "infiniti-2026-10-17_1309-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1309-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPolymarket live board at 667 active markets, $4,541.0M total volume, $134.7M traded in 24h and $484.7M liquidity\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Bitcoin #Midterms\nhttps://predscope.com/stats\n\nIsrael x Iran ceasefire continues through November 30 priced at 65.5% on Polymarket, up 10.5 points, on $581K traded\nPredictionBubbles ranks the November-dated ceasefire contract among the day's largest upward moves, in a political/geopolitics category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Polymarket live board at 667 active markets, $4,541.0M total volume, $134.7M traded in 24h and $484.7M liquidity<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…<br/>#PredictionMarkets #Polymarket #Bitcoin #Midterms<br/>https://predscope.com/stats<br/><br/>Israel x Iran ceasefire continues through November 30 priced at 65.5% on Polymarket, up 10.5 points, on $581K traded<br/>PredictionBubbles ranks the November-dated ceasefire contract among the day&#x27;s largest upward moves, in a political/geopolitics category distinct from the lead — a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T13:09:00-04:00",
+      "date_modified": "2026-10-17T13:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://predscope.com/stats",
+      "links": [
+        "https://predscope.com/stats",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 1:09 PM ET",
+      "body": "Infiniti Briefing\n\nPolymarket live board at 667 active markets, $4,541.0M total volume, $134.7M traded in 24h and $484.7M liquidity\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Bitcoin #Midterms\nhttps://predscope.com/stats\n\nIsrael x Iran ceasefire continues through November 30 priced at 65.5% on Polymarket, up 10.5 points, on $581K traded\nPredictionBubbles ranks the November-dated ceasefire contract among the day's largest upward moves, in a political/geopolitics category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T13:09:00-04:00",
+      "source": "2026-10-17_1309-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1300-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1300-edt-0",
+      "title": "Kalshi Yang-Mills solved next contract jumps 20 points to about 20 percent in 24 hours",
+      "content_text": "- **Kalshi Yang-Mills solved next contract jumps 20 points to about 20 percent in 24 hours** — A thinly traded Kalshi contract on whether the Yang-Mills existence and mass gap problem will be the next Clay Millennium Prize Problem solved before 2045 priced at about 20 percent on October 17, up about 20 points in 24 hours, with volume equal to all of its lifetime turnover. The move followed a wave of self-published solution preprints and AI math excitement, with no accepted proof, and Clay still lists the problem as unsolved. ([Tech Insider](https://tech-insider.org/yang-mills-solved-next-before-2045-kalshi-odds/))",
+      "content_html": "<p>- **Kalshi Yang-Mills solved next contract jumps 20 points to about 20 percent in 24 hours** — A thinly traded Kalshi contract on whether the Yang-Mills existence and mass gap problem will be the next Clay Millennium Prize Problem solved before 2045 priced at about 20 percent on October 17, up about 20 points in 24 hours, with volume equal to all of its lifetime turnover. The move followed a wave of self-published solution preprints and AI math excitement, with no accepted proof, and Clay still lists the problem as unsolved. ([Tech Insider](https://tech-insider.org/yang-mills-solved-next-before-2045-kalshi-odds/))</p>",
+      "date_published": "2026-10-17T13:00:00-04:00",
+      "date_modified": "2026-10-17T13:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://tech-insider.org/yang-mills-solved-next-before-2045-kalshi-odds/",
+      "links": [
+        "https://tech-insider.org/yang-mills-solved-next-before-2045-kalshi-odds/"
+      ],
+      "timestamp": "Oct 17, 2026 · 1:00 PM ET",
+      "body": "- **Kalshi Yang-Mills solved next contract jumps 20 points to about 20 percent in 24 hours** — A thinly traded Kalshi contract on whether the Yang-Mills existence and mass gap problem will be the next Clay Millennium Prize Problem solved before 2045 priced at about 20 percent on October 17, up about 20 points in 24 hours, with volume equal to all of its lifetime turnover. The move followed a wave of self-published solution preprints and AI math excitement, with no accepted proof, and Clay still lists the problem as unsolved. ([Tech Insider](https://tech-insider.org/yang-mills-solved-next-before-2045-kalshi-odds/))",
+      "image_url": null,
+      "published": "2026-10-17T13:00:00-04:00",
+      "source": "2026-10-17_1300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1300-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1300-edt-1",
+      "title": "Kalshi sponsors local TV sports segments previewing Ohio State at Indiana",
+      "content_text": "- **Kalshi sponsors local TV sports segments previewing Ohio State at Indiana** — Kalshi sponsored sports segments on WBNS-TV in Columbus and KVUE-TV in Austin previewing the Ohio State versus Indiana game, aired October 15 to 16, in its first known push into local broadcast advertising for college football. On October 17 Kalshi traders priced Ohio State at 58 percent to win the game in Bloomington. ([Prediction News](https://predictionnews.com/story/kvue-sports-segment-sponsored-by-kalshi-previews-ohio-state-indiana-matchup))",
+      "content_html": "<p>- **Kalshi sponsors local TV sports segments previewing Ohio State at Indiana** — Kalshi sponsored sports segments on WBNS-TV in Columbus and KVUE-TV in Austin previewing the Ohio State versus Indiana game, aired October 15 to 16, in its first known push into local broadcast advertising for college football. On October 17 Kalshi traders priced Ohio State at 58 percent to win the game in Bloomington. ([Prediction News](https://predictionnews.com/story/kvue-sports-segment-sponsored-by-kalshi-previews-ohio-state-indiana-matchup))</p>",
+      "date_published": "2026-10-17T13:00:00-04:00",
+      "date_modified": "2026-10-17T13:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/kvue-sports-segment-sponsored-by-kalshi-previews-ohio-state-indiana-matchup",
+      "links": [
+        "https://predictionnews.com/story/kvue-sports-segment-sponsored-by-kalshi-previews-ohio-state-indiana-matchup"
+      ],
+      "timestamp": "Oct 17, 2026 · 1:00 PM ET",
+      "body": "- **Kalshi sponsors local TV sports segments previewing Ohio State at Indiana** — Kalshi sponsored sports segments on WBNS-TV in Columbus and KVUE-TV in Austin previewing the Ohio State versus Indiana game, aired October 15 to 16, in its first known push into local broadcast advertising for college football. On October 17 Kalshi traders priced Ohio State at 58 percent to win the game in Bloomington. ([Prediction News](https://predictionnews.com/story/kvue-sports-segment-sponsored-by-kalshi-previews-ohio-state-indiana-matchup))",
+      "image_url": null,
+      "published": "2026-10-17T13:00:00-04:00",
+      "source": "2026-10-17_1300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
       "id": "infiniti-2026-10-17_1254-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1254-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPSG wins priced at 36% on Kalshi, down 35 points, on $1.5M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Kalshi #Senate #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nIsraeli airspace closed by December 31, 2026 priced at 26% on Polymarket, up 2.5 points, on $143K traded\nPredictionBubbles lists the airspace-closure contract among the day's upward moves, in a political/geopolitics category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>PSG wins priced at 36% on Kalshi, down 35 points, on $1.5M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…<br/>#PredictionMarkets #Kalshi #Senate #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Israeli airspace closed by December 31, 2026 priced at 26% on Polymarket, up 2.5 points, on $143K traded<br/>PredictionBubbles lists the airspace-closure contract among the day&#x27;s upward moves, in a political/geopolitics category distinct from the lead<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nPSG wins priced at 36% on Kalshi, down 35 points\nQuiet quarter-hour lead: $1.5M traded on the day's largest downward move.\n#Soccer #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nIsraeli airspace closed by Dec 31, 2026 priced at 26% on Polymarket\nUp 2.5 points on $143K traded among the day's upward moves.\n#Geopolitics #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMojtaba Khamenei seen in public by Dec 31 priced at 17.5%\nDown 2 points on Polymarket on $730K traded.\n#Politics #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: Gold $4,181 | Oil $99 | BTC $81,326 | ETH $2,410\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>PSG wins priced at 36% on Kalshi, down 35 points<br/>Quiet quarter-hour lead: $1.5M traded on the day&#x27;s largest downward move.<br/>#Soccer #PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Israeli airspace closed by Dec 31, 2026 priced at 26% on Polymarket<br/>Up 2.5 points on $143K traded among the day&#x27;s upward moves.<br/>#Geopolitics #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Mojtaba Khamenei seen in public by Dec 31 priced at 17.5%<br/>Down 2 points on Polymarket on $730K traded.<br/>#Politics #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: Gold $4,181 | Oil $99 | BTC $81,326 | ETH $2,410<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-17_1254-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-17T12:54:00-04:00",
       "date_modified": "2026-10-17T12:54:00-04:00",
       "authors": [
@@ -142,23 +233,24 @@
         }
       ],
       "tags": [
+        "Soccer",
         "PredictionMarkets",
         "Kalshi",
-        "Senate",
-        "Midterms",
-        "Polymarket"
+        "Geopolitics",
+        "Polymarket",
+        "Politics"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-17_1254-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/movers/",
       "links": [
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 17, 2026 · 12:54 PM ET",
-      "body": "Infiniti Briefing\n\nPSG wins priced at 36% on Kalshi, down 35 points, on $1.5M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Kalshi #Senate #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nIsraeli airspace closed by December 31, 2026 priced at 26% on Polymarket, up 2.5 points, on $143K traded\nPredictionBubbles lists the airspace-closure contract among the day's upward moves, in a political/geopolitics category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nPSG wins priced at 36% on Kalshi, down 35 points\nQuiet quarter-hour lead: $1.5M traded on the day's largest downward move.\n#Soccer #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nIsraeli airspace closed by Dec 31, 2026 priced at 26% on Polymarket\nUp 2.5 points on $143K traded among the day's upward moves.\n#Geopolitics #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMojtaba Khamenei seen in public by Dec 31 priced at 17.5%\nDown 2 points on Polymarket on $730K traded.\n#Politics #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: Gold $4,181 | Oil $99 | BTC $81,326 | ETH $2,410\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-17_1254-edt.jpg",
       "published": "2026-10-17T12:54:00-04:00",
       "source": "2026-10-17_1254-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-17_1245-edt-0",
@@ -4617,93 +4709,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 4:15 AM ET",
       "body": "- **Iowa Senate market prices Ashley Hinson at 59 percent against Josh Turek on Kalshi and Polymarket** — Action Network's live comparison shows both Kalshi and Polymarket pricing Republican Ashley Hinson at 59 cents for Iowa's Senate seat, with Democrat Josh Turek at 41 cents on Polymarket and 42 cents on Kalshi. Both markets moved toward Hinson after her October 7 debate with Turek. ([Action Network](https://www.actionnetwork.com/news/iowa-senate-race-2026-polls-odds-turek-vs-hinson-polls-kalshi-polymarket-midterms-predictions-for-iowa-senate-race))",
-      "image_url": null,
-      "published": "2026-10-17T04:15:00-04:00",
-      "source": "2026-10-17_0415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0415-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0415-edt-1",
-      "title": "Ohio State vs Indiana draws 842,000 dollars in 24 hours as Kalshi prices Ohio State at 59 cents",
-      "content_text": "- **Ohio State vs Indiana draws 842,000 dollars in 24 hours as Kalshi prices Ohio State at 59 cents** — DeFi Rate's live board ranks the Ohio State vs Indiana game third among most-traded prediction markets on October 17, with 842,000 dollars traded in 24 hours. Kalshi prices Ohio State at 59 cents, with the spread at Ohio State minus 3.5 at 45 cents and the total over 49.5 at 53 cents. ([DeFi Rate](https://defirate.com/odds/))",
-      "content_html": "<p>- **Ohio State vs Indiana draws 842,000 dollars in 24 hours as Kalshi prices Ohio State at 59 cents** — DeFi Rate&#x27;s live board ranks the Ohio State vs Indiana game third among most-traded prediction markets on October 17, with 842,000 dollars traded in 24 hours. Kalshi prices Ohio State at 59 cents, with the spread at Ohio State minus 3.5 at 45 cents and the total over 49.5 at 53 cents. ([DeFi Rate](https://defirate.com/odds/))</p>",
-      "date_published": "2026-10-17T04:15:00-04:00",
-      "date_modified": "2026-10-17T04:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/",
-      "links": [
-        "https://defirate.com/odds/"
-      ],
-      "timestamp": "Oct 17, 2026 · 4:15 AM ET",
-      "body": "- **Ohio State vs Indiana draws 842,000 dollars in 24 hours as Kalshi prices Ohio State at 59 cents** — DeFi Rate's live board ranks the Ohio State vs Indiana game third among most-traded prediction markets on October 17, with 842,000 dollars traded in 24 hours. Kalshi prices Ohio State at 59 cents, with the spread at Ohio State minus 3.5 at 45 cents and the total over 49.5 at 53 cents. ([DeFi Rate](https://defirate.com/odds/))",
-      "image_url": null,
-      "published": "2026-10-17T04:15:00-04:00",
-      "source": "2026-10-17_0415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0415-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0415-edt-2",
-      "title": "Polymarket prices US-Iran ceasefire holding through October 17 at 97.4 percent",
-      "content_text": "- **Polymarket prices US-Iran ceasefire holding through October 17 at 97.4 percent** — DeFi Rate's live board lists the Polymarket contract on the US-Iran ceasefire continuing through October 17 at 97.4 cents, with 538,000 dollars traded in 24 hours. The same market prices continuation through October 18 at 93.6 cents and through October 22 at 90 cents. ([DeFi Rate](https://defirate.com/odds/))",
-      "content_html": "<p>- **Polymarket prices US-Iran ceasefire holding through October 17 at 97.4 percent** — DeFi Rate&#x27;s live board lists the Polymarket contract on the US-Iran ceasefire continuing through October 17 at 97.4 cents, with 538,000 dollars traded in 24 hours. The same market prices continuation through October 18 at 93.6 cents and through October 22 at 90 cents. ([DeFi Rate](https://defirate.com/odds/))</p>",
-      "date_published": "2026-10-17T04:15:00-04:00",
-      "date_modified": "2026-10-17T04:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/",
-      "links": [
-        "https://defirate.com/odds/"
-      ],
-      "timestamp": "Oct 17, 2026 · 4:15 AM ET",
-      "body": "- **Polymarket prices US-Iran ceasefire holding through October 17 at 97.4 percent** — DeFi Rate's live board lists the Polymarket contract on the US-Iran ceasefire continuing through October 17 at 97.4 cents, with 538,000 dollars traded in 24 hours. The same market prices continuation through October 18 at 93.6 cents and through October 22 at 90 cents. ([DeFi Rate](https://defirate.com/odds/))",
-      "image_url": null,
-      "published": "2026-10-17T04:15:00-04:00",
-      "source": "2026-10-17_0415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0415-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0415-edt-3",
-      "title": "Polymarket Protocol V2 nears launch ahead of planned November 2 mainnet switchover",
-      "content_text": "- **Polymarket Protocol V2 nears launch ahead of planned November 2 mainnet switchover** — Polymarket Protocol V2 unifies its markets on a single ERC-1155 position contract and a new OracleAggregator for resolution, replacing the legacy Gnosis framework used since 2019. Current plans call for canary testing to conclude October 30 and existing markets to transition starting November 2, with V1 Data API routes discontinued October 24. ([Bitcoin Foundation](https://bitcoinfoundation.org/news/prediction-markets/polymarket-v2-nears-launch-with-new-prediction-market-architecture/))",
-      "content_html": "<p>- **Polymarket Protocol V2 nears launch ahead of planned November 2 mainnet switchover** — Polymarket Protocol V2 unifies its markets on a single ERC-1155 position contract and a new OracleAggregator for resolution, replacing the legacy Gnosis framework used since 2019. Current plans call for canary testing to conclude October 30 and existing markets to transition starting November 2, with V1 Data API routes discontinued October 24. ([Bitcoin Foundation](https://bitcoinfoundation.org/news/prediction-markets/polymarket-v2-nears-launch-with-new-prediction-market-architecture/))</p>",
-      "date_published": "2026-10-17T04:15:00-04:00",
-      "date_modified": "2026-10-17T04:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitcoinfoundation.org/news/prediction-markets/polymarket-v2-nears-launch-with-new-prediction-market-architecture/",
-      "links": [
-        "https://bitcoinfoundation.org/news/prediction-markets/polymarket-v2-nears-launch-with-new-prediction-market-architecture/"
-      ],
-      "timestamp": "Oct 17, 2026 · 4:15 AM ET",
-      "body": "- **Polymarket Protocol V2 nears launch ahead of planned November 2 mainnet switchover** — Polymarket Protocol V2 unifies its markets on a single ERC-1155 position contract and a new OracleAggregator for resolution, replacing the legacy Gnosis framework used since 2019. Current plans call for canary testing to conclude October 30 and existing markets to transition starting November 2, with V1 Data API routes discontinued October 24. ([Bitcoin Foundation](https://bitcoinfoundation.org/news/prediction-markets/polymarket-v2-nears-launch-with-new-prediction-market-architecture/))",
       "image_url": null,
       "published": "2026-10-17T04:15:00-04:00",
       "source": "2026-10-17_0415-edt.json",
