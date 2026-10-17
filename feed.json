@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-16T20:20:15.810979-04:00",
+  "updated": "2026-10-16T20:35:01.281976-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-16_2024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_2024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSeattle win the 2027 Pro Football Championship priced at 6% on Kalshi, down 3 points, on $7.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category different from the previous…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nOlivia Chow win the 2026 Toronto mayoral election priced at 71.5% on Polymarket, up 3 points, on $172K traded\nPredictionBubbles ranks the mayoral contract among the day's upward moves ahead of its close in about 10 days — a contract not featured in any earlier edition today, in…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Seattle win the 2027 Pro Football Championship priced at 6% on Kalshi, down 3 points, on $7.3M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category different from the previous…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Olivia Chow win the 2026 Toronto mayoral election priced at 71.5% on Polymarket, up 3 points, on $172K traded<br/>PredictionBubbles ranks the mayoral contract among the day&#x27;s upward moves ahead of its close in about 10 days — a contract not featured in any earlier edition today, in…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-16T20:24:00-04:00",
+      "date_modified": "2026-10-16T20:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 16, 2026 · 8:24 PM ET",
+      "body": "Infiniti Briefing\n\nSeattle win the 2027 Pro Football Championship priced at 6% on Kalshi, down 3 points, on $7.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a sports markets category different from the previous…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nOlivia Chow win the 2026 Toronto mayoral election priced at 71.5% on Polymarket, up 3 points, on $172K traded\nPredictionBubbles ranks the mayoral contract among the day's upward moves ahead of its close in about 10 days — a contract not featured in any earlier edition today, in…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-16T20:24:00-04:00",
+      "source": "2026-10-16_2024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-16_2015-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_2015-edt-0",
@@ -4619,36 +4651,6 @@
       ],
       "timestamp": "Oct 16, 2026 · 12:45 PM ET",
       "body": "- **Prediction market volume hit 188 billion dollars in the third quarter as Kalshi sports trading overtook Polymarket** — A Zubiqo roundup says prediction market volume reached 188 billion dollars between July and September 2026, up nearly 70 percent from the previous quarter, with sports accounting for about 40 percent of Kalshi volume in the quarter. The roundup also cited Galaxy Research data showing 69.2 percent of retail Polymarket accounts finished below break-even. ([Zubiqo](https://zubiqo.com/news/prediction-markets-hit-188b-as-kalshi-sports-betting-overtakes-polymarket-dkzlbc))",
-      "image_url": null,
-      "published": "2026-10-16T12:45:00-04:00",
-      "source": "2026-10-16_1245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1245-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1245-edt-1",
-      "title": "Polymarket odds of Bitcoin hitting 77,500 dollars in October fall 16 points to 42.5 percent",
-      "content_text": "- **Polymarket odds of Bitcoin hitting 77,500 dollars in October fall 16 points to 42.5 percent** — Monitoring cited by Binance Square showed the Yes odds in Polymarket's Bitcoin price prediction market for October for the 77,500 dollar level falling from 58.5 percent to 42.5 percent within an hour on October 15. The move marked a sharp repricing of near-term downside odds for Bitcoin in October. ([Binance Square](https://www.binance.com/en/square/post/10-15-2026-the-probability-of-bitcoin-reaching-77-500-in-october-price-predictions-has-dropped-by-16-377594141272630))",
-      "content_html": "<p>- **Polymarket odds of Bitcoin hitting 77,500 dollars in October fall 16 points to 42.5 percent** — Monitoring cited by Binance Square showed the Yes odds in Polymarket&#x27;s Bitcoin price prediction market for October for the 77,500 dollar level falling from 58.5 percent to 42.5 percent within an hour on October 15. The move marked a sharp repricing of near-term downside odds for Bitcoin in October. ([Binance Square](https://www.binance.com/en/square/post/10-15-2026-the-probability-of-bitcoin-reaching-77-500-in-october-price-predictions-has-dropped-by-16-377594141272630))</p>",
-      "date_published": "2026-10-16T12:45:00-04:00",
-      "date_modified": "2026-10-16T12:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.binance.com/en/square/post/10-15-2026-the-probability-of-bitcoin-reaching-77-500-in-october-price-predictions-has-dropped-by-16-377594141272630",
-      "links": [
-        "https://www.binance.com/en/square/post/10-15-2026-the-probability-of-bitcoin-reaching-77-500-in-october-price-predictions-has-dropped-by-16-377594141272630"
-      ],
-      "timestamp": "Oct 16, 2026 · 12:45 PM ET",
-      "body": "- **Polymarket odds of Bitcoin hitting 77,500 dollars in October fall 16 points to 42.5 percent** — Monitoring cited by Binance Square showed the Yes odds in Polymarket's Bitcoin price prediction market for October for the 77,500 dollar level falling from 58.5 percent to 42.5 percent within an hour on October 15. The move marked a sharp repricing of near-term downside odds for Bitcoin in October. ([Binance Square](https://www.binance.com/en/square/post/10-15-2026-the-probability-of-bitcoin-reaching-77-500-in-october-price-predictions-has-dropped-by-16-377594141272630))",
       "image_url": null,
       "published": "2026-10-16T12:45:00-04:00",
       "source": "2026-10-16_1245-edt.json",
