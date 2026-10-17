@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T08:51:29.584596-04:00",
+  "updated": "2026-10-17T08:57:55.116316-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_0854-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0854-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nMaria Berlanga Bandera wins priced at 28% on Kalshi, up 21 points, on $1.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nCommodities & crypto stats\nMaximum WTI front month settle price reach $115.01 by Dec 31, 2026 at 38.9% on Kalshi, up 6.5 points, on $2.0M traded. Spot tape: Bitcoin at $81,550, down 0.95%, on…\n#PredictionMarkets #Kalshi #Bitcoin #Solana\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Maria Berlanga Bandera wins priced at 28% on Kalshi, up 21 points, on $1.3M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Commodities &amp; crypto stats<br/>Maximum WTI front month settle price reach $115.01 by Dec 31, 2026 at 38.9% on Kalshi, up 6.5 points, on $2.0M traded. Spot tape: Bitcoin at $81,550, down 0.95%, on…<br/>#PredictionMarkets #Kalshi #Bitcoin #Solana<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T08:54:00-04:00",
+      "date_modified": "2026-10-17T08:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Elections",
+        "Midterms",
+        "Bitcoin",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 8:54 AM ET",
+      "body": "Infiniti Briefing\n\nMaria Berlanga Bandera wins priced at 28% on Kalshi, up 21 points, on $1.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nCommodities & crypto stats\nMaximum WTI front month settle price reach $115.01 by Dec 31, 2026 at 38.9% on Kalshi, up 6.5 points, on $2.0M traded. Spot tape: Bitcoin at $81,550, down 0.95%, on…\n#PredictionMarkets #Kalshi #Bitcoin #Solana\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T08:54:00-04:00",
+      "source": "2026-10-17_0854-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_0845-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0845-edt-0",
@@ -4653,36 +4687,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 12:30 AM ET",
       "body": "- **Taiwan detains Polymarket trader over about 560 dollars in election trades** — Taiwanese prosecutors detained an engineer over roughly 560 dollars in Polymarket election trades, in a sweep that also blocked Kalshi and Coinbase. Election betting there can carry up to six months in prison under a 2023 amendment, weeks before a local election. ([Prediction News](https://predictionnews.com/story/taiwan-detains-polymarket-trader-over-560-in-election-trades))",
-      "image_url": null,
-      "published": "2026-10-17T00:30:00-04:00",
-      "source": "2026-10-17_0030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0030-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0030-edt-1",
-      "title": "Kalshi and Polymarket record 8.56 billion dollars in combined two-day volume, report says",
-      "content_text": "- **Kalshi and Polymarket record 8.56 billion dollars in combined two-day volume, report says** — Kalshi and Polymarket reportedly recorded a combined 8.56 billion dollars in trading volume across a two-day window. No platform breakdown was available in the underlying sourcing, so the split by venue and contract category remains unconfirmed. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
-      "content_html": "<p>- **Kalshi and Polymarket record 8.56 billion dollars in combined two-day volume, report says** — Kalshi and Polymarket reportedly recorded a combined 8.56 billion dollars in trading volume across a two-day window. No platform breakdown was available in the underlying sourcing, so the split by venue and contract category remains unconfirmed. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))</p>",
-      "date_published": "2026-10-17T00:30:00-04:00",
-      "date_modified": "2026-10-17T00:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/",
-      "links": [
-        "https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/"
-      ],
-      "timestamp": "Oct 17, 2026 · 12:30 AM ET",
-      "body": "- **Kalshi and Polymarket record 8.56 billion dollars in combined two-day volume, report says** — Kalshi and Polymarket reportedly recorded a combined 8.56 billion dollars in trading volume across a two-day window. No platform breakdown was available in the underlying sourcing, so the split by venue and contract category remains unconfirmed. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
       "image_url": null,
       "published": "2026-10-17T00:30:00-04:00",
       "source": "2026-10-17_0030-edt.json",
