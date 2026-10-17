@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T12:21:38.615106-04:00",
+  "updated": "2026-10-17T12:28:57.750438-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_1224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1224-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSpider-Man: Brand New Day be the top grossing movie of 2026 priced at 95.5% on Polymarket, on $696K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nIpswich Town wins priced at 1% on Kalshi, down 7 points, on $746K traded\nPredictionBubbles ranks the Ipswich win contract among the day's downward moves on its movers board, in a sports markets category distinct from the lead — a contract not…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Spider-Man: Brand New Day be the top grossing movie of 2026 priced at 95.5% on Polymarket, on $696K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/culture/<br/><br/>Ipswich Town wins priced at 1% on Kalshi, down 7 points, on $746K traded<br/>PredictionBubbles ranks the Ipswich win contract among the day&#x27;s downward moves on its movers board, in a sports markets category distinct from the lead — a contract not…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T12:24:00-04:00",
+      "date_modified": "2026-10-17T12:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/culture/",
+      "links": [
+        "https://predictionbubbles.net/markets/culture/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 12:24 PM ET",
+      "body": "Infiniti Briefing\n\nSpider-Man: Brand New Day be the top grossing movie of 2026 priced at 95.5% on Polymarket, on $696K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nIpswich Town wins priced at 1% on Kalshi, down 7 points, on $746K traded\nPredictionBubbles ranks the Ipswich win contract among the day's downward moves on its movers board, in a sports markets category distinct from the lead — a contract not…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T12:24:00-04:00",
+      "source": "2026-10-17_1224-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_1215-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1215-edt-0",
@@ -4672,35 +4704,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 4:00 AM ET",
       "body": "- **San Francisco 49ers favored to win Super Bowl LXI at about 14 percent across prediction markets** — DeFi Rate's Super Bowl LXI prices as of October 17 average the San Francisco 49ers at about 14 percent, with Kalshi at 14.5 percent, Polymarket US at 13.5 percent and Polymarket at 12.7 percent. Super Bowl LXI is scheduled for February 2027. ([DeFi Rate](https://defirate.com/odds/super-bowl/))",
-      "image_url": null,
-      "published": "2026-10-17T04:00:00-04:00",
-      "source": "2026-10-17_0400-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0400-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0400-edt-4",
-      "title": "NetChoice argues prediction markets need one federal rulebook",
-      "content_text": "- **NetChoice argues prediction markets need one federal rulebook** — NetChoice argued prediction markets need one federal rulebook as courts divide over whether they are financial markets overseen in Washington or gambling regulated by each state. The piece notes CNN and CNBC now carry Kalshi data and that Pew found monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))",
-      "content_html": "<p>- **NetChoice argues prediction markets need one federal rulebook** — NetChoice argued prediction markets need one federal rulebook as courts divide over whether they are financial markets overseen in Washington or gambling regulated by each state. The piece notes CNN and CNBC now carry Kalshi data and that Pew found monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))</p>",
-      "date_published": "2026-10-17T04:00:00-04:00",
-      "date_modified": "2026-10-17T04:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://netchoice.org/prediction-markets-need-one-rulebook/",
-      "links": [
-        "https://netchoice.org/prediction-markets-need-one-rulebook/"
-      ],
-      "timestamp": "Oct 17, 2026 · 4:00 AM ET",
-      "body": "- **NetChoice argues prediction markets need one federal rulebook** — NetChoice argued prediction markets need one federal rulebook as courts divide over whether they are financial markets overseen in Washington or gambling regulated by each state. The piece notes CNN and CNBC now carry Kalshi data and that Pew found monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))",
       "image_url": null,
       "published": "2026-10-17T04:00:00-04:00",
       "source": "2026-10-17_0400-edt.json",
