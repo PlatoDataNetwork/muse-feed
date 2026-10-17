@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T10:00:12.984734-04:00",
+  "updated": "2026-10-17T10:19:39.149129-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,253 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-17_1015-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1015-edt-0",
+      "title": "Prediction markets headed to Supreme Court this fall as circuit courts split on state versus federal authority",
+      "content_text": "- **Prediction markets headed to Supreme Court this fall as circuit courts split on state versus federal authority** — Circuit splits between federal and state courts over prediction market regulation are pushing Kalshi and Polymarket toward Supreme Court review in the October 2026 term. The dispute centers on whether the platforms operate as CFTC-regulated derivatives exchanges or as state-licensed gambling operators, with about 20 billion dollars in monthly trading volume at stake. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))",
+      "content_html": "<p>- **Prediction markets headed to Supreme Court this fall as circuit courts split on state versus federal authority** — Circuit splits between federal and state courts over prediction market regulation are pushing Kalshi and Polymarket toward Supreme Court review in the October 2026 term. The dispute centers on whether the platforms operate as CFTC-regulated derivatives exchanges or as state-licensed gambling operators, with about 20 billion dollars in monthly trading volume at stake. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))</p>",
+      "date_published": "2026-10-17T10:15:00-04:00",
+      "date_modified": "2026-10-17T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/",
+      "links": [
+        "https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:15 AM ET",
+      "body": "- **Prediction markets headed to Supreme Court this fall as circuit courts split on state versus federal authority** — Circuit splits between federal and state courts over prediction market regulation are pushing Kalshi and Polymarket toward Supreme Court review in the October 2026 term. The dispute centers on whether the platforms operate as CFTC-regulated derivatives exchanges or as state-licensed gambling operators, with about 20 billion dollars in monthly trading volume at stake. ([iGaming News](https://www.igamingnews.biz/prediction-markets-supreme-court-october-2026/))",
+      "image_url": null,
+      "published": "2026-10-17T10:15:00-04:00",
+      "source": "2026-10-17_1015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1015-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1015-edt-1",
+      "title": "Taiwan detains Polymarket trader over about 560 dollars in election trades ahead of local vote",
+      "content_text": "- **Taiwan detains Polymarket trader over about 560 dollars in election trades ahead of local vote** — Taiwanese prosecutors detained an engineer for roughly 560 dollars in Polymarket election trades, in the same enforcement sweep that blocked access to Kalshi and Coinbase. Election bettors face up to six months in prison under a 2023 amendment, weeks before a local election. ([Prediction News](https://predictionnews.com/story/taiwan-detains-polymarket-trader-over-560-in-election-trades))",
+      "content_html": "<p>- **Taiwan detains Polymarket trader over about 560 dollars in election trades ahead of local vote** — Taiwanese prosecutors detained an engineer for roughly 560 dollars in Polymarket election trades, in the same enforcement sweep that blocked access to Kalshi and Coinbase. Election bettors face up to six months in prison under a 2023 amendment, weeks before a local election. ([Prediction News](https://predictionnews.com/story/taiwan-detains-polymarket-trader-over-560-in-election-trades))</p>",
+      "date_published": "2026-10-17T10:15:00-04:00",
+      "date_modified": "2026-10-17T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/taiwan-detains-polymarket-trader-over-560-in-election-trades",
+      "links": [
+        "https://predictionnews.com/story/taiwan-detains-polymarket-trader-over-560-in-election-trades"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:15 AM ET",
+      "body": "- **Taiwan detains Polymarket trader over about 560 dollars in election trades ahead of local vote** — Taiwanese prosecutors detained an engineer for roughly 560 dollars in Polymarket election trades, in the same enforcement sweep that blocked access to Kalshi and Coinbase. Election bettors face up to six months in prison under a 2023 amendment, weeks before a local election. ([Prediction News](https://predictionnews.com/story/taiwan-detains-polymarket-trader-over-560-in-election-trades))",
+      "image_url": null,
+      "published": "2026-10-17T10:15:00-04:00",
+      "source": "2026-10-17_1015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1015-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1015-edt-2",
+      "title": "Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars",
+      "content_text": "- **Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars** — An October 2026 ranking of United States politicians by prediction market trading volume puts Tim Walz first on Polymarket at 88.7 million dollars across 8 markets and Donald Trump first on Kalshi at 48.6 million dollars across 878 markets. Total volume across open politics markets was about 2.18 billion dollars on Polymarket and about 573.1 million dollars on Kalshi. ([Bonus.com](https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/))",
+      "content_html": "<p>- **Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars** — An October 2026 ranking of United States politicians by prediction market trading volume puts Tim Walz first on Polymarket at 88.7 million dollars across 8 markets and Donald Trump first on Kalshi at 48.6 million dollars across 878 markets. Total volume across open politics markets was about 2.18 billion dollars on Polymarket and about 573.1 million dollars on Kalshi. ([Bonus.com](https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/))</p>",
+      "date_published": "2026-10-17T10:15:00-04:00",
+      "date_modified": "2026-10-17T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/",
+      "links": [
+        "https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:15 AM ET",
+      "body": "- **Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars** — An October 2026 ranking of United States politicians by prediction market trading volume puts Tim Walz first on Polymarket at 88.7 million dollars across 8 markets and Donald Trump first on Kalshi at 48.6 million dollars across 878 markets. Total volume across open politics markets was about 2.18 billion dollars on Polymarket and about 573.1 million dollars on Kalshi. ([Bonus.com](https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/))",
+      "image_url": null,
+      "published": "2026-10-17T10:15:00-04:00",
+      "source": "2026-10-17_1015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1015-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1015-edt-3",
+      "title": "Alabama priced at 74 percent on both Kalshi and Polymarket against Tennessee with Kalshi volume passing 637,000 dollars",
+      "content_text": "- **Alabama priced at 74 percent on both Kalshi and Polymarket against Tennessee with Kalshi volume passing 637,000 dollars** — Kalshi and Polymarket both price Alabama at 74 percent against Tennessee for the SEC Saturday matchup, and Kalshi's Alabama vs Tennessee winner market has passed 637,000 dollars in volume before kickoff. The agreement between the two venues is highlighted in coverage of the Week 7 college football slate. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/17/kalshi-promo-code-announces-55-referral-promo-for-tennessee-football-and-sec-saturday/))",
+      "content_html": "<p>- **Alabama priced at 74 percent on both Kalshi and Polymarket against Tennessee with Kalshi volume passing 637,000 dollars** — Kalshi and Polymarket both price Alabama at 74 percent against Tennessee for the SEC Saturday matchup, and Kalshi&#x27;s Alabama vs Tennessee winner market has passed 637,000 dollars in volume before kickoff. The agreement between the two venues is highlighted in coverage of the Week 7 college football slate. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/17/kalshi-promo-code-announces-55-referral-promo-for-tennessee-football-and-sec-saturday/))</p>",
+      "date_published": "2026-10-17T10:15:00-04:00",
+      "date_modified": "2026-10-17T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "SEC"
+      ],
+      "image": null,
+      "external_url": "https://www.rockytopinsider.com/2026/10/17/kalshi-promo-code-announces-55-referral-promo-for-tennessee-football-and-sec-saturday/",
+      "links": [
+        "https://www.rockytopinsider.com/2026/10/17/kalshi-promo-code-announces-55-referral-promo-for-tennessee-football-and-sec-saturday/"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:15 AM ET",
+      "body": "- **Alabama priced at 74 percent on both Kalshi and Polymarket against Tennessee with Kalshi volume passing 637,000 dollars** — Kalshi and Polymarket both price Alabama at 74 percent against Tennessee for the SEC Saturday matchup, and Kalshi's Alabama vs Tennessee winner market has passed 637,000 dollars in volume before kickoff. The agreement between the two venues is highlighted in coverage of the Week 7 college football slate. ([Rocky Top Insider](https://www.rockytopinsider.com/2026/10/17/kalshi-promo-code-announces-55-referral-promo-for-tennessee-football-and-sec-saturday/))",
+      "image_url": null,
+      "published": "2026-10-17T10:15:00-04:00",
+      "source": "2026-10-17_1015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1015-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1015-edt-4",
+      "title": "Stock contracts draw regulatory scrutiny as Polymarket stock markets pass 220 million dollars wagered",
+      "content_text": "- **Stock contracts draw regulatory scrutiny as Polymarket stock markets pass 220 million dollars wagered** — Polymarket International and Kalshi have pushed deeper into stock-linked event contracts, with Polymarket traders placing more than 220 million dollars across roughly 31,000 stock-related markets by early September. Securities lawyers warn the growth raises investor-protection concerns, with Nvidia, Alphabet, Apple and Tesla the most popular names. ([ReadWrite](https://readwrite.com/stock-contracts-prediction-markets/))",
+      "content_html": "<p>- **Stock contracts draw regulatory scrutiny as Polymarket stock markets pass 220 million dollars wagered** — Polymarket International and Kalshi have pushed deeper into stock-linked event contracts, with Polymarket traders placing more than 220 million dollars across roughly 31,000 stock-related markets by early September. Securities lawyers warn the growth raises investor-protection concerns, with Nvidia, Alphabet, Apple and Tesla the most popular names. ([ReadWrite](https://readwrite.com/stock-contracts-prediction-markets/))</p>",
+      "date_published": "2026-10-17T10:15:00-04:00",
+      "date_modified": "2026-10-17T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://readwrite.com/stock-contracts-prediction-markets/",
+      "links": [
+        "https://readwrite.com/stock-contracts-prediction-markets/"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:15 AM ET",
+      "body": "- **Stock contracts draw regulatory scrutiny as Polymarket stock markets pass 220 million dollars wagered** — Polymarket International and Kalshi have pushed deeper into stock-linked event contracts, with Polymarket traders placing more than 220 million dollars across roughly 31,000 stock-related markets by early September. Securities lawyers warn the growth raises investor-protection concerns, with Nvidia, Alphabet, Apple and Tesla the most popular names. ([ReadWrite](https://readwrite.com/stock-contracts-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-17T10:15:00-04:00",
+      "source": "2026-10-17_1015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-17_1009-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1009-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCleveland win the 2026 Pro Baseball American League Championship priced at 64% on Kalshi, up 18 points, on $1.1M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/\n\nSpaceX have the highest IPO Market Cap 2026 priced at 63.5% on Polymarket, up 16.5 points, on $999K traded\nPredictionBubbles lists the SpaceX IPO-cap contract as a top finance move of the day, in a fundraising/business category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Cleveland win the 2026 Pro Baseball American League Championship priced at 64% on Kalshi, up 18 points, on $1.1M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://predictionbubbles.net/markets/<br/><br/>SpaceX have the highest IPO Market Cap 2026 priced at 63.5% on Polymarket, up 16.5 points, on $999K traded<br/>PredictionBubbles lists the SpaceX IPO-cap contract as a top finance move of the day, in a fundraising/business category distinct from the lead<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T10:09:00-04:00",
+      "date_modified": "2026-10-17T10:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Senate",
+        "Elections",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:09 AM ET",
+      "body": "Infiniti Briefing\n\nCleveland win the 2026 Pro Baseball American League Championship priced at 64% on Kalshi, up 18 points, on $1.1M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/\n\nSpaceX have the highest IPO Market Cap 2026 priced at 63.5% on Polymarket, up 16.5 points, on $999K traded\nPredictionBubbles lists the SpaceX IPO-cap contract as a top finance move of the day, in a fundraising/business category distinct from the lead\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T10:09:00-04:00",
+      "source": "2026-10-17_1009-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1000-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1000-edt-0",
+      "title": "Kalshi asks Supreme Court for a monthlong extension as rehearing petitions move in the Sixth and Ninth Circuits",
+      "content_text": "- **Kalshi asks Supreme Court for a monthlong extension as rehearing petitions move in the Sixth and Ninth Circuits** — Kalshi has asked the Supreme Court for a monthlong extension to respond while it pursues rehearing petitions in the Sixth and Ninth Circuits, pausing immediate review of the federal-versus-state fight over sports event contracts. The Third Circuit sided with Kalshi while the Sixth and Ninth sided with states, and the CFTC's proposed swaps classification for event contracts could change which markets fall under federal oversight. ([Particle News](https://particle.news/story/kalshi-delays-supreme-court-fight-as-federal-rulemaking-and-rehearing-petitions-move-forward))",
+      "content_html": "<p>- **Kalshi asks Supreme Court for a monthlong extension as rehearing petitions move in the Sixth and Ninth Circuits** — Kalshi has asked the Supreme Court for a monthlong extension to respond while it pursues rehearing petitions in the Sixth and Ninth Circuits, pausing immediate review of the federal-versus-state fight over sports event contracts. The Third Circuit sided with Kalshi while the Sixth and Ninth sided with states, and the CFTC&#x27;s proposed swaps classification for event contracts could change which markets fall under federal oversight. ([Particle News](https://particle.news/story/kalshi-delays-supreme-court-fight-as-federal-rulemaking-and-rehearing-petitions-move-forward))</p>",
+      "date_published": "2026-10-17T10:00:00-04:00",
+      "date_modified": "2026-10-17T10:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://particle.news/story/kalshi-delays-supreme-court-fight-as-federal-rulemaking-and-rehearing-petitions-move-forward",
+      "links": [
+        "https://particle.news/story/kalshi-delays-supreme-court-fight-as-federal-rulemaking-and-rehearing-petitions-move-forward"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:00 AM ET",
+      "body": "- **Kalshi asks Supreme Court for a monthlong extension as rehearing petitions move in the Sixth and Ninth Circuits** — Kalshi has asked the Supreme Court for a monthlong extension to respond while it pursues rehearing petitions in the Sixth and Ninth Circuits, pausing immediate review of the federal-versus-state fight over sports event contracts. The Third Circuit sided with Kalshi while the Sixth and Ninth sided with states, and the CFTC's proposed swaps classification for event contracts could change which markets fall under federal oversight. ([Particle News](https://particle.news/story/kalshi-delays-supreme-court-fight-as-federal-rulemaking-and-rehearing-petitions-move-forward))",
+      "image_url": null,
+      "published": "2026-10-17T10:00:00-04:00",
+      "source": "2026-10-17_1000-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1000-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1000-edt-1",
+      "title": "Houston startup Discrete executes Kalshi's first privately negotiated weather block trade",
+      "content_text": "- **Houston startup Discrete executes Kalshi's first privately negotiated weather block trade** — Houston risk-management startup Discrete executed what the Houston Chronicle reports was Kalshi's first privately negotiated weather-based block trade, buying a position that pays 25,000 dollars if Houston reaches 103 degrees Fahrenheit in August. Kalshi's weather markets generated 564 million dollars in trading volume through July, already surpassing the platform's full-year 2025 total, with volume up roughly 500 percent year over year. ([Webull](https://www.webull.com/news/15475678967514112))",
+      "content_html": "<p>- **Houston startup Discrete executes Kalshi&#x27;s first privately negotiated weather block trade** — Houston risk-management startup Discrete executed what the Houston Chronicle reports was Kalshi&#x27;s first privately negotiated weather-based block trade, buying a position that pays 25,000 dollars if Houston reaches 103 degrees Fahrenheit in August. Kalshi&#x27;s weather markets generated 564 million dollars in trading volume through July, already surpassing the platform&#x27;s full-year 2025 total, with volume up roughly 500 percent year over year. ([Webull](https://www.webull.com/news/15475678967514112))</p>",
+      "date_published": "2026-10-17T10:00:00-04:00",
+      "date_modified": "2026-10-17T10:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.webull.com/news/15475678967514112",
+      "links": [
+        "https://www.webull.com/news/15475678967514112"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:00 AM ET",
+      "body": "- **Houston startup Discrete executes Kalshi's first privately negotiated weather block trade** — Houston risk-management startup Discrete executed what the Houston Chronicle reports was Kalshi's first privately negotiated weather-based block trade, buying a position that pays 25,000 dollars if Houston reaches 103 degrees Fahrenheit in August. Kalshi's weather markets generated 564 million dollars in trading volume through July, already surpassing the platform's full-year 2025 total, with volume up roughly 500 percent year over year. ([Webull](https://www.webull.com/news/15475678967514112))",
+      "image_url": null,
+      "published": "2026-10-17T10:00:00-04:00",
+      "source": "2026-10-17_1000-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-17_0954-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0954-edt",
@@ -4463,244 +4710,6 @@
       "image_url": null,
       "published": "2026-10-17T01:54:00-04:00",
       "source": "2026-10-17_0154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0145-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0145-edt-0",
-      "title": "Polymarket expands short-duration crypto contracts to Ethereum, Solana and XRP",
-      "content_text": "- **Polymarket expands short-duration crypto contracts to Ethereum, Solana and XRP** — Polymarket has added up and down price markets for Ethereum, Solana and XRP on its US app, settling on 15-minute, hourly and daily timeframes. The expansion follows its earlier Bitcoin contracts and extends short-duration crypto trading beyond a single token. ([Prediction News](https://predictionnews.com/story/polymarket-adds-15-minute-hourly-and-daily-up-down-markets-for-eth-sol-and-xrp))",
-      "content_html": "<p>- **Polymarket expands short-duration crypto contracts to Ethereum, Solana and XRP** — Polymarket has added up and down price markets for Ethereum, Solana and XRP on its US app, settling on 15-minute, hourly and daily timeframes. The expansion follows its earlier Bitcoin contracts and extends short-duration crypto trading beyond a single token. ([Prediction News](https://predictionnews.com/story/polymarket-adds-15-minute-hourly-and-daily-up-down-markets-for-eth-sol-and-xrp))</p>",
-      "date_published": "2026-10-17T01:45:00-04:00",
-      "date_modified": "2026-10-17T01:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/polymarket-adds-15-minute-hourly-and-daily-up-down-markets-for-eth-sol-and-xrp",
-      "links": [
-        "https://predictionnews.com/story/polymarket-adds-15-minute-hourly-and-daily-up-down-markets-for-eth-sol-and-xrp"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:45 AM ET",
-      "body": "- **Polymarket expands short-duration crypto contracts to Ethereum, Solana and XRP** — Polymarket has added up and down price markets for Ethereum, Solana and XRP on its US app, settling on 15-minute, hourly and daily timeframes. The expansion follows its earlier Bitcoin contracts and extends short-duration crypto trading beyond a single token. ([Prediction News](https://predictionnews.com/story/polymarket-adds-15-minute-hourly-and-daily-up-down-markets-for-eth-sol-and-xrp))",
-      "image_url": null,
-      "published": "2026-10-17T01:45:00-04:00",
-      "source": "2026-10-17_0145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0145-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0145-edt-1",
-      "title": "Kalshi and Game Point Capital launch sports hedging partnership",
-      "content_text": "- **Kalshi and Game Point Capital launch sports hedging partnership** — Kalshi and Game Point Capital have launched a partnership focused on sports hedging, according to a report published late on October 16. The launch comes as Kalshi continues to expand uses for its sports event contracts beyond individual trading. ([BitRss](https://bitrss.com/kalshi-and-game-point-capital-launch-sports-hedging-partnership-183556))",
-      "content_html": "<p>- **Kalshi and Game Point Capital launch sports hedging partnership** — Kalshi and Game Point Capital have launched a partnership focused on sports hedging, according to a report published late on October 16. The launch comes as Kalshi continues to expand uses for its sports event contracts beyond individual trading. ([BitRss](https://bitrss.com/kalshi-and-game-point-capital-launch-sports-hedging-partnership-183556))</p>",
-      "date_published": "2026-10-17T01:45:00-04:00",
-      "date_modified": "2026-10-17T01:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/kalshi-and-game-point-capital-launch-sports-hedging-partnership-183556",
-      "links": [
-        "https://bitrss.com/kalshi-and-game-point-capital-launch-sports-hedging-partnership-183556"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:45 AM ET",
-      "body": "- **Kalshi and Game Point Capital launch sports hedging partnership** — Kalshi and Game Point Capital have launched a partnership focused on sports hedging, according to a report published late on October 16. The launch comes as Kalshi continues to expand uses for its sports event contracts beyond individual trading. ([BitRss](https://bitrss.com/kalshi-and-game-point-capital-launch-sports-hedging-partnership-183556))",
-      "image_url": null,
-      "published": "2026-10-17T01:45:00-04:00",
-      "source": "2026-10-17_0145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0145-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0145-edt-2",
-      "title": "Golden State Valkyries priced at 59 cents for WNBA Finals Game 1 against Atlanta Dream",
-      "content_text": "- **Golden State Valkyries priced at 59 cents for WNBA Finals Game 1 against Atlanta Dream** — Prediction markets price the Golden State Valkyries at 59 cents to win Game 1 of the WNBA Finals against the Atlanta Dream on October 17, with a 1.5-point spread priced at 56 cents. The game total sits at 155.5 points, with the under favored at 53 cents. ([Deadspin](https://deadspin.com/prediction-markets/trending/dream-v-valkyries-predictions-10-17-2026/))",
-      "content_html": "<p>- **Golden State Valkyries priced at 59 cents for WNBA Finals Game 1 against Atlanta Dream** — Prediction markets price the Golden State Valkyries at 59 cents to win Game 1 of the WNBA Finals against the Atlanta Dream on October 17, with a 1.5-point spread priced at 56 cents. The game total sits at 155.5 points, with the under favored at 53 cents. ([Deadspin](https://deadspin.com/prediction-markets/trending/dream-v-valkyries-predictions-10-17-2026/))</p>",
-      "date_published": "2026-10-17T01:45:00-04:00",
-      "date_modified": "2026-10-17T01:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://deadspin.com/prediction-markets/trending/dream-v-valkyries-predictions-10-17-2026/",
-      "links": [
-        "https://deadspin.com/prediction-markets/trending/dream-v-valkyries-predictions-10-17-2026/"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:45 AM ET",
-      "body": "- **Golden State Valkyries priced at 59 cents for WNBA Finals Game 1 against Atlanta Dream** — Prediction markets price the Golden State Valkyries at 59 cents to win Game 1 of the WNBA Finals against the Atlanta Dream on October 17, with a 1.5-point spread priced at 56 cents. The game total sits at 155.5 points, with the under favored at 53 cents. ([Deadspin](https://deadspin.com/prediction-markets/trending/dream-v-valkyries-predictions-10-17-2026/))",
-      "image_url": null,
-      "published": "2026-10-17T01:45:00-04:00",
-      "source": "2026-10-17_0145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0145-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0145-edt-3",
-      "title": "UNLV priced at 51 percent on Polymarket for October 17 game at Air Force",
-      "content_text": "- **UNLV priced at 51 percent on Polymarket for October 17 game at Air Force** — Polymarket prices UNLV as a slight favorite at 51 percent for its October 17 Mountain West game at Air Force, which kicks off at 3:30 p.m. ET. Sportsbooks list the matchup near even money, with Air Force a 1.5-point home favorite. ([Lines](https://www.lines.com/prediction-markets/sports/cfb-unlv-airf-2026-10-17))",
-      "content_html": "<p>- **UNLV priced at 51 percent on Polymarket for October 17 game at Air Force** — Polymarket prices UNLV as a slight favorite at 51 percent for its October 17 Mountain West game at Air Force, which kicks off at 3:30 p.m. ET. Sportsbooks list the matchup near even money, with Air Force a 1.5-point home favorite. ([Lines](https://www.lines.com/prediction-markets/sports/cfb-unlv-airf-2026-10-17))</p>",
-      "date_published": "2026-10-17T01:45:00-04:00",
-      "date_modified": "2026-10-17T01:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.lines.com/prediction-markets/sports/cfb-unlv-airf-2026-10-17",
-      "links": [
-        "https://www.lines.com/prediction-markets/sports/cfb-unlv-airf-2026-10-17"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:45 AM ET",
-      "body": "- **UNLV priced at 51 percent on Polymarket for October 17 game at Air Force** — Polymarket prices UNLV as a slight favorite at 51 percent for its October 17 Mountain West game at Air Force, which kicks off at 3:30 p.m. ET. Sportsbooks list the matchup near even money, with Air Force a 1.5-point home favorite. ([Lines](https://www.lines.com/prediction-markets/sports/cfb-unlv-airf-2026-10-17))",
-      "image_url": null,
-      "published": "2026-10-17T01:45:00-04:00",
-      "source": "2026-10-17_0145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_0139-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0139-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nShakhtar Donetsk win the 2026-27 UEFA Champions League priced at 0.1% on Polymarket, on $31.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/sports/\n\nZohran Mamdani be Time Person of the Year in 2026 priced at 29% on Kalshi, up 1 point, on $898K traded\nPredictionBubbles' culture board ranks the Person of the Year contract among its traded culture markets — a contract not featured in any earlier edition, in a culture…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/culture/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Shakhtar Donetsk win the 2026-27 UEFA Champions League priced at 0.1% on Polymarket, on $31.4M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…<br/>#PredictionMarkets #Polymarket #Midterms<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Zohran Mamdani be Time Person of the Year in 2026 priced at 29% on Kalshi, up 1 point, on $898K traded<br/>PredictionBubbles&#x27; culture board ranks the Person of the Year contract among its traded culture markets — a contract not featured in any earlier edition, in a culture…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/culture/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-17T01:39:00-04:00",
-      "date_modified": "2026-10-17T01:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Midterms",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/sports/",
-      "links": [
-        "https://predictionbubbles.net/markets/sports/",
-        "https://predictionbubbles.net/markets/culture/"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:39 AM ET",
-      "body": "Infiniti Briefing\n\nShakhtar Donetsk win the 2026-27 UEFA Champions League priced at 0.1% on Polymarket, on $31.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/sports/\n\nZohran Mamdani be Time Person of the Year in 2026 priced at 29% on Kalshi, up 1 point, on $898K traded\nPredictionBubbles' culture board ranks the Person of the Year contract among its traded culture markets — a contract not featured in any earlier edition, in a culture…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/culture/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-17T01:39:00-04:00",
-      "source": "2026-10-17_0139-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0130-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0130-edt-0",
-      "title": "Ohio senator DeMora calls for state sports betting laws to cover prediction markets",
-      "content_text": "- **Ohio senator DeMora calls for state sports betting laws to cover prediction markets** — Ohio state Senator DeMora called for state-level regulation of prediction markets including Kalshi and Polymarket, arguing that Ohio sports betting laws apply to the platforms. The statement follows a recent Ohio court decision and litigation in which state attorneys prevailed in late September, while Kalshi has sought a rehearing. ([Prediction News](https://predictionnews.com/story/demora-calls-for-state-regulation-of-prediction-markets))",
-      "content_html": "<p>- **Ohio senator DeMora calls for state sports betting laws to cover prediction markets** — Ohio state Senator DeMora called for state-level regulation of prediction markets including Kalshi and Polymarket, arguing that Ohio sports betting laws apply to the platforms. The statement follows a recent Ohio court decision and litigation in which state attorneys prevailed in late September, while Kalshi has sought a rehearing. ([Prediction News](https://predictionnews.com/story/demora-calls-for-state-regulation-of-prediction-markets))</p>",
-      "date_published": "2026-10-17T01:30:00-04:00",
-      "date_modified": "2026-10-17T01:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/demora-calls-for-state-regulation-of-prediction-markets",
-      "links": [
-        "https://predictionnews.com/story/demora-calls-for-state-regulation-of-prediction-markets"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:30 AM ET",
-      "body": "- **Ohio senator DeMora calls for state sports betting laws to cover prediction markets** — Ohio state Senator DeMora called for state-level regulation of prediction markets including Kalshi and Polymarket, arguing that Ohio sports betting laws apply to the platforms. The statement follows a recent Ohio court decision and litigation in which state attorneys prevailed in late September, while Kalshi has sought a rehearing. ([Prediction News](https://predictionnews.com/story/demora-calls-for-state-regulation-of-prediction-markets))",
-      "image_url": null,
-      "published": "2026-10-17T01:30:00-04:00",
-      "source": "2026-10-17_0130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0130-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0130-edt-1",
-      "title": "American Gaming Association says prediction markets are slowing NFL betting growth",
-      "content_text": "- **American Gaming Association says prediction markets are slowing NFL betting growth** — The American Gaming Association said prediction market platforms have siphoned away more than 1.3 billion dollars in potential state gaming tax revenue since 2025 and are putting pressure on regulated NFL betting growth. The association argued that the platforms market sports wagers as investments rather than entertainment. ([GambleRss](https://gamblerss.com/prediction-markets-put-brakes-on-nfl-betting-growth-aga-says-68853))",
-      "content_html": "<p>- **American Gaming Association says prediction markets are slowing NFL betting growth** — The American Gaming Association said prediction market platforms have siphoned away more than 1.3 billion dollars in potential state gaming tax revenue since 2025 and are putting pressure on regulated NFL betting growth. The association argued that the platforms market sports wagers as investments rather than entertainment. ([GambleRss](https://gamblerss.com/prediction-markets-put-brakes-on-nfl-betting-growth-aga-says-68853))</p>",
-      "date_published": "2026-10-17T01:30:00-04:00",
-      "date_modified": "2026-10-17T01:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/prediction-markets-put-brakes-on-nfl-betting-growth-aga-says-68853",
-      "links": [
-        "https://gamblerss.com/prediction-markets-put-brakes-on-nfl-betting-growth-aga-says-68853"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:30 AM ET",
-      "body": "- **American Gaming Association says prediction markets are slowing NFL betting growth** — The American Gaming Association said prediction market platforms have siphoned away more than 1.3 billion dollars in potential state gaming tax revenue since 2025 and are putting pressure on regulated NFL betting growth. The association argued that the platforms market sports wagers as investments rather than entertainment. ([GambleRss](https://gamblerss.com/prediction-markets-put-brakes-on-nfl-betting-growth-aga-says-68853))",
-      "image_url": null,
-      "published": "2026-10-17T01:30:00-04:00",
-      "source": "2026-10-17_0130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0130-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0130-edt-2",
-      "title": "Kalshi prices Tampa Bay at 51.5 percent for Game 5 against Cleveland on October 17",
-      "content_text": "- **Kalshi prices Tampa Bay at 51.5 percent for Game 5 against Cleveland on October 17** — A SportsBookISH comparison for the October 17 Game 5 between Tampa Bay and Cleveland shows Kalshi pricing Tampa Bay at 51.5 percent and Cleveland at 47.5 percent, close to a sportsbook median of 51.4 percent and 48.6 percent. The game is scheduled for Saturday at 8:00 PM ET. ([SportsBookISH](https://sportsbookish.com/sports/mlb))",
-      "content_html": "<p>- **Kalshi prices Tampa Bay at 51.5 percent for Game 5 against Cleveland on October 17** — A SportsBookISH comparison for the October 17 Game 5 between Tampa Bay and Cleveland shows Kalshi pricing Tampa Bay at 51.5 percent and Cleveland at 47.5 percent, close to a sportsbook median of 51.4 percent and 48.6 percent. The game is scheduled for Saturday at 8:00 PM ET. ([SportsBookISH](https://sportsbookish.com/sports/mlb))</p>",
-      "date_published": "2026-10-17T01:30:00-04:00",
-      "date_modified": "2026-10-17T01:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://sportsbookish.com/sports/mlb",
-      "links": [
-        "https://sportsbookish.com/sports/mlb"
-      ],
-      "timestamp": "Oct 17, 2026 · 1:30 AM ET",
-      "body": "- **Kalshi prices Tampa Bay at 51.5 percent for Game 5 against Cleveland on October 17** — A SportsBookISH comparison for the October 17 Game 5 between Tampa Bay and Cleveland shows Kalshi pricing Tampa Bay at 51.5 percent and Cleveland at 47.5 percent, close to a sportsbook median of 51.4 percent and 48.6 percent. The game is scheduled for Saturday at 8:00 PM ET. ([SportsBookISH](https://sportsbookish.com/sports/mlb))",
-      "image_url": null,
-      "published": "2026-10-17T01:30:00-04:00",
-      "source": "2026-10-17_0130-edt.json",
       "matches_facebook_post": false
     }
   ]
