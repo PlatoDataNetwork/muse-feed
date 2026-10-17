@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T03:34:46.143335-04:00",
+  "updated": "2026-10-17T03:50:11.592983-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,99 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-17_0345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0345-edt-0",
+      "title": "NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey",
+      "content_text": "- **NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey** — The NFL filed an amicus brief urging the Supreme Court to rule on prediction market regulation, arguing states are better positioned to oversee sports-related contracts and noting 1.8 billion dollars of 3.3 billion dollars in prediction market volume on the first Sunday of this season was tied to the league. Ohio filed a separate brief backed by 38 states, while Kalshi and Polymarket said federal oversight and a harmonized framework better protect market integrity. ([USA Today News](https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/))",
+      "content_html": "<p>- **NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey** — The NFL filed an amicus brief urging the Supreme Court to rule on prediction market regulation, arguing states are better positioned to oversee sports-related contracts and noting 1.8 billion dollars of 3.3 billion dollars in prediction market volume on the first Sunday of this season was tied to the league. Ohio filed a separate brief backed by 38 states, while Kalshi and Polymarket said federal oversight and a harmonized framework better protect market integrity. ([USA Today News](https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/))</p>",
+      "date_published": "2026-10-17T03:45:00-04:00",
+      "date_modified": "2026-10-17T03:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/",
+      "links": [
+        "https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/"
+      ],
+      "timestamp": "Oct 17, 2026 · 3:45 AM ET",
+      "body": "- **NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey** — The NFL filed an amicus brief urging the Supreme Court to rule on prediction market regulation, arguing states are better positioned to oversee sports-related contracts and noting 1.8 billion dollars of 3.3 billion dollars in prediction market volume on the first Sunday of this season was tied to the league. Ohio filed a separate brief backed by 38 states, while Kalshi and Polymarket said federal oversight and a harmonized framework better protect market integrity. ([USA Today News](https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-17T03:45:00-04:00",
+      "source": "2026-10-17_0345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_0345-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0345-edt-1",
+      "title": "Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030",
+      "content_text": "- **Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030** — Citizens analysts led by Devin Ryan estimate prediction markets are already at a roughly 2 billion dollar revenue run rate on transaction fees and could reach more than 10 billion dollars by 2030 as institutional users adopt event contracts. The team estimates about 400 million dollars of the current run rate comes from Robinhood and points to hedging and trading uses for event-driven funds, macro funds, quant firms and corporates. ([GambleRss](https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303))",
+      "content_html": "<p>- **Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030** — Citizens analysts led by Devin Ryan estimate prediction markets are already at a roughly 2 billion dollar revenue run rate on transaction fees and could reach more than 10 billion dollars by 2030 as institutional users adopt event contracts. The team estimates about 400 million dollars of the current run rate comes from Robinhood and points to hedging and trading uses for event-driven funds, macro funds, quant firms and corporates. ([GambleRss](https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303))</p>",
+      "date_published": "2026-10-17T03:45:00-04:00",
+      "date_modified": "2026-10-17T03:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303",
+      "links": [
+        "https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303"
+      ],
+      "timestamp": "Oct 17, 2026 · 3:45 AM ET",
+      "body": "- **Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030** — Citizens analysts led by Devin Ryan estimate prediction markets are already at a roughly 2 billion dollar revenue run rate on transaction fees and could reach more than 10 billion dollars by 2030 as institutional users adopt event contracts. The team estimates about 400 million dollars of the current run rate comes from Robinhood and points to hedging and trading uses for event-driven funds, macro funds, quant firms and corporates. ([GambleRss](https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303))",
+      "image_url": null,
+      "published": "2026-10-17T03:45:00-04:00",
+      "source": "2026-10-17_0345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-17_0339-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0339-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPerplexity AI be acquired before 2027 priced at 11% on Polymarket, up 0.5 points, on $2.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and earlier in…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nPhiladelphia win the 2027 Pro Basketball Finals priced at 11% on Kalshi, on $9.2M traded\nPredictionBubbles' sports board lists the finals contract among its most-traded sports markets — a contract not featured in any earlier October edition, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Perplexity AI be acquired before 2027 priced at 11% on Polymarket, up 0.5 points, on $2.4M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and earlier in…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Philadelphia win the 2027 Pro Basketball Finals priced at 11% on Kalshi, on $9.2M traded<br/>PredictionBubbles&#x27; sports board lists the finals contract among its most-traded sports markets — a contract not featured in any earlier October edition, in a sports…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T03:39:00-04:00",
+      "date_modified": "2026-10-17T03:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/finance/",
+      "links": [
+        "https://predictionbubbles.net/markets/finance/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 17, 2026 · 3:39 AM ET",
+      "body": "Infiniti Briefing\n\nPerplexity AI be acquired before 2027 priced at 11% on Polymarket, up 0.5 points, on $2.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and earlier in…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nPhiladelphia win the 2027 Pro Basketball Finals priced at 11% on Kalshi, on $9.2M traded\nPredictionBubbles' sports board lists the finals contract among its most-traded sports markets — a contract not featured in any earlier October edition, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T03:39:00-04:00",
+      "source": "2026-10-17_0339-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_0330-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0330-edt-0",
@@ -4586,95 +4679,6 @@
       "image_url": null,
       "published": "2026-10-16T19:45:00-04:00",
       "source": "2026-10-16_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_1939-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1939-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nOpenSea FDV above $500M one day after launch priced at 8.6% on Polymarket, down 3.9 points, on $2.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a crypto/commodities category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMilwaukee win the 2026 Pro Baseball Championship priced at 65.6% on Kalshi, up 7.6 points, on $9.7M traded\nPredictionBubbles' most-active board ranks the championship contract among the day's heaviest markets — the post-series repriced book, in a sports markets category…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>OpenSea FDV above $500M one day after launch priced at 8.6% on Polymarket, down 3.9 points, on $2.3M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a crypto/commodities category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Milwaukee win the 2026 Pro Baseball Championship priced at 65.6% on Kalshi, up 7.6 points, on $9.7M traded<br/>PredictionBubbles&#x27; most-active board ranks the championship contract among the day&#x27;s heaviest markets — the post-series repriced book, in a sports markets category…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T19:39:00-04:00",
-      "date_modified": "2026-10-16T19:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 16, 2026 · 7:39 PM ET",
-      "body": "Infiniti Briefing\n\nOpenSea FDV above $500M one day after launch priced at 8.6% on Polymarket, down 3.9 points, on $2.3M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh contract leads, in a crypto/commodities category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMilwaukee win the 2026 Pro Baseball Championship priced at 65.6% on Kalshi, up 7.6 points, on $9.7M traded\nPredictionBubbles' most-active board ranks the championship contract among the day's heaviest markets — the post-series repriced book, in a sports markets category…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T19:39:00-04:00",
-      "source": "2026-10-16_1939-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1930-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1930-edt-0",
-      "title": "Crypto trader reports 650,000 dollars in profit from a Polymarket copy-trading strategy",
-      "content_text": "- **Crypto trader reports 650,000 dollars in profit from a Polymarket copy-trading strategy** — A trader reported about 650,000 dollars in profit from copy-trading selected Polymarket wallets, finding medium-sized positions of 40,000 to 50,000 dollars more reliable than million-dollar wagers. The strongest copied wallets specialized in MicroStrategy-related markets and geopolitics, including one politics account with 42 wins in 43 predictions. ([BitRss](https://bitrss.com/crypto-trader-reports-650-000-profit-through-polymarket-copy-trading-strategy-181579))",
-      "content_html": "<p>- **Crypto trader reports 650,000 dollars in profit from a Polymarket copy-trading strategy** — A trader reported about 650,000 dollars in profit from copy-trading selected Polymarket wallets, finding medium-sized positions of 40,000 to 50,000 dollars more reliable than million-dollar wagers. The strongest copied wallets specialized in MicroStrategy-related markets and geopolitics, including one politics account with 42 wins in 43 predictions. ([BitRss](https://bitrss.com/crypto-trader-reports-650-000-profit-through-polymarket-copy-trading-strategy-181579))</p>",
-      "date_published": "2026-10-16T19:30:00-04:00",
-      "date_modified": "2026-10-16T19:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/crypto-trader-reports-650-000-profit-through-polymarket-copy-trading-strategy-181579",
-      "links": [
-        "https://bitrss.com/crypto-trader-reports-650-000-profit-through-polymarket-copy-trading-strategy-181579"
-      ],
-      "timestamp": "Oct 16, 2026 · 7:30 PM ET",
-      "body": "- **Crypto trader reports 650,000 dollars in profit from a Polymarket copy-trading strategy** — A trader reported about 650,000 dollars in profit from copy-trading selected Polymarket wallets, finding medium-sized positions of 40,000 to 50,000 dollars more reliable than million-dollar wagers. The strongest copied wallets specialized in MicroStrategy-related markets and geopolitics, including one politics account with 42 wins in 43 predictions. ([BitRss](https://bitrss.com/crypto-trader-reports-650-000-profit-through-polymarket-copy-trading-strategy-181579))",
-      "image_url": null,
-      "published": "2026-10-16T19:30:00-04:00",
-      "source": "2026-10-16_1930-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1930-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1930-edt-1",
-      "title": "Research finds retail prediction market traders enter about three days before resolution while bots enter eight days out",
-      "content_text": "- **Research finds retail prediction market traders enter about three days before resolution while bots enter eight days out** — Research by University of San Diego professor Josh Della Vedova found retail traders enter positions on average three days before a contract resolves, while bots enter more than eight days out, with about 70 percent of the algorithmic advantage coming from timing. The analysis also found more than 70 percent of Polymarket users lose money, while 0.1 percent of accounts captured 67 percent of profits. ([AInvest](https://www.ainvest.com/news/prediction-market-trap-loses-money-2609/))",
-      "content_html": "<p>- **Research finds retail prediction market traders enter about three days before resolution while bots enter eight days out** — Research by University of San Diego professor Josh Della Vedova found retail traders enter positions on average three days before a contract resolves, while bots enter more than eight days out, with about 70 percent of the algorithmic advantage coming from timing. The analysis also found more than 70 percent of Polymarket users lose money, while 0.1 percent of accounts captured 67 percent of profits. ([AInvest](https://www.ainvest.com/news/prediction-market-trap-loses-money-2609/))</p>",
-      "date_published": "2026-10-16T19:30:00-04:00",
-      "date_modified": "2026-10-16T19:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.ainvest.com/news/prediction-market-trap-loses-money-2609/",
-      "links": [
-        "https://www.ainvest.com/news/prediction-market-trap-loses-money-2609/"
-      ],
-      "timestamp": "Oct 16, 2026 · 7:30 PM ET",
-      "body": "- **Research finds retail prediction market traders enter about three days before resolution while bots enter eight days out** — Research by University of San Diego professor Josh Della Vedova found retail traders enter positions on average three days before a contract resolves, while bots enter more than eight days out, with about 70 percent of the algorithmic advantage coming from timing. The analysis also found more than 70 percent of Polymarket users lose money, while 0.1 percent of accounts captured 67 percent of profits. ([AInvest](https://www.ainvest.com/news/prediction-market-trap-loses-money-2609/))",
-      "image_url": null,
-      "published": "2026-10-16T19:30:00-04:00",
-      "source": "2026-10-16_1930-edt.json",
       "matches_facebook_post": false
     }
   ]
