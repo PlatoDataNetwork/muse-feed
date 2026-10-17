@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T12:06:21.025920-04:00",
+  "updated": "2026-10-17T12:21:38.615106-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-17_1215-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1215-edt-0",
+      "title": "Kalshi launches My Ballot personalized ballot guide with Ballotpedia election data",
+      "content_text": "- **Kalshi launches My Ballot personalized ballot guide with Ballotpedia election data** — Kalshi has launched My Ballot in its Midterms Hub, using Ballotpedia election data to match a user's address with the contests on their ballot and showing Kalshi market forecasts where an active market exists. The guide covers House races, state legislative contests and statewide ballot measures, and Kalshi says more than 80 percent of Midterms Hub visitors do not trade. ([DeFi Rate](https://defirate.com/news/kalshi-launches-personalized-ballot-guide-with-ballotpedia-data/))",
+      "content_html": "<p>- **Kalshi launches My Ballot personalized ballot guide with Ballotpedia election data** — Kalshi has launched My Ballot in its Midterms Hub, using Ballotpedia election data to match a user&#x27;s address with the contests on their ballot and showing Kalshi market forecasts where an active market exists. The guide covers House races, state legislative contests and statewide ballot measures, and Kalshi says more than 80 percent of Midterms Hub visitors do not trade. ([DeFi Rate](https://defirate.com/news/kalshi-launches-personalized-ballot-guide-with-ballotpedia-data/))</p>",
+      "date_published": "2026-10-17T12:15:00-04:00",
+      "date_modified": "2026-10-17T12:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/news/kalshi-launches-personalized-ballot-guide-with-ballotpedia-data/",
+      "links": [
+        "https://defirate.com/news/kalshi-launches-personalized-ballot-guide-with-ballotpedia-data/"
+      ],
+      "timestamp": "Oct 17, 2026 · 12:15 PM ET",
+      "body": "- **Kalshi launches My Ballot personalized ballot guide with Ballotpedia election data** — Kalshi has launched My Ballot in its Midterms Hub, using Ballotpedia election data to match a user's address with the contests on their ballot and showing Kalshi market forecasts where an active market exists. The guide covers House races, state legislative contests and statewide ballot measures, and Kalshi says more than 80 percent of Midterms Hub visitors do not trade. ([DeFi Rate](https://defirate.com/news/kalshi-launches-personalized-ballot-guide-with-ballotpedia-data/))",
+      "image_url": null,
+      "published": "2026-10-17T12:15:00-04:00",
+      "source": "2026-10-17_1215-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1215-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1215-edt-1",
+      "title": "Prediction market volume reaches 3.8 billion dollars in the last 24 hours across nine exchanges",
+      "content_text": "- **Prediction market volume reaches 3.8 billion dollars in the last 24 hours across nine exchanges** — DeFi Rate's volume tracker counts 3.8 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar each. Its October 17 board also shows Democrats priced at 63 percent for Senate control and 90 percent for House control across Kalshi and Polymarket. ([DeFi Rate](http://defirate.com/))",
+      "content_html": "<p>- **Prediction market volume reaches 3.8 billion dollars in the last 24 hours across nine exchanges** — DeFi Rate&#x27;s volume tracker counts 3.8 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar each. Its October 17 board also shows Democrats priced at 63 percent for Senate control and 90 percent for House control across Kalshi and Polymarket. ([DeFi Rate](http://defirate.com/))</p>",
+      "date_published": "2026-10-17T12:15:00-04:00",
+      "date_modified": "2026-10-17T12:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "http://defirate.com/",
+      "links": [
+        "http://defirate.com/"
+      ],
+      "timestamp": "Oct 17, 2026 · 12:15 PM ET",
+      "body": "- **Prediction market volume reaches 3.8 billion dollars in the last 24 hours across nine exchanges** — DeFi Rate's volume tracker counts 3.8 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar each. Its October 17 board also shows Democrats priced at 63 percent for Senate control and 90 percent for House control across Kalshi and Polymarket. ([DeFi Rate](http://defirate.com/))",
+      "image_url": null,
+      "published": "2026-10-17T12:15:00-04:00",
+      "source": "2026-10-17_1215-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1215-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1215-edt-2",
+      "title": "Polymarket prices LSU at 86 cents against Mississippi State with the spread at 52 cents",
+      "content_text": "- **Polymarket prices LSU at 86 cents against Mississippi State with the spread at 52 cents** — Polymarket prices LSU at 86 cents to beat Mississippi State outright in their October 17 game, with Mississippi State at 14 cents. The LSU minus 16.5 spread contract trades at 52 cents, and the over on 56.5 total points sits at 50 cents. ([SportsBettingDime](https://www.sportsbettingdime.com/news/college-football/mississippi-state-vs-lsu-picks-odds-cfb-prediction-oct-17/))",
+      "content_html": "<p>- **Polymarket prices LSU at 86 cents against Mississippi State with the spread at 52 cents** — Polymarket prices LSU at 86 cents to beat Mississippi State outright in their October 17 game, with Mississippi State at 14 cents. The LSU minus 16.5 spread contract trades at 52 cents, and the over on 56.5 total points sits at 50 cents. ([SportsBettingDime](https://www.sportsbettingdime.com/news/college-football/mississippi-state-vs-lsu-picks-odds-cfb-prediction-oct-17/))</p>",
+      "date_published": "2026-10-17T12:15:00-04:00",
+      "date_modified": "2026-10-17T12:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsbettingdime.com/news/college-football/mississippi-state-vs-lsu-picks-odds-cfb-prediction-oct-17/",
+      "links": [
+        "https://www.sportsbettingdime.com/news/college-football/mississippi-state-vs-lsu-picks-odds-cfb-prediction-oct-17/"
+      ],
+      "timestamp": "Oct 17, 2026 · 12:15 PM ET",
+      "body": "- **Polymarket prices LSU at 86 cents against Mississippi State with the spread at 52 cents** — Polymarket prices LSU at 86 cents to beat Mississippi State outright in their October 17 game, with Mississippi State at 14 cents. The LSU minus 16.5 spread contract trades at 52 cents, and the over on 56.5 total points sits at 50 cents. ([SportsBettingDime](https://www.sportsbettingdime.com/news/college-football/mississippi-state-vs-lsu-picks-odds-cfb-prediction-oct-17/))",
+      "image_url": null,
+      "published": "2026-10-17T12:15:00-04:00",
+      "source": "2026-10-17_1215-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1215-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1215-edt-3",
+      "title": "Week 7 prediction market picks price Ohio State at 61 cents at Indiana and Michigan at 69 cents on Kalshi",
+      "content_text": "- **Week 7 prediction market picks price Ohio State at 61 cents at Indiana and Michigan at 69 cents on Kalshi** — SportsBettingDime's Week 7 college football prediction market picks price Ohio State to win at Indiana at 61 cents on Polymarket, Michigan to win at Penn State at 69 cents on Kalshi, and Kansas State to beat Kansas at 64 cents on Kalshi. All three featured contracts are favorites, so returns on winning contracts are modest before fees. ([SportsBettingDime](https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/))",
+      "content_html": "<p>- **Week 7 prediction market picks price Ohio State at 61 cents at Indiana and Michigan at 69 cents on Kalshi** — SportsBettingDime&#x27;s Week 7 college football prediction market picks price Ohio State to win at Indiana at 61 cents on Polymarket, Michigan to win at Penn State at 69 cents on Kalshi, and Kansas State to beat Kansas at 64 cents on Kalshi. All three featured contracts are favorites, so returns on winning contracts are modest before fees. ([SportsBettingDime](https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/))</p>",
+      "date_published": "2026-10-17T12:15:00-04:00",
+      "date_modified": "2026-10-17T12:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/",
+      "links": [
+        "https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/"
+      ],
+      "timestamp": "Oct 17, 2026 · 12:15 PM ET",
+      "body": "- **Week 7 prediction market picks price Ohio State at 61 cents at Indiana and Michigan at 69 cents on Kalshi** — SportsBettingDime's Week 7 college football prediction market picks price Ohio State to win at Indiana at 61 cents on Polymarket, Michigan to win at Penn State at 69 cents on Kalshi, and Kansas State to beat Kansas at 64 cents on Kalshi. All three featured contracts are favorites, so returns on winning contracts are modest before fees. ([SportsBettingDime](https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/))",
+      "image_url": null,
+      "published": "2026-10-17T12:15:00-04:00",
+      "source": "2026-10-17_1215-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_1215-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1215-edt-4",
+      "title": "Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points",
+      "content_text": "- **Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points** — Polymarket's What price will Bitcoin hit in October market shows a 36 percent implied probability for the 77,500 dollar tier, down 13 percentage points, after Bitcoin closed at 81,524 dollars on October 16. A separate Polymarket market prices an October Federal Reserve rate hike at 14 percent, with 87 percent favoring no change, on 44.7 million dollars in volume. ([Prediction News](https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36))",
+      "content_html": "<p>- **Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points** — Polymarket&#x27;s What price will Bitcoin hit in October market shows a 36 percent implied probability for the 77,500 dollar tier, down 13 percentage points, after Bitcoin closed at 81,524 dollars on October 16. A separate Polymarket market prices an October Federal Reserve rate hike at 14 percent, with 87 percent favoring no change, on 44.7 million dollars in volume. ([Prediction News](https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36))</p>",
+      "date_published": "2026-10-17T12:15:00-04:00",
+      "date_modified": "2026-10-17T12:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36",
+      "links": [
+        "https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36"
+      ],
+      "timestamp": "Oct 17, 2026 · 12:15 PM ET",
+      "body": "- **Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points** — Polymarket's What price will Bitcoin hit in October market shows a 36 percent implied probability for the 77,500 dollar tier, down 13 percentage points, after Bitcoin closed at 81,524 dollars on October 16. A separate Polymarket market prices an October Federal Reserve rate hike at 14 percent, with 87 percent favoring no change, on 44.7 million dollars in volume. ([Prediction News](https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36))",
+      "image_url": null,
+      "published": "2026-10-17T12:15:00-04:00",
+      "source": "2026-10-17_1215-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-17_1209-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1209-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nOpenAI be acquired before 2027 priced at 1.6% on Polymarket, up 0.1 points, on $676K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nElversberg wins priced at 99% on Kalshi, up 60 points, on $851K traded\nPredictionBubbles ranks the Elversberg win contract as the day's largest upward move on its main board, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>OpenAI be acquired before 2027 priced at 1.6% on Polymarket, up 0.1 points, on $676K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…<br/>#PredictionMarkets #Polymarket #Midterms<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Elversberg wins priced at 99% on Kalshi, up 60 points, on $851K traded<br/>PredictionBubbles ranks the Elversberg win contract as the day&#x27;s largest upward move on its main board, in a sports markets category distinct from the lead — a contract…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T12:09:00-04:00",
+      "date_modified": "2026-10-17T12:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/finance/",
+      "links": [
+        "https://predictionbubbles.net/markets/finance/",
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 17, 2026 · 12:09 PM ET",
+      "body": "Infiniti Briefing\n\nOpenAI be acquired before 2027 priced at 1.6% on Polymarket, up 0.1 points, on $676K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nElversberg wins priced at 99% on Kalshi, up 60 points, on $851K traded\nPredictionBubbles ranks the Elversberg win contract as the day's largest upward move on its main board, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T12:09:00-04:00",
+      "source": "2026-10-17_1209-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-17_1154-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1154-edt",
@@ -4521,191 +4704,6 @@
       "image_url": null,
       "published": "2026-10-17T04:00:00-04:00",
       "source": "2026-10-17_0400-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_0354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0354-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPrediction markets trade $100.2B in contracts over the last 30 days, with Kalshi handling 76% of it and its volume up 56% against the 30 days before, on DeFi Rate's volume tracker\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items: the Taiwan block, the $220M…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://defirate.com/prediction-markets/volume/\n\nWilliam Rejchtman Vinciguerra wins priced at 13% on Kalshi, on $756K traded\nPredictionBubbles' new-markets board ranks the contract, opened about 18 hours ago, as the week's new market getting the most attention by traded volume, ahead of its…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/new/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Prediction markets trade $100.2B in contracts over the last 30 days, with Kalshi handling 76% of it and its volume up 56% against the 30 days before, on DeFi Rate&#x27;s volume tracker<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items: the Taiwan block, the $220M…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/>https://defirate.com/prediction-markets/volume/<br/><br/>William Rejchtman Vinciguerra wins priced at 13% on Kalshi, on $756K traded<br/>PredictionBubbles&#x27; new-markets board ranks the contract, opened about 18 hours ago, as the week&#x27;s new market getting the most attention by traded volume, ahead of its…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/new/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-17T03:54:00-04:00",
-      "date_modified": "2026-10-17T03:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/",
-        "https://predictionbubbles.net/markets/new/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:54 AM ET",
-      "body": "Infiniti Briefing\n\nPrediction markets trade $100.2B in contracts over the last 30 days, with Kalshi handling 76% of it and its volume up 56% against the 30 days before, on DeFi Rate's volume tracker\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items: the Taiwan block, the $220M…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://defirate.com/prediction-markets/volume/\n\nWilliam Rejchtman Vinciguerra wins priced at 13% on Kalshi, on $756K traded\nPredictionBubbles' new-markets board ranks the contract, opened about 18 hours ago, as the week's new market getting the most attention by traded volume, ahead of its…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/new/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-17T03:54:00-04:00",
-      "source": "2026-10-17_0354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0345-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0345-edt-0",
-      "title": "NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey",
-      "content_text": "- **NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey** — The NFL filed an amicus brief urging the Supreme Court to rule on prediction market regulation, arguing states are better positioned to oversee sports-related contracts and noting 1.8 billion dollars of 3.3 billion dollars in prediction market volume on the first Sunday of this season was tied to the league. Ohio filed a separate brief backed by 38 states, while Kalshi and Polymarket said federal oversight and a harmonized framework better protect market integrity. ([USA Today News](https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/))",
-      "content_html": "<p>- **NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey** — The NFL filed an amicus brief urging the Supreme Court to rule on prediction market regulation, arguing states are better positioned to oversee sports-related contracts and noting 1.8 billion dollars of 3.3 billion dollars in prediction market volume on the first Sunday of this season was tied to the league. Ohio filed a separate brief backed by 38 states, while Kalshi and Polymarket said federal oversight and a harmonized framework better protect market integrity. ([USA Today News](https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/))</p>",
-      "date_published": "2026-10-17T03:45:00-04:00",
-      "date_modified": "2026-10-17T03:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL",
-        "SCOTUS"
-      ],
-      "image": null,
-      "external_url": "https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/",
-      "links": [
-        "https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:45 AM ET",
-      "body": "- **NFL urges Supreme Court to rule on prediction market regulation in amicus brief backing New Jersey** — The NFL filed an amicus brief urging the Supreme Court to rule on prediction market regulation, arguing states are better positioned to oversee sports-related contracts and noting 1.8 billion dollars of 3.3 billion dollars in prediction market volume on the first Sunday of this season was tied to the league. Ohio filed a separate brief backed by 38 states, while Kalshi and Polymarket said federal oversight and a harmonized framework better protect market integrity. ([USA Today News](https://usa-today-news.com/news/nfl-urges-the-supreme-court-to-rule-on-regulation-of-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-17T03:45:00-04:00",
-      "source": "2026-10-17_0345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0345-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0345-edt-1",
-      "title": "Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030",
-      "content_text": "- **Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030** — Citizens analysts led by Devin Ryan estimate prediction markets are already at a roughly 2 billion dollar revenue run rate on transaction fees and could reach more than 10 billion dollars by 2030 as institutional users adopt event contracts. The team estimates about 400 million dollars of the current run rate comes from Robinhood and points to hedging and trading uses for event-driven funds, macro funds, quant firms and corporates. ([GambleRss](https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303))",
-      "content_html": "<p>- **Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030** — Citizens analysts led by Devin Ryan estimate prediction markets are already at a roughly 2 billion dollar revenue run rate on transaction fees and could reach more than 10 billion dollars by 2030 as institutional users adopt event contracts. The team estimates about 400 million dollars of the current run rate comes from Robinhood and points to hedging and trading uses for event-driven funds, macro funds, quant firms and corporates. ([GambleRss](https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303))</p>",
-      "date_published": "2026-10-17T03:45:00-04:00",
-      "date_modified": "2026-10-17T03:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303",
-      "links": [
-        "https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:45 AM ET",
-      "body": "- **Citizens analysts see prediction market revenue rising fivefold to over 10 billion dollars by 2030** — Citizens analysts led by Devin Ryan estimate prediction markets are already at a roughly 2 billion dollar revenue run rate on transaction fees and could reach more than 10 billion dollars by 2030 as institutional users adopt event contracts. The team estimates about 400 million dollars of the current run rate comes from Robinhood and points to hedging and trading uses for event-driven funds, macro funds, quant firms and corporates. ([GambleRss](https://gamblerss.com/prediction-markets-revenue-could-surge-5x-by-2030-says-analyst-51303))",
-      "image_url": null,
-      "published": "2026-10-17T03:45:00-04:00",
-      "source": "2026-10-17_0345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_0339-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0339-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPerplexity AI be acquired before 2027 priced at 11% on Polymarket, up 0.5 points, on $2.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and earlier in…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nPhiladelphia win the 2027 Pro Basketball Finals priced at 11% on Kalshi, on $9.2M traded\nPredictionBubbles' sports board lists the finals contract among its most-traded sports markets — a contract not featured in any earlier October edition, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Perplexity AI be acquired before 2027 priced at 11% on Polymarket, up 0.5 points, on $2.4M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and earlier in…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Philadelphia win the 2027 Pro Basketball Finals priced at 11% on Kalshi, on $9.2M traded<br/>PredictionBubbles&#x27; sports board lists the finals contract among its most-traded sports markets — a contract not featured in any earlier October edition, in a sports…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-17T03:39:00-04:00",
-      "date_modified": "2026-10-17T03:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections",
-        "Midterms",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/finance/",
-      "links": [
-        "https://predictionbubbles.net/markets/finance/",
-        "https://predictionbubbles.net/markets/sports/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:39 AM ET",
-      "body": "Infiniti Briefing\n\nPerplexity AI be acquired before 2027 priced at 11% on Polymarket, up 0.5 points, on $2.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and earlier in…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/finance/\n\nPhiladelphia win the 2027 Pro Basketball Finals priced at 11% on Kalshi, on $9.2M traded\nPredictionBubbles' sports board lists the finals contract among its most-traded sports markets — a contract not featured in any earlier October edition, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-17T03:39:00-04:00",
-      "source": "2026-10-17_0339-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0330-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0330-edt-0",
-      "title": "Polymarket year-end Bitcoin contracts price a reach to 90,000 dollars at 53.5 percent",
-      "content_text": "- **Polymarket year-end Bitcoin contracts price a reach to 90,000 dollars at 53.5 percent** — Polymarket contracts observed on October 17 priced Bitcoin reaching 90,000 dollars by December 31 at 53.5 percent and 95,000 dollars at 35.5 percent, while a dip to 70,000 dollars by year-end was priced at 38.5 percent. Bitcoin held near 81,500 dollars as the 24-hour slide narrowed overnight. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0630-utc))",
-      "content_html": "<p>- **Polymarket year-end Bitcoin contracts price a reach to 90,000 dollars at 53.5 percent** — Polymarket contracts observed on October 17 priced Bitcoin reaching 90,000 dollars by December 31 at 53.5 percent and 95,000 dollars at 35.5 percent, while a dip to 70,000 dollars by year-end was priced at 38.5 percent. Bitcoin held near 81,500 dollars as the 24-hour slide narrowed overnight. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0630-utc))</p>",
-      "date_published": "2026-10-17T03:30:00-04:00",
-      "date_modified": "2026-10-17T03:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0630-utc",
-      "links": [
-        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0630-utc"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:30 AM ET",
-      "body": "- **Polymarket year-end Bitcoin contracts price a reach to 90,000 dollars at 53.5 percent** — Polymarket contracts observed on October 17 priced Bitcoin reaching 90,000 dollars by December 31 at 53.5 percent and 95,000 dollars at 35.5 percent, while a dip to 70,000 dollars by year-end was priced at 38.5 percent. Bitcoin held near 81,500 dollars as the 24-hour slide narrowed overnight. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-17-0630-utc))",
-      "image_url": null,
-      "published": "2026-10-17T03:30:00-04:00",
-      "source": "2026-10-17_0330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_0330-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0330-edt-1",
-      "title": "Polymarket FURIA vs Cloud9 Game 1 kills over 27.5 odds rise to 57.5 percent",
-      "content_text": "- **Polymarket FURIA vs Cloud9 Game 1 kills over 27.5 odds rise to 57.5 percent** — On Polymarket, the probability of more than 27.5 total kills in Game 1 of the FURIA Esports vs Cloud9 Worlds Qualifier rose to 57.5 percent from 38 percent one hour earlier, according to Catcher Predict tracking reported by Binance News. ([Binance News](https://www.binance.com/en/square/post/10-16-2026-catcher-predict-polymarket-furia-esports-vs-cloud9-worlds-qualifier-over-27-5-game-1-kills-odds-rise-19-5-378038930187984?utm_source=BinanceNewsRSS))",
-      "content_html": "<p>- **Polymarket FURIA vs Cloud9 Game 1 kills over 27.5 odds rise to 57.5 percent** — On Polymarket, the probability of more than 27.5 total kills in Game 1 of the FURIA Esports vs Cloud9 Worlds Qualifier rose to 57.5 percent from 38 percent one hour earlier, according to Catcher Predict tracking reported by Binance News. ([Binance News](https://www.binance.com/en/square/post/10-16-2026-catcher-predict-polymarket-furia-esports-vs-cloud9-worlds-qualifier-over-27-5-game-1-kills-odds-rise-19-5-378038930187984?utm_source=BinanceNewsRSS))</p>",
-      "date_published": "2026-10-17T03:30:00-04:00",
-      "date_modified": "2026-10-17T03:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.binance.com/en/square/post/10-16-2026-catcher-predict-polymarket-furia-esports-vs-cloud9-worlds-qualifier-over-27-5-game-1-kills-odds-rise-19-5-378038930187984?utm_source=BinanceNewsRSS",
-      "links": [
-        "https://www.binance.com/en/square/post/10-16-2026-catcher-predict-polymarket-furia-esports-vs-cloud9-worlds-qualifier-over-27-5-game-1-kills-odds-rise-19-5-378038930187984?utm_source=BinanceNewsRSS"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:30 AM ET",
-      "body": "- **Polymarket FURIA vs Cloud9 Game 1 kills over 27.5 odds rise to 57.5 percent** — On Polymarket, the probability of more than 27.5 total kills in Game 1 of the FURIA Esports vs Cloud9 Worlds Qualifier rose to 57.5 percent from 38 percent one hour earlier, according to Catcher Predict tracking reported by Binance News. ([Binance News](https://www.binance.com/en/square/post/10-16-2026-catcher-predict-polymarket-furia-esports-vs-cloud9-worlds-qualifier-over-27-5-game-1-kills-odds-rise-19-5-378038930187984?utm_source=BinanceNewsRSS))",
-      "image_url": null,
-      "published": "2026-10-17T03:30:00-04:00",
-      "source": "2026-10-17_0330-edt.json",
       "matches_facebook_post": false
     }
   ]
