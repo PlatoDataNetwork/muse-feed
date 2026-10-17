@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T01:50:44.480190-04:00",
+  "updated": "2026-10-17T02:04:23.204402-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,97 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-17_0200-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0200-edt-0",
+      "title": "Baltimore sues Kalshi and Polymarket over sports event contracts",
+      "content_text": "- **Baltimore sues Kalshi and Polymarket over sports event contracts** — Baltimore has filed legal actions arguing that Kalshi and Polymarket are running unlicensed sports betting under Maryland law and misrepresented the legal status of their products. The Kalshi complaint also names trading partners including Robinhood, Webull and Coinbase over marketing-related claims. ([BitRss](https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175))",
+      "content_html": "<p>- **Baltimore sues Kalshi and Polymarket over sports event contracts** — Baltimore has filed legal actions arguing that Kalshi and Polymarket are running unlicensed sports betting under Maryland law and misrepresented the legal status of their products. The Kalshi complaint also names trading partners including Robinhood, Webull and Coinbase over marketing-related claims. ([BitRss](https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175))</p>",
+      "date_published": "2026-10-17T02:00:00-04:00",
+      "date_modified": "2026-10-17T02:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175",
+      "links": [
+        "https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175"
+      ],
+      "timestamp": "Oct 17, 2026 · 2:00 AM ET",
+      "body": "- **Baltimore sues Kalshi and Polymarket over sports event contracts** — Baltimore has filed legal actions arguing that Kalshi and Polymarket are running unlicensed sports betting under Maryland law and misrepresented the legal status of their products. The Kalshi complaint also names trading partners including Robinhood, Webull and Coinbase over marketing-related claims. ([BitRss](https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175))",
+      "image_url": null,
+      "published": "2026-10-17T02:00:00-04:00",
+      "source": "2026-10-17_0200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-17_0200-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0200-edt-1",
+      "title": "World Cup final becomes largest prediction market as Kalshi volume tops 1.27 billion dollars",
+      "content_text": "- **World Cup final becomes largest prediction market as Kalshi volume tops 1.27 billion dollars** — Kalshi data cited in the report puts trading on the Argentina-Spain World Cup final contract above 1.27 billion dollars, with Spain priced at 61 percent. Total trading across World Cup contracts was reported above 25 billion dollars. ([BankB](https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086))",
+      "content_html": "<p>- **World Cup final becomes largest prediction market as Kalshi volume tops 1.27 billion dollars** — Kalshi data cited in the report puts trading on the Argentina-Spain World Cup final contract above 1.27 billion dollars, with Spain priced at 61 percent. Total trading across World Cup contracts was reported above 25 billion dollars. ([BankB](https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086))</p>",
+      "date_published": "2026-10-17T02:00:00-04:00",
+      "date_modified": "2026-10-17T02:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086",
+      "links": [
+        "https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086"
+      ],
+      "timestamp": "Oct 17, 2026 · 2:00 AM ET",
+      "body": "- **World Cup final becomes largest prediction market as Kalshi volume tops 1.27 billion dollars** — Kalshi data cited in the report puts trading on the Argentina-Spain World Cup final contract above 1.27 billion dollars, with Spain priced at 61 percent. Total trading across World Cup contracts was reported above 25 billion dollars. ([BankB](https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086))",
+      "image_url": null,
+      "published": "2026-10-17T02:00:00-04:00",
+      "source": "2026-10-17_0200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-17_0154-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_0154-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nFed decrease interest rates by 50+ bps after the October 2026 meeting priced at 0.1% on Polymarket, on $7.6M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nKanye West performs in Russia by October 31 priced at 1.3% on Polymarket, on $1.0M traded\nPredictionBubbles' culture board lists the performance contract among its culture markets ending soon, resolving in about 15 days — a contract not featured in any…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Fed decrease interest rates by 50+ bps after the October 2026 meeting priced at 0.1% on Polymarket, on $7.6M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…<br/>#PredictionMarkets #Polymarket #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Kanye West performs in Russia by October 31 priced at 1.3% on Polymarket, on $1.0M traded<br/>PredictionBubbles&#x27; culture board lists the performance contract among its culture markets ending soon, resolving in about 15 days — a contract not featured in any…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/culture/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T01:54:00-04:00",
+      "date_modified": "2026-10-17T01:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/culture/"
+      ],
+      "timestamp": "Oct 17, 2026 · 1:54 AM ET",
+      "body": "Infiniti Briefing\n\nFed decrease interest rates by 50+ bps after the October 2026 meeting priced at 0.1% on Polymarket, on $7.6M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nKanye West performs in Russia by October 31 priced at 1.3% on Polymarket, on $1.0M traded\nPredictionBubbles' culture board lists the performance contract among its culture markets ending soon, resolving in about 15 days — a contract not featured in any…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/culture/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T01:54:00-04:00",
+      "source": "2026-10-17_0154-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_0145-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_0145-edt-0",
@@ -4572,98 +4663,6 @@
       "image_url": null,
       "published": "2026-10-16T18:00:00-04:00",
       "source": "2026-10-16_1800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1800-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1800-edt-3",
-      "title": "Polymarket odds on Ethereum topping 3,000 dollars fall from 67 percent to 42 percent this week",
-      "content_text": "- **Polymarket odds on Ethereum topping 3,000 dollars fall from 67 percent to 42 percent this week** — CryptoRank's prediction tracker shows Polymarket traders cut the chance of Ethereum topping 3,000 dollars from 67 percent to 42 percent this week, with Solana topping 140 dollars also down from 54 percent to 36 percent. ([CryptoRank](https://cryptorank.io/price/pax-gold/predictions))",
-      "content_html": "<p>- **Polymarket odds on Ethereum topping 3,000 dollars fall from 67 percent to 42 percent this week** — CryptoRank&#x27;s prediction tracker shows Polymarket traders cut the chance of Ethereum topping 3,000 dollars from 67 percent to 42 percent this week, with Solana topping 140 dollars also down from 54 percent to 36 percent. ([CryptoRank](https://cryptorank.io/price/pax-gold/predictions))</p>",
-      "date_published": "2026-10-16T18:00:00-04:00",
-      "date_modified": "2026-10-16T18:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Ethereum",
-        "Solana"
-      ],
-      "image": null,
-      "external_url": "https://cryptorank.io/price/pax-gold/predictions",
-      "links": [
-        "https://cryptorank.io/price/pax-gold/predictions"
-      ],
-      "timestamp": "Oct 16, 2026 · 6:00 PM ET",
-      "body": "- **Polymarket odds on Ethereum topping 3,000 dollars fall from 67 percent to 42 percent this week** — CryptoRank's prediction tracker shows Polymarket traders cut the chance of Ethereum topping 3,000 dollars from 67 percent to 42 percent this week, with Solana topping 140 dollars also down from 54 percent to 36 percent. ([CryptoRank](https://cryptorank.io/price/pax-gold/predictions))",
-      "image_url": null,
-      "published": "2026-10-16T18:00:00-04:00",
-      "source": "2026-10-16_1800-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-16_1754-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-16_1754-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nReya FDV above $200M one day after launch falls 7.5 points to 9.5% on Polymarket, on $139K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh launch-valuation contract leads, in a crypto category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nSara Saito wins priced at 91% on Kalshi, on $694K traded\nPredictionBubbles' most-active board ranks the tennis contract among the day's highest-volume newly active markets, resolving in about 13 days 20 hours — a matchup not…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Reya FDV above $200M one day after launch falls 7.5 points to 9.5% on Polymarket, on $139K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh launch-valuation contract leads, in a crypto category different from the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Sara Saito wins priced at 91% on Kalshi, on $694K traded<br/>PredictionBubbles&#x27; most-active board ranks the tennis contract among the day&#x27;s highest-volume newly active markets, resolving in about 13 days 20 hours — a matchup not…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-16T17:54:00-04:00",
-      "date_modified": "2026-10-16T17:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 16, 2026 · 5:54 PM ET",
-      "body": "Infiniti Briefing\n\nReya FDV above $200M one day after launch falls 7.5 points to 9.5% on Polymarket, on $139K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes, so this fresh launch-valuation contract leads, in a crypto category different from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nSara Saito wins priced at 91% on Kalshi, on $694K traded\nPredictionBubbles' most-active board ranks the tennis contract among the day's highest-volume newly active markets, resolving in about 13 days 20 hours — a matchup not…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-16T17:54:00-04:00",
-      "source": "2026-10-16_1754-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-16_1745-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-16_1745-edt-0",
-      "title": "Polymarket US trades 2.72 billion dollars in notional volume in a single week",
-      "content_text": "- **Polymarket US trades 2.72 billion dollars in notional volume in a single week** — Polymarket US recorded 2.72 billion dollars in notional volume in the week ending October 11, up from 60.8 million dollars in early January, with a peak day of 698.8 million dollars on October 11 and a trailing 30-day total above 11.39 billion dollars. Growth was driven largely by NFL and NCAA football markets and combo contracts introduced in August. ([Crypto Briefing](https://cryptobriefing.com/polymarket-us-weekly-volume-surge/))",
-      "content_html": "<p>- **Polymarket US trades 2.72 billion dollars in notional volume in a single week** — Polymarket US recorded 2.72 billion dollars in notional volume in the week ending October 11, up from 60.8 million dollars in early January, with a peak day of 698.8 million dollars on October 11 and a trailing 30-day total above 11.39 billion dollars. Growth was driven largely by NFL and NCAA football markets and combo contracts introduced in August. ([Crypto Briefing](https://cryptobriefing.com/polymarket-us-weekly-volume-surge/))</p>",
-      "date_published": "2026-10-16T17:45:00-04:00",
-      "date_modified": "2026-10-16T17:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://cryptobriefing.com/polymarket-us-weekly-volume-surge/",
-      "links": [
-        "https://cryptobriefing.com/polymarket-us-weekly-volume-surge/"
-      ],
-      "timestamp": "Oct 16, 2026 · 5:45 PM ET",
-      "body": "- **Polymarket US trades 2.72 billion dollars in notional volume in a single week** — Polymarket US recorded 2.72 billion dollars in notional volume in the week ending October 11, up from 60.8 million dollars in early January, with a peak day of 698.8 million dollars on October 11 and a trailing 30-day total above 11.39 billion dollars. Growth was driven largely by NFL and NCAA football markets and combo contracts introduced in August. ([Crypto Briefing](https://cryptobriefing.com/polymarket-us-weekly-volume-surge/))",
-      "image_url": null,
-      "published": "2026-10-16T17:45:00-04:00",
-      "source": "2026-10-16_1745-edt.json",
       "matches_facebook_post": false
     }
   ]
