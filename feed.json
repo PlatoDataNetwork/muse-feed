@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T21:06:42.103636-04:00",
+  "updated": "2026-10-17T21:13:03.023152-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_2109-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2109-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSTRC hit $100 by December 31 priced at 79.7% on Polymarket, up 4 points, on $407K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already noted today, including the Taiwan…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nUCLA wins priced at 67% on Kalshi, up 11 points, on $1.6M traded\nPredictionBubbles' movers board ranks the UCLA win contract among the day's largest upward moves, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>STRC hit $100 by December 31 priced at 79.7% on Polymarket, up 4 points, on $407K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already noted today, including the Taiwan…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>UCLA wins priced at 67% on Kalshi, up 11 points, on $1.6M traded<br/>PredictionBubbles&#x27; movers board ranks the UCLA win contract among the day&#x27;s largest upward moves, in a sports markets category distinct from the lead — a contract with…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T21:09:00-04:00",
+      "date_modified": "2026-10-17T21:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 9:09 PM ET",
+      "body": "Infiniti Briefing\n\nSTRC hit $100 by December 31 priced at 79.7% on Polymarket, up 4 points, on $407K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already noted today, including the Taiwan…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nUCLA wins priced at 67% on Kalshi, up 11 points, on $1.6M traded\nPredictionBubbles' movers board ranks the UCLA win contract among the day's largest upward moves, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T21:09:00-04:00",
+      "source": "2026-10-17_2109-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_2100-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2100-edt-0",
@@ -4749,36 +4782,6 @@
       "image_url": null,
       "published": "2026-10-17T11:09:00-04:00",
       "source": "2026-10-17_1109-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1100-edt-0",
-      "title": "Ohio orders 10 prediction market operators to stop sports contracts after Sixth Circuit win",
-      "content_text": "- **Ohio orders 10 prediction market operators to stop sports contracts after Sixth Circuit win** — The Ohio Casino Control Commission sent cease-and-desist letters dated October 2 to Coinbase, Gemini Titan, Moomoo Financial, Novig, Plus500US, Polymarket, ProphetX, Robinhood Derivatives, Underdog and Webull Financial, ordering each to stop offering sports event contracts in Ohio and notify the commission in writing within 14 days. The letters rely on the Sixth Circuit September 25 ruling that federal law does not preempt Ohio sports gaming law, and Kalshi was not a recipient because its penalty case is already under way. ([iGaming Times](https://igaming-times.com/news/prediction-markets/ohio-orders-10-prediction-markets-to-stop-sports-contracts-a-week-after-its-sixth-circuit-win))",
-      "content_html": "<p>- **Ohio orders 10 prediction market operators to stop sports contracts after Sixth Circuit win** — The Ohio Casino Control Commission sent cease-and-desist letters dated October 2 to Coinbase, Gemini Titan, Moomoo Financial, Novig, Plus500US, Polymarket, ProphetX, Robinhood Derivatives, Underdog and Webull Financial, ordering each to stop offering sports event contracts in Ohio and notify the commission in writing within 14 days. The letters rely on the Sixth Circuit September 25 ruling that federal law does not preempt Ohio sports gaming law, and Kalshi was not a recipient because its penalty case is already under way. ([iGaming Times](https://igaming-times.com/news/prediction-markets/ohio-orders-10-prediction-markets-to-stop-sports-contracts-a-week-after-its-sixth-circuit-win))</p>",
-      "date_published": "2026-10-17T11:00:00-04:00",
-      "date_modified": "2026-10-17T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://igaming-times.com/news/prediction-markets/ohio-orders-10-prediction-markets-to-stop-sports-contracts-a-week-after-its-sixth-circuit-win",
-      "links": [
-        "https://igaming-times.com/news/prediction-markets/ohio-orders-10-prediction-markets-to-stop-sports-contracts-a-week-after-its-sixth-circuit-win"
-      ],
-      "timestamp": "Oct 17, 2026 · 11:00 AM ET",
-      "body": "- **Ohio orders 10 prediction market operators to stop sports contracts after Sixth Circuit win** — The Ohio Casino Control Commission sent cease-and-desist letters dated October 2 to Coinbase, Gemini Titan, Moomoo Financial, Novig, Plus500US, Polymarket, ProphetX, Robinhood Derivatives, Underdog and Webull Financial, ordering each to stop offering sports event contracts in Ohio and notify the commission in writing within 14 days. The letters rely on the Sixth Circuit September 25 ruling that federal law does not preempt Ohio sports gaming law, and Kalshi was not a recipient because its penalty case is already under way. ([iGaming Times](https://igaming-times.com/news/prediction-markets/ohio-orders-10-prediction-markets-to-stop-sports-contracts-a-week-after-its-sixth-circuit-win))",
-      "image_url": null,
-      "published": "2026-10-17T11:00:00-04:00",
-      "source": "2026-10-17_1100-edt.json",
       "matches_facebook_post": false
     }
   ]
