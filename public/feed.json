@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T00:34:56.462654-04:00",
+  "updated": "2026-10-18T00:45:56.405898-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_0039-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0039-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPredictionBubbles movers board ranks 2,028 markets with 425 moving at least 1 point in 24 hours, split 204 up and 221 down\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Comer…\n#PredictionMarkets #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nHawai'i wins priced at 61% on Kalshi, up 47 points, on $1.3M traded\nPredictionBubbles' movers board ranks the Hawai'i win contract as the day's single largest upward move, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>PredictionBubbles movers board ranks 2,028 markets with 425 moving at least 1 point in 24 hours, split 204 up and 221 down<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Comer…<br/>#PredictionMarkets #Elections #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Hawai&#x27;i wins priced at 61% on Kalshi, up 47 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board ranks the Hawai&#x27;i win contract as the day&#x27;s single largest upward move, in a sports markets category distinct from the lead — a contract…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T00:39:00-04:00",
+      "date_modified": "2026-10-18T00:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:39 AM ET",
+      "body": "Infiniti Briefing\n\nPredictionBubbles movers board ranks 2,028 markets with 425 moving at least 1 point in 24 hours, split 204 up and 221 down\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Comer…\n#PredictionMarkets #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nHawai'i wins priced at 61% on Kalshi, up 47 points, on $1.3M traded\nPredictionBubbles' movers board ranks the Hawai'i win contract as the day's single largest upward move, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T00:39:00-04:00",
+      "source": "2026-10-18_0039-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-18_0024-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0024-edt",
@@ -4748,35 +4780,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 3:00 PM ET",
       "body": "- **Polymarket WTI crude low of 95 dollars in October contract falls 26 points to 58.5 percent** — PredictionBubbles lists the new Polymarket market on WTI crude oil hitting a low of 95 dollars in October at 58.5 percent, down 26 points, with about 19,000 dollars traded since it opened a day ago. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
-      "image_url": null,
-      "published": "2026-10-17T15:00:00-04:00",
-      "source": "2026-10-17_1500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1500-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1500-edt-4",
-      "title": "Charleston Southern win contract draws 6.5 million dollars on Kalshi despite 2 percent price",
-      "content_text": "- **Charleston Southern win contract draws 6.5 million dollars on Kalshi despite 2 percent price** — PredictionBubbles ranks the Charleston Southern win contract among the markets heating up right now, with 6.5 million dollars traded on Kalshi even though the contract is priced at just 2 percent. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
-      "content_html": "<p>- **Charleston Southern win contract draws 6.5 million dollars on Kalshi despite 2 percent price** — PredictionBubbles ranks the Charleston Southern win contract among the markets heating up right now, with 6.5 million dollars traded on Kalshi even though the contract is priced at just 2 percent. ([PredictionBubbles](https://predictionbubbles.net/markets/))</p>",
-      "date_published": "2026-10-17T15:00:00-04:00",
-      "date_modified": "2026-10-17T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/",
-      "links": [
-        "https://predictionbubbles.net/markets/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:00 PM ET",
-      "body": "- **Charleston Southern win contract draws 6.5 million dollars on Kalshi despite 2 percent price** — PredictionBubbles ranks the Charleston Southern win contract among the markets heating up right now, with 6.5 million dollars traded on Kalshi even though the contract is priced at just 2 percent. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
       "image_url": null,
       "published": "2026-10-17T15:00:00-04:00",
       "source": "2026-10-17_1500-edt.json",
