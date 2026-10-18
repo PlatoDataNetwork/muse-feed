@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T08:18:23.552336-04:00",
+  "updated": "2026-10-18T08:33:45.661384-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-18_0830-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0830-edt-0",
+      "title": "CFTC warning on American odds puts sports prediction market pricing in the spotlight",
+      "content_text": "- **CFTC warning on American odds puts sports prediction market pricing in the spotlight** — The CFTC has warned companies offering event contracts that presenting prices in sportsbook-style American odds could mislead consumers. In an August 7 release and staff letter, the commission said regulated entities must provide clear and accurate pricing information instead. ([DeviceDaily](https://www.devicedaily.com/?p=438040))",
+      "content_html": "<p>- **CFTC warning on American odds puts sports prediction market pricing in the spotlight** — The CFTC has warned companies offering event contracts that presenting prices in sportsbook-style American odds could mislead consumers. In an August 7 release and staff letter, the commission said regulated entities must provide clear and accurate pricing information instead. ([DeviceDaily](https://www.devicedaily.com/?p=438040))</p>",
+      "date_published": "2026-10-18T08:30:00-04:00",
+      "date_modified": "2026-10-18T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.devicedaily.com/?p=438040",
+      "links": [
+        "https://www.devicedaily.com/?p=438040"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:30 AM ET",
+      "body": "- **CFTC warning on American odds puts sports prediction market pricing in the spotlight** — The CFTC has warned companies offering event contracts that presenting prices in sportsbook-style American odds could mislead consumers. In an August 7 release and staff letter, the commission said regulated entities must provide clear and accurate pricing information instead. ([DeviceDaily](https://www.devicedaily.com/?p=438040))",
+      "image_url": null,
+      "published": "2026-10-18T08:30:00-04:00",
+      "source": "2026-10-18_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0830-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0830-edt-1",
+      "title": "Polymarket prices Zcash reaching 100 dollars in 2026 at 53 percent",
+      "content_text": "- **Polymarket prices Zcash reaching 100 dollars in 2026 at 53 percent** — A Polymarket contract on Zcash reaching 100 dollars in 2026 is priced at 53 percent following renewed market interest. The pricing follows a sharp 2026 move in Zcash, which rallied above 600 dollars earlier this year and later corrected sharply. ([BitRss](https://bitrss.com/polymarket-odds-of-zcash-reaching-100-in-2026-jump-to-53-following-renewed-market-interest-218381))",
+      "content_html": "<p>- **Polymarket prices Zcash reaching 100 dollars in 2026 at 53 percent** — A Polymarket contract on Zcash reaching 100 dollars in 2026 is priced at 53 percent following renewed market interest. The pricing follows a sharp 2026 move in Zcash, which rallied above 600 dollars earlier this year and later corrected sharply. ([BitRss](https://bitrss.com/polymarket-odds-of-zcash-reaching-100-in-2026-jump-to-53-following-renewed-market-interest-218381))</p>",
+      "date_published": "2026-10-18T08:30:00-04:00",
+      "date_modified": "2026-10-18T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/polymarket-odds-of-zcash-reaching-100-in-2026-jump-to-53-following-renewed-market-interest-218381",
+      "links": [
+        "https://bitrss.com/polymarket-odds-of-zcash-reaching-100-in-2026-jump-to-53-following-renewed-market-interest-218381"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:30 AM ET",
+      "body": "- **Polymarket prices Zcash reaching 100 dollars in 2026 at 53 percent** — A Polymarket contract on Zcash reaching 100 dollars in 2026 is priced at 53 percent following renewed market interest. The pricing follows a sharp 2026 move in Zcash, which rallied above 600 dollars earlier this year and later corrected sharply. ([BitRss](https://bitrss.com/polymarket-odds-of-zcash-reaching-100-in-2026-jump-to-53-following-renewed-market-interest-218381))",
+      "image_url": null,
+      "published": "2026-10-18T08:30:00-04:00",
+      "source": "2026-10-18_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0830-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0830-edt-2",
+      "title": "Buffalo Bills lead AFC East at 67 percent on Kalshi and 65 percent on Polymarket in October 18 snapshot",
+      "content_text": "- **Buffalo Bills lead AFC East at 67 percent on Kalshi and 65 percent on Polymarket in October 18 snapshot** — Prices read on October 18, 2026 at 11:21 UTC show the Buffalo Bills ahead in the AFC East on both Kalshi and Polymarket, with the New England Patriots at 30 percent on both venues. The average Bills price is up 5 points since the October 12 reading, while the Patriots average is down 7 points. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
+      "content_html": "<p>- **Buffalo Bills lead AFC East at 67 percent on Kalshi and 65 percent on Polymarket in October 18 snapshot** — Prices read on October 18, 2026 at 11:21 UTC show the Buffalo Bills ahead in the AFC East on both Kalshi and Polymarket, with the New England Patriots at 30 percent on both venues. The average Bills price is up 5 points since the October 12 reading, while the Patriots average is down 7 points. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))</p>",
+      "date_published": "2026-10-18T08:30:00-04:00",
+      "date_modified": "2026-10-18T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://ipredicta.co/insights/nfl-division-winners-2026/",
+      "links": [
+        "https://ipredicta.co/insights/nfl-division-winners-2026/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:30 AM ET",
+      "body": "- **Buffalo Bills lead AFC East at 67 percent on Kalshi and 65 percent on Polymarket in October 18 snapshot** — Prices read on October 18, 2026 at 11:21 UTC show the Buffalo Bills ahead in the AFC East on both Kalshi and Polymarket, with the New England Patriots at 30 percent on both venues. The average Bills price is up 5 points since the October 12 reading, while the Patriots average is down 7 points. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
+      "image_url": null,
+      "published": "2026-10-18T08:30:00-04:00",
+      "source": "2026-10-18_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0830-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0830-edt-3",
+      "title": "Democrats priced at 90 percent for House control on Polymarket US and Kalshi in October 18 polls comparison",
+      "content_text": "- **Democrats priced at 90 percent for House control on Polymarket US and Kalshi in October 18 polls comparison** — An Action Network comparison as of October 18, 2026 shows prediction markets and polls both favouring Democrats for House control, priced at 90 percent on Polymarket US and on Kalshi. Senate control is priced at 61 percent for Democrats on Polymarket US and 62 percent on Kalshi, a closer picture than the House. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))",
+      "content_html": "<p>- **Democrats priced at 90 percent for House control on Polymarket US and Kalshi in October 18 polls comparison** — An Action Network comparison as of October 18, 2026 shows prediction markets and polls both favouring Democrats for House control, priced at 90 percent on Polymarket US and on Kalshi. Senate control is priced at 61 percent for Democrats on Polymarket US and 62 percent on Kalshi, a closer picture than the House. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))</p>",
+      "date_published": "2026-10-18T08:30:00-04:00",
+      "date_modified": "2026-10-18T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls",
+      "links": [
+        "https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:30 AM ET",
+      "body": "- **Democrats priced at 90 percent for House control on Polymarket US and Kalshi in October 18 polls comparison** — An Action Network comparison as of October 18, 2026 shows prediction markets and polls both favouring Democrats for House control, priced at 90 percent on Polymarket US and on Kalshi. Senate control is priced at 61 percent for Democrats on Polymarket US and 62 percent on Kalshi, a closer picture than the House. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))",
+      "image_url": null,
+      "published": "2026-10-18T08:30:00-04:00",
+      "source": "2026-10-18_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0830-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0830-edt-4",
+      "title": "Prediction market sector report puts September volume at 75.5 billion dollars, the largest month recorded",
+      "content_text": "- **Prediction market sector report puts September volume at 75.5 billion dollars, the largest month recorded** — A third-quarter sector report says the week of September 21 reached 19.9 billion dollars and September as a whole reached 75.5 billion dollars, the largest month recorded for the industry. Open interest across Kalshi, Polymarket and Polymarket US ended the quarter at 2.54 billion dollars on September 30, of which 2.18 billion dollars was on Kalshi. ([Prediction Frontier](https://medium.com/@prediction_frontier/prediction-frontier-q3-2026-sector-report-9c7d1208e2c0))",
+      "content_html": "<p>- **Prediction market sector report puts September volume at 75.5 billion dollars, the largest month recorded** — A third-quarter sector report says the week of September 21 reached 19.9 billion dollars and September as a whole reached 75.5 billion dollars, the largest month recorded for the industry. Open interest across Kalshi, Polymarket and Polymarket US ended the quarter at 2.54 billion dollars on September 30, of which 2.18 billion dollars was on Kalshi. ([Prediction Frontier](https://medium.com/@prediction_frontier/prediction-frontier-q3-2026-sector-report-9c7d1208e2c0))</p>",
+      "date_published": "2026-10-18T08:30:00-04:00",
+      "date_modified": "2026-10-18T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://medium.com/@prediction_frontier/prediction-frontier-q3-2026-sector-report-9c7d1208e2c0",
+      "links": [
+        "https://medium.com/@prediction_frontier/prediction-frontier-q3-2026-sector-report-9c7d1208e2c0"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:30 AM ET",
+      "body": "- **Prediction market sector report puts September volume at 75.5 billion dollars, the largest month recorded** — A third-quarter sector report says the week of September 21 reached 19.9 billion dollars and September as a whole reached 75.5 billion dollars, the largest month recorded for the industry. Open interest across Kalshi, Polymarket and Polymarket US ended the quarter at 2.54 billion dollars on September 30, of which 2.18 billion dollars was on Kalshi. ([Prediction Frontier](https://medium.com/@prediction_frontier/prediction-frontier-q3-2026-sector-report-9c7d1208e2c0))",
+      "image_url": null,
+      "published": "2026-10-18T08:30:00-04:00",
+      "source": "2026-10-18_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-18_0824-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0824-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\n5-6 SpaceX Starship launches successfully reach Space in 2026 priced at 37% on Polymarket, up 3 points, on $120K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and on Oct. 17: the…\n#PredictionMarkets #Polymarket #SCOTUS #Elections\nhttps://predictionbubbles.net/markets/tech/\n\nBrentford wins priced at 1% on Kalshi, down 39 points, on $806K traded\nPredictionBubbles' movers snapshot lists the Brentford contract among the day's largest downward sports moves, in a sports markets category distinct from the lead — a…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>5-6 SpaceX Starship launches successfully reach Space in 2026 priced at 37% on Polymarket, up 3 points, on $120K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and on Oct. 17: the…<br/>#PredictionMarkets #Polymarket #SCOTUS #Elections<br/>https://predictionbubbles.net/markets/tech/<br/><br/>Brentford wins priced at 1% on Kalshi, down 39 points, on $806K traded<br/>PredictionBubbles&#x27; movers snapshot lists the Brentford contract among the day&#x27;s largest downward sports moves, in a sports markets category distinct from the lead — a…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T08:24:00-04:00",
+      "date_modified": "2026-10-18T08:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "SCOTUS",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/tech/",
+      "links": [
+        "https://predictionbubbles.net/markets/tech/",
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:24 AM ET",
+      "body": "Infiniti Briefing\n\n5-6 SpaceX Starship launches successfully reach Space in 2026 priced at 37% on Polymarket, up 3 points, on $120K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and on Oct. 17: the…\n#PredictionMarkets #Polymarket #SCOTUS #Elections\nhttps://predictionbubbles.net/markets/tech/\n\nBrentford wins priced at 1% on Kalshi, down 39 points, on $806K traded\nPredictionBubbles' movers snapshot lists the Brentford contract among the day's largest downward sports moves, in a sports markets category distinct from the lead — a…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T08:24:00-04:00",
+      "source": "2026-10-18_0824-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-18_0815-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0815-edt-0",
@@ -4546,188 +4729,6 @@
       "image_url": null,
       "published": "2026-10-17T22:45:00-04:00",
       "source": "2026-10-17_2245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2245-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2245-edt-3",
-      "title": "Coinbase debuts prediction markets nationwide via Kalshi deal under its everything exchange strategy",
-      "content_text": "- **Coinbase debuts prediction markets nationwide via Kalshi deal under its everything exchange strategy** — Coinbase has debuted prediction markets nationwide through its Kalshi deal, giving its existing US customers access to Kalshi event contracts without opening separate accounts. The launch is part of Coinbases everything exchange strategy to offer stocks, crypto, tokenized assets and prediction markets under one roof. ([BitRss](https://bitrss.com/coinbase-coin-stock-exchange-debuts-prediction-markets-nationwide-via-kalshi-deal-178248))",
-      "content_html": "<p>- **Coinbase debuts prediction markets nationwide via Kalshi deal under its everything exchange strategy** — Coinbase has debuted prediction markets nationwide through its Kalshi deal, giving its existing US customers access to Kalshi event contracts without opening separate accounts. The launch is part of Coinbases everything exchange strategy to offer stocks, crypto, tokenized assets and prediction markets under one roof. ([BitRss](https://bitrss.com/coinbase-coin-stock-exchange-debuts-prediction-markets-nationwide-via-kalshi-deal-178248))</p>",
-      "date_published": "2026-10-17T22:45:00-04:00",
-      "date_modified": "2026-10-17T22:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/coinbase-coin-stock-exchange-debuts-prediction-markets-nationwide-via-kalshi-deal-178248",
-      "links": [
-        "https://bitrss.com/coinbase-coin-stock-exchange-debuts-prediction-markets-nationwide-via-kalshi-deal-178248"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:45 PM ET",
-      "body": "- **Coinbase debuts prediction markets nationwide via Kalshi deal under its everything exchange strategy** — Coinbase has debuted prediction markets nationwide through its Kalshi deal, giving its existing US customers access to Kalshi event contracts without opening separate accounts. The launch is part of Coinbases everything exchange strategy to offer stocks, crypto, tokenized assets and prediction markets under one roof. ([BitRss](https://bitrss.com/coinbase-coin-stock-exchange-debuts-prediction-markets-nationwide-via-kalshi-deal-178248))",
-      "image_url": null,
-      "published": "2026-10-17T22:45:00-04:00",
-      "source": "2026-10-17_2245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_2239-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2239-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nFed's upper bound reach 4.25% or higher before 2027 priced at 78.2% on Polymarket, down 3.4 points, on $146K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay win the 2026 Pro Baseball Championship priced at 21.8% on Kalshi, up 6.3 points, on $6.0M traded\nPredictionBubbles' movers board lists the Tampa Bay championship contract among the day's upward moves, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Fed&#x27;s upper bound reach 4.25% or higher before 2027 priced at 78.2% on Polymarket, down 3.4 points, on $146K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Tampa Bay win the 2026 Pro Baseball Championship priced at 21.8% on Kalshi, up 6.3 points, on $6.0M traded<br/>PredictionBubbles&#x27; movers board lists the Tampa Bay championship contract among the day&#x27;s upward moves, in a sports markets category distinct from the lead — a contract…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-17T22:39:00-04:00",
-      "date_modified": "2026-10-17T22:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:39 PM ET",
-      "body": "Infiniti Briefing\n\nFed's upper bound reach 4.25% or higher before 2027 priced at 78.2% on Polymarket, down 3.4 points, on $146K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay win the 2026 Pro Baseball Championship priced at 21.8% on Kalshi, up 6.3 points, on $6.0M traded\nPredictionBubbles' movers board lists the Tampa Bay championship contract among the day's upward moves, in a sports markets category distinct from the lead — a contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-17T22:39:00-04:00",
-      "source": "2026-10-17_2239-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_2224-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2224-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nAnthropic IPO by November 15, 2026 priced at 2.3% on Polymarket, down 3.5 points, on $154K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nTCU wins priced at 88% on Kalshi, up 54 points, on $1.3M traded\nPredictionBubbles' movers board ranks the TCU win contract as the day's single largest upward move, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic IPO by November 15, 2026 priced at 2.3% on Polymarket, down 3.5 points, on $154K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>TCU wins priced at 88% on Kalshi, up 54 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board ranks the TCU win contract as the day&#x27;s single largest upward move, in a sports markets category distinct from the lead — a contract with…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-17T22:24:00-04:00",
-      "date_modified": "2026-10-17T22:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:24 PM ET",
-      "body": "Infiniti Briefing\n\nAnthropic IPO by November 15, 2026 priced at 2.3% on Polymarket, down 3.5 points, on $154K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nTCU wins priced at 88% on Kalshi, up 54 points, on $1.3M traded\nPredictionBubbles' movers board ranks the TCU win contract as the day's single largest upward move, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-17T22:24:00-04:00",
-      "source": "2026-10-17_2224-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2215-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2215-edt-0",
-      "title": "California wealth tax Proposition 40 priced at 27 percent on Kalshi and 25 percent on Polymarket despite polling lead",
-      "content_text": "- **California wealth tax Proposition 40 priced at 27 percent on Kalshi and 25 percent on Polymarket despite polling lead** — Kalshi gives California's proposed one-time 5 percent tax on billionaires a 27 percent chance of passage on 1.6 million dollars traded, while Polymarket puts it at 25 percent on 3.9 million dollars traded. September polls showed support ahead, with a Public Policy Institute of California survey at 52 percent in favor and 46 percent opposed. ([DeFi Rate](https://defirate.com/news/california-wealth-tax-chances-low/))",
-      "content_html": "<p>- **California wealth tax Proposition 40 priced at 27 percent on Kalshi and 25 percent on Polymarket despite polling lead** — Kalshi gives California&#x27;s proposed one-time 5 percent tax on billionaires a 27 percent chance of passage on 1.6 million dollars traded, while Polymarket puts it at 25 percent on 3.9 million dollars traded. September polls showed support ahead, with a Public Policy Institute of California survey at 52 percent in favor and 46 percent opposed. ([DeFi Rate](https://defirate.com/news/california-wealth-tax-chances-low/))</p>",
-      "date_published": "2026-10-17T22:15:00-04:00",
-      "date_modified": "2026-10-17T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/california-wealth-tax-chances-low/",
-      "links": [
-        "https://defirate.com/news/california-wealth-tax-chances-low/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:15 PM ET",
-      "body": "- **California wealth tax Proposition 40 priced at 27 percent on Kalshi and 25 percent on Polymarket despite polling lead** — Kalshi gives California's proposed one-time 5 percent tax on billionaires a 27 percent chance of passage on 1.6 million dollars traded, while Polymarket puts it at 25 percent on 3.9 million dollars traded. September polls showed support ahead, with a Public Policy Institute of California survey at 52 percent in favor and 46 percent opposed. ([DeFi Rate](https://defirate.com/news/california-wealth-tax-chances-low/))",
-      "image_url": null,
-      "published": "2026-10-17T22:15:00-04:00",
-      "source": "2026-10-17_2215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2215-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2215-edt-1",
-      "title": "Google blocks prediction market ads in Connecticut, the fifth state excluded from its ad program",
-      "content_text": "- **Google blocks prediction market ads in Connecticut, the fifth state excluded from its ad program** — Google now prohibits prediction market ads targeting users in Connecticut, Michigan, Nevada, New York and Ohio, even for federally regulated operators. Connecticut joined the list this month after state regulators issued cease-and-desist orders to nine prediction market platforms in September. ([DeFi Rate](https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/))",
-      "content_html": "<p>- **Google blocks prediction market ads in Connecticut, the fifth state excluded from its ad program** — Google now prohibits prediction market ads targeting users in Connecticut, Michigan, Nevada, New York and Ohio, even for federally regulated operators. Connecticut joined the list this month after state regulators issued cease-and-desist orders to nine prediction market platforms in September. ([DeFi Rate](https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/))</p>",
-      "date_published": "2026-10-17T22:15:00-04:00",
-      "date_modified": "2026-10-17T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/",
-      "links": [
-        "https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:15 PM ET",
-      "body": "- **Google blocks prediction market ads in Connecticut, the fifth state excluded from its ad program** — Google now prohibits prediction market ads targeting users in Connecticut, Michigan, Nevada, New York and Ohio, even for federally regulated operators. Connecticut joined the list this month after state regulators issued cease-and-desist orders to nine prediction market platforms in September. ([DeFi Rate](https://defirate.com/news/google-blocks-prediction-market-ads-connecticut/))",
-      "image_url": null,
-      "published": "2026-10-17T22:15:00-04:00",
-      "source": "2026-10-17_2215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2215-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2215-edt-2",
-      "title": "Kalshi hits record 19.03 billion dollars in weekly contract volume for October 5 to 11 as Polymarket US nearly triples in six weeks",
-      "content_text": "- **Kalshi hits record 19.03 billion dollars in weekly contract volume for October 5 to 11 as Polymarket US nearly triples in six weeks** — Kalshi weekly contract volume rose to 19.03 billion dollars for October 5 to 11, up 3.57 percent from the prior week and the highest in the six-week series reviewed. Polymarket US reported 2.82 billion in trade volume, up from 974.55 million for the week ending September 6. ([DeFi Rate](https://defirate.com/news/kalshi-hits-record-19-billion-week-as-polymarket-us-triples-fall-trade-volume/))",
-      "content_html": "<p>- **Kalshi hits record 19.03 billion dollars in weekly contract volume for October 5 to 11 as Polymarket US nearly triples in six weeks** — Kalshi weekly contract volume rose to 19.03 billion dollars for October 5 to 11, up 3.57 percent from the prior week and the highest in the six-week series reviewed. Polymarket US reported 2.82 billion in trade volume, up from 974.55 million for the week ending September 6. ([DeFi Rate](https://defirate.com/news/kalshi-hits-record-19-billion-week-as-polymarket-us-triples-fall-trade-volume/))</p>",
-      "date_published": "2026-10-17T22:15:00-04:00",
-      "date_modified": "2026-10-17T22:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/kalshi-hits-record-19-billion-week-as-polymarket-us-triples-fall-trade-volume/",
-      "links": [
-        "https://defirate.com/news/kalshi-hits-record-19-billion-week-as-polymarket-us-triples-fall-trade-volume/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:15 PM ET",
-      "body": "- **Kalshi hits record 19.03 billion dollars in weekly contract volume for October 5 to 11 as Polymarket US nearly triples in six weeks** — Kalshi weekly contract volume rose to 19.03 billion dollars for October 5 to 11, up 3.57 percent from the prior week and the highest in the six-week series reviewed. Polymarket US reported 2.82 billion in trade volume, up from 974.55 million for the week ending September 6. ([DeFi Rate](https://defirate.com/news/kalshi-hits-record-19-billion-week-as-polymarket-us-triples-fall-trade-volume/))",
-      "image_url": null,
-      "published": "2026-10-17T22:15:00-04:00",
-      "source": "2026-10-17_2215-edt.json",
       "matches_facebook_post": false
     }
   ]
