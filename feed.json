@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T02:49:00.324991-04:00",
+  "updated": "2026-10-18T03:03:33.649068-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_0254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0254-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBitcoin outperform gold in 2026 priced at 47% on Kalshi, up 6.4 points, on $304K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the $220M…\n#PredictionMarkets #Kalshi #Bitcoin #Gold\nhttps://predictionbubbles.net/markets/movers/\n\nAlabama win the College Football Playoff National Championship priced at 5% on Kalshi, down 4 points, on $3.3M traded\nPredictionBubbles' movers board lists the Alabama title contract among the day's downward moves, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin outperform gold in 2026 priced at 47% on Kalshi, up 6.4 points, on $304K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the $220M…<br/>#PredictionMarkets #Kalshi #Bitcoin #Gold<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Alabama win the College Football Playoff National Championship priced at 5% on Kalshi, down 4 points, on $3.3M traded<br/>PredictionBubbles&#x27; movers board lists the Alabama title contract among the day&#x27;s downward moves, in a sports markets category distinct from the lead — a contract with…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T02:54:00-04:00",
+      "date_modified": "2026-10-18T02:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Bitcoin",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 2:54 AM ET",
+      "body": "Infiniti Briefing\n\nBitcoin outperform gold in 2026 priced at 47% on Kalshi, up 6.4 points, on $304K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the $220M…\n#PredictionMarkets #Kalshi #Bitcoin #Gold\nhttps://predictionbubbles.net/markets/movers/\n\nAlabama win the College Football Playoff National Championship priced at 5% on Kalshi, down 4 points, on $3.3M traded\nPredictionBubbles' movers board lists the Alabama title contract among the day's downward moves, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T02:54:00-04:00",
+      "source": "2026-10-18_0254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-18_0239-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0239-edt",
@@ -4727,41 +4759,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 4:45 PM ET",
       "body": "- **Kalshi and Polymarket reported at 8.56 billion dollars in combined two-day volume** — Kalshi and Polymarket reportedly recorded a combined 8.56 billion dollars in trading volume across a two-day window, according to CoinCu. No platform breakdown or category split was published with the figure, so how the total divides between the two venues remains unconfirmed. ([CoinCu](https://www.coincu.com/kalshi-polymarket-8-56-billion-two-day-trading-volume/))",
-      "image_url": null,
-      "published": "2026-10-17T16:45:00-04:00",
-      "source": "2026-10-17_1645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1645-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1645-edt-4",
-      "title": "Polymarket launches Perps platform with up to 20x leveraged futures",
-      "content_text": "- **Polymarket launches Perps platform with up to 20x leveraged futures** — Polymarket has launched Polymarket Perps, a perpetual futures service covering nine assets including Bitcoin, Ethereum, Solana, gold, silver, WTI crude oil, the S and P 500, the Nasdaq 100 and SpaceX shares. The contracts have no set expiration date and allow leverage of up to 20x. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))",
-      "content_html": "<p>- **Polymarket launches Perps platform with up to 20x leveraged futures** — Polymarket has launched Polymarket Perps, a perpetual futures service covering nine assets including Bitcoin, Ethereum, Solana, gold, silver, WTI crude oil, the S and P 500, the Nasdaq 100 and SpaceX shares. The contracts have no set expiration date and allow leverage of up to 20x. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))</p>",
-      "date_published": "2026-10-17T16:45:00-04:00",
-      "date_modified": "2026-10-17T16:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum",
-        "Solana",
-        "Gold",
-        "Silver",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157",
-      "links": [
-        "https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157"
-      ],
-      "timestamp": "Oct 17, 2026 · 4:45 PM ET",
-      "body": "- **Polymarket launches Perps platform with up to 20x leveraged futures** — Polymarket has launched Polymarket Perps, a perpetual futures service covering nine assets including Bitcoin, Ethereum, Solana, gold, silver, WTI crude oil, the S and P 500, the Nasdaq 100 and SpaceX shares. The contracts have no set expiration date and allow leverage of up to 20x. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))",
       "image_url": null,
       "published": "2026-10-17T16:45:00-04:00",
       "source": "2026-10-17_1645-edt.json",
