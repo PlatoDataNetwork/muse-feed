@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T08:33:45.661384-04:00",
+  "updated": "2026-10-18T08:48:30.970767-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,195 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-18_0845-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0845-edt-0",
+      "title": "Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in October 18 snapshot",
+      "content_text": "- **Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in October 18 snapshot** — SimpleFunctions reports Kalshi had 40,853 active contracts and 15,086,621 dollars in 24-hour volume in its October 18 comparison, with an average spread of 0.30 cents and no live cross-venue pairs currently shown against Polymarket. ([SimpleFunctions](https://data.simplefunctions.dev/compare/kalshi-vs-polymarket))",
+      "content_html": "<p>- **Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in October 18 snapshot** — SimpleFunctions reports Kalshi had 40,853 active contracts and 15,086,621 dollars in 24-hour volume in its October 18 comparison, with an average spread of 0.30 cents and no live cross-venue pairs currently shown against Polymarket. ([SimpleFunctions](https://data.simplefunctions.dev/compare/kalshi-vs-polymarket))</p>",
+      "date_published": "2026-10-18T08:45:00-04:00",
+      "date_modified": "2026-10-18T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://data.simplefunctions.dev/compare/kalshi-vs-polymarket",
+      "links": [
+        "https://data.simplefunctions.dev/compare/kalshi-vs-polymarket"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:45 AM ET",
+      "body": "- **Kalshi lists 40,853 active contracts with 15.1 million dollars in 24-hour volume in October 18 snapshot** — SimpleFunctions reports Kalshi had 40,853 active contracts and 15,086,621 dollars in 24-hour volume in its October 18 comparison, with an average spread of 0.30 cents and no live cross-venue pairs currently shown against Polymarket. ([SimpleFunctions](https://data.simplefunctions.dev/compare/kalshi-vs-polymarket))",
+      "image_url": null,
+      "published": "2026-10-18T08:45:00-04:00",
+      "source": "2026-10-18_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0845-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0845-edt-1",
+      "title": "Polymarket assigns Bitcoin a 72 percent chance of slipping to 80,000 dollars in October",
+      "content_text": "- **Polymarket assigns Bitcoin a 72 percent chance of slipping to 80,000 dollars in October** — CryptoTimes reports Polymarket traders assign Bitcoin a 72 percent chance of touching 80,000 dollars, while Kalshi traders give a 62 percent probability of falling below that level, with both platforms putting the chance of reaching 92,500 dollars at 18 percent. ([CryptoTimes](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))",
+      "content_html": "<p>- **Polymarket assigns Bitcoin a 72 percent chance of slipping to 80,000 dollars in October** — CryptoTimes reports Polymarket traders assign Bitcoin a 72 percent chance of touching 80,000 dollars, while Kalshi traders give a 62 percent probability of falling below that level, with both platforms putting the chance of reaching 92,500 dollars at 18 percent. ([CryptoTimes](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))</p>",
+      "date_published": "2026-10-18T08:45:00-04:00",
+      "date_modified": "2026-10-18T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/",
+      "links": [
+        "https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:45 AM ET",
+      "body": "- **Polymarket assigns Bitcoin a 72 percent chance of slipping to 80,000 dollars in October** — CryptoTimes reports Polymarket traders assign Bitcoin a 72 percent chance of touching 80,000 dollars, while Kalshi traders give a 62 percent probability of falling below that level, with both platforms putting the chance of reaching 92,500 dollars at 18 percent. ([CryptoTimes](https://www.cryptotimes.io/2026/10/13/bitcoin-price-prediction-live-polymarket-and-kalshi-october-2026/))",
+      "image_url": null,
+      "published": "2026-10-18T08:45:00-04:00",
+      "source": "2026-10-18_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0845-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0845-edt-2",
+      "title": "Coinbase 15-minute crypto contracts built on Kalshi infrastructure draw scrutiny over retail losses",
+      "content_text": "- **Coinbase 15-minute crypto contracts built on Kalshi infrastructure draw scrutiny over retail losses** — WebProNews reports Coinbase rolled out 15-minute prediction contracts on Bitcoin, Ethereum and eight other cryptocurrencies on October 6 using Kalshi infrastructure, and analysts found exactly half of more than 3,300 settled Bitcoin windows resolved higher, with fees eroding returns near even odds. ([WebProNews](https://www.webpronews.com/coinbases-15-minute-crypto-bets-signal-trouble-ahead-for-retail-traders/))",
+      "content_html": "<p>- **Coinbase 15-minute crypto contracts built on Kalshi infrastructure draw scrutiny over retail losses** — WebProNews reports Coinbase rolled out 15-minute prediction contracts on Bitcoin, Ethereum and eight other cryptocurrencies on October 6 using Kalshi infrastructure, and analysts found exactly half of more than 3,300 settled Bitcoin windows resolved higher, with fees eroding returns near even odds. ([WebProNews](https://www.webpronews.com/coinbases-15-minute-crypto-bets-signal-trouble-ahead-for-retail-traders/))</p>",
+      "date_published": "2026-10-18T08:45:00-04:00",
+      "date_modified": "2026-10-18T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "image": null,
+      "external_url": "https://www.webpronews.com/coinbases-15-minute-crypto-bets-signal-trouble-ahead-for-retail-traders/",
+      "links": [
+        "https://www.webpronews.com/coinbases-15-minute-crypto-bets-signal-trouble-ahead-for-retail-traders/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:45 AM ET",
+      "body": "- **Coinbase 15-minute crypto contracts built on Kalshi infrastructure draw scrutiny over retail losses** — WebProNews reports Coinbase rolled out 15-minute prediction contracts on Bitcoin, Ethereum and eight other cryptocurrencies on October 6 using Kalshi infrastructure, and analysts found exactly half of more than 3,300 settled Bitcoin windows resolved higher, with fees eroding returns near even odds. ([WebProNews](https://www.webpronews.com/coinbases-15-minute-crypto-bets-signal-trouble-ahead-for-retail-traders/))",
+      "image_url": null,
+      "published": "2026-10-18T08:45:00-04:00",
+      "source": "2026-10-18_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0845-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0845-edt-3",
+      "title": "DeFi Rate snapshot prices Democratic Senate control at 62.4 percent and House control at 90.3 percent",
+      "content_text": "- **DeFi Rate snapshot prices Democratic Senate control at 62.4 percent and House control at 90.3 percent** — Zona de Azar reports a DeFi Rate snapshot from October 14 put Democratic control of the Senate at 62.4 percent and the House at 90.3 percent across Kalshi and Polymarket contracts, with Republican control of both chambers at about 9.5 percent. ([Zona de Azar](https://zonadeazar.com/juego-online/kalshi-and-polymarket-new-data-from-us-prediction-markets/))",
+      "content_html": "<p>- **DeFi Rate snapshot prices Democratic Senate control at 62.4 percent and House control at 90.3 percent** — Zona de Azar reports a DeFi Rate snapshot from October 14 put Democratic control of the Senate at 62.4 percent and the House at 90.3 percent across Kalshi and Polymarket contracts, with Republican control of both chambers at about 9.5 percent. ([Zona de Azar](https://zonadeazar.com/juego-online/kalshi-and-polymarket-new-data-from-us-prediction-markets/))</p>",
+      "date_published": "2026-10-18T08:45:00-04:00",
+      "date_modified": "2026-10-18T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://zonadeazar.com/juego-online/kalshi-and-polymarket-new-data-from-us-prediction-markets/",
+      "links": [
+        "https://zonadeazar.com/juego-online/kalshi-and-polymarket-new-data-from-us-prediction-markets/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:45 AM ET",
+      "body": "- **DeFi Rate snapshot prices Democratic Senate control at 62.4 percent and House control at 90.3 percent** — Zona de Azar reports a DeFi Rate snapshot from October 14 put Democratic control of the Senate at 62.4 percent and the House at 90.3 percent across Kalshi and Polymarket contracts, with Republican control of both chambers at about 9.5 percent. ([Zona de Azar](https://zonadeazar.com/juego-online/kalshi-and-polymarket-new-data-from-us-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-18T08:45:00-04:00",
+      "source": "2026-10-18_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0845-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0845-edt-4",
+      "title": "VegasInsider ranks Polymarket, FanDuel Predicts, Kalshi, Novig and ProphetX as top prediction market apps for October 2026",
+      "content_text": "- **VegasInsider ranks Polymarket, FanDuel Predicts, Kalshi, Novig and ProphetX as top prediction market apps for October 2026** — VegasInsider ranks Polymarket, FanDuel Predicts, Kalshi, Novig and ProphetX as the best US prediction market apps for October 2026, noting all six reviewed platforms are CFTC-regulated and lead on different strengths including range, onboarding, cost and sports. ([VegasInsider](https://www.vegasinsider.com/prediction-markets/best-prediction-market-apps/))",
+      "content_html": "<p>- **VegasInsider ranks Polymarket, FanDuel Predicts, Kalshi, Novig and ProphetX as top prediction market apps for October 2026** — VegasInsider ranks Polymarket, FanDuel Predicts, Kalshi, Novig and ProphetX as the best US prediction market apps for October 2026, noting all six reviewed platforms are CFTC-regulated and lead on different strengths including range, onboarding, cost and sports. ([VegasInsider](https://www.vegasinsider.com/prediction-markets/best-prediction-market-apps/))</p>",
+      "date_published": "2026-10-18T08:45:00-04:00",
+      "date_modified": "2026-10-18T08:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.vegasinsider.com/prediction-markets/best-prediction-market-apps/",
+      "links": [
+        "https://www.vegasinsider.com/prediction-markets/best-prediction-market-apps/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:45 AM ET",
+      "body": "- **VegasInsider ranks Polymarket, FanDuel Predicts, Kalshi, Novig and ProphetX as top prediction market apps for October 2026** — VegasInsider ranks Polymarket, FanDuel Predicts, Kalshi, Novig and ProphetX as the best US prediction market apps for October 2026, noting all six reviewed platforms are CFTC-regulated and lead on different strengths including range, onboarding, cost and sports. ([VegasInsider](https://www.vegasinsider.com/prediction-markets/best-prediction-market-apps/))",
+      "image_url": null,
+      "published": "2026-10-18T08:45:00-04:00",
+      "source": "2026-10-18_0845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-18_0839-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0839-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\nRepublicans win the Senate race in South Carolina priced at 82% on Kalshi\nDarline Graham contract down 3 points on $1.1M traded, among the day's political movers.\n#Senate #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nUdinese wins priced at 1% on Kalshi\nDown 51 points on $775K traded, the day's largest downward move across 2,025 markets.\n#Soccer #SportsMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nGianni Infantino out as FIFA President by Dec 31 priced at 8.5% on Polymarket\nUp 2.5 points on $538K traded, among the day's upward sports moves.\n#FIFA #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: ETH Jan 1 2,500-2,749 band 17.5% | BTC Jan 1 85,000-89,999 band 12.5%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Republicans win the Senate race in South Carolina priced at 82% on Kalshi<br/>Darline Graham contract down 3 points on $1.1M traded, among the day&#x27;s political movers.<br/>#Senate #PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Udinese wins priced at 1% on Kalshi<br/>Down 51 points on $775K traded, the day&#x27;s largest downward move across 2,025 markets.<br/>#Soccer #SportsMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Gianni Infantino out as FIFA President by Dec 31 priced at 8.5% on Polymarket<br/>Up 2.5 points on $538K traded, among the day&#x27;s upward sports moves.<br/>#FIFA #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: ETH Jan 1 2,500-2,749 band 17.5% | BTC Jan 1 85,000-89,999 band 12.5%<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-18_0839-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "date_published": "2026-10-18T08:39:00-04:00",
+      "date_modified": "2026-10-18T08:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Senate",
+        "PredictionMarkets",
+        "Kalshi",
+        "Soccer",
+        "SportsMarkets",
+        "FIFA",
+        "Polymarket"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-18_0839-edt.jpg",
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:39 AM ET",
+      "body": "Infiniti Briefing\nRepublicans win the Senate race in South Carolina priced at 82% on Kalshi\nDarline Graham contract down 3 points on $1.1M traded, among the day's political movers.\n#Senate #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nUdinese wins priced at 1% on Kalshi\nDown 51 points on $775K traded, the day's largest downward move across 2,025 markets.\n#Soccer #SportsMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nGianni Infantino out as FIFA President by Dec 31 priced at 8.5% on Polymarket\nUp 2.5 points on $538K traded, among the day's upward sports moves.\n#FIFA #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: ETH Jan 1 2,500-2,749 band 17.5% | BTC Jan 1 85,000-89,999 band 12.5%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-18_0839-edt.jpg",
+      "published": "2026-10-18T08:39:00-04:00",
+      "source": "2026-10-18_0839-edt.md",
+      "matches_facebook_post": true
+    },
     {
       "id": "web-2026-10-18_0830-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0830-edt-0",
@@ -466,8 +655,8 @@
       "id": "infiniti-2026-10-18_0809-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0809-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nUpper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 12.7% on Polymarket, down 5.1 points, on $1.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and on Oct. 17: the…\n#PredictionMarkets #Polymarket #SCOTUS #FCA\nhttps://predictionbubbles.net/markets/movers/\n\nPredict.fun FDV above $1B one day after launch priced at 36.3% on Polymarket, down 6.5 points, on $566K traded\nPredictionBubbles' movers board lists the $1B launch-threshold contract among the day's downward crypto moves, in a crypto category distinct from the lead; it last…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 12.7% on Polymarket, down 5.1 points, on $1.4M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and on Oct. 17: the…<br/>#PredictionMarkets #Polymarket #SCOTUS #FCA<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Predict.fun FDV above $1B one day after launch priced at 36.3% on Polymarket, down 6.5 points, on $566K traded<br/>PredictionBubbles&#x27; movers board lists the $1B launch-threshold contract among the day&#x27;s downward crypto moves, in a crypto category distinct from the lead; it last…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nFed funds ceiling at 4.0% end of 2026 priced at 12.7%\nPolymarket contract down 5.1 points on $1.4M traded, a fresh finance mover.\n#FederalReserve #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nPredict.fun FDV above $1B after launch priced at 36.3%\nDown 6.5 points on $566K traded on Polymarket.\n#Crypto #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nIran enrichment end by Dec 31 priced at 3.5%\nDown 5.5 points on $1.9M traded on Polymarket.\n#Iran #Geopolitics #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: WTI $130 Oct high 2.1% | BTC $65K dip 2.0%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Fed funds ceiling at 4.0% end of 2026 priced at 12.7%<br/>Polymarket contract down 5.1 points on $1.4M traded, a fresh finance mover.<br/>#FederalReserve #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Predict.fun FDV above $1B after launch priced at 36.3%<br/>Down 6.5 points on $566K traded on Polymarket.<br/>#Crypto #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Iran enrichment end by Dec 31 priced at 3.5%<br/>Down 5.5 points on $1.9M traded on Polymarket.<br/>#Iran #Geopolitics #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: WTI $130 Oct high 2.1% | BTC $65K dip 2.0%<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-18_0809-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-18T08:09:00-04:00",
       "date_modified": "2026-10-18T08:09:00-04:00",
       "authors": [
@@ -477,22 +666,24 @@
         }
       ],
       "tags": [
+        "FederalReserve",
         "PredictionMarkets",
         "Polymarket",
-        "SCOTUS",
-        "FCA"
+        "Crypto",
+        "Iran",
+        "Geopolitics"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-18_0809-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/movers/",
       "links": [
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 18, 2026 · 8:09 AM ET",
-      "body": "Infiniti Briefing\n\nUpper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 12.7% on Polymarket, down 5.1 points, on $1.4M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today and on Oct. 17: the…\n#PredictionMarkets #Polymarket #SCOTUS #FCA\nhttps://predictionbubbles.net/markets/movers/\n\nPredict.fun FDV above $1B one day after launch priced at 36.3% on Polymarket, down 6.5 points, on $566K traded\nPredictionBubbles' movers board lists the $1B launch-threshold contract among the day's downward crypto moves, in a crypto category distinct from the lead; it last…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nFed funds ceiling at 4.0% end of 2026 priced at 12.7%\nPolymarket contract down 5.1 points on $1.4M traded, a fresh finance mover.\n#FederalReserve #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nPredict.fun FDV above $1B after launch priced at 36.3%\nDown 6.5 points on $566K traded on Polymarket.\n#Crypto #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nIran enrichment end by Dec 31 priced at 3.5%\nDown 5.5 points on $1.9M traded on Polymarket.\n#Iran #Geopolitics #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: WTI $130 Oct high 2.1% | BTC $65K dip 2.0%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-18_0809-edt.jpg",
       "published": "2026-10-18T08:09:00-04:00",
       "source": "2026-10-18_0809-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-18_0800-edt-0",
@@ -4540,195 +4731,6 @@
       "image_url": null,
       "published": "2026-10-17T23:00:00-04:00",
       "source": "2026-10-17_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2300-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2300-edt-2",
-      "title": "Kalshi prices Democrats at 61 percent for Senate control and 88 percent for House control in updated midterm tracker",
-      "content_text": "- **Kalshi prices Democrats at 61 percent for Senate control and 88 percent for House control in updated midterm tracker** — PredictionMarketsPicks, updated late on October 17, lists 312 tradeable midterm contracts covering 35 Senate races and 66 competitive House districts. Kalshi prices Democrats at 61 percent to control the Senate and 88 percent to control the House, 17 days before the November 3 election. ([PredictionMarketsPicks](https://predictionmarketspicks.com/midterms-2026))",
-      "content_html": "<p>- **Kalshi prices Democrats at 61 percent for Senate control and 88 percent for House control in updated midterm tracker** — PredictionMarketsPicks, updated late on October 17, lists 312 tradeable midterm contracts covering 35 Senate races and 66 competitive House districts. Kalshi prices Democrats at 61 percent to control the Senate and 88 percent to control the House, 17 days before the November 3 election. ([PredictionMarketsPicks](https://predictionmarketspicks.com/midterms-2026))</p>",
-      "date_published": "2026-10-17T23:00:00-04:00",
-      "date_modified": "2026-10-17T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://predictionmarketspicks.com/midterms-2026",
-      "links": [
-        "https://predictionmarketspicks.com/midterms-2026"
-      ],
-      "timestamp": "Oct 17, 2026 · 11:00 PM ET",
-      "body": "- **Kalshi prices Democrats at 61 percent for Senate control and 88 percent for House control in updated midterm tracker** — PredictionMarketsPicks, updated late on October 17, lists 312 tradeable midterm contracts covering 35 Senate races and 66 competitive House districts. Kalshi prices Democrats at 61 percent to control the Senate and 88 percent to control the House, 17 days before the November 3 election. ([PredictionMarketsPicks](https://predictionmarketspicks.com/midterms-2026))",
-      "image_url": null,
-      "published": "2026-10-17T23:00:00-04:00",
-      "source": "2026-10-17_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2300-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2300-edt-3",
-      "title": "Kalshi monthly commodities board lists Brent crude for October 30 as its largest market at 133,618 dollars in volume",
-      "content_text": "- **Kalshi monthly commodities board lists Brent crude for October 30 as its largest market at 133,618 dollars in volume** — Kalshi's monthly commodities board shows Brent crude oil for October 30 as its largest listed market, with 133,618 dollars in volume across 30 markets and the above 106.99 dollars contract paying 1.93 times. Natural gas for October 30 follows at 46,169 dollars in volume, with the gold and silver markets each near 23,000 dollars. ([Kalshi](https://kalshi.com/category/commodities/frequency/monthly))",
-      "content_html": "<p>- **Kalshi monthly commodities board lists Brent crude for October 30 as its largest market at 133,618 dollars in volume** — Kalshi&#x27;s monthly commodities board shows Brent crude oil for October 30 as its largest listed market, with 133,618 dollars in volume across 30 markets and the above 106.99 dollars contract paying 1.93 times. Natural gas for October 30 follows at 46,169 dollars in volume, with the gold and silver markets each near 23,000 dollars. ([Kalshi](https://kalshi.com/category/commodities/frequency/monthly))</p>",
-      "date_published": "2026-10-17T23:00:00-04:00",
-      "date_modified": "2026-10-17T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Gold",
-        "Silver",
-        "Oil",
-        "Natural Gas"
-      ],
-      "image": null,
-      "external_url": "https://kalshi.com/category/commodities/frequency/monthly",
-      "links": [
-        "https://kalshi.com/category/commodities/frequency/monthly"
-      ],
-      "timestamp": "Oct 17, 2026 · 11:00 PM ET",
-      "body": "- **Kalshi monthly commodities board lists Brent crude for October 30 as its largest market at 133,618 dollars in volume** — Kalshi's monthly commodities board shows Brent crude oil for October 30 as its largest listed market, with 133,618 dollars in volume across 30 markets and the above 106.99 dollars contract paying 1.93 times. Natural gas for October 30 follows at 46,169 dollars in volume, with the gold and silver markets each near 23,000 dollars. ([Kalshi](https://kalshi.com/category/commodities/frequency/monthly))",
-      "image_url": null,
-      "published": "2026-10-17T23:00:00-04:00",
-      "source": "2026-10-17_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_2254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2254-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBaylor wins priced at 4% on Kalshi, down 63 points, on $1.7M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nBetween 14 and 16 earthquakes of magnitude 7.0 or higher worldwide in 2026 priced at 46% on Polymarket, down 12.5 points, on $189K traded\nPredictionBubbles' movers board lists the earthquake-count contract among the day's largest downward moves, in a climate/science category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Baylor wins priced at 4% on Kalshi, down 63 points, on $1.7M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…<br/>#PredictionMarkets #Kalshi #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Between 14 and 16 earthquakes of magnitude 7.0 or higher worldwide in 2026 priced at 46% on Polymarket, down 12.5 points, on $189K traded<br/>PredictionBubbles&#x27; movers board lists the earthquake-count contract among the day&#x27;s largest downward moves, in a climate/science category distinct from the lead — a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-17T22:54:00-04:00",
-      "date_modified": "2026-10-17T22:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Bitcoin",
-        "Elections",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:54 PM ET",
-      "body": "Infiniti Briefing\n\nBaylor wins priced at 4% on Kalshi, down 63 points, on $1.7M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nBetween 14 and 16 earthquakes of magnitude 7.0 or higher worldwide in 2026 priced at 46% on Polymarket, down 12.5 points, on $189K traded\nPredictionBubbles' movers board lists the earthquake-count contract among the day's largest downward moves, in a climate/science category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-17T22:54:00-04:00",
-      "source": "2026-10-17_2254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2245-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2245-edt-0",
-      "title": "World Cup final Argentina-Spain contract tops 1.27 billion dollars on Kalshi with Spain favored at 61 percent",
-      "content_text": "- **World Cup final Argentina-Spain contract tops 1.27 billion dollars on Kalshi with Spain favored at 61 percent** — Kalshi data shows the Argentina-Spain World Cup final contract has surpassed 1.27 billion dollars in trading volume, the largest single market in the platform history, with Spain priced at 61 percent. Total trading across World Cup contracts had exceeded 25 billion dollars by Tuesday, well above NBA finals and Super Bowl volumes. ([BankB](https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086))",
-      "content_html": "<p>- **World Cup final Argentina-Spain contract tops 1.27 billion dollars on Kalshi with Spain favored at 61 percent** — Kalshi data shows the Argentina-Spain World Cup final contract has surpassed 1.27 billion dollars in trading volume, the largest single market in the platform history, with Spain priced at 61 percent. Total trading across World Cup contracts had exceeded 25 billion dollars by Tuesday, well above NBA finals and Super Bowl volumes. ([BankB](https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086))</p>",
-      "date_published": "2026-10-17T22:45:00-04:00",
-      "date_modified": "2026-10-17T22:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086",
-      "links": [
-        "https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:45 PM ET",
-      "body": "- **World Cup final Argentina-Spain contract tops 1.27 billion dollars on Kalshi with Spain favored at 61 percent** — Kalshi data shows the Argentina-Spain World Cup final contract has surpassed 1.27 billion dollars in trading volume, the largest single market in the platform history, with Spain priced at 61 percent. Total trading across World Cup contracts had exceeded 25 billion dollars by Tuesday, well above NBA finals and Super Bowl volumes. ([BankB](https://bankb.it/world-cup-final-is-already-the-biggest-ever-prediction-market-as-kalshi-bets-top-1-27-billion-with-s-189086))",
-      "image_url": null,
-      "published": "2026-10-17T22:45:00-04:00",
-      "source": "2026-10-17_2245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2245-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2245-edt-1",
-      "title": "Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars",
-      "content_text": "- **Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars** — An October 15 analysis of open politics markets found Tim Walz ranked first on Polymarket with 88.7 million dollars across 8 markets, while Donald Trump led Kalshi with 48.6 million dollars across 878 markets. Californias gubernatorial contest led Polymarket midterm volume at 41.7 million dollars and Texass Senate race led Kalshi at 21.8 million dollars. ([Bonus.com](https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/))",
-      "content_html": "<p>- **Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars** — An October 15 analysis of open politics markets found Tim Walz ranked first on Polymarket with 88.7 million dollars across 8 markets, while Donald Trump led Kalshi with 48.6 million dollars across 878 markets. Californias gubernatorial contest led Polymarket midterm volume at 41.7 million dollars and Texass Senate race led Kalshi at 21.8 million dollars. ([Bonus.com](https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/))</p>",
-      "date_published": "2026-10-17T22:45:00-04:00",
-      "date_modified": "2026-10-17T22:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/",
-      "links": [
-        "https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:45 PM ET",
-      "body": "- **Tim Walz leads Polymarket politician volume at 88.7 million dollars while Donald Trump leads Kalshi at 48.6 million dollars** — An October 15 analysis of open politics markets found Tim Walz ranked first on Polymarket with 88.7 million dollars across 8 markets, while Donald Trump led Kalshi with 48.6 million dollars across 878 markets. Californias gubernatorial contest led Polymarket midterm volume at 41.7 million dollars and Texass Senate race led Kalshi at 21.8 million dollars. ([Bonus.com](https://www.bonus.com/news/trump-walz-lead-political-prediction-market-volume-rankings-across-kalshi-and-polymarket/))",
-      "image_url": null,
-      "published": "2026-10-17T22:45:00-04:00",
-      "source": "2026-10-17_2245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2245-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2245-edt-2",
-      "title": "Kalshi and Polymarket will not be part of FTC sports gambling probe, according to report",
-      "content_text": "- **Kalshi and Polymarket will not be part of FTC sports gambling probe, according to report** — Protos reports Kalshi and Polymarket will not be part of the FTC sports gambling probe. Both platforms argue they are not gambling operators and should be regulated federally under the Commodity Futures Trading Commission instead of by individual states. ([Protos](https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/))",
-      "content_html": "<p>- **Kalshi and Polymarket will not be part of FTC sports gambling probe, according to report** — Protos reports Kalshi and Polymarket will not be part of the FTC sports gambling probe. Both platforms argue they are not gambling operators and should be regulated federally under the Commodity Futures Trading Commission instead of by individual states. ([Protos](https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/))</p>",
-      "date_published": "2026-10-17T22:45:00-04:00",
-      "date_modified": "2026-10-17T22:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/",
-      "links": [
-        "https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/"
-      ],
-      "timestamp": "Oct 17, 2026 · 10:45 PM ET",
-      "body": "- **Kalshi and Polymarket will not be part of FTC sports gambling probe, according to report** — Protos reports Kalshi and Polymarket will not be part of the FTC sports gambling probe. Both platforms argue they are not gambling operators and should be regulated federally under the Commodity Futures Trading Commission instead of by individual states. ([Protos](https://protos.com/kalshi-and-polymarket-wont-be-part-of-ftc-sports-gambling-probe-report/))",
-      "image_url": null,
-      "published": "2026-10-17T22:45:00-04:00",
-      "source": "2026-10-17_2245-edt.json",
       "matches_facebook_post": false
     }
   ]
