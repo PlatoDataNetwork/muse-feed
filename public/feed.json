@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T22:21:49.047511-04:00",
+  "updated": "2026-10-17T22:27:52.339190-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-17_2224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2224-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAnthropic IPO by November 15, 2026 priced at 2.3% on Polymarket, down 3.5 points, on $154K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nTCU wins priced at 88% on Kalshi, up 54 points, on $1.3M traded\nPredictionBubbles' movers board ranks the TCU win contract as the day's single largest upward move, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic IPO by November 15, 2026 priced at 2.3% on Polymarket, down 3.5 points, on $154K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>TCU wins priced at 88% on Kalshi, up 54 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board ranks the TCU win contract as the day&#x27;s single largest upward move, in a sports markets category distinct from the lead — a contract with…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T22:24:00-04:00",
+      "date_modified": "2026-10-17T22:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:24 PM ET",
+      "body": "Infiniti Briefing\n\nAnthropic IPO by November 15, 2026 priced at 2.3% on Polymarket, down 3.5 points, on $154K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nTCU wins priced at 88% on Kalshi, up 54 points, on $1.3M traded\nPredictionBubbles' movers board ranks the TCU win contract as the day's single largest upward move, in a sports markets category distinct from the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T22:24:00-04:00",
+      "source": "2026-10-17_2224-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-17_2215-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2215-edt-0",
@@ -4740,36 +4773,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 12:30 PM ET",
       "body": "- **CFTC names first Innovation Task Force lineup to draft rules for prediction markets and crypto** — The CFTC revealed the first lineup of its Innovation Task Force, headed by Michael Pascualaqua, a senior adviser to Acting Chairman Mike Selig, with five members including prediction-market expert Sam Canavos. The group will draft compliance guidelines for smart contracts, AI and prediction markets, as a federal judge temporarily blocked Arizona's criminal case against Kalshi. ([BitRss](https://bitrss.com/cftc-expands-crypto-team-after-court-blocks-prediction-market-ban-200298))",
-      "image_url": null,
-      "published": "2026-10-17T12:30:00-04:00",
-      "source": "2026-10-17_1230-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1230-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1230-edt-1",
-      "title": "Polymarket rate-hike odds diverge from CME futures as Bitcoin targets slide",
-      "content_text": "- **Polymarket rate-hike odds diverge from CME futures as Bitcoin targets slide** — Polymarket traders priced Fed policy differently than CME Group futures, with no rate change at roughly 75 percent against 25 percent for a 25 basis-point hike on October 15. Bitcoin price targets on Polymarket also slid in the same repricing, according to Prediction News. ([Prediction News](https://predictionnews.com/story/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-change))",
-      "content_html": "<p>- **Polymarket rate-hike odds diverge from CME futures as Bitcoin targets slide** — Polymarket traders priced Fed policy differently than CME Group futures, with no rate change at roughly 75 percent against 25 percent for a 25 basis-point hike on October 15. Bitcoin price targets on Polymarket also slid in the same repricing, according to Prediction News. ([Prediction News](https://predictionnews.com/story/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-change))</p>",
-      "date_published": "2026-10-17T12:30:00-04:00",
-      "date_modified": "2026-10-17T12:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-change",
-      "links": [
-        "https://predictionnews.com/story/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-change"
-      ],
-      "timestamp": "Oct 17, 2026 · 12:30 PM ET",
-      "body": "- **Polymarket rate-hike odds diverge from CME futures as Bitcoin targets slide** — Polymarket traders priced Fed policy differently than CME Group futures, with no rate change at roughly 75 percent against 25 percent for a 25 basis-point hike on October 15. Bitcoin price targets on Polymarket also slid in the same repricing, according to Prediction News. ([Prediction News](https://predictionnews.com/story/polymarket-bitcoin-and-rate-hike-odds-shift-as-cme-says-no-change))",
       "image_url": null,
       "published": "2026-10-17T12:30:00-04:00",
       "source": "2026-10-17_1230-edt.json",
