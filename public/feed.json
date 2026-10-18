@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T05:20:38.388436-04:00",
+  "updated": "2026-10-18T05:33:42.349259-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_0524-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0524-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNo one announced as next James Bond priced at 34% on Polymarket, up 4.9 points, on $575K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17 and today: the…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay win the 2026 Pro Baseball Championship priced at 22.3% on Kalshi, up 7.1 points, on $6.1M traded\nPredictionBubbles' movers board lists the Tampa Bay outright championship contract among the day's upward sports moves, in a sports markets category distinct from the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>No one announced as next James Bond priced at 34% on Polymarket, up 4.9 points, on $575K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17 and today: the…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Tampa Bay win the 2026 Pro Baseball Championship priced at 22.3% on Kalshi, up 7.1 points, on $6.1M traded<br/>PredictionBubbles&#x27; movers board lists the Tampa Bay outright championship contract among the day&#x27;s upward sports moves, in a sports markets category distinct from the…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T05:24:00-04:00",
+      "date_modified": "2026-10-18T05:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 5:24 AM ET",
+      "body": "Infiniti Briefing\n\nNo one announced as next James Bond priced at 34% on Polymarket, up 4.9 points, on $575K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17 and today: the…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay win the 2026 Pro Baseball Championship priced at 22.3% on Kalshi, up 7.1 points, on $6.1M traded\nPredictionBubbles' movers board lists the Tampa Bay outright championship contract among the day's upward sports moves, in a sports markets category distinct from the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T05:24:00-04:00",
+      "source": "2026-10-18_0524-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-18_0515-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0515-edt-0",
@@ -4732,36 +4765,6 @@
       "published": "2026-10-17T18:24:00-04:00",
       "source": "2026-10-17_1824-edt.md",
       "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-17_1815-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1815-edt-0",
-      "title": "Polymarket leads US prediction market search demand despite Kalshi trading dominance in Blask data",
-      "content_text": "- **Polymarket leads US prediction market search demand despite Kalshi trading dominance in Blask data** — Gambling Insider reports Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent share, down from 74.3 percent, while Kalshi rose to 35.8 percent. In August trading volume the order reversed, with Kalshi at 37.17 billion dollars compared with 8.16 billion dollars across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "content_html": "<p>- **Polymarket leads US prediction market search demand despite Kalshi trading dominance in Blask data** — Gambling Insider reports Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent share, down from 74.3 percent, while Kalshi rose to 35.8 percent. In August trading volume the order reversed, with Kalshi at 37.17 billion dollars compared with 8.16 billion dollars across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))</p>",
-      "date_published": "2026-10-17T18:15:00-04:00",
-      "date_modified": "2026-10-17T18:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand",
-      "links": [
-        "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand"
-      ],
-      "timestamp": "Oct 17, 2026 · 6:15 PM ET",
-      "body": "- **Polymarket leads US prediction market search demand despite Kalshi trading dominance in Blask data** — Gambling Insider reports Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent share, down from 74.3 percent, while Kalshi rose to 35.8 percent. In August trading volume the order reversed, with Kalshi at 37.17 billion dollars compared with 8.16 billion dollars across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "image_url": null,
-      "published": "2026-10-17T18:15:00-04:00",
-      "source": "2026-10-17_1815-edt.json",
-      "matches_facebook_post": false
     }
   ]
 }
