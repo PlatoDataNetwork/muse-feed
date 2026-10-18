@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T08:48:30.970767-04:00",
+  "updated": "2026-10-18T08:56:12.178027-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_0854-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0854-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nElversberg wins priced at 99% on Kalshi, up 60 points, on $851K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated or older items: the Supreme Court review story,…\n#PredictionMarkets #Kalshi #Senate #SCOTUS\nhttps://predictionbubbles.net/markets/movers/\n\nHull City wins priced at 1% on Kalshi, down 20 points, on $715K traded\nPredictionBubbles' movers board lists the Hull City contract among the day's largest downward moves, in a sports markets category; it has zero hits in the entire October…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Elversberg wins priced at 99% on Kalshi, up 60 points, on $851K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated or older items: the Supreme Court review story,…<br/>#PredictionMarkets #Kalshi #Senate #SCOTUS<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Hull City wins priced at 1% on Kalshi, down 20 points, on $715K traded<br/>PredictionBubbles&#x27; movers board lists the Hull City contract among the day&#x27;s largest downward moves, in a sports markets category; it has zero hits in the entire October…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T08:54:00-04:00",
+      "date_modified": "2026-10-18T08:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Senate",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 8:54 AM ET",
+      "body": "Infiniti Briefing\n\nElversberg wins priced at 99% on Kalshi, up 60 points, on $851K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated or older items: the Supreme Court review story,…\n#PredictionMarkets #Kalshi #Senate #SCOTUS\nhttps://predictionbubbles.net/markets/movers/\n\nHull City wins priced at 1% on Kalshi, down 20 points, on $715K traded\nPredictionBubbles' movers board lists the Hull City contract among the day's largest downward moves, in a sports markets category; it has zero hits in the entire October…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T08:54:00-04:00",
+      "source": "2026-10-18_0854-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-18_0845-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0845-edt-0",
@@ -4698,36 +4730,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 11:00 PM ET",
       "body": "- **Kalshi prices Tampa Bay at 63 percent for Game 5 against Cleveland, well below the 82 percent sportsbook median** — SportsBookISH compares Kalshi at 63.0 percent for Tampa Bay in Game 5 against Cleveland, with Cleveland at 36.5 percent, against a sportsbook median of 82.1 percent for Tampa Bay. The roughly 19-point gap is the largest Kalshi-versus-books difference on its two-game MLB slate. ([SportsBookISH](https://sportsbookish.com/sports/mlb))",
-      "image_url": null,
-      "published": "2026-10-17T23:00:00-04:00",
-      "source": "2026-10-17_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_2300-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2300-edt-1",
-      "title": "Comesana against Seyboth Wild tennis market trades 1.1 million dollars in 24 hours, third most traded on DeFi Rate board",
-      "content_text": "- **Comesana against Seyboth Wild tennis market trades 1.1 million dollars in 24 hours, third most traded on DeFi Rate board** — DeFi Rate ranks the Francisco Comesana against Thiago Seyboth Wild tennis market third among the most-traded prediction markets on October 17, with 1.1 million dollars traded in 24 hours across two venues. Seyboth Wild is priced at 52 cents on Kalshi and 78 cents on Polymarket, with Comesana priced at 49 cents. ([DeFi Rate](https://defirate.com/odds/))",
-      "content_html": "<p>- **Comesana against Seyboth Wild tennis market trades 1.1 million dollars in 24 hours, third most traded on DeFi Rate board** — DeFi Rate ranks the Francisco Comesana against Thiago Seyboth Wild tennis market third among the most-traded prediction markets on October 17, with 1.1 million dollars traded in 24 hours across two venues. Seyboth Wild is priced at 52 cents on Kalshi and 78 cents on Polymarket, with Comesana priced at 49 cents. ([DeFi Rate](https://defirate.com/odds/))</p>",
-      "date_published": "2026-10-17T23:00:00-04:00",
-      "date_modified": "2026-10-17T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/",
-      "links": [
-        "https://defirate.com/odds/"
-      ],
-      "timestamp": "Oct 17, 2026 · 11:00 PM ET",
-      "body": "- **Comesana against Seyboth Wild tennis market trades 1.1 million dollars in 24 hours, third most traded on DeFi Rate board** — DeFi Rate ranks the Francisco Comesana against Thiago Seyboth Wild tennis market third among the most-traded prediction markets on October 17, with 1.1 million dollars traded in 24 hours across two venues. Seyboth Wild is priced at 52 cents on Kalshi and 78 cents on Polymarket, with Comesana priced at 49 cents. ([DeFi Rate](https://defirate.com/odds/))",
       "image_url": null,
       "published": "2026-10-17T23:00:00-04:00",
       "source": "2026-10-17_2300-edt.json",
