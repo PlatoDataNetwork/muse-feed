@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T22:04:47.960486-04:00",
+  "updated": "2026-10-17T22:11:36.160192-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,11 +128,43 @@
   ],
   "items": [
     {
+      "id": "infiniti-2026-10-17_2209-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2209-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNo one announced as next James Bond priced at 34% on Polymarket, up 4.2 points, on $575K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nSomaliland join the Abraham Accords before 2027 priced at 15% on Polymarket, up 3.5 points, on $123K traded\nPredictionBubbles' movers board lists the Somaliland accords contract among the day's political moves, in a political/geopolitics category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>No one announced as next James Bond priced at 34% on Polymarket, up 4.2 points, on $575K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Somaliland join the Abraham Accords before 2027 priced at 15% on Polymarket, up 3.5 points, on $123K traded<br/>PredictionBubbles&#x27; movers board lists the Somaliland accords contract among the day&#x27;s political moves, in a political/geopolitics category distinct from the lead — a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T22:09:00-04:00",
+      "date_modified": "2026-10-17T22:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 10:09 PM ET",
+      "body": "Infiniti Briefing\n\nNo one announced as next James Bond priced at 34% on Polymarket, up 4.2 points, on $575K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nSomaliland join the Abraham Accords before 2027 priced at 15% on Polymarket, up 3.5 points, on $123K traded\nPredictionBubbles' movers board lists the Somaliland accords contract among the day's political moves, in a political/geopolitics category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T22:09:00-04:00",
+      "source": "2026-10-17_2209-edt.md",
+      "matches_facebook_post": false
+    },
+    {
       "id": "web-2026-10-17_2200-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2200-edt-0",
-      "title": "Taiwan blocks Kalshi, Polymarket and Coinbase ahead of local elections",
-      "content_text": "- **Taiwan blocks Kalshi, Polymarket and Coinbase ahead of local elections** — Taiwanese authorities have cut off access to Coinbase, Kalshi and Polymarket weeks before local elections, enforcing rules on political wagering. Election betting carries penalties of up to six months in prison under a 2023 legislative amendment. ([CryptosBank](https://cryptosbank.in/2026/10/17/taiwan-blocks-access-to-coinbase-and-prediction-markets-ahead-of-elections/))",
-      "content_html": "<p>- **Taiwan blocks Kalshi, Polymarket and Coinbase ahead of local elections** — Taiwanese authorities have cut off access to Coinbase, Kalshi and Polymarket weeks before local elections, enforcing rules on political wagering. Election betting carries penalties of up to six months in prison under a 2023 legislative amendment. ([CryptosBank](https://cryptosbank.in/2026/10/17/taiwan-blocks-access-to-coinbase-and-prediction-markets-ahead-of-elections/))</p>",
+      "title": "Kalshi seeks full Sixth Circuit rehearing after sports contracts ruled gambling in Ohio and Tennessee",
+      "content_text": "- **Kalshi seeks full Sixth Circuit rehearing after sports contracts ruled gambling in Ohio and Tennessee** — The Sixth Circuit ruled September 25 that Kalshi sporting event contracts are subject to Ohio and Tennessee state gambling laws, vacating a Tennessee injunction and affirming an Ohio decision. Kalshi has filed for a rehearing by the full court, according to Prediction News on October 16. ([Prediction News](https://predictionnews.com/story/ohio-handed-win-in-prediction-market-lawsuit-but-kalshi-files-for))",
+      "content_html": "<p>- **Kalshi seeks full Sixth Circuit rehearing after sports contracts ruled gambling in Ohio and Tennessee** — The Sixth Circuit ruled September 25 that Kalshi sporting event contracts are subject to Ohio and Tennessee state gambling laws, vacating a Tennessee injunction and affirming an Ohio decision. Kalshi has filed for a rehearing by the full court, according to Prediction News on October 16. ([Prediction News](https://predictionnews.com/story/ohio-handed-win-in-prediction-market-lawsuit-but-kalshi-files-for))</p>",
       "date_published": "2026-10-17T22:00:00-04:00",
       "date_modified": "2026-10-17T22:00:00-04:00",
       "authors": [
@@ -142,17 +174,15 @@
         }
       ],
       "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Elections"
+        "Kalshi"
       ],
       "image": null,
-      "external_url": "https://cryptosbank.in/2026/10/17/taiwan-blocks-access-to-coinbase-and-prediction-markets-ahead-of-elections/",
+      "external_url": "https://predictionnews.com/story/ohio-handed-win-in-prediction-market-lawsuit-but-kalshi-files-for",
       "links": [
-        "https://cryptosbank.in/2026/10/17/taiwan-blocks-access-to-coinbase-and-prediction-markets-ahead-of-elections/"
+        "https://predictionnews.com/story/ohio-handed-win-in-prediction-market-lawsuit-but-kalshi-files-for"
       ],
       "timestamp": "Oct 17, 2026 · 10:00 PM ET",
-      "body": "- **Taiwan blocks Kalshi, Polymarket and Coinbase ahead of local elections** — Taiwanese authorities have cut off access to Coinbase, Kalshi and Polymarket weeks before local elections, enforcing rules on political wagering. Election betting carries penalties of up to six months in prison under a 2023 legislative amendment. ([CryptosBank](https://cryptosbank.in/2026/10/17/taiwan-blocks-access-to-coinbase-and-prediction-markets-ahead-of-elections/))",
+      "body": "- **Kalshi seeks full Sixth Circuit rehearing after sports contracts ruled gambling in Ohio and Tennessee** — The Sixth Circuit ruled September 25 that Kalshi sporting event contracts are subject to Ohio and Tennessee state gambling laws, vacating a Tennessee injunction and affirming an Ohio decision. Kalshi has filed for a rehearing by the full court, according to Prediction News on October 16. ([Prediction News](https://predictionnews.com/story/ohio-handed-win-in-prediction-market-lawsuit-but-kalshi-files-for))",
       "image_url": null,
       "published": "2026-10-17T22:00:00-04:00",
       "source": "2026-10-17_2200-edt.json",
@@ -161,9 +191,9 @@
     {
       "id": "web-2026-10-17_2200-edt-1",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2200-edt-1",
-      "title": "Donalds priced near 80 percent and Moody above 90 percent in Florida governor and Senate markets",
-      "content_text": "- **Donalds priced near 80 percent and Moody above 90 percent in Florida governor and Senate markets** — Byron Donalds trades at 81 cents on Polymarket and 79 cents on Kalshi in the Florida governor race, while Ashley Moody trades at 93 cents on Polymarket and 91.7 cents on Kalshi in the Senate race. David Jolly is priced at 21 cents on both exchanges and Angie Nixon between 8.6 and 10 cents. ([Action Network](https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets))",
-      "content_html": "<p>- **Donalds priced near 80 percent and Moody above 90 percent in Florida governor and Senate markets** — Byron Donalds trades at 81 cents on Polymarket and 79 cents on Kalshi in the Florida governor race, while Ashley Moody trades at 93 cents on Polymarket and 91.7 cents on Kalshi in the Senate race. David Jolly is priced at 21 cents on both exchanges and Angie Nixon between 8.6 and 10 cents. ([Action Network](https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets))</p>",
+      "title": "Kalshi funding talks target 40 billion dollar valuation in about 1 billion dollar raise",
+      "content_text": "- **Kalshi funding talks target 40 billion dollar valuation in about 1 billion dollar raise** — Reuters reported Kalshi is in advanced talks to raise about 1 billion dollars at a valuation of about 40 billion dollars, with Sequoia Capital and Wellington Management in talks to lead. That would nearly double the 22 billion dollar valuation from its May Series F, and Kalshi has not publicly confirmed the round. ([GenZ NewZ](https://genznewz.com/kalshi-funding-round-targets-40b-as-gen-z-keeps-betting))",
+      "content_html": "<p>- **Kalshi funding talks target 40 billion dollar valuation in about 1 billion dollar raise** — Reuters reported Kalshi is in advanced talks to raise about 1 billion dollars at a valuation of about 40 billion dollars, with Sequoia Capital and Wellington Management in talks to lead. That would nearly double the 22 billion dollar valuation from its May Series F, and Kalshi has not publicly confirmed the round. ([GenZ NewZ](https://genznewz.com/kalshi-funding-round-targets-40b-as-gen-z-keeps-betting))</p>",
       "date_published": "2026-10-17T22:00:00-04:00",
       "date_modified": "2026-10-17T22:00:00-04:00",
       "authors": [
@@ -173,17 +203,15 @@
         }
       ],
       "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
+        "Kalshi"
       ],
       "image": null,
-      "external_url": "https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets",
+      "external_url": "https://genznewz.com/kalshi-funding-round-targets-40b-as-gen-z-keeps-betting",
       "links": [
-        "https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets"
+        "https://genznewz.com/kalshi-funding-round-targets-40b-as-gen-z-keeps-betting"
       ],
       "timestamp": "Oct 17, 2026 · 10:00 PM ET",
-      "body": "- **Donalds priced near 80 percent and Moody above 90 percent in Florida governor and Senate markets** — Byron Donalds trades at 81 cents on Polymarket and 79 cents on Kalshi in the Florida governor race, while Ashley Moody trades at 93 cents on Polymarket and 91.7 cents on Kalshi in the Senate race. David Jolly is priced at 21 cents on both exchanges and Angie Nixon between 8.6 and 10 cents. ([Action Network](https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets))",
+      "body": "- **Kalshi funding talks target 40 billion dollar valuation in about 1 billion dollar raise** — Reuters reported Kalshi is in advanced talks to raise about 1 billion dollars at a valuation of about 40 billion dollars, with Sequoia Capital and Wellington Management in talks to lead. That would nearly double the 22 billion dollar valuation from its May Series F, and Kalshi has not publicly confirmed the round. ([GenZ NewZ](https://genznewz.com/kalshi-funding-round-targets-40b-as-gen-z-keeps-betting))",
       "image_url": null,
       "published": "2026-10-17T22:00:00-04:00",
       "source": "2026-10-17_2200-edt.json",
@@ -192,9 +220,9 @@
     {
       "id": "web-2026-10-17_2200-edt-2",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2200-edt-2",
-      "title": "Bills lead AFC East at 68 percent on Kalshi and 66 percent on Polymarket in NFL division markets",
-      "content_text": "- **Bills lead AFC East at 68 percent on Kalshi and 66 percent on Polymarket in NFL division markets** — Buffalo leads the AFC East prediction markets on both Kalshi and Polymarket ahead of New England at 30 percent on both venues, with readings taken October 17. The Polymarket book for the division summed to 97.9 percent on about 59,865 dollars traded. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
-      "content_html": "<p>- **Bills lead AFC East at 68 percent on Kalshi and 66 percent on Polymarket in NFL division markets** — Buffalo leads the AFC East prediction markets on both Kalshi and Polymarket ahead of New England at 30 percent on both venues, with readings taken October 17. The Polymarket book for the division summed to 97.9 percent on about 59,865 dollars traded. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))</p>",
+      "title": "Polymarket Ether touch of 2,600 dollars in October rises to 54 percent, up 20 points in 24 hours",
+      "content_text": "- **Polymarket Ether touch of 2,600 dollars in October rises to 54 percent, up 20 points in 24 hours** — On Polymarket, the probability that Ether touches 2,600 dollars in the remaining period of October rose to 54 percent, up 20 percent in 24 hours. The market settles on Binance ETH/USDT one-minute candle highs reaching or exceeding the price. ([Odaily](https://www.odaily.news/en/newsflash/525082))",
+      "content_html": "<p>- **Polymarket Ether touch of 2,600 dollars in October rises to 54 percent, up 20 points in 24 hours** — On Polymarket, the probability that Ether touches 2,600 dollars in the remaining period of October rose to 54 percent, up 20 percent in 24 hours. The market settles on Binance ETH/USDT one-minute candle highs reaching or exceeding the price. ([Odaily](https://www.odaily.news/en/newsflash/525082))</p>",
       "date_published": "2026-10-17T22:00:00-04:00",
       "date_modified": "2026-10-17T22:00:00-04:00",
       "authors": [
@@ -204,17 +232,16 @@
         }
       ],
       "tags": [
-        "Kalshi",
         "Polymarket",
-        "NFL"
+        "Ethereum"
       ],
       "image": null,
-      "external_url": "https://ipredicta.co/insights/nfl-division-winners-2026/",
+      "external_url": "https://www.odaily.news/en/newsflash/525082",
       "links": [
-        "https://ipredicta.co/insights/nfl-division-winners-2026/"
+        "https://www.odaily.news/en/newsflash/525082"
       ],
       "timestamp": "Oct 17, 2026 · 10:00 PM ET",
-      "body": "- **Bills lead AFC East at 68 percent on Kalshi and 66 percent on Polymarket in NFL division markets** — Buffalo leads the AFC East prediction markets on both Kalshi and Polymarket ahead of New England at 30 percent on both venues, with readings taken October 17. The Polymarket book for the division summed to 97.9 percent on about 59,865 dollars traded. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
+      "body": "- **Polymarket Ether touch of 2,600 dollars in October rises to 54 percent, up 20 points in 24 hours** — On Polymarket, the probability that Ether touches 2,600 dollars in the remaining period of October rose to 54 percent, up 20 percent in 24 hours. The market settles on Binance ETH/USDT one-minute candle highs reaching or exceeding the price. ([Odaily](https://www.odaily.news/en/newsflash/525082))",
       "image_url": null,
       "published": "2026-10-17T22:00:00-04:00",
       "source": "2026-10-17_2200-edt.json",
@@ -223,9 +250,9 @@
     {
       "id": "web-2026-10-17_2200-edt-3",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2200-edt-3",
-      "title": "New wave of prediction apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions",
-      "content_text": "- **New wave of prediction apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions** — A 2026 wave of US prediction apps now includes FanDuel Predicts via CME Group, Fanatics Markets via Crypto.com, Gemini Predictions, and CFTC-regulated Novig and ProphetX. Kalshi was the largest venue at about 14.8 billion dollars over 30 days as of October 13, with Polymarket at about 5.2 billion dollars. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
-      "content_html": "<p>- **New wave of prediction apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions** — A 2026 wave of US prediction apps now includes FanDuel Predicts via CME Group, Fanatics Markets via Crypto.com, Gemini Predictions, and CFTC-regulated Novig and ProphetX. Kalshi was the largest venue at about 14.8 billion dollars over 30 days as of October 13, with Polymarket at about 5.2 billion dollars. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))</p>",
+      "title": "Brewers lead World Series market at 65 percent on Polymarket with Guardians leading AL at 62 percent",
+      "content_text": "- **Brewers lead World Series market at 65 percent on Polymarket with Guardians leading AL at 62 percent** — Milwaukee leads the World Series champion market at 65 percent on Polymarket, ahead of Cleveland at 20 percent, while Cleveland leads the American League champion market at 62 percent ahead of Tampa Bay at 38 percent. Prices refresh about every 10 minutes from Polymarket public data. ([WIN Daily](https://windailysports.com/mlb-futures/))",
+      "content_html": "<p>- **Brewers lead World Series market at 65 percent on Polymarket with Guardians leading AL at 62 percent** — Milwaukee leads the World Series champion market at 65 percent on Polymarket, ahead of Cleveland at 20 percent, while Cleveland leads the American League champion market at 62 percent ahead of Tampa Bay at 38 percent. Prices refresh about every 10 minutes from Polymarket public data. ([WIN Daily](https://windailysports.com/mlb-futures/))</p>",
       "date_published": "2026-10-17T22:00:00-04:00",
       "date_modified": "2026-10-17T22:00:00-04:00",
       "authors": [
@@ -235,17 +262,15 @@
         }
       ],
       "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
+        "Polymarket"
       ],
       "image": null,
-      "external_url": "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/",
+      "external_url": "https://windailysports.com/mlb-futures/",
       "links": [
-        "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/"
+        "https://windailysports.com/mlb-futures/"
       ],
       "timestamp": "Oct 17, 2026 · 10:00 PM ET",
-      "body": "- **New wave of prediction apps includes FanDuel Predicts, Fanatics Markets and Gemini Predictions** — A 2026 wave of US prediction apps now includes FanDuel Predicts via CME Group, Fanatics Markets via Crypto.com, Gemini Predictions, and CFTC-regulated Novig and ProphetX. Kalshi was the largest venue at about 14.8 billion dollars over 30 days as of October 13, with Polymarket at about 5.2 billion dollars. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
+      "body": "- **Brewers lead World Series market at 65 percent on Polymarket with Guardians leading AL at 62 percent** — Milwaukee leads the World Series champion market at 65 percent on Polymarket, ahead of Cleveland at 20 percent, while Cleveland leads the American League champion market at 62 percent ahead of Tampa Bay at 38 percent. Prices refresh about every 10 minutes from Polymarket public data. ([WIN Daily](https://windailysports.com/mlb-futures/))",
       "image_url": null,
       "published": "2026-10-17T22:00:00-04:00",
       "source": "2026-10-17_2200-edt.json",
@@ -254,9 +279,9 @@
     {
       "id": "web-2026-10-17_2200-edt-4",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_2200-edt-4",
-      "title": "Tesla-SpaceX merger odds rise to 54 percent on Polymarket by mid-2027 as Kalshi contract climbs to 56 percent",
-      "content_text": "- **Tesla-SpaceX merger odds rise to 54 percent on Polymarket by mid-2027 as Kalshi contract climbs to 56 percent** — Polymarket priced a Tesla-SpaceX merger announcement by June 30, 2027 at 54 percent, up nine points in 24 hours, while a Kalshi merger contract before March rose to 56 percent from 29 percent earlier in the week. The move followed a Barclays note on a possible combination and Tesla unveiling its new Roadster at a SpaceX site. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026))",
-      "content_html": "<p>- **Tesla-SpaceX merger odds rise to 54 percent on Polymarket by mid-2027 as Kalshi contract climbs to 56 percent** — Polymarket priced a Tesla-SpaceX merger announcement by June 30, 2027 at 54 percent, up nine points in 24 hours, while a Kalshi merger contract before March rose to 56 percent from 29 percent earlier in the week. The move followed a Barclays note on a possible combination and Tesla unveiling its new Roadster at a SpaceX site. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026))</p>",
+      "title": "UK general election timing market favors post-2029 at 56 percent in October topics roundup",
+      "content_text": "- **UK general election timing market favors post-2029 at 56 percent in October topics roundup** — Prediction markets favor a post-2029 date for the next UK general election at 56 percent, with 2027 at 34 percent, 2028 at 17 percent and this year at 6 percent. The roundup lists the UK timing market among the top topics driving prediction markets in October 2026. ([Online Gaming 4U](https://www.onlinegaming4u.com/news/prediction-markets/top-5-topics-driving-prediction-markets-in-october-2026/))",
+      "content_html": "<p>- **UK general election timing market favors post-2029 at 56 percent in October topics roundup** — Prediction markets favor a post-2029 date for the next UK general election at 56 percent, with 2027 at 34 percent, 2028 at 17 percent and this year at 6 percent. The roundup lists the UK timing market among the top topics driving prediction markets in October 2026. ([Online Gaming 4U](https://www.onlinegaming4u.com/news/prediction-markets/top-5-topics-driving-prediction-markets-in-october-2026/))</p>",
       "date_published": "2026-10-17T22:00:00-04:00",
       "date_modified": "2026-10-17T22:00:00-04:00",
       "authors": [
@@ -266,16 +291,15 @@
         }
       ],
       "tags": [
-        "Kalshi",
-        "Polymarket"
+        "Elections"
       ],
       "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026",
+      "external_url": "https://www.onlinegaming4u.com/news/prediction-markets/top-5-topics-driving-prediction-markets-in-october-2026/",
       "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026"
+        "https://www.onlinegaming4u.com/news/prediction-markets/top-5-topics-driving-prediction-markets-in-october-2026/"
       ],
       "timestamp": "Oct 17, 2026 · 10:00 PM ET",
-      "body": "- **Tesla-SpaceX merger odds rise to 54 percent on Polymarket by mid-2027 as Kalshi contract climbs to 56 percent** — Polymarket priced a Tesla-SpaceX merger announcement by June 30, 2027 at 54 percent, up nine points in 24 hours, while a Kalshi merger contract before March rose to 56 percent from 29 percent earlier in the week. The move followed a Barclays note on a possible combination and Tesla unveiling its new Roadster at a SpaceX site. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026))",
+      "body": "- **UK general election timing market favors post-2029 at 56 percent in October topics roundup** — Prediction markets favor a post-2029 date for the next UK general election at 56 percent, with 2027 at 34 percent, 2028 at 17 percent and this year at 6 percent. The roundup lists the UK timing market among the top topics driving prediction markets in October 2026. ([Online Gaming 4U](https://www.onlinegaming4u.com/news/prediction-markets/top-5-topics-driving-prediction-markets-in-october-2026/))",
       "image_url": null,
       "published": "2026-10-17T22:00:00-04:00",
       "source": "2026-10-17_2200-edt.json",
@@ -4751,36 +4775,6 @@
       ],
       "timestamp": "Oct 17, 2026 · 12:15 PM ET",
       "body": "- **Week 7 prediction market picks price Ohio State at 61 cents at Indiana and Michigan at 69 cents on Kalshi** — SportsBettingDime's Week 7 college football prediction market picks price Ohio State to win at Indiana at 61 cents on Polymarket, Michigan to win at Penn State at 69 cents on Kalshi, and Kansas State to beat Kansas at 64 cents on Kalshi. All three featured contracts are favorites, so returns on winning contracts are modest before fees. ([SportsBettingDime](https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/))",
-      "image_url": null,
-      "published": "2026-10-17T12:15:00-04:00",
-      "source": "2026-10-17_1215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1215-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1215-edt-4",
-      "title": "Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points",
-      "content_text": "- **Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points** — Polymarket's What price will Bitcoin hit in October market shows a 36 percent implied probability for the 77,500 dollar tier, down 13 percentage points, after Bitcoin closed at 81,524 dollars on October 16. A separate Polymarket market prices an October Federal Reserve rate hike at 14 percent, with 87 percent favoring no change, on 44.7 million dollars in volume. ([Prediction News](https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36))",
-      "content_html": "<p>- **Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points** — Polymarket&#x27;s What price will Bitcoin hit in October market shows a 36 percent implied probability for the 77,500 dollar tier, down 13 percentage points, after Bitcoin closed at 81,524 dollars on October 16. A separate Polymarket market prices an October Federal Reserve rate hike at 14 percent, with 87 percent favoring no change, on 44.7 million dollars in volume. ([Prediction News](https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36))</p>",
-      "date_published": "2026-10-17T12:15:00-04:00",
-      "date_modified": "2026-10-17T12:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36",
-      "links": [
-        "https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36"
-      ],
-      "timestamp": "Oct 17, 2026 · 12:15 PM ET",
-      "body": "- **Polymarket traders cut Bitcoin 77,500 dollar October target to 36 percent, down 13 points** — Polymarket's What price will Bitcoin hit in October market shows a 36 percent implied probability for the 77,500 dollar tier, down 13 percentage points, after Bitcoin closed at 81,524 dollars on October 16. A separate Polymarket market prices an October Federal Reserve rate hike at 14 percent, with 87 percent favoring no change, on 44.7 million dollars in volume. ([Prediction News](https://predictionnews.com/story/polymarket-traders-cut-bitcoin-77-500-october-target-to-36))",
       "image_url": null,
       "published": "2026-10-17T12:15:00-04:00",
       "source": "2026-10-17_1215-edt.json",
