@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T00:45:56.405898-04:00",
+  "updated": "2026-10-18T00:57:03.197381-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,123 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_0054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nFresno St. wins priced at 45% on Kalshi, down 28 points, on $828K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Comer…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nCruz Azul wins priced at 99% on Kalshi, up 25 points, on $923K traded\nPredictionBubbles' movers board ranks the Cruz Azul win contract among the day's largest upward moves, in a sports markets category alongside the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Fresno St. wins priced at 45% on Kalshi, down 28 points, on $828K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Comer…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Cruz Azul wins priced at 99% on Kalshi, up 25 points, on $923K traded<br/>PredictionBubbles&#x27; movers board ranks the Cruz Azul win contract among the day&#x27;s largest upward moves, in a sports markets category alongside the lead — a contract with…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T00:54:00-04:00",
+      "date_modified": "2026-10-18T00:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:54 AM ET",
+      "body": "Infiniti Briefing\n\nFresno St. wins priced at 45% on Kalshi, down 28 points, on $828K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Comer…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nCruz Azul wins priced at 99% on Kalshi, up 25 points, on $923K traded\nPredictionBubbles' movers board ranks the Cruz Azul win contract among the day's largest upward moves, in a sports markets category alongside the lead — a contract with…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T00:54:00-04:00",
+      "source": "2026-10-18_0054-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0045-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0045-edt-0",
+      "title": "Prediction markets trade 5.1 billion dollars in 24 hours across nine exchanges, DeFi Rate reports",
+      "content_text": "- **Prediction markets trade 5.1 billion dollars in 24 hours across nine exchanges, DeFi Rate reports** — DeFi Rate's live tracker counts 5.1 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar each. The total is the tracker's current snapshot for October 18. ([DeFi Rate](https://defirate.com/?s))",
+      "content_html": "<p>- **Prediction markets trade 5.1 billion dollars in 24 hours across nine exchanges, DeFi Rate reports** — DeFi Rate&#x27;s live tracker counts 5.1 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar each. The total is the tracker&#x27;s current snapshot for October 18. ([DeFi Rate](https://defirate.com/?s))</p>",
+      "date_published": "2026-10-18T00:45:00-04:00",
+      "date_modified": "2026-10-18T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://defirate.com/?s",
+      "links": [
+        "https://defirate.com/?s"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:45 AM ET",
+      "body": "- **Prediction markets trade 5.1 billion dollars in 24 hours across nine exchanges, DeFi Rate reports** — DeFi Rate's live tracker counts 5.1 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar each. The total is the tracker's current snapshot for October 18. ([DeFi Rate](https://defirate.com/?s))",
+      "image_url": null,
+      "published": "2026-10-18T00:45:00-04:00",
+      "source": "2026-10-18_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0045-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0045-edt-1",
+      "title": "Ljubljana mayoral market splits venues with Luka Mesec at 16 cents on Kalshi and 22 cents on Polymarket",
+      "content_text": "- **Ljubljana mayoral market splits venues with Luka Mesec at 16 cents on Kalshi and 22 cents on Polymarket** — PicksByOdds lists the Ljubljana mayoral election as its widest verified cross-venue disagreement, with Luka Mesec priced at 16 cents on Kalshi against 22 cents on Polymarket, a 6 point gap. The next widest pairs, the Taipei mayoral race and Argentina's presidential election, are each split by 5 points. ([PicksByOdds](https://picksbyodds.com/))",
+      "content_html": "<p>- **Ljubljana mayoral market splits venues with Luka Mesec at 16 cents on Kalshi and 22 cents on Polymarket** — PicksByOdds lists the Ljubljana mayoral election as its widest verified cross-venue disagreement, with Luka Mesec priced at 16 cents on Kalshi against 22 cents on Polymarket, a 6 point gap. The next widest pairs, the Taipei mayoral race and Argentina&#x27;s presidential election, are each split by 5 points. ([PicksByOdds](https://picksbyodds.com/))</p>",
+      "date_published": "2026-10-18T00:45:00-04:00",
+      "date_modified": "2026-10-18T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://picksbyodds.com/",
+      "links": [
+        "https://picksbyodds.com/"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:45 AM ET",
+      "body": "- **Ljubljana mayoral market splits venues with Luka Mesec at 16 cents on Kalshi and 22 cents on Polymarket** — PicksByOdds lists the Ljubljana mayoral election as its widest verified cross-venue disagreement, with Luka Mesec priced at 16 cents on Kalshi against 22 cents on Polymarket, a 6 point gap. The next widest pairs, the Taipei mayoral race and Argentina's presidential election, are each split by 5 points. ([PicksByOdds](https://picksbyodds.com/))",
+      "image_url": null,
+      "published": "2026-10-18T00:45:00-04:00",
+      "source": "2026-10-18_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0045-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0045-edt-2",
+      "title": "Robinhood CEO Vlad Tenev calls prediction markets the start of a supercycle",
+      "content_text": "- **Robinhood CEO Vlad Tenev calls prediction markets the start of a supercycle** — In comments shared on X, Robinhood CEO Vlad Tenev said prediction markets are at the very beginning of a supercycle, with adoption and volumes potentially growing to trillions of contracts created each year. The report also notes PancakeSwap and YZi Labs announced Probable, a zero-fee prediction market on BNB Chain with outcomes settled on-chain using UMA's Optimistic Oracle. ([BitRss](https://bitrss.com/robinhood-ceo-predicts-boom-in-prediction-markets-162961))",
+      "content_html": "<p>- **Robinhood CEO Vlad Tenev calls prediction markets the start of a supercycle** — In comments shared on X, Robinhood CEO Vlad Tenev said prediction markets are at the very beginning of a supercycle, with adoption and volumes potentially growing to trillions of contracts created each year. The report also notes PancakeSwap and YZi Labs announced Probable, a zero-fee prediction market on BNB Chain with outcomes settled on-chain using UMA&#x27;s Optimistic Oracle. ([BitRss](https://bitrss.com/robinhood-ceo-predicts-boom-in-prediction-markets-162961))</p>",
+      "date_published": "2026-10-18T00:45:00-04:00",
+      "date_modified": "2026-10-18T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://bitrss.com/robinhood-ceo-predicts-boom-in-prediction-markets-162961",
+      "links": [
+        "https://bitrss.com/robinhood-ceo-predicts-boom-in-prediction-markets-162961"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:45 AM ET",
+      "body": "- **Robinhood CEO Vlad Tenev calls prediction markets the start of a supercycle** — In comments shared on X, Robinhood CEO Vlad Tenev said prediction markets are at the very beginning of a supercycle, with adoption and volumes potentially growing to trillions of contracts created each year. The report also notes PancakeSwap and YZi Labs announced Probable, a zero-fee prediction market on BNB Chain with outcomes settled on-chain using UMA's Optimistic Oracle. ([BitRss](https://bitrss.com/robinhood-ceo-predicts-boom-in-prediction-markets-162961))",
+      "image_url": null,
+      "published": "2026-10-18T00:45:00-04:00",
+      "source": "2026-10-18_0045-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-18_0039-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0039-edt",
@@ -4664,125 +4781,6 @@
       "image_url": null,
       "published": "2026-10-17T15:09:00-04:00",
       "source": "2026-10-17_1509-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1500-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1500-edt-0",
-      "title": "Polymarket reportedly raising 1 billion dollars at about 21 billion dollar valuation",
-      "content_text": "- **Polymarket reportedly raising 1 billion dollars at about 21 billion dollar valuation** — DeFi Rate reports Polymarket is raising new funding at a valuation near 21 billion dollars, close to Kalshi at about 22 billion dollars, as courts continue to question whether sports contracts fall under federal derivatives law. ([DeFi Rate](https://defirate.com/news/polymarket-21b-valuation-new-funding-round/))",
-      "content_html": "<p>- **Polymarket reportedly raising 1 billion dollars at about 21 billion dollar valuation** — DeFi Rate reports Polymarket is raising new funding at a valuation near 21 billion dollars, close to Kalshi at about 22 billion dollars, as courts continue to question whether sports contracts fall under federal derivatives law. ([DeFi Rate](https://defirate.com/news/polymarket-21b-valuation-new-funding-round/))</p>",
-      "date_published": "2026-10-17T15:00:00-04:00",
-      "date_modified": "2026-10-17T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/polymarket-21b-valuation-new-funding-round/",
-      "links": [
-        "https://defirate.com/news/polymarket-21b-valuation-new-funding-round/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:00 PM ET",
-      "body": "- **Polymarket reportedly raising 1 billion dollars at about 21 billion dollar valuation** — DeFi Rate reports Polymarket is raising new funding at a valuation near 21 billion dollars, close to Kalshi at about 22 billion dollars, as courts continue to question whether sports contracts fall under federal derivatives law. ([DeFi Rate](https://defirate.com/news/polymarket-21b-valuation-new-funding-round/))",
-      "image_url": null,
-      "published": "2026-10-17T15:00:00-04:00",
-      "source": "2026-10-17_1500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1500-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1500-edt-1",
-      "title": "Polymarket US invasion of Iran contract is the largest pool in tracker at 74.4 million dollars traded",
-      "content_text": "- **Polymarket US invasion of Iran contract is the largest pool in tracker at 74.4 million dollars traded** — PicksByOdds notes the Polymarket contract on a US invasion of Iran before 2027 is the single largest pool in its tracker, with 74.4 million dollars traded and the contract priced at 15 cents with 76 days left before it closes. ([PicksByOdds](https://picksbyodds.com/))",
-      "content_html": "<p>- **Polymarket US invasion of Iran contract is the largest pool in tracker at 74.4 million dollars traded** — PicksByOdds notes the Polymarket contract on a US invasion of Iran before 2027 is the single largest pool in its tracker, with 74.4 million dollars traded and the contract priced at 15 cents with 76 days left before it closes. ([PicksByOdds](https://picksbyodds.com/))</p>",
-      "date_published": "2026-10-17T15:00:00-04:00",
-      "date_modified": "2026-10-17T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://picksbyodds.com/",
-      "links": [
-        "https://picksbyodds.com/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:00 PM ET",
-      "body": "- **Polymarket US invasion of Iran contract is the largest pool in tracker at 74.4 million dollars traded** — PicksByOdds notes the Polymarket contract on a US invasion of Iran before 2027 is the single largest pool in its tracker, with 74.4 million dollars traded and the contract priced at 15 cents with 76 days left before it closes. ([PicksByOdds](https://picksbyodds.com/))",
-      "image_url": null,
-      "published": "2026-10-17T15:00:00-04:00",
-      "source": "2026-10-17_1500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1500-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1500-edt-2",
-      "title": "Senate control pending oil below 85 dollars contract jumps 9.4 points to 60 percent in 24 hours",
-      "content_text": "- **Senate control pending oil below 85 dollars contract jumps 9.4 points to 60 percent in 24 hours** — GeoOdds lists the combined contract tying Senate control to oil below 85 dollars before the midterms as its biggest 24-hour mover, up 9.4 points to 60 percent on 316,000 dollars of volume. ([GeoOdds](https://geoodds.com/))",
-      "content_html": "<p>- **Senate control pending oil below 85 dollars contract jumps 9.4 points to 60 percent in 24 hours** — GeoOdds lists the combined contract tying Senate control to oil below 85 dollars before the midterms as its biggest 24-hour mover, up 9.4 points to 60 percent on 316,000 dollars of volume. ([GeoOdds](https://geoodds.com/))</p>",
-      "date_published": "2026-10-17T15:00:00-04:00",
-      "date_modified": "2026-10-17T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Senate",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://geoodds.com/",
-      "links": [
-        "https://geoodds.com/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:00 PM ET",
-      "body": "- **Senate control pending oil below 85 dollars contract jumps 9.4 points to 60 percent in 24 hours** — GeoOdds lists the combined contract tying Senate control to oil below 85 dollars before the midterms as its biggest 24-hour mover, up 9.4 points to 60 percent on 316,000 dollars of volume. ([GeoOdds](https://geoodds.com/))",
-      "image_url": null,
-      "published": "2026-10-17T15:00:00-04:00",
-      "source": "2026-10-17_1500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1500-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1500-edt-3",
-      "title": "Polymarket WTI crude low of 95 dollars in October contract falls 26 points to 58.5 percent",
-      "content_text": "- **Polymarket WTI crude low of 95 dollars in October contract falls 26 points to 58.5 percent** — PredictionBubbles lists the new Polymarket market on WTI crude oil hitting a low of 95 dollars in October at 58.5 percent, down 26 points, with about 19,000 dollars traded since it opened a day ago. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
-      "content_html": "<p>- **Polymarket WTI crude low of 95 dollars in October contract falls 26 points to 58.5 percent** — PredictionBubbles lists the new Polymarket market on WTI crude oil hitting a low of 95 dollars in October at 58.5 percent, down 26 points, with about 19,000 dollars traded since it opened a day ago. ([PredictionBubbles](https://predictionbubbles.net/markets/))</p>",
-      "date_published": "2026-10-17T15:00:00-04:00",
-      "date_modified": "2026-10-17T15:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/",
-      "links": [
-        "https://predictionbubbles.net/markets/"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:00 PM ET",
-      "body": "- **Polymarket WTI crude low of 95 dollars in October contract falls 26 points to 58.5 percent** — PredictionBubbles lists the new Polymarket market on WTI crude oil hitting a low of 95 dollars in October at 58.5 percent, down 26 points, with about 19,000 dollars traded since it opened a day ago. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
-      "image_url": null,
-      "published": "2026-10-17T15:00:00-04:00",
-      "source": "2026-10-17_1500-edt.json",
       "matches_facebook_post": false
     }
   ]
