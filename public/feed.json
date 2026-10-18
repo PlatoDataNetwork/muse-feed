@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T16:09:39.772577-04:00",
+  "updated": "2026-10-18T16:27:37.494661-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,98 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_1624-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_1624-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nRepublicans win the Texas governor race in 2026 priced at 73.5% on Polymarket, down 3.1 points, on $335K traded\nQuiet half-hour — no significant new platform headline in the last 30 minutes (news search surfaced only recirculated items already carried or struck today: the $750M…\n#PredictionMarkets #Polymarket #NFL #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nPhiladelphia wins priced at 7% on Kalshi, down 32 points, on $8.6M traded\nPredictionBubbles' movers board lists the Philadelphia win contract as the most active market on the board by traded volume, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Republicans win the Texas governor race in 2026 priced at 73.5% on Polymarket, down 3.1 points, on $335K traded<br/>Quiet half-hour — no significant new platform headline in the last 30 minutes (news search surfaced only recirculated items already carried or struck today: the $750M…<br/>#PredictionMarkets #Polymarket #NFL #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Philadelphia wins priced at 7% on Kalshi, down 32 points, on $8.6M traded<br/>PredictionBubbles&#x27; movers board lists the Philadelphia win contract as the most active market on the board by traded volume, in a sports markets category distinct from…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T16:24:00-04:00",
+      "date_modified": "2026-10-18T16:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "NFL",
+        "CFTC",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 4:24 PM ET",
+      "body": "Infiniti Briefing\n\nRepublicans win the Texas governor race in 2026 priced at 73.5% on Polymarket, down 3.1 points, on $335K traded\nQuiet half-hour — no significant new platform headline in the last 30 minutes (news search surfaced only recirculated items already carried or struck today: the $750M…\n#PredictionMarkets #Polymarket #NFL #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nPhiladelphia wins priced at 7% on Kalshi, down 32 points, on $8.6M traded\nPredictionBubbles' movers board lists the Philadelphia win contract as the most active market on the board by traded volume, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T16:24:00-04:00",
+      "source": "2026-10-18_1624-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_1615-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1615-edt-0",
+      "title": "Prediction markets put Bitcoin at 27 percent odds to hit 100,000 dollars before 2027",
+      "content_text": "- **Prediction markets put Bitcoin at 27 percent odds to hit 100,000 dollars before 2027** — Polymarket traders assigned a 27 percent probability of Bitcoin reaching 100,000 dollars before 2027, with a 64 percent chance of hitting 90,000 dollars in a market that has drawn about 75.1 million dollars in volume. Downside contracts price a 37 percent chance of Bitcoin touching 70,000 dollars before year-end. ([Bonus](https://www.bonus.com/news/prediction-markets-put-bitcoin-s-100k-odds-at-27-before-2027/))",
+      "content_html": "<p>- **Prediction markets put Bitcoin at 27 percent odds to hit 100,000 dollars before 2027** — Polymarket traders assigned a 27 percent probability of Bitcoin reaching 100,000 dollars before 2027, with a 64 percent chance of hitting 90,000 dollars in a market that has drawn about 75.1 million dollars in volume. Downside contracts price a 37 percent chance of Bitcoin touching 70,000 dollars before year-end. ([Bonus](https://www.bonus.com/news/prediction-markets-put-bitcoin-s-100k-odds-at-27-before-2027/))</p>",
+      "date_published": "2026-10-18T16:15:00-04:00",
+      "date_modified": "2026-10-18T16:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/prediction-markets-put-bitcoin-s-100k-odds-at-27-before-2027/",
+      "links": [
+        "https://www.bonus.com/news/prediction-markets-put-bitcoin-s-100k-odds-at-27-before-2027/"
+      ],
+      "timestamp": "Oct 18, 2026 · 4:15 PM ET",
+      "body": "- **Prediction markets put Bitcoin at 27 percent odds to hit 100,000 dollars before 2027** — Polymarket traders assigned a 27 percent probability of Bitcoin reaching 100,000 dollars before 2027, with a 64 percent chance of hitting 90,000 dollars in a market that has drawn about 75.1 million dollars in volume. Downside contracts price a 37 percent chance of Bitcoin touching 70,000 dollars before year-end. ([Bonus](https://www.bonus.com/news/prediction-markets-put-bitcoin-s-100k-odds-at-27-before-2027/))",
+      "image_url": null,
+      "published": "2026-10-18T16:15:00-04:00",
+      "source": "2026-10-18_1615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_1615-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1615-edt-1",
+      "title": "Study finds Kalshi S and P 500 prices beat raw VIX benchmarks across 616 trading days",
+      "content_text": "- **Study finds Kalshi S and P 500 prices beat raw VIX benchmarks across 616 trading days** — A quantitative study scored Kalshi daily S and P 500 ladder prices against VIX-implied probabilities over 616 trading days and found Kalshi beat every raw VIX benchmark by a wide margin. After fitting one volatility-scaling constant on pre-2025 data the two were statistically tied, and trading the gap between them earned nothing after costs. ([Medium](https://fglancszpigel.medium.com/prediction-markets-vs-traditional-markets-who-prices-the-s-p-500-better-4813df71de85))",
+      "content_html": "<p>- **Study finds Kalshi S and P 500 prices beat raw VIX benchmarks across 616 trading days** — A quantitative study scored Kalshi daily S and P 500 ladder prices against VIX-implied probabilities over 616 trading days and found Kalshi beat every raw VIX benchmark by a wide margin. After fitting one volatility-scaling constant on pre-2025 data the two were statistically tied, and trading the gap between them earned nothing after costs. ([Medium](https://fglancszpigel.medium.com/prediction-markets-vs-traditional-markets-who-prices-the-s-p-500-better-4813df71de85))</p>",
+      "date_published": "2026-10-18T16:15:00-04:00",
+      "date_modified": "2026-10-18T16:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://fglancszpigel.medium.com/prediction-markets-vs-traditional-markets-who-prices-the-s-p-500-better-4813df71de85",
+      "links": [
+        "https://fglancszpigel.medium.com/prediction-markets-vs-traditional-markets-who-prices-the-s-p-500-better-4813df71de85"
+      ],
+      "timestamp": "Oct 18, 2026 · 4:15 PM ET",
+      "body": "- **Study finds Kalshi S and P 500 prices beat raw VIX benchmarks across 616 trading days** — A quantitative study scored Kalshi daily S and P 500 ladder prices against VIX-implied probabilities over 616 trading days and found Kalshi beat every raw VIX benchmark by a wide margin. After fitting one volatility-scaling constant on pre-2025 data the two were statistically tied, and trading the gap between them earned nothing after costs. ([Medium](https://fglancszpigel.medium.com/prediction-markets-vs-traditional-markets-who-prices-the-s-p-500-better-4813df71de85))",
+      "image_url": null,
+      "published": "2026-10-18T16:15:00-04:00",
+      "source": "2026-10-18_1615-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-18_1554-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_1554-edt",
@@ -4655,94 +4747,6 @@
       ],
       "timestamp": "Oct 18, 2026 · 7:00 AM ET",
       "body": "- **Polymarket contract on a US invasion of Iran before 2027 is the largest tracked pool at 74.5 million dollars, priced at 15 cents** — PicksByOdds says the Iran contract is the largest pool of money it tracks today, with 74,505,243 dollars in volume and 75 days left before it closes, ahead of four longshot markets priced at 1 cent. ([PicksByOdds](https://picksbyodds.com/))",
-      "image_url": null,
-      "published": "2026-10-18T07:00:00-04:00",
-      "source": "2026-10-18_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_0700-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0700-edt-2",
-      "title": "Tesla-SpaceX merger announcement by June 30, 2027 rises from 45 percent to 54 percent on Polymarket",
-      "content_text": "- **Tesla-SpaceX merger announcement by June 30, 2027 rises from 45 percent to 54 percent on Polymarket** — RG.org reports the Tesla-SpaceX merger contract was among the biggest Polymarket movers in its latest daily roundup, gaining 9 points to 54 percent, while the market for a Fed rate of 4.5 percent or higher at the end of 2026 fell from 27 percent to 16 percent. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026))",
-      "content_html": "<p>- **Tesla-SpaceX merger announcement by June 30, 2027 rises from 45 percent to 54 percent on Polymarket** — RG.org reports the Tesla-SpaceX merger contract was among the biggest Polymarket movers in its latest daily roundup, gaining 9 points to 54 percent, while the market for a Fed rate of 4.5 percent or higher at the end of 2026 fell from 27 percent to 16 percent. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026))</p>",
-      "date_published": "2026-10-18T07:00:00-04:00",
-      "date_modified": "2026-10-18T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026"
-      ],
-      "timestamp": "Oct 18, 2026 · 7:00 AM ET",
-      "body": "- **Tesla-SpaceX merger announcement by June 30, 2027 rises from 45 percent to 54 percent on Polymarket** — RG.org reports the Tesla-SpaceX merger contract was among the biggest Polymarket movers in its latest daily roundup, gaining 9 points to 54 percent, while the market for a Fed rate of 4.5 percent or higher at the end of 2026 fell from 27 percent to 16 percent. ([RG.org](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026))",
-      "image_url": null,
-      "published": "2026-10-18T07:00:00-04:00",
-      "source": "2026-10-18_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_0700-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0700-edt-3",
-      "title": "CFTC proposes writing prediction markets into its swap rules and carves sportsbooks and casino games out",
-      "content_text": "- **CFTC proposes writing prediction markets into its swap rules and carves sportsbooks and casino games out** — Unchained reports the CFTC on October 9 proposed adding sports, politics and weather event contracts to its swap definition and issued an interim rule keeping sportsbooks and casino games outside it, with comments due 30 days after Federal Register publication. ([Unchained](https://unchainedcrypto.com/cftc-writes-prediction-markets-into-swap-rules-and-carves-sportsbooks-out/))",
-      "content_html": "<p>- **CFTC proposes writing prediction markets into its swap rules and carves sportsbooks and casino games out** — Unchained reports the CFTC on October 9 proposed adding sports, politics and weather event contracts to its swap definition and issued an interim rule keeping sportsbooks and casino games outside it, with comments due 30 days after Federal Register publication. ([Unchained](https://unchainedcrypto.com/cftc-writes-prediction-markets-into-swap-rules-and-carves-sportsbooks-out/))</p>",
-      "date_published": "2026-10-18T07:00:00-04:00",
-      "date_modified": "2026-10-18T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://unchainedcrypto.com/cftc-writes-prediction-markets-into-swap-rules-and-carves-sportsbooks-out/",
-      "links": [
-        "https://unchainedcrypto.com/cftc-writes-prediction-markets-into-swap-rules-and-carves-sportsbooks-out/"
-      ],
-      "timestamp": "Oct 18, 2026 · 7:00 AM ET",
-      "body": "- **CFTC proposes writing prediction markets into its swap rules and carves sportsbooks and casino games out** — Unchained reports the CFTC on October 9 proposed adding sports, politics and weather event contracts to its swap definition and issued an interim rule keeping sportsbooks and casino games outside it, with comments due 30 days after Federal Register publication. ([Unchained](https://unchainedcrypto.com/cftc-writes-prediction-markets-into-swap-rules-and-carves-sportsbooks-out/))",
-      "image_url": null,
-      "published": "2026-10-18T07:00:00-04:00",
-      "source": "2026-10-18_0700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_0700-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0700-edt-4",
-      "title": "Bitcoin holds above 81,600 dollars as Polymarket prices an October dip to 62,500 dollars at 1.85 percent",
-      "content_text": "- **Bitcoin holds above 81,600 dollars as Polymarket prices an October dip to 62,500 dollars at 1.85 percent** — The Agent Times reports Bitcoin held above 81,600 dollars in the 24 hours to October 18, while Polymarket priced an October dip to 72,500 dollars at 11.5 percent and a reach of 95,000 dollars at 4.0 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-18-0500-utc))",
-      "content_html": "<p>- **Bitcoin holds above 81,600 dollars as Polymarket prices an October dip to 62,500 dollars at 1.85 percent** — The Agent Times reports Bitcoin held above 81,600 dollars in the 24 hours to October 18, while Polymarket priced an October dip to 72,500 dollars at 11.5 percent and a reach of 95,000 dollars at 4.0 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-18-0500-utc))</p>",
-      "date_published": "2026-10-18T07:00:00-04:00",
-      "date_modified": "2026-10-18T07:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-18-0500-utc",
-      "links": [
-        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-18-0500-utc"
-      ],
-      "timestamp": "Oct 18, 2026 · 7:00 AM ET",
-      "body": "- **Bitcoin holds above 81,600 dollars as Polymarket prices an October dip to 62,500 dollars at 1.85 percent** — The Agent Times reports Bitcoin held above 81,600 dollars in the 24 hours to October 18, while Polymarket priced an October dip to 72,500 dollars at 11.5 percent and a reach of 95,000 dollars at 4.0 percent. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-18-0500-utc))",
       "image_url": null,
       "published": "2026-10-18T07:00:00-04:00",
       "source": "2026-10-18_0700-edt.json",
