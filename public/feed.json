@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T11:35:09.825013-04:00",
+  "updated": "2026-10-18T11:49:32.864318-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_1139-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_1139-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBitcoin reach $90,000 in October priced at 13.5% on Polymarket, down 3 points, on $440K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already carried today: the CFTC rulemaking…\n#PredictionMarkets #Polymarket #CFTC #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nJacksonville wins priced at 44% on Kalshi, down 12 points, on $5.7M traded\nPredictionBubbles' movers board lists the Jacksonville win contract as the day's most-traded market by volume, in a sports markets category distinct from the lead — it…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin reach $90,000 in October priced at 13.5% on Polymarket, down 3 points, on $440K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already carried today: the CFTC rulemaking…<br/>#PredictionMarkets #Polymarket #CFTC #Bitcoin<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Jacksonville wins priced at 44% on Kalshi, down 12 points, on $5.7M traded<br/>PredictionBubbles&#x27; movers board lists the Jacksonville win contract as the day&#x27;s most-traded market by volume, in a sports markets category distinct from the lead — it…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T11:39:00-04:00",
+      "date_modified": "2026-10-18T11:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Bitcoin",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 11:39 AM ET",
+      "body": "Infiniti Briefing\n\nBitcoin reach $90,000 in October priced at 13.5% on Polymarket, down 3 points, on $440K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already carried today: the CFTC rulemaking…\n#PredictionMarkets #Polymarket #CFTC #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nJacksonville wins priced at 44% on Kalshi, down 12 points, on $5.7M traded\nPredictionBubbles' movers board lists the Jacksonville win contract as the day's most-traded market by volume, in a sports markets category distinct from the lead — it…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T11:39:00-04:00",
+      "source": "2026-10-18_1139-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-18_1130-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1130-edt-0",
@@ -4695,40 +4728,6 @@
       "published": "2026-10-18T02:54:00-04:00",
       "source": "2026-10-18_0254-edt.md",
       "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-18_0239-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0239-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n2026 be the hottest year on record priced at 80.5% on Polymarket\nUp 2.5 points on $718K traded, among the day's upward climate moves on the movers board.\n#Climate #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nCleveland Guardians win the 2026 World Series priced at 13.7% on Polymarket\nDown 6.2 points on $1.7M traded, among the day's downward moves.\n#MLB #WorldSeries #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nViking Therapeutics be acquired before 2027 priced at 9% on Polymarket\nDown 3 points on $1.7M traded, reversing its earlier 12% reading.\n#Biotech #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: Finance board 195 open markets, $196.8M total volume across two venues\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>2026 be the hottest year on record priced at 80.5% on Polymarket<br/>Up 2.5 points on $718K traded, among the day&#x27;s upward climate moves on the movers board.<br/>#Climate #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Cleveland Guardians win the 2026 World Series priced at 13.7% on Polymarket<br/>Down 6.2 points on $1.7M traded, among the day&#x27;s downward moves.<br/>#MLB #WorldSeries #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Viking Therapeutics be acquired before 2027 priced at 9% on Polymarket<br/>Down 3 points on $1.7M traded, reversing its earlier 12% reading.<br/>#Biotech #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: Finance board 195 open markets, $196.8M total volume across two venues<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-18_0239-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-18T02:39:00-04:00",
-      "date_modified": "2026-10-18T02:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Climate",
-        "PredictionMarkets",
-        "Polymarket",
-        "MLB",
-        "WorldSeries",
-        "Biotech"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-18_0239-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 18, 2026 · 2:39 AM ET",
-      "body": "Infiniti Briefing\n2026 be the hottest year on record priced at 80.5% on Polymarket\nUp 2.5 points on $718K traded, among the day's upward climate moves on the movers board.\n#Climate #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nCleveland Guardians win the 2026 World Series priced at 13.7% on Polymarket\nDown 6.2 points on $1.7M traded, among the day's downward moves.\n#MLB #WorldSeries #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nViking Therapeutics be acquired before 2027 priced at 9% on Polymarket\nDown 3 points on $1.7M traded, reversing its earlier 12% reading.\n#Biotech #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: Finance board 195 open markets, $196.8M total volume across two venues\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-18_0239-edt.jpg",
-      "published": "2026-10-18T02:39:00-04:00",
-      "source": "2026-10-18_0239-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
