@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-17T23:50:23.500419-04:00",
+  "updated": "2026-10-18T00:04:39.185968-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,187 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-18_0000-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0000-edt-0",
+      "title": "Polymarket partners with Parcl to launch real estate prediction markets",
+      "content_text": "- **Polymarket partners with Parcl to launch real estate prediction markets** — Polymarket and Parcl announced a partnership to list real estate prediction markets settled on Parcl daily housing price indexes. Each contract will resolve based on Parcl published index values, with markets tied to whether a city index finishes higher or lower over a month, quarter or year, or crosses a defined threshold. ([BitRss](https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457))",
+      "content_html": "<p>- **Polymarket partners with Parcl to launch real estate prediction markets** — Polymarket and Parcl announced a partnership to list real estate prediction markets settled on Parcl daily housing price indexes. Each contract will resolve based on Parcl published index values, with markets tied to whether a city index finishes higher or lower over a month, quarter or year, or crosses a defined threshold. ([BitRss](https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457))</p>",
+      "date_published": "2026-10-18T00:00:00-04:00",
+      "date_modified": "2026-10-18T00:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457",
+      "links": [
+        "https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:00 AM ET",
+      "body": "- **Polymarket partners with Parcl to launch real estate prediction markets** — Polymarket and Parcl announced a partnership to list real estate prediction markets settled on Parcl daily housing price indexes. Each contract will resolve based on Parcl published index values, with markets tied to whether a city index finishes higher or lower over a month, quarter or year, or crosses a defined threshold. ([BitRss](https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457))",
+      "image_url": null,
+      "published": "2026-10-18T00:00:00-04:00",
+      "source": "2026-10-18_0000-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0000-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0000-edt-1",
+      "title": "Polymarket launches Protocol V2 with new market switch planned for November 2",
+      "content_text": "- **Polymarket launches Protocol V2 with new market switch planned for November 2** — Polymarket announced Protocol V2, a rebuilt smart contract system using a single ERC1155 position contract, a single collateral token and a single exchange and routing system. A canary market will run in production until October 30, with the new market switch tentatively scheduled for November 2 and a maximum bounty of 5 million dollars for critical vulnerabilities. ([Cointime](https://www.cointime.ai/flash-news/polymarket-launches-protocol-v2-36656))",
+      "content_html": "<p>- **Polymarket launches Protocol V2 with new market switch planned for November 2** — Polymarket announced Protocol V2, a rebuilt smart contract system using a single ERC1155 position contract, a single collateral token and a single exchange and routing system. A canary market will run in production until October 30, with the new market switch tentatively scheduled for November 2 and a maximum bounty of 5 million dollars for critical vulnerabilities. ([Cointime](https://www.cointime.ai/flash-news/polymarket-launches-protocol-v2-36656))</p>",
+      "date_published": "2026-10-18T00:00:00-04:00",
+      "date_modified": "2026-10-18T00:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.cointime.ai/flash-news/polymarket-launches-protocol-v2-36656",
+      "links": [
+        "https://www.cointime.ai/flash-news/polymarket-launches-protocol-v2-36656"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:00 AM ET",
+      "body": "- **Polymarket launches Protocol V2 with new market switch planned for November 2** — Polymarket announced Protocol V2, a rebuilt smart contract system using a single ERC1155 position contract, a single collateral token and a single exchange and routing system. A canary market will run in production until October 30, with the new market switch tentatively scheduled for November 2 and a maximum bounty of 5 million dollars for critical vulnerabilities. ([Cointime](https://www.cointime.ai/flash-news/polymarket-launches-protocol-v2-36656))",
+      "image_url": null,
+      "published": "2026-10-18T00:00:00-04:00",
+      "source": "2026-10-18_0000-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0000-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0000-edt-2",
+      "title": "Combined Polymarket and Kalshi Bitcoin forecast puts BTC near 82,700 dollars on November 1",
+      "content_text": "- **Combined Polymarket and Kalshi Bitcoin forecast puts BTC near 82,700 dollars on November 1** — A Polywhaler tracker combining about 270 Bitcoin markets from Polymarket and Kalshi puts Bitcoin near 82,700 dollars on November 1, with an 80 percent range between 71,000 and 96,000 dollars. The combined markets price a 36 percent chance Bitcoin dips to 77,500 dollars this month and a 58 percent chance it touches 90,000 dollars before the year ends. ([CoinSpectator](https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/))",
+      "content_html": "<p>- **Combined Polymarket and Kalshi Bitcoin forecast puts BTC near 82,700 dollars on November 1** — A Polywhaler tracker combining about 270 Bitcoin markets from Polymarket and Kalshi puts Bitcoin near 82,700 dollars on November 1, with an 80 percent range between 71,000 and 96,000 dollars. The combined markets price a 36 percent chance Bitcoin dips to 77,500 dollars this month and a 58 percent chance it touches 90,000 dollars before the year ends. ([CoinSpectator](https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/))</p>",
+      "date_published": "2026-10-18T00:00:00-04:00",
+      "date_modified": "2026-10-18T00:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/",
+      "links": [
+        "https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:00 AM ET",
+      "body": "- **Combined Polymarket and Kalshi Bitcoin forecast puts BTC near 82,700 dollars on November 1** — A Polywhaler tracker combining about 270 Bitcoin markets from Polymarket and Kalshi puts Bitcoin near 82,700 dollars on November 1, with an 80 percent range between 71,000 and 96,000 dollars. The combined markets price a 36 percent chance Bitcoin dips to 77,500 dollars this month and a 58 percent chance it touches 90,000 dollars before the year ends. ([CoinSpectator](https://coinspectator.com/mainstream/2026/10/16/i-put-every-polymarket-kalshi-crypto-price-bet-on-one-page-and-combined-the-bitcoin-ones-into-a-prediction-forecast/))",
+      "image_url": null,
+      "published": "2026-10-18T00:00:00-04:00",
+      "source": "2026-10-18_0000-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0000-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0000-edt-3",
+      "title": "Week 7 college football prediction market picks price Ohio State at 61 cents, Kansas State at 64 cents and Michigan at 69 cents",
+      "content_text": "- **Week 7 college football prediction market picks price Ohio State at 61 cents, Kansas State at 64 cents and Michigan at 69 cents** — Sports Betting Dime Week 7 prediction market picks list Ohio State to win at 61 cents on Polymarket, Kansas State to win at 64 cents on Kalshi and Michigan to win at 69 cents on Kalshi. All three picks are favorites, with Michigan the priciest contract on the card and Ohio State offering the lowest price among the three. ([Sports Betting Dime](https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/))",
+      "content_html": "<p>- **Week 7 college football prediction market picks price Ohio State at 61 cents, Kansas State at 64 cents and Michigan at 69 cents** — Sports Betting Dime Week 7 prediction market picks list Ohio State to win at 61 cents on Polymarket, Kansas State to win at 64 cents on Kalshi and Michigan to win at 69 cents on Kalshi. All three picks are favorites, with Michigan the priciest contract on the card and Ohio State offering the lowest price among the three. ([Sports Betting Dime](https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/))</p>",
+      "date_published": "2026-10-18T00:00:00-04:00",
+      "date_modified": "2026-10-18T00:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/",
+      "links": [
+        "https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:00 AM ET",
+      "body": "- **Week 7 college football prediction market picks price Ohio State at 61 cents, Kansas State at 64 cents and Michigan at 69 cents** — Sports Betting Dime Week 7 prediction market picks list Ohio State to win at 61 cents on Polymarket, Kansas State to win at 64 cents on Kalshi and Michigan to win at 69 cents on Kalshi. All three picks are favorites, with Michigan the priciest contract on the card and Ohio State offering the lowest price among the three. ([Sports Betting Dime](https://www.sportsbettingdime.com/news/college-football/prediction-market-picks-week-7-oct-16/))",
+      "image_url": null,
+      "published": "2026-10-18T00:00:00-04:00",
+      "source": "2026-10-18_0000-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0000-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0000-edt-4",
+      "title": "Action Network trending board shows sports at 2.6 million dollars in 24-hour volume with Vance at 47 percent for 2028 Republican nomination",
+      "content_text": "- **Action Network trending board shows sports at 2.6 million dollars in 24-hour volume with Vance at 47 percent for 2028 Republican nomination** — Action Network trending prediction markets show a sports market at 2.6 million dollars in 24-hour volume at the top of the board, followed by politics markets including J.D. Vance at 47 percent for the 2028 Republican presidential nomination. The board also prices Democratic House control at 91 percent and a Democratic Senate and House balance of power at 63 percent. ([Action Network](https://www.actionnetwork.com/prediction-markets/markets))",
+      "content_html": "<p>- **Action Network trending board shows sports at 2.6 million dollars in 24-hour volume with Vance at 47 percent for 2028 Republican nomination** — Action Network trending prediction markets show a sports market at 2.6 million dollars in 24-hour volume at the top of the board, followed by politics markets including J.D. Vance at 47 percent for the 2028 Republican presidential nomination. The board also prices Democratic House control at 91 percent and a Democratic Senate and House balance of power at 63 percent. ([Action Network](https://www.actionnetwork.com/prediction-markets/markets))</p>",
+      "date_published": "2026-10-18T00:00:00-04:00",
+      "date_modified": "2026-10-18T00:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/prediction-markets/markets",
+      "links": [
+        "https://www.actionnetwork.com/prediction-markets/markets"
+      ],
+      "timestamp": "Oct 18, 2026 · 12:00 AM ET",
+      "body": "- **Action Network trending board shows sports at 2.6 million dollars in 24-hour volume with Vance at 47 percent for 2028 Republican nomination** — Action Network trending prediction markets show a sports market at 2.6 million dollars in 24-hour volume at the top of the board, followed by politics markets including J.D. Vance at 47 percent for the 2028 Republican presidential nomination. The board also prices Democratic House control at 91 percent and a Democratic Senate and House balance of power at 63 percent. ([Action Network](https://www.actionnetwork.com/prediction-markets/markets))",
+      "image_url": null,
+      "published": "2026-10-18T00:00:00-04:00",
+      "source": "2026-10-18_0000-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-17_2354-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2354-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNotre Dame wins priced at 34% on Kalshi, down 44 points, on $11.7M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nUS x Iran ceasefire continues through October 31 priced at 81.5% on Polymarket, up 4 points, on $3.8M traded\nPredictionBubbles' movers board lists the October 31 ceasefire-continuation contract among the day's political moves, in a political category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Notre Dame wins priced at 34% on Kalshi, down 44 points, on $11.7M traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…<br/>#PredictionMarkets #Kalshi #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>US x Iran ceasefire continues through October 31 priced at 81.5% on Polymarket, up 4 points, on $3.8M traded<br/>PredictionBubbles&#x27; movers board lists the October 31 ceasefire-continuation contract among the day&#x27;s political moves, in a political category distinct from the lead — a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-17T23:54:00-04:00",
+      "date_modified": "2026-10-17T23:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Bitcoin",
+        "Elections",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 17, 2026 · 11:54 PM ET",
+      "body": "Infiniti Briefing\n\nNotre Dame wins priced at 34% on Kalshi, down 44 points, on $11.7M traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nUS x Iran ceasefire continues through October 31 priced at 81.5% on Polymarket, up 4 points, on $3.8M traded\nPredictionBubbles' movers board lists the October 31 ceasefire-continuation contract among the day's political moves, in a political category distinct from the lead — a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-17T23:54:00-04:00",
+      "source": "2026-10-17_2354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-17_2339-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_2339-edt",
@@ -4596,192 +4777,6 @@
       "published": "2026-10-17T14:45:00-04:00",
       "source": "2026-10-17_1445-edt.json",
       "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_1439-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1439-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nUlrich Siegmund be the next Minister-President of Sachsen-Anhalt priced at 71.5% on Polymarket, down 2 points, on $359K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nChicago win the Pro Football NFC North Division priced at 19% on Kalshi, up 2 points, on $1.4M traded\nPredictionBubbles lists the division-winner contract among the day's upward moves, in a sports markets category distinct from the lead — a contract with zero hits in the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Ulrich Siegmund be the next Minister-President of Sachsen-Anhalt priced at 71.5% on Polymarket, down 2 points, on $359K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Chicago win the Pro Football NFC North Division priced at 19% on Kalshi, up 2 points, on $1.4M traded<br/>PredictionBubbles lists the division-winner contract among the day&#x27;s upward moves, in a sports markets category distinct from the lead — a contract with zero hits in the…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-17T14:39:00-04:00",
-      "date_modified": "2026-10-17T14:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 17, 2026 · 2:39 PM ET",
-      "body": "Infiniti Briefing\n\nUlrich Siegmund be the next Minister-President of Sachsen-Anhalt priced at 71.5% on Polymarket, down 2 points, on $359K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck today: the Taiwan block,…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nChicago win the Pro Football NFC North Division priced at 19% on Kalshi, up 2 points, on $1.4M traded\nPredictionBubbles lists the division-winner contract among the day's upward moves, in a sports markets category distinct from the lead — a contract with zero hits in the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-17T14:39:00-04:00",
-      "source": "2026-10-17_1439-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1430-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1430-edt-0",
-      "title": "CFTC files amicus brief in Ninth Circuit asserting exclusive jurisdiction over prediction markets",
-      "content_text": "- **CFTC files amicus brief in Ninth Circuit asserting exclusive jurisdiction over prediction markets** — The CFTC said it filed an amicus brief in North American Derivatives Exchange v. Nevada confirming its exclusive jurisdiction over commodity derivatives markets, including event contracts. Chairman Michael Selig said CFTC-registered exchanges have faced an onslaught of lawsuits seeking to limit access to event contracts. ([FX News Group](https://fxnewsgroup.com/forex-news/regulatory/cftc-reasserts-its-jurisdiction-over-prediction-markets/))",
-      "content_html": "<p>- **CFTC files amicus brief in Ninth Circuit asserting exclusive jurisdiction over prediction markets** — The CFTC said it filed an amicus brief in North American Derivatives Exchange v. Nevada confirming its exclusive jurisdiction over commodity derivatives markets, including event contracts. Chairman Michael Selig said CFTC-registered exchanges have faced an onslaught of lawsuits seeking to limit access to event contracts. ([FX News Group](https://fxnewsgroup.com/forex-news/regulatory/cftc-reasserts-its-jurisdiction-over-prediction-markets/))</p>",
-      "date_published": "2026-10-17T14:30:00-04:00",
-      "date_modified": "2026-10-17T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://fxnewsgroup.com/forex-news/regulatory/cftc-reasserts-its-jurisdiction-over-prediction-markets/",
-      "links": [
-        "https://fxnewsgroup.com/forex-news/regulatory/cftc-reasserts-its-jurisdiction-over-prediction-markets/"
-      ],
-      "timestamp": "Oct 17, 2026 · 2:30 PM ET",
-      "body": "- **CFTC files amicus brief in Ninth Circuit asserting exclusive jurisdiction over prediction markets** — The CFTC said it filed an amicus brief in North American Derivatives Exchange v. Nevada confirming its exclusive jurisdiction over commodity derivatives markets, including event contracts. Chairman Michael Selig said CFTC-registered exchanges have faced an onslaught of lawsuits seeking to limit access to event contracts. ([FX News Group](https://fxnewsgroup.com/forex-news/regulatory/cftc-reasserts-its-jurisdiction-over-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-17T14:30:00-04:00",
-      "source": "2026-10-17_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1430-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1430-edt-1",
-      "title": "Polymarket and Kalshi price the Fed October decision four points apart",
-      "content_text": "- **Polymarket and Kalshi price the Fed October decision four points apart** — Polymarket quoted no change at 75 to 76 cents and a 25 basis point hike at 24 to 25 cents, while Kalshi quoted the Fed maintaining rates at 71 to 72 cents and a hike at 26 to 29 cents. Polymarket's October event has traded about 40.5 million dollars, against about 11.1 million contracts on Kalshi. ([DEV Community](https://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
-      "content_html": "<p>- **Polymarket and Kalshi price the Fed October decision four points apart** — Polymarket quoted no change at 75 to 76 cents and a 25 basis point hike at 24 to 25 cents, while Kalshi quoted the Fed maintaining rates at 71 to 72 cents and a hike at 26 to 29 cents. Polymarket&#x27;s October event has traded about 40.5 million dollars, against about 11.1 million contracts on Kalshi. ([DEV Community](https://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))</p>",
-      "date_published": "2026-10-17T14:30:00-04:00",
-      "date_modified": "2026-10-17T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln",
-      "links": [
-        "https://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln"
-      ],
-      "timestamp": "Oct 17, 2026 · 2:30 PM ET",
-      "body": "- **Polymarket and Kalshi price the Fed October decision four points apart** — Polymarket quoted no change at 75 to 76 cents and a 25 basis point hike at 24 to 25 cents, while Kalshi quoted the Fed maintaining rates at 71 to 72 cents and a hike at 26 to 29 cents. Polymarket's October event has traded about 40.5 million dollars, against about 11.1 million contracts on Kalshi. ([DEV Community](https://dev.to/arhancanli/polymarket-and-kalshi-priced-the-feds-october-decision-4-points-apart-3cln))",
-      "image_url": null,
-      "published": "2026-10-17T14:30:00-04:00",
-      "source": "2026-10-17_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1430-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1430-edt-2",
-      "title": "Polymarket prices Texas Tech at 86 percent against Arizona State for October 17",
-      "content_text": "- **Polymarket prices Texas Tech at 86 percent against Arizona State for October 17** — Polymarket traders price Texas Tech at 86 percent to beat Arizona State on October 17, in line with the double-digit spread at sportsbooks. The 16.5-point spread market trades near even, and the total of 50.5 points sits at 51 percent for the over. ([WSN](https://www.wsn.com/promos/polymarket-promo-code-ncaa-football-arizona-state-vs-texas-tech-10-17-2026/))",
-      "content_html": "<p>- **Polymarket prices Texas Tech at 86 percent against Arizona State for October 17** — Polymarket traders price Texas Tech at 86 percent to beat Arizona State on October 17, in line with the double-digit spread at sportsbooks. The 16.5-point spread market trades near even, and the total of 50.5 points sits at 51 percent for the over. ([WSN](https://www.wsn.com/promos/polymarket-promo-code-ncaa-football-arizona-state-vs-texas-tech-10-17-2026/))</p>",
-      "date_published": "2026-10-17T14:30:00-04:00",
-      "date_modified": "2026-10-17T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.wsn.com/promos/polymarket-promo-code-ncaa-football-arizona-state-vs-texas-tech-10-17-2026/",
-      "links": [
-        "https://www.wsn.com/promos/polymarket-promo-code-ncaa-football-arizona-state-vs-texas-tech-10-17-2026/"
-      ],
-      "timestamp": "Oct 17, 2026 · 2:30 PM ET",
-      "body": "- **Polymarket prices Texas Tech at 86 percent against Arizona State for October 17** — Polymarket traders price Texas Tech at 86 percent to beat Arizona State on October 17, in line with the double-digit spread at sportsbooks. The 16.5-point spread market trades near even, and the total of 50.5 points sits at 51 percent for the over. ([WSN](https://www.wsn.com/promos/polymarket-promo-code-ncaa-football-arizona-state-vs-texas-tech-10-17-2026/))",
-      "image_url": null,
-      "published": "2026-10-17T14:30:00-04:00",
-      "source": "2026-10-17_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1430-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1430-edt-3",
-      "title": "Polymarket prices Devils and Capitals over 5.5 goals at 58 cents for October 17",
-      "content_text": "- **Polymarket prices Devils and Capitals over 5.5 goals at 58 cents for October 17** — Most books have moved the Devils and Capitals total to 6.5 goals, while the over 5.5 trades at 58 cents on Polymarket for the October 17 game. New Jersey beat the Rangers 7-1 on Thursday and Washington beat Montreal 5-4 on Wednesday. ([Action Network](https://www.actionnetwork.com/nhl/new-jersey-devils-vs-washington-capitals-prediction-picks-nhl-odds-saturday-october-17))",
-      "content_html": "<p>- **Polymarket prices Devils and Capitals over 5.5 goals at 58 cents for October 17** — Most books have moved the Devils and Capitals total to 6.5 goals, while the over 5.5 trades at 58 cents on Polymarket for the October 17 game. New Jersey beat the Rangers 7-1 on Thursday and Washington beat Montreal 5-4 on Wednesday. ([Action Network](https://www.actionnetwork.com/nhl/new-jersey-devils-vs-washington-capitals-prediction-picks-nhl-odds-saturday-october-17))</p>",
-      "date_published": "2026-10-17T14:30:00-04:00",
-      "date_modified": "2026-10-17T14:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/nhl/new-jersey-devils-vs-washington-capitals-prediction-picks-nhl-odds-saturday-october-17",
-      "links": [
-        "https://www.actionnetwork.com/nhl/new-jersey-devils-vs-washington-capitals-prediction-picks-nhl-odds-saturday-october-17"
-      ],
-      "timestamp": "Oct 17, 2026 · 2:30 PM ET",
-      "body": "- **Polymarket prices Devils and Capitals over 5.5 goals at 58 cents for October 17** — Most books have moved the Devils and Capitals total to 6.5 goals, while the over 5.5 trades at 58 cents on Polymarket for the October 17 game. New Jersey beat the Rangers 7-1 on Thursday and Washington beat Montreal 5-4 on Wednesday. ([Action Network](https://www.actionnetwork.com/nhl/new-jersey-devils-vs-washington-capitals-prediction-picks-nhl-odds-saturday-october-17))",
-      "image_url": null,
-      "published": "2026-10-17T14:30:00-04:00",
-      "source": "2026-10-17_1430-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_1424-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1424-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nPuffpaw FDV above $200M one day after launch priced at 14.5% on Polymarket\nFresh launch-valuation contract leads on $645K traded among crypto markets.\n#Crypto #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/crypto/\n\nAston Villa wins priced at 59% on Kalshi, up 27 points, on $855K traded\nSecond-largest upward move of the day on the movers board.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nJustin Bieber releases a new album in 2026 priced at 24% on Polymarket, down 10 points\nAmong the day's largest downward moves in the daily movers table.\n#Culture #Polymarket #PredictionMarkets\nhttps://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026\n\nMarkets: Brent $109.86 | WTI $101.41 | BTC $81,614 | ETH $2,424 | SOL $104.66\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Puffpaw FDV above $200M one day after launch priced at 14.5% on Polymarket<br/>Fresh launch-valuation contract leads on $645K traded among crypto markets.<br/>#Crypto #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>Aston Villa wins priced at 59% on Kalshi, up 27 points, on $855K traded<br/>Second-largest upward move of the day on the movers board.<br/>#Sports #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Justin Bieber releases a new album in 2026 priced at 24% on Polymarket, down 10 points<br/>Among the day&#x27;s largest downward moves in the daily movers table.<br/>#Culture #Polymarket #PredictionMarkets<br/>https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026<br/><br/>Markets: Brent $109.86 | WTI $101.41 | BTC $81,614 | ETH $2,424 | SOL $104.66<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-17_1424-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-17T14:24:00-04:00",
-      "date_modified": "2026-10-17T14:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Crypto",
-        "Polymarket",
-        "PredictionMarkets",
-        "Sports",
-        "Kalshi",
-        "Culture"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-17_1424-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/crypto/",
-      "links": [
-        "https://predictionbubbles.net/markets/crypto/",
-        "https://predictionbubbles.net/markets/movers/",
-        "https://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026"
-      ],
-      "timestamp": "Oct 17, 2026 · 2:24 PM ET",
-      "body": "Infiniti Briefing\nPuffpaw FDV above $200M one day after launch priced at 14.5% on Polymarket\nFresh launch-valuation contract leads on $645K traded among crypto markets.\n#Crypto #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/crypto/\n\nAston Villa wins priced at 59% on Kalshi, up 27 points, on $855K traded\nSecond-largest upward move of the day on the movers board.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nJustin Bieber releases a new album in 2026 priced at 24% on Polymarket, down 10 points\nAmong the day's largest downward moves in the daily movers table.\n#Culture #Polymarket #PredictionMarkets\nhttps://rg.org/news/prediction-markets/polymarket-daily-israel-election-netanyahu-tesla-spacex-merger-world-series-october-17-2026\n\nMarkets: Brent $109.86 | WTI $101.41 | BTC $81,614 | ETH $2,424 | SOL $104.66\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-17_1424-edt.jpg",
-      "published": "2026-10-17T14:24:00-04:00",
-      "source": "2026-10-17_1424-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
