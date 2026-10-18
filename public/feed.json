@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T01:49:07.899961-04:00",
+  "updated": "2026-10-18T02:04:20.505440-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_0154-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0154-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nDP World India Championship: Eugenio Lopez-Chacarra wins priced at 85% on Kalshi, up 60 points, on $812K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay win the 2026 Pro Baseball American League Championship priced at 58% on Kalshi, up 20 points, on $2.7M traded\nPredictionBubbles' movers board ranks the Tampa Bay pennant contract among the day's largest upward moves, in a sports markets category alongside the lead; it last ran…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>DP World India Championship: Eugenio Lopez-Chacarra wins priced at 85% on Kalshi, up 60 points, on $812K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Tampa Bay win the 2026 Pro Baseball American League Championship priced at 58% on Kalshi, up 20 points, on $2.7M traded<br/>PredictionBubbles&#x27; movers board ranks the Tampa Bay pennant contract among the day&#x27;s largest upward moves, in a sports markets category alongside the lead; it last ran…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T01:54:00-04:00",
+      "date_modified": "2026-10-18T01:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 1:54 AM ET",
+      "body": "Infiniti Briefing\n\nDP World India Championship: Eugenio Lopez-Chacarra wins priced at 85% on Kalshi, up 60 points, on $812K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay win the 2026 Pro Baseball American League Championship priced at 58% on Kalshi, up 20 points, on $2.7M traded\nPredictionBubbles' movers board ranks the Tampa Bay pennant contract among the day's largest upward moves, in a sports markets category alongside the lead; it last ran…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T01:54:00-04:00",
+      "source": "2026-10-18_0154-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-18_0145-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0145-edt-0",
@@ -4744,37 +4776,6 @@
       "image_url": null,
       "published": "2026-10-17T15:54:00-04:00",
       "source": "2026-10-17_1554-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1545-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1545-edt-0",
-      "title": "Prediction markets price Democrats at 90 percent for House control as polls agree",
-      "content_text": "- **Prediction markets price Democrats at 90 percent for House control as polls agree** — Action Network comparison checked on October 17 shows Polymarket and Kalshi both price Democrats at about 90 percent for House control and 61 to 62 percent for Senate control. Polls and forecasters also favor Democrats for the House, with Cook projecting a Democratic gain of 9 to 19 seats. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))",
-      "content_html": "<p>- **Prediction markets price Democrats at 90 percent for House control as polls agree** — Action Network comparison checked on October 17 shows Polymarket and Kalshi both price Democrats at about 90 percent for House control and 61 to 62 percent for Senate control. Polls and forecasters also favor Democrats for the House, with Cook projecting a Democratic gain of 9 to 19 seats. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))</p>",
-      "date_published": "2026-10-17T15:45:00-04:00",
-      "date_modified": "2026-10-17T15:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls",
-      "links": [
-        "https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls"
-      ],
-      "timestamp": "Oct 17, 2026 · 3:45 PM ET",
-      "body": "- **Prediction markets price Democrats at 90 percent for House control as polls agree** — Action Network comparison checked on October 17 shows Polymarket and Kalshi both price Democrats at about 90 percent for House control and 61 to 62 percent for Senate control. Polls and forecasters also favor Democrats for the House, with Cook projecting a Democratic gain of 9 to 19 seats. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))",
-      "image_url": null,
-      "published": "2026-10-17T15:45:00-04:00",
-      "source": "2026-10-17_1545-edt.json",
       "matches_facebook_post": false
     }
   ]
