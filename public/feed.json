@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T04:06:14.795876-04:00",
+  "updated": "2026-10-18T04:19:51.286346-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,98 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-18_0415-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0415-edt-0",
+      "title": "StarkWare opens OffMarket for private Polymarket trading with a 1,000 dollar deposit cap",
+      "content_text": "- **StarkWare opens OffMarket for private Polymarket trading with a 1,000 dollar deposit cap** — StarkWare has opened OffMarket to the public, routing funds through a Starknet privacy pool holding about 1.5 million dollars across 17,000 deposits before orders execute on Polymarket at standard prices. The tool, in limited release since August, limits deposits to 1,000 USDC per account, is not a Polymarket product, and enforces Polymarket geographic restrictions including its ban on US users. ([Coinlook](https://coinlook.net/news/starkware-opens-offmarket-for-private-polymarket-trading/))",
+      "content_html": "<p>- **StarkWare opens OffMarket for private Polymarket trading with a 1,000 dollar deposit cap** — StarkWare has opened OffMarket to the public, routing funds through a Starknet privacy pool holding about 1.5 million dollars across 17,000 deposits before orders execute on Polymarket at standard prices. The tool, in limited release since August, limits deposits to 1,000 USDC per account, is not a Polymarket product, and enforces Polymarket geographic restrictions including its ban on US users. ([Coinlook](https://coinlook.net/news/starkware-opens-offmarket-for-private-polymarket-trading/))</p>",
+      "date_published": "2026-10-18T04:15:00-04:00",
+      "date_modified": "2026-10-18T04:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://coinlook.net/news/starkware-opens-offmarket-for-private-polymarket-trading/",
+      "links": [
+        "https://coinlook.net/news/starkware-opens-offmarket-for-private-polymarket-trading/"
+      ],
+      "timestamp": "Oct 18, 2026 · 4:15 AM ET",
+      "body": "- **StarkWare opens OffMarket for private Polymarket trading with a 1,000 dollar deposit cap** — StarkWare has opened OffMarket to the public, routing funds through a Starknet privacy pool holding about 1.5 million dollars across 17,000 deposits before orders execute on Polymarket at standard prices. The tool, in limited release since August, limits deposits to 1,000 USDC per account, is not a Polymarket product, and enforces Polymarket geographic restrictions including its ban on US users. ([Coinlook](https://coinlook.net/news/starkware-opens-offmarket-for-private-polymarket-trading/))",
+      "image_url": null,
+      "published": "2026-10-18T04:15:00-04:00",
+      "source": "2026-10-18_0415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_0415-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0415-edt-1",
+      "title": "Polymarket US maker and taker rebates move to volume tiers on October 19",
+      "content_text": "- **Polymarket US maker and taker rebates move to volume tiers on October 19** — A Drawnomics explainer with figures as of October 15 notes Polymarket US announced its maker and taker rebates move to volume tiers on October 19, while the standard taker fee formula remains unchanged. Kalshi and Polymarket US charge a similar taker fee calculated as a percentage times price times one minus price, paid by the taker rather than the maker. ([Drawnomics](https://www.youtube.com/watch?v=g4oRGU6-kYQ))",
+      "content_html": "<p>- **Polymarket US maker and taker rebates move to volume tiers on October 19** — A Drawnomics explainer with figures as of October 15 notes Polymarket US announced its maker and taker rebates move to volume tiers on October 19, while the standard taker fee formula remains unchanged. Kalshi and Polymarket US charge a similar taker fee calculated as a percentage times price times one minus price, paid by the taker rather than the maker. ([Drawnomics](https://www.youtube.com/watch?v=g4oRGU6-kYQ))</p>",
+      "date_published": "2026-10-18T04:15:00-04:00",
+      "date_modified": "2026-10-18T04:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.youtube.com/watch?v=g4oRGU6-kYQ",
+      "links": [
+        "https://www.youtube.com/watch?v=g4oRGU6-kYQ"
+      ],
+      "timestamp": "Oct 18, 2026 · 4:15 AM ET",
+      "body": "- **Polymarket US maker and taker rebates move to volume tiers on October 19** — A Drawnomics explainer with figures as of October 15 notes Polymarket US announced its maker and taker rebates move to volume tiers on October 19, while the standard taker fee formula remains unchanged. Kalshi and Polymarket US charge a similar taker fee calculated as a percentage times price times one minus price, paid by the taker rather than the maker. ([Drawnomics](https://www.youtube.com/watch?v=g4oRGU6-kYQ))",
+      "image_url": null,
+      "published": "2026-10-18T04:15:00-04:00",
+      "source": "2026-10-18_0415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-18_0409-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_0409-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nUS x Iran ceasefire continues through November 15 priced at 61% on Polymarket, up 8.5 points, on $276K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Supreme…\n#PredictionMarkets #Polymarket #SCOTUS #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nJeremiah Smith win the Heisman Trophy priced at 48% on Kalshi, down 7 points, on $2.2M traded\nPredictionBubbles' movers board lists the Smith Heisman contract among the day's downward moves, in a sports markets category distinct from the lead — a contract that…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>US x Iran ceasefire continues through November 15 priced at 61% on Polymarket, up 8.5 points, on $276K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Supreme…<br/>#PredictionMarkets #Polymarket #SCOTUS #Bitcoin<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Jeremiah Smith win the Heisman Trophy priced at 48% on Kalshi, down 7 points, on $2.2M traded<br/>PredictionBubbles&#x27; movers board lists the Smith Heisman contract among the day&#x27;s downward moves, in a sports markets category distinct from the lead — a contract that…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T04:09:00-04:00",
+      "date_modified": "2026-10-18T04:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "SCOTUS",
+        "Bitcoin",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 4:09 AM ET",
+      "body": "Infiniti Briefing\n\nUS x Iran ceasefire continues through November 15 priced at 61% on Polymarket, up 8.5 points, on $276K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already struck on Oct. 17: the Supreme…\n#PredictionMarkets #Polymarket #SCOTUS #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nJeremiah Smith win the Heisman Trophy priced at 48% on Kalshi, down 7 points, on $2.2M traded\nPredictionBubbles' movers board lists the Smith Heisman contract among the day's downward moves, in a sports markets category distinct from the lead — a contract that…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T04:09:00-04:00",
+      "source": "2026-10-18_0409-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-18_0400-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_0400-edt-0",
@@ -4672,98 +4764,6 @@
       "image_url": null,
       "published": "2026-10-17T17:45:00-04:00",
       "source": "2026-10-17_1745-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-17_1739-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-17_1739-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nOpenSea FDV above $500M one day after launch priced at 7.5% on Polymarket, down 1.1 points, on $2.3M traded\nOpenSea launch valuation contract trades at 7.5% on Polymarket, $2.3M volume.\n#Crypto #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/crypto/\n\nMissouri wins priced at 18% on Kalshi, down 17 points, on $1.6M traded\nMissouri drops 17 points on Kalshi movers board, Ole Miss up to 83%.\n#Sports #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nDiscord IPO before 2027 priced at 6.6% on Polymarket, up 0.1 points, on $491K traded\nDiscord IPO contract at 6.6% on Polymarket finance board, $491K traded.\n#Finance #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: Gold $4,156 | BTC $82,002 | WTI $125 ceiling 19.9%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>OpenSea FDV above $500M one day after launch priced at 7.5% on Polymarket, down 1.1 points, on $2.3M traded<br/>OpenSea launch valuation contract trades at 7.5% on Polymarket, $2.3M volume.<br/>#Crypto #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>Missouri wins priced at 18% on Kalshi, down 17 points, on $1.6M traded<br/>Missouri drops 17 points on Kalshi movers board, Ole Miss up to 83%.<br/>#Sports #PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Discord IPO before 2027 priced at 6.6% on Polymarket, up 0.1 points, on $491K traded<br/>Discord IPO contract at 6.6% on Polymarket finance board, $491K traded.<br/>#Finance #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Markets: Gold $4,156 | BTC $82,002 | WTI $125 ceiling 19.9%<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-17_1739-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-17T17:39:00-04:00",
-      "date_modified": "2026-10-17T17:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Crypto",
-        "PredictionMarkets",
-        "Polymarket",
-        "Sports",
-        "Kalshi",
-        "Finance"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-17_1739-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/crypto/",
-      "links": [
-        "https://predictionbubbles.net/markets/crypto/",
-        "https://predictionbubbles.net/markets/movers/",
-        "https://predictionbubbles.net/markets/finance/"
-      ],
-      "timestamp": "Oct 17, 2026 · 5:39 PM ET",
-      "body": "Infiniti Briefing\nOpenSea FDV above $500M one day after launch priced at 7.5% on Polymarket, down 1.1 points, on $2.3M traded\nOpenSea launch valuation contract trades at 7.5% on Polymarket, $2.3M volume.\n#Crypto #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/crypto/\n\nMissouri wins priced at 18% on Kalshi, down 17 points, on $1.6M traded\nMissouri drops 17 points on Kalshi movers board, Ole Miss up to 83%.\n#Sports #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nDiscord IPO before 2027 priced at 6.6% on Polymarket, up 0.1 points, on $491K traded\nDiscord IPO contract at 6.6% on Polymarket finance board, $491K traded.\n#Finance #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: Gold $4,156 | BTC $82,002 | WTI $125 ceiling 19.9%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-17_1739-edt.jpg",
-      "published": "2026-10-17T17:39:00-04:00",
-      "source": "2026-10-17_1739-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-17_1730-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1730-edt-0",
-      "title": "Florida at Texas prediction markets put 96 percent of moneyline tickets on Texas while spread handle backs Florida",
-      "content_text": "- **Florida at Texas prediction markets put 96 percent of moneyline tickets on Texas while spread handle backs Florida** — Saturday Down South reports prediction market traders put 96 percent of moneyline tickets on Texas for the October 17 Florida at Texas game, while 64.91 percent of tickets and 77.7 percent of handle backed Florida on the spread. The consensus spread sits at Texas minus 10.5 points, with 62.36 percent of stake on the over. ([Saturday Down South](https://www.saturdaydownsouth.com/news/betting/florida-texas-prediction-market-promo-codes/))",
-      "content_html": "<p>- **Florida at Texas prediction markets put 96 percent of moneyline tickets on Texas while spread handle backs Florida** — Saturday Down South reports prediction market traders put 96 percent of moneyline tickets on Texas for the October 17 Florida at Texas game, while 64.91 percent of tickets and 77.7 percent of handle backed Florida on the spread. The consensus spread sits at Texas minus 10.5 points, with 62.36 percent of stake on the over. ([Saturday Down South](https://www.saturdaydownsouth.com/news/betting/florida-texas-prediction-market-promo-codes/))</p>",
-      "date_published": "2026-10-17T17:30:00-04:00",
-      "date_modified": "2026-10-17T17:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.saturdaydownsouth.com/news/betting/florida-texas-prediction-market-promo-codes/",
-      "links": [
-        "https://www.saturdaydownsouth.com/news/betting/florida-texas-prediction-market-promo-codes/"
-      ],
-      "timestamp": "Oct 17, 2026 · 5:30 PM ET",
-      "body": "- **Florida at Texas prediction markets put 96 percent of moneyline tickets on Texas while spread handle backs Florida** — Saturday Down South reports prediction market traders put 96 percent of moneyline tickets on Texas for the October 17 Florida at Texas game, while 64.91 percent of tickets and 77.7 percent of handle backed Florida on the spread. The consensus spread sits at Texas minus 10.5 points, with 62.36 percent of stake on the over. ([Saturday Down South](https://www.saturdaydownsouth.com/news/betting/florida-texas-prediction-market-promo-codes/))",
-      "image_url": null,
-      "published": "2026-10-17T17:30:00-04:00",
-      "source": "2026-10-17_1730-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-17_1730-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-17_1730-edt-1",
-      "title": "Kalshi weather markets price Northeast rain at 82 percent and list Big Sky snowfall contracts",
-      "content_text": "- **Kalshi weather markets price Northeast rain at 82 percent and list Big Sky snowfall contracts** — Prediction News reports Kalshi is pricing weekend rain chances in parts of the Northeast at 82 percent ahead of an expected severe storm system, with contracts broken down by location. Kalshi is also offering December snowfall contracts for Big Sky, Montana, as it expands its weather markets beyond sports and politics. ([Prediction News](https://predictionnews.com/story/kalshi-offers-snowfall-odds-for-big-sky-as-early-winter-weather-arrives))",
-      "content_html": "<p>- **Kalshi weather markets price Northeast rain at 82 percent and list Big Sky snowfall contracts** — Prediction News reports Kalshi is pricing weekend rain chances in parts of the Northeast at 82 percent ahead of an expected severe storm system, with contracts broken down by location. Kalshi is also offering December snowfall contracts for Big Sky, Montana, as it expands its weather markets beyond sports and politics. ([Prediction News](https://predictionnews.com/story/kalshi-offers-snowfall-odds-for-big-sky-as-early-winter-weather-arrives))</p>",
-      "date_published": "2026-10-17T17:30:00-04:00",
-      "date_modified": "2026-10-17T17:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/kalshi-offers-snowfall-odds-for-big-sky-as-early-winter-weather-arrives",
-      "links": [
-        "https://predictionnews.com/story/kalshi-offers-snowfall-odds-for-big-sky-as-early-winter-weather-arrives"
-      ],
-      "timestamp": "Oct 17, 2026 · 5:30 PM ET",
-      "body": "- **Kalshi weather markets price Northeast rain at 82 percent and list Big Sky snowfall contracts** — Prediction News reports Kalshi is pricing weekend rain chances in parts of the Northeast at 82 percent ahead of an expected severe storm system, with contracts broken down by location. Kalshi is also offering December snowfall contracts for Big Sky, Montana, as it expands its weather markets beyond sports and politics. ([Prediction News](https://predictionnews.com/story/kalshi-offers-snowfall-odds-for-big-sky-as-early-winter-weather-arrives))",
-      "image_url": null,
-      "published": "2026-10-17T17:30:00-04:00",
-      "source": "2026-10-17_1730-edt.json",
       "matches_facebook_post": false
     }
   ]
