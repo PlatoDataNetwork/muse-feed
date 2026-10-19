@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-19T15:16:12.732808-04:00",
+  "updated": "2026-10-19T15:50:16.623277-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-19_1524-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_1524-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nParis curfew by October 31 priced at 99.1% on Polymarket, up 87.5 points, on $32K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried or struck today, including the Baltimore suit, the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nBetter Collective launches Prediction Pro subscription for prediction market traders\nPrediction News, published Oct. 19 and updated within the last two hours, reports Better Collective launched Prediction Pro on October 19, a subscription combining…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\nhttps://predictionnews.com/story/better-collective-launches-prediction-pro-subscription-for-prediction-market-tra\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Paris curfew by October 31 priced at 99.1% on Polymarket, up 87.5 points, on $32K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried or struck today, including the Baltimore suit, the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Better Collective launches Prediction Pro subscription for prediction market traders<br/>Prediction News, published Oct. 19 and updated within the last two hours, reports Better Collective launched Prediction Pro on October 19, a subscription combining…<br/>#PredictionMarkets #Kalshi #Polymarket #Midterms<br/>https://predictionnews.com/story/better-collective-launches-prediction-pro-subscription-for-prediction-market-tra<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-19T15:24:00-04:00",
+      "date_modified": "2026-10-19T15:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionnews.com/story/better-collective-launches-prediction-pro-subscription-for-prediction-market-tra"
+      ],
+      "timestamp": "Oct 19, 2026 · 3:24 PM ET",
+      "body": "Infiniti Briefing\n\nParis curfew by October 31 priced at 99.1% on Polymarket, up 87.5 points, on $32K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried or struck today, including the Baltimore suit, the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nBetter Collective launches Prediction Pro subscription for prediction market traders\nPrediction News, published Oct. 19 and updated within the last two hours, reports Better Collective launched Prediction Pro on October 19, a subscription combining…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\nhttps://predictionnews.com/story/better-collective-launches-prediction-pro-subscription-for-prediction-market-tra\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-19T15:24:00-04:00",
+      "source": "2026-10-19_1524-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-19_1515-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_1515-edt-0",
@@ -4642,36 +4675,6 @@
       "image_url": null,
       "published": "2026-10-18T22:54:00-04:00",
       "source": "2026-10-18_2254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_2245-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_2245-edt-0",
-      "title": "Prediction market volume reaches 105.3 billion dollars in 30 days with Kalshi handling 76 percent, DeFi Rate tracker shows",
-      "content_text": "- **Prediction market volume reaches 105.3 billion dollars in 30 days with Kalshi handling 76 percent, DeFi Rate tracker shows** — DeFi Rate's volume tracker reports 105.3 billion dollars in contracts traded over the last 30 days, with 6.0 billion dollars traded in the last 24 hours and Kalshi handling 76 percent of the 30-day total. Polymarket US accounted for 12 percent and Polymarket for 4 percent over the same period. ([DeFi Rate](https://defirate.com/prediction-markets/volume/))",
-      "content_html": "<p>- **Prediction market volume reaches 105.3 billion dollars in 30 days with Kalshi handling 76 percent, DeFi Rate tracker shows** — DeFi Rate&#x27;s volume tracker reports 105.3 billion dollars in contracts traded over the last 30 days, with 6.0 billion dollars traded in the last 24 hours and Kalshi handling 76 percent of the 30-day total. Polymarket US accounted for 12 percent and Polymarket for 4 percent over the same period. ([DeFi Rate](https://defirate.com/prediction-markets/volume/))</p>",
-      "date_published": "2026-10-18T22:45:00-04:00",
-      "date_modified": "2026-10-18T22:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/"
-      ],
-      "timestamp": "Oct 18, 2026 · 10:45 PM ET",
-      "body": "- **Prediction market volume reaches 105.3 billion dollars in 30 days with Kalshi handling 76 percent, DeFi Rate tracker shows** — DeFi Rate's volume tracker reports 105.3 billion dollars in contracts traded over the last 30 days, with 6.0 billion dollars traded in the last 24 hours and Kalshi handling 76 percent of the 30-day total. Polymarket US accounted for 12 percent and Polymarket for 4 percent over the same period. ([DeFi Rate](https://defirate.com/prediction-markets/volume/))",
-      "image_url": null,
-      "published": "2026-10-18T22:45:00-04:00",
-      "source": "2026-10-18_2245-edt.json",
       "matches_facebook_post": false
     }
   ]
