@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-19T10:21:31.562988-04:00",
+  "updated": "2026-10-19T10:44:52.602059-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-19_1024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_1024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nGTA6 be released by November 30, 2026 priced at 92.0% on Kalshi, down 3 points, on $987K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Baltimore suit, the Vanderbilt…\n#PredictionMarkets #Kalshi #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nInflation reach more than 5% in 2026 priced at 11.5% on Polymarket, up 3.5 points, on $341K traded\nPredictionBubbles' movers board lists the inflation contract among its traded macro markets, in a finance/economics category distinct from the lead — it has zero hits in…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>GTA6 be released by November 30, 2026 priced at 92.0% on Kalshi, down 3 points, on $987K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Baltimore suit, the Vanderbilt…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Inflation reach more than 5% in 2026 priced at 11.5% on Polymarket, up 3.5 points, on $341K traded<br/>PredictionBubbles&#x27; movers board lists the inflation contract among its traded macro markets, in a finance/economics category distinct from the lead — it has zero hits in…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-19T10:24:00-04:00",
+      "date_modified": "2026-10-19T10:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 19, 2026 · 10:24 AM ET",
+      "body": "Infiniti Briefing\n\nGTA6 be released by November 30, 2026 priced at 92.0% on Kalshi, down 3 points, on $987K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Baltimore suit, the Vanderbilt…\n#PredictionMarkets #Kalshi #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nInflation reach more than 5% in 2026 priced at 11.5% on Polymarket, up 3.5 points, on $341K traded\nPredictionBubbles' movers board lists the inflation contract among its traded macro markets, in a finance/economics category distinct from the lead — it has zero hits in…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-19T10:24:00-04:00",
+      "source": "2026-10-19_1024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-19_1015-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_1015-edt-0",
@@ -4687,33 +4719,6 @@
       "published": "2026-10-18T18:54:00-04:00",
       "source": "2026-10-18_1854-edt.md",
       "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-18_1845-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1845-edt-0",
-      "title": "Prediction markets trade 102.4 billion dollars in 30 days in Blockonomi DeFi roundup",
-      "content_text": "- **Prediction markets trade 102.4 billion dollars in 30 days in Blockonomi DeFi roundup** — Blockonomi reports prediction markets traded 102.4 billion dollars in contracts over 30 days, with about 25.7 billion dollars paid, in snapshots dated October 17 to 18, 2026. The same roundup puts stablecoin market capitalization at 302.34 billion dollars and DeFi total value locked at 88.49 billion dollars. ([Blockonomi](https://blockonomi.com/defi-is-evolving-what-comes-after-betting-and-prediction-markets/))",
-      "content_html": "<p>- **Prediction markets trade 102.4 billion dollars in 30 days in Blockonomi DeFi roundup** — Blockonomi reports prediction markets traded 102.4 billion dollars in contracts over 30 days, with about 25.7 billion dollars paid, in snapshots dated October 17 to 18, 2026. The same roundup puts stablecoin market capitalization at 302.34 billion dollars and DeFi total value locked at 88.49 billion dollars. ([Blockonomi](https://blockonomi.com/defi-is-evolving-what-comes-after-betting-and-prediction-markets/))</p>",
-      "date_published": "2026-10-18T18:45:00-04:00",
-      "date_modified": "2026-10-18T18:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://blockonomi.com/defi-is-evolving-what-comes-after-betting-and-prediction-markets/",
-      "links": [
-        "https://blockonomi.com/defi-is-evolving-what-comes-after-betting-and-prediction-markets/"
-      ],
-      "timestamp": "Oct 18, 2026 · 6:45 PM ET",
-      "body": "- **Prediction markets trade 102.4 billion dollars in 30 days in Blockonomi DeFi roundup** — Blockonomi reports prediction markets traded 102.4 billion dollars in contracts over 30 days, with about 25.7 billion dollars paid, in snapshots dated October 17 to 18, 2026. The same roundup puts stablecoin market capitalization at 302.34 billion dollars and DeFi total value locked at 88.49 billion dollars. ([Blockonomi](https://blockonomi.com/defi-is-evolving-what-comes-after-betting-and-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-18T18:45:00-04:00",
-      "source": "2026-10-18_1845-edt.json",
-      "matches_facebook_post": false
     }
   ]
 }
