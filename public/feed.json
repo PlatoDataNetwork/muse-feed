@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-19T09:01:50.578116-04:00",
+  "updated": "2026-10-19T09:39:13.406551-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,70 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-19_0924-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_0924-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBitcoin dip to $72,500 in October priced at 8.5% on Polymarket, down 4.5 points, on $300K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri cease-and-desist coverage,…\n#PredictionMarkets #Polymarket #CFTC #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nNo Hormuz agreement priced at 79.5% on Polymarket, down 11.8 points, on $566K traded\nPredictionBubbles' movers board lists the no-agreement contract among its largest downward political moves, in a political/geopolitics category distinct from the lead —…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin dip to $72,500 in October priced at 8.5% on Polymarket, down 4.5 points, on $300K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri cease-and-desist coverage,…<br/>#PredictionMarkets #Polymarket #CFTC #Bitcoin<br/>https://predictionbubbles.net/markets/movers/<br/><br/>No Hormuz agreement priced at 79.5% on Polymarket, down 11.8 points, on $566K traded<br/>PredictionBubbles&#x27; movers board lists the no-agreement contract among its largest downward political moves, in a political/geopolitics category distinct from the lead —…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-19T09:24:00-04:00",
+      "date_modified": "2026-10-19T09:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 19, 2026 · 9:24 AM ET",
+      "body": "Infiniti Briefing\n\nBitcoin dip to $72,500 in October priced at 8.5% on Polymarket, down 4.5 points, on $300K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri cease-and-desist coverage,…\n#PredictionMarkets #Polymarket #CFTC #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nNo Hormuz agreement priced at 79.5% on Polymarket, down 11.8 points, on $566K traded\nPredictionBubbles' movers board lists the no-agreement contract among its largest downward political moves, in a political/geopolitics category distinct from the lead —…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-19T09:24:00-04:00",
+      "source": "2026-10-19_0924-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-19_0915-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_0915-edt-0",
+      "title": "USA Today tests NFL 1.8 billion dollar prediction market claim and finds NFL share at 59 percent on opening Sunday, rising to 69 percent by October 11",
+      "content_text": "- **USA Today tests NFL 1.8 billion dollar prediction market claim and finds NFL share at 59 percent on opening Sunday, rising to 69 percent by October 11** — USA Today replicated the NFL's October 8 Supreme Court brief claim using Kalshi and Polymarket US trading data and found the figures roughly accurate, with NFL-related contracts at 59 percent of notional volume on the opening Sunday of September 13 and up to 69 percent by October 11. Combined notional volume on the two exchanges grew from 2.83 billion dollars on September 13 to 4.6 billion dollars on October 11, and Kalshi and Polymarket confirmed the findings were directionally accurate. ([USA Today](https://www.usatoday.com/story/sports/nfl/2026/10/19/nfl-prediction-market-volume-kalshi-polymarket/92275762007/))",
+      "content_html": "<p>- **USA Today tests NFL 1.8 billion dollar prediction market claim and finds NFL share at 59 percent on opening Sunday, rising to 69 percent by October 11** — USA Today replicated the NFL&#x27;s October 8 Supreme Court brief claim using Kalshi and Polymarket US trading data and found the figures roughly accurate, with NFL-related contracts at 59 percent of notional volume on the opening Sunday of September 13 and up to 69 percent by October 11. Combined notional volume on the two exchanges grew from 2.83 billion dollars on September 13 to 4.6 billion dollars on October 11, and Kalshi and Polymarket confirmed the findings were directionally accurate. ([USA Today](https://www.usatoday.com/story/sports/nfl/2026/10/19/nfl-prediction-market-volume-kalshi-polymarket/92275762007/))</p>",
+      "date_published": "2026-10-19T09:15:00-04:00",
+      "date_modified": "2026-10-19T09:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://www.usatoday.com/story/sports/nfl/2026/10/19/nfl-prediction-market-volume-kalshi-polymarket/92275762007/",
+      "links": [
+        "https://www.usatoday.com/story/sports/nfl/2026/10/19/nfl-prediction-market-volume-kalshi-polymarket/92275762007/"
+      ],
+      "timestamp": "Oct 19, 2026 · 9:15 AM ET",
+      "body": "- **USA Today tests NFL 1.8 billion dollar prediction market claim and finds NFL share at 59 percent on opening Sunday, rising to 69 percent by October 11** — USA Today replicated the NFL's October 8 Supreme Court brief claim using Kalshi and Polymarket US trading data and found the figures roughly accurate, with NFL-related contracts at 59 percent of notional volume on the opening Sunday of September 13 and up to 69 percent by October 11. Combined notional volume on the two exchanges grew from 2.83 billion dollars on September 13 to 4.6 billion dollars on October 11, and Kalshi and Polymarket confirmed the findings were directionally accurate. ([USA Today](https://www.usatoday.com/story/sports/nfl/2026/10/19/nfl-prediction-market-volume-kalshi-polymarket/92275762007/))",
+      "image_url": null,
+      "published": "2026-10-19T09:15:00-04:00",
+      "source": "2026-10-19_0915-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-19_0854-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_0854-edt",
@@ -4656,67 +4720,6 @@
       "image_url": null,
       "published": "2026-10-18T17:45:00-04:00",
       "source": "2026-10-18_1745-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-18_1724-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_1724-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nCarolina wins priced at 99% on Kalshi, up 37 points, on $6.6M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri sports-contract suit that…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nNew Orleans wins priced at 96% on Kalshi, up 46 points, on $4.8M traded\nPredictionBubbles' movers board lists the New Orleans win contract among its largest upward moves, in a sports markets category — it has zero hits in the entire October…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Carolina wins priced at 99% on Kalshi, up 37 points, on $6.6M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri sports-contract suit that…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>New Orleans wins priced at 96% on Kalshi, up 46 points, on $4.8M traded<br/>PredictionBubbles&#x27; movers board lists the New Orleans win contract among its largest upward moves, in a sports markets category — it has zero hits in the entire October…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-18T17:24:00-04:00",
-      "date_modified": "2026-10-18T17:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 18, 2026 · 5:24 PM ET",
-      "body": "Infiniti Briefing\n\nCarolina wins priced at 99% on Kalshi, up 37 points, on $6.6M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri sports-contract suit that…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nNew Orleans wins priced at 96% on Kalshi, up 46 points, on $4.8M traded\nPredictionBubbles' movers board lists the New Orleans win contract among its largest upward moves, in a sports markets category — it has zero hits in the entire October…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-18T17:24:00-04:00",
-      "source": "2026-10-18_1724-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1715-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1715-edt-0",
-      "title": "Miami leads Kalshi national title market at 17 percent while Polymarket lists Ohio State first",
-      "content_text": "- **Miami leads Kalshi national title market at 17 percent while Polymarket lists Ohio State first** — Covers, updated October 18, reports Miami (FL) is the new Kalshi favorite for the college football national championship at 17 percent after upsets to Georgia and Notre Dame, with Ohio State and Georgia at 15 percent each and Texas down to 3 percent. Polymarket lists a different order, with Ohio State at 17 percent, Georgia at 16 percent and Miami at 15 percent. ([Covers](https://www.covers.com/industry/chaos-in-national-championship-prediction-markets-oct-18-2026))",
-      "content_html": "<p>- **Miami leads Kalshi national title market at 17 percent while Polymarket lists Ohio State first** — Covers, updated October 18, reports Miami (FL) is the new Kalshi favorite for the college football national championship at 17 percent after upsets to Georgia and Notre Dame, with Ohio State and Georgia at 15 percent each and Texas down to 3 percent. Polymarket lists a different order, with Ohio State at 17 percent, Georgia at 16 percent and Miami at 15 percent. ([Covers](https://www.covers.com/industry/chaos-in-national-championship-prediction-markets-oct-18-2026))</p>",
-      "date_published": "2026-10-18T17:15:00-04:00",
-      "date_modified": "2026-10-18T17:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/industry/chaos-in-national-championship-prediction-markets-oct-18-2026",
-      "links": [
-        "https://www.covers.com/industry/chaos-in-national-championship-prediction-markets-oct-18-2026"
-      ],
-      "timestamp": "Oct 18, 2026 · 5:15 PM ET",
-      "body": "- **Miami leads Kalshi national title market at 17 percent while Polymarket lists Ohio State first** — Covers, updated October 18, reports Miami (FL) is the new Kalshi favorite for the college football national championship at 17 percent after upsets to Georgia and Notre Dame, with Ohio State and Georgia at 15 percent each and Texas down to 3 percent. Polymarket lists a different order, with Ohio State at 17 percent, Georgia at 16 percent and Miami at 15 percent. ([Covers](https://www.covers.com/industry/chaos-in-national-championship-prediction-markets-oct-18-2026))",
-      "image_url": null,
-      "published": "2026-10-18T17:15:00-04:00",
-      "source": "2026-10-18_1715-edt.json",
       "matches_facebook_post": false
     }
   ]
