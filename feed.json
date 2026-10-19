@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-19T05:56:42.593180-04:00",
+  "updated": "2026-10-19T06:27:45.161875-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,125 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-19_0624-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_0624-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSaudi-Houthi ceasefire agreement announced by December 31 priced at 23.5% on Polymarket, down 11.5 points, on $130K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried earlier, including the Missouri cease-and-desist…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nA crypto market structure bill become law before July 1, 2027 priced at 8.0% on Kalshi, down 7 points, on $97K traded\nPredictionBubbles' movers board lists the market-structure bill contract among its downward political moves, in a legal/regulatory category distinct from the lead — this…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Saudi-Houthi ceasefire agreement announced by December 31 priced at 23.5% on Polymarket, down 11.5 points, on $130K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried earlier, including the Missouri cease-and-desist…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>A crypto market structure bill become law before July 1, 2027 priced at 8.0% on Kalshi, down 7 points, on $97K traded<br/>PredictionBubbles&#x27; movers board lists the market-structure bill contract among its downward political moves, in a legal/regulatory category distinct from the lead — this…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-19T06:24:00-04:00",
+      "date_modified": "2026-10-19T06:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 19, 2026 · 6:24 AM ET",
+      "body": "Infiniti Briefing\n\nSaudi-Houthi ceasefire agreement announced by December 31 priced at 23.5% on Polymarket, down 11.5 points, on $130K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried earlier, including the Missouri cease-and-desist…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nA crypto market structure bill become law before July 1, 2027 priced at 8.0% on Kalshi, down 7 points, on $97K traded\nPredictionBubbles' movers board lists the market-structure bill contract among its downward political moves, in a legal/regulatory category distinct from the lead — this…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-19T06:24:00-04:00",
+      "source": "2026-10-19_0624-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-19_0615-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_0615-edt-0",
+      "title": "CFTC proposes classifying prediction market event contracts as swaps while excluding casino-style gambling, Sumsub reports",
+      "content_text": "- **CFTC proposes classifying prediction market event contracts as swaps while excluding casino-style gambling, Sumsub reports** — The Commodity Futures Trading Commission announced on October 9 an interim final rule excluding casino-style gambling from the definition of a swap, alongside a proposal to expressly include event contracts based on sports, politics, cultural and weather events. Chairman Michael Selig said the products are commodity derivatives within the agency exclusive jurisdiction, and the commission is accepting written comments on both measures through Regulations.gov. ([Sumsub](https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/))",
+      "content_html": "<p>- **CFTC proposes classifying prediction market event contracts as swaps while excluding casino-style gambling, Sumsub reports** — The Commodity Futures Trading Commission announced on October 9 an interim final rule excluding casino-style gambling from the definition of a swap, alongside a proposal to expressly include event contracts based on sports, politics, cultural and weather events. Chairman Michael Selig said the products are commodity derivatives within the agency exclusive jurisdiction, and the commission is accepting written comments on both measures through Regulations.gov. ([Sumsub](https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/))</p>",
+      "date_published": "2026-10-19T06:15:00-04:00",
+      "date_modified": "2026-10-19T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/",
+      "links": [
+        "https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/"
+      ],
+      "timestamp": "Oct 19, 2026 · 6:15 AM ET",
+      "body": "- **CFTC proposes classifying prediction market event contracts as swaps while excluding casino-style gambling, Sumsub reports** — The Commodity Futures Trading Commission announced on October 9 an interim final rule excluding casino-style gambling from the definition of a swap, alongside a proposal to expressly include event contracts based on sports, politics, cultural and weather events. Chairman Michael Selig said the products are commodity derivatives within the agency exclusive jurisdiction, and the commission is accepting written comments on both measures through Regulations.gov. ([Sumsub](https://sumsub.com/media/news/cftc-regulation-distinction-between-prediction-markets-and-gambling/))",
+      "image_url": null,
+      "published": "2026-10-19T06:15:00-04:00",
+      "source": "2026-10-19_0615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-19_0615-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_0615-edt-1",
+      "title": "Polymarket prices an AI bubble burst at 7 percent by the end of 2026 as Black Monday fears build, Finbold reports",
+      "content_text": "- **Polymarket prices an AI bubble burst at 7 percent by the end of 2026 as Black Monday fears build, Finbold reports** — Polymarket assigned a 7 percent probability to an AI bubble burst by December 31, 2026, rising to 16 percent by June 30, 2027, with the nearer contract recording about 2.44 million dollars in trading volume. Polymarket October 19 contract on the S and P 500 opening showed a 44 percent chance of an upward opening, implying a 56 percent chance of opening lower, after the Nasdaq fell 2.19 percent on Friday. ([Finbold](https://finbold.com/black-monday-fears-intensify-as-prediction-markets-shrug-off-2026-crash/))",
+      "content_html": "<p>- **Polymarket prices an AI bubble burst at 7 percent by the end of 2026 as Black Monday fears build, Finbold reports** — Polymarket assigned a 7 percent probability to an AI bubble burst by December 31, 2026, rising to 16 percent by June 30, 2027, with the nearer contract recording about 2.44 million dollars in trading volume. Polymarket October 19 contract on the S and P 500 opening showed a 44 percent chance of an upward opening, implying a 56 percent chance of opening lower, after the Nasdaq fell 2.19 percent on Friday. ([Finbold](https://finbold.com/black-monday-fears-intensify-as-prediction-markets-shrug-off-2026-crash/))</p>",
+      "date_published": "2026-10-19T06:15:00-04:00",
+      "date_modified": "2026-10-19T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://finbold.com/black-monday-fears-intensify-as-prediction-markets-shrug-off-2026-crash/",
+      "links": [
+        "https://finbold.com/black-monday-fears-intensify-as-prediction-markets-shrug-off-2026-crash/"
+      ],
+      "timestamp": "Oct 19, 2026 · 6:15 AM ET",
+      "body": "- **Polymarket prices an AI bubble burst at 7 percent by the end of 2026 as Black Monday fears build, Finbold reports** — Polymarket assigned a 7 percent probability to an AI bubble burst by December 31, 2026, rising to 16 percent by June 30, 2027, with the nearer contract recording about 2.44 million dollars in trading volume. Polymarket October 19 contract on the S and P 500 opening showed a 44 percent chance of an upward opening, implying a 56 percent chance of opening lower, after the Nasdaq fell 2.19 percent on Friday. ([Finbold](https://finbold.com/black-monday-fears-intensify-as-prediction-markets-shrug-off-2026-crash/))",
+      "image_url": null,
+      "published": "2026-10-19T06:15:00-04:00",
+      "source": "2026-10-19_0615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-19_0615-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_0615-edt-2",
+      "title": "Kalshi is bullish on Denzel Boston for NFL Offensive Rookie of the Year, Sports Illustrated prediction markets hub shows",
+      "content_text": "- **Kalshi is bullish on Denzel Boston for NFL Offensive Rookie of the Year, Sports Illustrated prediction markets hub shows** — Sports Illustrated prediction markets hub reports Kalshi is bullish on Denzel Boston winning NFL Offensive Rookie of the Year, with Jeremiyah Love and Carnell Tate also trending up in that market. The hub also notes Kalshi NFL MVP market is bullish on Brock Purdy and Patrick Mahomes while slightly fading Lamar Jackson. ([Sports Illustrated](https://www.si.com/prediction-markets))",
+      "content_html": "<p>- **Kalshi is bullish on Denzel Boston for NFL Offensive Rookie of the Year, Sports Illustrated prediction markets hub shows** — Sports Illustrated prediction markets hub reports Kalshi is bullish on Denzel Boston winning NFL Offensive Rookie of the Year, with Jeremiyah Love and Carnell Tate also trending up in that market. The hub also notes Kalshi NFL MVP market is bullish on Brock Purdy and Patrick Mahomes while slightly fading Lamar Jackson. ([Sports Illustrated](https://www.si.com/prediction-markets))</p>",
+      "date_published": "2026-10-19T06:15:00-04:00",
+      "date_modified": "2026-10-19T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.si.com/prediction-markets",
+      "links": [
+        "https://www.si.com/prediction-markets"
+      ],
+      "timestamp": "Oct 19, 2026 · 6:15 AM ET",
+      "body": "- **Kalshi is bullish on Denzel Boston for NFL Offensive Rookie of the Year, Sports Illustrated prediction markets hub shows** — Sports Illustrated prediction markets hub reports Kalshi is bullish on Denzel Boston winning NFL Offensive Rookie of the Year, with Jeremiyah Love and Carnell Tate also trending up in that market. The hub also notes Kalshi NFL MVP market is bullish on Brock Purdy and Patrick Mahomes while slightly fading Lamar Jackson. ([Sports Illustrated](https://www.si.com/prediction-markets))",
+      "image_url": null,
+      "published": "2026-10-19T06:15:00-04:00",
+      "source": "2026-10-19_0615-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-19_0554-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_0554-edt",
@@ -4620,130 +4739,6 @@
       "published": "2026-10-18T14:15:00-04:00",
       "source": "2026-10-18_1415-edt.json",
       "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1415-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1415-edt-1",
-      "title": "Prediction markets price Democrats at about 90 percent for the House and 61 to 62 percent for the Senate",
-      "content_text": "- **Prediction markets price Democrats at about 90 percent for the House and 61 to 62 percent for the Senate** — StateLine Daily's midterm comparison, updated October 16, puts Democrats at roughly 90 percent on both Kalshi and Polymarket to take the House and about 61 to 62 percent to control the Senate, with a full Democratic sweep priced above 60 percent. Kalshi's specific House-control market has drawn more than 7.1 million dollars in notional volume, while a split Congress is the second most likely balance-of-power outcome at about 31 to 37 cents. ([StateLine Daily](https://statelinedaily.com/2026-midterm-predictions-polls-prediction-markets/))",
-      "content_html": "<p>- **Prediction markets price Democrats at about 90 percent for the House and 61 to 62 percent for the Senate** — StateLine Daily&#x27;s midterm comparison, updated October 16, puts Democrats at roughly 90 percent on both Kalshi and Polymarket to take the House and about 61 to 62 percent to control the Senate, with a full Democratic sweep priced above 60 percent. Kalshi&#x27;s specific House-control market has drawn more than 7.1 million dollars in notional volume, while a split Congress is the second most likely balance-of-power outcome at about 31 to 37 cents. ([StateLine Daily](https://statelinedaily.com/2026-midterm-predictions-polls-prediction-markets/))</p>",
-      "date_published": "2026-10-18T14:15:00-04:00",
-      "date_modified": "2026-10-18T14:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Congress",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://statelinedaily.com/2026-midterm-predictions-polls-prediction-markets/",
-      "links": [
-        "https://statelinedaily.com/2026-midterm-predictions-polls-prediction-markets/"
-      ],
-      "timestamp": "Oct 18, 2026 · 2:15 PM ET",
-      "body": "- **Prediction markets price Democrats at about 90 percent for the House and 61 to 62 percent for the Senate** — StateLine Daily's midterm comparison, updated October 16, puts Democrats at roughly 90 percent on both Kalshi and Polymarket to take the House and about 61 to 62 percent to control the Senate, with a full Democratic sweep priced above 60 percent. Kalshi's specific House-control market has drawn more than 7.1 million dollars in notional volume, while a split Congress is the second most likely balance-of-power outcome at about 31 to 37 cents. ([StateLine Daily](https://statelinedaily.com/2026-midterm-predictions-polls-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-18T14:15:00-04:00",
-      "source": "2026-10-18_1415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1415-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1415-edt-2",
-      "title": "Kalshi market prices Fernando Mendoza at 63 percent to start for the Raiders in weeks 11 to 14",
-      "content_text": "- **Kalshi market prices Fernando Mendoza at 63 percent to start for the Raiders in weeks 11 to 14** — Kalshi traders give Raiders rookie Fernando Mendoza a 25 percent chance of not starting a single game this season, with weeks 11 to 14 priced as the most likely takeover window at 63 percent. Kirk Cousins remains the starter after recording 1,269 yards, 12 touchdowns and 4 interceptions through five games, according to InfoBets. ([InfoBets](https://infobets.com/news/kalshi-mendoza-raiders-starter-odds))",
-      "content_html": "<p>- **Kalshi market prices Fernando Mendoza at 63 percent to start for the Raiders in weeks 11 to 14** — Kalshi traders give Raiders rookie Fernando Mendoza a 25 percent chance of not starting a single game this season, with weeks 11 to 14 priced as the most likely takeover window at 63 percent. Kirk Cousins remains the starter after recording 1,269 yards, 12 touchdowns and 4 interceptions through five games, according to InfoBets. ([InfoBets](https://infobets.com/news/kalshi-mendoza-raiders-starter-odds))</p>",
-      "date_published": "2026-10-18T14:15:00-04:00",
-      "date_modified": "2026-10-18T14:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://infobets.com/news/kalshi-mendoza-raiders-starter-odds",
-      "links": [
-        "https://infobets.com/news/kalshi-mendoza-raiders-starter-odds"
-      ],
-      "timestamp": "Oct 18, 2026 · 2:15 PM ET",
-      "body": "- **Kalshi market prices Fernando Mendoza at 63 percent to start for the Raiders in weeks 11 to 14** — Kalshi traders give Raiders rookie Fernando Mendoza a 25 percent chance of not starting a single game this season, with weeks 11 to 14 priced as the most likely takeover window at 63 percent. Kirk Cousins remains the starter after recording 1,269 yards, 12 touchdowns and 4 interceptions through five games, according to InfoBets. ([InfoBets](https://infobets.com/news/kalshi-mendoza-raiders-starter-odds))",
-      "image_url": null,
-      "published": "2026-10-18T14:15:00-04:00",
-      "source": "2026-10-18_1415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1415-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1415-edt-3",
-      "title": "Polymarket prices Spurs at 22 percent and Thunder at 20 percent for the 2026-27 NBA championship",
-      "content_text": "- **Polymarket prices Spurs at 22 percent and Thunder at 20 percent for the 2026-27 NBA championship** — RG's 2026-27 NBA preview, with odds as of October 18, puts San Antonio at roughly 22 percent and Oklahoma City at 20 percent on Polymarket to win the championship. The 76ers and Knicks lead the East in the sportsbook odds cited in the preview at +1000, with Boston at +1400 to +1600. ([RG.org](https://rg.org/news/basketball/nba-2026-27-preview-thunder-spurs-title-odds-knicks-and-76ers-bets))",
-      "content_html": "<p>- **Polymarket prices Spurs at 22 percent and Thunder at 20 percent for the 2026-27 NBA championship** — RG&#x27;s 2026-27 NBA preview, with odds as of October 18, puts San Antonio at roughly 22 percent and Oklahoma City at 20 percent on Polymarket to win the championship. The 76ers and Knicks lead the East in the sportsbook odds cited in the preview at +1000, with Boston at +1400 to +1600. ([RG.org](https://rg.org/news/basketball/nba-2026-27-preview-thunder-spurs-title-odds-knicks-and-76ers-bets))</p>",
-      "date_published": "2026-10-18T14:15:00-04:00",
-      "date_modified": "2026-10-18T14:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/basketball/nba-2026-27-preview-thunder-spurs-title-odds-knicks-and-76ers-bets",
-      "links": [
-        "https://rg.org/news/basketball/nba-2026-27-preview-thunder-spurs-title-odds-knicks-and-76ers-bets"
-      ],
-      "timestamp": "Oct 18, 2026 · 2:15 PM ET",
-      "body": "- **Polymarket prices Spurs at 22 percent and Thunder at 20 percent for the 2026-27 NBA championship** — RG's 2026-27 NBA preview, with odds as of October 18, puts San Antonio at roughly 22 percent and Oklahoma City at 20 percent on Polymarket to win the championship. The 76ers and Knicks lead the East in the sportsbook odds cited in the preview at +1000, with Boston at +1400 to +1600. ([RG.org](https://rg.org/news/basketball/nba-2026-27-preview-thunder-spurs-title-odds-knicks-and-76ers-bets))",
-      "image_url": null,
-      "published": "2026-10-18T14:15:00-04:00",
-      "source": "2026-10-18_1415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-18_1354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_1354-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nPredictionBubbles movers board ranks 1,987 markets with 426 moving at least 1 point in 24 hours\n194 up and 232 down, biggest move +56.5 points, on a fresh snapshot.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nReal Sociedad wins priced at 88% on Kalshi, up 44 points, on $770K traded\nSecond-largest move on the movers board today.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nTrump midterm emergency executive action priced at 37% on Kalshi, up 21 points\nOn $262K traded, for action before Nov 4, 2026.\n#Politics #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: STRC $100 by Dec 31 75.1% | Predict.fun FDV $800M 49% | Crypto 253 markets $231.3M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>PredictionBubbles movers board ranks 1,987 markets with 426 moving at least 1 point in 24 hours<br/>194 up and 232 down, biggest move +56.5 points, on a fresh snapshot.<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Real Sociedad wins priced at 88% on Kalshi, up 44 points, on $770K traded<br/>Second-largest move on the movers board today.<br/>#Sports #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Trump midterm emergency executive action priced at 37% on Kalshi, up 21 points<br/>On $262K traded, for action before Nov 4, 2026.<br/>#Politics #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: STRC $100 by Dec 31 75.1% | Predict.fun FDV $800M 49% | Crypto 253 markets $231.3M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-18_1354-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-18T13:54:00-04:00",
-      "date_modified": "2026-10-18T13:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Sports",
-        "Politics"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-18_1354-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 18, 2026 · 1:54 PM ET",
-      "body": "Infiniti Briefing\nPredictionBubbles movers board ranks 1,987 markets with 426 moving at least 1 point in 24 hours\n194 up and 232 down, biggest move +56.5 points, on a fresh snapshot.\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nReal Sociedad wins priced at 88% on Kalshi, up 44 points, on $770K traded\nSecond-largest move on the movers board today.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nTrump midterm emergency executive action priced at 37% on Kalshi, up 21 points\nOn $262K traded, for action before Nov 4, 2026.\n#Politics #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: STRC $100 by Dec 31 75.1% | Predict.fun FDV $800M 49% | Crypto 253 markets $231.3M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-18_1354-edt.jpg",
-      "published": "2026-10-18T13:54:00-04:00",
-      "source": "2026-10-18_1354-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
