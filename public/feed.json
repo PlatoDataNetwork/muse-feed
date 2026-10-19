@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-19T03:44:14.652148-04:00",
+  "updated": "2026-10-19T03:57:08.495177-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-19_0354-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_0354-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNew York G win the Pro Football NFC East Division priced at 32.0% on Kalshi, up 6 points, on $952K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried on Oct. 18 and today, including the Eisenkot/Netanyahu…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nNext Fable Model (5.2+) released by October 31, 2026 priced at 83.7% on Polymarket, up 4.7 points, on $206K traded\nPredictionBubbles' movers board lists the Fable release-date contract among its upward tech moves, in a tech category distinct from the lead — it last carried on Oct. 18…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>New York G win the Pro Football NFC East Division priced at 32.0% on Kalshi, up 6 points, on $952K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried on Oct. 18 and today, including the Eisenkot/Netanyahu…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Next Fable Model (5.2+) released by October 31, 2026 priced at 83.7% on Polymarket, up 4.7 points, on $206K traded<br/>PredictionBubbles&#x27; movers board lists the Fable release-date contract among its upward tech moves, in a tech category distinct from the lead — it last carried on Oct. 18…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-19T03:54:00-04:00",
+      "date_modified": "2026-10-19T03:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 19, 2026 · 3:54 AM ET",
+      "body": "Infiniti Briefing\n\nNew York G win the Pro Football NFC East Division priced at 32.0% on Kalshi, up 6 points, on $952K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried on Oct. 18 and today, including the Eisenkot/Netanyahu…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nNext Fable Model (5.2+) released by October 31, 2026 priced at 83.7% on Polymarket, up 4.7 points, on $206K traded\nPredictionBubbles' movers board lists the Fable release-date contract among its upward tech moves, in a tech category distinct from the lead — it last carried on Oct. 18…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-19T03:54:00-04:00",
+      "source": "2026-10-19_0354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-19_0345-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_0345-edt-0",
@@ -4698,37 +4729,6 @@
       ],
       "timestamp": "Oct 18, 2026 · 12:15 PM ET",
       "body": "- **Bitcoin accounts for 65 percent of Kalshi 15-minute market contracts, with gold at 48.6 million contracts** — Kalshi lists 30 fifteen-minute series with 20 trading, and Bitcoin made up 65 percent of contracts traded across them over the last day of windows, at 246.6 million contracts in the last 96 windows, a Prediction Markets Picks tracker read at 12:14 PM ET on October 18 showed. Gold led commodities at 48.6 million contracts, followed by WTI crude oil at 13.3 million. ([Prediction Markets Picks](https://predictionmarketspicks.com/kalshi/15-minute-markets))",
-      "image_url": null,
-      "published": "2026-10-18T12:15:00-04:00",
-      "source": "2026-10-18_1215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1215-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1215-edt-2",
-      "title": "New wave of prediction market apps from FanDuel, Fanatics and Gemini joins Kalshi and Polymarket in the US",
-      "content_text": "- **New wave of prediction market apps from FanDuel, Fanatics and Gemini joins Kalshi and Polymarket in the US** — A NerdBot overview of the 2026 US prediction market wave lists FanDuel Predicts with contracts through CME Group exchanges, Fanatics Markets through Crypto.com's US derivatives exchange, Gemini Predictions, and CFTC-regulated exchanges Novig and ProphetX alongside Kalshi and Polymarket. Kalshi was put at about 14.8 billion dollars in volume over 30 days as of October 13, against about 5.2 billion dollars for Polymarket. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
-      "content_html": "<p>- **New wave of prediction market apps from FanDuel, Fanatics and Gemini joins Kalshi and Polymarket in the US** — A NerdBot overview of the 2026 US prediction market wave lists FanDuel Predicts with contracts through CME Group exchanges, Fanatics Markets through Crypto.com&#x27;s US derivatives exchange, Gemini Predictions, and CFTC-regulated exchanges Novig and ProphetX alongside Kalshi and Polymarket. Kalshi was put at about 14.8 billion dollars in volume over 30 days as of October 13, against about 5.2 billion dollars for Polymarket. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))</p>",
-      "date_published": "2026-10-18T12:15:00-04:00",
-      "date_modified": "2026-10-18T12:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/",
-      "links": [
-        "https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/"
-      ],
-      "timestamp": "Oct 18, 2026 · 12:15 PM ET",
-      "body": "- **New wave of prediction market apps from FanDuel, Fanatics and Gemini joins Kalshi and Polymarket in the US** — A NerdBot overview of the 2026 US prediction market wave lists FanDuel Predicts with contracts through CME Group exchanges, Fanatics Markets through Crypto.com's US derivatives exchange, Gemini Predictions, and CFTC-regulated exchanges Novig and ProphetX alongside Kalshi and Polymarket. Kalshi was put at about 14.8 billion dollars in volume over 30 days as of October 13, against about 5.2 billion dollars for Polymarket. ([NerdBot](https://nerdbot.com/2026/10/15/prediction-markets-explained-how-kalshi-polymarket-and-the-new-wave-of-apps-actually-work/))",
       "image_url": null,
       "published": "2026-10-18T12:15:00-04:00",
       "source": "2026-10-18_1215-edt.json",
