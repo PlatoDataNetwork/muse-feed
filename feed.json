@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-19T13:03:52.031045-04:00",
+  "updated": "2026-10-19T13:35:30.144076-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-19_1254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-19_1254-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nLorenzo Musetti wins priced at 99.0% on Kalshi, up 29 points, on $906K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried or struck today, including the Baltimore suit, the…\n#PredictionMarkets #Kalshi #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nOhio governor and Senate races draw over $10 million on Kalshi\nPrediction News, published Oct. 19 and updated within the last hour, reports combined Kalshi volume on Ohio's governor and U.S. Senate contests has exceeded $10 million,…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionnews.com/story/ohio-governor-and-senate-races-draw-over-10-million-on-kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Lorenzo Musetti wins priced at 99.0% on Kalshi, up 29 points, on $906K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried or struck today, including the Baltimore suit, the…<br/>#PredictionMarkets #Kalshi #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Ohio governor and Senate races draw over $10 million on Kalshi<br/>Prediction News, published Oct. 19 and updated within the last hour, reports combined Kalshi volume on Ohio&#x27;s governor and U.S. Senate contests has exceeded $10 million,…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://predictionnews.com/story/ohio-governor-and-senate-races-draw-over-10-million-on-kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-19T12:54:00-04:00",
+      "date_modified": "2026-10-19T12:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionnews.com/story/ohio-governor-and-senate-races-draw-over-10-million-on-kalshi"
+      ],
+      "timestamp": "Oct 19, 2026 · 12:54 PM ET",
+      "body": "Infiniti Briefing\n\nLorenzo Musetti wins priced at 99.0% on Kalshi, up 29 points, on $906K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried or struck today, including the Baltimore suit, the…\n#PredictionMarkets #Kalshi #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nOhio governor and Senate races draw over $10 million on Kalshi\nPrediction News, published Oct. 19 and updated within the last hour, reports combined Kalshi volume on Ohio's governor and U.S. Senate contests has exceeded $10 million,…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionnews.com/story/ohio-governor-and-senate-races-draw-over-10-million-on-kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-19T12:54:00-04:00",
+      "source": "2026-10-19_1254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-19_1245-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-19_1245-edt-0",
@@ -4672,37 +4706,6 @@
       ],
       "timestamp": "Oct 18, 2026 · 8:45 PM ET",
       "body": "- **Kalshi and Polymarket knowable midterm markets draw insider trading scrutiny, Bonus reports** — Bonus reports Kalshi and Polymarket face scrutiny over so-called knowable midterm markets, which have drawn more than 20 million dollars in trading volume on contracts such as candidate withdrawals and debate appearances. The report, citing CNN coverage of Anti-Corruption Data Collective research, says platforms offer an average of 44 granular markets per race and flags correlated trades placed ahead of news in the Maine Senate race. ([Bonus](https://www.bonus.com/news/midterm-prediction-markets-draw-insider-trading-scrutiny-as-kalshi-polymarket-expand-elect/))",
-      "image_url": null,
-      "published": "2026-10-18T20:45:00-04:00",
-      "source": "2026-10-18_2045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_2045-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_2045-edt-3",
-      "title": "Texas Senate leads Kalshi midterm volume at 21.8 million dollars in Action Network ranking",
-      "content_text": "- **Texas Senate leads Kalshi midterm volume at 21.8 million dollars in Action Network ranking** — Action Network reports Kalshi's 149 midterm candidate and party markets across 71 races total roughly 90.9 million dollars, led by the Texas Senate race at 21.8 million dollars. Within that race, Ken Paxton accounts for 13.06 million dollars of volume and James Talarico for 8.79 million dollars, ahead of the Maine Senate race at 8.31 million dollars. ([Action Network](https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume))",
-      "content_html": "<p>- **Texas Senate leads Kalshi midterm volume at 21.8 million dollars in Action Network ranking** — Action Network reports Kalshi&#x27;s 149 midterm candidate and party markets across 71 races total roughly 90.9 million dollars, led by the Texas Senate race at 21.8 million dollars. Within that race, Ken Paxton accounts for 13.06 million dollars of volume and James Talarico for 8.79 million dollars, ahead of the Maine Senate race at 8.31 million dollars. ([Action Network](https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume))</p>",
-      "date_published": "2026-10-18T20:45:00-04:00",
-      "date_modified": "2026-10-18T20:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume",
-      "links": [
-        "https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume"
-      ],
-      "timestamp": "Oct 18, 2026 · 8:45 PM ET",
-      "body": "- **Texas Senate leads Kalshi midterm volume at 21.8 million dollars in Action Network ranking** — Action Network reports Kalshi's 149 midterm candidate and party markets across 71 races total roughly 90.9 million dollars, led by the Texas Senate race at 21.8 million dollars. Within that race, Ken Paxton accounts for 13.06 million dollars of volume and James Talarico for 8.79 million dollars, ahead of the Maine Senate race at 8.31 million dollars. ([Action Network](https://www.actionnetwork.com/politics/us-politicians-ranked-by-prediction-market-trading-volume))",
       "image_url": null,
       "published": "2026-10-18T20:45:00-04:00",
       "source": "2026-10-18_2045-edt.json",
