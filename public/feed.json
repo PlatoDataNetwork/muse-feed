@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-18T23:32:13.443197-04:00",
+  "updated": "2026-10-18T23:57:48.299438-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,186 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-18_2354-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_2354-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPachuca wins priced at 2% on Kalshi, down 19 points, on $1.8M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri cease-and-desist coverage,…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay Rays win the 2026 World Series priced at 31.5% on Polymarket, up 10.9 points, on $887K traded\nPredictionBubbles' movers board lists the Rays World Series contract among its upward baseball moves, in a sports markets category — it has zero hits in the entire…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Pachuca wins priced at 2% on Kalshi, down 19 points, on $1.8M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri cease-and-desist coverage,…<br/>#PredictionMarkets #Kalshi #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Tampa Bay Rays win the 2026 World Series priced at 31.5% on Polymarket, up 10.9 points, on $887K traded<br/>PredictionBubbles&#x27; movers board lists the Rays World Series contract among its upward baseball moves, in a sports markets category — it has zero hits in the entire…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-18T23:54:00-04:00",
+      "date_modified": "2026-10-18T23:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Midterms",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 18, 2026 · 11:54 PM ET",
+      "body": "Infiniti Briefing\n\nPachuca wins priced at 2% on Kalshi, down 19 points, on $1.8M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried today, including the Missouri cease-and-desist coverage,…\n#PredictionMarkets #Kalshi #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTampa Bay Rays win the 2026 World Series priced at 31.5% on Polymarket, up 10.9 points, on $887K traded\nPredictionBubbles' movers board lists the Rays World Series contract among its upward baseball moves, in a sports markets category — it has zero hits in the entire…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-18T23:54:00-04:00",
+      "source": "2026-10-18_2354-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_2345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_2345-edt-0",
+      "title": "Polymarket Protocol V2 set for November 2 mainnet switchover, Bonus reports",
+      "content_text": "- **Polymarket Protocol V2 set for November 2 mainnet switchover, Bonus reports** — Polymarket will fully switch its platform to Protocol V2 on November 2, replacing its original 2019 Gnosis CTF foundation. The upgrade consolidates various market types into a single ERC-1155 position contract, transitions to pUSD as the sole collateral, and introduces a multi-oracle aggregator supporting Chainlink and UMA, with live canary markets running from October 5 through October 30 for testing. ([Bonus](https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/))",
+      "content_html": "<p>- **Polymarket Protocol V2 set for November 2 mainnet switchover, Bonus reports** — Polymarket will fully switch its platform to Protocol V2 on November 2, replacing its original 2019 Gnosis CTF foundation. The upgrade consolidates various market types into a single ERC-1155 position contract, transitions to pUSD as the sole collateral, and introduces a multi-oracle aggregator supporting Chainlink and UMA, with live canary markets running from October 5 through October 30 for testing. ([Bonus](https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/))</p>",
+      "date_published": "2026-10-18T23:45:00-04:00",
+      "date_modified": "2026-10-18T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/",
+      "links": [
+        "https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/"
+      ],
+      "timestamp": "Oct 18, 2026 · 11:45 PM ET",
+      "body": "- **Polymarket Protocol V2 set for November 2 mainnet switchover, Bonus reports** — Polymarket will fully switch its platform to Protocol V2 on November 2, replacing its original 2019 Gnosis CTF foundation. The upgrade consolidates various market types into a single ERC-1155 position contract, transitions to pUSD as the sole collateral, and introduces a multi-oracle aggregator supporting Chainlink and UMA, with live canary markets running from October 5 through October 30 for testing. ([Bonus](https://www.bonus.com/news/polymarket-sets-nov-2-mainnet-switchover-for-protocol-v2/))",
+      "image_url": null,
+      "published": "2026-10-18T23:45:00-04:00",
+      "source": "2026-10-18_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_2345-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_2345-edt-1",
+      "title": "Polymarket CEO Shayne Coplan renews token hints as crypto fundraising shifts to equity, Prediction News reports",
+      "content_text": "- **Polymarket CEO Shayne Coplan renews token hints as crypto fundraising shifts to equity, Prediction News reports** — Polymarket CEO Shayne Coplan hinted again at a possible native token during TOKEN2049 in Singapore on October 7, 2026, reviving speculation about a POLY token or airdrop. No timeline, tokenomics, or regulatory strategy were disclosed, and the platform has not publicly confirmed plans for a token generation event. ([Prediction News](https://predictionnews.com/story/polymarkets-coplan-teases-token-announcement-sparking-user-speculation))",
+      "content_html": "<p>- **Polymarket CEO Shayne Coplan renews token hints as crypto fundraising shifts to equity, Prediction News reports** — Polymarket CEO Shayne Coplan hinted again at a possible native token during TOKEN2049 in Singapore on October 7, 2026, reviving speculation about a POLY token or airdrop. No timeline, tokenomics, or regulatory strategy were disclosed, and the platform has not publicly confirmed plans for a token generation event. ([Prediction News](https://predictionnews.com/story/polymarkets-coplan-teases-token-announcement-sparking-user-speculation))</p>",
+      "date_published": "2026-10-18T23:45:00-04:00",
+      "date_modified": "2026-10-18T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/polymarkets-coplan-teases-token-announcement-sparking-user-speculation",
+      "links": [
+        "https://predictionnews.com/story/polymarkets-coplan-teases-token-announcement-sparking-user-speculation"
+      ],
+      "timestamp": "Oct 18, 2026 · 11:45 PM ET",
+      "body": "- **Polymarket CEO Shayne Coplan renews token hints as crypto fundraising shifts to equity, Prediction News reports** — Polymarket CEO Shayne Coplan hinted again at a possible native token during TOKEN2049 in Singapore on October 7, 2026, reviving speculation about a POLY token or airdrop. No timeline, tokenomics, or regulatory strategy were disclosed, and the platform has not publicly confirmed plans for a token generation event. ([Prediction News](https://predictionnews.com/story/polymarkets-coplan-teases-token-announcement-sparking-user-speculation))",
+      "image_url": null,
+      "published": "2026-10-18T23:45:00-04:00",
+      "source": "2026-10-18_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_2345-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_2345-edt-2",
+      "title": "Kalshi prices Cowboys-Packers Sunday Night Football matchup as a toss-up near 50 cents each, Saturday Down South reports",
+      "content_text": "- **Kalshi prices Cowboys-Packers Sunday Night Football matchup as a toss-up near 50 cents each, Saturday Down South reports** — Kalshi prediction markets for the Cowboys-Packers Sunday Night Football matchup currently show a toss-up, with each team trading at around 0.50 dollars to win the game. Dallas enters the road matchup at 2-3 after a home loss to the Tampa Bay Buccaneers, while the hosting Green Bay Packers are 3-2. ([Saturday Down South](https://www.saturdaydownsouth.com/news/nfl/get-55-kalshi-signup-bonus-code-rad55-for-snf/))",
+      "content_html": "<p>- **Kalshi prices Cowboys-Packers Sunday Night Football matchup as a toss-up near 50 cents each, Saturday Down South reports** — Kalshi prediction markets for the Cowboys-Packers Sunday Night Football matchup currently show a toss-up, with each team trading at around 0.50 dollars to win the game. Dallas enters the road matchup at 2-3 after a home loss to the Tampa Bay Buccaneers, while the hosting Green Bay Packers are 3-2. ([Saturday Down South](https://www.saturdaydownsouth.com/news/nfl/get-55-kalshi-signup-bonus-code-rad55-for-snf/))</p>",
+      "date_published": "2026-10-18T23:45:00-04:00",
+      "date_modified": "2026-10-18T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.saturdaydownsouth.com/news/nfl/get-55-kalshi-signup-bonus-code-rad55-for-snf/",
+      "links": [
+        "https://www.saturdaydownsouth.com/news/nfl/get-55-kalshi-signup-bonus-code-rad55-for-snf/"
+      ],
+      "timestamp": "Oct 18, 2026 · 11:45 PM ET",
+      "body": "- **Kalshi prices Cowboys-Packers Sunday Night Football matchup as a toss-up near 50 cents each, Saturday Down South reports** — Kalshi prediction markets for the Cowboys-Packers Sunday Night Football matchup currently show a toss-up, with each team trading at around 0.50 dollars to win the game. Dallas enters the road matchup at 2-3 after a home loss to the Tampa Bay Buccaneers, while the hosting Green Bay Packers are 3-2. ([Saturday Down South](https://www.saturdaydownsouth.com/news/nfl/get-55-kalshi-signup-bonus-code-rad55-for-snf/))",
+      "image_url": null,
+      "published": "2026-10-18T23:45:00-04:00",
+      "source": "2026-10-18_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_2345-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_2345-edt-3",
+      "title": "NBER study finds no systematic political bias in election prediction market prices, RotoWire reports",
+      "content_text": "- **NBER study finds no systematic political bias in election prediction market prices, RotoWire reports** — An October 2026 NBER working paper by Eric Zitzewitz analyzed what the author believes is the largest sample of election prediction markets ever assembled, spanning 1880 to 2025 and covering venues including the Iowa Electronic Markets, Intrade, PredictIt, Betfair, and Kalshi. The full-sample estimate of partisan bias was essentially zero, and no robustness check showed a statistically significant tilt. ([RotoWire](https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104))",
+      "content_html": "<p>- **NBER study finds no systematic political bias in election prediction market prices, RotoWire reports** — An October 2026 NBER working paper by Eric Zitzewitz analyzed what the author believes is the largest sample of election prediction markets ever assembled, spanning 1880 to 2025 and covering venues including the Iowa Electronic Markets, Intrade, PredictIt, Betfair, and Kalshi. The full-sample estimate of partisan bias was essentially zero, and no robustness check showed a statistically significant tilt. ([RotoWire](https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104))</p>",
+      "date_published": "2026-10-18T23:45:00-04:00",
+      "date_modified": "2026-10-18T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "PredictIt",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104",
+      "links": [
+        "https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104"
+      ],
+      "timestamp": "Oct 18, 2026 · 11:45 PM ET",
+      "body": "- **NBER study finds no systematic political bias in election prediction market prices, RotoWire reports** — An October 2026 NBER working paper by Eric Zitzewitz analyzed what the author believes is the largest sample of election prediction markets ever assembled, spanning 1880 to 2025 and covering venues including the Iowa Electronic Markets, Intrade, PredictIt, Betfair, and Kalshi. The full-sample estimate of partisan bias was essentially zero, and no robustness check showed a statistically significant tilt. ([RotoWire](https://www.rotowire.com/article/prediction-markets-go-back-to-future-with-election-trades-139104))",
+      "image_url": null,
+      "published": "2026-10-18T23:45:00-04:00",
+      "source": "2026-10-18_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-18_2345-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_2345-edt-4",
+      "title": "Polymarket traders assign 78 percent odds to an arrest in the Nancy Guthrie case, BitRss reports",
+      "content_text": "- **Polymarket traders assign 78 percent odds to an arrest in the Nancy Guthrie case, BitRss reports** — Polymarket traders have assigned 78 percent odds to an arrest in the Nancy Guthrie case after a Bitcoin wallet referenced in a ransom note sent to media outlets following her disappearance showed activity for the first time. The market has prompted ethical concerns over speculation tied to an active investigation. ([BitRss](https://bitrss.com/polymarket-traders-assign-78-odds-to-arrest-in-nancy-guthrie-case-as-new-clues-emerge-182586))",
+      "content_html": "<p>- **Polymarket traders assign 78 percent odds to an arrest in the Nancy Guthrie case, BitRss reports** — Polymarket traders have assigned 78 percent odds to an arrest in the Nancy Guthrie case after a Bitcoin wallet referenced in a ransom note sent to media outlets following her disappearance showed activity for the first time. The market has prompted ethical concerns over speculation tied to an active investigation. ([BitRss](https://bitrss.com/polymarket-traders-assign-78-odds-to-arrest-in-nancy-guthrie-case-as-new-clues-emerge-182586))</p>",
+      "date_published": "2026-10-18T23:45:00-04:00",
+      "date_modified": "2026-10-18T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/polymarket-traders-assign-78-odds-to-arrest-in-nancy-guthrie-case-as-new-clues-emerge-182586",
+      "links": [
+        "https://bitrss.com/polymarket-traders-assign-78-odds-to-arrest-in-nancy-guthrie-case-as-new-clues-emerge-182586"
+      ],
+      "timestamp": "Oct 18, 2026 · 11:45 PM ET",
+      "body": "- **Polymarket traders assign 78 percent odds to an arrest in the Nancy Guthrie case, BitRss reports** — Polymarket traders have assigned 78 percent odds to an arrest in the Nancy Guthrie case after a Bitcoin wallet referenced in a ransom note sent to media outlets following her disappearance showed activity for the first time. The market has prompted ethical concerns over speculation tied to an active investigation. ([BitRss](https://bitrss.com/polymarket-traders-assign-78-odds-to-arrest-in-nancy-guthrie-case-as-new-clues-emerge-182586))",
+      "image_url": null,
+      "published": "2026-10-18T23:45:00-04:00",
+      "source": "2026-10-18_2345-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-18_2324-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_2324-edt",
@@ -4553,194 +4733,6 @@
       "image_url": null,
       "published": "2026-10-18T10:30:00-04:00",
       "source": "2026-10-18_1030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-18_1024-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_1024-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nOpenAI's valuation hit (HIGH) $1.25T by December 31 priced at 66% on Polymarket, up 3 points, on $122K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already carried today: the $750M / $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTatiana Prozorova wins priced at 1% on Kalshi, on $1.7M traded\nPredictionBubbles' most-active board lists the Prozorova contract among the day's most-traded markets, with opponent Kamilla Rakhimova priced at 99% on $1.5M traded on…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>OpenAI&#x27;s valuation hit (HIGH) $1.25T by December 31 priced at 66% on Polymarket, up 3 points, on $122K traded<br/>Quiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already carried today: the $750M / $220M…<br/>#PredictionMarkets #Polymarket #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Tatiana Prozorova wins priced at 1% on Kalshi, on $1.7M traded<br/>PredictionBubbles&#x27; most-active board lists the Prozorova contract among the day&#x27;s most-traded markets, with opponent Kamilla Rakhimova priced at 99% on $1.5M traded on…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-18T10:24:00-04:00",
-      "date_modified": "2026-10-18T10:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Midterms",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 18, 2026 · 10:24 AM ET",
-      "body": "Infiniti Briefing\n\nOpenAI's valuation hit (HIGH) $1.25T by December 31 priced at 66% on Polymarket, up 3 points, on $122K traded\nQuiet quarter-hour — no significant new platform headline in the last 15 minutes (news search surfaced only recirculated items already carried today: the $750M / $220M…\n#PredictionMarkets #Polymarket #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nTatiana Prozorova wins priced at 1% on Kalshi, on $1.7M traded\nPredictionBubbles' most-active board lists the Prozorova contract among the day's most-traded markets, with opponent Kamilla Rakhimova priced at 99% on $1.5M traded on…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-18T10:24:00-04:00",
-      "source": "2026-10-18_1024-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1015-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1015-edt-0",
-      "title": "Polymarket prices Flavio Bolsonaro at 81 percent against Lula at 20 percent in Brazil runoff market with 186.8 million dollars traded",
-      "content_text": "- **Polymarket prices Flavio Bolsonaro at 81 percent against Lula at 20 percent in Brazil runoff market with 186.8 million dollars traded** — RG reports the Brazil presidential runoff market has traded 186.8 million dollars ahead of the October 25 vote, with Flavio Bolsonaro at 81 percent and Lula at 20 percent, up from a 77 to 23 split on Friday night despite tight polls. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-bolsonaro-lula-hyperliquid-super-bowl-october-18-2026))",
-      "content_html": "<p>- **Polymarket prices Flavio Bolsonaro at 81 percent against Lula at 20 percent in Brazil runoff market with 186.8 million dollars traded** — RG reports the Brazil presidential runoff market has traded 186.8 million dollars ahead of the October 25 vote, with Flavio Bolsonaro at 81 percent and Lula at 20 percent, up from a 77 to 23 split on Friday night despite tight polls. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-bolsonaro-lula-hyperliquid-super-bowl-october-18-2026))</p>",
-      "date_published": "2026-10-18T10:15:00-04:00",
-      "date_modified": "2026-10-18T10:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-bolsonaro-lula-hyperliquid-super-bowl-october-18-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-bolsonaro-lula-hyperliquid-super-bowl-october-18-2026"
-      ],
-      "timestamp": "Oct 18, 2026 · 10:15 AM ET",
-      "body": "- **Polymarket prices Flavio Bolsonaro at 81 percent against Lula at 20 percent in Brazil runoff market with 186.8 million dollars traded** — RG reports the Brazil presidential runoff market has traded 186.8 million dollars ahead of the October 25 vote, with Flavio Bolsonaro at 81 percent and Lula at 20 percent, up from a 77 to 23 split on Friday night despite tight polls. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-brazil-runoff-bolsonaro-lula-hyperliquid-super-bowl-october-18-2026))",
-      "image_url": null,
-      "published": "2026-10-18T10:15:00-04:00",
-      "source": "2026-10-18_1015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1015-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1015-edt-1",
-      "title": "Trump prediction markets generate roughly 200 to 300 million dollars per week across Kalshi and Polymarket",
-      "content_text": "- **Trump prediction markets generate roughly 200 to 300 million dollars per week across Kalshi and Polymarket** — DeFi Rate data as of October 18 at 7:30 AM ET shows Trump-related contracts generating roughly 200 to 300 million dollars per week, with sports at 704 million dollars in 24 hours, crypto at 171 million dollars, and politics at 7.5 million dollars across tracked platforms. ([DeFi Rate](https://defirate.com/odds/trump/))",
-      "content_html": "<p>- **Trump prediction markets generate roughly 200 to 300 million dollars per week across Kalshi and Polymarket** — DeFi Rate data as of October 18 at 7:30 AM ET shows Trump-related contracts generating roughly 200 to 300 million dollars per week, with sports at 704 million dollars in 24 hours, crypto at 171 million dollars, and politics at 7.5 million dollars across tracked platforms. ([DeFi Rate](https://defirate.com/odds/trump/))</p>",
-      "date_published": "2026-10-18T10:15:00-04:00",
-      "date_modified": "2026-10-18T10:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/trump/",
-      "links": [
-        "https://defirate.com/odds/trump/"
-      ],
-      "timestamp": "Oct 18, 2026 · 10:15 AM ET",
-      "body": "- **Trump prediction markets generate roughly 200 to 300 million dollars per week across Kalshi and Polymarket** — DeFi Rate data as of October 18 at 7:30 AM ET shows Trump-related contracts generating roughly 200 to 300 million dollars per week, with sports at 704 million dollars in 24 hours, crypto at 171 million dollars, and politics at 7.5 million dollars across tracked platforms. ([DeFi Rate](https://defirate.com/odds/trump/))",
-      "image_url": null,
-      "published": "2026-10-18T10:15:00-04:00",
-      "source": "2026-10-18_1015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-18_1009-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-18_1009-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nComo wins priced at 86% on Kalshi, up 39 points, on $861K traded\nComo is the day's second-biggest upward move on PredictionBubbles' movers board.\n#Soccer #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nManchester United wins priced at 60% on Kalshi, up 27 points, on $1.1M traded\nManchester United is the day's third-biggest upward move.\n#Soccer #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nNebius Group be acquired before 2027 priced at 2.4% on Polymarket, on $8.0M traded\nNebius ranks among the most-traded finance markets on PredictionBubbles.\n#Finance #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: WTI Oct $95 low 58.5% | ETH Oct $2,500 62.5%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Como wins priced at 86% on Kalshi, up 39 points, on $861K traded<br/>Como is the day&#x27;s second-biggest upward move on PredictionBubbles&#x27; movers board.<br/>#Soccer #PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Manchester United wins priced at 60% on Kalshi, up 27 points, on $1.1M traded<br/>Manchester United is the day&#x27;s third-biggest upward move.<br/>#Soccer #PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Nebius Group be acquired before 2027 priced at 2.4% on Polymarket, on $8.0M traded<br/>Nebius ranks among the most-traded finance markets on PredictionBubbles.<br/>#Finance #PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Markets: WTI Oct $95 low 58.5% | ETH Oct $2,500 62.5%<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-18_1009-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-18T10:09:00-04:00",
-      "date_modified": "2026-10-18T10:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Soccer",
-        "PredictionMarkets",
-        "Kalshi",
-        "Finance",
-        "Polymarket"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-18_1009-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/",
-        "https://predictionbubbles.net/markets/finance/"
-      ],
-      "timestamp": "Oct 18, 2026 · 10:09 AM ET",
-      "body": "Infiniti Briefing\nComo wins priced at 86% on Kalshi, up 39 points, on $861K traded\nComo is the day's second-biggest upward move on PredictionBubbles' movers board.\n#Soccer #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nManchester United wins priced at 60% on Kalshi, up 27 points, on $1.1M traded\nManchester United is the day's third-biggest upward move.\n#Soccer #PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nNebius Group be acquired before 2027 priced at 2.4% on Polymarket, on $8.0M traded\nNebius ranks among the most-traded finance markets on PredictionBubbles.\n#Finance #PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: WTI Oct $95 low 58.5% | ETH Oct $2,500 62.5%\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-18_1009-edt.jpg",
-      "published": "2026-10-18T10:09:00-04:00",
-      "source": "2026-10-18_1009-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-18_1000-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1000-edt-0",
-      "title": "Kalshi commodities volume reaches 640.2 million dollars in October 2026, led by gold 15-minute markets",
-      "content_text": "- **Kalshi commodities volume reaches 640.2 million dollars in October 2026, led by gold 15-minute markets** — Ticker Tracker puts Kalshi commodities trading at 640.2 million dollars so far in October 2026 and 1.09 billion dollars over the last 30 days. Gold 15-minute markets led the last seven days at 187.4 million dollars, ahead of WTI 15-minute markets at 54.8 million dollars, and the category's biggest single day was September 29 at 61.7 million dollars. ([Ticker Tracker](https://ticker-tracker.com/kalshi/volume/commodities))",
-      "content_html": "<p>- **Kalshi commodities volume reaches 640.2 million dollars in October 2026, led by gold 15-minute markets** — Ticker Tracker puts Kalshi commodities trading at 640.2 million dollars so far in October 2026 and 1.09 billion dollars over the last 30 days. Gold 15-minute markets led the last seven days at 187.4 million dollars, ahead of WTI 15-minute markets at 54.8 million dollars, and the category&#x27;s biggest single day was September 29 at 61.7 million dollars. ([Ticker Tracker](https://ticker-tracker.com/kalshi/volume/commodities))</p>",
-      "date_published": "2026-10-18T10:00:00-04:00",
-      "date_modified": "2026-10-18T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Gold",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://ticker-tracker.com/kalshi/volume/commodities",
-      "links": [
-        "https://ticker-tracker.com/kalshi/volume/commodities"
-      ],
-      "timestamp": "Oct 18, 2026 · 10:00 AM ET",
-      "body": "- **Kalshi commodities volume reaches 640.2 million dollars in October 2026, led by gold 15-minute markets** — Ticker Tracker puts Kalshi commodities trading at 640.2 million dollars so far in October 2026 and 1.09 billion dollars over the last 30 days. Gold 15-minute markets led the last seven days at 187.4 million dollars, ahead of WTI 15-minute markets at 54.8 million dollars, and the category's biggest single day was September 29 at 61.7 million dollars. ([Ticker Tracker](https://ticker-tracker.com/kalshi/volume/commodities))",
-      "image_url": null,
-      "published": "2026-10-18T10:00:00-04:00",
-      "source": "2026-10-18_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-18_1000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-18_1000-edt-1",
-      "title": "FantasyAlarm lists OG, Polymarket, Kalshi, ProphetX and Splash Market as top prediction market apps for NFL Week 6",
-      "content_text": "- **FantasyAlarm lists OG, Polymarket, Kalshi, ProphetX and Splash Market as top prediction market apps for NFL Week 6** — FantasyAlarm's NFL Week 6 roundup, published October 18, names OG, Polymarket, Kalshi, ProphetX and Splash Market as its top prediction market apps, noting the first four operate CFTC-regulated exchanges while Splash Market is a CFTC-registered introducing broker whose prediction market trades run through Polymarket US. The five cover Week 6 contracts from the London game through Monday's Commanders at 49ers matchup. ([FantasyAlarm](https://www.fantasyalarm.com/articles/promotions/best-prediction-market-apps-sites-nfl-week-6-bonuses-promo-codes/197076))",
-      "content_html": "<p>- **FantasyAlarm lists OG, Polymarket, Kalshi, ProphetX and Splash Market as top prediction market apps for NFL Week 6** — FantasyAlarm&#x27;s NFL Week 6 roundup, published October 18, names OG, Polymarket, Kalshi, ProphetX and Splash Market as its top prediction market apps, noting the first four operate CFTC-regulated exchanges while Splash Market is a CFTC-registered introducing broker whose prediction market trades run through Polymarket US. The five cover Week 6 contracts from the London game through Monday&#x27;s Commanders at 49ers matchup. ([FantasyAlarm](https://www.fantasyalarm.com/articles/promotions/best-prediction-market-apps-sites-nfl-week-6-bonuses-promo-codes/197076))</p>",
-      "date_published": "2026-10-18T10:00:00-04:00",
-      "date_modified": "2026-10-18T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.fantasyalarm.com/articles/promotions/best-prediction-market-apps-sites-nfl-week-6-bonuses-promo-codes/197076",
-      "links": [
-        "https://www.fantasyalarm.com/articles/promotions/best-prediction-market-apps-sites-nfl-week-6-bonuses-promo-codes/197076"
-      ],
-      "timestamp": "Oct 18, 2026 · 10:00 AM ET",
-      "body": "- **FantasyAlarm lists OG, Polymarket, Kalshi, ProphetX and Splash Market as top prediction market apps for NFL Week 6** — FantasyAlarm's NFL Week 6 roundup, published October 18, names OG, Polymarket, Kalshi, ProphetX and Splash Market as its top prediction market apps, noting the first four operate CFTC-regulated exchanges while Splash Market is a CFTC-registered introducing broker whose prediction market trades run through Polymarket US. The five cover Week 6 contracts from the London game through Monday's Commanders at 49ers matchup. ([FantasyAlarm](https://www.fantasyalarm.com/articles/promotions/best-prediction-market-apps-sites-nfl-week-6-bonuses-promo-codes/197076))",
-      "image_url": null,
-      "published": "2026-10-18T10:00:00-04:00",
-      "source": "2026-10-18_1000-edt.json",
       "matches_facebook_post": false
     }
   ]
