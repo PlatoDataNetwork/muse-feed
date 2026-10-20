@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-20T16:04:29.156949-04:00",
+  "updated": "2026-10-20T16:21:22.748840-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,66 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-20_1615-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-20_1615-edt-0",
+      "title": "Polymarket US volume hits 8.7 billion dollars in September, up about 30 times since January, The Block reports",
+      "content_text": "- **Polymarket US volume hits 8.7 billion dollars in September, up about 30 times since January, The Block reports** — The Block reported on October 20 that Polymarket US, the CFTC-regulated exchange, grew from about 280 million dollars in January volume to 8.7 billion dollars in September, roughly 30 times bigger in eight months and more than double the international platform, with sports driving almost all of it. The episode also noted Coinbase now carries Kalshi in its main US app and Polymarket in its wallet for non-US users. ([The Block](https://www.theblock.co/podcasts/prediction-market-news/2026-10-20-polymarket-us-hits-8-7b-plus-coinbase-and-roundtable-on-paying-media-in-minutes-421441))",
+      "content_html": "<p>- **Polymarket US volume hits 8.7 billion dollars in September, up about 30 times since January, The Block reports** — The Block reported on October 20 that Polymarket US, the CFTC-regulated exchange, grew from about 280 million dollars in January volume to 8.7 billion dollars in September, roughly 30 times bigger in eight months and more than double the international platform, with sports driving almost all of it. The episode also noted Coinbase now carries Kalshi in its main US app and Polymarket in its wallet for non-US users. ([The Block](https://www.theblock.co/podcasts/prediction-market-news/2026-10-20-polymarket-us-hits-8-7b-plus-coinbase-and-roundtable-on-paying-media-in-minutes-421441))</p>",
+      "date_published": "2026-10-20T16:15:00-04:00",
+      "date_modified": "2026-10-20T16:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.theblock.co/podcasts/prediction-market-news/2026-10-20-polymarket-us-hits-8-7b-plus-coinbase-and-roundtable-on-paying-media-in-minutes-421441",
+      "links": [
+        "https://www.theblock.co/podcasts/prediction-market-news/2026-10-20-polymarket-us-hits-8-7b-plus-coinbase-and-roundtable-on-paying-media-in-minutes-421441"
+      ],
+      "timestamp": "Oct 20, 2026 · 4:15 PM ET",
+      "body": "- **Polymarket US volume hits 8.7 billion dollars in September, up about 30 times since January, The Block reports** — The Block reported on October 20 that Polymarket US, the CFTC-regulated exchange, grew from about 280 million dollars in January volume to 8.7 billion dollars in September, roughly 30 times bigger in eight months and more than double the international platform, with sports driving almost all of it. The episode also noted Coinbase now carries Kalshi in its main US app and Polymarket in its wallet for non-US users. ([The Block](https://www.theblock.co/podcasts/prediction-market-news/2026-10-20-polymarket-us-hits-8-7b-plus-coinbase-and-roundtable-on-paying-media-in-minutes-421441))",
+      "image_url": null,
+      "published": "2026-10-20T16:15:00-04:00",
+      "source": "2026-10-20_1615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-20_1615-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-20_1615-edt-1",
+      "title": "Four tribes launch prediction apps in partnership with Kalshi, including three California tribes, BankB.it reports",
+      "content_text": "- **Four tribes launch prediction apps in partnership with Kalshi, including three California tribes, BankB.it reports** — Four tribes from California and Oklahoma launched prediction apps in partnership with Kalshi on Tuesday, BankB.it reports, citing a Kalshi press release shared with Fortune. The Alabama-Quassarte Tribal Town launched PokkeTrades, while the Kletsel Dehe Wintun Nation introduced Sovereign Edge, Greenville Rancheria launched Greenville, and Alturas Indian Rancheria launched AIR Markets, with each tribe owning its app and controlling its brand. ([BankB.it](https://bankb.it/four-tribes-partner-with-kalshi-to-launch-prediction-apps-a-move-that-undercuts-native-american-oppo-211911))",
+      "content_html": "<p>- **Four tribes launch prediction apps in partnership with Kalshi, including three California tribes, BankB.it reports** — Four tribes from California and Oklahoma launched prediction apps in partnership with Kalshi on Tuesday, BankB.it reports, citing a Kalshi press release shared with Fortune. The Alabama-Quassarte Tribal Town launched PokkeTrades, while the Kletsel Dehe Wintun Nation introduced Sovereign Edge, Greenville Rancheria launched Greenville, and Alturas Indian Rancheria launched AIR Markets, with each tribe owning its app and controlling its brand. ([BankB.it](https://bankb.it/four-tribes-partner-with-kalshi-to-launch-prediction-apps-a-move-that-undercuts-native-american-oppo-211911))</p>",
+      "date_published": "2026-10-20T16:15:00-04:00",
+      "date_modified": "2026-10-20T16:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://bankb.it/four-tribes-partner-with-kalshi-to-launch-prediction-apps-a-move-that-undercuts-native-american-oppo-211911",
+      "links": [
+        "https://bankb.it/four-tribes-partner-with-kalshi-to-launch-prediction-apps-a-move-that-undercuts-native-american-oppo-211911"
+      ],
+      "timestamp": "Oct 20, 2026 · 4:15 PM ET",
+      "body": "- **Four tribes launch prediction apps in partnership with Kalshi, including three California tribes, BankB.it reports** — Four tribes from California and Oklahoma launched prediction apps in partnership with Kalshi on Tuesday, BankB.it reports, citing a Kalshi press release shared with Fortune. The Alabama-Quassarte Tribal Town launched PokkeTrades, while the Kletsel Dehe Wintun Nation introduced Sovereign Edge, Greenville Rancheria launched Greenville, and Alturas Indian Rancheria launched AIR Markets, with each tribe owning its app and controlling its brand. ([BankB.it](https://bankb.it/four-tribes-partner-with-kalshi-to-launch-prediction-apps-a-move-that-undercuts-native-american-oppo-211911))",
+      "image_url": null,
+      "published": "2026-10-20T16:15:00-04:00",
+      "source": "2026-10-20_1615-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-20_1554-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-20_1554-edt",
@@ -314,8 +374,8 @@
       "id": "infiniti-2026-10-20_1524-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-20_1524-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBitcoin dip to $80,000 in October priced at 54.5% on Polymarket, down 12 points, on $120K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items today, including…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nRussia-Ukraine peace talks by December 31, 2026 priced at 51.5% on Polymarket, up 18 points, on $382K traded\nPredictionBubbles' movers board lists the year-end peace-talks contract among its biggest upward political moves, in a political/election category distinct from the lead…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin dip to $80,000 in October priced at 54.5% on Polymarket, down 12 points, on $120K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items today, including…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Russia-Ukraine peace talks by December 31, 2026 priced at 51.5% on Polymarket, up 18 points, on $382K traded<br/>PredictionBubbles&#x27; movers board lists the year-end peace-talks contract among its biggest upward political moves, in a political/election category distinct from the lead…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nBitcoin dip to $80,000 in October priced at 54.5% on Polymarket\nDown 12 points on $120K traded, biggest crypto move of the day.\n#Crypto #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nRussia-Ukraine peace talks by December 31, 2026 priced at 51.5% on Polymarket\nUp 18 points on $382K traded.\n#Politics #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nLuca Van Assche wins priced at 99.0% on Kalshi\nUp 37 points on $703K traded, biggest upward sports move.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/sports/\n\nMarkets: DOGE 15M 4.3M, 50% up | ZEC 15M 3.0M, 50% up | BTC 15M 298.4M, 47% up\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Bitcoin dip to $80,000 in October priced at 54.5% on Polymarket<br/>Down 12 points on $120K traded, biggest crypto move of the day.<br/>#Crypto #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Russia-Ukraine peace talks by December 31, 2026 priced at 51.5% on Polymarket<br/>Up 18 points on $382K traded.<br/>#Politics #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Luca Van Assche wins priced at 99.0% on Kalshi<br/>Up 37 points on $703K traded, biggest upward sports move.<br/>#Sports #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Markets: DOGE 15M 4.3M, 50% up | ZEC 15M 3.0M, 50% up | BTC 15M 298.4M, 47% up<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-20_1524-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-20T15:24:00-04:00",
       "date_modified": "2026-10-20T15:24:00-04:00",
       "authors": [
@@ -325,23 +385,25 @@
         }
       ],
       "tags": [
-        "PredictionMarkets",
-        "Kalshi",
+        "Crypto",
         "Polymarket",
-        "Bitcoin",
-        "Elections"
+        "PredictionMarkets",
+        "Politics",
+        "Sports",
+        "Kalshi"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-20_1524-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/movers/",
       "links": [
-        "https://predictionbubbles.net/markets/movers/"
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/sports/"
       ],
       "timestamp": "Oct 20, 2026 · 3:24 PM ET",
-      "body": "Infiniti Briefing\n\nBitcoin dip to $80,000 in October priced at 54.5% on Polymarket, down 12 points, on $120K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items today, including…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nRussia-Ukraine peace talks by December 31, 2026 priced at 51.5% on Polymarket, up 18 points, on $382K traded\nPredictionBubbles' movers board lists the year-end peace-talks contract among its biggest upward political moves, in a political/election category distinct from the lead…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nBitcoin dip to $80,000 in October priced at 54.5% on Polymarket\nDown 12 points on $120K traded, biggest crypto move of the day.\n#Crypto #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nRussia-Ukraine peace talks by December 31, 2026 priced at 51.5% on Polymarket\nUp 18 points on $382K traded.\n#Politics #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nLuca Van Assche wins priced at 99.0% on Kalshi\nUp 37 points on $703K traded, biggest upward sports move.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/sports/\n\nMarkets: DOGE 15M 4.3M, 50% up | ZEC 15M 3.0M, 50% up | BTC 15M 298.4M, 47% up\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-20_1524-edt.jpg",
       "published": "2026-10-20T15:24:00-04:00",
       "source": "2026-10-20_1524-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-20_1515-edt-0",
@@ -4624,67 +4686,6 @@
       "image_url": null,
       "published": "2026-10-20T02:15:00-04:00",
       "source": "2026-10-20_0215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-20_0215-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-20_0215-edt-4",
-      "title": "OpenAI release Astra 6.1 before November 6, 2026 priced at 32 percent on Kalshi after 4 point rise on 61,000 dollars traded, PredictionBubbles movers show",
-      "content_text": "- **OpenAI release Astra 6.1 before November 6, 2026 priced at 32 percent on Kalshi after 4 point rise on 61,000 dollars traded, PredictionBubbles movers show** — PredictionBubbles, read October 20 at 05:36 UTC, lists the OpenAI release Astra 6.1 before November 6, 2026 market up 4.0 points to 32.0 percent on Kalshi with 61,000 dollars in volume. The contract has not been carried in any briefing or website item in October, and it is distinct from the November 13 release tenor carried on October 19. ([PredictionBubbles](https://predictionbubbles.net/markets/movers/))",
-      "content_html": "<p>- **OpenAI release Astra 6.1 before November 6, 2026 priced at 32 percent on Kalshi after 4 point rise on 61,000 dollars traded, PredictionBubbles movers show** — PredictionBubbles, read October 20 at 05:36 UTC, lists the OpenAI release Astra 6.1 before November 6, 2026 market up 4.0 points to 32.0 percent on Kalshi with 61,000 dollars in volume. The contract has not been carried in any briefing or website item in October, and it is distinct from the November 13 release tenor carried on October 19. ([PredictionBubbles](https://predictionbubbles.net/markets/movers/))</p>",
-      "date_published": "2026-10-20T02:15:00-04:00",
-      "date_modified": "2026-10-20T02:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 20, 2026 · 2:15 AM ET",
-      "body": "- **OpenAI release Astra 6.1 before November 6, 2026 priced at 32 percent on Kalshi after 4 point rise on 61,000 dollars traded, PredictionBubbles movers show** — PredictionBubbles, read October 20 at 05:36 UTC, lists the OpenAI release Astra 6.1 before November 6, 2026 market up 4.0 points to 32.0 percent on Kalshi with 61,000 dollars in volume. The contract has not been carried in any briefing or website item in October, and it is distinct from the November 13 release tenor carried on October 19. ([PredictionBubbles](https://predictionbubbles.net/markets/movers/))",
-      "image_url": null,
-      "published": "2026-10-20T02:15:00-04:00",
-      "source": "2026-10-20_0215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-20_0154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-20_0154-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nOpenAI IPO closing market cap above $1T priced at 69.5% on Polymarket, down 8.5 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items on Oct. 19-20,…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nManchester City win the English Premier League priced at 19.0% on Kalshi, down 5 points, on $756K traded\nPredictionBubbles' movers board lists the Manchester City title contract among its downward sports moves, in a sports markets category distinct from the lead — it has…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>OpenAI IPO closing market cap above $1T priced at 69.5% on Polymarket, down 8.5 points, on $1.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items on Oct. 19-20,…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Manchester City win the English Premier League priced at 19.0% on Kalshi, down 5 points, on $756K traded<br/>PredictionBubbles&#x27; movers board lists the Manchester City title contract among its downward sports moves, in a sports markets category distinct from the lead — it has…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-20T01:54:00-04:00",
-      "date_modified": "2026-10-20T01:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 20, 2026 · 1:54 AM ET",
-      "body": "Infiniti Briefing\n\nOpenAI IPO closing market cap above $1T priced at 69.5% on Polymarket, down 8.5 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items on Oct. 19-20,…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nManchester City win the English Premier League priced at 19.0% on Kalshi, down 5 points, on $756K traded\nPredictionBubbles' movers board lists the Manchester City title contract among its downward sports moves, in a sports markets category distinct from the lead — it has…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-20T01:54:00-04:00",
-      "source": "2026-10-20_0154-edt.md",
       "matches_facebook_post": false
     }
   ]
