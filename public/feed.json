@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-21T15:10:46.497906-04:00",
+  "updated": "2026-10-21T15:28:43.133249-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-21_1524-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-21_1524-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nUS strike on Colombia by December 31 priced at 28.5% on Polymarket, up 6 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items, including the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nGalatasaray wins priced at 94.0% on Kalshi, up 63 points, on $1.2M traded\nPredictionBubbles' movers board lists the Galatasaray win contract as its biggest upward move overall, in a sports markets category distinct from the lead — the win…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>US strike on Colombia by December 31 priced at 28.5% on Polymarket, up 6 points, on $1.2M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items, including the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Galatasaray wins priced at 94.0% on Kalshi, up 63 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board lists the Galatasaray win contract as its biggest upward move overall, in a sports markets category distinct from the lead — the win…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-21T15:24:00-04:00",
+      "date_modified": "2026-10-21T15:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 21, 2026 · 3:24 PM ET",
+      "body": "Infiniti Briefing\n\nUS strike on Colombia by December 31 priced at 28.5% on Polymarket, up 6 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items, including the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nGalatasaray wins priced at 94.0% on Kalshi, up 63 points, on $1.2M traded\nPredictionBubbles' movers board lists the Galatasaray win contract as its biggest upward move overall, in a sports markets category distinct from the lead — the win…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-21T15:24:00-04:00",
+      "source": "2026-10-21_1524-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-21_1454-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-21_1454-edt",
@@ -4667,37 +4698,6 @@
       ],
       "timestamp": "Oct 20, 2026 · 11:45 PM ET",
       "body": "- **Prediction markets favor Democrats in Michigan midterms with El-Sayed at 68 percent for Senate and Benson at 93 percent for governor, Lansing State Journal reports** — With two weeks until Election Day, Polymarket prices Democrat Abdul El-Sayed at 68 percent in the Michigan Senate race and Jocelyn Benson at 93 percent for governor, while a constitutional convention proposal sits at 10 percent. ([Lansing State Journal](https://www.lansingstatejournal.com/story/news/politics/2026/10/20/polymarket-kalshi-michigan-senate-house-election-midterm-odds/92346964007/))",
-      "image_url": null,
-      "published": "2026-10-20T23:45:00-04:00",
-      "source": "2026-10-20_2345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-20_2345-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-20_2345-edt-3",
-      "title": "New York files lawsuit against Polymarket domestic branch as state illegal gambling cases reach four platforms, Engadget reports",
-      "content_text": "- **New York files lawsuit against Polymarket domestic branch as state illegal gambling cases reach four platforms, Engadget reports** — Attorney General Letitia James and Governor Kathy Hochul seek a court order stopping Polymarket from operating as an unlicensed gambling business in New York, joining existing state cases against Kalshi, Coinbase Financial Markets and Gemini Titan while the CFTC asserts sole federal jurisdiction. ([Engadget](https://www.engadget.com/2268006/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/))",
-      "content_html": "<p>- **New York files lawsuit against Polymarket domestic branch as state illegal gambling cases reach four platforms, Engadget reports** — Attorney General Letitia James and Governor Kathy Hochul seek a court order stopping Polymarket from operating as an unlicensed gambling business in New York, joining existing state cases against Kalshi, Coinbase Financial Markets and Gemini Titan while the CFTC asserts sole federal jurisdiction. ([Engadget](https://www.engadget.com/2268006/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/))</p>",
-      "date_published": "2026-10-20T23:45:00-04:00",
-      "date_modified": "2026-10-20T23:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://www.engadget.com/2268006/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/",
-      "links": [
-        "https://www.engadget.com/2268006/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/"
-      ],
-      "timestamp": "Oct 20, 2026 · 11:45 PM ET",
-      "body": "- **New York files lawsuit against Polymarket domestic branch as state illegal gambling cases reach four platforms, Engadget reports** — Attorney General Letitia James and Governor Kathy Hochul seek a court order stopping Polymarket from operating as an unlicensed gambling business in New York, joining existing state cases against Kalshi, Coinbase Financial Markets and Gemini Titan while the CFTC asserts sole federal jurisdiction. ([Engadget](https://www.engadget.com/2268006/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/))",
       "image_url": null,
       "published": "2026-10-20T23:45:00-04:00",
       "source": "2026-10-20_2345-edt.json",
