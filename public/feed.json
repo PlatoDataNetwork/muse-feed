@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-20T21:15:56.598597-04:00",
+  "updated": "2026-10-20T21:40:02.290236-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-20_2124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-20_2124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nEthereum dip to $2,200 in October priced at 19.5% on Polymarket, down 16 points, on $103K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items today, including…\n#PredictionMarkets #Polymarket #CFTC #Ethereum\nhttps://predictionbubbles.net/markets/movers/\n\nYanaki Milev wins priced at 67.0% on Kalshi, up 21 points, on $1.2M traded\nPredictionBubbles' movers board lists the Milev win contract among its biggest upward sports moves, in a sports markets category distinct from the lead — the contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Ethereum dip to $2,200 in October priced at 19.5% on Polymarket, down 16 points, on $103K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items today, including…<br/>#PredictionMarkets #Polymarket #CFTC #Ethereum<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Yanaki Milev wins priced at 67.0% on Kalshi, up 21 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board lists the Milev win contract among its biggest upward sports moves, in a sports markets category distinct from the lead — the contract…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-20T21:24:00-04:00",
+      "date_modified": "2026-10-20T21:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Ethereum",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 20, 2026 · 9:24 PM ET",
+      "body": "Infiniti Briefing\n\nEthereum dip to $2,200 in October priced at 19.5% on Polymarket, down 16 points, on $103K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items today, including…\n#PredictionMarkets #Polymarket #CFTC #Ethereum\nhttps://predictionbubbles.net/markets/movers/\n\nYanaki Milev wins priced at 67.0% on Kalshi, up 21 points, on $1.2M traded\nPredictionBubbles' movers board lists the Milev win contract among its biggest upward sports moves, in a sports markets category distinct from the lead — the contract…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-20T21:24:00-04:00",
+      "source": "2026-10-20_2124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-20_2115-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-20_2115-edt-0",
@@ -4678,36 +4711,6 @@
       ],
       "timestamp": "Oct 20, 2026 · 6:45 AM ET",
       "body": "- **Rays priced at 39 percent on Kalshi in World Series matchup against Brewers, SportsBettingDime reports** — SportsBettingDime reports Tampa Bay is priced at 39 cents on Kalshi, a 39 percent implied probability, in its World Series matchup against Milwaukee. The report notes stealing one of the first two games in Milwaukee would flip home-field advantage to Tampa Bay, where the Rays are 5-1 this postseason. ([SportsBettingDime](https://www.sportsbettingdime.com/news/mlb/rays-vs-brewers-world-series-odds-schedule-expert-pick/))",
-      "image_url": null,
-      "published": "2026-10-20T06:45:00-04:00",
-      "source": "2026-10-20_0645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-20_0645-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-20_0645-edt-3",
-      "title": "Bitcoin above 80,000 dollars on October 20 priced at 96.9 percent on Polymarket, The Agent Times reports",
-      "content_text": "- **Bitcoin above 80,000 dollars on October 20 priced at 96.9 percent on Polymarket, The Agent Times reports** — The Agent Times reports Bitcoin closed near 81,983 dollars with a 24-hour decline near one percent in its October 20 snapshot at 05:00 UTC. Polymarket priced Bitcoin above 80,000 dollars on October 20 at 96.9 percent and Bitcoin reaching 87,500 dollars in October at 30.5 percent, with 75,744 dollars in 24-hour volume on that contract. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-20-0500-utc))",
-      "content_html": "<p>- **Bitcoin above 80,000 dollars on October 20 priced at 96.9 percent on Polymarket, The Agent Times reports** — The Agent Times reports Bitcoin closed near 81,983 dollars with a 24-hour decline near one percent in its October 20 snapshot at 05:00 UTC. Polymarket priced Bitcoin above 80,000 dollars on October 20 at 96.9 percent and Bitcoin reaching 87,500 dollars in October at 30.5 percent, with 75,744 dollars in 24-hour volume on that contract. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-20-0500-utc))</p>",
-      "date_published": "2026-10-20T06:45:00-04:00",
-      "date_modified": "2026-10-20T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://theagenttimes.com/articles/btc-market-pulse-2026-10-20-0500-utc",
-      "links": [
-        "https://theagenttimes.com/articles/btc-market-pulse-2026-10-20-0500-utc"
-      ],
-      "timestamp": "Oct 20, 2026 · 6:45 AM ET",
-      "body": "- **Bitcoin above 80,000 dollars on October 20 priced at 96.9 percent on Polymarket, The Agent Times reports** — The Agent Times reports Bitcoin closed near 81,983 dollars with a 24-hour decline near one percent in its October 20 snapshot at 05:00 UTC. Polymarket priced Bitcoin above 80,000 dollars on October 20 at 96.9 percent and Bitcoin reaching 87,500 dollars in October at 30.5 percent, with 75,744 dollars in 24-hour volume on that contract. ([The Agent Times](https://theagenttimes.com/articles/btc-market-pulse-2026-10-20-0500-utc))",
       "image_url": null,
       "published": "2026-10-20T06:45:00-04:00",
       "source": "2026-10-20_0645-edt.json",
