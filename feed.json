@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-22T17:17:27.030877-04:00",
+  "updated": "2026-10-22T17:28:58.987703-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-22_1724-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_1724-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNo one announced as next James Bond priced at 18.8% on Polymarket, down 6.8 points, on $598K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, banned or taken by website-only items today, including…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nHoffenheim wins priced at 97.0% on Kalshi, up 49 points, on $875K traded\nPredictionBubbles' movers board lists the Hoffenheim win contract among its largest upward sports moves, in a sports markets category distinct from the lead — it has…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>No one announced as next James Bond priced at 18.8% on Polymarket, down 6.8 points, on $598K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried, banned or taken by website-only items today, including…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Hoffenheim wins priced at 97.0% on Kalshi, up 49 points, on $875K traded<br/>PredictionBubbles&#x27; movers board lists the Hoffenheim win contract among its largest upward sports moves, in a sports markets category distinct from the lead — it has…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-22T17:24:00-04:00",
+      "date_modified": "2026-10-22T17:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 22, 2026 · 5:24 PM ET",
+      "body": "Infiniti Briefing\n\nNo one announced as next James Bond priced at 18.8% on Polymarket, down 6.8 points, on $598K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, banned or taken by website-only items today, including…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nHoffenheim wins priced at 97.0% on Kalshi, up 49 points, on $875K traded\nPredictionBubbles' movers board lists the Hoffenheim win contract among its largest upward sports moves, in a sports markets category distinct from the lead — it has…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-22T17:24:00-04:00",
+      "source": "2026-10-22_1724-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-22_1715-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_1715-edt-0",
@@ -4668,35 +4700,6 @@
       ],
       "timestamp": "Oct 22, 2026 · 12:15 AM ET",
       "body": "- **Polymarket removes Cornell 7 market and Kalshi deletes Tucker Carlson crime odds tweet, Event Horizon reports** — Polymarket archived an international market on whether Cornell defendants would be charged with a felony sex crime after coverage by Front Office Sports. Kalshi deleted a post citing an 87 percent chance Tucker Carlson would be charged with a federal crime, a price that later fell to about 7 percent on less than 13,000 dollars traded. ([Event Horizon](https://nexteventhorizon.substack.com/p/polymarket-removes-cornell-7-market-kalshi-tucker-carlson))",
-      "image_url": null,
-      "published": "2026-10-22T00:15:00-04:00",
-      "source": "2026-10-22_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_0015-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_0015-edt-4",
-      "title": "Los Angeles bar group turns 60,000 dollar Kalshi Dodgers hedge into revenue offset after NLCS exit, Phandroid reports",
-      "content_text": "- **Los Angeles bar group turns 60,000 dollar Kalshi Dodgers hedge into revenue offset after NLCS exit, Phandroid reports** — A hospitality group operating 25 Los Angeles bars bought a 60,000 dollar Kalshi position that the Dodgers would not reach the World Series. The position returned nearly twice the stake after the Dodgers lost in the NLCS, offsetting lost playoff bar revenue. ([Phandroid](https://phandroid.com/prediction-markets/trending/kalshi-60000-usd-dodgers-hedge-business-insurance/))",
-      "content_html": "<p>- **Los Angeles bar group turns 60,000 dollar Kalshi Dodgers hedge into revenue offset after NLCS exit, Phandroid reports** — A hospitality group operating 25 Los Angeles bars bought a 60,000 dollar Kalshi position that the Dodgers would not reach the World Series. The position returned nearly twice the stake after the Dodgers lost in the NLCS, offsetting lost playoff bar revenue. ([Phandroid](https://phandroid.com/prediction-markets/trending/kalshi-60000-usd-dodgers-hedge-business-insurance/))</p>",
-      "date_published": "2026-10-22T00:15:00-04:00",
-      "date_modified": "2026-10-22T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://phandroid.com/prediction-markets/trending/kalshi-60000-usd-dodgers-hedge-business-insurance/",
-      "links": [
-        "https://phandroid.com/prediction-markets/trending/kalshi-60000-usd-dodgers-hedge-business-insurance/"
-      ],
-      "timestamp": "Oct 22, 2026 · 12:15 AM ET",
-      "body": "- **Los Angeles bar group turns 60,000 dollar Kalshi Dodgers hedge into revenue offset after NLCS exit, Phandroid reports** — A hospitality group operating 25 Los Angeles bars bought a 60,000 dollar Kalshi position that the Dodgers would not reach the World Series. The position returned nearly twice the stake after the Dodgers lost in the NLCS, offsetting lost playoff bar revenue. ([Phandroid](https://phandroid.com/prediction-markets/trending/kalshi-60000-usd-dodgers-hedge-business-insurance/))",
       "image_url": null,
       "published": "2026-10-22T00:15:00-04:00",
       "source": "2026-10-22_0015-edt.json",
