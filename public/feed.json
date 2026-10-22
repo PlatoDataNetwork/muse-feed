@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-22T05:15:41.976721-04:00",
+  "updated": "2026-10-22T05:27:43.651904-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-22_0524-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_0524-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nApple be the largest company in the world by market cap on December 31 priced at 31.4% on Polymarket, up 11.3 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, banned or taken, including the $20B valuation talks…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/finance/\n\nDemocratic party win the governorship in Texas — Gina Hinojosa priced at 35.0% on Kalshi, up 7 points, on $2.2M traded\nPredictionBubbles' movers board lists the Hinojosa Texas governorship contract among its upward political moves, in a political/election category distinct from the lead…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Apple be the largest company in the world by market cap on December 31 priced at 31.4% on Polymarket, up 11.3 points, on $1.2M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried, banned or taken, including the $20B valuation talks…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Democratic party win the governorship in Texas — Gina Hinojosa priced at 35.0% on Kalshi, up 7 points, on $2.2M traded<br/>PredictionBubbles&#x27; movers board lists the Hinojosa Texas governorship contract among its upward political moves, in a political/election category distinct from the lead…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-22T05:24:00-04:00",
+      "date_modified": "2026-10-22T05:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/finance/",
+      "links": [
+        "https://predictionbubbles.net/markets/finance/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 22, 2026 · 5:24 AM ET",
+      "body": "Infiniti Briefing\n\nApple be the largest company in the world by market cap on December 31 priced at 31.4% on Polymarket, up 11.3 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, banned or taken, including the $20B valuation talks…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/finance/\n\nDemocratic party win the governorship in Texas — Gina Hinojosa priced at 35.0% on Kalshi, up 7 points, on $2.2M traded\nPredictionBubbles' movers board lists the Hinojosa Texas governorship contract among its upward political moves, in a political/election category distinct from the lead…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-22T05:24:00-04:00",
+      "source": "2026-10-22_0524-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-22_0454-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_0454-edt",
@@ -4654,38 +4687,6 @@
       ],
       "timestamp": "Oct 21, 2026 · 12:15 PM ET",
       "body": "- **Kalshi chief executive says state legal clash could head to Supreme Court and company is very confident in its position, Reuters reports** — Kalshi co-founder and chief executive Tarek Mansour told Reuters on its Econ World podcast that the clash with dozens of states over who regulates prediction markets could eventually reach the Supreme Court. Mansour said Kalshi is very confident that the Commodity Exchange Act gives the CFTC authority over its sports contracts, and Reuters noted the dispute comes as a new funding round values Kalshi at around 40 billion dollars. ([Reuters](https://www.reuters.com/legal/government/kalshi-could-be-headed-supreme-court-showdown-ceo-says-2026-10-21/))",
-      "image_url": null,
-      "published": "2026-10-21T12:15:00-04:00",
-      "source": "2026-10-21_1215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-21_1215-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-21_1215-edt-1",
-      "title": "Midterm markets price Democrats at about 90 percent for the House and 63 to 64 percent for the Senate as polls show a 7.3 point generic ballot lead, NorthJersey reports",
-      "content_text": "- **Midterm markets price Democrats at about 90 percent for the House and 63 to 64 percent for the Senate as polls show a 7.3 point generic ballot lead, NorthJersey reports** — A NorthJersey update published within the last hour puts Democrats at about 90 percent on Polymarket and 91 percent on Kalshi for House control, and about 63 percent on Polymarket US and 64 percent on Kalshi for the Senate. Forecasters are less certain than the markets, with Decision Desk HQ at 78 percent for the House and 56 percent for the Senate, while the Crosstab generic ballot average gives Democrats a 7.3 point lead and President Trump a 36 percent approval rating. ([NorthJersey](https://www.northjersey.com/story/news/2026/10/21/who-is-winning-2026-midterm-elections-trump-latest-polls-odds-predictions-do-democrats-lead/92347574007/))",
-      "content_html": "<p>- **Midterm markets price Democrats at about 90 percent for the House and 63 to 64 percent for the Senate as polls show a 7.3 point generic ballot lead, NorthJersey reports** — A NorthJersey update published within the last hour puts Democrats at about 90 percent on Polymarket and 91 percent on Kalshi for House control, and about 63 percent on Polymarket US and 64 percent on Kalshi for the Senate. Forecasters are less certain than the markets, with Decision Desk HQ at 78 percent for the House and 56 percent for the Senate, while the Crosstab generic ballot average gives Democrats a 7.3 point lead and President Trump a 36 percent approval rating. ([NorthJersey](https://www.northjersey.com/story/news/2026/10/21/who-is-winning-2026-midterm-elections-trump-latest-polls-odds-predictions-do-democrats-lead/92347574007/))</p>",
-      "date_published": "2026-10-21T12:15:00-04:00",
-      "date_modified": "2026-10-21T12:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.northjersey.com/story/news/2026/10/21/who-is-winning-2026-midterm-elections-trump-latest-polls-odds-predictions-do-democrats-lead/92347574007/",
-      "links": [
-        "https://www.northjersey.com/story/news/2026/10/21/who-is-winning-2026-midterm-elections-trump-latest-polls-odds-predictions-do-democrats-lead/92347574007/"
-      ],
-      "timestamp": "Oct 21, 2026 · 12:15 PM ET",
-      "body": "- **Midterm markets price Democrats at about 90 percent for the House and 63 to 64 percent for the Senate as polls show a 7.3 point generic ballot lead, NorthJersey reports** — A NorthJersey update published within the last hour puts Democrats at about 90 percent on Polymarket and 91 percent on Kalshi for House control, and about 63 percent on Polymarket US and 64 percent on Kalshi for the Senate. Forecasters are less certain than the markets, with Decision Desk HQ at 78 percent for the House and 56 percent for the Senate, while the Crosstab generic ballot average gives Democrats a 7.3 point lead and President Trump a 36 percent approval rating. ([NorthJersey](https://www.northjersey.com/story/news/2026/10/21/who-is-winning-2026-midterm-elections-trump-latest-polls-odds-predictions-do-democrats-lead/92347574007/))",
       "image_url": null,
       "published": "2026-10-21T12:15:00-04:00",
       "source": "2026-10-21_1215-edt.json",
