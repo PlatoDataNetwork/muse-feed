@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-21T23:17:32.414954-04:00",
+  "updated": "2026-10-21T23:27:34.544349-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-21_2324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-21_2324-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 28.5% on Polymarket, down 6 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried or taken today, including the USA Today Texas Senate and…\n#PredictionMarkets #Polymarket #Senate #SCOTUS\nhttps://predictionbubbles.net/markets/movers/\n\nNaftali Bennett be the next Prime Minister of Israel priced at 16.5% on Polymarket, up 4 points, on $4.0M traded\nPredictionBubbles' movers board lists the Bennett next-prime-minister contract among its upward political moves, in a political/election category distinct from the lead…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin dip to $70,000 by December 31, 2026 priced at 28.5% on Polymarket, down 6 points, on $1.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried or taken today, including the USA Today Texas Senate and…<br/>#PredictionMarkets #Polymarket #Senate #SCOTUS<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Naftali Bennett be the next Prime Minister of Israel priced at 16.5% on Polymarket, up 4 points, on $4.0M traded<br/>PredictionBubbles&#x27; movers board lists the Bennett next-prime-minister contract among its upward political moves, in a political/election category distinct from the lead…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-21T23:24:00-04:00",
+      "date_modified": "2026-10-21T23:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Senate",
+        "SCOTUS",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 21, 2026 · 11:24 PM ET",
+      "body": "Infiniti Briefing\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 28.5% on Polymarket, down 6 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried or taken today, including the USA Today Texas Senate and…\n#PredictionMarkets #Polymarket #Senate #SCOTUS\nhttps://predictionbubbles.net/markets/movers/\n\nNaftali Bennett be the next Prime Minister of Israel priced at 16.5% on Polymarket, up 4 points, on $4.0M traded\nPredictionBubbles' movers board lists the Bennett next-prime-minister contract among its upward political moves, in a political/election category distinct from the lead…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-21T23:24:00-04:00",
+      "source": "2026-10-21_2324-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-21_2315-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-21_2315-edt-0",
@@ -4664,35 +4697,6 @@
       "image_url": null,
       "published": "2026-10-21T07:54:00-04:00",
       "source": "2026-10-21_0754-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-21_0745-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-21_0745-edt-0",
-      "title": "Federal judge blocks Minnesota proposed prediction markets ban, GambleRss reports",
-      "content_text": "- **Federal judge blocks Minnesota proposed prediction markets ban, GambleRss reports** — A federal judge issued a preliminary injunction against Minnesota's prediction market ban, finding the state statute is likely at least partially preempted by the Commodity Exchange Act because the CFTC has exclusive jurisdiction over swaps traded on designated contract markets. The ruling said the CFTC faces a threat of irreparable harm without relief. ([GambleRss](https://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705))",
-      "content_html": "<p>- **Federal judge blocks Minnesota proposed prediction markets ban, GambleRss reports** — A federal judge issued a preliminary injunction against Minnesota&#x27;s prediction market ban, finding the state statute is likely at least partially preempted by the Commodity Exchange Act because the CFTC has exclusive jurisdiction over swaps traded on designated contract markets. The ruling said the CFTC faces a threat of irreparable harm without relief. ([GambleRss](https://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705))</p>",
-      "date_published": "2026-10-21T07:45:00-04:00",
-      "date_modified": "2026-10-21T07:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705",
-      "links": [
-        "https://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705"
-      ],
-      "timestamp": "Oct 21, 2026 · 7:45 AM ET",
-      "body": "- **Federal judge blocks Minnesota proposed prediction markets ban, GambleRss reports** — A federal judge issued a preliminary injunction against Minnesota's prediction market ban, finding the state statute is likely at least partially preempted by the Commodity Exchange Act because the CFTC has exclusive jurisdiction over swaps traded on designated contract markets. The ruling said the CFTC faces a threat of irreparable harm without relief. ([GambleRss](https://gamblerss.com/federal-judge-blocks-minnesota-s-proposed-prediction-markets-ban-66705))",
-      "image_url": null,
-      "published": "2026-10-21T07:45:00-04:00",
-      "source": "2026-10-21_0745-edt.json",
       "matches_facebook_post": false
     }
   ]
