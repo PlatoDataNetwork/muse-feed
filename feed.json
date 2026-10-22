@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-22T10:00:32.286261-04:00",
+  "updated": "2026-10-22T10:31:02.595109-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,127 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-22_1024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_1024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nWTI Crude Oil (WTI) hit (HIGH) $105 in October priced at 44.0% on Polymarket, up 15 points, on $336K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report, which already led the Oct. 22 0624…\n#PredictionMarkets #Polymarket #Oil #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nLuca Van Assche wins priced at 93.0% on Kalshi, up 49 points, on $1.2M traded\nPredictionBubbles' sports board, refreshed this run to 548 open markets with $817.7M in total volume, lists the Van Assche match contract as its largest upward sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>WTI Crude Oil (WTI) hit (HIGH) $105 in October priced at 44.0% on Polymarket, up 15 points, on $336K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report, which already led the Oct. 22 0624…<br/>#PredictionMarkets #Polymarket #Oil #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Luca Van Assche wins priced at 93.0% on Kalshi, up 49 points, on $1.2M traded<br/>PredictionBubbles&#x27; sports board, refreshed this run to 548 open markets with $817.7M in total volume, lists the Van Assche match contract as its largest upward sports…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-22T10:24:00-04:00",
+      "date_modified": "2026-10-22T10:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Oil",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 22, 2026 · 10:24 AM ET",
+      "body": "Infiniti Briefing\n\nWTI Crude Oil (WTI) hit (HIGH) $105 in October priced at 44.0% on Polymarket, up 15 points, on $336K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report, which already led the Oct. 22 0624…\n#PredictionMarkets #Polymarket #Oil #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nLuca Van Assche wins priced at 93.0% on Kalshi, up 49 points, on $1.2M traded\nPredictionBubbles' sports board, refreshed this run to 548 open markets with $817.7M in total volume, lists the Van Assche match contract as its largest upward sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-22T10:24:00-04:00",
+      "source": "2026-10-22_1024-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-22_1015-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_1015-edt-0",
+      "title": "Polymarket partners with Parcl to launch real estate prediction markets on US housing indices, BitRss reports",
+      "content_text": "- **Polymarket partners with Parcl to launch real estate prediction markets on US housing indices, BitRss reports** — Polymarket and Parcl have launched real estate prediction markets based on Parcl's independent US housing price indices, letting traders take positions on home price movements across major metros without owning property or using leverage. Markets will settle on Parcl's real-time index data with public resolution pages, using monthly, quarterly and yearly templates tied to price thresholds and directional outcomes, starting with high-liquidity metros. ([BitRss](https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457))",
+      "content_html": "<p>- **Polymarket partners with Parcl to launch real estate prediction markets on US housing indices, BitRss reports** — Polymarket and Parcl have launched real estate prediction markets based on Parcl&#x27;s independent US housing price indices, letting traders take positions on home price movements across major metros without owning property or using leverage. Markets will settle on Parcl&#x27;s real-time index data with public resolution pages, using monthly, quarterly and yearly templates tied to price thresholds and directional outcomes, starting with high-liquidity metros. ([BitRss](https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457))</p>",
+      "date_published": "2026-10-22T10:15:00-04:00",
+      "date_modified": "2026-10-22T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457",
+      "links": [
+        "https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457"
+      ],
+      "timestamp": "Oct 22, 2026 · 10:15 AM ET",
+      "body": "- **Polymarket partners with Parcl to launch real estate prediction markets on US housing indices, BitRss reports** — Polymarket and Parcl have launched real estate prediction markets based on Parcl's independent US housing price indices, letting traders take positions on home price movements across major metros without owning property or using leverage. Markets will settle on Parcl's real-time index data with public resolution pages, using monthly, quarterly and yearly templates tied to price thresholds and directional outcomes, starting with high-liquidity metros. ([BitRss](https://bitrss.com/polymarket-partners-with-parcl-to-launch-real-estate-prediction-markets-169457))",
+      "image_url": null,
+      "published": "2026-10-22T10:15:00-04:00",
+      "source": "2026-10-22_1015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-22_1015-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_1015-edt-1",
+      "title": "StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports",
+      "content_text": "- **StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports** — StarkWare opened OffMarket to the public on October 14, giving Polymarket users a way to trade prediction market positions without those trades appearing linked to their on-chain accounts, according to The Block reporting cited by WeeBet. The service routes trades through zero-knowledge proof infrastructure to separate a wallet's public identity from its market positions, and fee structures and volume caps have not yet been disclosed. ([WeeBet](https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch))",
+      "content_html": "<p>- **StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports** — StarkWare opened OffMarket to the public on October 14, giving Polymarket users a way to trade prediction market positions without those trades appearing linked to their on-chain accounts, according to The Block reporting cited by WeeBet. The service routes trades through zero-knowledge proof infrastructure to separate a wallet&#x27;s public identity from its market positions, and fee structures and volume caps have not yet been disclosed. ([WeeBet](https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch))</p>",
+      "date_published": "2026-10-22T10:15:00-04:00",
+      "date_modified": "2026-10-22T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch",
+      "links": [
+        "https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch"
+      ],
+      "timestamp": "Oct 22, 2026 · 10:15 AM ET",
+      "body": "- **StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports** — StarkWare opened OffMarket to the public on October 14, giving Polymarket users a way to trade prediction market positions without those trades appearing linked to their on-chain accounts, according to The Block reporting cited by WeeBet. The service routes trades through zero-knowledge proof infrastructure to separate a wallet's public identity from its market positions, and fee structures and volume caps have not yet been disclosed. ([WeeBet](https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch))",
+      "image_url": null,
+      "published": "2026-10-22T10:15:00-04:00",
+      "source": "2026-10-22_1015-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-22_1015-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_1015-edt-2",
+      "title": "Kalshi prices Houston at 79 cents against Dallas and Lakers near 67 cents against Golden State on NBA board, SI reports",
+      "content_text": "- **Kalshi prices Houston at 79 cents against Dallas and Lakers near 67 cents against Golden State on NBA board, SI reports** — SI's review of Kalshi's 2026-27 NBA markets, with prices checked October 21, lists Houston as one of the strongest favorites on the board at 79 cents against Dallas, the Lakers around 67 cents against Golden State, Orlando at 54 cents in Hawks-Magic and the Clippers around 60 cents against Sacramento. On the futures board, San Antonio and Oklahoma City are essentially tied near 34 cents each to win the Western Conference, Oklahoma City is around 45 cents to finish with the league's best record, and New York and Philadelphia are both around 21 cents to win the East. ([Sports Illustrated](https://www.si.com/prediction-markets/reviews/kalshi-nba))",
+      "content_html": "<p>- **Kalshi prices Houston at 79 cents against Dallas and Lakers near 67 cents against Golden State on NBA board, SI reports** — SI&#x27;s review of Kalshi&#x27;s 2026-27 NBA markets, with prices checked October 21, lists Houston as one of the strongest favorites on the board at 79 cents against Dallas, the Lakers around 67 cents against Golden State, Orlando at 54 cents in Hawks-Magic and the Clippers around 60 cents against Sacramento. On the futures board, San Antonio and Oklahoma City are essentially tied near 34 cents each to win the Western Conference, Oklahoma City is around 45 cents to finish with the league&#x27;s best record, and New York and Philadelphia are both around 21 cents to win the East. ([Sports Illustrated](https://www.si.com/prediction-markets/reviews/kalshi-nba))</p>",
+      "date_published": "2026-10-22T10:15:00-04:00",
+      "date_modified": "2026-10-22T10:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.si.com/prediction-markets/reviews/kalshi-nba",
+      "links": [
+        "https://www.si.com/prediction-markets/reviews/kalshi-nba"
+      ],
+      "timestamp": "Oct 22, 2026 · 10:15 AM ET",
+      "body": "- **Kalshi prices Houston at 79 cents against Dallas and Lakers near 67 cents against Golden State on NBA board, SI reports** — SI's review of Kalshi's 2026-27 NBA markets, with prices checked October 21, lists Houston as one of the strongest favorites on the board at 79 cents against Dallas, the Lakers around 67 cents against Golden State, Orlando at 54 cents in Hawks-Magic and the Clippers around 60 cents against Sacramento. On the futures board, San Antonio and Oklahoma City are essentially tied near 34 cents each to win the Western Conference, Oklahoma City is around 45 cents to finish with the league's best record, and New York and Philadelphia are both around 21 cents to win the East. ([Sports Illustrated](https://www.si.com/prediction-markets/reviews/kalshi-nba))",
+      "image_url": null,
+      "published": "2026-10-22T10:15:00-04:00",
+      "source": "2026-10-22_1015-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-22_0954-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_0954-edt",
@@ -4569,129 +4690,6 @@
       "image_url": null,
       "published": "2026-10-21T17:45:00-04:00",
       "source": "2026-10-21_1745-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-21_1745-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-21_1745-edt-4",
-      "title": "Polymarket AI bubble burst by year-end market priced at about 10 to 11 percent, Crypto Briefing reports",
-      "content_text": "- **Polymarket AI bubble burst by year-end market priced at about 10 to 11 percent, Crypto Briefing reports** — Crypto Briefing reports Polymarket traders price an AI bubble burst by December 31, 2026 at about 10 to 11 percent, up from earlier readings of 6 to 8 percent. The market has logged 2 million to 3 million dollars in cumulative volume and requires severe triggers within a 90-day window, including Nvidia falling 50 percent from its all-time high. ([Crypto Briefing](https://cryptobriefing.com/polymarket-odds-ai-bubble-burst-year-end/))",
-      "content_html": "<p>- **Polymarket AI bubble burst by year-end market priced at about 10 to 11 percent, Crypto Briefing reports** — Crypto Briefing reports Polymarket traders price an AI bubble burst by December 31, 2026 at about 10 to 11 percent, up from earlier readings of 6 to 8 percent. The market has logged 2 million to 3 million dollars in cumulative volume and requires severe triggers within a 90-day window, including Nvidia falling 50 percent from its all-time high. ([Crypto Briefing](https://cryptobriefing.com/polymarket-odds-ai-bubble-burst-year-end/))</p>",
-      "date_published": "2026-10-21T17:45:00-04:00",
-      "date_modified": "2026-10-21T17:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://cryptobriefing.com/polymarket-odds-ai-bubble-burst-year-end/",
-      "links": [
-        "https://cryptobriefing.com/polymarket-odds-ai-bubble-burst-year-end/"
-      ],
-      "timestamp": "Oct 21, 2026 · 5:45 PM ET",
-      "body": "- **Polymarket AI bubble burst by year-end market priced at about 10 to 11 percent, Crypto Briefing reports** — Crypto Briefing reports Polymarket traders price an AI bubble burst by December 31, 2026 at about 10 to 11 percent, up from earlier readings of 6 to 8 percent. The market has logged 2 million to 3 million dollars in cumulative volume and requires severe triggers within a 90-day window, including Nvidia falling 50 percent from its all-time high. ([Crypto Briefing](https://cryptobriefing.com/polymarket-odds-ai-bubble-burst-year-end/))",
-      "image_url": null,
-      "published": "2026-10-21T17:45:00-04:00",
-      "source": "2026-10-21_1745-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-21_1724-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-21_1724-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nRadio host Joe Giganti sues Wisconsin Elections Commission over Polymarket election wagers\nGiganti filed in the Eastern District of Wisconsin challenging the commission's July warning that election wagering can cost voters their ballot under Wis. Stat.…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://gamingamerica.com/news/1105411/joe-giganti-wisconsin-election-lawsuit-polymarket\n\nIsrael x Iran ceasefire continues through November 30 priced at 47.5% on Polymarket, down 13 points, on $626K traded\nPredictionBubbles' movers board lists the November 30 Israel-Iran ceasefire contract among its biggest downward political moves, in a political/election category…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Radio host Joe Giganti sues Wisconsin Elections Commission over Polymarket election wagers<br/>Giganti filed in the Eastern District of Wisconsin challenging the commission&#x27;s July warning that election wagering can cost voters their ballot under Wis. Stat.…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://gamingamerica.com/news/1105411/joe-giganti-wisconsin-election-lawsuit-polymarket<br/><br/>Israel x Iran ceasefire continues through November 30 priced at 47.5% on Polymarket, down 13 points, on $626K traded<br/>PredictionBubbles&#x27; movers board lists the November 30 Israel-Iran ceasefire contract among its biggest downward political moves, in a political/election category…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-21T17:24:00-04:00",
-      "date_modified": "2026-10-21T17:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://gamingamerica.com/news/1105411/joe-giganti-wisconsin-election-lawsuit-polymarket",
-      "links": [
-        "https://gamingamerica.com/news/1105411/joe-giganti-wisconsin-election-lawsuit-polymarket",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 21, 2026 · 5:24 PM ET",
-      "body": "Infiniti Briefing\n\nRadio host Joe Giganti sues Wisconsin Elections Commission over Polymarket election wagers\nGiganti filed in the Eastern District of Wisconsin challenging the commission's July warning that election wagering can cost voters their ballot under Wis. Stat.…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://gamingamerica.com/news/1105411/joe-giganti-wisconsin-election-lawsuit-polymarket\n\nIsrael x Iran ceasefire continues through November 30 priced at 47.5% on Polymarket, down 13 points, on $626K traded\nPredictionBubbles' movers board lists the November 30 Israel-Iran ceasefire contract among its biggest downward political moves, in a political/election category…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-21T17:24:00-04:00",
-      "source": "2026-10-21_1724-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-21_1654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-21_1654-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nRecession in 2027 priced at 18.0% on Kalshi, down 3 points, on $716K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items, including the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nBenjamin Bonzi wins priced at 14.0% on Kalshi, down 33 points, on $923K traded\nPredictionBubbles' movers board lists the Bonzi win contract as its biggest downward sports move, in a sports markets category distinct from the lead — the contract has…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Recession in 2027 priced at 18.0% on Kalshi, down 3 points, on $716K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items, including the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Benjamin Bonzi wins priced at 14.0% on Kalshi, down 33 points, on $923K traded<br/>PredictionBubbles&#x27; movers board lists the Bonzi win contract as its biggest downward sports move, in a sports markets category distinct from the lead — the contract has…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-21T16:54:00-04:00",
-      "date_modified": "2026-10-21T16:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 21, 2026 · 4:54 PM ET",
-      "body": "Infiniti Briefing\n\nRecession in 2027 priced at 18.0% on Kalshi, down 3 points, on $716K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already carried, struck or taken by website-only items, including the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nBenjamin Bonzi wins priced at 14.0% on Kalshi, down 33 points, on $923K traded\nPredictionBubbles' movers board lists the Bonzi win contract as its biggest downward sports move, in a sports markets category distinct from the lead — the contract has…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-21T16:54:00-04:00",
-      "source": "2026-10-21_1654-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-21_1645-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-21_1645-edt-0",
-      "title": "Polymarket dynamic taker fee earns about 1.2 million dollars a day as Kalshi booked 263.5 million dollars in 2025 revenue, FinanceFeeds reports",
-      "content_text": "- **Polymarket dynamic taker fee earns about 1.2 million dollars a day as Kalshi booked 263.5 million dollars in 2025 revenue, FinanceFeeds reports** — FinanceFeeds reports Polymarket's dynamic taker fee, at a 0.76 percent blended rate per Pine Analytics, earns about 1.2 million dollars a day. Kalshi booked 263.5 million dollars in 2025, as event-contract revenue across the sector continues to grow. ([FinanceFeeds](https://financefeeds.com/prediction-market-revenue/))",
-      "content_html": "<p>- **Polymarket dynamic taker fee earns about 1.2 million dollars a day as Kalshi booked 263.5 million dollars in 2025 revenue, FinanceFeeds reports** — FinanceFeeds reports Polymarket&#x27;s dynamic taker fee, at a 0.76 percent blended rate per Pine Analytics, earns about 1.2 million dollars a day. Kalshi booked 263.5 million dollars in 2025, as event-contract revenue across the sector continues to grow. ([FinanceFeeds](https://financefeeds.com/prediction-market-revenue/))</p>",
-      "date_published": "2026-10-21T16:45:00-04:00",
-      "date_modified": "2026-10-21T16:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://financefeeds.com/prediction-market-revenue/",
-      "links": [
-        "https://financefeeds.com/prediction-market-revenue/"
-      ],
-      "timestamp": "Oct 21, 2026 · 4:45 PM ET",
-      "body": "- **Polymarket dynamic taker fee earns about 1.2 million dollars a day as Kalshi booked 263.5 million dollars in 2025 revenue, FinanceFeeds reports** — FinanceFeeds reports Polymarket's dynamic taker fee, at a 0.76 percent blended rate per Pine Analytics, earns about 1.2 million dollars a day. Kalshi booked 263.5 million dollars in 2025, as event-contract revenue across the sector continues to grow. ([FinanceFeeds](https://financefeeds.com/prediction-market-revenue/))",
-      "image_url": null,
-      "published": "2026-10-21T16:45:00-04:00",
-      "source": "2026-10-21_1645-edt.json",
       "matches_facebook_post": false
     }
   ]
