@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-23T08:57:55.797158-04:00",
+  "updated": "2026-10-23T09:28:41.141511-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-23_0924-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_0924-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAnthropic not IPO by December 31, 2027 priced at 2.9% on Polymarket, down 3.4 points, on $112K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Pentagon insider-bets memo already noted in the Oct. 22 2224 edition, the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nFrance declares state of emergency by December 31, 2026 priced at 11.0% on Polymarket, down 8.5 points, on $217K traded\nPredictionBubbles' movers board lists the France emergency contract under its new markets on the move, in a political/election category distinct from the lead. This…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic not IPO by December 31, 2027 priced at 2.9% on Polymarket, down 3.4 points, on $112K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only the Pentagon insider-bets memo already noted in the Oct. 22 2224 edition, the…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>France declares state of emergency by December 31, 2026 priced at 11.0% on Polymarket, down 8.5 points, on $217K traded<br/>PredictionBubbles&#x27; movers board lists the France emergency contract under its new markets on the move, in a political/election category distinct from the lead. This…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-23T09:24:00-04:00",
+      "date_modified": "2026-10-23T09:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 23, 2026 · 9:24 AM ET",
+      "body": "Infiniti Briefing\n\nAnthropic not IPO by December 31, 2027 priced at 2.9% on Polymarket, down 3.4 points, on $112K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Pentagon insider-bets memo already noted in the Oct. 22 2224 edition, the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nFrance declares state of emergency by December 31, 2026 priced at 11.0% on Polymarket, down 8.5 points, on $217K traded\nPredictionBubbles' movers board lists the France emergency contract under its new markets on the move, in a political/election category distinct from the lead. This…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-23T09:24:00-04:00",
+      "source": "2026-10-23_0924-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-23_0854-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_0854-edt",
@@ -4681,35 +4714,6 @@
       ],
       "timestamp": "Oct 22, 2026 · 2:15 PM ET",
       "body": "- **Polymarket prices Cboe earnings beat at 57 percent and Meta at 14 percent, Prediction News reports** — Prediction News reports Polymarket traders priced a Cboe quarterly earnings beat at 57 percent on about 3,700 dollars in volume, while a separate Meta earnings-beat contract stood at 14 percent on roughly 6,000 dollars traded. Both markets are presented as single-stock earnings sentiment gauges traded in real time. ([Prediction News](https://predictionnews.com/story/polymarket-prices-cboe-earnings-beat-at-57))",
-      "image_url": null,
-      "published": "2026-10-22T14:15:00-04:00",
-      "source": "2026-10-22_1415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_1415-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_1415-edt-2",
-      "title": "Kalshi prices Fed hold for October 28 at 94 percent as hike odds fall 23 points in a week to 6 percent, DeFi Rate reports",
-      "content_text": "- **Kalshi prices Fed hold for October 28 at 94 percent as hike odds fall 23 points in a week to 6 percent, DeFi Rate reports** — DeFi Rate data observed on October 22 at 2:03 PM ET shows Kalshi pricing a Federal Reserve hold on October 28 at 94 percent, up 23 points in a week, while hike odds fell 23 points to 6 percent. The December 9 hike contract also fell 10 points in the same weekly comparison. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
-      "content_html": "<p>- **Kalshi prices Fed hold for October 28 at 94 percent as hike odds fall 23 points in a week to 6 percent, DeFi Rate reports** — DeFi Rate data observed on October 22 at 2:03 PM ET shows Kalshi pricing a Federal Reserve hold on October 28 at 94 percent, up 23 points in a week, while hike odds fell 23 points to 6 percent. The December 9 hike contract also fell 10 points in the same weekly comparison. ([DeFi Rate](https://defirate.com/odds/fed-decision/))</p>",
-      "date_published": "2026-10-22T14:15:00-04:00",
-      "date_modified": "2026-10-22T14:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/fed-decision/",
-      "links": [
-        "https://defirate.com/odds/fed-decision/"
-      ],
-      "timestamp": "Oct 22, 2026 · 2:15 PM ET",
-      "body": "- **Kalshi prices Fed hold for October 28 at 94 percent as hike odds fall 23 points in a week to 6 percent, DeFi Rate reports** — DeFi Rate data observed on October 22 at 2:03 PM ET shows Kalshi pricing a Federal Reserve hold on October 28 at 94 percent, up 23 points in a week, while hike odds fell 23 points to 6 percent. The December 9 hike contract also fell 10 points in the same weekly comparison. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
       "image_url": null,
       "published": "2026-10-22T14:15:00-04:00",
       "source": "2026-10-22_1415-edt.json",
