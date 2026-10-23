@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-22T23:45:11.468947-04:00",
+  "updated": "2026-10-22T23:57:41.887722-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-22_2354-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_2354-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nHouston win the 2027 Pro Football Championship priced at 3.0% on Kalshi, up 1 point, on $8.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report that already led the Oct. 22 0624…\n#PredictionMarkets #Kalshi #CFTC #Elections\nhttps://predictionbubbles.net/markets/sports/\n\nTexas Senate be Ken Paxton wins AND Maine Senate be Susan Collins wins for Nov 2026 priced at 26.0% on Kalshi, up 4 points, on $703K traded\nPredictionBubbles' movers board, refreshed to its Oct. 23, 03:10 UTC snapshot, lists the two-state Senate combo among its upward political moves, in a political/election…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Houston win the 2027 Pro Football Championship priced at 3.0% on Kalshi, up 1 point, on $8.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report that already led the Oct. 22 0624…<br/>#PredictionMarkets #Kalshi #CFTC #Elections<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Texas Senate be Ken Paxton wins AND Maine Senate be Susan Collins wins for Nov 2026 priced at 26.0% on Kalshi, up 4 points, on $703K traded<br/>PredictionBubbles&#x27; movers board, refreshed to its Oct. 23, 03:10 UTC snapshot, lists the two-state Senate combo among its upward political moves, in a political/election…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-22T23:54:00-04:00",
+      "date_modified": "2026-10-22T23:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Elections",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/sports/",
+      "links": [
+        "https://predictionbubbles.net/markets/sports/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 22, 2026 · 11:54 PM ET",
+      "body": "Infiniti Briefing\n\nHouston win the 2027 Pro Football Championship priced at 3.0% on Kalshi, up 1 point, on $8.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report that already led the Oct. 22 0624…\n#PredictionMarkets #Kalshi #CFTC #Elections\nhttps://predictionbubbles.net/markets/sports/\n\nTexas Senate be Ken Paxton wins AND Maine Senate be Susan Collins wins for Nov 2026 priced at 26.0% on Kalshi, up 4 points, on $703K traded\nPredictionBubbles' movers board, refreshed to its Oct. 23, 03:10 UTC snapshot, lists the two-state Senate combo among its upward political moves, in a political/election…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-22T23:54:00-04:00",
+      "source": "2026-10-22_2354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-22_2345-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_2345-edt-0",
@@ -4676,38 +4710,6 @@
       ],
       "timestamp": "Oct 22, 2026 · 6:45 AM ET",
       "body": "- **Polymarket prices LeBron James at 87 percent for 10-plus points against Cavaliers on October 22, RotoWire reports** — RotoWire tracking of LeBron James first season with the Philadelphia 76ers lists Polymarket prices as of October 21 for the October 22 game against Cleveland, including 87 percent for 10-plus points, 59 percent for 15-plus points, 82 percent for 6-plus assists and 68 percent for 6-plus rebounds. ([RotoWire](https://www.rotowire.com/prediction-markets/nba/lebron-james-76ers-polymarket))",
-      "image_url": null,
-      "published": "2026-10-22T06:45:00-04:00",
-      "source": "2026-10-22_0645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_0645-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_0645-edt-2",
-      "title": "Bitwise research finds top 10 cryptoassets show no significant link to Polymarket midterm odds, Blockchain.News reports",
-      "content_text": "- **Bitwise research finds top 10 cryptoassets show no significant link to Polymarket midterm odds, Blockchain.News reports** — Andre Dragosch of Bitwise examined sensitivities of the top 10 cryptoassets to Polymarket midterm election probabilities and found no statistically significant relationship, with R-squared values mostly below 1 percent, across scenarios including a Democratic sweep at 67 percent and a Republican Senate with a Democratic House at 25 percent. ([Blockchain.News](https://blockchain.news/flashnews/dragosch-cryptoassets-insensitive-midterm-odds))",
-      "content_html": "<p>- **Bitwise research finds top 10 cryptoassets show no significant link to Polymarket midterm odds, Blockchain.News reports** — Andre Dragosch of Bitwise examined sensitivities of the top 10 cryptoassets to Polymarket midterm election probabilities and found no statistically significant relationship, with R-squared values mostly below 1 percent, across scenarios including a Democratic sweep at 67 percent and a Republican Senate with a Democratic House at 25 percent. ([Blockchain.News](https://blockchain.news/flashnews/dragosch-cryptoassets-insensitive-midterm-odds))</p>",
-      "date_published": "2026-10-22T06:45:00-04:00",
-      "date_modified": "2026-10-22T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://blockchain.news/flashnews/dragosch-cryptoassets-insensitive-midterm-odds",
-      "links": [
-        "https://blockchain.news/flashnews/dragosch-cryptoassets-insensitive-midterm-odds"
-      ],
-      "timestamp": "Oct 22, 2026 · 6:45 AM ET",
-      "body": "- **Bitwise research finds top 10 cryptoassets show no significant link to Polymarket midterm odds, Blockchain.News reports** — Andre Dragosch of Bitwise examined sensitivities of the top 10 cryptoassets to Polymarket midterm election probabilities and found no statistically significant relationship, with R-squared values mostly below 1 percent, across scenarios including a Democratic sweep at 67 percent and a Republican Senate with a Democratic House at 25 percent. ([Blockchain.News](https://blockchain.news/flashnews/dragosch-cryptoassets-insensitive-midterm-odds))",
       "image_url": null,
       "published": "2026-10-22T06:45:00-04:00",
       "source": "2026-10-22_0645-edt.json",
