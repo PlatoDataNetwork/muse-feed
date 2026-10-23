@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-23T07:57:18.689711-04:00",
+  "updated": "2026-10-23T08:15:49.983031-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-23_0815-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_0815-edt-0",
+      "title": "New study of about one million contracts finds prediction markets highly calibrated across 12 domains, Marginal Revolution reports",
+      "content_text": "- **New study of about one million contracts finds prediction markets highly calibrated across 12 domains, Marginal Revolution reports** — Marginal Revolution, summarizing a new PNAS paper published October 23, reports that researchers evaluated approximately one million resolved contracts and questions across Polymarket, Kalshi, Manifold and Metaculus in 12 domains and found forecast probabilities were highly calibrated overall. Events assigned a probability of p percent occurred approximately p percent of the time, with systematic over- and underestimation found in some highly consequential areas. ([Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html))",
+      "content_html": "<p>- **New study of about one million contracts finds prediction markets highly calibrated across 12 domains, Marginal Revolution reports** — Marginal Revolution, summarizing a new PNAS paper published October 23, reports that researchers evaluated approximately one million resolved contracts and questions across Polymarket, Kalshi, Manifold and Metaculus in 12 domains and found forecast probabilities were highly calibrated overall. Events assigned a probability of p percent occurred approximately p percent of the time, with systematic over- and underestimation found in some highly consequential areas. ([Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html))</p>",
+      "date_published": "2026-10-23T08:15:00-04:00",
+      "date_modified": "2026-10-23T08:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html",
+      "links": [
+        "https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html"
+      ],
+      "timestamp": "Oct 23, 2026 · 8:15 AM ET",
+      "body": "- **New study of about one million contracts finds prediction markets highly calibrated across 12 domains, Marginal Revolution reports** — Marginal Revolution, summarizing a new PNAS paper published October 23, reports that researchers evaluated approximately one million resolved contracts and questions across Polymarket, Kalshi, Manifold and Metaculus in 12 domains and found forecast probabilities were highly calibrated overall. Events assigned a probability of p percent occurred approximately p percent of the time, with systematic over- and underestimation found in some highly consequential areas. ([Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html))",
+      "image_url": null,
+      "published": "2026-10-23T08:15:00-04:00",
+      "source": "2026-10-23_0815-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-23_0754-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_0754-edt",
@@ -4678,36 +4708,6 @@
       "image_url": null,
       "published": "2026-10-22T13:54:00-04:00",
       "source": "2026-10-22_1354-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_1345-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_1345-edt-0",
-      "title": "Polymarket leads US prediction market search demand despite Kalshi trading dominance, Blask data via Gambling Insider reports",
-      "content_text": "- **Polymarket leads US prediction market search demand despite Kalshi trading dominance, Blask data via Gambling Insider reports** — Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent of search demand, down from 74.3 percent, while Kalshi rose from 23.1 percent to 35.8 percent. Trading volume showed the reverse order in August, with Kalshi at 37.17 billion dollars compared with 8.16 billion dollars combined across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "content_html": "<p>- **Polymarket leads US prediction market search demand despite Kalshi trading dominance, Blask data via Gambling Insider reports** — Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent of search demand, down from 74.3 percent, while Kalshi rose from 23.1 percent to 35.8 percent. Trading volume showed the reverse order in August, with Kalshi at 37.17 billion dollars compared with 8.16 billion dollars combined across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))</p>",
-      "date_published": "2026-10-22T13:45:00-04:00",
-      "date_modified": "2026-10-22T13:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand",
-      "links": [
-        "https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand"
-      ],
-      "timestamp": "Oct 22, 2026 · 1:45 PM ET",
-      "body": "- **Polymarket leads US prediction market search demand despite Kalshi trading dominance, Blask data via Gambling Insider reports** — Blask tracked branded search demand from January to August 2026 and found Polymarket held 57.8 percent of search demand, down from 74.3 percent, while Kalshi rose from 23.1 percent to 35.8 percent. Trading volume showed the reverse order in August, with Kalshi at 37.17 billion dollars compared with 8.16 billion dollars combined across Polymarket and Polymarket US. ([Gambling Insider](https://www.gamblinginsider.com/news/196243/polymarket-kalshi-us-prediction-market-search-demand))",
-      "image_url": null,
-      "published": "2026-10-22T13:45:00-04:00",
-      "source": "2026-10-22_1345-edt.json",
       "matches_facebook_post": false
     }
   ]
