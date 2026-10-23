@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-22T23:29:06.257137-04:00",
+  "updated": "2026-10-22T23:45:11.468947-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,123 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-22_2345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_2345-edt-0",
+      "title": "CFTC sues Illinois over state plan to regulate prediction markets, GambleRss reports",
+      "content_text": "- **CFTC sues Illinois over state plan to regulate prediction markets, GambleRss reports** — The Commodity Futures Trading Commission sued Illinois in the US District Court for the Northern District of Illinois, arguing the Commodity Exchange Act gives it exclusive jurisdiction over designated contract markets and preempts state gaming rules, and asking the court to enjoin state enforcement. The suit, described as the first time the federal agency has sued a state over prediction market regulation, was filed a year and a day after Illinois issued cease-and-desist letters to Crypto.com, Kalshi and Robinhood, with a similar letter sent to Polymarket in January. ([GambleRss](https://gamblerss.com/cftc-sues-illinois-over-state-s-plan-to-regulate-prediction-markets-60831))",
+      "content_html": "<p>- **CFTC sues Illinois over state plan to regulate prediction markets, GambleRss reports** — The Commodity Futures Trading Commission sued Illinois in the US District Court for the Northern District of Illinois, arguing the Commodity Exchange Act gives it exclusive jurisdiction over designated contract markets and preempts state gaming rules, and asking the court to enjoin state enforcement. The suit, described as the first time the federal agency has sued a state over prediction market regulation, was filed a year and a day after Illinois issued cease-and-desist letters to Crypto.com, Kalshi and Robinhood, with a similar letter sent to Polymarket in January. ([GambleRss](https://gamblerss.com/cftc-sues-illinois-over-state-s-plan-to-regulate-prediction-markets-60831))</p>",
+      "date_published": "2026-10-22T23:45:00-04:00",
+      "date_modified": "2026-10-22T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/cftc-sues-illinois-over-state-s-plan-to-regulate-prediction-markets-60831",
+      "links": [
+        "https://gamblerss.com/cftc-sues-illinois-over-state-s-plan-to-regulate-prediction-markets-60831"
+      ],
+      "timestamp": "Oct 22, 2026 · 11:45 PM ET",
+      "body": "- **CFTC sues Illinois over state plan to regulate prediction markets, GambleRss reports** — The Commodity Futures Trading Commission sued Illinois in the US District Court for the Northern District of Illinois, arguing the Commodity Exchange Act gives it exclusive jurisdiction over designated contract markets and preempts state gaming rules, and asking the court to enjoin state enforcement. The suit, described as the first time the federal agency has sued a state over prediction market regulation, was filed a year and a day after Illinois issued cease-and-desist letters to Crypto.com, Kalshi and Robinhood, with a similar letter sent to Polymarket in January. ([GambleRss](https://gamblerss.com/cftc-sues-illinois-over-state-s-plan-to-regulate-prediction-markets-60831))",
+      "image_url": null,
+      "published": "2026-10-22T23:45:00-04:00",
+      "source": "2026-10-22_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-22_2345-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_2345-edt-1",
+      "title": "Crypto.com and Novig exchanges sue Missouri over sports event contracts, BitcoinCasinos reports",
+      "content_text": "- **Crypto.com and Novig exchanges sue Missouri over sports event contracts, BitcoinCasinos reports** — North American Derivatives Exchange, the CFTC-regulated exchange behind Crypto.com prediction markets, filed suit in the Western District of Missouri on October 16, and Ludlow Exchange, which does business as Novig, filed a companion suit in the Eastern District the same day, arguing the Commodity Exchange Act preempts Missouri gambling law. The suits answer September cease-and-desist letters to six operators that gave them 30 days to stop serving Missouri or obtain a state license, pay a 10 percent tax on adjusted gross revenue and pay license fees of up to 500,000 dollars. ([BitcoinCasinos](https://www.bitcoincasinos.com/blog/2026/10/22/crypto-com-novig-sue-missouri-sports-event-contracts/))",
+      "content_html": "<p>- **Crypto.com and Novig exchanges sue Missouri over sports event contracts, BitcoinCasinos reports** — North American Derivatives Exchange, the CFTC-regulated exchange behind Crypto.com prediction markets, filed suit in the Western District of Missouri on October 16, and Ludlow Exchange, which does business as Novig, filed a companion suit in the Eastern District the same day, arguing the Commodity Exchange Act preempts Missouri gambling law. The suits answer September cease-and-desist letters to six operators that gave them 30 days to stop serving Missouri or obtain a state license, pay a 10 percent tax on adjusted gross revenue and pay license fees of up to 500,000 dollars. ([BitcoinCasinos](https://www.bitcoincasinos.com/blog/2026/10/22/crypto-com-novig-sue-missouri-sports-event-contracts/))</p>",
+      "date_published": "2026-10-22T23:45:00-04:00",
+      "date_modified": "2026-10-22T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.bitcoincasinos.com/blog/2026/10/22/crypto-com-novig-sue-missouri-sports-event-contracts/",
+      "links": [
+        "https://www.bitcoincasinos.com/blog/2026/10/22/crypto-com-novig-sue-missouri-sports-event-contracts/"
+      ],
+      "timestamp": "Oct 22, 2026 · 11:45 PM ET",
+      "body": "- **Crypto.com and Novig exchanges sue Missouri over sports event contracts, BitcoinCasinos reports** — North American Derivatives Exchange, the CFTC-regulated exchange behind Crypto.com prediction markets, filed suit in the Western District of Missouri on October 16, and Ludlow Exchange, which does business as Novig, filed a companion suit in the Eastern District the same day, arguing the Commodity Exchange Act preempts Missouri gambling law. The suits answer September cease-and-desist letters to six operators that gave them 30 days to stop serving Missouri or obtain a state license, pay a 10 percent tax on adjusted gross revenue and pay license fees of up to 500,000 dollars. ([BitcoinCasinos](https://www.bitcoincasinos.com/blog/2026/10/22/crypto-com-novig-sue-missouri-sports-event-contracts/))",
+      "image_url": null,
+      "published": "2026-10-22T23:45:00-04:00",
+      "source": "2026-10-22_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-22_2345-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_2345-edt-2",
+      "title": "Prediction market pioneers question whether volume boom improves accuracy at NEXTPredict panel, NEXTPredict reports",
+      "content_text": "- **Prediction market pioneers question whether volume boom improves accuracy at NEXTPredict panel, NEXTPredict reports** — At the final main-stage panel of Day 1 at NEXTPredict NYC on Thursday, Microsoft Research economist David Rothschild said modern prediction markets are heavily driven toward volume, which is not necessarily optimized toward accuracy. Robin Hanson, Emile Servan-Schreiber and Tobias Moskowitz debated whether beneficiaries should pay to subsidize more accurate markets, whether adding traders trades expertise for diversity, and whether AI forecasting could take over part of the forecasting role while markets remain popular for trading. ([NEXTPredict](https://nextpredict.io/market-news/industry/prediction-market-pioneers-debate-volume-vs-accuracy/))",
+      "content_html": "<p>- **Prediction market pioneers question whether volume boom improves accuracy at NEXTPredict panel, NEXTPredict reports** — At the final main-stage panel of Day 1 at NEXTPredict NYC on Thursday, Microsoft Research economist David Rothschild said modern prediction markets are heavily driven toward volume, which is not necessarily optimized toward accuracy. Robin Hanson, Emile Servan-Schreiber and Tobias Moskowitz debated whether beneficiaries should pay to subsidize more accurate markets, whether adding traders trades expertise for diversity, and whether AI forecasting could take over part of the forecasting role while markets remain popular for trading. ([NEXTPredict](https://nextpredict.io/market-news/industry/prediction-market-pioneers-debate-volume-vs-accuracy/))</p>",
+      "date_published": "2026-10-22T23:45:00-04:00",
+      "date_modified": "2026-10-22T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://nextpredict.io/market-news/industry/prediction-market-pioneers-debate-volume-vs-accuracy/",
+      "links": [
+        "https://nextpredict.io/market-news/industry/prediction-market-pioneers-debate-volume-vs-accuracy/"
+      ],
+      "timestamp": "Oct 22, 2026 · 11:45 PM ET",
+      "body": "- **Prediction market pioneers question whether volume boom improves accuracy at NEXTPredict panel, NEXTPredict reports** — At the final main-stage panel of Day 1 at NEXTPredict NYC on Thursday, Microsoft Research economist David Rothschild said modern prediction markets are heavily driven toward volume, which is not necessarily optimized toward accuracy. Robin Hanson, Emile Servan-Schreiber and Tobias Moskowitz debated whether beneficiaries should pay to subsidize more accurate markets, whether adding traders trades expertise for diversity, and whether AI forecasting could take over part of the forecasting role while markets remain popular for trading. ([NEXTPredict](https://nextpredict.io/market-news/industry/prediction-market-pioneers-debate-volume-vs-accuracy/))",
+      "image_url": null,
+      "published": "2026-10-22T23:45:00-04:00",
+      "source": "2026-10-22_2345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-22_2345-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_2345-edt-3",
+      "title": "Trader places 37,000 dollar bet on Marine Le Pen winning the 2027 French presidential election on Polymarket, Quiver Quantitative reports",
+      "content_text": "- **Trader places 37,000 dollar bet on Marine Le Pen winning the 2027 French presidential election on Polymarket, Quiver Quantitative reports** — A trader bought 37,200 dollars of Yes shares at 46 percent odds on Thursday, October 22 at 7:43 AM ET on whether Marine Le Pen will win the 2027 French presidential election, a position that would pay about 42,800 dollars in profit if it wins. Yes odds are now 46 percent, unchanged from a day earlier and up from 44 percent a week earlier, with other large trades on the question in the past seven days totaling 65,987 dollars across two trades leaning entirely Yes. ([Quiver Quantitative](https://www.quiverquant.com/news/A+trader+just+placed+a+%2437K+bet+on+Marine+Le+Pen+winning+the+2027+French+presidential+election))",
+      "content_html": "<p>- **Trader places 37,000 dollar bet on Marine Le Pen winning the 2027 French presidential election on Polymarket, Quiver Quantitative reports** — A trader bought 37,200 dollars of Yes shares at 46 percent odds on Thursday, October 22 at 7:43 AM ET on whether Marine Le Pen will win the 2027 French presidential election, a position that would pay about 42,800 dollars in profit if it wins. Yes odds are now 46 percent, unchanged from a day earlier and up from 44 percent a week earlier, with other large trades on the question in the past seven days totaling 65,987 dollars across two trades leaning entirely Yes. ([Quiver Quantitative](https://www.quiverquant.com/news/A+trader+just+placed+a+%2437K+bet+on+Marine+Le+Pen+winning+the+2027+French+presidential+election))</p>",
+      "date_published": "2026-10-22T23:45:00-04:00",
+      "date_modified": "2026-10-22T23:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.quiverquant.com/news/A+trader+just+placed+a+%2437K+bet+on+Marine+Le+Pen+winning+the+2027+French+presidential+election",
+      "links": [
+        "https://www.quiverquant.com/news/A+trader+just+placed+a+%2437K+bet+on+Marine+Le+Pen+winning+the+2027+French+presidential+election"
+      ],
+      "timestamp": "Oct 22, 2026 · 11:45 PM ET",
+      "body": "- **Trader places 37,000 dollar bet on Marine Le Pen winning the 2027 French presidential election on Polymarket, Quiver Quantitative reports** — A trader bought 37,200 dollars of Yes shares at 46 percent odds on Thursday, October 22 at 7:43 AM ET on whether Marine Le Pen will win the 2027 French presidential election, a position that would pay about 42,800 dollars in profit if it wins. Yes odds are now 46 percent, unchanged from a day earlier and up from 44 percent a week earlier, with other large trades on the question in the past seven days totaling 65,987 dollars across two trades leaning entirely Yes. ([Quiver Quantitative](https://www.quiverquant.com/news/A+trader+just+placed+a+%2437K+bet+on+Marine+Le+Pen+winning+the+2027+French+presidential+election))",
+      "image_url": null,
+      "published": "2026-10-22T23:45:00-04:00",
+      "source": "2026-10-22_2345-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-22_2324-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_2324-edt",
@@ -4594,125 +4711,6 @@
       "image_url": null,
       "published": "2026-10-22T06:45:00-04:00",
       "source": "2026-10-22_0645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_0645-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_0645-edt-3",
-      "title": "Polymarket becomes official prediction market partner of the Yankees, DeFi Rate reports",
-      "content_text": "- **Polymarket becomes official prediction market partner of the Yankees, DeFi Rate reports** — DeFi Rate reports Polymarket branding will appear throughout Yankee Stadium for the remainder of the season, including LED signage and rotating signage behind home plate on YES Network and Prime Video broadcasts, building on the March league deal that named Polymarket the exclusive prediction market exchange partner of MLB, even as New York pursues an enforcement action against Kalshi. ([DeFi Rate](https://defirate.com/news/polymarket-prediction-market-partner-yankees-new-york-legal-battles/))",
-      "content_html": "<p>- **Polymarket becomes official prediction market partner of the Yankees, DeFi Rate reports** — DeFi Rate reports Polymarket branding will appear throughout Yankee Stadium for the remainder of the season, including LED signage and rotating signage behind home plate on YES Network and Prime Video broadcasts, building on the March league deal that named Polymarket the exclusive prediction market exchange partner of MLB, even as New York pursues an enforcement action against Kalshi. ([DeFi Rate](https://defirate.com/news/polymarket-prediction-market-partner-yankees-new-york-legal-battles/))</p>",
-      "date_published": "2026-10-22T06:45:00-04:00",
-      "date_modified": "2026-10-22T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/polymarket-prediction-market-partner-yankees-new-york-legal-battles/",
-      "links": [
-        "https://defirate.com/news/polymarket-prediction-market-partner-yankees-new-york-legal-battles/"
-      ],
-      "timestamp": "Oct 22, 2026 · 6:45 AM ET",
-      "body": "- **Polymarket becomes official prediction market partner of the Yankees, DeFi Rate reports** — DeFi Rate reports Polymarket branding will appear throughout Yankee Stadium for the remainder of the season, including LED signage and rotating signage behind home plate on YES Network and Prime Video broadcasts, building on the March league deal that named Polymarket the exclusive prediction market exchange partner of MLB, even as New York pursues an enforcement action against Kalshi. ([DeFi Rate](https://defirate.com/news/polymarket-prediction-market-partner-yankees-new-york-legal-battles/))",
-      "image_url": null,
-      "published": "2026-10-22T06:45:00-04:00",
-      "source": "2026-10-22_0645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_0645-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_0645-edt-4",
-      "title": "Manifold market prices S&P 500 finishing 2026 higher at 94 percent, Tech Insider reports",
-      "content_text": "- **Manifold market prices S&P 500 finishing 2026 higher at 94 percent, Tech Insider reports** — A Manifold play-money market prices a 94 percent probability that the S&P 500 ends 2026 above where it began the year, as of October 19, with the index already up about 12 percent by mid-October and 126 unique bettors active in the contract. ([Tech Insider](https://tech-insider.org/will-sp-500-increase-in-2026-prediction-market/))",
-      "content_html": "<p>- **Manifold market prices S&amp;P 500 finishing 2026 higher at 94 percent, Tech Insider reports** — A Manifold play-money market prices a 94 percent probability that the S&amp;P 500 ends 2026 above where it began the year, as of October 19, with the index already up about 12 percent by mid-October and 126 unique bettors active in the contract. ([Tech Insider](https://tech-insider.org/will-sp-500-increase-in-2026-prediction-market/))</p>",
-      "date_published": "2026-10-22T06:45:00-04:00",
-      "date_modified": "2026-10-22T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://tech-insider.org/will-sp-500-increase-in-2026-prediction-market/",
-      "links": [
-        "https://tech-insider.org/will-sp-500-increase-in-2026-prediction-market/"
-      ],
-      "timestamp": "Oct 22, 2026 · 6:45 AM ET",
-      "body": "- **Manifold market prices S&P 500 finishing 2026 higher at 94 percent, Tech Insider reports** — A Manifold play-money market prices a 94 percent probability that the S&P 500 ends 2026 above where it began the year, as of October 19, with the index already up about 12 percent by mid-October and 126 unique bettors active in the contract. ([Tech Insider](https://tech-insider.org/will-sp-500-increase-in-2026-prediction-market/))",
-      "image_url": null,
-      "published": "2026-10-22T06:45:00-04:00",
-      "source": "2026-10-22_0645-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-22_0624-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-22_0624-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKalshi, Polymarket and their founders have given at least $5 million combined to political groups this cycle, Reuters reports\nReuters, published this morning, reports the pair's first significant foray into political giving, slightly favoring Republicans at $2.7 million, including a previously…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.reuters.com/business/finance/polymarket-kalshi-expand-political-donations-firms-face-state-federal-scrutiny-2026-10-22/\n\nLuiz Inácio Lula da Silva win the 2026 Brazilian presidential election priced at 22.0% on Kalshi, up 3 points, on $3.8M traded\nPredictionBubbles' movers board, refreshed to its Oct. 22, 09:41 UTC snapshot, lists the Lula outright Kalshi contract among its upward political moves, in a…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kalshi, Polymarket and their founders have given at least $5 million combined to political groups this cycle, Reuters reports<br/>Reuters, published this morning, reports the pair&#x27;s first significant foray into political giving, slightly favoring Republicans at $2.7 million, including a previously…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://www.reuters.com/business/finance/polymarket-kalshi-expand-political-donations-firms-face-state-federal-scrutiny-2026-10-22/<br/><br/>Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election priced at 22.0% on Kalshi, up 3 points, on $3.8M traded<br/>PredictionBubbles&#x27; movers board, refreshed to its Oct. 22, 09:41 UTC snapshot, lists the Lula outright Kalshi contract among its upward political moves, in a…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-22T06:24:00-04:00",
-      "date_modified": "2026-10-22T06:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/business/finance/polymarket-kalshi-expand-political-donations-firms-face-state-federal-scrutiny-2026-10-22/",
-      "links": [
-        "https://www.reuters.com/business/finance/polymarket-kalshi-expand-political-donations-firms-face-state-federal-scrutiny-2026-10-22/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 22, 2026 · 6:24 AM ET",
-      "body": "Infiniti Briefing\n\nKalshi, Polymarket and their founders have given at least $5 million combined to political groups this cycle, Reuters reports\nReuters, published this morning, reports the pair's first significant foray into political giving, slightly favoring Republicans at $2.7 million, including a previously…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://www.reuters.com/business/finance/polymarket-kalshi-expand-political-donations-firms-face-state-federal-scrutiny-2026-10-22/\n\nLuiz Inácio Lula da Silva win the 2026 Brazilian presidential election priced at 22.0% on Kalshi, up 3 points, on $3.8M traded\nPredictionBubbles' movers board, refreshed to its Oct. 22, 09:41 UTC snapshot, lists the Lula outright Kalshi contract among its upward political moves, in a…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-22T06:24:00-04:00",
-      "source": "2026-10-22_0624-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_0615-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_0615-edt-0",
-      "title": "Robinhood expands prediction markets with NFL parlays and preset combos, GambleRss reports",
-      "content_text": "- **Robinhood expands prediction markets with NFL parlays and preset combos, GambleRss reports** — Robinhood announced NFL parlay-style trades and player-specific wagers starting this week, moving beyond single yes/no markets with preset combos that pay only if every component is correct. The company said custom combos bundling as many as 10 outcomes in one trade are planned for the start of 2026, and cited 100 million dollars in annualized prediction market revenue on 11 billion traded contracts. ([GambleRss](https://gamblerss.com/robinhood-expands-prediction-markets-with-nfl-parlays-51625))",
-      "content_html": "<p>- **Robinhood expands prediction markets with NFL parlays and preset combos, GambleRss reports** — Robinhood announced NFL parlay-style trades and player-specific wagers starting this week, moving beyond single yes/no markets with preset combos that pay only if every component is correct. The company said custom combos bundling as many as 10 outcomes in one trade are planned for the start of 2026, and cited 100 million dollars in annualized prediction market revenue on 11 billion traded contracts. ([GambleRss](https://gamblerss.com/robinhood-expands-prediction-markets-with-nfl-parlays-51625))</p>",
-      "date_published": "2026-10-22T06:15:00-04:00",
-      "date_modified": "2026-10-22T06:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/robinhood-expands-prediction-markets-with-nfl-parlays-51625",
-      "links": [
-        "https://gamblerss.com/robinhood-expands-prediction-markets-with-nfl-parlays-51625"
-      ],
-      "timestamp": "Oct 22, 2026 · 6:15 AM ET",
-      "body": "- **Robinhood expands prediction markets with NFL parlays and preset combos, GambleRss reports** — Robinhood announced NFL parlay-style trades and player-specific wagers starting this week, moving beyond single yes/no markets with preset combos that pay only if every component is correct. The company said custom combos bundling as many as 10 outcomes in one trade are planned for the start of 2026, and cited 100 million dollars in annualized prediction market revenue on 11 billion traded contracts. ([GambleRss](https://gamblerss.com/robinhood-expands-prediction-markets-with-nfl-parlays-51625))",
-      "image_url": null,
-      "published": "2026-10-22T06:15:00-04:00",
-      "source": "2026-10-22_0615-edt.json",
       "matches_facebook_post": false
     }
   ]
