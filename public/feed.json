@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-23T05:25:35.181424-04:00",
+  "updated": "2026-10-23T05:57:13.538909-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-23_0554-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_0554-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nMax Verstappen win the F1 Drivers Championship priced at 8.0% on Kalshi, up 6 points, on $1.7M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report that already led the Oct. 22 0624…\n#PredictionMarkets #Kalshi #Polymarket #ETF\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 87.5% on Polymarket, down 3.5 points, on $521K traded\nPredictionBubbles' movers board lists the Iotova outright-winner contract among its downward political moves, in a political/election category distinct from the lead,…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Max Verstappen win the F1 Drivers Championship priced at 8.0% on Kalshi, up 6 points, on $1.7M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report that already led the Oct. 22 0624…<br/>#PredictionMarkets #Kalshi #Polymarket #ETF<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Iliana Iotova win the next Bulgarian presidential election priced at 87.5% on Polymarket, down 3.5 points, on $521K traded<br/>PredictionBubbles&#x27; movers board lists the Iotova outright-winner contract among its downward political moves, in a political/election category distinct from the lead,…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-23T05:54:00-04:00",
+      "date_modified": "2026-10-23T05:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "ETF",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 23, 2026 · 5:54 AM ET",
+      "body": "Infiniti Briefing\n\nMax Verstappen win the F1 Drivers Championship priced at 8.0% on Kalshi, up 6 points, on $1.7M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the Reuters political-donations report that already led the Oct. 22 0624…\n#PredictionMarkets #Kalshi #Polymarket #ETF\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 87.5% on Polymarket, down 3.5 points, on $521K traded\nPredictionBubbles' movers board lists the Iotova outright-winner contract among its downward political moves, in a political/election category distinct from the lead,…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-23T05:54:00-04:00",
+      "source": "2026-10-23_0554-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-23_0524-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_0524-edt",
@@ -4669,33 +4702,6 @@
       ],
       "timestamp": "Oct 22, 2026 · 12:45 PM ET",
       "body": "- **Polymarket prices Bitcoin hitting 130,000 dollars this year at 3 percent, Crypto Briefing reports** — Crypto Briefing says Polymarket pricing on October 22 gave Bitcoin a 3 percent probability of hitting 130,000 dollars or higher this year, with Bitcoin trading in the low to mid 80,000 dollar range after peaking near 126,080 dollars in October 2025. Deribit options pricing implies a 20 to 25 percent chance Bitcoin touches 100,000 dollars by year-end. ([Crypto Briefing](https://cryptobriefing.com/bitcoin-record-high-odds-3-percent/))",
-      "image_url": null,
-      "published": "2026-10-22T12:45:00-04:00",
-      "source": "2026-10-22_1245-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-22_1245-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-22_1245-edt-3",
-      "title": "Predict.fun launch market jumps as the above 1 billion dollar line rises 19 points to 58 percent, RG reports",
-      "content_text": "- **Predict.fun launch market jumps as the above 1 billion dollar line rises 19 points to 58 percent, RG reports** — RG's 24-hour movers table shows Predict.fun fully diluted value lines gaining most, with above 1 billion dollars up 19 points to 58 percent, above 800 million dollars at 74 percent and above 1.5 billion dollars at 40 percent. Binance Wallet listed pre-launch PREDICT perpetuals with up to 5x leverage on October 21. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-ethereum-world-series-october-22-2026))",
-      "content_html": "<p>- **Predict.fun launch market jumps as the above 1 billion dollar line rises 19 points to 58 percent, RG reports** — RG&#x27;s 24-hour movers table shows Predict.fun fully diluted value lines gaining most, with above 1 billion dollars up 19 points to 58 percent, above 800 million dollars at 74 percent and above 1.5 billion dollars at 40 percent. Binance Wallet listed pre-launch PREDICT perpetuals with up to 5x leverage on October 21. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-ethereum-world-series-october-22-2026))</p>",
-      "date_published": "2026-10-22T12:45:00-04:00",
-      "date_modified": "2026-10-22T12:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-israel-election-ethereum-world-series-october-22-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-israel-election-ethereum-world-series-october-22-2026"
-      ],
-      "timestamp": "Oct 22, 2026 · 12:45 PM ET",
-      "body": "- **Predict.fun launch market jumps as the above 1 billion dollar line rises 19 points to 58 percent, RG reports** — RG's 24-hour movers table shows Predict.fun fully diluted value lines gaining most, with above 1 billion dollars up 19 points to 58 percent, above 800 million dollars at 74 percent and above 1.5 billion dollars at 40 percent. Binance Wallet listed pre-launch PREDICT perpetuals with up to 5x leverage on October 21. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-israel-election-ethereum-world-series-october-22-2026))",
       "image_url": null,
       "published": "2026-10-22T12:45:00-04:00",
       "source": "2026-10-22_1245-edt.json",
