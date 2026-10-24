@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T11:45:32.724342-04:00",
+  "updated": "2026-10-24T12:00:46.291430-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,69 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-24_1200-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1200-edt-0",
+      "title": "Prediction markets price a Democratic sweep near 60 percent ahead of the midterms, with gold levels at 4,000 and 4,500 dollars in focus, FXStreet reports",
+      "content_text": "- **Prediction markets price a Democratic sweep near 60 percent ahead of the midterms, with gold levels at 4,000 and 4,500 dollars in focus, FXStreet reports** — FXStreet reported on October 23 that prediction markets price a roughly 60 percent chance of a Democratic sweep in the November 3 midterms, about 30 percent for a divided Congress, and have almost priced out a Republican sweep. The analysis said the result could trigger a major repricing of the US dollar, Treasury yields and gold, with key gold levels around 4,000 dollars on the downside and 4,500 dollars on the upside. ([FXStreet](https://www.fxstreet.com/analysis/what-would-a-republican-sweep-mean-for-gold-and-treasury-yields-202610231410))",
+      "content_html": "<p>- **Prediction markets price a Democratic sweep near 60 percent ahead of the midterms, with gold levels at 4,000 and 4,500 dollars in focus, FXStreet reports** — FXStreet reported on October 23 that prediction markets price a roughly 60 percent chance of a Democratic sweep in the November 3 midterms, about 30 percent for a divided Congress, and have almost priced out a Republican sweep. The analysis said the result could trigger a major repricing of the US dollar, Treasury yields and gold, with key gold levels around 4,000 dollars on the downside and 4,500 dollars on the upside. ([FXStreet](https://www.fxstreet.com/analysis/what-would-a-republican-sweep-mean-for-gold-and-treasury-yields-202610231410))</p>",
+      "date_published": "2026-10-24T12:00:00-04:00",
+      "date_modified": "2026-10-24T12:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Congress",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://www.fxstreet.com/analysis/what-would-a-republican-sweep-mean-for-gold-and-treasury-yields-202610231410",
+      "links": [
+        "https://www.fxstreet.com/analysis/what-would-a-republican-sweep-mean-for-gold-and-treasury-yields-202610231410"
+      ],
+      "timestamp": "Oct 24, 2026 · 12:00 PM ET",
+      "body": "- **Prediction markets price a Democratic sweep near 60 percent ahead of the midterms, with gold levels at 4,000 and 4,500 dollars in focus, FXStreet reports** — FXStreet reported on October 23 that prediction markets price a roughly 60 percent chance of a Democratic sweep in the November 3 midterms, about 30 percent for a divided Congress, and have almost priced out a Republican sweep. The analysis said the result could trigger a major repricing of the US dollar, Treasury yields and gold, with key gold levels around 4,000 dollars on the downside and 4,500 dollars on the upside. ([FXStreet](https://www.fxstreet.com/analysis/what-would-a-republican-sweep-mean-for-gold-and-treasury-yields-202610231410))",
+      "image_url": null,
+      "published": "2026-10-24T12:00:00-04:00",
+      "source": "2026-10-24_1200-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1154-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1154-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nArsenal win the 2026-27 English Premier League priced at 66.0% on Polymarket, up 3.5 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nViking Therapeutics be acquired before 2027 priced at 12.0% on Polymarket, on $1.7M traded\nPredictionBubbles' finance board lists the Viking acquisition contract among its most-traded finance markets, in a finance/business category distinct from the lead. It…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Arsenal win the 2026-27 English Premier League priced at 66.0% on Polymarket, up 3.5 points, on $1.2M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Viking Therapeutics be acquired before 2027 priced at 12.0% on Polymarket, on $1.7M traded<br/>PredictionBubbles&#x27; finance board lists the Viking acquisition contract among its most-traded finance markets, in a finance/business category distinct from the lead. It…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/finance/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T11:54:00-04:00",
+      "date_modified": "2026-10-24T11:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/finance/"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:54 AM ET",
+      "body": "Infiniti Briefing\n\nArsenal win the 2026-27 English Premier League priced at 66.0% on Polymarket, up 3.5 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nViking Therapeutics be acquired before 2027 priced at 12.0% on Polymarket, on $1.7M traded\nPredictionBubbles' finance board lists the Viking acquisition contract among its most-traded finance markets, in a finance/business category distinct from the lead. It…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T11:54:00-04:00",
+      "source": "2026-10-24_1154-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-24_1145-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1145-edt-0",
@@ -4675,67 +4738,6 @@
       ],
       "timestamp": "Oct 23, 2026 · 9:15 PM ET",
       "body": "- **Prediction markets price Democrats at 91 to 92 percent for the House and 68 to 69 percent for the Senate, ahead of polling forecasts on the Senate** — Action Network's October 23 comparison shows Polymarket US and Kalshi pricing Democrats at 91 to 92 percent to win the House and 68 to 69 percent for the Senate, broadly matching polling on the House but running ahead of forecast models on the Senate. Decision Desk HQ's Senate forecast, cited in parallel coverage, put Democrats at 56 percent on October 21, about ten points below the market price. ([Action Network](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls))",
-      "image_url": null,
-      "published": "2026-10-23T21:15:00-04:00",
-      "source": "2026-10-23_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2115-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2115-edt-3",
-      "title": "Hyperliquid launches outcome contracts aimed at Kalshi and Polymarket, with its first Bitcoin market out-trading both rivals combined",
-      "content_text": "- **Hyperliquid launches outcome contracts aimed at Kalshi and Polymarket, with its first Bitcoin market out-trading both rivals combined** — Hyperliquid has launched its first outcome contracts, and Hyperion DeFi CEO Hyunsu Jung told DL News its first Bitcoin outcome market did roughly three times the volume of equivalent markets on Polymarket and Kalshi combined. Bernstein has also begun covering prediction markets as one of three digital-asset trends it now tracks, alongside tokenisation and stablecoins. ([BitRss](https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565))",
-      "content_html": "<p>- **Hyperliquid launches outcome contracts aimed at Kalshi and Polymarket, with its first Bitcoin market out-trading both rivals combined** — Hyperliquid has launched its first outcome contracts, and Hyperion DeFi CEO Hyunsu Jung told DL News its first Bitcoin outcome market did roughly three times the volume of equivalent markets on Polymarket and Kalshi combined. Bernstein has also begun covering prediction markets as one of three digital-asset trends it now tracks, alongside tokenisation and stablecoins. ([BitRss](https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565))</p>",
-      "date_published": "2026-10-23T21:15:00-04:00",
-      "date_modified": "2026-10-23T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565",
-      "links": [
-        "https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565"
-      ],
-      "timestamp": "Oct 23, 2026 · 9:15 PM ET",
-      "body": "- **Hyperliquid launches outcome contracts aimed at Kalshi and Polymarket, with its first Bitcoin market out-trading both rivals combined** — Hyperliquid has launched its first outcome contracts, and Hyperion DeFi CEO Hyunsu Jung told DL News its first Bitcoin outcome market did roughly three times the volume of equivalent markets on Polymarket and Kalshi combined. Bernstein has also begun covering prediction markets as one of three digital-asset trends it now tracks, alongside tokenisation and stablecoins. ([BitRss](https://bitrss.com/hyperliquid-takes-aim-at-kalshi-polymarket-targeting-24bn-prediction-markets-207565))",
-      "image_url": null,
-      "published": "2026-10-23T21:15:00-04:00",
-      "source": "2026-10-23_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2115-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2115-edt-4",
-      "title": "Polymarket blocked in India as MeitY targets prediction market platforms under the Online Gaming Act 2025",
-      "content_text": "- **Polymarket blocked in India as MeitY targets prediction market platforms under the Online Gaming Act 2025** — Polymarket has been blocked in India following enforcement targeting online prediction market platforms, with authorities classifying the products as online money games under the Promotion and Regulation of Online Gaming Act 2025. Kalshi could face similar action according to people familiar with the matter, though it remained accessible in India at publication time. ([BitRss](https://bitrss.com/polymarket-blocked-in-india-as-meity-targets-prediction-market-platforms-213239))",
-      "content_html": "<p>- **Polymarket blocked in India as MeitY targets prediction market platforms under the Online Gaming Act 2025** — Polymarket has been blocked in India following enforcement targeting online prediction market platforms, with authorities classifying the products as online money games under the Promotion and Regulation of Online Gaming Act 2025. Kalshi could face similar action according to people familiar with the matter, though it remained accessible in India at publication time. ([BitRss](https://bitrss.com/polymarket-blocked-in-india-as-meity-targets-prediction-market-platforms-213239))</p>",
-      "date_published": "2026-10-23T21:15:00-04:00",
-      "date_modified": "2026-10-23T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/polymarket-blocked-in-india-as-meity-targets-prediction-market-platforms-213239",
-      "links": [
-        "https://bitrss.com/polymarket-blocked-in-india-as-meity-targets-prediction-market-platforms-213239"
-      ],
-      "timestamp": "Oct 23, 2026 · 9:15 PM ET",
-      "body": "- **Polymarket blocked in India as MeitY targets prediction market platforms under the Online Gaming Act 2025** — Polymarket has been blocked in India following enforcement targeting online prediction market platforms, with authorities classifying the products as online money games under the Promotion and Regulation of Online Gaming Act 2025. Kalshi could face similar action according to people familiar with the matter, though it remained accessible in India at publication time. ([BitRss](https://bitrss.com/polymarket-blocked-in-india-as-meity-targets-prediction-market-platforms-213239))",
       "image_url": null,
       "published": "2026-10-23T21:15:00-04:00",
       "source": "2026-10-23_2115-edt.json",
