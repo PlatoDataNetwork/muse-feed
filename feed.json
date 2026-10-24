@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T11:02:08.771391-04:00",
+  "updated": "2026-10-24T11:19:30.034842-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,13 +128,43 @@
   ],
   "items": [
     {
-      "id": "infiniti-2026-10-24_1054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1054-edt",
+      "id": "web-2026-10-24_1115-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1115-edt-0",
+      "title": "Anti-Corruption Data Collective flags 152 Polymarket wallets as suspected military insider traders, with 2 million dollars in trades winning 8 million dollars, GambleRss reports",
+      "content_text": "- **Anti-Corruption Data Collective flags 152 Polymarket wallets as suspected military insider traders, with 2 million dollars in trades winning 8 million dollars, GambleRss reports** — The Anti-Corruption Data Collective report Classifying Insider Trading Risk identified 152 wallets on Polymarket's international platform that trade mainly in US military-event markets, placed about 2 million dollars in longshot trades and won about 8 million dollars at a 97.2 percent win rate. The report says another 648 wallets appear to follow those trades into similar longshots, and notes the accounts were on the international platform, not the CFTC-regulated US platform. ([GambleRss](https://gamblerss.com/report-warns-prediction-markets-could-tip-foreign-adversaries-to-sensitive-us-military-operations-67922))",
+      "content_html": "<p>- **Anti-Corruption Data Collective flags 152 Polymarket wallets as suspected military insider traders, with 2 million dollars in trades winning 8 million dollars, GambleRss reports** — The Anti-Corruption Data Collective report Classifying Insider Trading Risk identified 152 wallets on Polymarket&#x27;s international platform that trade mainly in US military-event markets, placed about 2 million dollars in longshot trades and won about 8 million dollars at a 97.2 percent win rate. The report says another 648 wallets appear to follow those trades into similar longshots, and notes the accounts were on the international platform, not the CFTC-regulated US platform. ([GambleRss](https://gamblerss.com/report-warns-prediction-markets-could-tip-foreign-adversaries-to-sensitive-us-military-operations-67922))</p>",
+      "date_published": "2026-10-24T11:15:00-04:00",
+      "date_modified": "2026-10-24T11:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/report-warns-prediction-markets-could-tip-foreign-adversaries-to-sensitive-us-military-operations-67922",
+      "links": [
+        "https://gamblerss.com/report-warns-prediction-markets-could-tip-foreign-adversaries-to-sensitive-us-military-operations-67922"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:15 AM ET",
+      "body": "- **Anti-Corruption Data Collective flags 152 Polymarket wallets as suspected military insider traders, with 2 million dollars in trades winning 8 million dollars, GambleRss reports** — The Anti-Corruption Data Collective report Classifying Insider Trading Risk identified 152 wallets on Polymarket's international platform that trade mainly in US military-event markets, placed about 2 million dollars in longshot trades and won about 8 million dollars at a 97.2 percent win rate. The report says another 648 wallets appear to follow those trades into similar longshots, and notes the accounts were on the international platform, not the CFTC-regulated US platform. ([GambleRss](https://gamblerss.com/report-warns-prediction-markets-could-tip-foreign-adversaries-to-sensitive-us-military-operations-67922))",
+      "image_url": null,
+      "published": "2026-10-24T11:15:00-04:00",
+      "source": "2026-10-24_1115-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1109-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1109-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket, up 1.2 points, on $180K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/finance/\n\nTesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket, down 2.5 points, on $322K traded\nPredictionBubbles' tech board lists the merger-announcement contract among its downward tech moves, in a tech category distinct from the lead. It has zero hits in any…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket, up 1.2 points, on $180K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Tesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket, down 2.5 points, on $322K traded<br/>PredictionBubbles&#x27; tech board lists the merger-announcement contract among its downward tech moves, in a tech category distinct from the lead. It has zero hits in any…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/tech/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-24T10:54:00-04:00",
-      "date_modified": "2026-10-24T10:54:00-04:00",
+      "content_text": "Infiniti Briefing\n\nAvengers: Doomsday have the best domestic opening weekend in 2026 priced at 55.5% on Polymarket, up 2.5 points, on $509K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nEthereum dip to $2,000 by December 31, 2026 priced at 34.0% on Polymarket, up 4.0 points, on $592K traded\nPredictionBubbles' movers board lists the Ethereum $2,000 downside contract among its upward crypto moves, in a crypto/commodities category distinct from the lead. It…\n#PredictionMarkets #Polymarket #Ethereum\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Avengers: Doomsday have the best domestic opening weekend in 2026 priced at 55.5% on Polymarket, up 2.5 points, on $509K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Ethereum dip to $2,000 by December 31, 2026 priced at 34.0% on Polymarket, up 4.0 points, on $592K traded<br/>PredictionBubbles&#x27; movers board lists the Ethereum $2,000 downside contract among its upward crypto moves, in a crypto/commodities category distinct from the lead. It…<br/>#PredictionMarkets #Polymarket #Ethereum<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T11:09:00-04:00",
+      "date_modified": "2026-10-24T11:09:00-04:00",
       "authors": [
         {
           "name": "Infiniti Oracle",
@@ -145,20 +175,58 @@
         "PredictionMarkets",
         "Kalshi",
         "Polymarket",
-        "NFL"
+        "NFL",
+        "Ethereum"
       ],
       "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:09 AM ET",
+      "body": "Infiniti Briefing\n\nAvengers: Doomsday have the best domestic opening weekend in 2026 priced at 55.5% on Polymarket, up 2.5 points, on $509K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nEthereum dip to $2,000 by December 31, 2026 priced at 34.0% on Polymarket, up 4.0 points, on $592K traded\nPredictionBubbles' movers board lists the Ethereum $2,000 downside contract among its upward crypto moves, in a crypto/commodities category distinct from the lead. It…\n#PredictionMarkets #Polymarket #Ethereum\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T11:09:00-04:00",
+      "source": "2026-10-24_1109-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\nBank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket\nUp 1.2 points on $180K traded.\n#BankOfCanada #Finance #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nTesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket\nDown 2.5 points on $322K traded.\n#Tesla #SpaceX #Tech #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/tech/\n\nIAEA visits Isfahan, Fordow, or Natanz nuclear site by December 31 priced at 17.0% on Polymarket\nUp 3.5 points on $149K traded.\n#IAEA #Geopolitics #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 302.2M contracts | Gold 40.2M | WTI 11.6M | ETH 22.2M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket<br/>Up 1.2 points on $180K traded.<br/>#BankOfCanada #Finance #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Tesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket<br/>Down 2.5 points on $322K traded.<br/>#Tesla #SpaceX #Tech #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/tech/<br/><br/>IAEA visits Isfahan, Fordow, or Natanz nuclear site by December 31 priced at 17.0% on Polymarket<br/>Up 3.5 points on $149K traded.<br/>#IAEA #Geopolitics #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: BTC 15M 302.2M contracts | Gold 40.2M | WTI 11.6M | ETH 22.2M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1054-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "date_published": "2026-10-24T10:54:00-04:00",
+      "date_modified": "2026-10-24T10:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "BankOfCanada",
+        "Finance",
+        "Polymarket",
+        "PredictionMarkets",
+        "Tesla",
+        "SpaceX",
+        "Tech",
+        "IAEA"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1054-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/finance/",
       "links": [
         "https://predictionbubbles.net/markets/finance/",
-        "https://predictionbubbles.net/markets/tech/"
+        "https://predictionbubbles.net/markets/tech/",
+        "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 24, 2026 · 10:54 AM ET",
-      "body": "Infiniti Briefing\n\nBank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket, up 1.2 points, on $180K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/finance/\n\nTesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket, down 2.5 points, on $322K traded\nPredictionBubbles' tech board lists the merger-announcement contract among its downward tech moves, in a tech category distinct from the lead. It has zero hits in any…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nBank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket\nUp 1.2 points on $180K traded.\n#BankOfCanada #Finance #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nTesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket\nDown 2.5 points on $322K traded.\n#Tesla #SpaceX #Tech #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/tech/\n\nIAEA visits Isfahan, Fordow, or Natanz nuclear site by December 31 priced at 17.0% on Polymarket\nUp 3.5 points on $149K traded.\n#IAEA #Geopolitics #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 302.2M contracts | Gold 40.2M | WTI 11.6M | ETH 22.2M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1054-edt.jpg",
       "published": "2026-10-24T10:54:00-04:00",
       "source": "2026-10-24_1054-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-24_1045-edt-0",
@@ -285,8 +353,8 @@
       "id": "infiniti-2026-10-24_1039-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1039-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nGeorgia win the College Football Playoff National Championship priced at 19.0% on Kalshi, up 4 points, on $3.9M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #NFL #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nIsrael strike 4 countries in 2026 priced at 72.0% on Polymarket, up 4.7 points, on $1.4M traded\nPredictionBubbles' movers board lists the strike-count contract among its upward political moves, in a political/geopolitics category distinct from the lead. It has zero…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Georgia win the College Football Playoff National Championship priced at 19.0% on Kalshi, up 4 points, on $3.9M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #NFL #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Israel strike 4 countries in 2026 priced at 72.0% on Polymarket, up 4.7 points, on $1.4M traded<br/>PredictionBubbles&#x27; movers board lists the strike-count contract among its upward political moves, in a political/geopolitics category distinct from the lead. It has zero…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nGeorgia win the College Football Playoff National Championship priced at 19.0% on Kalshi\nUp 4 points on $3.9M traded.\n#CollegeFootball #Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nIsrael strike 4 countries in 2026 priced at 72.0% on Polymarket\nUp 4.7 points on $1.4M traded.\n#Israel #Geopolitics #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nPerplexity AI be acquired before 2027 priced at 13.0% on Polymarket\nUp 2.5 points on $2.4M traded.\n#Perplexity #AI #Finance #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 302.2M contracts | Gold 40.2M | WTI 11.6M | ETH 22.2M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Georgia win the College Football Playoff National Championship priced at 19.0% on Kalshi<br/>Up 4 points on $3.9M traded.<br/>#CollegeFootball #Sports #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Israel strike 4 countries in 2026 priced at 72.0% on Polymarket<br/>Up 4.7 points on $1.4M traded.<br/>#Israel #Geopolitics #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Perplexity AI be acquired before 2027 priced at 13.0% on Polymarket<br/>Up 2.5 points on $2.4M traded.<br/>#Perplexity #AI #Finance #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Markets: BTC 15M 302.2M contracts | Gold 40.2M | WTI 11.6M | ETH 22.2M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1039-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-24T10:39:00-04:00",
       "date_modified": "2026-10-24T10:39:00-04:00",
       "authors": [
@@ -296,23 +364,27 @@
         }
       ],
       "tags": [
-        "PredictionMarkets",
+        "CollegeFootball",
+        "Sports",
         "Kalshi",
-        "NFL",
-        "Elections",
-        "Polymarket"
+        "PredictionMarkets",
+        "Israel",
+        "Geopolitics",
+        "Polymarket",
+        "Perplexity"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1039-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/movers/",
       "links": [
-        "https://predictionbubbles.net/markets/movers/"
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/finance/"
       ],
       "timestamp": "Oct 24, 2026 · 10:39 AM ET",
-      "body": "Infiniti Briefing\n\nGeorgia win the College Football Playoff National Championship priced at 19.0% on Kalshi, up 4 points, on $3.9M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #NFL #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nIsrael strike 4 countries in 2026 priced at 72.0% on Polymarket, up 4.7 points, on $1.4M traded\nPredictionBubbles' movers board lists the strike-count contract among its upward political moves, in a political/geopolitics category distinct from the lead. It has zero…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nGeorgia win the College Football Playoff National Championship priced at 19.0% on Kalshi\nUp 4 points on $3.9M traded.\n#CollegeFootball #Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nIsrael strike 4 countries in 2026 priced at 72.0% on Polymarket\nUp 4.7 points on $1.4M traded.\n#Israel #Geopolitics #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nPerplexity AI be acquired before 2027 priced at 13.0% on Polymarket\nUp 2.5 points on $2.4M traded.\n#Perplexity #AI #Finance #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 302.2M contracts | Gold 40.2M | WTI 11.6M | ETH 22.2M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1039-edt.jpg",
       "published": "2026-10-24T10:39:00-04:00",
       "source": "2026-10-24_1039-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-24_1030-edt-0",
@@ -4659,66 +4731,6 @@
       ],
       "timestamp": "Oct 23, 2026 · 8:15 PM ET",
       "body": "- **WSN says 21 states are suing, issuing orders or defending suits over prediction markets as of October 23, with three Supreme Court petitions pending** — WSN reported that as of October 23, 2026, state governments in 21 states are suing, issuing orders or defending suits over prediction markets, while appeals courts are split between the Third Circuit siding with Kalshi and the Ninth and Sixth Circuits siding with states. Three petitions sit at the Supreme Court from New Jersey, Robinhood and Crypto.com, with responses due in November. ([WSN](https://www.wsn.com/prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-23T20:15:00-04:00",
-      "source": "2026-10-23_2015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2015-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2015-edt-2",
-      "title": "Brewers draw 64 percent on Kalshi and 65 percent on Polymarket to win World Series against Rays, Jsonline reports",
-      "content_text": "- **Brewers draw 64 percent on Kalshi and 65 percent on Polymarket to win World Series against Rays, Jsonline reports** — Jsonline reported on October 23 that the Milwaukee Brewers were drawing 64 percent of predictions on Kalshi and 65 percent on Polymarket to win the World Series against the Tampa Bay Rays, with BetMGM listing Milwaukee at -185 and Tampa Bay at +160. Jackson Chourio was the MVP favorite on Kalshi at 14 percent and on Polymarket at 14 percent. ([Jsonline](https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/world-series-odds-brewers-rays-mvp/92380692007/))",
-      "content_html": "<p>- **Brewers draw 64 percent on Kalshi and 65 percent on Polymarket to win World Series against Rays, Jsonline reports** — Jsonline reported on October 23 that the Milwaukee Brewers were drawing 64 percent of predictions on Kalshi and 65 percent on Polymarket to win the World Series against the Tampa Bay Rays, with BetMGM listing Milwaukee at -185 and Tampa Bay at +160. Jackson Chourio was the MVP favorite on Kalshi at 14 percent and on Polymarket at 14 percent. ([Jsonline](https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/world-series-odds-brewers-rays-mvp/92380692007/))</p>",
-      "date_published": "2026-10-23T20:15:00-04:00",
-      "date_modified": "2026-10-23T20:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/world-series-odds-brewers-rays-mvp/92380692007/",
-      "links": [
-        "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/world-series-odds-brewers-rays-mvp/92380692007/"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:15 PM ET",
-      "body": "- **Brewers draw 64 percent on Kalshi and 65 percent on Polymarket to win World Series against Rays, Jsonline reports** — Jsonline reported on October 23 that the Milwaukee Brewers were drawing 64 percent of predictions on Kalshi and 65 percent on Polymarket to win the World Series against the Tampa Bay Rays, with BetMGM listing Milwaukee at -185 and Tampa Bay at +160. Jackson Chourio was the MVP favorite on Kalshi at 14 percent and on Polymarket at 14 percent. ([Jsonline](https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/world-series-odds-brewers-rays-mvp/92380692007/))",
-      "image_url": null,
-      "published": "2026-10-23T20:15:00-04:00",
-      "source": "2026-10-23_2015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2015-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2015-edt-3",
-      "title": "Study of about one million prediction questions finds Polymarket, Kalshi, Manifold and Metaculus forecasts highly calibrated, Marginal Revolution reports",
-      "content_text": "- **Study of about one million prediction questions finds Polymarket, Kalshi, Manifold and Metaculus forecasts highly calibrated, Marginal Revolution reports** — Marginal Revolution summarized a new paper evaluating about one million resolved contracts and questions across Polymarket, Kalshi, Manifold and Metaculus across twelve domains. The study found events assigned a probability of p percent occurred approximately p percent of the time, with systematic tendencies toward over- or underestimation in some highly consequential areas. ([Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html))",
-      "content_html": "<p>- **Study of about one million prediction questions finds Polymarket, Kalshi, Manifold and Metaculus forecasts highly calibrated, Marginal Revolution reports** — Marginal Revolution summarized a new paper evaluating about one million resolved contracts and questions across Polymarket, Kalshi, Manifold and Metaculus across twelve domains. The study found events assigned a probability of p percent occurred approximately p percent of the time, with systematic tendencies toward over- or underestimation in some highly consequential areas. ([Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html))</p>",
-      "date_published": "2026-10-23T20:15:00-04:00",
-      "date_modified": "2026-10-23T20:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html",
-      "links": [
-        "https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:15 PM ET",
-      "body": "- **Study of about one million prediction questions finds Polymarket, Kalshi, Manifold and Metaculus forecasts highly calibrated, Marginal Revolution reports** — Marginal Revolution summarized a new paper evaluating about one million resolved contracts and questions across Polymarket, Kalshi, Manifold and Metaculus across twelve domains. The study found events assigned a probability of p percent occurred approximately p percent of the time, with systematic tendencies toward over- or underestimation in some highly consequential areas. ([Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html))",
       "image_url": null,
       "published": "2026-10-23T20:15:00-04:00",
       "source": "2026-10-23_2015-edt.json",
