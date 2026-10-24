@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T11:19:30.034842-04:00",
+  "updated": "2026-10-24T11:29:21.471255-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-24_1124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nFlávio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket, up 5.3 points, on $26.6M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket, up 2.0 points, on $1.2M traded\nPredictionBubbles' crypto board lists the Bitcoin $70,000 year-end dip contract among its traded crypto markets, in a crypto/commodities category distinct from the lead.…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/crypto/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Flávio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket, up 5.3 points, on $26.6M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Bitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket, up 2.0 points, on $1.2M traded<br/>PredictionBubbles&#x27; crypto board lists the Bitcoin $70,000 year-end dip contract among its traded crypto markets, in a crypto/commodities category distinct from the lead.…<br/>#PredictionMarkets #Polymarket #Bitcoin<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T11:24:00-04:00",
+      "date_modified": "2026-10-24T11:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "NFL",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/crypto/"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:24 AM ET",
+      "body": "Infiniti Briefing\n\nFlávio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket, up 5.3 points, on $26.6M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket, up 2.0 points, on $1.2M traded\nPredictionBubbles' crypto board lists the Bitcoin $70,000 year-end dip contract among its traded crypto markets, in a crypto/commodities category distinct from the lead.…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/crypto/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T11:24:00-04:00",
+      "source": "2026-10-24_1124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-24_1115-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1115-edt-0",
@@ -4701,36 +4735,6 @@
       ],
       "timestamp": "Oct 23, 2026 · 8:15 PM ET",
       "body": "- **Kalshi and Polymarket price Democrats near 97 percent to hold New Jersey Senate seat in Booker race, NorthJersey.com reports** — NorthJersey.com reported on October 23 that Kalshi priced the Democratic side at about 97.4 percent and Polymarket at about 97.3 percent to win the New Jersey Senate race, where Cory Booker is seeking reelection. In-person early voting in New Jersey runs from October 24 through November 1 ahead of Election Day on November 3. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/23/cory-booker-nj-senate-election-forecast-2026/92393728007/))",
-      "image_url": null,
-      "published": "2026-10-23T20:15:00-04:00",
-      "source": "2026-10-23_2015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2015-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2015-edt-1",
-      "title": "WSN says 21 states are suing, issuing orders or defending suits over prediction markets as of October 23, with three Supreme Court petitions pending",
-      "content_text": "- **WSN says 21 states are suing, issuing orders or defending suits over prediction markets as of October 23, with three Supreme Court petitions pending** — WSN reported that as of October 23, 2026, state governments in 21 states are suing, issuing orders or defending suits over prediction markets, while appeals courts are split between the Third Circuit siding with Kalshi and the Ninth and Sixth Circuits siding with states. Three petitions sit at the Supreme Court from New Jersey, Robinhood and Crypto.com, with responses due in November. ([WSN](https://www.wsn.com/prediction-markets/))",
-      "content_html": "<p>- **WSN says 21 states are suing, issuing orders or defending suits over prediction markets as of October 23, with three Supreme Court petitions pending** — WSN reported that as of October 23, 2026, state governments in 21 states are suing, issuing orders or defending suits over prediction markets, while appeals courts are split between the Third Circuit siding with Kalshi and the Ninth and Sixth Circuits siding with states. Three petitions sit at the Supreme Court from New Jersey, Robinhood and Crypto.com, with responses due in November. ([WSN](https://www.wsn.com/prediction-markets/))</p>",
-      "date_published": "2026-10-23T20:15:00-04:00",
-      "date_modified": "2026-10-23T20:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "SCOTUS"
-      ],
-      "image": null,
-      "external_url": "https://www.wsn.com/prediction-markets/",
-      "links": [
-        "https://www.wsn.com/prediction-markets/"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:15 PM ET",
-      "body": "- **WSN says 21 states are suing, issuing orders or defending suits over prediction markets as of October 23, with three Supreme Court petitions pending** — WSN reported that as of October 23, 2026, state governments in 21 states are suing, issuing orders or defending suits over prediction markets, while appeals courts are split between the Third Circuit siding with Kalshi and the Ninth and Sixth Circuits siding with states. Three petitions sit at the Supreme Court from New Jersey, Robinhood and Crypto.com, with responses due in November. ([WSN](https://www.wsn.com/prediction-markets/))",
       "image_url": null,
       "published": "2026-10-23T20:15:00-04:00",
       "source": "2026-10-23_2015-edt.json",
