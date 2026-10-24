@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T16:41:16.451835-04:00",
+  "updated": "2026-10-24T16:56:59.273799-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,6 +128,69 @@
   ],
   "items": [
     {
+      "id": "infiniti-2026-10-24_1654-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1654-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nEthereum dip to $2,200 in October priced at 37.5% on Polymarket, up 14.0 points, on $141K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nKansas wins priced at 55.0% on Kalshi, up 8.0 points, on $1.6M traded\nPredictionBubbles' movers board lists the Kansas win contract among its upward sports moves, resolving in about a day, in a sports markets category distinct from the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Ethereum dip to $2,200 in October priced at 37.5% on Polymarket, up 14.0 points, on $141K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Kansas wins priced at 55.0% on Kalshi, up 8.0 points, on $1.6M traded<br/>PredictionBubbles&#x27; movers board lists the Kansas win contract among its upward sports moves, resolving in about a day, in a sports markets category distinct from the…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T16:54:00-04:00",
+      "date_modified": "2026-10-24T16:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 24, 2026 · 4:54 PM ET",
+      "body": "Infiniti Briefing\n\nEthereum dip to $2,200 in October priced at 37.5% on Polymarket, up 14.0 points, on $141K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nKansas wins priced at 55.0% on Kalshi, up 8.0 points, on $1.6M traded\nPredictionBubbles' movers board lists the Kansas win contract among its upward sports moves, resolving in about a day, in a sports markets category distinct from the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T16:54:00-04:00",
+      "source": "2026-10-24_1654-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1645-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1645-edt-0",
+      "title": "Kalshi and Polymarket disagree most on Manchester City title market at 17 cents against 12 cents, with Marine Le Pen at 50 against 46, PicksByOdds reports",
+      "content_text": "- **Kalshi and Polymarket disagree most on Manchester City title market at 17 cents against 12 cents, with Marine Le Pen at 50 against 46, PicksByOdds reports** — PicksByOdds reported its verified cross-listed pairs show the widest Kalshi and Polymarket gap on Manchester City to win the English Premier League, at 17 cents on Kalshi against 12 cents on Polymarket, a 5.0 point gap. The next widest pairs were Marine Le Pen to win the next French presidential election at 50 cents against 46 cents, and Arsenal to win the Premier League at 62 cents against 65 cents. ([PicksByOdds](https://picksbyodds.com/))",
+      "content_html": "<p>- **Kalshi and Polymarket disagree most on Manchester City title market at 17 cents against 12 cents, with Marine Le Pen at 50 against 46, PicksByOdds reports** — PicksByOdds reported its verified cross-listed pairs show the widest Kalshi and Polymarket gap on Manchester City to win the English Premier League, at 17 cents on Kalshi against 12 cents on Polymarket, a 5.0 point gap. The next widest pairs were Marine Le Pen to win the next French presidential election at 50 cents against 46 cents, and Arsenal to win the Premier League at 62 cents against 65 cents. ([PicksByOdds](https://picksbyodds.com/))</p>",
+      "date_published": "2026-10-24T16:45:00-04:00",
+      "date_modified": "2026-10-24T16:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://picksbyodds.com/",
+      "links": [
+        "https://picksbyodds.com/"
+      ],
+      "timestamp": "Oct 24, 2026 · 4:45 PM ET",
+      "body": "- **Kalshi and Polymarket disagree most on Manchester City title market at 17 cents against 12 cents, with Marine Le Pen at 50 against 46, PicksByOdds reports** — PicksByOdds reported its verified cross-listed pairs show the widest Kalshi and Polymarket gap on Manchester City to win the English Premier League, at 17 cents on Kalshi against 12 cents on Polymarket, a 5.0 point gap. The next widest pairs were Marine Le Pen to win the next French presidential election at 50 cents against 46 cents, and Arsenal to win the Premier League at 62 cents against 65 cents. ([PicksByOdds](https://picksbyodds.com/))",
+      "image_url": null,
+      "published": "2026-10-24T16:45:00-04:00",
+      "source": "2026-10-24_1645-edt.json",
+      "matches_facebook_post": false
+    },
+    {
       "id": "infiniti-2026-10-24_1639-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1639-edt",
       "title": "Infiniti Briefing",
@@ -194,8 +257,8 @@
       "id": "infiniti-2026-10-24_1624-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1624-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nAnthropic IPO by November 15, 2026 priced at 1.7% on Polymarket, down 5.0 points, on $226K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nGolden State Valkyries win the 2026 WNBA Finals priced at 44.4% on Polymarket, up 22.3 points, on $187K traded\nPredictionBubbles' movers board lists the Valkyries championship contract among its largest upward sports moves, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic IPO by November 15, 2026 priced at 1.7% on Polymarket, down 5.0 points, on $226K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Golden State Valkyries win the 2026 WNBA Finals priced at 44.4% on Polymarket, up 22.3 points, on $187K traded<br/>PredictionBubbles&#x27; movers board lists the Valkyries championship contract among its largest upward sports moves, in a sports markets category distinct from the lead. It…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nAnthropic IPO by November 15, 2026 priced at 1.7% on Polymarket\nDown 5.0 points on $226K traded, down 6.1 since Oct. 23 on volume up about $23K.\n#Finance #Anthropic #IPO #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nGolden State Valkyries win the 2026 WNBA Finals priced at 44.4% on Polymarket\nUp 22.3 points on $187K traded, up 22.8 since Oct. 22.\n#Sports #Valkyries #WNBA #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nJ.B. Pritzker win the next presidential election priced at 6.4% on Kalshi\nUp 4.5 points on $3.1M traded.\n#Politics #Pritzker #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 291.4M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Anthropic IPO by November 15, 2026 priced at 1.7% on Polymarket<br/>Down 5.0 points on $226K traded, down 6.1 since Oct. 23 on volume up about $23K.<br/>#Finance #Anthropic #IPO #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Golden State Valkyries win the 2026 WNBA Finals priced at 44.4% on Polymarket<br/>Up 22.3 points on $187K traded, up 22.8 since Oct. 22.<br/>#Sports #Valkyries #WNBA #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>J.B. Pritzker win the next presidential election priced at 6.4% on Kalshi<br/>Up 4.5 points on $3.1M traded.<br/>#Politics #Pritzker #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: BTC 15M 291.4M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1624-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-24T16:24:00-04:00",
       "date_modified": "2026-10-24T16:24:00-04:00",
       "authors": [
@@ -205,29 +268,33 @@
         }
       ],
       "tags": [
-        "PredictionMarkets",
-        "Kalshi",
+        "Finance",
+        "Anthropic",
+        "IPO",
         "Polymarket",
-        "CFTC"
+        "PredictionMarkets",
+        "Sports",
+        "Valkyries",
+        "WNBA"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1624-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/movers/",
       "links": [
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 24, 2026 · 4:24 PM ET",
-      "body": "Infiniti Briefing\n\nAnthropic IPO by November 15, 2026 priced at 1.7% on Polymarket, down 5.0 points, on $226K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nGolden State Valkyries win the 2026 WNBA Finals priced at 44.4% on Polymarket, up 22.3 points, on $187K traded\nPredictionBubbles' movers board lists the Valkyries championship contract among its largest upward sports moves, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nAnthropic IPO by November 15, 2026 priced at 1.7% on Polymarket\nDown 5.0 points on $226K traded, down 6.1 since Oct. 23 on volume up about $23K.\n#Finance #Anthropic #IPO #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nGolden State Valkyries win the 2026 WNBA Finals priced at 44.4% on Polymarket\nUp 22.3 points on $187K traded, up 22.8 since Oct. 22.\n#Sports #Valkyries #WNBA #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nJ.B. Pritzker win the next presidential election priced at 6.4% on Kalshi\nUp 4.5 points on $3.1M traded.\n#Politics #Pritzker #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 291.4M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1624-edt.jpg",
       "published": "2026-10-24T16:24:00-04:00",
       "source": "2026-10-24_1624-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-24_1609-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1609-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nGolden State wins priced at 74.0% on Kalshi, up 39 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic Party hold more than 52 seats in the 120th Congress priced at 36.0% on Kalshi, down 3 points, on $1.8M traded\nPredictionBubbles' movers board lists the Democratic seat-count contract among its downward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Kalshi #Congress #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Golden State wins priced at 74.0% on Kalshi, up 39 points, on $1.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Democratic Party hold more than 52 seats in the 120th Congress priced at 36.0% on Kalshi, down 3 points, on $1.8M traded<br/>PredictionBubbles&#x27; movers board lists the Democratic seat-count contract among its downward political moves, in a political/election category distinct from the lead. It…<br/>#PredictionMarkets #Kalshi #Congress #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "content_text": "Infiniti Briefing\nGolden State wins priced at 74.0% on Kalshi\nUp 39 points on $1.1M traded, fresh fixture repricing, resolving in about two days.\n#Sports #GoldenState #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic Party hold more than 52 seats in the 120th Congress priced at 36.0% on Kalshi\nDown 3 points on $1.8M traded, down 2.0 since Oct. 23 on volume up about $100K.\n#Politics #Congress #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nLovable be acquired before 2027 priced at 5.4% on Polymarket\nUp 0.1 points on $996K traded, included for depth on essentially flat volume.\n#Finance #Lovable #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 291.4M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Golden State wins priced at 74.0% on Kalshi<br/>Up 39 points on $1.1M traded, fresh fixture repricing, resolving in about two days.<br/>#Sports #GoldenState #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Democratic Party hold more than 52 seats in the 120th Congress priced at 36.0% on Kalshi<br/>Down 3 points on $1.8M traded, down 2.0 since Oct. 23 on volume up about $100K.<br/>#Politics #Congress #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Lovable be acquired before 2027 priced at 5.4% on Polymarket<br/>Up 0.1 points on $996K traded, included for depth on essentially flat volume.<br/>#Finance #Lovable #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Markets: BTC 15M 291.4M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1609-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
       "date_published": "2026-10-24T16:09:00-04:00",
       "date_modified": "2026-10-24T16:09:00-04:00",
       "authors": [
@@ -237,24 +304,27 @@
         }
       ],
       "tags": [
-        "PredictionMarkets",
+        "Sports",
+        "GoldenState",
         "Kalshi",
-        "Polymarket",
-        "CFTC",
+        "PredictionMarkets",
+        "Politics",
         "Congress",
-        "Elections"
+        "Finance",
+        "Lovable"
       ],
-      "image": null,
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1609-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/movers/",
       "links": [
-        "https://predictionbubbles.net/markets/movers/"
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/finance/"
       ],
       "timestamp": "Oct 24, 2026 · 4:09 PM ET",
-      "body": "Infiniti Briefing\n\nGolden State wins priced at 74.0% on Kalshi, up 39 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic Party hold more than 52 seats in the 120th Congress priced at 36.0% on Kalshi, down 3 points, on $1.8M traded\nPredictionBubbles' movers board lists the Democratic seat-count contract among its downward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Kalshi #Congress #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nGolden State wins priced at 74.0% on Kalshi\nUp 39 points on $1.1M traded, fresh fixture repricing, resolving in about two days.\n#Sports #GoldenState #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic Party hold more than 52 seats in the 120th Congress priced at 36.0% on Kalshi\nDown 3 points on $1.8M traded, down 2.0 since Oct. 23 on volume up about $100K.\n#Politics #Congress #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nLovable be acquired before 2027 priced at 5.4% on Polymarket\nUp 0.1 points on $996K traded, included for depth on essentially flat volume.\n#Finance #Lovable #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 291.4M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1609-edt.jpg",
       "published": "2026-10-24T16:09:00-04:00",
       "source": "2026-10-24_1609-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "infiniti-2026-10-24_1554-edt",
@@ -4737,64 +4807,6 @@
       "image_url": null,
       "published": "2026-10-24T03:24:00-04:00",
       "source": "2026-10-24_0324-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_0315-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_0315-edt-0",
-      "title": "Kalshi rolls out sector-wide KPI contracts beyond single-company bets, Prediction News reports",
-      "content_text": "- **Kalshi rolls out sector-wide KPI contracts beyond single-company bets, Prediction News reports** — Kalshi is expanding its corporate key performance indicator contracts into broader sector-wide offerings, letting users trade on industry-level trends rather than individual company metrics, Prediction News reported. Existing contracts cover Tesla deliveries and ChatGPT downloads, and no launch timing or specific product details were disclosed. ([Prediction News](https://predictionnews.com/story/kalshi-expands-corporate-kpi-contracts-into-sector-wide-offerings))",
-      "content_html": "<p>- **Kalshi rolls out sector-wide KPI contracts beyond single-company bets, Prediction News reports** — Kalshi is expanding its corporate key performance indicator contracts into broader sector-wide offerings, letting users trade on industry-level trends rather than individual company metrics, Prediction News reported. Existing contracts cover Tesla deliveries and ChatGPT downloads, and no launch timing or specific product details were disclosed. ([Prediction News](https://predictionnews.com/story/kalshi-expands-corporate-kpi-contracts-into-sector-wide-offerings))</p>",
-      "date_published": "2026-10-24T03:15:00-04:00",
-      "date_modified": "2026-10-24T03:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/kalshi-expands-corporate-kpi-contracts-into-sector-wide-offerings",
-      "links": [
-        "https://predictionnews.com/story/kalshi-expands-corporate-kpi-contracts-into-sector-wide-offerings"
-      ],
-      "timestamp": "Oct 24, 2026 · 3:15 AM ET",
-      "body": "- **Kalshi rolls out sector-wide KPI contracts beyond single-company bets, Prediction News reports** — Kalshi is expanding its corporate key performance indicator contracts into broader sector-wide offerings, letting users trade on industry-level trends rather than individual company metrics, Prediction News reported. Existing contracts cover Tesla deliveries and ChatGPT downloads, and no launch timing or specific product details were disclosed. ([Prediction News](https://predictionnews.com/story/kalshi-expands-corporate-kpi-contracts-into-sector-wide-offerings))",
-      "image_url": null,
-      "published": "2026-10-24T03:15:00-04:00",
-      "source": "2026-10-24_0315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_0315-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_0315-edt-1",
-      "title": "Polymarket prices Fed no change in October at 92.5 percent on 61.06 million dollars volume, AgentFlare reports",
-      "content_text": "- **Polymarket prices Fed no change in October at 92.5 percent on 61.06 million dollars volume, AgentFlare reports** — AgentFlare, in its October 24 review of the highest-volume Polymarket events, reported the Fed Decision in October market prices no change at 92.5 percent, up 61.0 percentage points over roughly 30 days, with 61.06 million dollars in volume. The report listed that contract as the second highest-volume open event tracked. ([AgentFlare](https://agentflare.org/predictions/index.html))",
-      "content_html": "<p>- **Polymarket prices Fed no change in October at 92.5 percent on 61.06 million dollars volume, AgentFlare reports** — AgentFlare, in its October 24 review of the highest-volume Polymarket events, reported the Fed Decision in October market prices no change at 92.5 percent, up 61.0 percentage points over roughly 30 days, with 61.06 million dollars in volume. The report listed that contract as the second highest-volume open event tracked. ([AgentFlare](https://agentflare.org/predictions/index.html))</p>",
-      "date_published": "2026-10-24T03:15:00-04:00",
-      "date_modified": "2026-10-24T03:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://agentflare.org/predictions/index.html",
-      "links": [
-        "https://agentflare.org/predictions/index.html"
-      ],
-      "timestamp": "Oct 24, 2026 · 3:15 AM ET",
-      "body": "- **Polymarket prices Fed no change in October at 92.5 percent on 61.06 million dollars volume, AgentFlare reports** — AgentFlare, in its October 24 review of the highest-volume Polymarket events, reported the Fed Decision in October market prices no change at 92.5 percent, up 61.0 percentage points over roughly 30 days, with 61.06 million dollars in volume. The report listed that contract as the second highest-volume open event tracked. ([AgentFlare](https://agentflare.org/predictions/index.html))",
-      "image_url": null,
-      "published": "2026-10-24T03:15:00-04:00",
-      "source": "2026-10-24_0315-edt.json",
       "matches_facebook_post": false
     }
   ]
