@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T12:59:51.544410-04:00",
+  "updated": "2026-10-24T13:14:52.352621-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,13 +128,69 @@
   ],
   "items": [
     {
-      "id": "infiniti-2026-10-24_1254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1254-edt",
+      "id": "web-2026-10-24_1315-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1315-edt-0",
+      "title": "Kalshi prices Giannis Antetokounmpo staying with Milwaukee or retiring at 30 percent, ahead of the New York Knicks at 29 percent, in next-team market, GambleRss reports",
+      "content_text": "- **Kalshi prices Giannis Antetokounmpo staying with Milwaukee or retiring at 30 percent, ahead of the New York Knicks at 29 percent, in next-team market, GambleRss reports** — GambleRss, reporting a SportsHandle story published October 24, said Kalshi's market on Giannis Antetokounmpo's next team priced staying with Milwaukee or retiring at 30 percent, followed by the New York Knicks at 29 percent and the Miami Heat at 16 percent. The Atlanta Hawks were priced at 7 percent, the San Antonio Spurs at 6 percent, and the Golden State Warriors and Los Angeles Lakers at 4 percent each. ([GambleRss](https://gamblerss.com/where-will-giannis-go-next-antetokounmpo-next-team-odds-51018))",
+      "content_html": "<p>- **Kalshi prices Giannis Antetokounmpo staying with Milwaukee or retiring at 30 percent, ahead of the New York Knicks at 29 percent, in next-team market, GambleRss reports** — GambleRss, reporting a SportsHandle story published October 24, said Kalshi&#x27;s market on Giannis Antetokounmpo&#x27;s next team priced staying with Milwaukee or retiring at 30 percent, followed by the New York Knicks at 29 percent and the Miami Heat at 16 percent. The Atlanta Hawks were priced at 7 percent, the San Antonio Spurs at 6 percent, and the Golden State Warriors and Los Angeles Lakers at 4 percent each. ([GambleRss](https://gamblerss.com/where-will-giannis-go-next-antetokounmpo-next-team-odds-51018))</p>",
+      "date_published": "2026-10-24T13:15:00-04:00",
+      "date_modified": "2026-10-24T13:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/where-will-giannis-go-next-antetokounmpo-next-team-odds-51018",
+      "links": [
+        "https://gamblerss.com/where-will-giannis-go-next-antetokounmpo-next-team-odds-51018"
+      ],
+      "timestamp": "Oct 24, 2026 · 1:15 PM ET",
+      "body": "- **Kalshi prices Giannis Antetokounmpo staying with Milwaukee or retiring at 30 percent, ahead of the New York Knicks at 29 percent, in next-team market, GambleRss reports** — GambleRss, reporting a SportsHandle story published October 24, said Kalshi's market on Giannis Antetokounmpo's next team priced staying with Milwaukee or retiring at 30 percent, followed by the New York Knicks at 29 percent and the Miami Heat at 16 percent. The Atlanta Hawks were priced at 7 percent, the San Antonio Spurs at 6 percent, and the Golden State Warriors and Los Angeles Lakers at 4 percent each. ([GambleRss](https://gamblerss.com/where-will-giannis-go-next-antetokounmpo-next-team-odds-51018))",
+      "image_url": null,
+      "published": "2026-10-24T13:15:00-04:00",
+      "source": "2026-10-24_1315-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1315-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1315-edt-1",
+      "title": "Google bars prediction market advertising in Connecticut from October 7, iGaming House reports",
+      "content_text": "- **Google bars prediction market advertising in Connecticut from October 7, iGaming House reports** — iGaming House reported that Google bars prediction market advertising in Connecticut from October 7, 2026, and that its policy also rejects binary options and fixed-return contracts, markets based on games of chance or lotteries, and affiliate sites and broker reviews that publish trading signals. All five states on Google's exclusion list have taken legal or regulatory action against prediction market operators, the report said. ([iGaming House](https://igaminghouse.net/en/betting/prediction-market/articles/google-bars-prediction-market-advertising-in-connecticut-from-october-7-2026))",
+      "content_html": "<p>- **Google bars prediction market advertising in Connecticut from October 7, iGaming House reports** — iGaming House reported that Google bars prediction market advertising in Connecticut from October 7, 2026, and that its policy also rejects binary options and fixed-return contracts, markets based on games of chance or lotteries, and affiliate sites and broker reviews that publish trading signals. All five states on Google&#x27;s exclusion list have taken legal or regulatory action against prediction market operators, the report said. ([iGaming House](https://igaminghouse.net/en/betting/prediction-market/articles/google-bars-prediction-market-advertising-in-connecticut-from-october-7-2026))</p>",
+      "date_published": "2026-10-24T13:15:00-04:00",
+      "date_modified": "2026-10-24T13:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://igaminghouse.net/en/betting/prediction-market/articles/google-bars-prediction-market-advertising-in-connecticut-from-october-7-2026",
+      "links": [
+        "https://igaminghouse.net/en/betting/prediction-market/articles/google-bars-prediction-market-advertising-in-connecticut-from-october-7-2026"
+      ],
+      "timestamp": "Oct 24, 2026 · 1:15 PM ET",
+      "body": "- **Google bars prediction market advertising in Connecticut from October 7, iGaming House reports** — iGaming House reported that Google bars prediction market advertising in Connecticut from October 7, 2026, and that its policy also rejects binary options and fixed-return contracts, markets based on games of chance or lotteries, and affiliate sites and broker reviews that publish trading signals. All five states on Google's exclusion list have taken legal or regulatory action against prediction market operators, the report said. ([iGaming House](https://igaminghouse.net/en/betting/prediction-market/articles/google-bars-prediction-market-advertising-in-connecticut-from-october-7-2026))",
+      "image_url": null,
+      "published": "2026-10-24T13:15:00-04:00",
+      "source": "2026-10-24_1315-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1309-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1309-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nClarity Act (H.R.3633) signed into law in 2026 priced at 3.4% on Polymarket, down 0.7 points, on $24.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/politics/\n\nAuburn wins priced at 23.0% on Kalshi, down 6 points, on $1.2M traded\nPredictionBubbles' sports board lists the Auburn contract among its ending-soon sports markets, resolving in about two days, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Clarity Act (H.R.3633) signed into law in 2026 priced at 3.4% on Polymarket, down 0.7 points, on $24.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://predictionbubbles.net/markets/politics/<br/><br/>Auburn wins priced at 23.0% on Kalshi, down 6 points, on $1.2M traded<br/>PredictionBubbles&#x27; sports board lists the Auburn contract among its ending-soon sports markets, resolving in about two days, in a sports markets category distinct from…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-24T12:54:00-04:00",
-      "date_modified": "2026-10-24T12:54:00-04:00",
+      "content_text": "Infiniti Briefing\n\nBitcoin dip to $65,000 by December 31, 2026 priced at 24.5% on Polymarket, up 1.5 points, on $675K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #SCOTUS\nhttps://predictionbubbles.net/markets/crypto/\n\nRoma wins priced at 18.0% on Kalshi, down 20 points, on $902K traded\nPredictionBubbles' movers board lists the Roma win contract among the day's largest downward moves, resolving in about two days, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin dip to $65,000 by December 31, 2026 priced at 24.5% on Polymarket, up 1.5 points, on $675K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #SCOTUS<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>Roma wins priced at 18.0% on Kalshi, down 20 points, on $902K traded<br/>PredictionBubbles&#x27; movers board lists the Roma win contract among the day&#x27;s largest downward moves, resolving in about two days, in a sports markets category distinct…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T13:09:00-04:00",
+      "date_modified": "2026-10-24T13:09:00-04:00",
       "authors": [
         {
           "name": "Infiniti Oracle",
@@ -145,20 +201,58 @@
         "PredictionMarkets",
         "Kalshi",
         "Polymarket",
-        "Elections"
+        "SCOTUS"
       ],
       "image": null,
+      "external_url": "https://predictionbubbles.net/markets/crypto/",
+      "links": [
+        "https://predictionbubbles.net/markets/crypto/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 24, 2026 · 1:09 PM ET",
+      "body": "Infiniti Briefing\n\nBitcoin dip to $65,000 by December 31, 2026 priced at 24.5% on Polymarket, up 1.5 points, on $675K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #SCOTUS\nhttps://predictionbubbles.net/markets/crypto/\n\nRoma wins priced at 18.0% on Kalshi, down 20 points, on $902K traded\nPredictionBubbles' movers board lists the Roma win contract among the day's largest downward moves, resolving in about two days, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T13:09:00-04:00",
+      "source": "2026-10-24_1309-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1254-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\nClarity Act (H.R.3633) signed into law in 2026 priced at 3.4% on Polymarket\nDown 0.7 points on $24.5M traded, down 2.6 points since Oct. 16.\n#Crypto #Regulation #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/politics/\n\nAuburn wins priced at 23.0% on Kalshi\nDown 6 points on $1.2M traded, first carry, resolving in about two days.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/sports/\n\nUS recession by end of 2026 priced at 8.5% on Polymarket\nUp 1 point on $2.3M traded.\n#Economy #Recession #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 300.0M contracts | Gold 40.2M | WTI 11.6M | ETH 22.7M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Clarity Act (H.R.3633) signed into law in 2026 priced at 3.4% on Polymarket<br/>Down 0.7 points on $24.5M traded, down 2.6 points since Oct. 16.<br/>#Crypto #Regulation #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/politics/<br/><br/>Auburn wins priced at 23.0% on Kalshi<br/>Down 6 points on $1.2M traded, first carry, resolving in about two days.<br/>#Sports #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/sports/<br/><br/>US recession by end of 2026 priced at 8.5% on Polymarket<br/>Up 1 point on $2.3M traded.<br/>#Economy #Recession #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Markets: BTC 15M 300.0M contracts | Gold 40.2M | WTI 11.6M | ETH 22.7M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1254-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "date_published": "2026-10-24T12:54:00-04:00",
+      "date_modified": "2026-10-24T12:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Crypto",
+        "Regulation",
+        "Polymarket",
+        "PredictionMarkets",
+        "Sports",
+        "Kalshi",
+        "Economy",
+        "Recession"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1254-edt.jpg",
       "external_url": "https://predictionbubbles.net/markets/politics/",
       "links": [
         "https://predictionbubbles.net/markets/politics/",
-        "https://predictionbubbles.net/markets/sports/"
+        "https://predictionbubbles.net/markets/sports/",
+        "https://predictionbubbles.net/markets/finance/"
       ],
       "timestamp": "Oct 24, 2026 · 12:54 PM ET",
-      "body": "Infiniti Briefing\n\nClarity Act (H.R.3633) signed into law in 2026 priced at 3.4% on Polymarket, down 0.7 points, on $24.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/politics/\n\nAuburn wins priced at 23.0% on Kalshi, down 6 points, on $1.2M traded\nPredictionBubbles' sports board lists the Auburn contract among its ending-soon sports markets, resolving in about two days, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nClarity Act (H.R.3633) signed into law in 2026 priced at 3.4% on Polymarket\nDown 0.7 points on $24.5M traded, down 2.6 points since Oct. 16.\n#Crypto #Regulation #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/politics/\n\nAuburn wins priced at 23.0% on Kalshi\nDown 6 points on $1.2M traded, first carry, resolving in about two days.\n#Sports #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/sports/\n\nUS recession by end of 2026 priced at 8.5% on Polymarket\nUp 1 point on $2.3M traded.\n#Economy #Recession #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 300.0M contracts | Gold 40.2M | WTI 11.6M | ETH 22.7M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1254-edt.jpg",
       "published": "2026-10-24T12:54:00-04:00",
       "source": "2026-10-24_1254-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-24_1245-edt-0",
@@ -4656,95 +4750,6 @@
       ],
       "timestamp": "Oct 23, 2026 · 11:15 PM ET",
       "body": "- **Roundhill plans to launch six prediction market ETFs next week tied to White House and Congress outcomes, CoinsNews reports** — CoinsNews reported Roundhill Investments plans to launch six ETFs next week tied to which party controls the White House and Congress, with tickers BLUP, REDP, BLUS, REDS, BLUH and REDH. The funds gain exposure through swap agreements tied to binary event contracts traded on CFTC-regulated markets, and the prospectus states a fund will lose substantially all of its value if the selected party fails to win. ([CoinsNews](https://coinsnews.com/first-ever-prediction-market-etfs-let-you-invest-in-election-outcomes))",
-      "image_url": null,
-      "published": "2026-10-23T23:15:00-04:00",
-      "source": "2026-10-23_2315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2315-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2315-edt-2",
-      "title": "Study finds Kalshi federal funds forecasts rival New York Fed survey of professional forecasters over about 150 days, BitRss reports",
-      "content_text": "- **Study finds Kalshi federal funds forecasts rival New York Fed survey of professional forecasters over about 150 days, BitRss reports** — BitRss reported a recent study found Kalshi implied forecasts for the federal funds target rate delivered average absolute error over roughly a 150-day horizon comparable to the Federal Reserve Bank of New York Survey of Professional Forecasters. The report said the roughly three-meeting horizon results suggest real-money, continuously updated markets could provide policymakers with a live benchmark for macroeconomic expectations. ([BitRss](https://bitrss.com/kalshi-s-crowd-bets-rival-fed-economists-could-markets-really-predict-monetary-policy-185357))",
-      "content_html": "<p>- **Study finds Kalshi federal funds forecasts rival New York Fed survey of professional forecasters over about 150 days, BitRss reports** — BitRss reported a recent study found Kalshi implied forecasts for the federal funds target rate delivered average absolute error over roughly a 150-day horizon comparable to the Federal Reserve Bank of New York Survey of Professional Forecasters. The report said the roughly three-meeting horizon results suggest real-money, continuously updated markets could provide policymakers with a live benchmark for macroeconomic expectations. ([BitRss](https://bitrss.com/kalshi-s-crowd-bets-rival-fed-economists-could-markets-really-predict-monetary-policy-185357))</p>",
-      "date_published": "2026-10-23T23:15:00-04:00",
-      "date_modified": "2026-10-23T23:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/kalshi-s-crowd-bets-rival-fed-economists-could-markets-really-predict-monetary-policy-185357",
-      "links": [
-        "https://bitrss.com/kalshi-s-crowd-bets-rival-fed-economists-could-markets-really-predict-monetary-policy-185357"
-      ],
-      "timestamp": "Oct 23, 2026 · 11:15 PM ET",
-      "body": "- **Study finds Kalshi federal funds forecasts rival New York Fed survey of professional forecasters over about 150 days, BitRss reports** — BitRss reported a recent study found Kalshi implied forecasts for the federal funds target rate delivered average absolute error over roughly a 150-day horizon comparable to the Federal Reserve Bank of New York Survey of Professional Forecasters. The report said the roughly three-meeting horizon results suggest real-money, continuously updated markets could provide policymakers with a live benchmark for macroeconomic expectations. ([BitRss](https://bitrss.com/kalshi-s-crowd-bets-rival-fed-economists-could-markets-really-predict-monetary-policy-185357))",
-      "image_url": null,
-      "published": "2026-10-23T23:15:00-04:00",
-      "source": "2026-10-23_2315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2315-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2315-edt-3",
-      "title": "Georgia priced at 17 cents and Ohio State at 16 cents for 2027 national champion on Polymarket US, College Prediction Markets reports",
-      "content_text": "- **Georgia priced at 17 cents and Ohio State at 16 cents for 2027 national champion on Polymarket US, College Prediction Markets reports** — College Prediction Markets reported Polymarket US priced Georgia at 17 cents and Ohio State at 16 cents for the 2027 college football national champion in its October 23 update. It also listed Kalshi pricing Alabama at 84 cents against Texas A&M and LSU at 73 cents against Auburn for October 24 games. ([College Prediction Markets](https://collegepredictionmarkets.com/))",
-      "content_html": "<p>- **Georgia priced at 17 cents and Ohio State at 16 cents for 2027 national champion on Polymarket US, College Prediction Markets reports** — College Prediction Markets reported Polymarket US priced Georgia at 17 cents and Ohio State at 16 cents for the 2027 college football national champion in its October 23 update. It also listed Kalshi pricing Alabama at 84 cents against Texas A&amp;M and LSU at 73 cents against Auburn for October 24 games. ([College Prediction Markets](https://collegepredictionmarkets.com/))</p>",
-      "date_published": "2026-10-23T23:15:00-04:00",
-      "date_modified": "2026-10-23T23:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://collegepredictionmarkets.com/",
-      "links": [
-        "https://collegepredictionmarkets.com/"
-      ],
-      "timestamp": "Oct 23, 2026 · 11:15 PM ET",
-      "body": "- **Georgia priced at 17 cents and Ohio State at 16 cents for 2027 national champion on Polymarket US, College Prediction Markets reports** — College Prediction Markets reported Polymarket US priced Georgia at 17 cents and Ohio State at 16 cents for the 2027 college football national champion in its October 23 update. It also listed Kalshi pricing Alabama at 84 cents against Texas A&M and LSU at 73 cents against Auburn for October 24 games. ([College Prediction Markets](https://collegepredictionmarkets.com/))",
-      "image_url": null,
-      "published": "2026-10-23T23:15:00-04:00",
-      "source": "2026-10-23_2315-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2315-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2315-edt-4",
-      "title": "Crypto prediction markets list 6,680 active markets with 1.177 billion dollars in open interest, AWebAnalysis reports",
-      "content_text": "- **Crypto prediction markets list 6,680 active markets with 1.177 billion dollars in open interest, AWebAnalysis reports** — AWebAnalysis reported crypto prediction markets listed 6,680 active markets with 290.5 million dollars in total volume traded, 1.177 billion dollars in open interest and 28,738 trades in 24 hours. Bitcoin markets accounted for 970 markets and 141.7 million dollars in total volume, while Ethereum markets accounted for 826 markets and 26.5 million dollars. ([AWebAnalysis](https://awebanalysis.com/en/prediction-markets/statistics/))",
-      "content_html": "<p>- **Crypto prediction markets list 6,680 active markets with 1.177 billion dollars in open interest, AWebAnalysis reports** — AWebAnalysis reported crypto prediction markets listed 6,680 active markets with 290.5 million dollars in total volume traded, 1.177 billion dollars in open interest and 28,738 trades in 24 hours. Bitcoin markets accounted for 970 markets and 141.7 million dollars in total volume, while Ethereum markets accounted for 826 markets and 26.5 million dollars. ([AWebAnalysis](https://awebanalysis.com/en/prediction-markets/statistics/))</p>",
-      "date_published": "2026-10-23T23:15:00-04:00",
-      "date_modified": "2026-10-23T23:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": "https://awebanalysis.com/en/prediction-markets/statistics/",
-      "links": [
-        "https://awebanalysis.com/en/prediction-markets/statistics/"
-      ],
-      "timestamp": "Oct 23, 2026 · 11:15 PM ET",
-      "body": "- **Crypto prediction markets list 6,680 active markets with 1.177 billion dollars in open interest, AWebAnalysis reports** — AWebAnalysis reported crypto prediction markets listed 6,680 active markets with 290.5 million dollars in total volume traded, 1.177 billion dollars in open interest and 28,738 trades in 24 hours. Bitcoin markets accounted for 970 markets and 141.7 million dollars in total volume, while Ethereum markets accounted for 826 markets and 26.5 million dollars. ([AWebAnalysis](https://awebanalysis.com/en/prediction-markets/statistics/))",
       "image_url": null,
       "published": "2026-10-23T23:15:00-04:00",
       "source": "2026-10-23_2315-edt.json",
