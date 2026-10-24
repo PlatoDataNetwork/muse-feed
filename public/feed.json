@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T18:44:52.487566-04:00",
+  "updated": "2026-10-24T18:59:21.368774-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,156 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-24_1900-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1900-edt-0",
+      "title": "Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto volume, TradingView reports",
+      "content_text": "- **Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto volume, TradingView reports** — TradingView, citing CryptoBriefing, reported crypto-related prediction market volume on Kalshi and Polymarket reached a record 2.7 billion dollars in a single week in mid-October 2026, making crypto the second most traded category on both platforms behind sports. Kalshi Bitcoin contracts alone generated over 2 billion dollars in that week, while Polymarket US reported 15-minute Bitcoin volume of approximately 92 million to 101 million dollars in its first full week of operation. ([TradingView](https://www.tradingview.com/news/cryptobriefing:5a0b05a23094b:0-kalshi-and-polymarket-hit-record-2-7-billion-in-weekly-crypto-volume/))",
+      "content_html": "<p>- **Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto volume, TradingView reports** — TradingView, citing CryptoBriefing, reported crypto-related prediction market volume on Kalshi and Polymarket reached a record 2.7 billion dollars in a single week in mid-October 2026, making crypto the second most traded category on both platforms behind sports. Kalshi Bitcoin contracts alone generated over 2 billion dollars in that week, while Polymarket US reported 15-minute Bitcoin volume of approximately 92 million to 101 million dollars in its first full week of operation. ([TradingView](https://www.tradingview.com/news/cryptobriefing:5a0b05a23094b:0-kalshi-and-polymarket-hit-record-2-7-billion-in-weekly-crypto-volume/))</p>",
+      "date_published": "2026-10-24T19:00:00-04:00",
+      "date_modified": "2026-10-24T19:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://www.tradingview.com/news/cryptobriefing:5a0b05a23094b:0-kalshi-and-polymarket-hit-record-2-7-billion-in-weekly-crypto-volume/",
+      "links": [
+        "https://www.tradingview.com/news/cryptobriefing:5a0b05a23094b:0-kalshi-and-polymarket-hit-record-2-7-billion-in-weekly-crypto-volume/"
+      ],
+      "timestamp": "Oct 24, 2026 · 7:00 PM ET",
+      "body": "- **Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto volume, TradingView reports** — TradingView, citing CryptoBriefing, reported crypto-related prediction market volume on Kalshi and Polymarket reached a record 2.7 billion dollars in a single week in mid-October 2026, making crypto the second most traded category on both platforms behind sports. Kalshi Bitcoin contracts alone generated over 2 billion dollars in that week, while Polymarket US reported 15-minute Bitcoin volume of approximately 92 million to 101 million dollars in its first full week of operation. ([TradingView](https://www.tradingview.com/news/cryptobriefing:5a0b05a23094b:0-kalshi-and-polymarket-hit-record-2-7-billion-in-weekly-crypto-volume/))",
+      "image_url": null,
+      "published": "2026-10-24T19:00:00-04:00",
+      "source": "2026-10-24_1900-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1900-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1900-edt-1",
+      "title": "Democrats Sweep leads Polymarket Balance of Power midterm market at 67 percent with 36.7 million dollars in volume, Polymarket reports",
+      "content_text": "- **Democrats Sweep leads Polymarket Balance of Power midterm market at 67 percent with 36.7 million dollars in volume, Polymarket reports** — Polymarket reported its Balance of Power: 2026 Midterms market prices Democrats Sweep as the leading outcome at 67 percent, followed by Republican Senate and Democratic House at 26 percent. The market has generated 36.7 million dollars in total trading volume since it launched on July 11, 2025. ([Polymarket](https://polymarket.com/event/balance-of-power-2026-midterms/2026-balance-of-power-d-senate-d-house-949))",
+      "content_html": "<p>- **Democrats Sweep leads Polymarket Balance of Power midterm market at 67 percent with 36.7 million dollars in volume, Polymarket reports** — Polymarket reported its Balance of Power: 2026 Midterms market prices Democrats Sweep as the leading outcome at 67 percent, followed by Republican Senate and Democratic House at 26 percent. The market has generated 36.7 million dollars in total trading volume since it launched on July 11, 2025. ([Polymarket](https://polymarket.com/event/balance-of-power-2026-midterms/2026-balance-of-power-d-senate-d-house-949))</p>",
+      "date_published": "2026-10-24T19:00:00-04:00",
+      "date_modified": "2026-10-24T19:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/event/balance-of-power-2026-midterms/2026-balance-of-power-d-senate-d-house-949",
+      "links": [
+        "https://polymarket.com/event/balance-of-power-2026-midterms/2026-balance-of-power-d-senate-d-house-949"
+      ],
+      "timestamp": "Oct 24, 2026 · 7:00 PM ET",
+      "body": "- **Democrats Sweep leads Polymarket Balance of Power midterm market at 67 percent with 36.7 million dollars in volume, Polymarket reports** — Polymarket reported its Balance of Power: 2026 Midterms market prices Democrats Sweep as the leading outcome at 67 percent, followed by Republican Senate and Democratic House at 26 percent. The market has generated 36.7 million dollars in total trading volume since it launched on July 11, 2025. ([Polymarket](https://polymarket.com/event/balance-of-power-2026-midterms/2026-balance-of-power-d-senate-d-house-949))",
+      "image_url": null,
+      "published": "2026-10-24T19:00:00-04:00",
+      "source": "2026-10-24_1900-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1900-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1900-edt-2",
+      "title": "Quarterback news drives Week 8 college football prediction market moves, with Indiana spread priced at 48 cents on Polymarket, Action Network reports",
+      "content_text": "- **Quarterback news drives Week 8 college football prediction market moves, with Indiana spread priced at 48 cents on Polymarket, Action Network reports** — Action Network reported Week 8 college football prediction market moves are driven mainly by quarterback news, including Michigan switching from Bryce Underwood to Tommy Carr and injury questions around Texas. Polymarket lists Indiana at minus 7.5 against a sportsbook number of minus 7, with the Hoosiers side trading at 48 cents, while totals across the five featured games price the over between 51 and 52 percent. ([Action Network](https://www.actionnetwork.com/news/best-college-football-picks-today-top-ncaaf-picks-cfb-predictions-for-week-8-cfb-odds))",
+      "content_html": "<p>- **Quarterback news drives Week 8 college football prediction market moves, with Indiana spread priced at 48 cents on Polymarket, Action Network reports** — Action Network reported Week 8 college football prediction market moves are driven mainly by quarterback news, including Michigan switching from Bryce Underwood to Tommy Carr and injury questions around Texas. Polymarket lists Indiana at minus 7.5 against a sportsbook number of minus 7, with the Hoosiers side trading at 48 cents, while totals across the five featured games price the over between 51 and 52 percent. ([Action Network](https://www.actionnetwork.com/news/best-college-football-picks-today-top-ncaaf-picks-cfb-predictions-for-week-8-cfb-odds))</p>",
+      "date_published": "2026-10-24T19:00:00-04:00",
+      "date_modified": "2026-10-24T19:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/best-college-football-picks-today-top-ncaaf-picks-cfb-predictions-for-week-8-cfb-odds",
+      "links": [
+        "https://www.actionnetwork.com/news/best-college-football-picks-today-top-ncaaf-picks-cfb-predictions-for-week-8-cfb-odds"
+      ],
+      "timestamp": "Oct 24, 2026 · 7:00 PM ET",
+      "body": "- **Quarterback news drives Week 8 college football prediction market moves, with Indiana spread priced at 48 cents on Polymarket, Action Network reports** — Action Network reported Week 8 college football prediction market moves are driven mainly by quarterback news, including Michigan switching from Bryce Underwood to Tommy Carr and injury questions around Texas. Polymarket lists Indiana at minus 7.5 against a sportsbook number of minus 7, with the Hoosiers side trading at 48 cents, while totals across the five featured games price the over between 51 and 52 percent. ([Action Network](https://www.actionnetwork.com/news/best-college-football-picks-today-top-ncaaf-picks-cfb-predictions-for-week-8-cfb-odds))",
+      "image_url": null,
+      "published": "2026-10-24T19:00:00-04:00",
+      "source": "2026-10-24_1900-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1900-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1900-edt-3",
+      "title": "Last Week Tonight Manifold market falls from 76 percent to 10 percent in a day, Tech Insider reports",
+      "content_text": "- **Last Week Tonight Manifold market falls from 76 percent to 10 percent in a day, Tech Insider reports** — Tech Insider reported a Manifold contract on whether Last Week Tonight will cover the Guayaquil crucifix death ran from 49.5 percent to 76.1 percent and back down to about 10 percent in roughly 25 hours as of October 24, 2026, with 58 percent of all-time volume traded in the last day and 74 unique bettors active. The market closes November 21, 2026, while season 13 is scheduled to end November 15, 2026. ([Tech Insider](https://tech-insider.org/last-week-tonight-manifold-market-crucifix-odds-2026/))",
+      "content_html": "<p>- **Last Week Tonight Manifold market falls from 76 percent to 10 percent in a day, Tech Insider reports** — Tech Insider reported a Manifold contract on whether Last Week Tonight will cover the Guayaquil crucifix death ran from 49.5 percent to 76.1 percent and back down to about 10 percent in roughly 25 hours as of October 24, 2026, with 58 percent of all-time volume traded in the last day and 74 unique bettors active. The market closes November 21, 2026, while season 13 is scheduled to end November 15, 2026. ([Tech Insider](https://tech-insider.org/last-week-tonight-manifold-market-crucifix-odds-2026/))</p>",
+      "date_published": "2026-10-24T19:00:00-04:00",
+      "date_modified": "2026-10-24T19:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://tech-insider.org/last-week-tonight-manifold-market-crucifix-odds-2026/",
+      "links": [
+        "https://tech-insider.org/last-week-tonight-manifold-market-crucifix-odds-2026/"
+      ],
+      "timestamp": "Oct 24, 2026 · 7:00 PM ET",
+      "body": "- **Last Week Tonight Manifold market falls from 76 percent to 10 percent in a day, Tech Insider reports** — Tech Insider reported a Manifold contract on whether Last Week Tonight will cover the Guayaquil crucifix death ran from 49.5 percent to 76.1 percent and back down to about 10 percent in roughly 25 hours as of October 24, 2026, with 58 percent of all-time volume traded in the last day and 74 unique bettors active. The market closes November 21, 2026, while season 13 is scheduled to end November 15, 2026. ([Tech Insider](https://tech-insider.org/last-week-tonight-manifold-market-crucifix-odds-2026/))",
+      "image_url": null,
+      "published": "2026-10-24T19:00:00-04:00",
+      "source": "2026-10-24_1900-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1854-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1854-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nGTA6 be released by Nov 30, 2026 priced at 92.0% on Kalshi, down 2.0 points, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the Tennessee against South Carolina…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/culture/\n\nIowa wins priced at 37.0% on Kalshi, down 35 points, on $943K traded\nPredictionBubbles' movers board lists the Iowa win contract among its largest downward sports moves, resolving in about a day, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>GTA6 be released by Nov 30, 2026 priced at 92.0% on Kalshi, down 2.0 points, on $1.0M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the Tennessee against South Carolina…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/culture/<br/><br/>Iowa wins priced at 37.0% on Kalshi, down 35 points, on $943K traded<br/>PredictionBubbles&#x27; movers board lists the Iowa win contract among its largest downward sports moves, resolving in about a day, in a sports markets category distinct from…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T18:54:00-04:00",
+      "date_modified": "2026-10-24T18:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/culture/",
+      "links": [
+        "https://predictionbubbles.net/markets/culture/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 24, 2026 · 6:54 PM ET",
+      "body": "Infiniti Briefing\n\nGTA6 be released by Nov 30, 2026 priced at 92.0% on Kalshi, down 2.0 points, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the Tennessee against South Carolina…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/culture/\n\nIowa wins priced at 37.0% on Kalshi, down 35 points, on $943K traded\nPredictionBubbles' movers board lists the Iowa win contract among its largest downward sports moves, resolving in about a day, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T18:54:00-04:00",
+      "source": "2026-10-24_1854-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-24_1845-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1845-edt-0",
@@ -4639,160 +4789,6 @@
       "image_url": null,
       "published": "2026-10-24T07:15:00-04:00",
       "source": "2026-10-24_0715-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_0715-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_0715-edt-1",
-      "title": "Polymarket prices no change in Fed interest rate at 94 percent, up from 52 percent on October 14, CoinGabbar reports",
-      "content_text": "- **Polymarket prices no change in Fed interest rate at 94 percent, up from 52 percent on October 14, CoinGabbar reports** — CoinGabbar reported Polymarket odds of no change at the October 28 Federal Reserve meeting have risen to 94 percent from 52 percent on October 14, while a 25 basis point hike has fallen to 7 percent. The report put the global crypto market cap at 2.8 trillion dollars, down 0.2 percent in 24 hours, with Bitcoin dominance at 57.9 percent. ([CoinGabbar](https://www.coingabbar.com/en/fed-interest-rate-hold-odds-polymarket-prediction-crypto-impact))",
-      "content_html": "<p>- **Polymarket prices no change in Fed interest rate at 94 percent, up from 52 percent on October 14, CoinGabbar reports** — CoinGabbar reported Polymarket odds of no change at the October 28 Federal Reserve meeting have risen to 94 percent from 52 percent on October 14, while a 25 basis point hike has fallen to 7 percent. The report put the global crypto market cap at 2.8 trillion dollars, down 0.2 percent in 24 hours, with Bitcoin dominance at 57.9 percent. ([CoinGabbar](https://www.coingabbar.com/en/fed-interest-rate-hold-odds-polymarket-prediction-crypto-impact))</p>",
-      "date_published": "2026-10-24T07:15:00-04:00",
-      "date_modified": "2026-10-24T07:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.coingabbar.com/en/fed-interest-rate-hold-odds-polymarket-prediction-crypto-impact",
-      "links": [
-        "https://www.coingabbar.com/en/fed-interest-rate-hold-odds-polymarket-prediction-crypto-impact"
-      ],
-      "timestamp": "Oct 24, 2026 · 7:15 AM ET",
-      "body": "- **Polymarket prices no change in Fed interest rate at 94 percent, up from 52 percent on October 14, CoinGabbar reports** — CoinGabbar reported Polymarket odds of no change at the October 28 Federal Reserve meeting have risen to 94 percent from 52 percent on October 14, while a 25 basis point hike has fallen to 7 percent. The report put the global crypto market cap at 2.8 trillion dollars, down 0.2 percent in 24 hours, with Bitcoin dominance at 57.9 percent. ([CoinGabbar](https://www.coingabbar.com/en/fed-interest-rate-hold-odds-polymarket-prediction-crypto-impact))",
-      "image_url": null,
-      "published": "2026-10-24T07:15:00-04:00",
-      "source": "2026-10-24_0715-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_0715-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_0715-edt-2",
-      "title": "Butler favored at about 57 percent against Drake and Campbell at 78 percent against Maine in October 24 college football markets, iPredictSport reports",
-      "content_text": "- **Butler favored at about 57 percent against Drake and Campbell at 78 percent against Maine in October 24 college football markets, iPredictSport reports** — iPredictSport listed Butler as its pick at 57 percent against Drake in a 1:00 PM ET game on October 24, with Kalshi bidding 56 to 58 cents, and Campbell at 78 percent against Maine. Butler has won ten straight games in the Drake series, including a 24 to 19 decision last November. ([iPredictSport](https://ipredictsport.com/cfb))",
-      "content_html": "<p>- **Butler favored at about 57 percent against Drake and Campbell at 78 percent against Maine in October 24 college football markets, iPredictSport reports** — iPredictSport listed Butler as its pick at 57 percent against Drake in a 1:00 PM ET game on October 24, with Kalshi bidding 56 to 58 cents, and Campbell at 78 percent against Maine. Butler has won ten straight games in the Drake series, including a 24 to 19 decision last November. ([iPredictSport](https://ipredictsport.com/cfb))</p>",
-      "date_published": "2026-10-24T07:15:00-04:00",
-      "date_modified": "2026-10-24T07:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://ipredictsport.com/cfb",
-      "links": [
-        "https://ipredictsport.com/cfb"
-      ],
-      "timestamp": "Oct 24, 2026 · 7:15 AM ET",
-      "body": "- **Butler favored at about 57 percent against Drake and Campbell at 78 percent against Maine in October 24 college football markets, iPredictSport reports** — iPredictSport listed Butler as its pick at 57 percent against Drake in a 1:00 PM ET game on October 24, with Kalshi bidding 56 to 58 cents, and Campbell at 78 percent against Maine. Butler has won ten straight games in the Drake series, including a 24 to 19 decision last November. ([iPredictSport](https://ipredictsport.com/cfb))",
-      "image_url": null,
-      "published": "2026-10-24T07:15:00-04:00",
-      "source": "2026-10-24_0715-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_0715-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_0715-edt-3",
-      "title": "Milwaukee priced at 61 cents on Polymarket for World Series Game 1 against Tampa Bay, Action Network reports",
-      "content_text": "- **Milwaukee priced at 61 cents on Polymarket for World Series Game 1 against Tampa Bay, Action Network reports** — Action Network reported Milwaukee traded at 61 cents on Polymarket to win Game 1 of the World Series against the Tampa Bay Rays, with the series opening Friday, October 23 at 8:00 PM ET on FOX. Neither franchise has won a World Series title, so the series will crown a first time champion. ([Action Network](https://www.actionnetwork.com/news/mlb-prediction-market-promos-for-rays-vs-brewers-trade-on-world-series-game-1-now))",
-      "content_html": "<p>- **Milwaukee priced at 61 cents on Polymarket for World Series Game 1 against Tampa Bay, Action Network reports** — Action Network reported Milwaukee traded at 61 cents on Polymarket to win Game 1 of the World Series against the Tampa Bay Rays, with the series opening Friday, October 23 at 8:00 PM ET on FOX. Neither franchise has won a World Series title, so the series will crown a first time champion. ([Action Network](https://www.actionnetwork.com/news/mlb-prediction-market-promos-for-rays-vs-brewers-trade-on-world-series-game-1-now))</p>",
-      "date_published": "2026-10-24T07:15:00-04:00",
-      "date_modified": "2026-10-24T07:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/mlb-prediction-market-promos-for-rays-vs-brewers-trade-on-world-series-game-1-now",
-      "links": [
-        "https://www.actionnetwork.com/news/mlb-prediction-market-promos-for-rays-vs-brewers-trade-on-world-series-game-1-now"
-      ],
-      "timestamp": "Oct 24, 2026 · 7:15 AM ET",
-      "body": "- **Milwaukee priced at 61 cents on Polymarket for World Series Game 1 against Tampa Bay, Action Network reports** — Action Network reported Milwaukee traded at 61 cents on Polymarket to win Game 1 of the World Series against the Tampa Bay Rays, with the series opening Friday, October 23 at 8:00 PM ET on FOX. Neither franchise has won a World Series title, so the series will crown a first time champion. ([Action Network](https://www.actionnetwork.com/news/mlb-prediction-market-promos-for-rays-vs-brewers-trade-on-world-series-game-1-now))",
-      "image_url": null,
-      "published": "2026-10-24T07:15:00-04:00",
-      "source": "2026-10-24_0715-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-24_0654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_0654-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nBrad Bradford win the 2026 Toronto mayoral election priced at 33.0% on Polymarket\nDown 15 points on $246K traded, resolving in 2 days.\n#Toronto #Elections #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nA team from LCK (South Korea) win LoL Worlds 2026 priced at 80.5% on Polymarket\nUp 8 points on $361K traded.\n#LCK #LoLWorlds #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nSpider-Man: Brand New Day have the best domestic opening weekend in 2026 priced at 45.5% on Polymarket\nDown 2.5 points on $325K traded.\n#SpiderMan #Movies #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 312.0M contracts | Gold 40.2M | WTI 11.6M | ETH 21.6M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Brad Bradford win the 2026 Toronto mayoral election priced at 33.0% on Polymarket<br/>Down 15 points on $246K traded, resolving in 2 days.<br/>#Toronto #Elections #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>A team from LCK (South Korea) win LoL Worlds 2026 priced at 80.5% on Polymarket<br/>Up 8 points on $361K traded.<br/>#LCK #LoLWorlds #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Spider-Man: Brand New Day have the best domestic opening weekend in 2026 priced at 45.5% on Polymarket<br/>Down 2.5 points on $325K traded.<br/>#SpiderMan #Movies #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: BTC 15M 312.0M contracts | Gold 40.2M | WTI 11.6M | ETH 21.6M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_0654-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-24T06:54:00-04:00",
-      "date_modified": "2026-10-24T06:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Toronto",
-        "Elections",
-        "Polymarket",
-        "PredictionMarkets",
-        "LCK",
-        "LoLWorlds",
-        "SpiderMan",
-        "Movies"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_0654-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 24, 2026 · 6:54 AM ET",
-      "body": "Infiniti Briefing\nBrad Bradford win the 2026 Toronto mayoral election priced at 33.0% on Polymarket\nDown 15 points on $246K traded, resolving in 2 days.\n#Toronto #Elections #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nA team from LCK (South Korea) win LoL Worlds 2026 priced at 80.5% on Polymarket\nUp 8 points on $361K traded.\n#LCK #LoLWorlds #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nSpider-Man: Brand New Day have the best domestic opening weekend in 2026 priced at 45.5% on Polymarket\nDown 2.5 points on $325K traded.\n#SpiderMan #Movies #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 312.0M contracts | Gold 40.2M | WTI 11.6M | ETH 21.6M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_0654-edt.jpg",
-      "published": "2026-10-24T06:54:00-04:00",
-      "source": "2026-10-24_0654-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-24_0645-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_0645-edt-0",
-      "title": "PitchBook raises valuation estimates to 42.3 billion dollars for Kalshi and 20.6 billion dollars for Polymarket, PitchBook reports",
-      "content_text": "- **PitchBook raises valuation estimates to 42.3 billion dollars for Kalshi and 20.6 billion dollars for Polymarket, PitchBook reports** — PitchBook raised its Q4 2026 estimates for both platforms on stronger trading activity and an improving revenue outlook, with Kalshi ahead on scale and earnings capacity. The note says Polymarket's US expansion has narrowed but not closed the gap with Kalshi, and that Polymarket's US platform has overtaken its international business. ([PitchBook](https://pitchbook.com/news/reports/q4-2026-prediction-markets-go-head-to-head-raising-estimates-on-recent-momentum))",
-      "content_html": "<p>- **PitchBook raises valuation estimates to 42.3 billion dollars for Kalshi and 20.6 billion dollars for Polymarket, PitchBook reports** — PitchBook raised its Q4 2026 estimates for both platforms on stronger trading activity and an improving revenue outlook, with Kalshi ahead on scale and earnings capacity. The note says Polymarket&#x27;s US expansion has narrowed but not closed the gap with Kalshi, and that Polymarket&#x27;s US platform has overtaken its international business. ([PitchBook](https://pitchbook.com/news/reports/q4-2026-prediction-markets-go-head-to-head-raising-estimates-on-recent-momentum))</p>",
-      "date_published": "2026-10-24T06:45:00-04:00",
-      "date_modified": "2026-10-24T06:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://pitchbook.com/news/reports/q4-2026-prediction-markets-go-head-to-head-raising-estimates-on-recent-momentum",
-      "links": [
-        "https://pitchbook.com/news/reports/q4-2026-prediction-markets-go-head-to-head-raising-estimates-on-recent-momentum"
-      ],
-      "timestamp": "Oct 24, 2026 · 6:45 AM ET",
-      "body": "- **PitchBook raises valuation estimates to 42.3 billion dollars for Kalshi and 20.6 billion dollars for Polymarket, PitchBook reports** — PitchBook raised its Q4 2026 estimates for both platforms on stronger trading activity and an improving revenue outlook, with Kalshi ahead on scale and earnings capacity. The note says Polymarket's US expansion has narrowed but not closed the gap with Kalshi, and that Polymarket's US platform has overtaken its international business. ([PitchBook](https://pitchbook.com/news/reports/q4-2026-prediction-markets-go-head-to-head-raising-estimates-on-recent-momentum))",
-      "image_url": null,
-      "published": "2026-10-24T06:45:00-04:00",
-      "source": "2026-10-24_0645-edt.json",
       "matches_facebook_post": false
     }
   ]
