@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T11:29:21.471255-04:00",
+  "updated": "2026-10-24T11:45:32.724342-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,13 +128,162 @@
   ],
   "items": [
     {
-      "id": "infiniti-2026-10-24_1124-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1124-edt",
+      "id": "web-2026-10-24_1145-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1145-edt-0",
+      "title": "Portugal gambling regulator SRIJ orders Polymarket to halt operations after more than 4 million euros wagered on presidential election before results, GambleRss reports",
+      "content_text": "- **Portugal gambling regulator SRIJ orders Polymarket to halt operations after more than 4 million euros wagered on presidential election before results, GambleRss reports** — GambleRss, reporting a Casino.org story published October 24, said Portugal's gambling regulator SRIJ confirmed it ordered Polymarket to halt operations because the platform is illegal under national rules that limit online gambling to licensed sports betting, casino games and horse racing, not political event markets. More than 4 million euros was wagered in a short window before election results, as Antonio Jose Seguro's implied probability rose from about 60 percent in the afternoon to about 95 percent by 6 p.m. and approached 100 percent after exit-poll projections circulated, with no evidence of insider trading reported. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))",
+      "content_html": "<p>- **Portugal gambling regulator SRIJ orders Polymarket to halt operations after more than 4 million euros wagered on presidential election before results, GambleRss reports** — GambleRss, reporting a Casino.org story published October 24, said Portugal&#x27;s gambling regulator SRIJ confirmed it ordered Polymarket to halt operations because the platform is illegal under national rules that limit online gambling to licensed sports betting, casino games and horse racing, not political event markets. More than 4 million euros was wagered in a short window before election results, as Antonio Jose Seguro&#x27;s implied probability rose from about 60 percent in the afternoon to about 95 percent by 6 p.m. and approached 100 percent after exit-poll projections circulated, with no evidence of insider trading reported. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))</p>",
+      "date_published": "2026-10-24T11:45:00-04:00",
+      "date_modified": "2026-10-24T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744",
+      "links": [
+        "https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:45 AM ET",
+      "body": "- **Portugal gambling regulator SRIJ orders Polymarket to halt operations after more than 4 million euros wagered on presidential election before results, GambleRss reports** — GambleRss, reporting a Casino.org story published October 24, said Portugal's gambling regulator SRIJ confirmed it ordered Polymarket to halt operations because the platform is illegal under national rules that limit online gambling to licensed sports betting, casino games and horse racing, not political event markets. More than 4 million euros was wagered in a short window before election results, as Antonio Jose Seguro's implied probability rose from about 60 percent in the afternoon to about 95 percent by 6 p.m. and approached 100 percent after exit-poll projections circulated, with no evidence of insider trading reported. ([GambleRss](https://gamblerss.com/portugal-blocks-polymarket-after-e4m-election-betting-surge-54744))",
+      "image_url": null,
+      "published": "2026-10-24T11:45:00-04:00",
+      "source": "2026-10-24_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1145-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1145-edt-1",
+      "title": "Senator Ted Cruz plans post-midterm bill requiring state or tribal approval for gambling-related prediction market contracts, TheLines reports",
+      "content_text": "- **Senator Ted Cruz plans post-midterm bill requiring state or tribal approval for gambling-related prediction market contracts, TheLines reports** — TheLines reported on October 23 that Sen. Ted Cruz plans to announce a prediction markets bill that would ban providers such as Kalshi and Polymarket from offering gambling-type contracts unless approved by a state or tribal government, shifting the decision to state governments. Genuine commodity swaps such as crops or oil would remain under federal jurisdiction, and the report said Cruz could bring the bill to committee as early as November 9 but will more likely wait until January 2027. ([TheLines](https://www.thelines.com/prediction-markets/industry-news/cruz-floats-prediction-markets-bill-to-force-state-level-oversight/))",
+      "content_html": "<p>- **Senator Ted Cruz plans post-midterm bill requiring state or tribal approval for gambling-related prediction market contracts, TheLines reports** — TheLines reported on October 23 that Sen. Ted Cruz plans to announce a prediction markets bill that would ban providers such as Kalshi and Polymarket from offering gambling-type contracts unless approved by a state or tribal government, shifting the decision to state governments. Genuine commodity swaps such as crops or oil would remain under federal jurisdiction, and the report said Cruz could bring the bill to committee as early as November 9 but will more likely wait until January 2027. ([TheLines](https://www.thelines.com/prediction-markets/industry-news/cruz-floats-prediction-markets-bill-to-force-state-level-oversight/))</p>",
+      "date_published": "2026-10-24T11:45:00-04:00",
+      "date_modified": "2026-10-24T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Oil",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.thelines.com/prediction-markets/industry-news/cruz-floats-prediction-markets-bill-to-force-state-level-oversight/",
+      "links": [
+        "https://www.thelines.com/prediction-markets/industry-news/cruz-floats-prediction-markets-bill-to-force-state-level-oversight/"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:45 AM ET",
+      "body": "- **Senator Ted Cruz plans post-midterm bill requiring state or tribal approval for gambling-related prediction market contracts, TheLines reports** — TheLines reported on October 23 that Sen. Ted Cruz plans to announce a prediction markets bill that would ban providers such as Kalshi and Polymarket from offering gambling-type contracts unless approved by a state or tribal government, shifting the decision to state governments. Genuine commodity swaps such as crops or oil would remain under federal jurisdiction, and the report said Cruz could bring the bill to committee as early as November 9 but will more likely wait until January 2027. ([TheLines](https://www.thelines.com/prediction-markets/industry-news/cruz-floats-prediction-markets-bill-to-force-state-level-oversight/))",
+      "image_url": null,
+      "published": "2026-10-24T11:45:00-04:00",
+      "source": "2026-10-24_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1145-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1145-edt-2",
+      "title": "Phantom starts staged United States launch of in-wallet prediction markets running through Kalshi, Unchained reports",
+      "content_text": "- **Phantom starts staged United States launch of in-wallet prediction markets running through Kalshi, Unchained reports** — Unchained reported on October 23 that US users of Phantom can now trade prediction markets inside the wallet under a staged launch that began Friday and runs through Kalshi, in what Phantom called its first US integration. Users open or link a Kalshi account inside the app after identity checks, Phantom charges 0.01 dollars per contract on top of Kalshi's own 0.01 dollar exchange fee, and the product operates under CFTC Staff Letter 26-09 no-action relief granted in March, with market restrictions reported in Michigan, Nevada and Washington. ([Unchained](https://unchainedcrypto.com/phantom-starts-a-staged-us-launch-of-in-wallet-prediction-markets/))",
+      "content_html": "<p>- **Phantom starts staged United States launch of in-wallet prediction markets running through Kalshi, Unchained reports** — Unchained reported on October 23 that US users of Phantom can now trade prediction markets inside the wallet under a staged launch that began Friday and runs through Kalshi, in what Phantom called its first US integration. Users open or link a Kalshi account inside the app after identity checks, Phantom charges 0.01 dollars per contract on top of Kalshi&#x27;s own 0.01 dollar exchange fee, and the product operates under CFTC Staff Letter 26-09 no-action relief granted in March, with market restrictions reported in Michigan, Nevada and Washington. ([Unchained](https://unchainedcrypto.com/phantom-starts-a-staged-us-launch-of-in-wallet-prediction-markets/))</p>",
+      "date_published": "2026-10-24T11:45:00-04:00",
+      "date_modified": "2026-10-24T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://unchainedcrypto.com/phantom-starts-a-staged-us-launch-of-in-wallet-prediction-markets/",
+      "links": [
+        "https://unchainedcrypto.com/phantom-starts-a-staged-us-launch-of-in-wallet-prediction-markets/"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:45 AM ET",
+      "body": "- **Phantom starts staged United States launch of in-wallet prediction markets running through Kalshi, Unchained reports** — Unchained reported on October 23 that US users of Phantom can now trade prediction markets inside the wallet under a staged launch that began Friday and runs through Kalshi, in what Phantom called its first US integration. Users open or link a Kalshi account inside the app after identity checks, Phantom charges 0.01 dollars per contract on top of Kalshi's own 0.01 dollar exchange fee, and the product operates under CFTC Staff Letter 26-09 no-action relief granted in March, with market restrictions reported in Michigan, Nevada and Washington. ([Unchained](https://unchainedcrypto.com/phantom-starts-a-staged-us-launch-of-in-wallet-prediction-markets/))",
+      "image_url": null,
+      "published": "2026-10-24T11:45:00-04:00",
+      "source": "2026-10-24_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1145-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1145-edt-3",
+      "title": "San Francisco 49ers lead Super Bowl LXI prediction market at 16 percent, up 2 points in a week, with Bills and Chiefs at 11 percent, DeFi Rate reports",
+      "content_text": "- **San Francisco 49ers lead Super Bowl LXI prediction market at 16 percent, up 2 points in a week, with Bills and Chiefs at 11 percent, DeFi Rate reports** — DeFi Rate, in Super Bowl LXI prices observed October 24 at 11:43 AM ET, reported the San Francisco 49ers lead the market at about 16 percent, priced at 16 cents on Kalshi, 15.6 cents on Polymarket and 16.5 cents on Polymarket US, up 2 points over seven days. The Buffalo Bills and Kansas City Chiefs follow at about 11 percent each, the Los Angeles Rams fell 4 points in a week to about 6.5 percent, and six teams are priced between 6 and 16 percent. ([DeFi Rate](https://defirate.com/odds/super-bowl/))",
+      "content_html": "<p>- **San Francisco 49ers lead Super Bowl LXI prediction market at 16 percent, up 2 points in a week, with Bills and Chiefs at 11 percent, DeFi Rate reports** — DeFi Rate, in Super Bowl LXI prices observed October 24 at 11:43 AM ET, reported the San Francisco 49ers lead the market at about 16 percent, priced at 16 cents on Kalshi, 15.6 cents on Polymarket and 16.5 cents on Polymarket US, up 2 points over seven days. The Buffalo Bills and Kansas City Chiefs follow at about 11 percent each, the Los Angeles Rams fell 4 points in a week to about 6.5 percent, and six teams are priced between 6 and 16 percent. ([DeFi Rate](https://defirate.com/odds/super-bowl/))</p>",
+      "date_published": "2026-10-24T11:45:00-04:00",
+      "date_modified": "2026-10-24T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/super-bowl/",
+      "links": [
+        "https://defirate.com/odds/super-bowl/"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:45 AM ET",
+      "body": "- **San Francisco 49ers lead Super Bowl LXI prediction market at 16 percent, up 2 points in a week, with Bills and Chiefs at 11 percent, DeFi Rate reports** — DeFi Rate, in Super Bowl LXI prices observed October 24 at 11:43 AM ET, reported the San Francisco 49ers lead the market at about 16 percent, priced at 16 cents on Kalshi, 15.6 cents on Polymarket and 16.5 cents on Polymarket US, up 2 points over seven days. The Buffalo Bills and Kansas City Chiefs follow at about 11 percent each, the Los Angeles Rams fell 4 points in a week to about 6.5 percent, and six teams are priced between 6 and 16 percent. ([DeFi Rate](https://defirate.com/odds/super-bowl/))",
+      "image_url": null,
+      "published": "2026-10-24T11:45:00-04:00",
+      "source": "2026-10-24_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-24_1145-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1145-edt-4",
+      "title": "Matchbook partners with ADI Predictstreet to launch World Cup prediction market platform in the United Kingdom, Ireland and Canada, GambleRss reports",
+      "content_text": "- **Matchbook partners with ADI Predictstreet to launch World Cup prediction market platform in the United Kingdom, Ireland and Canada, GambleRss reports** — GambleRss reported on October 24 that Matchbook has launched a FIFA World Cup-focused prediction market platform with ADI Predictstreet, its second white-label prediction market solution to go live in the United Kingdom, with availability also planned in Ireland and Canada. The offering carries yes or no markets on the World Cup winner, top scorer and in-play outcomes alongside live streaming of every match, and ADI Predictstreet is the official prediction market partner of the World Cup under a multi-year agreement with FIFA. ([GambleRss](https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201))",
+      "content_html": "<p>- **Matchbook partners with ADI Predictstreet to launch World Cup prediction market platform in the United Kingdom, Ireland and Canada, GambleRss reports** — GambleRss reported on October 24 that Matchbook has launched a FIFA World Cup-focused prediction market platform with ADI Predictstreet, its second white-label prediction market solution to go live in the United Kingdom, with availability also planned in Ireland and Canada. The offering carries yes or no markets on the World Cup winner, top scorer and in-play outcomes alongside live streaming of every match, and ADI Predictstreet is the official prediction market partner of the World Cup under a multi-year agreement with FIFA. ([GambleRss](https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201))</p>",
+      "date_published": "2026-10-24T11:45:00-04:00",
+      "date_modified": "2026-10-24T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201",
+      "links": [
+        "https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:45 AM ET",
+      "body": "- **Matchbook partners with ADI Predictstreet to launch World Cup prediction market platform in the United Kingdom, Ireland and Canada, GambleRss reports** — GambleRss reported on October 24 that Matchbook has launched a FIFA World Cup-focused prediction market platform with ADI Predictstreet, its second white-label prediction market solution to go live in the United Kingdom, with availability also planned in Ireland and Canada. The offering carries yes or no markets on the World Cup winner, top scorer and in-play outcomes alongside live streaming of every match, and ADI Predictstreet is the official prediction market partner of the World Cup under a multi-year agreement with FIFA. ([GambleRss](https://gamblerss.com/matchbook-partners-with-adi-predictstreet-to-launch-world-cup-prediction-market-platform-64201))",
+      "image_url": null,
+      "published": "2026-10-24T11:45:00-04:00",
+      "source": "2026-10-24_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1139-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1139-edt",
       "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nFlávio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket, up 5.3 points, on $26.6M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket, up 2.0 points, on $1.2M traded\nPredictionBubbles' crypto board lists the Bitcoin $70,000 year-end dip contract among its traded crypto markets, in a crypto/commodities category distinct from the lead.…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/crypto/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Flávio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket, up 5.3 points, on $26.6M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Bitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket, up 2.0 points, on $1.2M traded<br/>PredictionBubbles&#x27; crypto board lists the Bitcoin $70,000 year-end dip contract among its traded crypto markets, in a crypto/commodities category distinct from the lead.…<br/>#PredictionMarkets #Polymarket #Bitcoin<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-24T11:24:00-04:00",
-      "date_modified": "2026-10-24T11:24:00-04:00",
+      "content_text": "Infiniti Briefing\n\n2026 be the second-hottest year on record priced at 13.5% on Polymarket, down 1.5 points, on $475K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/climate/\n\nBuffalo win the 2027 Pro Football Championship priced at 10.0% on Kalshi, down 2.0 points, on $9.7M traded\nPredictionBubbles' sports board lists the Buffalo outright championship contract among its traded sports markets, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>2026 be the second-hottest year on record priced at 13.5% on Polymarket, down 1.5 points, on $475K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://predictionbubbles.net/markets/climate/<br/><br/>Buffalo win the 2027 Pro Football Championship priced at 10.0% on Kalshi, down 2.0 points, on $9.7M traded<br/>PredictionBubbles&#x27; sports board lists the Buffalo outright championship contract among its traded sports markets, in a sports markets category distinct from the lead. It…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T11:39:00-04:00",
+      "date_modified": "2026-10-24T11:39:00-04:00",
       "authors": [
         {
           "name": "Infiniti Oracle",
@@ -145,21 +294,58 @@
         "PredictionMarkets",
         "Kalshi",
         "Polymarket",
-        "NFL",
-        "Bitcoin"
+        "NFL"
       ],
       "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "external_url": "https://predictionbubbles.net/markets/climate/",
       "links": [
-        "https://predictionbubbles.net/markets/movers/",
-        "https://predictionbubbles.net/markets/crypto/"
+        "https://predictionbubbles.net/markets/climate/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 24, 2026 · 11:39 AM ET",
+      "body": "Infiniti Briefing\n\n2026 be the second-hottest year on record priced at 13.5% on Polymarket, down 1.5 points, on $475K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/climate/\n\nBuffalo win the 2027 Pro Football Championship priced at 10.0% on Kalshi, down 2.0 points, on $9.7M traded\nPredictionBubbles' sports board lists the Buffalo outright championship contract among its traded sports markets, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T11:39:00-04:00",
+      "source": "2026-10-24_1139-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-24_1124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\nFlavio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket\nUp 5.3 points on $26.6M traded.\n#Brazil #Election #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/politics/\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket\nUp 2.0 points on $1.2M traded.\n#Bitcoin #Crypto #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/crypto/\n\nNo change in Fed interest rates after the October 2026 meeting priced at 94.5% on Polymarket\nUp 3.0 points on $18.4M traded.\n#Fed #Finance #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 301.1M contracts | Gold 40.2M | WTI 11.6M | ETH 22.4M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/>Flavio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket<br/>Up 5.3 points on $26.6M traded.<br/>#Brazil #Election #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/politics/<br/><br/>Bitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket<br/>Up 2.0 points on $1.2M traded.<br/>#Bitcoin #Crypto #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>No change in Fed interest rates after the October 2026 meeting priced at 94.5% on Polymarket<br/>Up 3.0 points on $18.4M traded.<br/>#Fed #Finance #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Markets: BTC 15M 301.1M contracts | Gold 40.2M | WTI 11.6M | ETH 22.4M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1124-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "date_published": "2026-10-24T11:24:00-04:00",
+      "date_modified": "2026-10-24T11:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Brazil",
+        "Election",
+        "Polymarket",
+        "PredictionMarkets",
+        "Bitcoin",
+        "Crypto",
+        "Fed",
+        "Finance"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1124-edt.jpg",
+      "external_url": "https://predictionbubbles.net/markets/politics/",
+      "links": [
+        "https://predictionbubbles.net/markets/politics/",
+        "https://predictionbubbles.net/markets/crypto/",
+        "https://predictionbubbles.net/markets/finance/"
       ],
       "timestamp": "Oct 24, 2026 · 11:24 AM ET",
-      "body": "Infiniti Briefing\n\nFlávio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket, up 5.3 points, on $26.6M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/movers/\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket, up 2.0 points, on $1.2M traded\nPredictionBubbles' crypto board lists the Bitcoin $70,000 year-end dip contract among its traded crypto markets, in a crypto/commodities category distinct from the lead.…\n#PredictionMarkets #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/crypto/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
+      "body": "Infiniti Briefing\nFlavio Bolsonaro win the 2026 Brazilian presidential election priced at 82.0% on Polymarket\nUp 5.3 points on $26.6M traded.\n#Brazil #Election #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/politics/\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 36.5% on Polymarket\nUp 2.0 points on $1.2M traded.\n#Bitcoin #Crypto #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/crypto/\n\nNo change in Fed interest rates after the October 2026 meeting priced at 94.5% on Polymarket\nUp 3.0 points on $18.4M traded.\n#Fed #Finance #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 301.1M contracts | Gold 40.2M | WTI 11.6M | ETH 22.4M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1124-edt.jpg",
       "published": "2026-10-24T11:24:00-04:00",
       "source": "2026-10-24_1124-edt.md",
-      "matches_facebook_post": false
+      "matches_facebook_post": true
     },
     {
       "id": "web-2026-10-24_1115-edt-0",
@@ -4553,191 +4739,6 @@
       "image_url": null,
       "published": "2026-10-23T21:15:00-04:00",
       "source": "2026-10-23_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-23_2054-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_2054-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKamala Harris be first this list to declare for 2028 United States presidential election before Nov 1, 2028 priced at 12.0% on Kalshi, down 23 points, on $6K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned today (the CNN $1.4B midterm-volume…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nUlrich Siegmund be the next Minister-President of Sachsen-Anhalt priced at 79.0% on Polymarket, up 5 points, on $377K traded\nPredictionBubbles' movers board lists the Sachsen-Anhalt contract among its upward political moves, in a political/election category matching the lead. It has not…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kamala Harris be first this list to declare for 2028 United States presidential election before Nov 1, 2028 priced at 12.0% on Kalshi, down 23 points, on $6K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned today (the CNN $1.4B midterm-volume…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Ulrich Siegmund be the next Minister-President of Sachsen-Anhalt priced at 79.0% on Polymarket, up 5 points, on $377K traded<br/>PredictionBubbles&#x27; movers board lists the Sachsen-Anhalt contract among its upward political moves, in a political/election category matching the lead. It has not…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-23T20:54:00-04:00",
-      "date_modified": "2026-10-23T20:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Senate",
-        "Elections",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:54 PM ET",
-      "body": "Infiniti Briefing\n\nKamala Harris be first this list to declare for 2028 United States presidential election before Nov 1, 2028 priced at 12.0% on Kalshi, down 23 points, on $6K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned today (the CNN $1.4B midterm-volume…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nUlrich Siegmund be the next Minister-President of Sachsen-Anhalt priced at 79.0% on Polymarket, up 5 points, on $377K traded\nPredictionBubbles' movers board lists the Sachsen-Anhalt contract among its upward political moves, in a political/election category matching the lead. It has not…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-23T20:54:00-04:00",
-      "source": "2026-10-23_2054-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2045-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2045-edt-0",
-      "title": "Kalshi lists Celtics at 55 percent against Knicks, Raptors at 75 percent against Wizards and Bucks at 68 percent against Bulls for October 23 NBA games, Prediction News reports",
-      "content_text": "- **Kalshi lists Celtics at 55 percent against Knicks, Raptors at 75 percent against Wizards and Bucks at 68 percent against Bulls for October 23 NBA games, Prediction News reports** — Kalshi published NBA event contracts for three Friday October 23 matchups, pricing Boston at 55 percent against New York, Toronto at 75 percent against Washington, and Milwaukee at 68 percent against Chicago at 33 percent. Each market includes win, spread and total contracts. ([Prediction News](https://predictionnews.com/story/kalshi-prices-celtics-at-55-to-beat-knicks-in-oct-23-matchup))",
-      "content_html": "<p>- **Kalshi lists Celtics at 55 percent against Knicks, Raptors at 75 percent against Wizards and Bucks at 68 percent against Bulls for October 23 NBA games, Prediction News reports** — Kalshi published NBA event contracts for three Friday October 23 matchups, pricing Boston at 55 percent against New York, Toronto at 75 percent against Washington, and Milwaukee at 68 percent against Chicago at 33 percent. Each market includes win, spread and total contracts. ([Prediction News](https://predictionnews.com/story/kalshi-prices-celtics-at-55-to-beat-knicks-in-oct-23-matchup))</p>",
-      "date_published": "2026-10-23T20:45:00-04:00",
-      "date_modified": "2026-10-23T20:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/kalshi-prices-celtics-at-55-to-beat-knicks-in-oct-23-matchup",
-      "links": [
-        "https://predictionnews.com/story/kalshi-prices-celtics-at-55-to-beat-knicks-in-oct-23-matchup"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:45 PM ET",
-      "body": "- **Kalshi lists Celtics at 55 percent against Knicks, Raptors at 75 percent against Wizards and Bucks at 68 percent against Bulls for October 23 NBA games, Prediction News reports** — Kalshi published NBA event contracts for three Friday October 23 matchups, pricing Boston at 55 percent against New York, Toronto at 75 percent against Washington, and Milwaukee at 68 percent against Chicago at 33 percent. Each market includes win, spread and total contracts. ([Prediction News](https://predictionnews.com/story/kalshi-prices-celtics-at-55-to-beat-knicks-in-oct-23-matchup))",
-      "image_url": null,
-      "published": "2026-10-23T20:45:00-04:00",
-      "source": "2026-10-23_2045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2045-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2045-edt-1",
-      "title": "Kalshi prices Junior Caminero and Jake Bauers at 15 cents to lead World Series Game 1 home run props, with Jackson Chourio at 69 cents for a hit, Sports Betting Dime reports",
-      "content_text": "- **Kalshi prices Junior Caminero and Jake Bauers at 15 cents to lead World Series Game 1 home run props, with Jackson Chourio at 69 cents for a hit, Sports Betting Dime reports** — Kalshi player props for World Series Game 1 between the Rays and Brewers price Caminero and Bauers at the top of the home run market at 15 cents, Chourio at 69 cents to record a hit and 41 cents for two or more total bases, and Jacob Misiorowski at 54 cents to reach seven or more strikeouts. ([Sports Betting Dime](https://www.sportsbettingdime.com/news/mlb/tampa-bay-rays-milwaukee-brewers-odds-player-prop-picks-predictions/))",
-      "content_html": "<p>- **Kalshi prices Junior Caminero and Jake Bauers at 15 cents to lead World Series Game 1 home run props, with Jackson Chourio at 69 cents for a hit, Sports Betting Dime reports** — Kalshi player props for World Series Game 1 between the Rays and Brewers price Caminero and Bauers at the top of the home run market at 15 cents, Chourio at 69 cents to record a hit and 41 cents for two or more total bases, and Jacob Misiorowski at 54 cents to reach seven or more strikeouts. ([Sports Betting Dime](https://www.sportsbettingdime.com/news/mlb/tampa-bay-rays-milwaukee-brewers-odds-player-prop-picks-predictions/))</p>",
-      "date_published": "2026-10-23T20:45:00-04:00",
-      "date_modified": "2026-10-23T20:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.sportsbettingdime.com/news/mlb/tampa-bay-rays-milwaukee-brewers-odds-player-prop-picks-predictions/",
-      "links": [
-        "https://www.sportsbettingdime.com/news/mlb/tampa-bay-rays-milwaukee-brewers-odds-player-prop-picks-predictions/"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:45 PM ET",
-      "body": "- **Kalshi prices Junior Caminero and Jake Bauers at 15 cents to lead World Series Game 1 home run props, with Jackson Chourio at 69 cents for a hit, Sports Betting Dime reports** — Kalshi player props for World Series Game 1 between the Rays and Brewers price Caminero and Bauers at the top of the home run market at 15 cents, Chourio at 69 cents to record a hit and 41 cents for two or more total bases, and Jacob Misiorowski at 54 cents to reach seven or more strikeouts. ([Sports Betting Dime](https://www.sportsbettingdime.com/news/mlb/tampa-bay-rays-milwaukee-brewers-odds-player-prop-picks-predictions/))",
-      "image_url": null,
-      "published": "2026-10-23T20:45:00-04:00",
-      "source": "2026-10-23_2045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2045-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2045-edt-2",
-      "title": "Texas favored at 58 percent on Kalshi and 60 percent on Polymarket against Ole Miss, with Kalshi volume over 1.2 million dollars, Yardbarker reports",
-      "content_text": "- **Texas favored at 58 percent on Kalshi and 60 percent on Polymarket against Ole Miss, with Kalshi volume over 1.2 million dollars, Yardbarker reports** — Prediction markets favor Texas over Ole Miss, with Kalshi at 58 percent to 42 percent and Polymarket at 60 percent to 41 percent. Kalshi has traded more than 1.2 million dollars on the matchup, well above Polymarket at about 111,000 dollars. ([Yardbarker](https://www.yardbarker.com/college_football/articles/ole_miss_vs_texas_odds_longhorns_favored_by_35_as_trinidad_chambliss_heisman_and_cfp_hopes_hang_in_the_balance/s1_17354_44464338))",
-      "content_html": "<p>- **Texas favored at 58 percent on Kalshi and 60 percent on Polymarket against Ole Miss, with Kalshi volume over 1.2 million dollars, Yardbarker reports** — Prediction markets favor Texas over Ole Miss, with Kalshi at 58 percent to 42 percent and Polymarket at 60 percent to 41 percent. Kalshi has traded more than 1.2 million dollars on the matchup, well above Polymarket at about 111,000 dollars. ([Yardbarker](https://www.yardbarker.com/college_football/articles/ole_miss_vs_texas_odds_longhorns_favored_by_35_as_trinidad_chambliss_heisman_and_cfp_hopes_hang_in_the_balance/s1_17354_44464338))</p>",
-      "date_published": "2026-10-23T20:45:00-04:00",
-      "date_modified": "2026-10-23T20:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.yardbarker.com/college_football/articles/ole_miss_vs_texas_odds_longhorns_favored_by_35_as_trinidad_chambliss_heisman_and_cfp_hopes_hang_in_the_balance/s1_17354_44464338",
-      "links": [
-        "https://www.yardbarker.com/college_football/articles/ole_miss_vs_texas_odds_longhorns_favored_by_35_as_trinidad_chambliss_heisman_and_cfp_hopes_hang_in_the_balance/s1_17354_44464338"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:45 PM ET",
-      "body": "- **Texas favored at 58 percent on Kalshi and 60 percent on Polymarket against Ole Miss, with Kalshi volume over 1.2 million dollars, Yardbarker reports** — Prediction markets favor Texas over Ole Miss, with Kalshi at 58 percent to 42 percent and Polymarket at 60 percent to 41 percent. Kalshi has traded more than 1.2 million dollars on the matchup, well above Polymarket at about 111,000 dollars. ([Yardbarker](https://www.yardbarker.com/college_football/articles/ole_miss_vs_texas_odds_longhorns_favored_by_35_as_trinidad_chambliss_heisman_and_cfp_hopes_hang_in_the_balance/s1_17354_44464338))",
-      "image_url": null,
-      "published": "2026-10-23T20:45:00-04:00",
-      "source": "2026-10-23_2045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-23_2024-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_2024-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKylian Mbappé finish in the top 3 of the 2026 Ballon d'Or priced at 89.5% on Polymarket, up 3 points, on $135K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the CNN midterm-volume analysis taken by today's 1715 website-only batch, the…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic IPO by December 15, 2026 priced at 73.5% on Polymarket, down 10 points, on $270K traded\nPredictionBubbles' movers board lists the December 15 IPO-timing contract among its largest downward finance moves, in a finance category distinct from the lead. This…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kylian Mbappé finish in the top 3 of the 2026 Ballon d&#x27;Or priced at 89.5% on Polymarket, up 3 points, on $135K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only the CNN midterm-volume analysis taken by today&#x27;s 1715 website-only batch, the…<br/>#PredictionMarkets #Polymarket #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Anthropic IPO by December 15, 2026 priced at 73.5% on Polymarket, down 10 points, on $270K traded<br/>PredictionBubbles&#x27; movers board lists the December 15 IPO-timing contract among its largest downward finance moves, in a finance category distinct from the lead. This…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-23T20:24:00-04:00",
-      "date_modified": "2026-10-23T20:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:24 PM ET",
-      "body": "Infiniti Briefing\n\nKylian Mbappé finish in the top 3 of the 2026 Ballon d'Or priced at 89.5% on Polymarket, up 3 points, on $135K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only the CNN midterm-volume analysis taken by today's 1715 website-only batch, the…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic IPO by December 15, 2026 priced at 73.5% on Polymarket, down 10 points, on $270K traded\nPredictionBubbles' movers board lists the December 15 IPO-timing contract among its largest downward finance moves, in a finance category distinct from the lead. This…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-23T20:24:00-04:00",
-      "source": "2026-10-23_2024-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2015-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2015-edt-0",
-      "title": "Kalshi and Polymarket price Democrats near 97 percent to hold New Jersey Senate seat in Booker race, NorthJersey.com reports",
-      "content_text": "- **Kalshi and Polymarket price Democrats near 97 percent to hold New Jersey Senate seat in Booker race, NorthJersey.com reports** — NorthJersey.com reported on October 23 that Kalshi priced the Democratic side at about 97.4 percent and Polymarket at about 97.3 percent to win the New Jersey Senate race, where Cory Booker is seeking reelection. In-person early voting in New Jersey runs from October 24 through November 1 ahead of Election Day on November 3. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/23/cory-booker-nj-senate-election-forecast-2026/92393728007/))",
-      "content_html": "<p>- **Kalshi and Polymarket price Democrats near 97 percent to hold New Jersey Senate seat in Booker race, NorthJersey.com reports** — NorthJersey.com reported on October 23 that Kalshi priced the Democratic side at about 97.4 percent and Polymarket at about 97.3 percent to win the New Jersey Senate race, where Cory Booker is seeking reelection. In-person early voting in New Jersey runs from October 24 through November 1 ahead of Election Day on November 3. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/23/cory-booker-nj-senate-election-forecast-2026/92393728007/))</p>",
-      "date_published": "2026-10-23T20:15:00-04:00",
-      "date_modified": "2026-10-23T20:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.northjersey.com/story/news/2026/10/23/cory-booker-nj-senate-election-forecast-2026/92393728007/",
-      "links": [
-        "https://www.northjersey.com/story/news/2026/10/23/cory-booker-nj-senate-election-forecast-2026/92393728007/"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:15 PM ET",
-      "body": "- **Kalshi and Polymarket price Democrats near 97 percent to hold New Jersey Senate seat in Booker race, NorthJersey.com reports** — NorthJersey.com reported on October 23 that Kalshi priced the Democratic side at about 97.4 percent and Polymarket at about 97.3 percent to win the New Jersey Senate race, where Cory Booker is seeking reelection. In-person early voting in New Jersey runs from October 24 through November 1 ahead of Election Day on November 3. ([NorthJersey.com](https://www.northjersey.com/story/news/2026/10/23/cory-booker-nj-senate-election-forecast-2026/92393728007/))",
-      "image_url": null,
-      "published": "2026-10-23T20:15:00-04:00",
-      "source": "2026-10-23_2015-edt.json",
       "matches_facebook_post": false
     }
   ]
