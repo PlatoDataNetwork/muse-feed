@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-23T23:15:11.953651-04:00",
+  "updated": "2026-10-23T23:27:16.637492-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-23_2324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-23_2324-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAnthropic's market cap be between $2.0T and $2.25T at market close on IPO day priced at 22.5% on Polymarket, up 4.7 points, on $477K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned today (the $20B valuation talks on the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIran charges Hormuz fees by October 31 priced at 3.4% on Polymarket, down 4.7 points, on $671K traded\nPredictionBubbles' movers board lists the Hormuz fees contract among its downward political moves, in a political/geopolitics category distinct from the lead. It has not…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Anthropic&#x27;s market cap be between $2.0T and $2.25T at market close on IPO day priced at 22.5% on Polymarket, up 4.7 points, on $477K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned today (the $20B valuation talks on the…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Iran charges Hormuz fees by October 31 priced at 3.4% on Polymarket, down 4.7 points, on $671K traded<br/>PredictionBubbles&#x27; movers board lists the Hormuz fees contract among its downward political moves, in a political/geopolitics category distinct from the lead. It has not…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-23T23:24:00-04:00",
+      "date_modified": "2026-10-23T23:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 23, 2026 · 11:24 PM ET",
+      "body": "Infiniti Briefing\n\nAnthropic's market cap be between $2.0T and $2.25T at market close on IPO day priced at 22.5% on Polymarket, up 4.7 points, on $477K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned today (the $20B valuation talks on the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIran charges Hormuz fees by October 31 priced at 3.4% on Polymarket, down 4.7 points, on $671K traded\nPredictionBubbles' movers board lists the Hormuz fees contract among its downward political moves, in a political/geopolitics category distinct from the lead. It has not…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-23T23:24:00-04:00",
+      "source": "2026-10-23_2324-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-23_2315-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2315-edt-0",
@@ -4707,35 +4739,6 @@
       ],
       "timestamp": "Oct 23, 2026 · 4:45 AM ET",
       "body": "- **Polls and prediction markets diverge on Texas Senate and governor races, USA Today reports** — Traditional polls put the Texas Senate and governor races within or just outside the margin of error, while traders price them as less close. Polymarket prices James Talarico at 65 percent against Ken Paxton at 36 percent for Senate and Greg Abbott at 70 percent against Gina Hinojosa at 30 percent for governor, with Kalshi showing similar prices. ([USA Today](https://www.usatoday.com/story/news/state/texas/2026/10/21/texas-senate-governors-race-odds-on-kalshi-polymarket/92363928007/))",
-      "image_url": null,
-      "published": "2026-10-23T04:45:00-04:00",
-      "source": "2026-10-23_0445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_0445-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_0445-edt-3",
-      "title": "Knicks stars Brunson and Hart name Polymarket presenting partner for Roommates Show podcast, The Source reports",
-      "content_text": "- **Knicks stars Brunson and Hart name Polymarket presenting partner for Roommates Show podcast, The Source reports** — New York Knicks teammates Jalen Brunson and Josh Hart have named Polymarket as presenting podcast partner for the Roommates Show for the 2026-27 NBA season. The agreement brings Polymarket branding into episodes and promotional campaigns for the player-led show produced by Playmaker. ([The Source](https://thesource.com/2026/10/21/knicks-stars-jalen-brunson-josh-hart-bring-polymarket-into-the-chat-with-new-roommates-show-partnership/))",
-      "content_html": "<p>- **Knicks stars Brunson and Hart name Polymarket presenting partner for Roommates Show podcast, The Source reports** — New York Knicks teammates Jalen Brunson and Josh Hart have named Polymarket as presenting podcast partner for the Roommates Show for the 2026-27 NBA season. The agreement brings Polymarket branding into episodes and promotional campaigns for the player-led show produced by Playmaker. ([The Source](https://thesource.com/2026/10/21/knicks-stars-jalen-brunson-josh-hart-bring-polymarket-into-the-chat-with-new-roommates-show-partnership/))</p>",
-      "date_published": "2026-10-23T04:45:00-04:00",
-      "date_modified": "2026-10-23T04:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://thesource.com/2026/10/21/knicks-stars-jalen-brunson-josh-hart-bring-polymarket-into-the-chat-with-new-roommates-show-partnership/",
-      "links": [
-        "https://thesource.com/2026/10/21/knicks-stars-jalen-brunson-josh-hart-bring-polymarket-into-the-chat-with-new-roommates-show-partnership/"
-      ],
-      "timestamp": "Oct 23, 2026 · 4:45 AM ET",
-      "body": "- **Knicks stars Brunson and Hart name Polymarket presenting partner for Roommates Show podcast, The Source reports** — New York Knicks teammates Jalen Brunson and Josh Hart have named Polymarket as presenting podcast partner for the Roommates Show for the 2026-27 NBA season. The agreement brings Polymarket branding into episodes and promotional campaigns for the player-led show produced by Playmaker. ([The Source](https://thesource.com/2026/10/21/knicks-stars-jalen-brunson-josh-hart-bring-polymarket-into-the-chat-with-new-roommates-show-partnership/))",
       "image_url": null,
       "published": "2026-10-23T04:45:00-04:00",
       "source": "2026-10-23_0445-edt.json",
