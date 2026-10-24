@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T10:45:19.958799-04:00",
+  "updated": "2026-10-24T11:02:08.771391-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-24_1054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket, up 1.2 points, on $180K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/finance/\n\nTesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket, down 2.5 points, on $322K traded\nPredictionBubbles' tech board lists the merger-announcement contract among its downward tech moves, in a tech category distinct from the lead. It has zero hits in any…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket, up 1.2 points, on $180K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Tesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket, down 2.5 points, on $322K traded<br/>PredictionBubbles&#x27; tech board lists the merger-announcement contract among its downward tech moves, in a tech category distinct from the lead. It has zero hits in any…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/tech/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T10:54:00-04:00",
+      "date_modified": "2026-10-24T10:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/finance/",
+      "links": [
+        "https://predictionbubbles.net/markets/finance/",
+        "https://predictionbubbles.net/markets/tech/"
+      ],
+      "timestamp": "Oct 24, 2026 · 10:54 AM ET",
+      "body": "Infiniti Briefing\n\nBank of Canada make no change to the target for the overnight rate at the October interest rate announcement priced at 18.7% on Polymarket, up 1.2 points, on $180K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #NFL\nhttps://predictionbubbles.net/markets/finance/\n\nTesla and SpaceX merger officially announced by December 31 priced at 16.5% on Polymarket, down 2.5 points, on $322K traded\nPredictionBubbles' tech board lists the merger-announcement contract among its downward tech moves, in a tech category distinct from the lead. It has zero hits in any…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T10:54:00-04:00",
+      "source": "2026-10-24_1054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-24_1045-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1045-edt-0",
@@ -4686,36 +4719,6 @@
       ],
       "timestamp": "Oct 23, 2026 · 8:15 PM ET",
       "body": "- **Study of about one million prediction questions finds Polymarket, Kalshi, Manifold and Metaculus forecasts highly calibrated, Marginal Revolution reports** — Marginal Revolution summarized a new paper evaluating about one million resolved contracts and questions across Polymarket, Kalshi, Manifold and Metaculus across twelve domains. The study found events assigned a probability of p percent occurred approximately p percent of the time, with systematic tendencies toward over- or underestimation in some highly consequential areas. ([Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html))",
-      "image_url": null,
-      "published": "2026-10-23T20:15:00-04:00",
-      "source": "2026-10-23_2015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-23_2015-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-23_2015-edt-4",
-      "title": "Crypto prediction markets traded about 190 million dollars in 24 hours to October 23, about 23 percent of all prediction market volume, DeFiRate reports",
-      "content_text": "- **Crypto prediction markets traded about 190 million dollars in 24 hours to October 23, about 23 percent of all prediction market volume, DeFiRate reports** — DeFiRate reported that crypto prediction markets traded about 190 million dollars in the 24 hours to October 23, 2026, roughly 23 percent of all prediction-market volume. Its October 23 snapshot also put Kalshi traders at 66 percent for Bitcoin to finish the 15-minute window closing at 4:45 pm ET up, against a target of 81,320 dollars. ([DeFiRate](https://defirate.com/odds/crypto/))",
-      "content_html": "<p>- **Crypto prediction markets traded about 190 million dollars in 24 hours to October 23, about 23 percent of all prediction market volume, DeFiRate reports** — DeFiRate reported that crypto prediction markets traded about 190 million dollars in the 24 hours to October 23, 2026, roughly 23 percent of all prediction-market volume. Its October 23 snapshot also put Kalshi traders at 66 percent for Bitcoin to finish the 15-minute window closing at 4:45 pm ET up, against a target of 81,320 dollars. ([DeFiRate](https://defirate.com/odds/crypto/))</p>",
-      "date_published": "2026-10-23T20:15:00-04:00",
-      "date_modified": "2026-10-23T20:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/crypto/",
-      "links": [
-        "https://defirate.com/odds/crypto/"
-      ],
-      "timestamp": "Oct 23, 2026 · 8:15 PM ET",
-      "body": "- **Crypto prediction markets traded about 190 million dollars in 24 hours to October 23, about 23 percent of all prediction market volume, DeFiRate reports** — DeFiRate reported that crypto prediction markets traded about 190 million dollars in the 24 hours to October 23, 2026, roughly 23 percent of all prediction-market volume. Its October 23 snapshot also put Kalshi traders at 66 percent for Bitcoin to finish the 15-minute window closing at 4:45 pm ET up, against a target of 81,320 dollars. ([DeFiRate](https://defirate.com/odds/crypto/))",
       "image_url": null,
       "published": "2026-10-23T20:15:00-04:00",
       "source": "2026-10-23_2015-edt.json",
