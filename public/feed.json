@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T21:59:18.150910-04:00",
+  "updated": "2026-10-24T22:13:00.220694-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-24_2209-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_2209-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nUS x Iran ceasefire continues through October 31 priced at 82.5% on Polymarket, up 8.0 points, on $6.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/politics/\n\nWisconsin wins priced at 57.0% on Kalshi, up 14 points, on $1.2M traded\nPredictionBubbles' movers board lists the Wisconsin win contract among its largest upward moves, in a sports markets category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>US x Iran ceasefire continues through October 31 priced at 82.5% on Polymarket, up 8.0 points, on $6.0M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://predictionbubbles.net/markets/politics/<br/><br/>Wisconsin wins priced at 57.0% on Kalshi, up 14 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board lists the Wisconsin win contract among its largest upward moves, in a sports markets category distinct from the lead. It has zero hits in…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T22:09:00-04:00",
+      "date_modified": "2026-10-24T22:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/politics/",
+      "links": [
+        "https://predictionbubbles.net/markets/politics/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 24, 2026 · 10:09 PM ET",
+      "body": "Infiniti Briefing\n\nUS x Iran ceasefire continues through October 31 priced at 82.5% on Polymarket, up 8.0 points, on $6.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/politics/\n\nWisconsin wins priced at 57.0% on Kalshi, up 14 points, on $1.2M traded\nPredictionBubbles' movers board lists the Wisconsin win contract among its largest upward moves, in a sports markets category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T22:09:00-04:00",
+      "source": "2026-10-24_2209-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-24_2154-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_2154-edt",
@@ -4730,35 +4763,6 @@
       ],
       "timestamp": "Oct 24, 2026 · 12:15 PM ET",
       "body": "- **Ravens fall 13 points to 48 percent in AFC North prediction market while Bills rise 7 points in AFC East, iPredicta reports** — iPredicta, in prices read from Kalshi and Polymarket on October 24 at 14:27 UTC, reported the Baltimore Ravens fell 13 points since October 18 to 48 percent on both venues in the AFC North market, with the Cincinnati Bengals up 5 points to 32 percent on Kalshi and the Pittsburgh Steelers up 8 points to 17 percent. In the AFC East, the Buffalo Bills rose 7 points to 74 percent on Kalshi and 71 percent on Polymarket, ahead of the New England Patriots at 26 percent and 29 percent. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
-      "image_url": null,
-      "published": "2026-10-24T12:15:00-04:00",
-      "source": "2026-10-24_1215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_1215-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1215-edt-3",
-      "title": "Derive prices Bitcoin reaching 100,000 dollars by Christmas at 12 percent, up from 9.7 percent, as spot Bitcoin ETFs lose 635.6 million dollars, CryptoNews reports",
-      "content_text": "- **Derive prices Bitcoin reaching 100,000 dollars by Christmas at 12 percent, up from 9.7 percent, as spot Bitcoin ETFs lose 635.6 million dollars, CryptoNews reports** — CryptoNews reported on October 24 that on options platform Derive, the implied odds of Bitcoin reaching 100,000 dollars by Christmas rose from 9.7 percent to 12 percent this week, even as spot Bitcoin ETFs lost 635.6 million dollars on Thursday. The report said several analysts told Bitcoin.com News that Bitcoin will not break 100,000 dollars by the end of 2026, and that Bitcoin spent the past week trading between roughly 80,000 and 84,000 dollars. ([CryptoNews](https://cryptonews.net/news/market/33643926/))",
-      "content_html": "<p>- **Derive prices Bitcoin reaching 100,000 dollars by Christmas at 12 percent, up from 9.7 percent, as spot Bitcoin ETFs lose 635.6 million dollars, CryptoNews reports** — CryptoNews reported on October 24 that on options platform Derive, the implied odds of Bitcoin reaching 100,000 dollars by Christmas rose from 9.7 percent to 12 percent this week, even as spot Bitcoin ETFs lost 635.6 million dollars on Thursday. The report said several analysts told Bitcoin.com News that Bitcoin will not break 100,000 dollars by the end of 2026, and that Bitcoin spent the past week trading between roughly 80,000 and 84,000 dollars. ([CryptoNews](https://cryptonews.net/news/market/33643926/))</p>",
-      "date_published": "2026-10-24T12:15:00-04:00",
-      "date_modified": "2026-10-24T12:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://cryptonews.net/news/market/33643926/",
-      "links": [
-        "https://cryptonews.net/news/market/33643926/"
-      ],
-      "timestamp": "Oct 24, 2026 · 12:15 PM ET",
-      "body": "- **Derive prices Bitcoin reaching 100,000 dollars by Christmas at 12 percent, up from 9.7 percent, as spot Bitcoin ETFs lose 635.6 million dollars, CryptoNews reports** — CryptoNews reported on October 24 that on options platform Derive, the implied odds of Bitcoin reaching 100,000 dollars by Christmas rose from 9.7 percent to 12 percent this week, even as spot Bitcoin ETFs lost 635.6 million dollars on Thursday. The report said several analysts told Bitcoin.com News that Bitcoin will not break 100,000 dollars by the end of 2026, and that Bitcoin spent the past week trading between roughly 80,000 and 84,000 dollars. ([CryptoNews](https://cryptonews.net/news/market/33643926/))",
       "image_url": null,
       "published": "2026-10-24T12:15:00-04:00",
       "source": "2026-10-24_1215-edt.json",
