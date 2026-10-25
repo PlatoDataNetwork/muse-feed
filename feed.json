@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-25T04:42:12.645679-04:00",
+  "updated": "2026-10-25T04:56:37.972156-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-25_0454-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0454-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\n10-year Treasury yield dip below 4.8% before 2027 priced at 51.5% on Polymarket, down 11.0 points, on $400 traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRepublicans win the Senate race in Minnesota — Michele Tafoya priced at 19.0% on Kalshi, up 4.0 points, on $2.6M traded\nPredictionBubbles' movers board lists the Tafoya Minnesota Senate contract among its upward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>10-year Treasury yield dip below 4.8% before 2027 priced at 51.5% on Polymarket, down 11.0 points, on $400 traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Republicans win the Senate race in Minnesota — Michele Tafoya priced at 19.0% on Kalshi, up 4.0 points, on $2.6M traded<br/>PredictionBubbles&#x27; movers board lists the Tafoya Minnesota Senate contract among its upward political moves, in a political/election category distinct from the lead. It…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-25T04:54:00-04:00",
+      "date_modified": "2026-10-25T04:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 25, 2026 · 4:54 AM ET",
+      "body": "Infiniti Briefing\n\n10-year Treasury yield dip below 4.8% before 2027 priced at 51.5% on Polymarket, down 11.0 points, on $400 traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRepublicans win the Senate race in Minnesota — Michele Tafoya priced at 19.0% on Kalshi, up 4.0 points, on $2.6M traded\nPredictionBubbles' movers board lists the Tafoya Minnesota Senate contract among its upward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-25T04:54:00-04:00",
+      "source": "2026-10-25_0454-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-25_0439-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0439-edt",
@@ -4679,35 +4712,6 @@
       ],
       "timestamp": "Oct 24, 2026 · 6:45 PM ET",
       "body": "- **Kalshi files for US perpetual stock futures with the SEC and CFTC, with Coinbase and Payward filing related proposals, BitRss reports** — BitRss reported Kalshi submitted a proposed rule change to the SEC and the CFTC on Friday to launch perpetual futures linked to individual US stocks, with no preset expiration date and periodic funding payments to keep prices aligned with the underlying equities. Kalshi said the products would be treated as security futures and cleared through Kalshi Klear, while Coinbase submitted a related proposal the same day and Payward, parent of Kraken, also filed to expand the concept. ([BitRss](https://bitrss.com/kalshi-files-for-us-perpetual-stock-futures-ties-into-coinbase-252846))",
-      "image_url": null,
-      "published": "2026-10-24T18:45:00-04:00",
-      "source": "2026-10-24_1845-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_1845-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1845-edt-1",
-      "title": "Prediction market volume reaches 6.0 billion dollars traded in the last 24 hours across nine exchanges, DeFi Rate reports",
-      "content_text": "- **Prediction market volume reaches 6.0 billion dollars traded in the last 24 hours across nine exchanges, DeFi Rate reports** — DeFi Rate, in prices observed on October 24 at 6:43 PM ET, reported 6.0 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar. The same page listed its biggest move of the last seven days as the Kalshi market on a Federal Reserve hike on October 28, down 7 points to 6 percent. ([DeFi Rate](https://defirate.com/?src=cryptotracker.io))",
-      "content_html": "<p>- **Prediction market volume reaches 6.0 billion dollars traded in the last 24 hours across nine exchanges, DeFi Rate reports** — DeFi Rate, in prices observed on October 24 at 6:43 PM ET, reported 6.0 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar. The same page listed its biggest move of the last seven days as the Kalshi market on a Federal Reserve hike on October 28, down 7 points to 6 percent. ([DeFi Rate](https://defirate.com/?src=cryptotracker.io))</p>",
-      "date_published": "2026-10-24T18:45:00-04:00",
-      "date_modified": "2026-10-24T18:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/?src=cryptotracker.io",
-      "links": [
-        "https://defirate.com/?src=cryptotracker.io"
-      ],
-      "timestamp": "Oct 24, 2026 · 6:45 PM ET",
-      "body": "- **Prediction market volume reaches 6.0 billion dollars traded in the last 24 hours across nine exchanges, DeFi Rate reports** — DeFi Rate, in prices observed on October 24 at 6:43 PM ET, reported 6.0 billion dollars traded in the last 24 hours across nine prediction market exchanges, with contracts counted at 1 dollar. The same page listed its biggest move of the last seven days as the Kalshi market on a Federal Reserve hike on October 28, down 7 points to 6 percent. ([DeFi Rate](https://defirate.com/?src=cryptotracker.io))",
       "image_url": null,
       "published": "2026-10-24T18:45:00-04:00",
       "source": "2026-10-24_1845-edt.json",
