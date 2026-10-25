@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-25T00:55:54.067305-04:00",
+  "updated": "2026-10-25T01:11:12.248463-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-25_0109-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0109-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nOpenAI announce another Millennium Prize solution by December 31, 2027 priced at 52.5% on Polymarket, down 7.0 points, on $400K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken, struck or banned (the $2.7B weekly crypto…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/tech/\n\nTampa Bay win the 2026 Pro Baseball Championship priced at 15.5% on Kalshi, down 11.2 points, on $8.6M traded\nPredictionBubbles' movers and sports boards list the Tampa Bay championship contract among their largest downward sports moves, in a sports markets category distinct…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>OpenAI announce another Millennium Prize solution by December 31, 2027 priced at 52.5% on Polymarket, down 7.0 points, on $400K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken, struck or banned (the $2.7B weekly crypto…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://predictionbubbles.net/markets/tech/<br/><br/>Tampa Bay win the 2026 Pro Baseball Championship priced at 15.5% on Kalshi, down 11.2 points, on $8.6M traded<br/>PredictionBubbles&#x27; movers and sports boards list the Tampa Bay championship contract among their largest downward sports moves, in a sports markets category distinct…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-25T01:09:00-04:00",
+      "date_modified": "2026-10-25T01:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/tech/",
+      "links": [
+        "https://predictionbubbles.net/markets/tech/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 25, 2026 · 1:09 AM ET",
+      "body": "Infiniti Briefing\n\nOpenAI announce another Millennium Prize solution by December 31, 2027 priced at 52.5% on Polymarket, down 7.0 points, on $400K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken, struck or banned (the $2.7B weekly crypto…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/tech/\n\nTampa Bay win the 2026 Pro Baseball Championship priced at 15.5% on Kalshi, down 11.2 points, on $8.6M traded\nPredictionBubbles' movers and sports boards list the Tampa Bay championship contract among their largest downward sports moves, in a sports markets category distinct…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-25T01:09:00-04:00",
+      "source": "2026-10-25_0109-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-25_0054-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0054-edt",
@@ -4691,36 +4724,6 @@
       "image_url": null,
       "published": "2026-10-24T15:54:00-04:00",
       "source": "2026-10-24_1554-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_1545-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1545-edt-0",
-      "title": "CFTC names first Innovation Task Force lineup led by Michael Pascualaqua, with a prediction markets consultant among five members, BitRss reports",
-      "content_text": "- **CFTC names first Innovation Task Force lineup led by Michael Pascualaqua, with a prediction markets consultant among five members, BitRss reports** — BitRss reported the CFTC revealed the first lineup of its Innovation Task Force, headed by senior adviser Michael Pascualaqua and including blockchain lawyers Hank Balaban and Eugene Gonzalez IV, prediction market expert Sam Canavos, and agency officials Mark Fajfar and Dina Moussa. The task force will help draft compliance guidelines for smart contracts, AI and prediction markets, as a federal judge temporarily blocked Arizona from pursuing a criminal case against Kalshi. ([BitRss](https://bitrss.com/cftc-expands-crypto-team-after-court-blocks-prediction-market-ban-200298))",
-      "content_html": "<p>- **CFTC names first Innovation Task Force lineup led by Michael Pascualaqua, with a prediction markets consultant among five members, BitRss reports** — BitRss reported the CFTC revealed the first lineup of its Innovation Task Force, headed by senior adviser Michael Pascualaqua and including blockchain lawyers Hank Balaban and Eugene Gonzalez IV, prediction market expert Sam Canavos, and agency officials Mark Fajfar and Dina Moussa. The task force will help draft compliance guidelines for smart contracts, AI and prediction markets, as a federal judge temporarily blocked Arizona from pursuing a criminal case against Kalshi. ([BitRss](https://bitrss.com/cftc-expands-crypto-team-after-court-blocks-prediction-market-ban-200298))</p>",
-      "date_published": "2026-10-24T15:45:00-04:00",
-      "date_modified": "2026-10-24T15:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/cftc-expands-crypto-team-after-court-blocks-prediction-market-ban-200298",
-      "links": [
-        "https://bitrss.com/cftc-expands-crypto-team-after-court-blocks-prediction-market-ban-200298"
-      ],
-      "timestamp": "Oct 24, 2026 · 3:45 PM ET",
-      "body": "- **CFTC names first Innovation Task Force lineup led by Michael Pascualaqua, with a prediction markets consultant among five members, BitRss reports** — BitRss reported the CFTC revealed the first lineup of its Innovation Task Force, headed by senior adviser Michael Pascualaqua and including blockchain lawyers Hank Balaban and Eugene Gonzalez IV, prediction market expert Sam Canavos, and agency officials Mark Fajfar and Dina Moussa. The task force will help draft compliance guidelines for smart contracts, AI and prediction markets, as a federal judge temporarily blocked Arizona from pursuing a criminal case against Kalshi. ([BitRss](https://bitrss.com/cftc-expands-crypto-team-after-court-blocks-prediction-market-ban-200298))",
-      "image_url": null,
-      "published": "2026-10-24T15:45:00-04:00",
-      "source": "2026-10-24_1545-edt.json",
       "matches_facebook_post": false
     }
   ]
