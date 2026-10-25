@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-24T19:43:48.024329-04:00",
+  "updated": "2026-10-24T19:57:58.425656-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-24_1954-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1954-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nOpenAI announce earbuds or headphones in 2026 priced at 15.0% on Polymarket, down 7.0 points, on $125K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nBYU wins priced at 31.0% on Kalshi, down 42 points, on $6.5M traded\nPredictionBubbles' movers board lists the BYU win contract among its largest downward sports moves, resolving in about a day, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>OpenAI announce earbuds or headphones in 2026 priced at 15.0% on Polymarket, down 7.0 points, on $125K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>BYU wins priced at 31.0% on Kalshi, down 42 points, on $6.5M traded<br/>PredictionBubbles&#x27; movers board lists the BYU win contract among its largest downward sports moves, resolving in about a day, in a sports markets category distinct from…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-24T19:54:00-04:00",
+      "date_modified": "2026-10-24T19:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Bitcoin",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 24, 2026 · 7:54 PM ET",
+      "body": "Infiniti Briefing\n\nOpenAI announce earbuds or headphones in 2026 priced at 15.0% on Polymarket, down 7.0 points, on $125K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nBYU wins priced at 31.0% on Kalshi, down 42 points, on $6.5M traded\nPredictionBubbles' movers board lists the BYU win contract among its largest downward sports moves, resolving in about a day, in a sports markets category distinct from…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-24T19:54:00-04:00",
+      "source": "2026-10-24_1954-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-24_1945-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1945-edt-0",
@@ -4743,35 +4776,6 @@
       ],
       "timestamp": "Oct 24, 2026 · 8:45 AM ET",
       "body": "- **Polymarket launches Polymarket Perps perpetual futures platform with up to 20x leverage across nine assets, BitRss reports** — BitRss reported Polymarket has launched a perpetual futures trading service called Polymarket Perps for cryptocurrencies and traditional financial assets, with no set expiration date and leverage up to 20x. The platform supports nine assets including Bitcoin, Ethereum and Solana, gold and silver, WTI crude oil, the S and P 500 and Nasdaq 100 indices, and SpaceX shares. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))",
-      "image_url": null,
-      "published": "2026-10-24T08:45:00-04:00",
-      "source": "2026-10-24_0845-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_0845-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_0845-edt-3",
-      "title": "StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports",
-      "content_text": "- **StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports** — WeeBet reported StarkWare opened OffMarket to the public on October 14, 2026, giving Polymarket users a way to trade prediction market positions without those trades appearing linked to their on-chain accounts. OffMarket routes trades through StarkWare zero-knowledge proof infrastructure, and the company has not yet disclosed fee structures or volume caps. ([WeeBet](https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch))",
-      "content_html": "<p>- **StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports** — WeeBet reported StarkWare opened OffMarket to the public on October 14, 2026, giving Polymarket users a way to trade prediction market positions without those trades appearing linked to their on-chain accounts. OffMarket routes trades through StarkWare zero-knowledge proof infrastructure, and the company has not yet disclosed fee structures or volume caps. ([WeeBet](https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch))</p>",
-      "date_published": "2026-10-24T08:45:00-04:00",
-      "date_modified": "2026-10-24T08:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch",
-      "links": [
-        "https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch"
-      ],
-      "timestamp": "Oct 24, 2026 · 8:45 AM ET",
-      "body": "- **StarkWare launches OffMarket for private Polymarket trades using zero-knowledge proofs, WeeBet reports** — WeeBet reported StarkWare opened OffMarket to the public on October 14, 2026, giving Polymarket users a way to trade prediction market positions without those trades appearing linked to their on-chain accounts. OffMarket routes trades through StarkWare zero-knowledge proof infrastructure, and the company has not yet disclosed fee structures or volume caps. ([WeeBet](https://weebet.com/news/starkware-offmarket-polymarket-private-trading-launch))",
       "image_url": null,
       "published": "2026-10-24T08:45:00-04:00",
       "source": "2026-10-24_0845-edt.json",
