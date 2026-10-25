@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-25T00:42:20.170550-04:00",
+  "updated": "2026-10-25T00:55:54.067305-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,155 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-25_0054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nMaría Corina Machado enter Venezuela by December 31 priced at 22.0% on Polymarket, down 10.5 points, on $145K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken, struck or banned (the $2.7B weekly crypto…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/politics/\n\nTexas win the College Football Playoff National Championship priced at 8.0% on Kalshi, up 5.0 points, on $4.4M traded\nPredictionBubbles' movers and sports boards list the Texas championship contract among their upward sports moves, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>María Corina Machado enter Venezuela by December 31 priced at 22.0% on Polymarket, down 10.5 points, on $145K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken, struck or banned (the $2.7B weekly crypto…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://predictionbubbles.net/markets/politics/<br/><br/>Texas win the College Football Playoff National Championship priced at 8.0% on Kalshi, up 5.0 points, on $4.4M traded<br/>PredictionBubbles&#x27; movers and sports boards list the Texas championship contract among their upward sports moves, in a sports markets category distinct from the lead. It…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-25T00:54:00-04:00",
+      "date_modified": "2026-10-25T00:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/politics/",
+      "links": [
+        "https://predictionbubbles.net/markets/politics/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 25, 2026 · 12:54 AM ET",
+      "body": "Infiniti Briefing\n\nMaría Corina Machado enter Venezuela by December 31 priced at 22.0% on Polymarket, down 10.5 points, on $145K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken, struck or banned (the $2.7B weekly crypto…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://predictionbubbles.net/markets/politics/\n\nTexas win the College Football Playoff National Championship priced at 8.0% on Kalshi, up 5.0 points, on $4.4M traded\nPredictionBubbles' movers and sports boards list the Texas championship contract among their upward sports moves, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-25T00:54:00-04:00",
+      "source": "2026-10-25_0054-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_0045-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_0045-edt-0",
+      "title": "Polymarket to move all new markets to Protocol V2 on November 2 with pUSD-only collateral, Analytics Insight reports",
+      "content_text": "- **Polymarket to move all new markets to Protocol V2 on November 2 with pUSD-only collateral, Analytics Insight reports** — Analytics Insight reported Polymarket began rolling out Protocol V2 on October 5, with canary markets testing through October 30 before all new markets move to V2 on November 2 while existing markets stay on the current framework. The upgrade uses a single ERC-1155 positions token contract, pUSD-only collateral, market-specific exchanges and an OracleAggregator supporting UMA and Chainlink, and the company also plans to challenge its Netherlands ban in court. ([Analytics Insight](https://www.analyticsinsight.net/news/polymarket-protocol-v2-launches-as-dutch-court-fight-looms))",
+      "content_html": "<p>- **Polymarket to move all new markets to Protocol V2 on November 2 with pUSD-only collateral, Analytics Insight reports** — Analytics Insight reported Polymarket began rolling out Protocol V2 on October 5, with canary markets testing through October 30 before all new markets move to V2 on November 2 while existing markets stay on the current framework. The upgrade uses a single ERC-1155 positions token contract, pUSD-only collateral, market-specific exchanges and an OracleAggregator supporting UMA and Chainlink, and the company also plans to challenge its Netherlands ban in court. ([Analytics Insight](https://www.analyticsinsight.net/news/polymarket-protocol-v2-launches-as-dutch-court-fight-looms))</p>",
+      "date_published": "2026-10-25T00:45:00-04:00",
+      "date_modified": "2026-10-25T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.analyticsinsight.net/news/polymarket-protocol-v2-launches-as-dutch-court-fight-looms",
+      "links": [
+        "https://www.analyticsinsight.net/news/polymarket-protocol-v2-launches-as-dutch-court-fight-looms"
+      ],
+      "timestamp": "Oct 25, 2026 · 12:45 AM ET",
+      "body": "- **Polymarket to move all new markets to Protocol V2 on November 2 with pUSD-only collateral, Analytics Insight reports** — Analytics Insight reported Polymarket began rolling out Protocol V2 on October 5, with canary markets testing through October 30 before all new markets move to V2 on November 2 while existing markets stay on the current framework. The upgrade uses a single ERC-1155 positions token contract, pUSD-only collateral, market-specific exchanges and an OracleAggregator supporting UMA and Chainlink, and the company also plans to challenge its Netherlands ban in court. ([Analytics Insight](https://www.analyticsinsight.net/news/polymarket-protocol-v2-launches-as-dutch-court-fight-looms))",
+      "image_url": null,
+      "published": "2026-10-25T00:45:00-04:00",
+      "source": "2026-10-25_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_0045-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_0045-edt-1",
+      "title": "Hyperliquid launches HIP-4 prediction markets in testnet as cumulative perpetuals volume passes 4 trillion dollars, BitRss reports",
+      "content_text": "- **Hyperliquid launches HIP-4 prediction markets in testnet as cumulative perpetuals volume passes 4 trillion dollars, BitRss reports** — BitRss reported Hyperliquid developers launched the HIP-4 protocol in testnet with prediction markets as the main innovation, starting with fully collateralized binary options on HyperCore prices with no leverage or liquidation risk. Mainnet plans limit the first markets to one-day binary options on Bitcoin and the HYPE token, and cumulative perpetual futures volume on the platform has passed 4 trillion dollars. ([BitRss](https://bitrss.com/hyperliquid-surpasses-4-trillion-milestone-and-launches-prediction-market-testing-191992))",
+      "content_html": "<p>- **Hyperliquid launches HIP-4 prediction markets in testnet as cumulative perpetuals volume passes 4 trillion dollars, BitRss reports** — BitRss reported Hyperliquid developers launched the HIP-4 protocol in testnet with prediction markets as the main innovation, starting with fully collateralized binary options on HyperCore prices with no leverage or liquidation risk. Mainnet plans limit the first markets to one-day binary options on Bitcoin and the HYPE token, and cumulative perpetual futures volume on the platform has passed 4 trillion dollars. ([BitRss](https://bitrss.com/hyperliquid-surpasses-4-trillion-milestone-and-launches-prediction-market-testing-191992))</p>",
+      "date_published": "2026-10-25T00:45:00-04:00",
+      "date_modified": "2026-10-25T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/hyperliquid-surpasses-4-trillion-milestone-and-launches-prediction-market-testing-191992",
+      "links": [
+        "https://bitrss.com/hyperliquid-surpasses-4-trillion-milestone-and-launches-prediction-market-testing-191992"
+      ],
+      "timestamp": "Oct 25, 2026 · 12:45 AM ET",
+      "body": "- **Hyperliquid launches HIP-4 prediction markets in testnet as cumulative perpetuals volume passes 4 trillion dollars, BitRss reports** — BitRss reported Hyperliquid developers launched the HIP-4 protocol in testnet with prediction markets as the main innovation, starting with fully collateralized binary options on HyperCore prices with no leverage or liquidation risk. Mainnet plans limit the first markets to one-day binary options on Bitcoin and the HYPE token, and cumulative perpetual futures volume on the platform has passed 4 trillion dollars. ([BitRss](https://bitrss.com/hyperliquid-surpasses-4-trillion-milestone-and-launches-prediction-market-testing-191992))",
+      "image_url": null,
+      "published": "2026-10-25T00:45:00-04:00",
+      "source": "2026-10-25_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_0045-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_0045-edt-2",
+      "title": "Seattle priced at 54 percent on Kalshi against Kansas City at 46 percent for October 25 Sunday night game, Covers reports",
+      "content_text": "- **Seattle priced at 54 percent on Kalshi against Kansas City at 46 percent for October 25 Sunday night game, Covers reports** — Covers reported Kalshi prices Seattle at 54 percent against Kansas City at 46 percent for the October 25 Sunday night game in Seattle, with Seattle at minus 2.5 points and the under 42.5 points at 52 percent. Seattle has lost three of its last four heading into the game, which kicks off at 8:20 PM ET. ([Covers](https://www.covers.com/nfl/chiefs-vs-seahawks-prediction-picks-odds-early-leans-week-7-2026))",
+      "content_html": "<p>- **Seattle priced at 54 percent on Kalshi against Kansas City at 46 percent for October 25 Sunday night game, Covers reports** — Covers reported Kalshi prices Seattle at 54 percent against Kansas City at 46 percent for the October 25 Sunday night game in Seattle, with Seattle at minus 2.5 points and the under 42.5 points at 52 percent. Seattle has lost three of its last four heading into the game, which kicks off at 8:20 PM ET. ([Covers](https://www.covers.com/nfl/chiefs-vs-seahawks-prediction-picks-odds-early-leans-week-7-2026))</p>",
+      "date_published": "2026-10-25T00:45:00-04:00",
+      "date_modified": "2026-10-25T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/nfl/chiefs-vs-seahawks-prediction-picks-odds-early-leans-week-7-2026",
+      "links": [
+        "https://www.covers.com/nfl/chiefs-vs-seahawks-prediction-picks-odds-early-leans-week-7-2026"
+      ],
+      "timestamp": "Oct 25, 2026 · 12:45 AM ET",
+      "body": "- **Seattle priced at 54 percent on Kalshi against Kansas City at 46 percent for October 25 Sunday night game, Covers reports** — Covers reported Kalshi prices Seattle at 54 percent against Kansas City at 46 percent for the October 25 Sunday night game in Seattle, with Seattle at minus 2.5 points and the under 42.5 points at 52 percent. Seattle has lost three of its last four heading into the game, which kicks off at 8:20 PM ET. ([Covers](https://www.covers.com/nfl/chiefs-vs-seahawks-prediction-picks-odds-early-leans-week-7-2026))",
+      "image_url": null,
+      "published": "2026-10-25T00:45:00-04:00",
+      "source": "2026-10-25_0045-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_0045-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_0045-edt-3",
+      "title": "San Francisco priced at 63 percent on Kalshi against Atlanta at 37 percent for October 25 game, Covers reports",
+      "content_text": "- **San Francisco priced at 63 percent on Kalshi against Atlanta at 37 percent for October 25 game, Covers reports** — Covers reported Kalshi prices San Francisco at 63 percent against Atlanta at 37 percent for the October 25 game in Atlanta, with Atlanta plus 3.5 points at 52 percent and the under 49.5 points at 50 percent. San Francisco is 6-0 and traveling on a short week, while Atlanta is on a two-game slide. ([Covers](https://www.covers.com/nfl/49ers-vs-falcons-prediction-picks-odds-early-leans-week-7-2026))",
+      "content_html": "<p>- **San Francisco priced at 63 percent on Kalshi against Atlanta at 37 percent for October 25 game, Covers reports** — Covers reported Kalshi prices San Francisco at 63 percent against Atlanta at 37 percent for the October 25 game in Atlanta, with Atlanta plus 3.5 points at 52 percent and the under 49.5 points at 50 percent. San Francisco is 6-0 and traveling on a short week, while Atlanta is on a two-game slide. ([Covers](https://www.covers.com/nfl/49ers-vs-falcons-prediction-picks-odds-early-leans-week-7-2026))</p>",
+      "date_published": "2026-10-25T00:45:00-04:00",
+      "date_modified": "2026-10-25T00:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/nfl/49ers-vs-falcons-prediction-picks-odds-early-leans-week-7-2026",
+      "links": [
+        "https://www.covers.com/nfl/49ers-vs-falcons-prediction-picks-odds-early-leans-week-7-2026"
+      ],
+      "timestamp": "Oct 25, 2026 · 12:45 AM ET",
+      "body": "- **San Francisco priced at 63 percent on Kalshi against Atlanta at 37 percent for October 25 game, Covers reports** — Covers reported Kalshi prices San Francisco at 63 percent against Atlanta at 37 percent for the October 25 game in Atlanta, with Atlanta plus 3.5 points at 52 percent and the under 49.5 points at 50 percent. San Francisco is 6-0 and traveling on a short week, while Atlanta is on a two-game slide. ([Covers](https://www.covers.com/nfl/49ers-vs-falcons-prediction-picks-odds-early-leans-week-7-2026))",
+      "image_url": null,
+      "published": "2026-10-25T00:45:00-04:00",
+      "source": "2026-10-25_0045-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-25_0039-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0039-edt",
@@ -4573,182 +4722,6 @@
       "published": "2026-10-24T15:45:00-04:00",
       "source": "2026-10-24_1545-edt.json",
       "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_1545-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1545-edt-1",
-      "title": "NBA ban on manipulation-risk player prop bets is followed by DraftKings and Flutter while Kalshi and Polymarket are not complying, Morningstar reports",
-      "content_text": "- **NBA ban on manipulation-risk player prop bets is followed by DraftKings and Flutter while Kalshi and Polymarket are not complying, Morningstar reports** — Morningstar reported the NBA announced on October 16 a ban on player prop bets at risk of manipulation, following a similar NFL action in 2025, with DraftKings and Flutter complying while Kalshi and Polymarket are not. Morningstar said the NFL has asked the Supreme Court to help enforce its policy and that regulatory visibility on prediction market sports contracts may not arrive until 2027. ([Morningstar](https://www.morningstar.com/stocks/draftkings-flutter-nba-joins-nfl-betting-restrictions-prediction-firms-arent-complying))",
-      "content_html": "<p>- **NBA ban on manipulation-risk player prop bets is followed by DraftKings and Flutter while Kalshi and Polymarket are not complying, Morningstar reports** — Morningstar reported the NBA announced on October 16 a ban on player prop bets at risk of manipulation, following a similar NFL action in 2025, with DraftKings and Flutter complying while Kalshi and Polymarket are not. Morningstar said the NFL has asked the Supreme Court to help enforce its policy and that regulatory visibility on prediction market sports contracts may not arrive until 2027. ([Morningstar](https://www.morningstar.com/stocks/draftkings-flutter-nba-joins-nfl-betting-restrictions-prediction-firms-arent-complying))</p>",
-      "date_published": "2026-10-24T15:45:00-04:00",
-      "date_modified": "2026-10-24T15:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL",
-        "SCOTUS",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://www.morningstar.com/stocks/draftkings-flutter-nba-joins-nfl-betting-restrictions-prediction-firms-arent-complying",
-      "links": [
-        "https://www.morningstar.com/stocks/draftkings-flutter-nba-joins-nfl-betting-restrictions-prediction-firms-arent-complying"
-      ],
-      "timestamp": "Oct 24, 2026 · 3:45 PM ET",
-      "body": "- **NBA ban on manipulation-risk player prop bets is followed by DraftKings and Flutter while Kalshi and Polymarket are not complying, Morningstar reports** — Morningstar reported the NBA announced on October 16 a ban on player prop bets at risk of manipulation, following a similar NFL action in 2025, with DraftKings and Flutter complying while Kalshi and Polymarket are not. Morningstar said the NFL has asked the Supreme Court to help enforce its policy and that regulatory visibility on prediction market sports contracts may not arrive until 2027. ([Morningstar](https://www.morningstar.com/stocks/draftkings-flutter-nba-joins-nfl-betting-restrictions-prediction-firms-arent-complying))",
-      "image_url": null,
-      "published": "2026-10-24T15:45:00-04:00",
-      "source": "2026-10-24_1545-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-24_1539-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1539-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nNATO x Russia military clash by October 31, 2026 priced at 2.1% on Polymarket\nDown 36.4 points on $4.1M traded, down 16.4 since Oct. 23 on volume up from $2.6M.\n#Politics #NATO #Russia #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nTexas Tech wins priced at 29.0% on Kalshi\nDown 51 points on $1.8M traded, first carry, resolving in about a day.\n#Sports #TexasTech #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nManon leave Katseye before Dec 1, 2026 priced at 1.0% on Kalshi\nDown 11 points on $14K traded, first carry, thin volume noted.\n#Culture #Katseye #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 296.7M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>NATO x Russia military clash by October 31, 2026 priced at 2.1% on Polymarket<br/>Down 36.4 points on $4.1M traded, down 16.4 since Oct. 23 on volume up from $2.6M.<br/>#Politics #NATO #Russia #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Texas Tech wins priced at 29.0% on Kalshi<br/>Down 51 points on $1.8M traded, first carry, resolving in about a day.<br/>#Sports #TexasTech #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Manon leave Katseye before Dec 1, 2026 priced at 1.0% on Kalshi<br/>Down 11 points on $14K traded, first carry, thin volume noted.<br/>#Culture #Katseye #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: BTC 15M 296.7M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1539-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-24T15:39:00-04:00",
-      "date_modified": "2026-10-24T15:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Politics",
-        "NATO",
-        "Russia",
-        "Polymarket",
-        "PredictionMarkets",
-        "Sports",
-        "TexasTech",
-        "Kalshi"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1539-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 24, 2026 · 3:39 PM ET",
-      "body": "Infiniti Briefing\nNATO x Russia military clash by October 31, 2026 priced at 2.1% on Polymarket\nDown 36.4 points on $4.1M traded, down 16.4 since Oct. 23 on volume up from $2.6M.\n#Politics #NATO #Russia #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nTexas Tech wins priced at 29.0% on Kalshi\nDown 51 points on $1.8M traded, first carry, resolving in about a day.\n#Sports #TexasTech #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nManon leave Katseye before Dec 1, 2026 priced at 1.0% on Kalshi\nDown 11 points on $14K traded, first carry, thin volume noted.\n#Culture #Katseye #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 296.7M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1539-edt.jpg",
-      "published": "2026-10-24T15:39:00-04:00",
-      "source": "2026-10-24_1539-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-24_1524-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1524-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nU.S. confirm that aliens exist before Jan 1, 2028 priced at 14.0% on Kalshi, down 1 point, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/tech/\n\nWest Virginia wins priced at 56.0% on Kalshi, up 32 points, on $1.6M traded\nPredictionBubbles' movers board lists the West Virginia win contract as its fourth-largest upward move, resolving in about a day, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>U.S. confirm that aliens exist before Jan 1, 2028 priced at 14.0% on Kalshi, down 1 point, on $1.0M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/>https://predictionbubbles.net/markets/tech/<br/><br/>West Virginia wins priced at 56.0% on Kalshi, up 32 points, on $1.6M traded<br/>PredictionBubbles&#x27; movers board lists the West Virginia win contract as its fourth-largest upward move, resolving in about a day, in a sports markets category distinct…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-24T15:24:00-04:00",
-      "date_modified": "2026-10-24T15:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/tech/",
-      "links": [
-        "https://predictionbubbles.net/markets/tech/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 24, 2026 · 3:24 PM ET",
-      "body": "Infiniti Briefing\n\nU.S. confirm that aliens exist before Jan 1, 2028 priced at 14.0% on Kalshi, down 1 point, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Elections #Midterms\nhttps://predictionbubbles.net/markets/tech/\n\nWest Virginia wins priced at 56.0% on Kalshi, up 32 points, on $1.6M traded\nPredictionBubbles' movers board lists the West Virginia win contract as its fourth-largest upward move, resolving in about a day, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-24T15:24:00-04:00",
-      "source": "2026-10-24_1524-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-24_1509-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1509-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nCincinnati wins priced at 72.0% on Kalshi\nUp 51 points on $1.4M traded, first carry, resolving in about a day.\n#Sports #Cincinnati #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic party win the governorship in Texas - Gina Hinojosa priced at 32.0% on Kalshi\nUp 4 points on $2.8M traded, down 3.0 points since Oct. 22 on volume up $600K.\n#Politics #Texas #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic have the highest IPO Market Cap 2026 priced at 28.0% on Polymarket\nUp 7.4 points on $1.4M traded, up 2.7 points since Oct. 20.\n#Finance #Anthropic #IPO #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 296.7M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Cincinnati wins priced at 72.0% on Kalshi<br/>Up 51 points on $1.4M traded, first carry, resolving in about a day.<br/>#Sports #Cincinnati #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Democratic party win the governorship in Texas - Gina Hinojosa priced at 32.0% on Kalshi<br/>Up 4 points on $2.8M traded, down 3.0 points since Oct. 22 on volume up $600K.<br/>#Politics #Texas #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Anthropic have the highest IPO Market Cap 2026 priced at 28.0% on Polymarket<br/>Up 7.4 points on $1.4M traded, up 2.7 points since Oct. 20.<br/>#Finance #Anthropic #IPO #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Markets: BTC 15M 296.7M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1509-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-24T15:09:00-04:00",
-      "date_modified": "2026-10-24T15:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Sports",
-        "Cincinnati",
-        "Kalshi",
-        "PredictionMarkets",
-        "Politics",
-        "Texas",
-        "Finance",
-        "Anthropic"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1509-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/",
-        "https://predictionbubbles.net/markets/finance/"
-      ],
-      "timestamp": "Oct 24, 2026 · 3:09 PM ET",
-      "body": "Infiniti Briefing\nCincinnati wins priced at 72.0% on Kalshi\nUp 51 points on $1.4M traded, first carry, resolving in about a day.\n#Sports #Cincinnati #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic party win the governorship in Texas - Gina Hinojosa priced at 32.0% on Kalshi\nUp 4 points on $2.8M traded, down 3.0 points since Oct. 22 on volume up $600K.\n#Politics #Texas #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic have the highest IPO Market Cap 2026 priced at 28.0% on Polymarket\nUp 7.4 points on $1.4M traded, up 2.7 points since Oct. 20.\n#Finance #Anthropic #IPO #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nMarkets: BTC 15M 296.7M contracts | Gold 40.2M | WTI 11.6M | ETH 23.1M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1509-edt.jpg",
-      "published": "2026-10-24T15:09:00-04:00",
-      "source": "2026-10-24_1509-edt.md",
-      "matches_facebook_post": true
-    },
-    {
-      "id": "infiniti-2026-10-24_1454-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-24_1454-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\nSnapchat be acquired before 2027 priced at 4.0% on Polymarket\nDown 0.4 points on $152K traded, first carry in the October corpus.\n#Business #Snapchat #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nHouse Control be Democratic AND Senate Control be Republican for Feb 2027 priced at 26.0% on Kalshi\nUp 3 points on $5.8M traded, up 4.0 points since Oct. 22 on volume up $200K.\n#Politics #Midterms #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nLSU qualify for the College Football Playoffs priced at 44.0% on Kalshi\nUp 5 points on $964K traded, up 8.0 points since Oct. 23.\n#Sports #LSU #CollegeFootball #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 296.1M contracts | Gold 40.2M | WTI 11.6M | ETH 23.0M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/>Snapchat be acquired before 2027 priced at 4.0% on Polymarket<br/>Down 0.4 points on $152K traded, first carry in the October corpus.<br/>#Business #Snapchat #Polymarket #PredictionMarkets<br/>https://predictionbubbles.net/markets/finance/<br/><br/>House Control be Democratic AND Senate Control be Republican for Feb 2027 priced at 26.0% on Kalshi<br/>Up 3 points on $5.8M traded, up 4.0 points since Oct. 22 on volume up $200K.<br/>#Politics #Midterms #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>LSU qualify for the College Football Playoffs priced at 44.0% on Kalshi<br/>Up 5 points on $964K traded, up 8.0 points since Oct. 23.<br/>#Sports #LSU #CollegeFootball #Kalshi #PredictionMarkets<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Markets: BTC 15M 296.1M contracts | Gold 40.2M | WTI 11.6M | ETH 23.0M<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/2026-10-24_1454-edt.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-24T14:54:00-04:00",
-      "date_modified": "2026-10-24T14:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Business",
-        "Snapchat",
-        "Polymarket",
-        "PredictionMarkets",
-        "Politics",
-        "Midterms",
-        "Kalshi",
-        "Sports"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/2026-10-24_1454-edt.jpg",
-      "external_url": "https://predictionbubbles.net/markets/finance/",
-      "links": [
-        "https://predictionbubbles.net/markets/finance/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 24, 2026 · 2:54 PM ET",
-      "body": "Infiniti Briefing\nSnapchat be acquired before 2027 priced at 4.0% on Polymarket\nDown 0.4 points on $152K traded, first carry in the October corpus.\n#Business #Snapchat #Polymarket #PredictionMarkets\nhttps://predictionbubbles.net/markets/finance/\n\nHouse Control be Democratic AND Senate Control be Republican for Feb 2027 priced at 26.0% on Kalshi\nUp 3 points on $5.8M traded, up 4.0 points since Oct. 22 on volume up $200K.\n#Politics #Midterms #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nLSU qualify for the College Football Playoffs priced at 44.0% on Kalshi\nUp 5 points on $964K traded, up 8.0 points since Oct. 23.\n#Sports #LSU #CollegeFootball #Kalshi #PredictionMarkets\nhttps://predictionbubbles.net/markets/movers/\n\nMarkets: BTC 15M 296.1M contracts | Gold 40.2M | WTI 11.6M | ETH 23.0M\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/2026-10-24_1454-edt.jpg",
-      "published": "2026-10-24T14:54:00-04:00",
-      "source": "2026-10-24_1454-edt.md",
-      "matches_facebook_post": true
     }
   ]
 }
