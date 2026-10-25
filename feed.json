@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-25T05:42:32.383207-04:00",
+  "updated": "2026-10-25T05:57:11.665664-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-25_0554-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0554-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nGoogle have the best AI model at the end of December 2026 priced at 38.5% on Polymarket, down 2.0 points, on $371K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/tech/\n\nDemocratic party win the governorship in Nevada — Aaron Ford priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded\nPredictionBubbles' movers board lists the Ford Nevada governorship contract among its upward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Google have the best AI model at the end of December 2026 priced at 38.5% on Polymarket, down 2.0 points, on $371K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/tech/<br/><br/>Democratic party win the governorship in Nevada — Aaron Ford priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board lists the Ford Nevada governorship contract among its upward political moves, in a political/election category distinct from the lead. It…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-25T05:54:00-04:00",
+      "date_modified": "2026-10-25T05:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/tech/",
+      "links": [
+        "https://predictionbubbles.net/markets/tech/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 25, 2026 · 5:54 AM ET",
+      "body": "Infiniti Briefing\n\nGoogle have the best AI model at the end of December 2026 priced at 38.5% on Polymarket, down 2.0 points, on $371K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, web-taken or banned (the $2.7B weekly crypto volume record…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/tech/\n\nDemocratic party win the governorship in Nevada — Aaron Ford priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded\nPredictionBubbles' movers board lists the Ford Nevada governorship contract among its upward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-25T05:54:00-04:00",
+      "source": "2026-10-25_0554-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-25_0539-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_0539-edt",
@@ -4689,37 +4723,6 @@
       ],
       "timestamp": "Oct 24, 2026 · 7:45 PM ET",
       "body": "- **Kalshi and Polymarket eyeing 20 billion dollar valuations while pursuing new funding, GambleRss reports** — GambleRss, citing a Wall Street Journal report, said Kalshi and Polymarket are in early talks with potential investors that could value each platform at close to 20 billion dollars. Kalshi was previously valued at 11 billion dollars in a December round that raised 1 billion dollars, while Polymarket was valued at more than 8 billion dollars after a 2 billion dollar investment from Intercontinental Exchange. ([GambleRss](https://gamblerss.com/report-kalshi-and-polymarket-eyeing-20bn-valuations-while-pursuing-new-funding-59100))",
-      "image_url": null,
-      "published": "2026-10-24T19:45:00-04:00",
-      "source": "2026-10-24_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-24_1945-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-24_1945-edt-1",
-      "title": "More than 1.4 billion dollars traded on prediction markets for the 2026 midterms, CNN reports",
-      "content_text": "- **More than 1.4 billion dollars traded on prediction markets for the 2026 midterms, CNN reports** — CNN reported that prediction markets for the 2026 midterm elections have surpassed 1.4 billion dollars in trading volume. Kalshi accounted for nearly 1.1 billion dollars of that total across midterm-related markets, while Polymarket accounted for more than 340 million dollars across its US-facing and offshore platforms. ([CNN](https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta))",
-      "content_html": "<p>- **More than 1.4 billion dollars traded on prediction markets for the 2026 midterms, CNN reports** — CNN reported that prediction markets for the 2026 midterm elections have surpassed 1.4 billion dollars in trading volume. Kalshi accounted for nearly 1.1 billion dollars of that total across midterm-related markets, while Polymarket accounted for more than 340 million dollars across its US-facing and offshore platforms. ([CNN](https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta))</p>",
-      "date_published": "2026-10-24T19:45:00-04:00",
-      "date_modified": "2026-10-24T19:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta",
-      "links": [
-        "https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta"
-      ],
-      "timestamp": "Oct 24, 2026 · 7:45 PM ET",
-      "body": "- **More than 1.4 billion dollars traded on prediction markets for the 2026 midterms, CNN reports** — CNN reported that prediction markets for the 2026 midterm elections have surpassed 1.4 billion dollars in trading volume. Kalshi accounted for nearly 1.1 billion dollars of that total across midterm-related markets, while Polymarket accounted for more than 340 million dollars across its US-facing and offshore platforms. ([CNN](https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta))",
       "image_url": null,
       "published": "2026-10-24T19:45:00-04:00",
       "source": "2026-10-24_1945-edt.json",
