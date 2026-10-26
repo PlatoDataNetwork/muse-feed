@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T03:44:28.913018-04:00",
+  "updated": "2026-10-26T03:58:36.057964-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-26_0354-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0354-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nExtended FDV above $300M one day after launch priced at 33.0% on Polymarket, down 3.0 points, on $1.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nButterfield Bermuda Championship: Austin Smotherman wins priced at 53.0% on Kalshi, up 26.0 points, on $827K traded\nPredictionBubbles' movers board lists the Smotherman outright-winner contract among its largest upward sports moves, in a sports markets category distinct from the lead.…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Extended FDV above $300M one day after launch priced at 33.0% on Polymarket, down 3.0 points, on $1.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Butterfield Bermuda Championship: Austin Smotherman wins priced at 53.0% on Kalshi, up 26.0 points, on $827K traded<br/>PredictionBubbles&#x27; movers board lists the Smotherman outright-winner contract among its largest upward sports moves, in a sports markets category distinct from the lead.…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-26T03:54:00-04:00",
+      "date_modified": "2026-10-26T03:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 26, 2026 · 3:54 AM ET",
+      "body": "Infiniti Briefing\n\nExtended FDV above $300M one day after launch priced at 33.0% on Polymarket, down 3.0 points, on $1.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Elections #Midterms\nhttps://predictionbubbles.net/markets/movers/\n\nButterfield Bermuda Championship: Austin Smotherman wins priced at 53.0% on Kalshi, up 26.0 points, on $827K traded\nPredictionBubbles' movers board lists the Smotherman outright-winner contract among its largest upward sports moves, in a sports markets category distinct from the lead.…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-26T03:54:00-04:00",
+      "source": "2026-10-26_0354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-26_0345-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0345-edt-0",
@@ -4651,37 +4684,6 @@
       "published": "2026-10-25T20:09:00-04:00",
       "source": "2026-10-25_2009-edt.md",
       "matches_facebook_post": true
-    },
-    {
-      "id": "web-2026-10-25_2000-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2000-edt-0",
-      "title": "Kalshi and Polymarket weekly volume reaches a record 2.7 billion dollars, driven largely by 15-minute Bitcoin contracts, Happy Coin News reports",
-      "content_text": "- **Kalshi and Polymarket weekly volume reaches a record 2.7 billion dollars, driven largely by 15-minute Bitcoin contracts, Happy Coin News reports** — Weekly volume on Kalshi and Polymarket reached a record 2.7 billion dollars, with almost all of it coming from 15-minute Bitcoin contracts. The report notes the nominal volume reflects contract turnover, not new money invested in Bitcoin. ([Happy Coin News](https://happycoin.news/en/kalshi-i-polymarket-postavili-rekord-27-mlrd-realnyj-spros-ili-spekulyacziya/))",
-      "content_html": "<p>- **Kalshi and Polymarket weekly volume reaches a record 2.7 billion dollars, driven largely by 15-minute Bitcoin contracts, Happy Coin News reports** — Weekly volume on Kalshi and Polymarket reached a record 2.7 billion dollars, with almost all of it coming from 15-minute Bitcoin contracts. The report notes the nominal volume reflects contract turnover, not new money invested in Bitcoin. ([Happy Coin News](https://happycoin.news/en/kalshi-i-polymarket-postavili-rekord-27-mlrd-realnyj-spros-ili-spekulyacziya/))</p>",
-      "date_published": "2026-10-25T20:00:00-04:00",
-      "date_modified": "2026-10-25T20:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://happycoin.news/en/kalshi-i-polymarket-postavili-rekord-27-mlrd-realnyj-spros-ili-spekulyacziya/",
-      "links": [
-        "https://happycoin.news/en/kalshi-i-polymarket-postavili-rekord-27-mlrd-realnyj-spros-ili-spekulyacziya/"
-      ],
-      "timestamp": "Oct 25, 2026 · 8:00 PM ET",
-      "body": "- **Kalshi and Polymarket weekly volume reaches a record 2.7 billion dollars, driven largely by 15-minute Bitcoin contracts, Happy Coin News reports** — Weekly volume on Kalshi and Polymarket reached a record 2.7 billion dollars, with almost all of it coming from 15-minute Bitcoin contracts. The report notes the nominal volume reflects contract turnover, not new money invested in Bitcoin. ([Happy Coin News](https://happycoin.news/en/kalshi-i-polymarket-postavili-rekord-27-mlrd-realnyj-spros-ili-spekulyacziya/))",
-      "image_url": null,
-      "published": "2026-10-25T20:00:00-04:00",
-      "source": "2026-10-25_2000-edt.json",
-      "matches_facebook_post": false
     }
   ]
 }
