@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T05:12:09.923090-04:00",
+  "updated": "2026-10-26T05:27:22.049688-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,99 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-26_0524-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0524-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSports prediction markets trade $752M in the last 24 hours, down 4%, with Kalshi at $388M\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/odds/sports/\n\nSan Francisco win the Pro Football NFC West Division priced at 63.0% on Kalshi, down 17.0 points, on $909K traded\nPredictionBubbles' movers and sports boards list the San Francisco divisional contract among their downward sports moves, in a sports markets category distinct from the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Sports prediction markets trade $752M in the last 24 hours, down 4%, with Kalshi at $388M<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://defirate.com/odds/sports/<br/><br/>San Francisco win the Pro Football NFC West Division priced at 63.0% on Kalshi, down 17.0 points, on $909K traded<br/>PredictionBubbles&#x27; movers and sports boards list the San Francisco divisional contract among their downward sports moves, in a sports markets category distinct from the…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-26T05:24:00-04:00",
+      "date_modified": "2026-10-26T05:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/sports/",
+      "links": [
+        "https://defirate.com/odds/sports/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 26, 2026 · 5:24 AM ET",
+      "body": "Infiniti Briefing\n\nSports prediction markets trade $752M in the last 24 hours, down 4%, with Kalshi at $388M\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/odds/sports/\n\nSan Francisco win the Pro Football NFC West Division priced at 63.0% on Kalshi, down 17.0 points, on $909K traded\nPredictionBubbles' movers and sports boards list the San Francisco divisional contract among their downward sports moves, in a sports markets category distinct from the…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-26T05:24:00-04:00",
+      "source": "2026-10-26_0524-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_0515-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0515-edt-0",
+      "title": "PolyKal snapshot shows Polymarket at 46.4 million dollars in 24-hour volume and Kalshi at 57 million contracts, PolyKal reports",
+      "content_text": "- **PolyKal snapshot shows Polymarket at 46.4 million dollars in 24-hour volume and Kalshi at 57 million contracts, PolyKal reports** — PolyKal, in data as of 3:52 a.m. ET on October 26, listed Polymarket with 18,017 active markets and 46.40 million dollars in 24-hour total volume, and Kalshi with 19,036 active markets and 56.96 million contracts traded in 24 hours. Kalshi added 2,683 new markets with trades in that period, compared with 1,038 for Polymarket. ([PolyKal](https://polykal.net/))",
+      "content_html": "<p>- **PolyKal snapshot shows Polymarket at 46.4 million dollars in 24-hour volume and Kalshi at 57 million contracts, PolyKal reports** — PolyKal, in data as of 3:52 a.m. ET on October 26, listed Polymarket with 18,017 active markets and 46.40 million dollars in 24-hour total volume, and Kalshi with 19,036 active markets and 56.96 million contracts traded in 24 hours. Kalshi added 2,683 new markets with trades in that period, compared with 1,038 for Polymarket. ([PolyKal](https://polykal.net/))</p>",
+      "date_published": "2026-10-26T05:15:00-04:00",
+      "date_modified": "2026-10-26T05:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polykal.net/",
+      "links": [
+        "https://polykal.net/"
+      ],
+      "timestamp": "Oct 26, 2026 · 5:15 AM ET",
+      "body": "- **PolyKal snapshot shows Polymarket at 46.4 million dollars in 24-hour volume and Kalshi at 57 million contracts, PolyKal reports** — PolyKal, in data as of 3:52 a.m. ET on October 26, listed Polymarket with 18,017 active markets and 46.40 million dollars in 24-hour total volume, and Kalshi with 19,036 active markets and 56.96 million contracts traded in 24 hours. Kalshi added 2,683 new markets with trades in that period, compared with 1,038 for Polymarket. ([PolyKal](https://polykal.net/))",
+      "image_url": null,
+      "published": "2026-10-26T05:15:00-04:00",
+      "source": "2026-10-26_0515-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_0515-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0515-edt-1",
+      "title": "Kalshi Week 7 NFL markets price 49ers at 17 percent for Super Bowl and Jets at 66 percent over Dolphins, Prediction News reports",
+      "content_text": "- **Kalshi Week 7 NFL markets price 49ers at 17 percent for Super Bowl and Jets at 66 percent over Dolphins, Prediction News reports** — Kalshi traders priced the San Francisco 49ers at 17 percent to win the Super Bowl in Week 7 NFL markets published on October 25. The New York Jets were priced at 66 percent to defeat the Dolphins, with the spread at approximately 3.5 points. ([Prediction News](https://predictionnews.com/story/kalshi-traders-price-steelers-at-59-to-beat-saints-in-paris))",
+      "content_html": "<p>- **Kalshi Week 7 NFL markets price 49ers at 17 percent for Super Bowl and Jets at 66 percent over Dolphins, Prediction News reports** — Kalshi traders priced the San Francisco 49ers at 17 percent to win the Super Bowl in Week 7 NFL markets published on October 25. The New York Jets were priced at 66 percent to defeat the Dolphins, with the spread at approximately 3.5 points. ([Prediction News](https://predictionnews.com/story/kalshi-traders-price-steelers-at-59-to-beat-saints-in-paris))</p>",
+      "date_published": "2026-10-26T05:15:00-04:00",
+      "date_modified": "2026-10-26T05:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/kalshi-traders-price-steelers-at-59-to-beat-saints-in-paris",
+      "links": [
+        "https://predictionnews.com/story/kalshi-traders-price-steelers-at-59-to-beat-saints-in-paris"
+      ],
+      "timestamp": "Oct 26, 2026 · 5:15 AM ET",
+      "body": "- **Kalshi Week 7 NFL markets price 49ers at 17 percent for Super Bowl and Jets at 66 percent over Dolphins, Prediction News reports** — Kalshi traders priced the San Francisco 49ers at 17 percent to win the Super Bowl in Week 7 NFL markets published on October 25. The New York Jets were priced at 66 percent to defeat the Dolphins, with the spread at approximately 3.5 points. ([Prediction News](https://predictionnews.com/story/kalshi-traders-price-steelers-at-59-to-beat-saints-in-paris))",
+      "image_url": null,
+      "published": "2026-10-26T05:15:00-04:00",
+      "source": "2026-10-26_0515-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-26_0509-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0509-edt",
@@ -4596,91 +4689,6 @@
       ],
       "timestamp": "Oct 25, 2026 · 8:45 PM ET",
       "body": "- **Coinbase highlights live BTC, ETH and SOL prediction markets with 15-minute to daily windows, CoinScreamer reports** — CoinScreamer reported Coinbase highlighted live crypto prediction markets on October 25 covering Bitcoin, Ether and Solana over windows ranging from 15 minutes to a day, for eligible United States residents excluding Nevada and Michigan. The markets are operated and resolved by Kalshi and are offered through Coinbase Financial Markets. ([CoinScreamer](https://coinscreamer.com/coinbase-btc-eth-sol-live-crypto-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-25T20:45:00-04:00",
-      "source": "2026-10-25_2045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2045-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2045-edt-2",
-      "title": "DraftKings DKeX ranks third among US prediction exchanges with 1.04 billion dollars in weekly volume, ReadWrite reports",
-      "content_text": "- **DraftKings DKeX ranks third among US prediction exchanges with 1.04 billion dollars in weekly volume, ReadWrite reports** — ReadWrite reported DraftKings chief executive Jason Robins said the DKeX exchange has become the third-largest US prediction market operator, handling 1.04 billion dollars in notional volume in the week to October 18 for a 3.57 percent market share, up from 2.33 percent in late September, according to Aldrin Research figures. DraftKings Predictions is available in 38 states, with the full contract range offered in only 18 of them. ([ReadWrite](https://readwrite.com/draftkings-dkex-third-prediction-exchange/))",
-      "content_html": "<p>- **DraftKings DKeX ranks third among US prediction exchanges with 1.04 billion dollars in weekly volume, ReadWrite reports** — ReadWrite reported DraftKings chief executive Jason Robins said the DKeX exchange has become the third-largest US prediction market operator, handling 1.04 billion dollars in notional volume in the week to October 18 for a 3.57 percent market share, up from 2.33 percent in late September, according to Aldrin Research figures. DraftKings Predictions is available in 38 states, with the full contract range offered in only 18 of them. ([ReadWrite](https://readwrite.com/draftkings-dkex-third-prediction-exchange/))</p>",
-      "date_published": "2026-10-25T20:45:00-04:00",
-      "date_modified": "2026-10-25T20:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": "https://readwrite.com/draftkings-dkex-third-prediction-exchange/",
-      "links": [
-        "https://readwrite.com/draftkings-dkex-third-prediction-exchange/"
-      ],
-      "timestamp": "Oct 25, 2026 · 8:45 PM ET",
-      "body": "- **DraftKings DKeX ranks third among US prediction exchanges with 1.04 billion dollars in weekly volume, ReadWrite reports** — ReadWrite reported DraftKings chief executive Jason Robins said the DKeX exchange has become the third-largest US prediction market operator, handling 1.04 billion dollars in notional volume in the week to October 18 for a 3.57 percent market share, up from 2.33 percent in late September, according to Aldrin Research figures. DraftKings Predictions is available in 38 states, with the full contract range offered in only 18 of them. ([ReadWrite](https://readwrite.com/draftkings-dkex-third-prediction-exchange/))",
-      "image_url": null,
-      "published": "2026-10-25T20:45:00-04:00",
-      "source": "2026-10-25_2045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2045-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2045-edt-3",
-      "title": "Cowboys priced at 64 percent on Kalshi against Eagles for Monday Night Football, Covers reports",
-      "content_text": "- **Cowboys priced at 64 percent on Kalshi against Eagles for Monday Night Football, Covers reports** — Covers reported Kalshi prices the Dallas Cowboys at a 64 percent win probability against the Philadelphia Eagles on Monday, October 26 at Lincoln Financial Field, with Philadelphia listed as a 4.5-point underdog. Eagles backup Tanner McKee is set to start at quarterback with Jalen Hurts sidelined. ([Covers](https://www.covers.com/nfl/cowboys-vs-eagles-prediction-picks-oct-26-2026))",
-      "content_html": "<p>- **Cowboys priced at 64 percent on Kalshi against Eagles for Monday Night Football, Covers reports** — Covers reported Kalshi prices the Dallas Cowboys at a 64 percent win probability against the Philadelphia Eagles on Monday, October 26 at Lincoln Financial Field, with Philadelphia listed as a 4.5-point underdog. Eagles backup Tanner McKee is set to start at quarterback with Jalen Hurts sidelined. ([Covers](https://www.covers.com/nfl/cowboys-vs-eagles-prediction-picks-oct-26-2026))</p>",
-      "date_published": "2026-10-25T20:45:00-04:00",
-      "date_modified": "2026-10-25T20:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/nfl/cowboys-vs-eagles-prediction-picks-oct-26-2026",
-      "links": [
-        "https://www.covers.com/nfl/cowboys-vs-eagles-prediction-picks-oct-26-2026"
-      ],
-      "timestamp": "Oct 25, 2026 · 8:45 PM ET",
-      "body": "- **Cowboys priced at 64 percent on Kalshi against Eagles for Monday Night Football, Covers reports** — Covers reported Kalshi prices the Dallas Cowboys at a 64 percent win probability against the Philadelphia Eagles on Monday, October 26 at Lincoln Financial Field, with Philadelphia listed as a 4.5-point underdog. Eagles backup Tanner McKee is set to start at quarterback with Jalen Hurts sidelined. ([Covers](https://www.covers.com/nfl/cowboys-vs-eagles-prediction-picks-oct-26-2026))",
-      "image_url": null,
-      "published": "2026-10-25T20:45:00-04:00",
-      "source": "2026-10-25_2045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2045-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2045-edt-4",
-      "title": "Antonelli priced at 96 percent to win the United States Grand Prix in Austin on prediction markets, Macro Markets reports",
-      "content_text": "- **Antonelli priced at 96 percent to win the United States Grand Prix in Austin on prediction markets, Macro Markets reports** — Macro Markets reported prediction markets price Kimi Antonelli at 96 percent to win the United States Grand Prix in Austin on Sunday, October 25, ahead of Charles Leclerc at 3 percent and Max Verstappen at 2 percent. Antonelli arrived at the race as championship leader on 340 points, with Mercedes leading the constructors standings on 578 points. ([Macro Markets](https://macro.markets/blog/formula-1-2026-grand-prix-2026-gp-estados-unidos))",
-      "content_html": "<p>- **Antonelli priced at 96 percent to win the United States Grand Prix in Austin on prediction markets, Macro Markets reports** — Macro Markets reported prediction markets price Kimi Antonelli at 96 percent to win the United States Grand Prix in Austin on Sunday, October 25, ahead of Charles Leclerc at 3 percent and Max Verstappen at 2 percent. Antonelli arrived at the race as championship leader on 340 points, with Mercedes leading the constructors standings on 578 points. ([Macro Markets](https://macro.markets/blog/formula-1-2026-grand-prix-2026-gp-estados-unidos))</p>",
-      "date_published": "2026-10-25T20:45:00-04:00",
-      "date_modified": "2026-10-25T20:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://macro.markets/blog/formula-1-2026-grand-prix-2026-gp-estados-unidos",
-      "links": [
-        "https://macro.markets/blog/formula-1-2026-grand-prix-2026-gp-estados-unidos"
-      ],
-      "timestamp": "Oct 25, 2026 · 8:45 PM ET",
-      "body": "- **Antonelli priced at 96 percent to win the United States Grand Prix in Austin on prediction markets, Macro Markets reports** — Macro Markets reported prediction markets price Kimi Antonelli at 96 percent to win the United States Grand Prix in Austin on Sunday, October 25, ahead of Charles Leclerc at 3 percent and Max Verstappen at 2 percent. Antonelli arrived at the race as championship leader on 340 points, with Mercedes leading the constructors standings on 578 points. ([Macro Markets](https://macro.markets/blog/formula-1-2026-grand-prix-2026-gp-estados-unidos))",
       "image_url": null,
       "published": "2026-10-25T20:45:00-04:00",
       "source": "2026-10-25_2045-edt.json",
