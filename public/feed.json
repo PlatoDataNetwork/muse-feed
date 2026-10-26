@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T03:41:05.273948-04:00",
+  "updated": "2026-10-26T03:44:28.913018-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,65 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-26_0345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0345-edt-0",
+      "title": "Polymarket five-minute Bitcoin price markets let traders bet on moves every five minutes, BitRss reports",
+      "content_text": "- **Polymarket five-minute Bitcoin price markets let traders bet on moves every five minutes, BitRss reports** — BitRss reported Polymarket lets users bet on Bitcoin price movements every five minutes, with prices updating dynamically and trades executed on-chain. The market is limited to Bitcoin for now, builds on existing 15-minute, hourly and four-hour contracts, and support for major altcoins is expected to follow. ([BitRss](https://bitrss.com/how-polymarket-is-turning-bitcoin-volatility-into-a-five-minute-betting-market-183195))",
+      "content_html": "<p>- **Polymarket five-minute Bitcoin price markets let traders bet on moves every five minutes, BitRss reports** — BitRss reported Polymarket lets users bet on Bitcoin price movements every five minutes, with prices updating dynamically and trades executed on-chain. The market is limited to Bitcoin for now, builds on existing 15-minute, hourly and four-hour contracts, and support for major altcoins is expected to follow. ([BitRss](https://bitrss.com/how-polymarket-is-turning-bitcoin-volatility-into-a-five-minute-betting-market-183195))</p>",
+      "date_published": "2026-10-26T03:45:00-04:00",
+      "date_modified": "2026-10-26T03:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/how-polymarket-is-turning-bitcoin-volatility-into-a-five-minute-betting-market-183195",
+      "links": [
+        "https://bitrss.com/how-polymarket-is-turning-bitcoin-volatility-into-a-five-minute-betting-market-183195"
+      ],
+      "timestamp": "Oct 26, 2026 · 3:45 AM ET",
+      "body": "- **Polymarket five-minute Bitcoin price markets let traders bet on moves every five minutes, BitRss reports** — BitRss reported Polymarket lets users bet on Bitcoin price movements every five minutes, with prices updating dynamically and trades executed on-chain. The market is limited to Bitcoin for now, builds on existing 15-minute, hourly and four-hour contracts, and support for major altcoins is expected to follow. ([BitRss](https://bitrss.com/how-polymarket-is-turning-bitcoin-volatility-into-a-five-minute-betting-market-183195))",
+      "image_url": null,
+      "published": "2026-10-26T03:45:00-04:00",
+      "source": "2026-10-26_0345-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_0345-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0345-edt-1",
+      "title": "Polymarket prices Cowboys at 68 cents against Eagles at 33 cents for October 26 Monday game, Polymarket reports",
+      "content_text": "- **Polymarket prices Cowboys at 68 cents against Eagles at 33 cents for October 26 Monday game, Polymarket reports** — Polymarket reported its Cowboys vs Eagles market for October 26 at 8:15 PM ET prices Dallas at 68 cents and Philadelphia at 33 cents on the moneyline, with 461,000 dollars in total trading volume across all market types. Winning shares pay 1 dollar when the market resolves after the game. ([Polymarket](https://polymarket.com/sports/nfl/nfl-dal-phi-2026-10-27?marketSlug=nfl-dal-phi-2026-10-27-spread-away-1pt5))",
+      "content_html": "<p>- **Polymarket prices Cowboys at 68 cents against Eagles at 33 cents for October 26 Monday game, Polymarket reports** — Polymarket reported its Cowboys vs Eagles market for October 26 at 8:15 PM ET prices Dallas at 68 cents and Philadelphia at 33 cents on the moneyline, with 461,000 dollars in total trading volume across all market types. Winning shares pay 1 dollar when the market resolves after the game. ([Polymarket](https://polymarket.com/sports/nfl/nfl-dal-phi-2026-10-27?marketSlug=nfl-dal-phi-2026-10-27-spread-away-1pt5))</p>",
+      "date_published": "2026-10-26T03:45:00-04:00",
+      "date_modified": "2026-10-26T03:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://polymarket.com/sports/nfl/nfl-dal-phi-2026-10-27?marketSlug=nfl-dal-phi-2026-10-27-spread-away-1pt5",
+      "links": [
+        "https://polymarket.com/sports/nfl/nfl-dal-phi-2026-10-27?marketSlug=nfl-dal-phi-2026-10-27-spread-away-1pt5"
+      ],
+      "timestamp": "Oct 26, 2026 · 3:45 AM ET",
+      "body": "- **Polymarket prices Cowboys at 68 cents against Eagles at 33 cents for October 26 Monday game, Polymarket reports** — Polymarket reported its Cowboys vs Eagles market for October 26 at 8:15 PM ET prices Dallas at 68 cents and Philadelphia at 33 cents on the moneyline, with 461,000 dollars in total trading volume across all market types. Winning shares pay 1 dollar when the market resolves after the game. ([Polymarket](https://polymarket.com/sports/nfl/nfl-dal-phi-2026-10-27?marketSlug=nfl-dal-phi-2026-10-27-spread-away-1pt5))",
+      "image_url": null,
+      "published": "2026-10-26T03:45:00-04:00",
+      "source": "2026-10-26_0345-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-26_0339-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0339-edt",
@@ -4619,67 +4678,6 @@
       ],
       "timestamp": "Oct 25, 2026 · 8:00 PM ET",
       "body": "- **Kalshi and Polymarket weekly volume reaches a record 2.7 billion dollars, driven largely by 15-minute Bitcoin contracts, Happy Coin News reports** — Weekly volume on Kalshi and Polymarket reached a record 2.7 billion dollars, with almost all of it coming from 15-minute Bitcoin contracts. The report notes the nominal volume reflects contract turnover, not new money invested in Bitcoin. ([Happy Coin News](https://happycoin.news/en/kalshi-i-polymarket-postavili-rekord-27-mlrd-realnyj-spros-ili-spekulyacziya/))",
-      "image_url": null,
-      "published": "2026-10-25T20:00:00-04:00",
-      "source": "2026-10-25_2000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2000-edt-1",
-      "title": "Florida governor race prices Donalds at 81 cents on Polymarket and 82 cents on Kalshi, with Moody at 92 cents for Senate, Action Network reports",
-      "content_text": "- **Florida governor race prices Donalds at 81 cents on Polymarket and 82 cents on Kalshi, with Moody at 92 cents for Senate, Action Network reports** — Action Network reported Byron Donalds trades at 81 cents on Polymarket and 82 cents on Kalshi for Florida governor, while David Jolly sits at 20 cents and 18 cents. For the Florida Senate race, Ashley Moody is priced at 92 cents on Polymarket and 91.4 cents on Kalshi, ahead of Angie Nixon. ([Action Network](https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets-2))",
-      "content_html": "<p>- **Florida governor race prices Donalds at 81 cents on Polymarket and 82 cents on Kalshi, with Moody at 92 cents for Senate, Action Network reports** — Action Network reported Byron Donalds trades at 81 cents on Polymarket and 82 cents on Kalshi for Florida governor, while David Jolly sits at 20 cents and 18 cents. For the Florida Senate race, Ashley Moody is priced at 92 cents on Polymarket and 91.4 cents on Kalshi, ahead of Angie Nixon. ([Action Network](https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets-2))</p>",
-      "date_published": "2026-10-25T20:00:00-04:00",
-      "date_modified": "2026-10-25T20:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets-2",
-      "links": [
-        "https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets-2"
-      ],
-      "timestamp": "Oct 25, 2026 · 8:00 PM ET",
-      "body": "- **Florida governor race prices Donalds at 81 cents on Polymarket and 82 cents on Kalshi, with Moody at 92 cents for Senate, Action Network reports** — Action Network reported Byron Donalds trades at 81 cents on Polymarket and 82 cents on Kalshi for Florida governor, while David Jolly sits at 20 cents and 18 cents. For the Florida Senate race, Ashley Moody is priced at 92 cents on Polymarket and 91.4 cents on Kalshi, ahead of Angie Nixon. ([Action Network](https://www.actionnetwork.com/news/florida-governor-race-florida-senate-race-2026-moody-vs-nixon-polls-jolly-vs-donalds-polls-prediction-markets-2))",
-      "image_url": null,
-      "published": "2026-10-25T20:00:00-04:00",
-      "source": "2026-10-25_2000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2000-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2000-edt-2",
-      "title": "Chiefs vs Seahawks prediction market promos list Seattle at about 59 cents on Kalshi and Polymarket for Sunday night, Action Network reports",
-      "content_text": "- **Chiefs vs Seahawks prediction market promos list Seattle at about 59 cents on Kalshi and Polymarket for Sunday night, Action Network reports** — Action Network reported Seattle trades at about 59 cents to win on Kalshi and Polymarket US ahead of the Chiefs vs Seahawks game on Sunday, October 25 at 8:20 PM ET. Five new-user prediction market offers are listed for the game, including Polymarket, Kalshi, Novig, ProphetX and FanDuel Predicts. ([Action Network](https://www.actionnetwork.com/news/chiefs-vs-seahawks-prediction-market-promos-trade-on-kalshi-polymarket-now))",
-      "content_html": "<p>- **Chiefs vs Seahawks prediction market promos list Seattle at about 59 cents on Kalshi and Polymarket for Sunday night, Action Network reports** — Action Network reported Seattle trades at about 59 cents to win on Kalshi and Polymarket US ahead of the Chiefs vs Seahawks game on Sunday, October 25 at 8:20 PM ET. Five new-user prediction market offers are listed for the game, including Polymarket, Kalshi, Novig, ProphetX and FanDuel Predicts. ([Action Network](https://www.actionnetwork.com/news/chiefs-vs-seahawks-prediction-market-promos-trade-on-kalshi-polymarket-now))</p>",
-      "date_published": "2026-10-25T20:00:00-04:00",
-      "date_modified": "2026-10-25T20:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/chiefs-vs-seahawks-prediction-market-promos-trade-on-kalshi-polymarket-now",
-      "links": [
-        "https://www.actionnetwork.com/news/chiefs-vs-seahawks-prediction-market-promos-trade-on-kalshi-polymarket-now"
-      ],
-      "timestamp": "Oct 25, 2026 · 8:00 PM ET",
-      "body": "- **Chiefs vs Seahawks prediction market promos list Seattle at about 59 cents on Kalshi and Polymarket for Sunday night, Action Network reports** — Action Network reported Seattle trades at about 59 cents to win on Kalshi and Polymarket US ahead of the Chiefs vs Seahawks game on Sunday, October 25 at 8:20 PM ET. Five new-user prediction market offers are listed for the game, including Polymarket, Kalshi, Novig, ProphetX and FanDuel Predicts. ([Action Network](https://www.actionnetwork.com/news/chiefs-vs-seahawks-prediction-market-promos-trade-on-kalshi-polymarket-now))",
       "image_url": null,
       "published": "2026-10-25T20:00:00-04:00",
       "source": "2026-10-25_2000-edt.json",
