@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-25T20:47:01.148592-04:00",
+  "updated": "2026-10-25T20:59:10.381200-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,192 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-25_2100-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2100-edt-0",
+      "title": "Texas Senate race prices Talarico at 67 cents on Polymarket and 66 cents on Kalshi against Paxton, Action Network reports",
+      "content_text": "- **Texas Senate race prices Talarico at 67 cents on Polymarket and 66 cents on Kalshi against Paxton, Action Network reports** — Action Network reported Democrat James Talarico trades at 67 cents on Polymarket and 66 cents on Kalshi to win the Texas Senate race, with Republican Ken Paxton at 34 cents and 35 cents respectively. Recent polls show Talarico ahead by only 2 to 6 points, with early voting running through October 30 ahead of the November 3 election. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-25-update))",
+      "content_html": "<p>- **Texas Senate race prices Talarico at 67 cents on Polymarket and 66 cents on Kalshi against Paxton, Action Network reports** — Action Network reported Democrat James Talarico trades at 67 cents on Polymarket and 66 cents on Kalshi to win the Texas Senate race, with Republican Ken Paxton at 34 cents and 35 cents respectively. Recent polls show Talarico ahead by only 2 to 6 points, with early voting running through October 30 ahead of the November 3 election. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-25-update))</p>",
+      "date_published": "2026-10-25T21:00:00-04:00",
+      "date_modified": "2026-10-25T21:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-25-update",
+      "links": [
+        "https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-25-update"
+      ],
+      "timestamp": "Oct 25, 2026 · 9:00 PM ET",
+      "body": "- **Texas Senate race prices Talarico at 67 cents on Polymarket and 66 cents on Kalshi against Paxton, Action Network reports** — Action Network reported Democrat James Talarico trades at 67 cents on Polymarket and 66 cents on Kalshi to win the Texas Senate race, with Republican Ken Paxton at 34 cents and 35 cents respectively. Recent polls show Talarico ahead by only 2 to 6 points, with early voting running through October 30 ahead of the November 3 election. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-25-update))",
+      "image_url": null,
+      "published": "2026-10-25T21:00:00-04:00",
+      "source": "2026-10-25_2100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_2100-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2100-edt-1",
+      "title": "Prediction markets need one federal rulebook as courts split over state gambling claims, NetChoice reports",
+      "content_text": "- **Prediction markets need one federal rulebook as courts split over state gambling claims, NetChoice reports** — NetChoice reported federal courts are divided over whether prediction markets are financial markets overseen by Washington or gambling regulated by states, with New Jersey asking the Supreme Court to settle the question. It noted CNN and CNBC now carry Kalshi data on election night, and Pew found monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))",
+      "content_html": "<p>- **Prediction markets need one federal rulebook as courts split over state gambling claims, NetChoice reports** — NetChoice reported federal courts are divided over whether prediction markets are financial markets overseen by Washington or gambling regulated by states, with New Jersey asking the Supreme Court to settle the question. It noted CNN and CNBC now carry Kalshi data on election night, and Pew found monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))</p>",
+      "date_published": "2026-10-25T21:00:00-04:00",
+      "date_modified": "2026-10-25T21:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "SCOTUS",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://netchoice.org/prediction-markets-need-one-rulebook/",
+      "links": [
+        "https://netchoice.org/prediction-markets-need-one-rulebook/"
+      ],
+      "timestamp": "Oct 25, 2026 · 9:00 PM ET",
+      "body": "- **Prediction markets need one federal rulebook as courts split over state gambling claims, NetChoice reports** — NetChoice reported federal courts are divided over whether prediction markets are financial markets overseen by Washington or gambling regulated by states, with New Jersey asking the Supreme Court to settle the question. It noted CNN and CNBC now carry Kalshi data on election night, and Pew found monthly volume on the two largest platforms grew more than fivefold between September 2025 and April 2026. ([NetChoice](https://netchoice.org/prediction-markets-need-one-rulebook/))",
+      "image_url": null,
+      "published": "2026-10-25T21:00:00-04:00",
+      "source": "2026-10-25_2100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_2100-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2100-edt-2",
+      "title": "49ers lead Super Bowl LXI futures at 15 percent on prediction markets, ahead of Bills at 12 percent, DeFi Rate reports",
+      "content_text": "- **49ers lead Super Bowl LXI futures at 15 percent on prediction markets, ahead of Bills at 12 percent, DeFi Rate reports** — DeFi Rate reported the San Francisco 49ers lead Super Bowl LXI futures at about 15 percent averaged across Kalshi, Polymarket and Polymarket US as of October 25 at 8:58 PM ET, ahead of the Buffalo Bills at 12 percent and Kansas City Chiefs at 11 percent. Six teams are priced between 6 percent and 15 percent, with Baltimore down 2 points in the last 7 days. ([DeFi Rate](https://defirate.com/odds/super-bowl/))",
+      "content_html": "<p>- **49ers lead Super Bowl LXI futures at 15 percent on prediction markets, ahead of Bills at 12 percent, DeFi Rate reports** — DeFi Rate reported the San Francisco 49ers lead Super Bowl LXI futures at about 15 percent averaged across Kalshi, Polymarket and Polymarket US as of October 25 at 8:58 PM ET, ahead of the Buffalo Bills at 12 percent and Kansas City Chiefs at 11 percent. Six teams are priced between 6 percent and 15 percent, with Baltimore down 2 points in the last 7 days. ([DeFi Rate](https://defirate.com/odds/super-bowl/))</p>",
+      "date_published": "2026-10-25T21:00:00-04:00",
+      "date_modified": "2026-10-25T21:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/super-bowl/",
+      "links": [
+        "https://defirate.com/odds/super-bowl/"
+      ],
+      "timestamp": "Oct 25, 2026 · 9:00 PM ET",
+      "body": "- **49ers lead Super Bowl LXI futures at 15 percent on prediction markets, ahead of Bills at 12 percent, DeFi Rate reports** — DeFi Rate reported the San Francisco 49ers lead Super Bowl LXI futures at about 15 percent averaged across Kalshi, Polymarket and Polymarket US as of October 25 at 8:58 PM ET, ahead of the Buffalo Bills at 12 percent and Kansas City Chiefs at 11 percent. Six teams are priced between 6 percent and 15 percent, with Baltimore down 2 points in the last 7 days. ([DeFi Rate](https://defirate.com/odds/super-bowl/))",
+      "image_url": null,
+      "published": "2026-10-25T21:00:00-04:00",
+      "source": "2026-10-25_2100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_2100-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2100-edt-3",
+      "title": "Polymarket Bitcoin October price market prices No at 93 percent on 11.3 million dollars in volume, Coincu reports",
+      "content_text": "- **Polymarket Bitcoin October price market prices No at 93 percent on 11.3 million dollars in volume, Coincu reports** — Coincu reported Polymarket traders price No at 93 percent in the What price will Bitcoin hit in October market, with Yes at 8 percent and 11.3 million dollars in volume with 7 days remaining until the November 1 end date. The board lists 40 related markets, with 491,000 dollars traded in the last 24 hours. ([Coincu](https://coincu.com/predictions/what-price-will-bitcoin-hit-in-october-2026))",
+      "content_html": "<p>- **Polymarket Bitcoin October price market prices No at 93 percent on 11.3 million dollars in volume, Coincu reports** — Coincu reported Polymarket traders price No at 93 percent in the What price will Bitcoin hit in October market, with Yes at 8 percent and 11.3 million dollars in volume with 7 days remaining until the November 1 end date. The board lists 40 related markets, with 491,000 dollars traded in the last 24 hours. ([Coincu](https://coincu.com/predictions/what-price-will-bitcoin-hit-in-october-2026))</p>",
+      "date_published": "2026-10-25T21:00:00-04:00",
+      "date_modified": "2026-10-25T21:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://coincu.com/predictions/what-price-will-bitcoin-hit-in-october-2026",
+      "links": [
+        "https://coincu.com/predictions/what-price-will-bitcoin-hit-in-october-2026"
+      ],
+      "timestamp": "Oct 25, 2026 · 9:00 PM ET",
+      "body": "- **Polymarket Bitcoin October price market prices No at 93 percent on 11.3 million dollars in volume, Coincu reports** — Coincu reported Polymarket traders price No at 93 percent in the What price will Bitcoin hit in October market, with Yes at 8 percent and 11.3 million dollars in volume with 7 days remaining until the November 1 end date. The board lists 40 related markets, with 491,000 dollars traded in the last 24 hours. ([Coincu](https://coincu.com/predictions/what-price-will-bitcoin-hit-in-october-2026))",
+      "image_url": null,
+      "published": "2026-10-25T21:00:00-04:00",
+      "source": "2026-10-25_2100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-25_2100-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2100-edt-4",
+      "title": "NBA Sunday contracts price Lakers at 69 percent at Jazz and Thunder at 91 percent against Clippers on Kalshi and Polymarket, DeFi Rate reports",
+      "content_text": "- **NBA Sunday contracts price Lakers at 69 percent at Jazz and Thunder at 91 percent against Clippers on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate reported Sunday NBA contracts price the Los Angeles Lakers at 69 percent at the Utah Jazz and the Oklahoma City Thunder at 91 percent against the Los Angeles Clippers on both Kalshi and Polymarket US. Oklahoma City also leads the NBA title market at 25 percent, with Victor Wembanyama the MVP favorite at 29 percent. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "content_html": "<p>- **NBA Sunday contracts price Lakers at 69 percent at Jazz and Thunder at 91 percent against Clippers on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate reported Sunday NBA contracts price the Los Angeles Lakers at 69 percent at the Utah Jazz and the Oklahoma City Thunder at 91 percent against the Los Angeles Clippers on both Kalshi and Polymarket US. Oklahoma City also leads the NBA title market at 25 percent, with Victor Wembanyama the MVP favorite at 29 percent. ([DeFi Rate](https://defirate.com/odds/nba/))</p>",
+      "date_published": "2026-10-25T21:00:00-04:00",
+      "date_modified": "2026-10-25T21:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/nba/",
+      "links": [
+        "https://defirate.com/odds/nba/"
+      ],
+      "timestamp": "Oct 25, 2026 · 9:00 PM ET",
+      "body": "- **NBA Sunday contracts price Lakers at 69 percent at Jazz and Thunder at 91 percent against Clippers on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate reported Sunday NBA contracts price the Los Angeles Lakers at 69 percent at the Utah Jazz and the Oklahoma City Thunder at 91 percent against the Los Angeles Clippers on both Kalshi and Polymarket US. Oklahoma City also leads the NBA title market at 25 percent, with Victor Wembanyama the MVP favorite at 29 percent. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "image_url": null,
+      "published": "2026-10-25T21:00:00-04:00",
+      "source": "2026-10-25_2100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-25_2054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_2054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nVanta IPO before 2027 priced at 4.7% on Polymarket, up 2.4 points, on $150K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/finance/\n\nBarcelona win the 2026-27 LALIGA Championship priced at 72.0% on Polymarket, down 11.5 points, on $582K traded\nPredictionBubbles' movers board lists the Barcelona championship contract among its downward sports moves, in a sports markets category distinct from the lead. It has…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Vanta IPO before 2027 priced at 4.7% on Polymarket, up 2.4 points, on $150K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://predictionbubbles.net/markets/finance/<br/><br/>Barcelona win the 2026-27 LALIGA Championship priced at 72.0% on Polymarket, down 11.5 points, on $582K traded<br/>PredictionBubbles&#x27; movers board lists the Barcelona championship contract among its downward sports moves, in a sports markets category distinct from the lead. It has…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-25T20:54:00-04:00",
+      "date_modified": "2026-10-25T20:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/finance/",
+      "links": [
+        "https://predictionbubbles.net/markets/finance/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 25, 2026 · 8:54 PM ET",
+      "body": "Infiniti Briefing\n\nVanta IPO before 2027 priced at 4.7% on Polymarket, up 2.4 points, on $150K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/finance/\n\nBarcelona win the 2026-27 LALIGA Championship priced at 72.0% on Polymarket, down 11.5 points, on $582K traded\nPredictionBubbles' movers board lists the Barcelona championship contract among its downward sports moves, in a sports markets category distinct from the lead. It has…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-25T20:54:00-04:00",
+      "source": "2026-10-25_2054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-25_2045-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2045-edt-0",
@@ -4538,187 +4724,6 @@
       "image_url": null,
       "published": "2026-10-25T14:15:00-04:00",
       "source": "2026-10-25_1415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_1415-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_1415-edt-4",
-      "title": "Bills lead AFC East prediction markets at 74 percent on Kalshi and 71 percent on Polymarket ahead of Patriots, iPredicta reports",
-      "content_text": "- **Bills lead AFC East prediction markets at 74 percent on Kalshi and 71 percent on Polymarket ahead of Patriots, iPredicta reports** — IPredicta reported the Buffalo Bills lead the AFC East prediction markets for 2026, priced at 74 percent on Kalshi and 71 percent on Polymarket in readings taken on October 25, ahead of the New England Patriots at 26 percent and 29 percent. The Polymarket book had traded 65,003 dollars over its life at that reading, with the Jets and Dolphins priced as outsiders at about 1 to 2 percent. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
-      "content_html": "<p>- **Bills lead AFC East prediction markets at 74 percent on Kalshi and 71 percent on Polymarket ahead of Patriots, iPredicta reports** — IPredicta reported the Buffalo Bills lead the AFC East prediction markets for 2026, priced at 74 percent on Kalshi and 71 percent on Polymarket in readings taken on October 25, ahead of the New England Patriots at 26 percent and 29 percent. The Polymarket book had traded 65,003 dollars over its life at that reading, with the Jets and Dolphins priced as outsiders at about 1 to 2 percent. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))</p>",
-      "date_published": "2026-10-25T14:15:00-04:00",
-      "date_modified": "2026-10-25T14:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://ipredicta.co/insights/nfl-division-winners-2026/",
-      "links": [
-        "https://ipredicta.co/insights/nfl-division-winners-2026/"
-      ],
-      "timestamp": "Oct 25, 2026 · 2:15 PM ET",
-      "body": "- **Bills lead AFC East prediction markets at 74 percent on Kalshi and 71 percent on Polymarket ahead of Patriots, iPredicta reports** — IPredicta reported the Buffalo Bills lead the AFC East prediction markets for 2026, priced at 74 percent on Kalshi and 71 percent on Polymarket in readings taken on October 25, ahead of the New England Patriots at 26 percent and 29 percent. The Polymarket book had traded 65,003 dollars over its life at that reading, with the Jets and Dolphins priced as outsiders at about 1 to 2 percent. ([iPredicta](https://ipredicta.co/insights/nfl-division-winners-2026/))",
-      "image_url": null,
-      "published": "2026-10-25T14:15:00-04:00",
-      "source": "2026-10-25_1415-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-25_1409-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_1409-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nSpaceX have the highest IPO Market Cap 2026 priced at 64.0% on Polymarket, down 3.5 points, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nTatiana Prozorova wins priced at 99.0% on Kalshi, up 6.0 points, on $1.5M traded\nPredictionBubbles' movers board lists the Prozorova win contract among its new markets on the move, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>SpaceX have the highest IPO Market Cap 2026 priced at 64.0% on Polymarket, down 3.5 points, on $1.0M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Tatiana Prozorova wins priced at 99.0% on Kalshi, up 6.0 points, on $1.5M traded<br/>PredictionBubbles&#x27; movers board lists the Prozorova win contract among its new markets on the move, in a sports markets category distinct from the lead. It has zero hits…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-25T14:09:00-04:00",
-      "date_modified": "2026-10-25T14:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 25, 2026 · 2:09 PM ET",
-      "body": "Infiniti Briefing\n\nSpaceX have the highest IPO Market Cap 2026 priced at 64.0% on Polymarket, down 3.5 points, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nTatiana Prozorova wins priced at 99.0% on Kalshi, up 6.0 points, on $1.5M traded\nPredictionBubbles' movers board lists the Prozorova win contract among its new markets on the move, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-25T14:09:00-04:00",
-      "source": "2026-10-25_1409-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_1400-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_1400-edt-0",
-      "title": "Polymarket signs data partnership with Dow Jones covering Wall Street Journal, Barrons and MarketWatch, GambleRss reports",
-      "content_text": "- **Polymarket signs data partnership with Dow Jones covering Wall Street Journal, Barrons and MarketWatch, GambleRss reports** — Polymarket has signed a data partnership with Dow Jones that will integrate its prediction market data across News Corp US financial media properties including the Wall Street Journal, Barrons, MarketWatch and Investors Business Daily. The companies said the feeds will give audiences greater visibility into prediction market signals on economic, political and cultural topics, with additional data-driven experiences expected over time. ([GambleRss](https://gamblerss.com/polymarket-signs-data-partnership-with-dow-jones-wsj-53448))",
-      "content_html": "<p>- **Polymarket signs data partnership with Dow Jones covering Wall Street Journal, Barrons and MarketWatch, GambleRss reports** — Polymarket has signed a data partnership with Dow Jones that will integrate its prediction market data across News Corp US financial media properties including the Wall Street Journal, Barrons, MarketWatch and Investors Business Daily. The companies said the feeds will give audiences greater visibility into prediction market signals on economic, political and cultural topics, with additional data-driven experiences expected over time. ([GambleRss](https://gamblerss.com/polymarket-signs-data-partnership-with-dow-jones-wsj-53448))</p>",
-      "date_published": "2026-10-25T14:00:00-04:00",
-      "date_modified": "2026-10-25T14:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/polymarket-signs-data-partnership-with-dow-jones-wsj-53448",
-      "links": [
-        "https://gamblerss.com/polymarket-signs-data-partnership-with-dow-jones-wsj-53448"
-      ],
-      "timestamp": "Oct 25, 2026 · 2:00 PM ET",
-      "body": "- **Polymarket signs data partnership with Dow Jones covering Wall Street Journal, Barrons and MarketWatch, GambleRss reports** — Polymarket has signed a data partnership with Dow Jones that will integrate its prediction market data across News Corp US financial media properties including the Wall Street Journal, Barrons, MarketWatch and Investors Business Daily. The companies said the feeds will give audiences greater visibility into prediction market signals on economic, political and cultural topics, with additional data-driven experiences expected over time. ([GambleRss](https://gamblerss.com/polymarket-signs-data-partnership-with-dow-jones-wsj-53448))",
-      "image_url": null,
-      "published": "2026-10-25T14:00:00-04:00",
-      "source": "2026-10-25_1400-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_1400-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_1400-edt-1",
-      "title": "Polymarket account faces 37,102 dollar discrepancy on Fed bet with 377,658 shares, Wisevoter reports",
-      "content_text": "- **Polymarket account faces 37,102 dollar discrepancy on Fed bet with 377,658 shares, Wisevoter reports** — A Polymarket account holding 377,658.3 shares on the October Federal Reserve interest rate decision at an average opening price of 85.5 cents shows an implied value of 322,897.85 dollars against a reported purchase amount of 360,000 dollars, a 37,102 dollar discrepancy. The account has also recorded cumulative losses exceeding 30,000 dollars. ([Wisevoter](https://wisevoter.com/world/2026/10/25/polymarket-account-fed-interest-discrepancy))",
-      "content_html": "<p>- **Polymarket account faces 37,102 dollar discrepancy on Fed bet with 377,658 shares, Wisevoter reports** — A Polymarket account holding 377,658.3 shares on the October Federal Reserve interest rate decision at an average opening price of 85.5 cents shows an implied value of 322,897.85 dollars against a reported purchase amount of 360,000 dollars, a 37,102 dollar discrepancy. The account has also recorded cumulative losses exceeding 30,000 dollars. ([Wisevoter](https://wisevoter.com/world/2026/10/25/polymarket-account-fed-interest-discrepancy))</p>",
-      "date_published": "2026-10-25T14:00:00-04:00",
-      "date_modified": "2026-10-25T14:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://wisevoter.com/world/2026/10/25/polymarket-account-fed-interest-discrepancy",
-      "links": [
-        "https://wisevoter.com/world/2026/10/25/polymarket-account-fed-interest-discrepancy"
-      ],
-      "timestamp": "Oct 25, 2026 · 2:00 PM ET",
-      "body": "- **Polymarket account faces 37,102 dollar discrepancy on Fed bet with 377,658 shares, Wisevoter reports** — A Polymarket account holding 377,658.3 shares on the October Federal Reserve interest rate decision at an average opening price of 85.5 cents shows an implied value of 322,897.85 dollars against a reported purchase amount of 360,000 dollars, a 37,102 dollar discrepancy. The account has also recorded cumulative losses exceeding 30,000 dollars. ([Wisevoter](https://wisevoter.com/world/2026/10/25/polymarket-account-fed-interest-discrepancy))",
-      "image_url": null,
-      "published": "2026-10-25T14:00:00-04:00",
-      "source": "2026-10-25_1400-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_1400-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_1400-edt-2",
-      "title": "Trader claims 500,000 dollar loss in Polymarket Strategy Bitcoin sale controversy, BitRss reports",
-      "content_text": "- **Trader claims 500,000 dollar loss in Polymarket Strategy Bitcoin sale controversy, BitRss reports** — A trader using the name willo2 says he lost about 500,000 dollars as the top Yes holder on whether Strategy would sell any Bitcoin by May 31, after Strategy disclosed selling 32 Bitcoin between May 26 and May 31 in a June 1 filing. Polymarket later added a clarification that confirmation outside the market timeframe does not qualify, pushing the market toward a No resolution now before UMA token holders. ([BitRss](https://bitrss.com/trader-claims-500k-loss-in-polymarket-strategy-bitcoin-sale-controversy-217217))",
-      "content_html": "<p>- **Trader claims 500,000 dollar loss in Polymarket Strategy Bitcoin sale controversy, BitRss reports** — A trader using the name willo2 says he lost about 500,000 dollars as the top Yes holder on whether Strategy would sell any Bitcoin by May 31, after Strategy disclosed selling 32 Bitcoin between May 26 and May 31 in a June 1 filing. Polymarket later added a clarification that confirmation outside the market timeframe does not qualify, pushing the market toward a No resolution now before UMA token holders. ([BitRss](https://bitrss.com/trader-claims-500k-loss-in-polymarket-strategy-bitcoin-sale-controversy-217217))</p>",
-      "date_published": "2026-10-25T14:00:00-04:00",
-      "date_modified": "2026-10-25T14:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/trader-claims-500k-loss-in-polymarket-strategy-bitcoin-sale-controversy-217217",
-      "links": [
-        "https://bitrss.com/trader-claims-500k-loss-in-polymarket-strategy-bitcoin-sale-controversy-217217"
-      ],
-      "timestamp": "Oct 25, 2026 · 2:00 PM ET",
-      "body": "- **Trader claims 500,000 dollar loss in Polymarket Strategy Bitcoin sale controversy, BitRss reports** — A trader using the name willo2 says he lost about 500,000 dollars as the top Yes holder on whether Strategy would sell any Bitcoin by May 31, after Strategy disclosed selling 32 Bitcoin between May 26 and May 31 in a June 1 filing. Polymarket later added a clarification that confirmation outside the market timeframe does not qualify, pushing the market toward a No resolution now before UMA token holders. ([BitRss](https://bitrss.com/trader-claims-500k-loss-in-polymarket-strategy-bitcoin-sale-controversy-217217))",
-      "image_url": null,
-      "published": "2026-10-25T14:00:00-04:00",
-      "source": "2026-10-25_1400-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_1400-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_1400-edt-3",
-      "title": "Democrats sweep priced at 64 percent on Kalshi balance of power market with 54.7 million contracts traded, Kalshi View reports",
-      "content_text": "- **Democrats sweep priced at 64 percent on Kalshi balance of power market with 54.7 million contracts traded, Kalshi View reports** — Kalshi's Congress balance of power market priced a Democratic sweep at 64 percent on October 25, down 3 points in 24 hours, followed by Democratic House and Republican Senate at 26 percent and a Republican sweep at 9.3 percent. The market has traded 54.7 million contracts, with 1.1 million traded in the last 24 hours. ([Kalshi View](https://kalshiview.com/markets/2026-midterms-congress-balance-of-power/))",
-      "content_html": "<p>- **Democrats sweep priced at 64 percent on Kalshi balance of power market with 54.7 million contracts traded, Kalshi View reports** — Kalshi&#x27;s Congress balance of power market priced a Democratic sweep at 64 percent on October 25, down 3 points in 24 hours, followed by Democratic House and Republican Senate at 26 percent and a Republican sweep at 9.3 percent. The market has traded 54.7 million contracts, with 1.1 million traded in the last 24 hours. ([Kalshi View](https://kalshiview.com/markets/2026-midterms-congress-balance-of-power/))</p>",
-      "date_published": "2026-10-25T14:00:00-04:00",
-      "date_modified": "2026-10-25T14:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Congress"
-      ],
-      "image": null,
-      "external_url": "https://kalshiview.com/markets/2026-midterms-congress-balance-of-power/",
-      "links": [
-        "https://kalshiview.com/markets/2026-midterms-congress-balance-of-power/"
-      ],
-      "timestamp": "Oct 25, 2026 · 2:00 PM ET",
-      "body": "- **Democrats sweep priced at 64 percent on Kalshi balance of power market with 54.7 million contracts traded, Kalshi View reports** — Kalshi's Congress balance of power market priced a Democratic sweep at 64 percent on October 25, down 3 points in 24 hours, followed by Democratic House and Republican Senate at 26 percent and a Republican sweep at 9.3 percent. The market has traded 54.7 million contracts, with 1.1 million traded in the last 24 hours. ([Kalshi View](https://kalshiview.com/markets/2026-midterms-congress-balance-of-power/))",
-      "image_url": null,
-      "published": "2026-10-25T14:00:00-04:00",
-      "source": "2026-10-25_1400-edt.json",
       "matches_facebook_post": false
     }
   ]
