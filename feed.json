@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T08:27:10.681141-04:00",
+  "updated": "2026-10-26T08:29:03.964699-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,157 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-26_0830-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0830-edt-0",
+      "title": "Baltimore sues Kalshi and Polymarket over sports event contracts, BitRss reports",
+      "content_text": "- **Baltimore sues Kalshi and Polymarket over sports event contracts, BitRss reports** — The City of Baltimore, led by Mayor Brendan Scott, has filed legal actions against Kalshi and Polymarket arguing both companies are effectively running sports-betting operations without the required licenses under Maryland law and misrepresented the legal status of their products to users. The Kalshi complaint also names distribution partners Robinhood, Webull and Coinbase, adding to the broader federal-versus-state dispute over prediction market jurisdiction. ([BitRss](https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175))",
+      "content_html": "<p>- **Baltimore sues Kalshi and Polymarket over sports event contracts, BitRss reports** — The City of Baltimore, led by Mayor Brendan Scott, has filed legal actions against Kalshi and Polymarket arguing both companies are effectively running sports-betting operations without the required licenses under Maryland law and misrepresented the legal status of their products to users. The Kalshi complaint also names distribution partners Robinhood, Webull and Coinbase, adding to the broader federal-versus-state dispute over prediction market jurisdiction. ([BitRss](https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175))</p>",
+      "date_published": "2026-10-26T08:30:00-04:00",
+      "date_modified": "2026-10-26T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175",
+      "links": [
+        "https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175"
+      ],
+      "timestamp": "Oct 26, 2026 · 8:30 AM ET",
+      "body": "- **Baltimore sues Kalshi and Polymarket over sports event contracts, BitRss reports** — The City of Baltimore, led by Mayor Brendan Scott, has filed legal actions against Kalshi and Polymarket arguing both companies are effectively running sports-betting operations without the required licenses under Maryland law and misrepresented the legal status of their products to users. The Kalshi complaint also names distribution partners Robinhood, Webull and Coinbase, adding to the broader federal-versus-state dispute over prediction market jurisdiction. ([BitRss](https://bitrss.com/baltimore-moves-to-regulate-prediction-markets-for-sports-betting-241175))",
+      "image_url": null,
+      "published": "2026-10-26T08:30:00-04:00",
+      "source": "2026-10-26_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_0830-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0830-edt-1",
+      "title": "Canada draws a narrow lane for prediction markets under CIRO rules, BitcoinCasinos reports",
+      "content_text": "- **Canada draws a narrow lane for prediction markets under CIRO rules, BitcoinCasinos reports** — Under joint guidance from CIRO and the Canadian Securities Administrators issued August 27, authorized Canadian dealers may offer event contracts tied only to economic forecasts, environmental indicators and financial markets with a minimum 30-day maturity, while contracts on elections and other political outcomes remain prohibited. Wealthsimple and Interactive Brokers Canada are the only CIRO dealer members authorized to offer such contracts, and offshore platforms such as Polymarket sit entirely outside that perimeter. ([BitcoinCasinos](https://www.bitcoincasinos.com/blog/2026/10/23/canada-ciro-prediction-market-rules-polymarket-toronto/))",
+      "content_html": "<p>- **Canada draws a narrow lane for prediction markets under CIRO rules, BitcoinCasinos reports** — Under joint guidance from CIRO and the Canadian Securities Administrators issued August 27, authorized Canadian dealers may offer event contracts tied only to economic forecasts, environmental indicators and financial markets with a minimum 30-day maturity, while contracts on elections and other political outcomes remain prohibited. Wealthsimple and Interactive Brokers Canada are the only CIRO dealer members authorized to offer such contracts, and offshore platforms such as Polymarket sit entirely outside that perimeter. ([BitcoinCasinos](https://www.bitcoincasinos.com/blog/2026/10/23/canada-ciro-prediction-market-rules-polymarket-toronto/))</p>",
+      "date_published": "2026-10-26T08:30:00-04:00",
+      "date_modified": "2026-10-26T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.bitcoincasinos.com/blog/2026/10/23/canada-ciro-prediction-market-rules-polymarket-toronto/",
+      "links": [
+        "https://www.bitcoincasinos.com/blog/2026/10/23/canada-ciro-prediction-market-rules-polymarket-toronto/"
+      ],
+      "timestamp": "Oct 26, 2026 · 8:30 AM ET",
+      "body": "- **Canada draws a narrow lane for prediction markets under CIRO rules, BitcoinCasinos reports** — Under joint guidance from CIRO and the Canadian Securities Administrators issued August 27, authorized Canadian dealers may offer event contracts tied only to economic forecasts, environmental indicators and financial markets with a minimum 30-day maturity, while contracts on elections and other political outcomes remain prohibited. Wealthsimple and Interactive Brokers Canada are the only CIRO dealer members authorized to offer such contracts, and offshore platforms such as Polymarket sit entirely outside that perimeter. ([BitcoinCasinos](https://www.bitcoincasinos.com/blog/2026/10/23/canada-ciro-prediction-market-rules-polymarket-toronto/))",
+      "image_url": null,
+      "published": "2026-10-26T08:30:00-04:00",
+      "source": "2026-10-26_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_0830-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0830-edt-2",
+      "title": "Traders price a Federal Reserve hold at 94 percent for October 28 as hike odds fall 8 points in a week, DeFi Rate reports",
+      "content_text": "- **Traders price a Federal Reserve hold at 94 percent for October 28 as hike odds fall 8 points in a week, DeFi Rate reports** — Kalshi prices observed by DeFi Rate on October 26 put a hold at the October 28 FOMC meeting at 94 percent, with a hike at 6 percent, down from 14 percent a week earlier, and a cut at about 2 percent. The board prices a hike as likelier by the December 9 meeting, with December alone at 76 percent in the another-hike-before-2027 series. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
+      "content_html": "<p>- **Traders price a Federal Reserve hold at 94 percent for October 28 as hike odds fall 8 points in a week, DeFi Rate reports** — Kalshi prices observed by DeFi Rate on October 26 put a hold at the October 28 FOMC meeting at 94 percent, with a hike at 6 percent, down from 14 percent a week earlier, and a cut at about 2 percent. The board prices a hike as likelier by the December 9 meeting, with December alone at 76 percent in the another-hike-before-2027 series. ([DeFi Rate](https://defirate.com/odds/fed-decision/))</p>",
+      "date_published": "2026-10-26T08:30:00-04:00",
+      "date_modified": "2026-10-26T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/fed-decision/",
+      "links": [
+        "https://defirate.com/odds/fed-decision/"
+      ],
+      "timestamp": "Oct 26, 2026 · 8:30 AM ET",
+      "body": "- **Traders price a Federal Reserve hold at 94 percent for October 28 as hike odds fall 8 points in a week, DeFi Rate reports** — Kalshi prices observed by DeFi Rate on October 26 put a hold at the October 28 FOMC meeting at 94 percent, with a hike at 6 percent, down from 14 percent a week earlier, and a cut at about 2 percent. The board prices a hike as likelier by the December 9 meeting, with December alone at 76 percent in the another-hike-before-2027 series. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
+      "image_url": null,
+      "published": "2026-10-26T08:30:00-04:00",
+      "source": "2026-10-26_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_0830-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0830-edt-3",
+      "title": "Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports",
+      "content_text": "- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports** — Polymarket gives Democrats a 93 percent chance of winning the House and 65 percent for the Senate, and BeInCrypto reviews a World Gold Council note mapping four policy areas a Democratic Congress could influence, with implications for gold, Bitcoin and stocks. The analysis notes gridlock on spending could support Treasuries and the dollar, which tends to weigh on Bitcoin, while tariff relief could widen deficits and support gold. ([BeInCrypto](https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/))",
+      "content_html": "<p>- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports** — Polymarket gives Democrats a 93 percent chance of winning the House and 65 percent for the Senate, and BeInCrypto reviews a World Gold Council note mapping four policy areas a Democratic Congress could influence, with implications for gold, Bitcoin and stocks. The analysis notes gridlock on spending could support Treasuries and the dollar, which tends to weigh on Bitcoin, while tariff relief could widen deficits and support gold. ([BeInCrypto](https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/))</p>",
+      "date_published": "2026-10-26T08:30:00-04:00",
+      "date_modified": "2026-10-26T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate",
+        "Congress",
+        "Bitcoin",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/",
+      "links": [
+        "https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/"
+      ],
+      "timestamp": "Oct 26, 2026 · 8:30 AM ET",
+      "body": "- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports** — Polymarket gives Democrats a 93 percent chance of winning the House and 65 percent for the Senate, and BeInCrypto reviews a World Gold Council note mapping four policy areas a Democratic Congress could influence, with implications for gold, Bitcoin and stocks. The analysis notes gridlock on spending could support Treasuries and the dollar, which tends to weigh on Bitcoin, while tariff relief could widen deficits and support gold. ([BeInCrypto](https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/))",
+      "image_url": null,
+      "published": "2026-10-26T08:30:00-04:00",
+      "source": "2026-10-26_0830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_0830-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0830-edt-4",
+      "title": "Polymarket launches parlays in the US as Kalshi combos reach 3.5 billion dollars in weekly notional volume, Lines reports",
+      "content_text": "- **Polymarket launches parlays in the US as Kalshi combos reach 3.5 billion dollars in weekly notional volume, Lines reports** — Polymarket US has launched parlay markets as Kalshi combos continue to dominate multi-leg trading, with Kalshi weekly combo notional at 3.5 billion dollars and InGame analysis finding 25 million dollars in Kalshi parlay taker fees in the first 16 days of August 2026. Polymarket parlay notional volume reached 8.7 million dollars by 7 p.m. ET on its launch day, with actual stakes of 1.2 million dollars, and the products differ structurally: Polymarket caps parlays at 10 legs while Kalshi permits combinations exceeding 30 legs. ([Lines](https://www.lines.com/polymarket-launches-parlays-as-kalshi-combos-reign))",
+      "content_html": "<p>- **Polymarket launches parlays in the US as Kalshi combos reach 3.5 billion dollars in weekly notional volume, Lines reports** — Polymarket US has launched parlay markets as Kalshi combos continue to dominate multi-leg trading, with Kalshi weekly combo notional at 3.5 billion dollars and InGame analysis finding 25 million dollars in Kalshi parlay taker fees in the first 16 days of August 2026. Polymarket parlay notional volume reached 8.7 million dollars by 7 p.m. ET on its launch day, with actual stakes of 1.2 million dollars, and the products differ structurally: Polymarket caps parlays at 10 legs while Kalshi permits combinations exceeding 30 legs. ([Lines](https://www.lines.com/polymarket-launches-parlays-as-kalshi-combos-reign))</p>",
+      "date_published": "2026-10-26T08:30:00-04:00",
+      "date_modified": "2026-10-26T08:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.lines.com/polymarket-launches-parlays-as-kalshi-combos-reign",
+      "links": [
+        "https://www.lines.com/polymarket-launches-parlays-as-kalshi-combos-reign"
+      ],
+      "timestamp": "Oct 26, 2026 · 8:30 AM ET",
+      "body": "- **Polymarket launches parlays in the US as Kalshi combos reach 3.5 billion dollars in weekly notional volume, Lines reports** — Polymarket US has launched parlay markets as Kalshi combos continue to dominate multi-leg trading, with Kalshi weekly combo notional at 3.5 billion dollars and InGame analysis finding 25 million dollars in Kalshi parlay taker fees in the first 16 days of August 2026. Polymarket parlay notional volume reached 8.7 million dollars by 7 p.m. ET on its launch day, with actual stakes of 1.2 million dollars, and the products differ structurally: Polymarket caps parlays at 10 legs while Kalshi permits combinations exceeding 30 legs. ([Lines](https://www.lines.com/polymarket-launches-parlays-as-kalshi-combos-reign))",
+      "image_url": null,
+      "published": "2026-10-26T08:30:00-04:00",
+      "source": "2026-10-26_0830-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-26_0824-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0824-edt",
@@ -4549,160 +4700,6 @@
       "image_url": null,
       "published": "2026-10-25T23:45:00-04:00",
       "source": "2026-10-25_2345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2345-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2345-edt-3",
-      "title": "Cowboys at Eagles anytime touchdown board prices a Javonte Williams no-score at 42 percent on Kalshi for Monday Night Football, Covers reports",
-      "content_text": "- **Cowboys at Eagles anytime touchdown board prices a Javonte Williams no-score at 42 percent on Kalshi for Monday Night Football, Covers reports** — Covers reported the anytime touchdown market for Monday night's Cowboys at Eagles game at Lincoln Financial Field has been reshaped by Philadelphia's quarterback change to Tanner McKee. Kalshi prices a Javonte Williams no-score at 42 percent, McKee at 9 percent to score a touchdown, and CeeDee Lamb at 12 percent to score the first touchdown. ([Covers](https://www.covers.com/nfl/cowboys-vs-eagles-anytime-touchdown-picks-week-7-2026))",
-      "content_html": "<p>- **Cowboys at Eagles anytime touchdown board prices a Javonte Williams no-score at 42 percent on Kalshi for Monday Night Football, Covers reports** — Covers reported the anytime touchdown market for Monday night&#x27;s Cowboys at Eagles game at Lincoln Financial Field has been reshaped by Philadelphia&#x27;s quarterback change to Tanner McKee. Kalshi prices a Javonte Williams no-score at 42 percent, McKee at 9 percent to score a touchdown, and CeeDee Lamb at 12 percent to score the first touchdown. ([Covers](https://www.covers.com/nfl/cowboys-vs-eagles-anytime-touchdown-picks-week-7-2026))</p>",
-      "date_published": "2026-10-25T23:45:00-04:00",
-      "date_modified": "2026-10-25T23:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.covers.com/nfl/cowboys-vs-eagles-anytime-touchdown-picks-week-7-2026",
-      "links": [
-        "https://www.covers.com/nfl/cowboys-vs-eagles-anytime-touchdown-picks-week-7-2026"
-      ],
-      "timestamp": "Oct 25, 2026 · 11:45 PM ET",
-      "body": "- **Cowboys at Eagles anytime touchdown board prices a Javonte Williams no-score at 42 percent on Kalshi for Monday Night Football, Covers reports** — Covers reported the anytime touchdown market for Monday night's Cowboys at Eagles game at Lincoln Financial Field has been reshaped by Philadelphia's quarterback change to Tanner McKee. Kalshi prices a Javonte Williams no-score at 42 percent, McKee at 9 percent to score a touchdown, and CeeDee Lamb at 12 percent to score the first touchdown. ([Covers](https://www.covers.com/nfl/cowboys-vs-eagles-anytime-touchdown-picks-week-7-2026))",
-      "image_url": null,
-      "published": "2026-10-25T23:45:00-04:00",
-      "source": "2026-10-25_2345-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-25_2339-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_2339-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 41.5% on Polymarket, up 3.0 points, on $1.3M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nSal Stewart win NL ROTY priced at 77.0% on Kalshi, down 4.0 points, on $822K traded\nPredictionBubbles' movers board lists the Stewart rookie contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin dip to $70,000 by December 31, 2026 priced at 41.5% on Polymarket, up 3.0 points, on $1.3M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Sal Stewart win NL ROTY priced at 77.0% on Kalshi, down 4.0 points, on $822K traded<br/>PredictionBubbles&#x27; movers board lists the Stewart rookie contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-25T23:39:00-04:00",
-      "date_modified": "2026-10-25T23:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 25, 2026 · 11:39 PM ET",
-      "body": "Infiniti Briefing\n\nBitcoin dip to $70,000 by December 31, 2026 priced at 41.5% on Polymarket, up 3.0 points, on $1.3M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nSal Stewart win NL ROTY priced at 77.0% on Kalshi, down 4.0 points, on $822K traded\nPredictionBubbles' movers board lists the Stewart rookie contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-25T23:39:00-04:00",
-      "source": "2026-10-25_2339-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2330-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2330-edt-0",
-      "title": "NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports",
-      "content_text": "- **NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports** — BitRss reported Intercontinental Exchange, parent of the New York Stock Exchange, has injected an additional 600 million dollars into Polymarket, bringing its overall financial commitment to the platform to approaching 2 billion dollars amid the prediction market boom. ([BitRss](https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738))",
-      "content_html": "<p>- **NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports** — BitRss reported Intercontinental Exchange, parent of the New York Stock Exchange, has injected an additional 600 million dollars into Polymarket, bringing its overall financial commitment to the platform to approaching 2 billion dollars amid the prediction market boom. ([BitRss](https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738))</p>",
-      "date_published": "2026-10-25T23:30:00-04:00",
-      "date_modified": "2026-10-25T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738",
-      "links": [
-        "https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738"
-      ],
-      "timestamp": "Oct 25, 2026 · 11:30 PM ET",
-      "body": "- **NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports** — BitRss reported Intercontinental Exchange, parent of the New York Stock Exchange, has injected an additional 600 million dollars into Polymarket, bringing its overall financial commitment to the platform to approaching 2 billion dollars amid the prediction market boom. ([BitRss](https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738))",
-      "image_url": null,
-      "published": "2026-10-25T23:30:00-04:00",
-      "source": "2026-10-25_2330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_2330-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_2330-edt-1",
-      "title": "Seahawks beat Chiefs 20-3 in Sunday Night Football final, handing Kansas City its first loss, NBC Sports reports",
-      "content_text": "- **Seahawks beat Chiefs 20-3 in Sunday Night Football final, handing Kansas City its first loss, NBC Sports reports** — NBC Sports reported Seattle defeated Kansas City 20-3 at Lumen Field on Sunday night, holding the Chiefs to 213 yards and 11 first downs while Sam Darnold threw for 257 yards and a touchdown. Kalshi had priced Seattle at 58 percent before kickoff and Polymarket US at 59 percent, with about 5.24 million dollars traded on the matchup. ([NBC Sports](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxon-smith-njigba-seahawks-defense-dominate-chiefs-win-20-3))",
-      "content_html": "<p>- **Seahawks beat Chiefs 20-3 in Sunday Night Football final, handing Kansas City its first loss, NBC Sports reports** — NBC Sports reported Seattle defeated Kansas City 20-3 at Lumen Field on Sunday night, holding the Chiefs to 213 yards and 11 first downs while Sam Darnold threw for 257 yards and a touchdown. Kalshi had priced Seattle at 58 percent before kickoff and Polymarket US at 59 percent, with about 5.24 million dollars traded on the matchup. ([NBC Sports](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxon-smith-njigba-seahawks-defense-dominate-chiefs-win-20-3))</p>",
-      "date_published": "2026-10-25T23:30:00-04:00",
-      "date_modified": "2026-10-25T23:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxon-smith-njigba-seahawks-defense-dominate-chiefs-win-20-3",
-      "links": [
-        "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxon-smith-njigba-seahawks-defense-dominate-chiefs-win-20-3"
-      ],
-      "timestamp": "Oct 25, 2026 · 11:30 PM ET",
-      "body": "- **Seahawks beat Chiefs 20-3 in Sunday Night Football final, handing Kansas City its first loss, NBC Sports reports** — NBC Sports reported Seattle defeated Kansas City 20-3 at Lumen Field on Sunday night, holding the Chiefs to 213 yards and 11 first downs while Sam Darnold threw for 257 yards and a touchdown. Kalshi had priced Seattle at 58 percent before kickoff and Polymarket US at 59 percent, with about 5.24 million dollars traded on the matchup. ([NBC Sports](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxon-smith-njigba-seahawks-defense-dominate-chiefs-win-20-3))",
-      "image_url": null,
-      "published": "2026-10-25T23:30:00-04:00",
-      "source": "2026-10-25_2330-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-25_2324-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-25_2324-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nOklahoma City Thunder win the 2027 NBA Finals priced at 18.5% on Polymarket, down 5.0 points, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nDemocrats win the Michigan Senate race in 2026 priced at 68.5% on Polymarket, down 3.5 points, on $1.5M traded\nPredictionBubbles' movers board lists the Michigan Senate contract among its downward political moves, in a political/election category distinct from the lead. It has…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Oklahoma City Thunder win the 2027 NBA Finals priced at 18.5% on Polymarket, down 5.0 points, on $1.0M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Democrats win the Michigan Senate race in 2026 priced at 68.5% on Polymarket, down 3.5 points, on $1.5M traded<br/>PredictionBubbles&#x27; movers board lists the Michigan Senate contract among its downward political moves, in a political/election category distinct from the lead. It has…<br/>#PredictionMarkets #Polymarket #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-25T23:24:00-04:00",
-      "date_modified": "2026-10-25T23:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Bitcoin",
-        "Elections",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 25, 2026 · 11:24 PM ET",
-      "body": "Infiniti Briefing\n\nOklahoma City Thunder win the 2027 NBA Finals priced at 18.5% on Polymarket, down 5.0 points, on $1.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nDemocrats win the Michigan Senate race in 2026 priced at 68.5% on Polymarket, down 3.5 points, on $1.5M traded\nPredictionBubbles' movers board lists the Michigan Senate contract among its downward political moves, in a political/election category distinct from the lead. It has…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-25T23:24:00-04:00",
-      "source": "2026-10-25_2324-edt.md",
       "matches_facebook_post": false
     }
   ]
