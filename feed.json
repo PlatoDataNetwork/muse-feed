@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T12:15:45.143962-04:00",
+  "updated": "2026-10-26T12:29:34.732873-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-26_1224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_1224-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPrediction markets track 644 active Polymarket markets with $288.8M in 24-hour volume, PredScope reports\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predscope.com/stats\n\nBarcelona win the 2026-27 LALIGA Championship priced at 73.5% on Polymarket, down 9.0 points, on $586K traded\nPredictionBubbles' movers board, fresh on its Oct. 26, 15:45 UTC snapshot, lists the Barcelona LaLiga contract among its downward sports moves, in a sports markets…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Prediction markets track 644 active Polymarket markets with $288.8M in 24-hour volume, PredScope reports<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predscope.com/stats<br/><br/>Barcelona win the 2026-27 LALIGA Championship priced at 73.5% on Polymarket, down 9.0 points, on $586K traded<br/>PredictionBubbles&#x27; movers board, fresh on its Oct. 26, 15:45 UTC snapshot, lists the Barcelona LaLiga contract among its downward sports moves, in a sports markets…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-26T12:24:00-04:00",
+      "date_modified": "2026-10-26T12:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predscope.com/stats",
+      "links": [
+        "https://predscope.com/stats",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 26, 2026 · 12:24 PM ET",
+      "body": "Infiniti Briefing\n\nPrediction markets track 644 active Polymarket markets with $288.8M in 24-hour volume, PredScope reports\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predscope.com/stats\n\nBarcelona win the 2026-27 LALIGA Championship priced at 73.5% on Polymarket, down 9.0 points, on $586K traded\nPredictionBubbles' movers board, fresh on its Oct. 26, 15:45 UTC snapshot, lists the Barcelona LaLiga contract among its downward sports moves, in a sports markets…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-26T12:24:00-04:00",
+      "source": "2026-10-26_1224-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-26_1215-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_1215-edt-0",
@@ -4688,35 +4721,6 @@
       "image_url": null,
       "published": "2026-10-26T03:39:00-04:00",
       "source": "2026-10-26_0339-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_0330-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0330-edt-0",
-      "title": "Polymarket reportedly hiring internal market-making team to trade against users, BitRss reports",
-      "content_text": "- **Polymarket reportedly hiring internal market-making team to trade against users, BitRss reports** — BitRss, citing Coinpedia, reported Polymarket is recruiting an internal market-making team that would set prices and take the opposite side of user trades to add liquidity and price combined bets. Statistics professor Harry Crane warned the desk could damage trust and invite legal trouble, and Polymarket has not confirmed when the team would launch. ([BitRss](https://bitrss.com/polymarket-hiring-internal-team-to-trade-against-its-own-users-157619))",
-      "content_html": "<p>- **Polymarket reportedly hiring internal market-making team to trade against users, BitRss reports** — BitRss, citing Coinpedia, reported Polymarket is recruiting an internal market-making team that would set prices and take the opposite side of user trades to add liquidity and price combined bets. Statistics professor Harry Crane warned the desk could damage trust and invite legal trouble, and Polymarket has not confirmed when the team would launch. ([BitRss](https://bitrss.com/polymarket-hiring-internal-team-to-trade-against-its-own-users-157619))</p>",
-      "date_published": "2026-10-26T03:30:00-04:00",
-      "date_modified": "2026-10-26T03:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/polymarket-hiring-internal-team-to-trade-against-its-own-users-157619",
-      "links": [
-        "https://bitrss.com/polymarket-hiring-internal-team-to-trade-against-its-own-users-157619"
-      ],
-      "timestamp": "Oct 26, 2026 · 3:30 AM ET",
-      "body": "- **Polymarket reportedly hiring internal market-making team to trade against users, BitRss reports** — BitRss, citing Coinpedia, reported Polymarket is recruiting an internal market-making team that would set prices and take the opposite side of user trades to add liquidity and price combined bets. Statistics professor Harry Crane warned the desk could damage trust and invite legal trouble, and Polymarket has not confirmed when the team would launch. ([BitRss](https://bitrss.com/polymarket-hiring-internal-team-to-trade-against-its-own-users-157619))",
-      "image_url": null,
-      "published": "2026-10-26T03:30:00-04:00",
-      "source": "2026-10-26_0330-edt.json",
       "matches_facebook_post": false
     }
   ]
