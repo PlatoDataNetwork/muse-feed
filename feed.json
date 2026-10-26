@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T02:26:47.914317-04:00",
+  "updated": "2026-10-26T02:41:41.390432-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-26_0239-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0239-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPredict.fun launch a token by October 31, 2026 priced at 21.5% on Polymarket, up 9.5 points, on $134K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/crypto/\n\nJon Ossoff be the Democratic Presidential nominee in 2028 priced at 13.0% on Kalshi, down 3.0 points, on $9.3M traded\nPredictionBubbles' movers board lists the Ossoff nomination contract among its downward political moves, in a political/election category distinct from the lead. It has…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Predict.fun launch a token by October 31, 2026 priced at 21.5% on Polymarket, up 9.5 points, on $134K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>Jon Ossoff be the Democratic Presidential nominee in 2028 priced at 13.0% on Kalshi, down 3.0 points, on $9.3M traded<br/>PredictionBubbles&#x27; movers board lists the Ossoff nomination contract among its downward political moves, in a political/election category distinct from the lead. It has…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-26T02:39:00-04:00",
+      "date_modified": "2026-10-26T02:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/crypto/",
+      "links": [
+        "https://predictionbubbles.net/markets/crypto/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 26, 2026 · 2:39 AM ET",
+      "body": "Infiniti Briefing\n\nPredict.fun launch a token by October 31, 2026 priced at 21.5% on Polymarket, up 9.5 points, on $134K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/crypto/\n\nJon Ossoff be the Democratic Presidential nominee in 2028 priced at 13.0% on Kalshi, down 3.0 points, on $9.3M traded\nPredictionBubbles' movers board lists the Ossoff nomination contract among its downward political moves, in a political/election category distinct from the lead. It has…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-26T02:39:00-04:00",
+      "source": "2026-10-26_0239-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-26_0224-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0224-edt",
@@ -4646,36 +4680,6 @@
       ],
       "timestamp": "Oct 25, 2026 · 7:15 PM ET",
       "body": "- **Covers backs Lakers outright, Raptors-Timberwolves under and Thunder minus 14.5 in Sunday NBA top picks using Polymarket prices, Covers reports** — Covers published its Sunday NBA top picks for October 25, backing the Los Angeles Lakers to win outright in Utah, a low-scoring game between the Raptors and Timberwolves under 232.5 points, and Oklahoma City to cover a 14.5 point spread against the Clippers. The picks cite Polymarket percentages for the seven-game slate. ([Covers](https://www.covers.com/nba/top-picks-sunday-oct-25-2026))",
-      "image_url": null,
-      "published": "2026-10-25T19:15:00-04:00",
-      "source": "2026-10-25_1915-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-25_1915-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-25_1915-edt-1",
-      "title": "Polymarket prices Warsh Senate confirmation at exactly 52 votes as most likely outcome at 39 percent, BitRss reports",
-      "content_text": "- **Polymarket prices Warsh Senate confirmation at exactly 52 votes as most likely outcome at 39 percent, BitRss reports** — BitRss reported Polymarket shows a 39 percent chance that Kevin Warsh passes Senate confirmation with exactly 52 votes, the most likely scenario, alongside an 18 percent probability of outright rejection. The report noted Senator Thom Tillis has vowed to block any Fed nominee until the Justice Department concludes its probe into Jerome Powell. ([BitRss](https://bitrss.com/trump-set-to-nominate-warsh-as-fed-chair-bloomberg-178494))",
-      "content_html": "<p>- **Polymarket prices Warsh Senate confirmation at exactly 52 votes as most likely outcome at 39 percent, BitRss reports** — BitRss reported Polymarket shows a 39 percent chance that Kevin Warsh passes Senate confirmation with exactly 52 votes, the most likely scenario, alongside an 18 percent probability of outright rejection. The report noted Senator Thom Tillis has vowed to block any Fed nominee until the Justice Department concludes its probe into Jerome Powell. ([BitRss](https://bitrss.com/trump-set-to-nominate-warsh-as-fed-chair-bloomberg-178494))</p>",
-      "date_published": "2026-10-25T19:15:00-04:00",
-      "date_modified": "2026-10-25T19:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/trump-set-to-nominate-warsh-as-fed-chair-bloomberg-178494",
-      "links": [
-        "https://bitrss.com/trump-set-to-nominate-warsh-as-fed-chair-bloomberg-178494"
-      ],
-      "timestamp": "Oct 25, 2026 · 7:15 PM ET",
-      "body": "- **Polymarket prices Warsh Senate confirmation at exactly 52 votes as most likely outcome at 39 percent, BitRss reports** — BitRss reported Polymarket shows a 39 percent chance that Kevin Warsh passes Senate confirmation with exactly 52 votes, the most likely scenario, alongside an 18 percent probability of outright rejection. The report noted Senator Thom Tillis has vowed to block any Fed nominee until the Justice Department concludes its probe into Jerome Powell. ([BitRss](https://bitrss.com/trump-set-to-nominate-warsh-as-fed-chair-bloomberg-178494))",
       "image_url": null,
       "published": "2026-10-25T19:15:00-04:00",
       "source": "2026-10-25_1915-edt.json",
