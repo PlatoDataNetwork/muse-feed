@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T16:14:51.809503-04:00",
+  "updated": "2026-10-26T16:28:34.890851-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-26_1624-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_1624-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKansas City win the Pro Football AFC Championship priced at 17.0% on Kalshi, down 4.0 points, on $971K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nGTA 6 launch postponed again priced at 4.2% on Polymarket, up 0.1 points, on $891K traded\nPredictionBubbles' tech board lists the GTA 6 postponement contract among its traded tech markets, in a tech/science category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kansas City win the Pro Football AFC Championship priced at 17.0% on Kalshi, down 4.0 points, on $971K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>GTA 6 launch postponed again priced at 4.2% on Polymarket, up 0.1 points, on $891K traded<br/>PredictionBubbles&#x27; tech board lists the GTA 6 postponement contract among its traded tech markets, in a tech/science category distinct from the lead. It has zero hits in…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/tech/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-26T16:24:00-04:00",
+      "date_modified": "2026-10-26T16:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Elections",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/tech/"
+      ],
+      "timestamp": "Oct 26, 2026 · 4:24 PM ET",
+      "body": "Infiniti Briefing\n\nKansas City win the Pro Football AFC Championship priced at 17.0% on Kalshi, down 4.0 points, on $971K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nGTA 6 launch postponed again priced at 4.2% on Polymarket, up 0.1 points, on $891K traded\nPredictionBubbles' tech board lists the GTA 6 postponement contract among its traded tech markets, in a tech/science category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/tech/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-26T16:24:00-04:00",
+      "source": "2026-10-26_1624-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-26_1615-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_1615-edt-0",
@@ -4674,39 +4708,6 @@
       ],
       "timestamp": "Oct 26, 2026 · 8:30 AM ET",
       "body": "- **Traders price a Federal Reserve hold at 94 percent for October 28 as hike odds fall 8 points in a week, DeFi Rate reports** — Kalshi prices observed by DeFi Rate on October 26 put a hold at the October 28 FOMC meeting at 94 percent, with a hike at 6 percent, down from 14 percent a week earlier, and a cut at about 2 percent. The board prices a hike as likelier by the December 9 meeting, with December alone at 76 percent in the another-hike-before-2027 series. ([DeFi Rate](https://defirate.com/odds/fed-decision/))",
-      "image_url": null,
-      "published": "2026-10-26T08:30:00-04:00",
-      "source": "2026-10-26_0830-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_0830-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0830-edt-3",
-      "title": "Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports",
-      "content_text": "- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports** — Polymarket gives Democrats a 93 percent chance of winning the House and 65 percent for the Senate, and BeInCrypto reviews a World Gold Council note mapping four policy areas a Democratic Congress could influence, with implications for gold, Bitcoin and stocks. The analysis notes gridlock on spending could support Treasuries and the dollar, which tends to weigh on Bitcoin, while tariff relief could widen deficits and support gold. ([BeInCrypto](https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/))",
-      "content_html": "<p>- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports** — Polymarket gives Democrats a 93 percent chance of winning the House and 65 percent for the Senate, and BeInCrypto reviews a World Gold Council note mapping four policy areas a Democratic Congress could influence, with implications for gold, Bitcoin and stocks. The analysis notes gridlock on spending could support Treasuries and the dollar, which tends to weigh on Bitcoin, while tariff relief could widen deficits and support gold. ([BeInCrypto](https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/))</p>",
-      "date_published": "2026-10-26T08:30:00-04:00",
-      "date_modified": "2026-10-26T08:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate",
-        "Congress",
-        "Bitcoin",
-        "Gold"
-      ],
-      "image": null,
-      "external_url": "https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/",
-      "links": [
-        "https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/"
-      ],
-      "timestamp": "Oct 26, 2026 · 8:30 AM ET",
-      "body": "- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate as gold and Bitcoin impact is mapped, BeInCrypto reports** — Polymarket gives Democrats a 93 percent chance of winning the House and 65 percent for the Senate, and BeInCrypto reviews a World Gold Council note mapping four policy areas a Democratic Congress could influence, with implications for gold, Bitcoin and stocks. The analysis notes gridlock on spending could support Treasuries and the dollar, which tends to weigh on Bitcoin, while tariff relief could widen deficits and support gold. ([BeInCrypto](https://beincrypto.com/democratic-congress-stocks-gold-bitcoin/))",
       "image_url": null,
       "published": "2026-10-26T08:30:00-04:00",
       "source": "2026-10-26_0830-edt.json",
