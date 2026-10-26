@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T09:44:16.011299-04:00",
+  "updated": "2026-10-26T09:59:32.395378-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-26_0954-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_0954-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBitcoin be above $200000 by Jan 1, 2027 priced at 3.0% on Kalshi, on $13.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/crypto/\n\nMilwaukee win the 2026 Pro Baseball Championship priced at 83.5% on Kalshi, down 0.8 points, on $13.0M traded\nPredictionBubbles' sports board lists the Milwaukee championship contract among its most-traded sports markets, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin be above $200000 by Jan 1, 2027 priced at 3.0% on Kalshi, on $13.4M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Bitcoin #Elections<br/>https://predictionbubbles.net/markets/crypto/<br/><br/>Milwaukee win the 2026 Pro Baseball Championship priced at 83.5% on Kalshi, down 0.8 points, on $13.0M traded<br/>PredictionBubbles&#x27; sports board lists the Milwaukee championship contract among its most-traded sports markets, in a sports markets category distinct from the lead. It…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-26T09:54:00-04:00",
+      "date_modified": "2026-10-26T09:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Bitcoin",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/crypto/",
+      "links": [
+        "https://predictionbubbles.net/markets/crypto/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 26, 2026 · 9:54 AM ET",
+      "body": "Infiniti Briefing\n\nBitcoin be above $200000 by Jan 1, 2027 priced at 3.0% on Kalshi, on $13.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Bitcoin #Elections\nhttps://predictionbubbles.net/markets/crypto/\n\nMilwaukee win the 2026 Pro Baseball Championship priced at 83.5% on Kalshi, down 0.8 points, on $13.0M traded\nPredictionBubbles' sports board lists the Milwaukee championship contract among its most-traded sports markets, in a sports markets category distinct from the lead. It…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-26T09:54:00-04:00",
+      "source": "2026-10-26_0954-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-26_0945-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0945-edt-0",
@@ -4687,35 +4720,6 @@
       ],
       "timestamp": "Oct 26, 2026 · 12:45 AM ET",
       "body": "- **Kalshi Week 7 NFL markets price 49ers at 17 percent for Super Bowl and Dolphins at 53 percent for worst record, Kalshi reports** — Kalshi reported its Week 7 NFL markets price San Francisco at 17 percent to win the Super Bowl, ahead of Buffalo and Kansas City at 11 percent each, with Chicago at 7 percent and Minnesota at 5 percent. Miami is priced at 53 percent to finish with the worst record, more than the next three teams combined, while Dallas leads the NFC East market at 45 percent despite a 2-4 record. ([Kalshi](https://news.kalshi.com/p/nfl-week-7-contenders-pretenders-and-offenders))",
-      "image_url": null,
-      "published": "2026-10-26T00:45:00-04:00",
-      "source": "2026-10-26_0045-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_0045-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_0045-edt-2",
-      "title": "Polymarket Hormuz transit market for week of October 26 leads at 20 to 24 ships with 25 percent, Polymarket reports",
-      "content_text": "- **Polymarket Hormuz transit market for week of October 26 leads at 20 to 24 ships with 25 percent, Polymarket reports** — Polymarket reported its market on how many ships transit the Strait of Hormuz in the week of October 26 prices the leading outcome at 20 to 24 ships with 25 percent, followed by 25 to 29 ships at 24 percent. The market, opened on October 22, has six possible outcomes and resolves on published transit data. ([Polymarket](https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-26))",
-      "content_html": "<p>- **Polymarket Hormuz transit market for week of October 26 leads at 20 to 24 ships with 25 percent, Polymarket reports** — Polymarket reported its market on how many ships transit the Strait of Hormuz in the week of October 26 prices the leading outcome at 20 to 24 ships with 25 percent, followed by 25 to 29 ships at 24 percent. The market, opened on October 22, has six possible outcomes and resolves on published transit data. ([Polymarket](https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-26))</p>",
-      "date_published": "2026-10-26T00:45:00-04:00",
-      "date_modified": "2026-10-26T00:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-26",
-      "links": [
-        "https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-26"
-      ],
-      "timestamp": "Oct 26, 2026 · 12:45 AM ET",
-      "body": "- **Polymarket Hormuz transit market for week of October 26 leads at 20 to 24 ships with 25 percent, Polymarket reports** — Polymarket reported its market on how many ships transit the Strait of Hormuz in the week of October 26 prices the leading outcome at 20 to 24 ships with 25 percent, followed by 25 to 29 ships at 24 percent. The market, opened on October 22, has six possible outcomes and resolves on published transit data. ([Polymarket](https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-october-26))",
       "image_url": null,
       "published": "2026-10-26T00:45:00-04:00",
       "source": "2026-10-26_0045-edt.json",
