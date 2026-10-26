@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-26T19:26:35.854726-04:00",
+  "updated": "2026-10-26T19:30:02.621323-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,66 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-26_1930-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_1930-edt-0",
+      "title": "Goldman Sachs notes prediction market monthly volume surged from about 5 billion dollars a year ago to 78 billion dollars as retail stock trading cooled, BigGo Finance reports",
+      "content_text": "- **Goldman Sachs notes prediction market monthly volume surged from about 5 billion dollars a year ago to 78 billion dollars as retail stock trading cooled, BigGo Finance reports** — A Goldman Sachs research note reported by BigGo Finance said monthly prediction market trading volume rose from about 5 billion dollars a year ago to 78 billion dollars, even as US retail stock trading fell about 20 percent from the summer and 45 percent from the end of 2025 to about 9 percent of total stock volume. Strategist Ben Snider said speculative retail money has flowed into prediction markets, stock options and leveraged ETFs, though those venues remain small next to overall stock trading. ([BigGo Finance](https://finance.biggo.com/news/c2b0ee6e-e05d-4445-ad8a-ce7f7bcade93))",
+      "content_html": "<p>- **Goldman Sachs notes prediction market monthly volume surged from about 5 billion dollars a year ago to 78 billion dollars as retail stock trading cooled, BigGo Finance reports** — A Goldman Sachs research note reported by BigGo Finance said monthly prediction market trading volume rose from about 5 billion dollars a year ago to 78 billion dollars, even as US retail stock trading fell about 20 percent from the summer and 45 percent from the end of 2025 to about 9 percent of total stock volume. Strategist Ben Snider said speculative retail money has flowed into prediction markets, stock options and leveraged ETFs, though those venues remain small next to overall stock trading. ([BigGo Finance](https://finance.biggo.com/news/c2b0ee6e-e05d-4445-ad8a-ce7f7bcade93))</p>",
+      "date_published": "2026-10-26T19:30:00-04:00",
+      "date_modified": "2026-10-26T19:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://finance.biggo.com/news/c2b0ee6e-e05d-4445-ad8a-ce7f7bcade93",
+      "links": [
+        "https://finance.biggo.com/news/c2b0ee6e-e05d-4445-ad8a-ce7f7bcade93"
+      ],
+      "timestamp": "Oct 26, 2026 · 7:30 PM ET",
+      "body": "- **Goldman Sachs notes prediction market monthly volume surged from about 5 billion dollars a year ago to 78 billion dollars as retail stock trading cooled, BigGo Finance reports** — A Goldman Sachs research note reported by BigGo Finance said monthly prediction market trading volume rose from about 5 billion dollars a year ago to 78 billion dollars, even as US retail stock trading fell about 20 percent from the summer and 45 percent from the end of 2025 to about 9 percent of total stock volume. Strategist Ben Snider said speculative retail money has flowed into prediction markets, stock options and leveraged ETFs, though those venues remain small next to overall stock trading. ([BigGo Finance](https://finance.biggo.com/news/c2b0ee6e-e05d-4445-ad8a-ce7f7bcade93))",
+      "image_url": null,
+      "published": "2026-10-26T19:30:00-04:00",
+      "source": "2026-10-26_1930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-26_1930-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_1930-edt-1",
+      "title": "Kalshi midterm trading tops 230 million dollars with 46.1 percent expecting a Democratic House win by more than 10 percent, Action Network reports",
+      "content_text": "- **Kalshi midterm trading tops 230 million dollars with 46.1 percent expecting a Democratic House win by more than 10 percent, Action Network reports** — Action Network reported more than 230 million dollars has traded on Kalshi midterm markets ahead of the November 3 election, with Kalshi pricing Democrats at 90.6 percent for the House and 64 percent for the Senate. On margin, 46.1 percent of Kalshi traders expect Democrats to win the House by more than 10 percent, while 39 percent on Kalshi and 16 percent on Polymarket expect Democrats to exceed 52 Senate seats. ([Action Network](https://www.actionnetwork.com/politics/us-midterm-elections-house-senate-predictions))",
+      "content_html": "<p>- **Kalshi midterm trading tops 230 million dollars with 46.1 percent expecting a Democratic House win by more than 10 percent, Action Network reports** — Action Network reported more than 230 million dollars has traded on Kalshi midterm markets ahead of the November 3 election, with Kalshi pricing Democrats at 90.6 percent for the House and 64 percent for the Senate. On margin, 46.1 percent of Kalshi traders expect Democrats to win the House by more than 10 percent, while 39 percent on Kalshi and 16 percent on Polymarket expect Democrats to exceed 52 Senate seats. ([Action Network](https://www.actionnetwork.com/politics/us-midterm-elections-house-senate-predictions))</p>",
+      "date_published": "2026-10-26T19:30:00-04:00",
+      "date_modified": "2026-10-26T19:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/politics/us-midterm-elections-house-senate-predictions",
+      "links": [
+        "https://www.actionnetwork.com/politics/us-midterm-elections-house-senate-predictions"
+      ],
+      "timestamp": "Oct 26, 2026 · 7:30 PM ET",
+      "body": "- **Kalshi midterm trading tops 230 million dollars with 46.1 percent expecting a Democratic House win by more than 10 percent, Action Network reports** — Action Network reported more than 230 million dollars has traded on Kalshi midterm markets ahead of the November 3 election, with Kalshi pricing Democrats at 90.6 percent for the House and 64 percent for the Senate. On margin, 46.1 percent of Kalshi traders expect Democrats to win the House by more than 10 percent, while 39 percent on Kalshi and 16 percent on Polymarket expect Democrats to exceed 52 Senate seats. ([Action Network](https://www.actionnetwork.com/politics/us-midterm-elections-house-senate-predictions))",
+      "image_url": null,
+      "published": "2026-10-26T19:30:00-04:00",
+      "source": "2026-10-26_1930-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-26_1924-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_1924-edt",
@@ -4646,68 +4706,6 @@
       "image_url": null,
       "published": "2026-10-26T11:54:00-04:00",
       "source": "2026-10-26_1154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_1145-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_1145-edt-0",
-      "title": "South Carolina markets price Graham at 80 cents for the Senate and Wilson at 94 cents for governor, Action Network reports",
-      "content_text": "- **South Carolina markets price Graham at 80 cents for the Senate and Wilson at 94 cents for governor, Action Network reports** — Action Network reported Polymarket and Kalshi price Lindsey Graham at about 80 cents to win the South Carolina Senate race against Annie Andrews, while Alan Wilson is priced at 94 cents on Polymarket and 94.7 cents on Kalshi to win the governor race, with Jermaine Johnson at 7 cents and 6.3 cents respectively. Early voting runs October 19 through October 31, with Election Day on November 3. ([Action Network](https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-26))",
-      "content_html": "<p>- **South Carolina markets price Graham at 80 cents for the Senate and Wilson at 94 cents for governor, Action Network reports** — Action Network reported Polymarket and Kalshi price Lindsey Graham at about 80 cents to win the South Carolina Senate race against Annie Andrews, while Alan Wilson is priced at 94 cents on Polymarket and 94.7 cents on Kalshi to win the governor race, with Jermaine Johnson at 7 cents and 6.3 cents respectively. Early voting runs October 19 through October 31, with Election Day on November 3. ([Action Network](https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-26))</p>",
-      "date_published": "2026-10-26T11:45:00-04:00",
-      "date_modified": "2026-10-26T11:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-26",
-      "links": [
-        "https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-26"
-      ],
-      "timestamp": "Oct 26, 2026 · 11:45 AM ET",
-      "body": "- **South Carolina markets price Graham at 80 cents for the Senate and Wilson at 94 cents for governor, Action Network reports** — Action Network reported Polymarket and Kalshi price Lindsey Graham at about 80 cents to win the South Carolina Senate race against Annie Andrews, while Alan Wilson is priced at 94 cents on Polymarket and 94.7 cents on Kalshi to win the governor race, with Jermaine Johnson at 7 cents and 6.3 cents respectively. Early voting runs October 19 through October 31, with Election Day on November 3. ([Action Network](https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-26))",
-      "image_url": null,
-      "published": "2026-10-26T11:45:00-04:00",
-      "source": "2026-10-26_1145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_1145-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_1145-edt-1",
-      "title": "Polymarket prices World Series Game 3 over 6.5 runs at 57 percent on Sports Equinox night, Action Network reports",
-      "content_text": "- **Polymarket prices World Series Game 3 over 6.5 runs at 57 percent on Sports Equinox night, Action Network reports** — Action Network reported Polymarket prices the over at 57 percent for Game 3 of the World Series between the Milwaukee Brewers and Tampa Bay Rays on October 26, with the under 6.5 runs contract, priced as No, at 43.5 cents. The game is part of the Sports Equinox slate alongside Cowboys at Eagles on Monday Night Football, with both NFL teams entering at 2-4. ([Action Network](https://www.actionnetwork.com/news/sports-equinox-best-bets-today-cowboys-vs-eagles-brewers-vs-rays-warriors-vs-nuggets-predictions-october-26))",
-      "content_html": "<p>- **Polymarket prices World Series Game 3 over 6.5 runs at 57 percent on Sports Equinox night, Action Network reports** — Action Network reported Polymarket prices the over at 57 percent for Game 3 of the World Series between the Milwaukee Brewers and Tampa Bay Rays on October 26, with the under 6.5 runs contract, priced as No, at 43.5 cents. The game is part of the Sports Equinox slate alongside Cowboys at Eagles on Monday Night Football, with both NFL teams entering at 2-4. ([Action Network](https://www.actionnetwork.com/news/sports-equinox-best-bets-today-cowboys-vs-eagles-brewers-vs-rays-warriors-vs-nuggets-predictions-october-26))</p>",
-      "date_published": "2026-10-26T11:45:00-04:00",
-      "date_modified": "2026-10-26T11:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/sports-equinox-best-bets-today-cowboys-vs-eagles-brewers-vs-rays-warriors-vs-nuggets-predictions-october-26",
-      "links": [
-        "https://www.actionnetwork.com/news/sports-equinox-best-bets-today-cowboys-vs-eagles-brewers-vs-rays-warriors-vs-nuggets-predictions-october-26"
-      ],
-      "timestamp": "Oct 26, 2026 · 11:45 AM ET",
-      "body": "- **Polymarket prices World Series Game 3 over 6.5 runs at 57 percent on Sports Equinox night, Action Network reports** — Action Network reported Polymarket prices the over at 57 percent for Game 3 of the World Series between the Milwaukee Brewers and Tampa Bay Rays on October 26, with the under 6.5 runs contract, priced as No, at 43.5 cents. The game is part of the Sports Equinox slate alongside Cowboys at Eagles on Monday Night Football, with both NFL teams entering at 2-4. ([Action Network](https://www.actionnetwork.com/news/sports-equinox-best-bets-today-cowboys-vs-eagles-brewers-vs-rays-warriors-vs-nuggets-predictions-october-26))",
-      "image_url": null,
-      "published": "2026-10-26T11:45:00-04:00",
-      "source": "2026-10-26_1145-edt.json",
       "matches_facebook_post": false
     }
   ]
