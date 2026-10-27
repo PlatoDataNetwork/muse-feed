@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-27T02:44:50.457049-04:00",
+  "updated": "2026-10-27T02:56:48.745951-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-27_0254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0254-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nSergio Massa win the 2027 Argentina presidential election priced at 10.2% on Polymarket, down 3.8 points, on $107K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 26, taken by website-only batches, or on the banned…\n#PredictionMarkets #Polymarket #CFTC #Gold\nhttps://predictionbubbles.net/markets/movers/\n\nMiami Hurricanes win the 2027 CFP National Championship priced at 12.7% on Polymarket, down 3.2 points, on $113K traded\nPredictionBubbles' movers board lists the Miami CFP contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Sergio Massa win the 2027 Argentina presidential election priced at 10.2% on Polymarket, down 3.8 points, on $107K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 26, taken by website-only batches, or on the banned…<br/>#PredictionMarkets #Polymarket #CFTC #Gold<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Miami Hurricanes win the 2027 CFP National Championship priced at 12.7% on Polymarket, down 3.2 points, on $113K traded<br/>PredictionBubbles&#x27; movers board lists the Miami CFP contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits in…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-27T02:54:00-04:00",
+      "date_modified": "2026-10-27T02:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 27, 2026 · 2:54 AM ET",
+      "body": "Infiniti Briefing\n\nSergio Massa win the 2027 Argentina presidential election priced at 10.2% on Polymarket, down 3.8 points, on $107K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 26, taken by website-only batches, or on the banned…\n#PredictionMarkets #Polymarket #CFTC #Gold\nhttps://predictionbubbles.net/markets/movers/\n\nMiami Hurricanes win the 2027 CFP National Championship priced at 12.7% on Polymarket, down 3.2 points, on $113K traded\nPredictionBubbles' movers board lists the Miami CFP contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-27T02:54:00-04:00",
+      "source": "2026-10-27_0254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-27_0245-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0245-edt-0",
@@ -4692,35 +4724,6 @@
       ],
       "timestamp": "Oct 26, 2026 · 7:45 PM ET",
       "body": "- **Midterm board prices Democrats at 66 percent for the Senate on Polymarket and 92 percent for the House with Iowa, Maine and Kansas as closest Senate races, Polyguana reports** — Polyguana's midterm page prices Democrats at 66 percent for the Senate on Polymarket and 64 percent on Kalshi, and at 92 percent for the House on Polymarket and 91 percent on Kalshi. It lists Iowa at 57 percent for Ashley Hinson, Maine at 59 percent for Troy Jackson and Kansas at 62 percent for Roger Marshall as the closest Senate races, with Texas as the seat that would decide Senate control at 65 percent for Democrats. ([Polyguana](https://polyguana.net/predictions/midterms))",
-      "image_url": null,
-      "published": "2026-10-26T19:45:00-04:00",
-      "source": "2026-10-26_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_1945-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_1945-edt-3",
-      "title": "World Series comparison prices Brewers at 85 cents on Kalshi against a 63 percent sportsbook implied chance with Rays at 16.9 cents, BetFirm reports",
-      "content_text": "- **World Series comparison prices Brewers at 85 cents on Kalshi against a 63 percent sportsbook implied chance with Rays at 16.9 cents, BetFirm reports** — BetFirm's World Series odds comparison prices the Milwaukee Brewers at 85 cents to buy on Kalshi, with a mid price of 84 cents, against a best sportsbook price of -170 implying 63.0 percent. The Tampa Bay Rays are priced at 16.9 cents to buy on Kalshi in the same comparison, updated October 26 across three books. ([BetFirm](https://www.betfirm.com/world-series-odds/))",
-      "content_html": "<p>- **World Series comparison prices Brewers at 85 cents on Kalshi against a 63 percent sportsbook implied chance with Rays at 16.9 cents, BetFirm reports** — BetFirm&#x27;s World Series odds comparison prices the Milwaukee Brewers at 85 cents to buy on Kalshi, with a mid price of 84 cents, against a best sportsbook price of -170 implying 63.0 percent. The Tampa Bay Rays are priced at 16.9 cents to buy on Kalshi in the same comparison, updated October 26 across three books. ([BetFirm](https://www.betfirm.com/world-series-odds/))</p>",
-      "date_published": "2026-10-26T19:45:00-04:00",
-      "date_modified": "2026-10-26T19:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.betfirm.com/world-series-odds/",
-      "links": [
-        "https://www.betfirm.com/world-series-odds/"
-      ],
-      "timestamp": "Oct 26, 2026 · 7:45 PM ET",
-      "body": "- **World Series comparison prices Brewers at 85 cents on Kalshi against a 63 percent sportsbook implied chance with Rays at 16.9 cents, BetFirm reports** — BetFirm's World Series odds comparison prices the Milwaukee Brewers at 85 cents to buy on Kalshi, with a mid price of 84 cents, against a best sportsbook price of -170 implying 63.0 percent. The Tampa Bay Rays are priced at 16.9 cents to buy on Kalshi in the same comparison, updated October 26 across three books. ([BetFirm](https://www.betfirm.com/world-series-odds/))",
       "image_url": null,
       "published": "2026-10-26T19:45:00-04:00",
       "source": "2026-10-26_1945-edt.json",
