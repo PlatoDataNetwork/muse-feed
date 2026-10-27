@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-27T17:58:16.181027-04:00",
+  "updated": "2026-10-27T18:01:19.294658-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,69 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-27_1800-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1800-edt-0",
+      "title": "Kalshi 15-minute Bitcoin series trades 306.6 million contracts over last 96 windows, PredictionMarketsPicks reports",
+      "content_text": "- **Kalshi 15-minute Bitcoin series trades 306.6 million contracts over last 96 windows, PredictionMarketsPicks reports** — PredictionMarketsPicks lists Kalshi's 15-minute Bitcoin series at 306.6 million contracts over the last 96 windows, with 49 percent settled up, ahead of gold at 42.8 million contracts and Ethereum at 22.7 million. The WTI crude oil 15-minute series recorded 8.7 million contracts over the same span. ([PredictionMarketsPicks](https://predictionmarketspicks.com/kalshi/15-minute-markets))",
+      "content_html": "<p>- **Kalshi 15-minute Bitcoin series trades 306.6 million contracts over last 96 windows, PredictionMarketsPicks reports** — PredictionMarketsPicks lists Kalshi&#x27;s 15-minute Bitcoin series at 306.6 million contracts over the last 96 windows, with 49 percent settled up, ahead of gold at 42.8 million contracts and Ethereum at 22.7 million. The WTI crude oil 15-minute series recorded 8.7 million contracts over the same span. ([PredictionMarketsPicks](https://predictionmarketspicks.com/kalshi/15-minute-markets))</p>",
+      "date_published": "2026-10-27T18:00:00-04:00",
+      "date_modified": "2026-10-27T18:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Bitcoin",
+        "Ethereum",
+        "Gold",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://predictionmarketspicks.com/kalshi/15-minute-markets",
+      "links": [
+        "https://predictionmarketspicks.com/kalshi/15-minute-markets"
+      ],
+      "timestamp": "Oct 27, 2026 · 6:00 PM ET",
+      "body": "- **Kalshi 15-minute Bitcoin series trades 306.6 million contracts over last 96 windows, PredictionMarketsPicks reports** — PredictionMarketsPicks lists Kalshi's 15-minute Bitcoin series at 306.6 million contracts over the last 96 windows, with 49 percent settled up, ahead of gold at 42.8 million contracts and Ethereum at 22.7 million. The WTI crude oil 15-minute series recorded 8.7 million contracts over the same span. ([PredictionMarketsPicks](https://predictionmarketspicks.com/kalshi/15-minute-markets))",
+      "image_url": null,
+      "published": "2026-10-27T18:00:00-04:00",
+      "source": "2026-10-27_1800-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1800-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1800-edt-1",
+      "title": "Spurs priced as NBA title favorite at 22 percent with Wembanyama leading MVP market at 28 percent, DeFi Rate reports",
+      "content_text": "- **Spurs priced as NBA title favorite at 22 percent with Wembanyama leading MVP market at 28 percent, DeFi Rate reports** — DeFi Rate prices the San Antonio Spurs as NBA title favorites at 22 percent on Kalshi and Polymarket US, with Victor Wembanyama leading the MVP market at 28 percent. For Tuesday night, the Celtics are priced at 85 percent over the Nets, the Spurs at 93 percent over the Kings, and the Lakers at 54 percent over the Trail Blazers. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "content_html": "<p>- **Spurs priced as NBA title favorite at 22 percent with Wembanyama leading MVP market at 28 percent, DeFi Rate reports** — DeFi Rate prices the San Antonio Spurs as NBA title favorites at 22 percent on Kalshi and Polymarket US, with Victor Wembanyama leading the MVP market at 28 percent. For Tuesday night, the Celtics are priced at 85 percent over the Nets, the Spurs at 93 percent over the Kings, and the Lakers at 54 percent over the Trail Blazers. ([DeFi Rate](https://defirate.com/odds/nba/))</p>",
+      "date_published": "2026-10-27T18:00:00-04:00",
+      "date_modified": "2026-10-27T18:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/nba/",
+      "links": [
+        "https://defirate.com/odds/nba/"
+      ],
+      "timestamp": "Oct 27, 2026 · 6:00 PM ET",
+      "body": "- **Spurs priced as NBA title favorite at 22 percent with Wembanyama leading MVP market at 28 percent, DeFi Rate reports** — DeFi Rate prices the San Antonio Spurs as NBA title favorites at 22 percent on Kalshi and Polymarket US, with Victor Wembanyama leading the MVP market at 28 percent. For Tuesday night, the Celtics are priced at 85 percent over the Nets, the Spurs at 93 percent over the Kings, and the Lakers at 54 percent over the Trail Blazers. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "image_url": null,
+      "published": "2026-10-27T18:00:00-04:00",
+      "source": "2026-10-27_1800-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-27_1754-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_1754-edt",
@@ -4616,69 +4679,6 @@
       "image_url": null,
       "published": "2026-10-27T11:15:00-04:00",
       "source": "2026-10-27_1115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-27_1109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_1109-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nPredict.fun FDV above $800M one day after launch priced at 70.0% on Polymarket, down 6.5 points, on $355K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nAndrey Rublev wins priced at 1.0% on Kalshi, down 42.0 points, on $893K traded\nPredictionBubbles' movers board lists the Rublev contract as its largest downward sports move, in a sports markets category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Predict.fun FDV above $800M one day after launch priced at 70.0% on Polymarket, down 6.5 points, on $355K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Andrey Rublev wins priced at 1.0% on Kalshi, down 42.0 points, on $893K traded<br/>PredictionBubbles&#x27; movers board lists the Rublev contract as its largest downward sports move, in a sports markets category distinct from the lead. It has zero hits in…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-27T11:09:00-04:00",
-      "date_modified": "2026-10-27T11:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 27, 2026 · 11:09 AM ET",
-      "body": "Infiniti Briefing\n\nPredict.fun FDV above $800M one day after launch priced at 70.0% on Polymarket, down 6.5 points, on $355K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nAndrey Rublev wins priced at 1.0% on Kalshi, down 42.0 points, on $893K traded\nPredictionBubbles' movers board lists the Rublev contract as its largest downward sports move, in a sports markets category distinct from the lead. It has zero hits in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-27T11:09:00-04:00",
-      "source": "2026-10-27_1109-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_1100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1100-edt-0",
-      "title": "Polymarket US sets record with more than 74 million October trades as active traders reach about 478,000, CryptoNews reports",
-      "content_text": "- **Polymarket US sets record with more than 74 million October trades as active traders reach about 478,000, CryptoNews reports** — CryptoNews reports Polymarket US processed more than 74 million trades in October, up 15 percent from September, driven by expanded NFL and college football markets and bundled contracts introduced in August that exceeded half of activity in some weeks. Monthly active traders reached a record of about 478,000, and the platform recorded 2.82 billion dollars in notional volume in one week during the month. ([CryptoNews](https://cryptonews.net/news/market/33652973/))",
-      "content_html": "<p>- **Polymarket US sets record with more than 74 million October trades as active traders reach about 478,000, CryptoNews reports** — CryptoNews reports Polymarket US processed more than 74 million trades in October, up 15 percent from September, driven by expanded NFL and college football markets and bundled contracts introduced in August that exceeded half of activity in some weeks. Monthly active traders reached a record of about 478,000, and the platform recorded 2.82 billion dollars in notional volume in one week during the month. ([CryptoNews](https://cryptonews.net/news/market/33652973/))</p>",
-      "date_published": "2026-10-27T11:00:00-04:00",
-      "date_modified": "2026-10-27T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://cryptonews.net/news/market/33652973/",
-      "links": [
-        "https://cryptonews.net/news/market/33652973/"
-      ],
-      "timestamp": "Oct 27, 2026 · 11:00 AM ET",
-      "body": "- **Polymarket US sets record with more than 74 million October trades as active traders reach about 478,000, CryptoNews reports** — CryptoNews reports Polymarket US processed more than 74 million trades in October, up 15 percent from September, driven by expanded NFL and college football markets and bundled contracts introduced in August that exceeded half of activity in some weeks. Monthly active traders reached a record of about 478,000, and the platform recorded 2.82 billion dollars in notional volume in one week during the month. ([CryptoNews](https://cryptonews.net/news/market/33652973/))",
-      "image_url": null,
-      "published": "2026-10-27T11:00:00-04:00",
-      "source": "2026-10-27_1100-edt.json",
       "matches_facebook_post": false
     }
   ]
