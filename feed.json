@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-27T06:16:30.337438-04:00",
+  "updated": "2026-10-27T06:31:25.322045-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,132 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-27_0630-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0630-edt-0",
+      "title": "Polls show deadlock in Israel election but Kalshi and Polymarket strongly favour Eisenkot over Netanyahu, SA Jewish Report reports",
+      "content_text": "- **Polls show deadlock in Israel election but Kalshi and Polymarket strongly favour Eisenkot over Netanyahu, SA Jewish Report reports** — SA Jewish Report, via JTA, reports Kalshi traders give Gadi Eisenkot a 52 percent chance of becoming Israel's next prime minister against 28 percent for Benjamin Netanyahu, while Polymarket puts Eisenkot at 58 percent and Netanyahu at 27 percent. Final polls put Eisenkot's change bloc at 52 to 56 seats and Netanyahu's coalition at about 50, with neither side holding a clear path to the 61 seats needed to govern. ([SA Jewish Report](https://www.sajr.co.za/polls-show-a-deadlock-but-betting-markets-strongly-favour-eisenkot-to-replace-netanyahu/))",
+      "content_html": "<p>- **Polls show deadlock in Israel election but Kalshi and Polymarket strongly favour Eisenkot over Netanyahu, SA Jewish Report reports** — SA Jewish Report, via JTA, reports Kalshi traders give Gadi Eisenkot a 52 percent chance of becoming Israel&#x27;s next prime minister against 28 percent for Benjamin Netanyahu, while Polymarket puts Eisenkot at 58 percent and Netanyahu at 27 percent. Final polls put Eisenkot&#x27;s change bloc at 52 to 56 seats and Netanyahu&#x27;s coalition at about 50, with neither side holding a clear path to the 61 seats needed to govern. ([SA Jewish Report](https://www.sajr.co.za/polls-show-a-deadlock-but-betting-markets-strongly-favour-eisenkot-to-replace-netanyahu/))</p>",
+      "date_published": "2026-10-27T06:30:00-04:00",
+      "date_modified": "2026-10-27T06:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.sajr.co.za/polls-show-a-deadlock-but-betting-markets-strongly-favour-eisenkot-to-replace-netanyahu/",
+      "links": [
+        "https://www.sajr.co.za/polls-show-a-deadlock-but-betting-markets-strongly-favour-eisenkot-to-replace-netanyahu/"
+      ],
+      "timestamp": "Oct 27, 2026 · 6:30 AM ET",
+      "body": "- **Polls show deadlock in Israel election but Kalshi and Polymarket strongly favour Eisenkot over Netanyahu, SA Jewish Report reports** — SA Jewish Report, via JTA, reports Kalshi traders give Gadi Eisenkot a 52 percent chance of becoming Israel's next prime minister against 28 percent for Benjamin Netanyahu, while Polymarket puts Eisenkot at 58 percent and Netanyahu at 27 percent. Final polls put Eisenkot's change bloc at 52 to 56 seats and Netanyahu's coalition at about 50, with neither side holding a clear path to the 61 seats needed to govern. ([SA Jewish Report](https://www.sajr.co.za/polls-show-a-deadlock-but-betting-markets-strongly-favour-eisenkot-to-replace-netanyahu/))",
+      "image_url": null,
+      "published": "2026-10-27T06:30:00-04:00",
+      "source": "2026-10-27_0630-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_0630-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0630-edt-1",
+      "title": "NBA memorandum with CFTC creates no binding obligations as Kalshi and Polymarket become preferred exchanges, iGaming Times reports",
+      "content_text": "- **NBA memorandum with CFTC creates no binding obligations as Kalshi and Polymarket become preferred exchanges, iGaming Times reports** — iGaming Times reports the NBA has named Kalshi and Polymarket its Preferred Prediction Market Exchanges and expanded its agreement with DraftKings to cover prediction markets, with the exchanges receiving NBA intellectual property, marketing rights and Sportradar data in return for market limits, a personnel trading ban and information-sharing duties. The league's memorandum of understanding with the Commodity Futures Trading Commission creates no legally binding obligations and leaves information sharing at each party's discretion. ([iGaming Times](https://igaming-times.com/news/prediction-markets/nba-names-kalshi-polymarket-partners-signs-cftc-mou))",
+      "content_html": "<p>- **NBA memorandum with CFTC creates no binding obligations as Kalshi and Polymarket become preferred exchanges, iGaming Times reports** — iGaming Times reports the NBA has named Kalshi and Polymarket its Preferred Prediction Market Exchanges and expanded its agreement with DraftKings to cover prediction markets, with the exchanges receiving NBA intellectual property, marketing rights and Sportradar data in return for market limits, a personnel trading ban and information-sharing duties. The league&#x27;s memorandum of understanding with the Commodity Futures Trading Commission creates no legally binding obligations and leaves information sharing at each party&#x27;s discretion. ([iGaming Times](https://igaming-times.com/news/prediction-markets/nba-names-kalshi-polymarket-partners-signs-cftc-mou))</p>",
+      "date_published": "2026-10-27T06:30:00-04:00",
+      "date_modified": "2026-10-27T06:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://igaming-times.com/news/prediction-markets/nba-names-kalshi-polymarket-partners-signs-cftc-mou",
+      "links": [
+        "https://igaming-times.com/news/prediction-markets/nba-names-kalshi-polymarket-partners-signs-cftc-mou"
+      ],
+      "timestamp": "Oct 27, 2026 · 6:30 AM ET",
+      "body": "- **NBA memorandum with CFTC creates no binding obligations as Kalshi and Polymarket become preferred exchanges, iGaming Times reports** — iGaming Times reports the NBA has named Kalshi and Polymarket its Preferred Prediction Market Exchanges and expanded its agreement with DraftKings to cover prediction markets, with the exchanges receiving NBA intellectual property, marketing rights and Sportradar data in return for market limits, a personnel trading ban and information-sharing duties. The league's memorandum of understanding with the Commodity Futures Trading Commission creates no legally binding obligations and leaves information sharing at each party's discretion. ([iGaming Times](https://igaming-times.com/news/prediction-markets/nba-names-kalshi-polymarket-partners-signs-cftc-mou))",
+      "image_url": null,
+      "published": "2026-10-27T06:30:00-04:00",
+      "source": "2026-10-27_0630-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_0630-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0630-edt-2",
+      "title": "New York Gaming Commission asks court to force Kalshi to comply with subpoenas as state damages sought top 36 billion dollars, Gambling Insider reports",
+      "content_text": "- **New York Gaming Commission asks court to force Kalshi to comply with subpoenas as state damages sought top 36 billion dollars, Gambling Insider reports** — Gambling Insider reports New York's Gaming Commission has asked a state court to compel Kalshi to comply with investigative subpoenas issued on July 31 covering its sports-event contracts, offerings to New Yorkers under 21, advertising and ownership structure. The Commission alleges Kalshi has run a sports wagering business in New York for at least 18 months without a license, and the report notes the damages New York is seeking top 36 billion dollars according to the CFTC. ([Gambling Insider](https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court))",
+      "content_html": "<p>- **New York Gaming Commission asks court to force Kalshi to comply with subpoenas as state damages sought top 36 billion dollars, Gambling Insider reports** — Gambling Insider reports New York&#x27;s Gaming Commission has asked a state court to compel Kalshi to comply with investigative subpoenas issued on July 31 covering its sports-event contracts, offerings to New Yorkers under 21, advertising and ownership structure. The Commission alleges Kalshi has run a sports wagering business in New York for at least 18 months without a license, and the report notes the damages New York is seeking top 36 billion dollars according to the CFTC. ([Gambling Insider](https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court))</p>",
+      "date_published": "2026-10-27T06:30:00-04:00",
+      "date_modified": "2026-10-27T06:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court",
+      "links": [
+        "https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court"
+      ],
+      "timestamp": "Oct 27, 2026 · 6:30 AM ET",
+      "body": "- **New York Gaming Commission asks court to force Kalshi to comply with subpoenas as state damages sought top 36 billion dollars, Gambling Insider reports** — Gambling Insider reports New York's Gaming Commission has asked a state court to compel Kalshi to comply with investigative subpoenas issued on July 31 covering its sports-event contracts, offerings to New Yorkers under 21, advertising and ownership structure. The Commission alleges Kalshi has run a sports wagering business in New York for at least 18 months without a license, and the report notes the damages New York is seeking top 36 billion dollars according to the CFTC. ([Gambling Insider](https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court))",
+      "image_url": null,
+      "published": "2026-10-27T06:30:00-04:00",
+      "source": "2026-10-27_0630-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-27_0624-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0624-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nIsrael x Iran ceasefire continues through November 30 priced at 57.5% on Polymarket, up 9.0 points, on $673K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nJasmine Paolini wins priced at 13.0% on Kalshi, down 14.0 points, on $725K traded\nPredictionBubbles' movers board lists the Paolini contract among its largest downward sports moves, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Israel x Iran ceasefire continues through November 30 priced at 57.5% on Polymarket, up 9.0 points, on $673K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Jasmine Paolini wins priced at 13.0% on Kalshi, down 14.0 points, on $725K traded<br/>PredictionBubbles&#x27; movers board lists the Paolini contract among its largest downward sports moves, in a sports markets category distinct from the lead. It has zero hits…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-27T06:24:00-04:00",
+      "date_modified": "2026-10-27T06:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 27, 2026 · 6:24 AM ET",
+      "body": "Infiniti Briefing\n\nIsrael x Iran ceasefire continues through November 30 priced at 57.5% on Polymarket, up 9.0 points, on $673K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nJasmine Paolini wins priced at 13.0% on Kalshi, down 14.0 points, on $725K traded\nPredictionBubbles' movers board lists the Paolini contract among its largest downward sports moves, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-27T06:24:00-04:00",
+      "source": "2026-10-27_0624-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-27_0615-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0615-edt-0",
@@ -4608,132 +4734,6 @@
       "image_url": null,
       "published": "2026-10-26T21:45:00-04:00",
       "source": "2026-10-26_2145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-26_2139-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-26_2139-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nCowboys vs. Eagles: O/U 44.5 priced at 81.5% on Polymarket, up 33.6 points, on $506K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #NFL #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the 2026 Bulgarian presidential first round by less than 10% priced at 99.4% on Polymarket, up 8.2 points, on $165K traded\nPredictionBubbles' movers board lists the Iotova margin contract among its upward political moves, awaiting settlement, in a political/election category distinct from…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Cowboys vs. Eagles: O/U 44.5 priced at 81.5% on Polymarket, up 33.6 points, on $506K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #NFL #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Iliana Iotova win the 2026 Bulgarian presidential first round by less than 10% priced at 99.4% on Polymarket, up 8.2 points, on $165K traded<br/>PredictionBubbles&#x27; movers board lists the Iotova margin contract among its upward political moves, awaiting settlement, in a political/election category distinct from…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-26T21:39:00-04:00",
-      "date_modified": "2026-10-26T21:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "NFL",
-        "CFTC",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 26, 2026 · 9:39 PM ET",
-      "body": "Infiniti Briefing\n\nCowboys vs. Eagles: O/U 44.5 priced at 81.5% on Polymarket, up 33.6 points, on $506K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #NFL #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the 2026 Bulgarian presidential first round by less than 10% priced at 99.4% on Polymarket, up 8.2 points, on $165K traded\nPredictionBubbles' movers board lists the Iotova margin contract among its upward political moves, awaiting settlement, in a political/election category distinct from…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-26T21:39:00-04:00",
-      "source": "2026-10-26_2139-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_2130-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_2130-edt-0",
-      "title": "Robinhood says Bitcoin, gold and oil are its fastest-growing prediction markets with expiries down to 15 minutes, FinanceFeeds reports",
-      "content_text": "- **Robinhood says Bitcoin, gold and oil are its fastest-growing prediction markets with expiries down to 15 minutes, FinanceFeeds reports** — FinanceFeeds reported Robinhood says Bitcoin, gold and oil contracts are gaining on sports in its prediction markets, with crypto expiries down to 15 minutes after a 156 million dollar second quarter. The shift gives Robinhood a growth path in financial contracts while sports event contracts continue to face legal challenges from states and tribal gaming interests. ([FinanceFeeds](https://financefeeds.com/robinhood-says-bitcoin-gold-and-oil-are-its-fastest-growing-prediction-markets/))",
-      "content_html": "<p>- **Robinhood says Bitcoin, gold and oil are its fastest-growing prediction markets with expiries down to 15 minutes, FinanceFeeds reports** — FinanceFeeds reported Robinhood says Bitcoin, gold and oil contracts are gaining on sports in its prediction markets, with crypto expiries down to 15 minutes after a 156 million dollar second quarter. The shift gives Robinhood a growth path in financial contracts while sports event contracts continue to face legal challenges from states and tribal gaming interests. ([FinanceFeeds](https://financefeeds.com/robinhood-says-bitcoin-gold-and-oil-are-its-fastest-growing-prediction-markets/))</p>",
-      "date_published": "2026-10-26T21:30:00-04:00",
-      "date_modified": "2026-10-26T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Gold",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://financefeeds.com/robinhood-says-bitcoin-gold-and-oil-are-its-fastest-growing-prediction-markets/",
-      "links": [
-        "https://financefeeds.com/robinhood-says-bitcoin-gold-and-oil-are-its-fastest-growing-prediction-markets/"
-      ],
-      "timestamp": "Oct 26, 2026 · 9:30 PM ET",
-      "body": "- **Robinhood says Bitcoin, gold and oil are its fastest-growing prediction markets with expiries down to 15 minutes, FinanceFeeds reports** — FinanceFeeds reported Robinhood says Bitcoin, gold and oil contracts are gaining on sports in its prediction markets, with crypto expiries down to 15 minutes after a 156 million dollar second quarter. The shift gives Robinhood a growth path in financial contracts while sports event contracts continue to face legal challenges from states and tribal gaming interests. ([FinanceFeeds](https://financefeeds.com/robinhood-says-bitcoin-gold-and-oil-are-its-fastest-growing-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-26T21:30:00-04:00",
-      "source": "2026-10-26_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_2130-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_2130-edt-1",
-      "title": "Hyperliquid HIP-4 outcomes list 351 contracts on October 26 with sports at 83 percent of 24-hour volume, Cipher Intelligence reports",
-      "content_text": "- **Hyperliquid HIP-4 outcomes list 351 contracts on October 26 with sports at 83 percent of 24-hour volume, Cipher Intelligence reports** — Cipher Intelligence said Hyperliquid listed 351 outcomes on October 26, of which 319 were tradable across 32 questions quoted in USDC. Sports results and tournaments accounted for 145 tradable outcomes and about 83 percent of 24-hour volume, while Bitcoin, Ethereum, HYPE and Solana each had a daily at-or-above target contract from the protocol itself. ([Cipher Intelligence](https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/))",
-      "content_html": "<p>- **Hyperliquid HIP-4 outcomes list 351 contracts on October 26 with sports at 83 percent of 24-hour volume, Cipher Intelligence reports** — Cipher Intelligence said Hyperliquid listed 351 outcomes on October 26, of which 319 were tradable across 32 questions quoted in USDC. Sports results and tournaments accounted for 145 tradable outcomes and about 83 percent of 24-hour volume, while Bitcoin, Ethereum, HYPE and Solana each had a daily at-or-above target contract from the protocol itself. ([Cipher Intelligence](https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/))</p>",
-      "date_published": "2026-10-26T21:30:00-04:00",
-      "date_modified": "2026-10-26T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Solana"
-      ],
-      "image": null,
-      "external_url": "https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/",
-      "links": [
-        "https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/"
-      ],
-      "timestamp": "Oct 26, 2026 · 9:30 PM ET",
-      "body": "- **Hyperliquid HIP-4 outcomes list 351 contracts on October 26 with sports at 83 percent of 24-hour volume, Cipher Intelligence reports** — Cipher Intelligence said Hyperliquid listed 351 outcomes on October 26, of which 319 were tradable across 32 questions quoted in USDC. Sports results and tournaments accounted for 145 tradable outcomes and about 83 percent of 24-hour volume, while Bitcoin, Ethereum, HYPE and Solana each had a daily at-or-above target contract from the protocol itself. ([Cipher Intelligence](https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-26T21:30:00-04:00",
-      "source": "2026-10-26_2130-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_2130-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_2130-edt-2",
-      "title": "Polymarket prices Bitcoin reaching 100,000 dollars this year at 21.5 percent with Kalshi traders putting 42 percent on a 75,000 to 90,000 dollar year-end close, BlockchainReporter reports",
-      "content_text": "- **Polymarket prices Bitcoin reaching 100,000 dollars this year at 21.5 percent with Kalshi traders putting 42 percent on a 75,000 to 90,000 dollar year-end close, BlockchainReporter reports** — BlockchainReporter said Polymarket prices about a 36.5 percent chance of Bitcoin dipping to 70,000 dollars before the end of the year and a 21.5 percent chance it reaches 100,000 dollars. Kalshi traders put about 42 percent on a year-end close between 75,000 and 90,000 dollars, with 80,000 to 85,000 dollars the single most likely bracket. ([BlockchainReporter](https://blockchainreporter.net/price-prediction/bitcoin-price-prediction/))",
-      "content_html": "<p>- **Polymarket prices Bitcoin reaching 100,000 dollars this year at 21.5 percent with Kalshi traders putting 42 percent on a 75,000 to 90,000 dollar year-end close, BlockchainReporter reports** — BlockchainReporter said Polymarket prices about a 36.5 percent chance of Bitcoin dipping to 70,000 dollars before the end of the year and a 21.5 percent chance it reaches 100,000 dollars. Kalshi traders put about 42 percent on a year-end close between 75,000 and 90,000 dollars, with 80,000 to 85,000 dollars the single most likely bracket. ([BlockchainReporter](https://blockchainreporter.net/price-prediction/bitcoin-price-prediction/))</p>",
-      "date_published": "2026-10-26T21:30:00-04:00",
-      "date_modified": "2026-10-26T21:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://blockchainreporter.net/price-prediction/bitcoin-price-prediction/",
-      "links": [
-        "https://blockchainreporter.net/price-prediction/bitcoin-price-prediction/"
-      ],
-      "timestamp": "Oct 26, 2026 · 9:30 PM ET",
-      "body": "- **Polymarket prices Bitcoin reaching 100,000 dollars this year at 21.5 percent with Kalshi traders putting 42 percent on a 75,000 to 90,000 dollar year-end close, BlockchainReporter reports** — BlockchainReporter said Polymarket prices about a 36.5 percent chance of Bitcoin dipping to 70,000 dollars before the end of the year and a 21.5 percent chance it reaches 100,000 dollars. Kalshi traders put about 42 percent on a year-end close between 75,000 and 90,000 dollars, with 80,000 to 85,000 dollars the single most likely bracket. ([BlockchainReporter](https://blockchainreporter.net/price-prediction/bitcoin-price-prediction/))",
-      "image_url": null,
-      "published": "2026-10-26T21:30:00-04:00",
-      "source": "2026-10-26_2130-edt.json",
       "matches_facebook_post": false
     }
   ]
