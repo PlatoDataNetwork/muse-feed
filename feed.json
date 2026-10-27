@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-27T13:12:22.026579-04:00",
+  "updated": "2026-10-27T13:28:46.752962-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,341 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-27_1330-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1330-edt-0",
+      "title": "Brennan Center study finds prediction market odds sway voters and most want tighter regulation",
+      "content_text": "- **Brennan Center study finds prediction market odds sway voters and most want tighter regulation** — A Brennan Center-funded study of 1,994 registered voters conducted September 21 found voters were 10 to 20 percentage points more likely to pick a candidate favored by prediction markets, regardless of polling. More than 80 percent favored stricter rules or bans on political event contracts, and 7 in 10 disapproved of betting on elections. ([Brennan Center](https://www.brennancenter.org/our-work/analysis-opinion/new-study-finds-prediction-markets-are-influencing-voters-and-voters-want))",
+      "content_html": "<p>- **Brennan Center study finds prediction market odds sway voters and most want tighter regulation** — A Brennan Center-funded study of 1,994 registered voters conducted September 21 found voters were 10 to 20 percentage points more likely to pick a candidate favored by prediction markets, regardless of polling. More than 80 percent favored stricter rules or bans on political event contracts, and 7 in 10 disapproved of betting on elections. ([Brennan Center](https://www.brennancenter.org/our-work/analysis-opinion/new-study-finds-prediction-markets-are-influencing-voters-and-voters-want))</p>",
+      "date_published": "2026-10-27T13:30:00-04:00",
+      "date_modified": "2026-10-27T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.brennancenter.org/our-work/analysis-opinion/new-study-finds-prediction-markets-are-influencing-voters-and-voters-want",
+      "links": [
+        "https://www.brennancenter.org/our-work/analysis-opinion/new-study-finds-prediction-markets-are-influencing-voters-and-voters-want"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:30 PM ET",
+      "body": "- **Brennan Center study finds prediction market odds sway voters and most want tighter regulation** — A Brennan Center-funded study of 1,994 registered voters conducted September 21 found voters were 10 to 20 percentage points more likely to pick a candidate favored by prediction markets, regardless of polling. More than 80 percent favored stricter rules or bans on political event contracts, and 7 in 10 disapproved of betting on elections. ([Brennan Center](https://www.brennancenter.org/our-work/analysis-opinion/new-study-finds-prediction-markets-are-influencing-voters-and-voters-want))",
+      "image_url": null,
+      "published": "2026-10-27T13:30:00-04:00",
+      "source": "2026-10-27_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1330-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1330-edt-1",
+      "title": "More than 1.4 billion dollars traded on prediction markets for the 2026 midterms",
+      "content_text": "- **More than 1.4 billion dollars traded on prediction markets for the 2026 midterms** — Prediction markets on the 2026 midterm elections have surpassed 1.4 billion dollars in trading volume, according to a CNN analysis. Kalshi accounted for nearly 1.1 billion dollars of that total and Polymarket for more than 340 million dollars, with trading expected to ramp up on Election Day. ([CNN](https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta))",
+      "content_html": "<p>- **More than 1.4 billion dollars traded on prediction markets for the 2026 midterms** — Prediction markets on the 2026 midterm elections have surpassed 1.4 billion dollars in trading volume, according to a CNN analysis. Kalshi accounted for nearly 1.1 billion dollars of that total and Polymarket for more than 340 million dollars, with trading expected to ramp up on Election Day. ([CNN](https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta))</p>",
+      "date_published": "2026-10-27T13:30:00-04:00",
+      "date_modified": "2026-10-27T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:30 PM ET",
+      "body": "- **More than 1.4 billion dollars traded on prediction markets for the 2026 midterms** — Prediction markets on the 2026 midterm elections have surpassed 1.4 billion dollars in trading volume, according to a CNN analysis. Kalshi accounted for nearly 1.1 billion dollars of that total and Polymarket for more than 340 million dollars, with trading expected to ramp up on Election Day. ([CNN](https://www.cnn.com/2026/10/23/politics/prediction-markets-midterm-elections-kalshi-polymarket?cid=external-feeds_iluminar_meta))",
+      "image_url": null,
+      "published": "2026-10-27T13:30:00-04:00",
+      "source": "2026-10-27_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1330-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1330-edt-2",
+      "title": "Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto prediction volume",
+      "content_text": "- **Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto prediction volume** — Crypto-related prediction market volume on Kalshi and Polymarket reached a record 2.7 billion dollars in a single week in mid-October, making crypto the second most traded category behind sports. Kalshi Bitcoin contracts alone generated over 2 billion dollars, driven by its 15-minute up and down contracts. ([Crypto Briefing](https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/?utm_source=tickers&utm_medium=rss))",
+      "content_html": "<p>- **Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto prediction volume** — Crypto-related prediction market volume on Kalshi and Polymarket reached a record 2.7 billion dollars in a single week in mid-October, making crypto the second most traded category behind sports. Kalshi Bitcoin contracts alone generated over 2 billion dollars, driven by its 15-minute up and down contracts. ([Crypto Briefing](https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/?utm_source=tickers&amp;utm_medium=rss))</p>",
+      "date_published": "2026-10-27T13:30:00-04:00",
+      "date_modified": "2026-10-27T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/?utm_source=tickers&utm_medium=rss",
+      "links": [
+        "https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/?utm_source=tickers&utm_medium=rss"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:30 PM ET",
+      "body": "- **Kalshi and Polymarket hit record 2.7 billion dollars in weekly crypto prediction volume** — Crypto-related prediction market volume on Kalshi and Polymarket reached a record 2.7 billion dollars in a single week in mid-October, making crypto the second most traded category behind sports. Kalshi Bitcoin contracts alone generated over 2 billion dollars, driven by its 15-minute up and down contracts. ([Crypto Briefing](https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/?utm_source=tickers&utm_medium=rss))",
+      "image_url": null,
+      "published": "2026-10-27T13:30:00-04:00",
+      "source": "2026-10-27_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1330-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1330-edt-3",
+      "title": "Kalshi and Polymarket price a Fed hold in October above futures markets",
+      "content_text": "- **Kalshi and Polymarket price a Fed hold in October above futures markets** — As of October 27, Kalshi priced a hold at the October Fed meeting at 93.5 percent and Polymarket at 94.0 percent, compared with 90.0 percent implied by CME fed funds futures. The 4.0 percentage point spread was the widest among the three venues in the recent daily series. ([Prediction Markets Picks](https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026))",
+      "content_html": "<p>- **Kalshi and Polymarket price a Fed hold in October above futures markets** — As of October 27, Kalshi priced a hold at the October Fed meeting at 93.5 percent and Polymarket at 94.0 percent, compared with 90.0 percent implied by CME fed funds futures. The 4.0 percentage point spread was the widest among the three venues in the recent daily series. ([Prediction Markets Picks](https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026))</p>",
+      "date_published": "2026-10-27T13:30:00-04:00",
+      "date_modified": "2026-10-27T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026",
+      "links": [
+        "https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:30 PM ET",
+      "body": "- **Kalshi and Polymarket price a Fed hold in October above futures markets** — As of October 27, Kalshi priced a hold at the October Fed meeting at 93.5 percent and Polymarket at 94.0 percent, compared with 90.0 percent implied by CME fed funds futures. The 4.0 percentage point spread was the widest among the three venues in the recent daily series. ([Prediction Markets Picks](https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026))",
+      "image_url": null,
+      "published": "2026-10-27T13:30:00-04:00",
+      "source": "2026-10-27_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1330-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1330-edt-4",
+      "title": "Kalshi partners with Signify Group to monitor athlete abuse tied to event contracts",
+      "content_text": "- **Kalshi partners with Signify Group to monitor athlete abuse tied to event contracts** — Kalshi has partnered with Signify Group to monitor and address online abuse, threats and harassment targeting athletes and coaches across the NFL, NBA and MLB. The partnership, announced October 14, is presented as a risk-mitigation tool as Kalshi defends its event contracts against state gambling challenges. ([Prediction News](https://predictionnews.com/story/kalshi-partners-with-signify-group-to-protect-athletes-from-online-abuse))",
+      "content_html": "<p>- **Kalshi partners with Signify Group to monitor athlete abuse tied to event contracts** — Kalshi has partnered with Signify Group to monitor and address online abuse, threats and harassment targeting athletes and coaches across the NFL, NBA and MLB. The partnership, announced October 14, is presented as a risk-mitigation tool as Kalshi defends its event contracts against state gambling challenges. ([Prediction News](https://predictionnews.com/story/kalshi-partners-with-signify-group-to-protect-athletes-from-online-abuse))</p>",
+      "date_published": "2026-10-27T13:30:00-04:00",
+      "date_modified": "2026-10-27T13:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://predictionnews.com/story/kalshi-partners-with-signify-group-to-protect-athletes-from-online-abuse",
+      "links": [
+        "https://predictionnews.com/story/kalshi-partners-with-signify-group-to-protect-athletes-from-online-abuse"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:30 PM ET",
+      "body": "- **Kalshi partners with Signify Group to monitor athlete abuse tied to event contracts** — Kalshi has partnered with Signify Group to monitor and address online abuse, threats and harassment targeting athletes and coaches across the NFL, NBA and MLB. The partnership, announced October 14, is presented as a risk-mitigation tool as Kalshi defends its event contracts against state gambling challenges. ([Prediction News](https://predictionnews.com/story/kalshi-partners-with-signify-group-to-protect-athletes-from-online-abuse))",
+      "image_url": null,
+      "published": "2026-10-27T13:30:00-04:00",
+      "source": "2026-10-27_1330-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-27_1324-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_1324-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCommitments to the 1W public sale exceed $10M priced at 95.5% on Polymarket, up 2.9 points, on $119K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nGiovanni Mpetshi Perricard wins priced at 2.0% on Kalshi, down 15.0 points, on $840K traded\nPredictionBubbles' movers board lists the Perricard contract among its largest downward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Commitments to the 1W public sale exceed $10M priced at 95.5% on Polymarket, up 2.9 points, on $119K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Giovanni Mpetshi Perricard wins priced at 2.0% on Kalshi, down 15.0 points, on $840K traded<br/>PredictionBubbles&#x27; movers board lists the Perricard contract among its largest downward sports moves, in a sports markets category distinct from the lead. It has zero…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-27T13:24:00-04:00",
+      "date_modified": "2026-10-27T13:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:24 PM ET",
+      "body": "Infiniti Briefing\n\nCommitments to the 1W public sale exceed $10M priced at 95.5% on Polymarket, up 2.9 points, on $119K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nGiovanni Mpetshi Perricard wins priced at 2.0% on Kalshi, down 15.0 points, on $840K traded\nPredictionBubbles' movers board lists the Perricard contract among its largest downward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-27T13:24:00-04:00",
+      "source": "2026-10-27_1324-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1315-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1315-edt-0",
+      "title": "Portugal moves to block Polymarket after suspicious presidential election betting, regulator says",
+      "content_text": "- **Portugal moves to block Polymarket after suspicious presidential election betting, regulator says** — Portugal's gambling regulator SRIJ says Polymarket operates illegally in the country, where betting on political events is prohibited, and is moving to have internet providers block it after more than 4 million euros were wagered in the final hours before presidential election results, with total volume on the market passing 120 million dollars. ([BeInCrypto via BitRss](https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823))",
+      "content_html": "<p>- **Portugal moves to block Polymarket after suspicious presidential election betting, regulator says** — Portugal&#x27;s gambling regulator SRIJ says Polymarket operates illegally in the country, where betting on political events is prohibited, and is moving to have internet providers block it after more than 4 million euros were wagered in the final hours before presidential election results, with total volume on the market passing 120 million dollars. ([BeInCrypto via BitRss](https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823))</p>",
+      "date_published": "2026-10-27T13:15:00-04:00",
+      "date_modified": "2026-10-27T13:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823",
+      "links": [
+        "https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:15 PM ET",
+      "body": "- **Portugal moves to block Polymarket after suspicious presidential election betting, regulator says** — Portugal's gambling regulator SRIJ says Polymarket operates illegally in the country, where betting on political events is prohibited, and is moving to have internet providers block it after more than 4 million euros were wagered in the final hours before presidential election results, with total volume on the market passing 120 million dollars. ([BeInCrypto via BitRss](https://bitrss.com/portugal-cracks-down-on-polymarket-following-suspicious-election-betting-activity-174823))",
+      "image_url": null,
+      "published": "2026-10-27T13:15:00-04:00",
+      "source": "2026-10-27_1315-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1315-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1315-edt-1",
+      "title": "Polymarket flags suspicious midterm election bets and refers at least two cases to the CFTC, report says",
+      "content_text": "- **Polymarket flags suspicious midterm election bets and refers at least two cases to the CFTC, report says** — An NPR investigation published October 27 found Polymarket has investigated dozens of midterm election bets for possible insider dealing or manipulation, with at least two cases referred to the CFTC. Its 506 election markets include 24 million dollars in House bets and 9 million dollars in Senate bets ahead of the November 3 elections. ([Bitcoin.com News](https://news.bitcoin.com/featured/polymarket-flags-suspicious-midterm-election-bets-24m-house-market-heats-up/))",
+      "content_html": "<p>- **Polymarket flags suspicious midterm election bets and refers at least two cases to the CFTC, report says** — An NPR investigation published October 27 found Polymarket has investigated dozens of midterm election bets for possible insider dealing or manipulation, with at least two cases referred to the CFTC. Its 506 election markets include 24 million dollars in House bets and 9 million dollars in Senate bets ahead of the November 3 elections. ([Bitcoin.com News](https://news.bitcoin.com/featured/polymarket-flags-suspicious-midterm-election-bets-24m-house-market-heats-up/))</p>",
+      "date_published": "2026-10-27T13:15:00-04:00",
+      "date_modified": "2026-10-27T13:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate",
+        "CFTC",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://news.bitcoin.com/featured/polymarket-flags-suspicious-midterm-election-bets-24m-house-market-heats-up/",
+      "links": [
+        "https://news.bitcoin.com/featured/polymarket-flags-suspicious-midterm-election-bets-24m-house-market-heats-up/"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:15 PM ET",
+      "body": "- **Polymarket flags suspicious midterm election bets and refers at least two cases to the CFTC, report says** — An NPR investigation published October 27 found Polymarket has investigated dozens of midterm election bets for possible insider dealing or manipulation, with at least two cases referred to the CFTC. Its 506 election markets include 24 million dollars in House bets and 9 million dollars in Senate bets ahead of the November 3 elections. ([Bitcoin.com News](https://news.bitcoin.com/featured/polymarket-flags-suspicious-midterm-election-bets-24m-house-market-heats-up/))",
+      "image_url": null,
+      "published": "2026-10-27T13:15:00-04:00",
+      "source": "2026-10-27_1315-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1315-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1315-edt-2",
+      "title": "Polymarket prices Democrats at 92 percent to flip the House as Kalshi logs 73.4 million contracts on the race",
+      "content_text": "- **Polymarket prices Democrats at 92 percent to flip the House as Kalshi logs 73.4 million contracts on the race** — Polymarket prices Democrats at 92 percent to take the House in the midterms while Kalshi sits near 90 percent for the House and 64 percent for the Senate, according to Sikt Intelligence data. Kalshi has logged 73.4 million contracts on the House race and Polymarket shows 23.8 million dollars in notional volume on the same market. ([CoinGape](https://coingape.com/polymarket-prices-democrats-at-92-to-flip-the-house-as-midterms-loom/))",
+      "content_html": "<p>- **Polymarket prices Democrats at 92 percent to flip the House as Kalshi logs 73.4 million contracts on the race** — Polymarket prices Democrats at 92 percent to take the House in the midterms while Kalshi sits near 90 percent for the House and 64 percent for the Senate, according to Sikt Intelligence data. Kalshi has logged 73.4 million contracts on the House race and Polymarket shows 23.8 million dollars in notional volume on the same market. ([CoinGape](https://coingape.com/polymarket-prices-democrats-at-92-to-flip-the-house-as-midterms-loom/))</p>",
+      "date_published": "2026-10-27T13:15:00-04:00",
+      "date_modified": "2026-10-27T13:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://coingape.com/polymarket-prices-democrats-at-92-to-flip-the-house-as-midterms-loom/",
+      "links": [
+        "https://coingape.com/polymarket-prices-democrats-at-92-to-flip-the-house-as-midterms-loom/"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:15 PM ET",
+      "body": "- **Polymarket prices Democrats at 92 percent to flip the House as Kalshi logs 73.4 million contracts on the race** — Polymarket prices Democrats at 92 percent to take the House in the midterms while Kalshi sits near 90 percent for the House and 64 percent for the Senate, according to Sikt Intelligence data. Kalshi has logged 73.4 million contracts on the House race and Polymarket shows 23.8 million dollars in notional volume on the same market. ([CoinGape](https://coingape.com/polymarket-prices-democrats-at-92-to-flip-the-house-as-midterms-loom/))",
+      "image_url": null,
+      "published": "2026-10-27T13:15:00-04:00",
+      "source": "2026-10-27_1315-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1315-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1315-edt-3",
+      "title": "Prediction venues trade 119 billion dollars in face value over 30 days with Kalshi taking 76 percent, DeFi Rate tracker says",
+      "content_text": "- **Prediction venues trade 119 billion dollars in face value over 30 days with Kalshi taking 76 percent, DeFi Rate tracker says** — DeFi Rate's volume tracker counted 119.0 billion dollars of contracts at 1 dollar face value traded across nine prediction market venues from September 26 to October 25, with 28.7 billion dollars actually paid. Kalshi handled 76 percent of the volume at 90.3 billion dollars. ([iGaming Express](https://igamingexpress.com/nba-names-kalshi-polymarket-preferred-prediction-market-exchanges/))",
+      "content_html": "<p>- **Prediction venues trade 119 billion dollars in face value over 30 days with Kalshi taking 76 percent, DeFi Rate tracker says** — DeFi Rate&#x27;s volume tracker counted 119.0 billion dollars of contracts at 1 dollar face value traded across nine prediction market venues from September 26 to October 25, with 28.7 billion dollars actually paid. Kalshi handled 76 percent of the volume at 90.3 billion dollars. ([iGaming Express](https://igamingexpress.com/nba-names-kalshi-polymarket-preferred-prediction-market-exchanges/))</p>",
+      "date_published": "2026-10-27T13:15:00-04:00",
+      "date_modified": "2026-10-27T13:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://igamingexpress.com/nba-names-kalshi-polymarket-preferred-prediction-market-exchanges/",
+      "links": [
+        "https://igamingexpress.com/nba-names-kalshi-polymarket-preferred-prediction-market-exchanges/"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:15 PM ET",
+      "body": "- **Prediction venues trade 119 billion dollars in face value over 30 days with Kalshi taking 76 percent, DeFi Rate tracker says** — DeFi Rate's volume tracker counted 119.0 billion dollars of contracts at 1 dollar face value traded across nine prediction market venues from September 26 to October 25, with 28.7 billion dollars actually paid. Kalshi handled 76 percent of the volume at 90.3 billion dollars. ([iGaming Express](https://igamingexpress.com/nba-names-kalshi-polymarket-preferred-prediction-market-exchanges/))",
+      "image_url": null,
+      "published": "2026-10-27T13:15:00-04:00",
+      "source": "2026-10-27_1315-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1315-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1315-edt-4",
+      "title": "Crypto.com prediction market OG debuts ahead of the Super Bowl with rewards for its first million users",
+      "content_text": "- **Crypto.com prediction market OG debuts ahead of the Super Bowl with rewards for its first million users** — Crypto.com's OG prediction market has debuted in the US ahead of the Super Bowl, backed by the company's CFTC-registered exchange. OG will offer its first one million users up to 500 dollars in rewards and tie promotions to Crypto.com sports partnerships including UFC, Formula 1 and the UEFA Champions League. ([Blockonomi via BitRss](https://bitrss.com/og-prediction-market-by-crypto-com-debuts-before-super-bowl-event-179988))",
+      "content_html": "<p>- **Crypto.com prediction market OG debuts ahead of the Super Bowl with rewards for its first million users** — Crypto.com&#x27;s OG prediction market has debuted in the US ahead of the Super Bowl, backed by the company&#x27;s CFTC-registered exchange. OG will offer its first one million users up to 500 dollars in rewards and tie promotions to Crypto.com sports partnerships including UFC, Formula 1 and the UEFA Champions League. ([Blockonomi via BitRss](https://bitrss.com/og-prediction-market-by-crypto-com-debuts-before-super-bowl-event-179988))</p>",
+      "date_published": "2026-10-27T13:15:00-04:00",
+      "date_modified": "2026-10-27T13:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/og-prediction-market-by-crypto-com-debuts-before-super-bowl-event-179988",
+      "links": [
+        "https://bitrss.com/og-prediction-market-by-crypto-com-debuts-before-super-bowl-event-179988"
+      ],
+      "timestamp": "Oct 27, 2026 · 1:15 PM ET",
+      "body": "- **Crypto.com prediction market OG debuts ahead of the Super Bowl with rewards for its first million users** — Crypto.com's OG prediction market has debuted in the US ahead of the Super Bowl, backed by the company's CFTC-registered exchange. OG will offer its first one million users up to 500 dollars in rewards and tie promotions to Crypto.com sports partnerships including UFC, Formula 1 and the UEFA Champions League. ([Blockonomi via BitRss](https://bitrss.com/og-prediction-market-by-crypto-com-debuts-before-super-bowl-event-179988))",
+      "image_url": null,
+      "published": "2026-10-27T13:15:00-04:00",
+      "source": "2026-10-27_1315-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-27_1309-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_1309-edt",
@@ -4373,348 +4708,6 @@
       "image_url": null,
       "published": "2026-10-27T05:39:00-04:00",
       "source": "2026-10-27_0539-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0530-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0530-edt-0",
-      "title": "Polymarket prices Hill-Lewis at 96 percent for Cape Town mayor and Zille at 52 percent for Johannesburg ahead of November 4 elections, TechCentral reports",
-      "content_text": "- **Polymarket prices Hill-Lewis at 96 percent for Cape Town mayor and Zille at 52 percent for Johannesburg ahead of November 4 elections, TechCentral reports** — TechCentral reports Polymarket is taking trades on all eight South African metro mayoral races ahead of the November 4 local government elections, with about 379,000 dollars traded in total and Johannesburg accounting for about 135,000 dollars. No South African regulator oversees the markets, and the South African Bookmakers Association wants prediction markets brought under the country's gambling laws. ([TechCentral](https://techcentral.co.za/polymarket-south-africa-unregulated-market-betting-mayors/287688/))",
-      "content_html": "<p>- **Polymarket prices Hill-Lewis at 96 percent for Cape Town mayor and Zille at 52 percent for Johannesburg ahead of November 4 elections, TechCentral reports** — TechCentral reports Polymarket is taking trades on all eight South African metro mayoral races ahead of the November 4 local government elections, with about 379,000 dollars traded in total and Johannesburg accounting for about 135,000 dollars. No South African regulator oversees the markets, and the South African Bookmakers Association wants prediction markets brought under the country&#x27;s gambling laws. ([TechCentral](https://techcentral.co.za/polymarket-south-africa-unregulated-market-betting-mayors/287688/))</p>",
-      "date_published": "2026-10-27T05:30:00-04:00",
-      "date_modified": "2026-10-27T05:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://techcentral.co.za/polymarket-south-africa-unregulated-market-betting-mayors/287688/",
-      "links": [
-        "https://techcentral.co.za/polymarket-south-africa-unregulated-market-betting-mayors/287688/"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:30 AM ET",
-      "body": "- **Polymarket prices Hill-Lewis at 96 percent for Cape Town mayor and Zille at 52 percent for Johannesburg ahead of November 4 elections, TechCentral reports** — TechCentral reports Polymarket is taking trades on all eight South African metro mayoral races ahead of the November 4 local government elections, with about 379,000 dollars traded in total and Johannesburg accounting for about 135,000 dollars. No South African regulator oversees the markets, and the South African Bookmakers Association wants prediction markets brought under the country's gambling laws. ([TechCentral](https://techcentral.co.za/polymarket-south-africa-unregulated-market-betting-mayors/287688/))",
-      "image_url": null,
-      "published": "2026-10-27T05:30:00-04:00",
-      "source": "2026-10-27_0530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0530-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0530-edt-1",
-      "title": "Bitcoin trades near 79,769 dollars below 80,000 dollars ahead of the October 28 Fed decision as hold odds sit near 91 percent, Analytics Insight reports",
-      "content_text": "- **Bitcoin trades near 79,769 dollars below 80,000 dollars ahead of the October 28 Fed decision as hold odds sit near 91 percent, Analytics Insight reports** — Analytics Insight reports Bitcoin trades near 79,769 dollars on October 27, down 0.1 percent in 24 hours with market capitalization near 1.60 trillion dollars and 24-hour volume of 26.80 billion dollars, as traders watch 79,000 dollars support ahead of Wednesday's Fed decision. Fed hold odds near 91 percent and oil above 110 dollars keep risk appetite measured, while Hyperliquid and Zcash lead gains near 3 percent. ([Analytics Insight](https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-slips-below-usd-80000-as-traders-await-fed-verdict))",
-      "content_html": "<p>- **Bitcoin trades near 79,769 dollars below 80,000 dollars ahead of the October 28 Fed decision as hold odds sit near 91 percent, Analytics Insight reports** — Analytics Insight reports Bitcoin trades near 79,769 dollars on October 27, down 0.1 percent in 24 hours with market capitalization near 1.60 trillion dollars and 24-hour volume of 26.80 billion dollars, as traders watch 79,000 dollars support ahead of Wednesday&#x27;s Fed decision. Fed hold odds near 91 percent and oil above 110 dollars keep risk appetite measured, while Hyperliquid and Zcash lead gains near 3 percent. ([Analytics Insight](https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-slips-below-usd-80000-as-traders-await-fed-verdict))</p>",
-      "date_published": "2026-10-27T05:30:00-04:00",
-      "date_modified": "2026-10-27T05:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-slips-below-usd-80000-as-traders-await-fed-verdict",
-      "links": [
-        "https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-slips-below-usd-80000-as-traders-await-fed-verdict"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:30 AM ET",
-      "body": "- **Bitcoin trades near 79,769 dollars below 80,000 dollars ahead of the October 28 Fed decision as hold odds sit near 91 percent, Analytics Insight reports** — Analytics Insight reports Bitcoin trades near 79,769 dollars on October 27, down 0.1 percent in 24 hours with market capitalization near 1.60 trillion dollars and 24-hour volume of 26.80 billion dollars, as traders watch 79,000 dollars support ahead of Wednesday's Fed decision. Fed hold odds near 91 percent and oil above 110 dollars keep risk appetite measured, while Hyperliquid and Zcash lead gains near 3 percent. ([Analytics Insight](https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-slips-below-usd-80000-as-traders-await-fed-verdict))",
-      "image_url": null,
-      "published": "2026-10-27T05:30:00-04:00",
-      "source": "2026-10-27_0530-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-27_0524-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0524-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nFrance declares state of emergency by December 31, 2026 priced at 9.5% on Polymarket, down 7.5 points, on $1.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nMalachi Toney win the Heisman Trophy priced at 19.0% on Kalshi, down 3.0 points, on $2.8M traded\nPredictionBubbles' movers board lists the Toney Heisman contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>France declares state of emergency by December 31, 2026 priced at 9.5% on Polymarket, down 7.5 points, on $1.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Malachi Toney win the Heisman Trophy priced at 19.0% on Kalshi, down 3.0 points, on $2.8M traded<br/>PredictionBubbles&#x27; movers board lists the Toney Heisman contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-27T05:24:00-04:00",
-      "date_modified": "2026-10-27T05:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC",
-        "Elections",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:24 AM ET",
-      "body": "Infiniti Briefing\n\nFrance declares state of emergency by December 31, 2026 priced at 9.5% on Polymarket, down 7.5 points, on $1.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nMalachi Toney win the Heisman Trophy priced at 19.0% on Kalshi, down 3.0 points, on $2.8M traded\nPredictionBubbles' movers board lists the Toney Heisman contract among its downward sports moves, in a sports markets category distinct from the lead. It has zero hits…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-27T05:24:00-04:00",
-      "source": "2026-10-27_0524-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-27_0509-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0509-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nSpider-Man: Brand New Day be the top grossing movie of 2026 priced at 83.5% on Polymarket, down 7.0 points, on $721K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDayana Yastremska wins priced at 68.0% on Kalshi, up 26.0 points, on $2.1M traded\nPredictionBubbles' movers board lists the Yastremska win contract among its largest upward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Spider-Man: Brand New Day be the top grossing movie of 2026 priced at 83.5% on Polymarket, down 7.0 points, on $721K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Dayana Yastremska wins priced at 68.0% on Kalshi, up 26.0 points, on $2.1M traded<br/>PredictionBubbles&#x27; movers board lists the Yastremska win contract among its largest upward sports moves, in a sports markets category distinct from the lead. It has zero…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-27T05:09:00-04:00",
-      "date_modified": "2026-10-27T05:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC",
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:09 AM ET",
-      "body": "Infiniti Briefing\n\nSpider-Man: Brand New Day be the top grossing movie of 2026 priced at 83.5% on Polymarket, down 7.0 points, on $721K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDayana Yastremska wins priced at 68.0% on Kalshi, up 26.0 points, on $2.1M traded\nPredictionBubbles' movers board lists the Yastremska win contract among its largest upward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-27T05:09:00-04:00",
-      "source": "2026-10-27_0509-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0500-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0500-edt-0",
-      "title": "Kalshi captured 72.4 percent of hard cash volume in third quarter with 37.3 billion dollars traded, TechFlowPost reports",
-      "content_text": "- **Kalshi captured 72.4 percent of hard cash volume in third quarter with 37.3 billion dollars traded, TechFlowPost reports** — TechFlowPost reports Kalshi captured 72.4 percent of total cash transaction volume across Kalshi and the two Polymarket platforms in the third quarter, with cash volume up 75.8 percent quarter over quarter to 37.3 billion dollars and 141.8 billion contracts traded. Polymarket International volume fell 30.1 percent to 8.1 billion dollars while Polymarket US rose 116.2 percent to 6.1 billion dollars. ([TechFlowPost](https://www.techflowpost.com/en-US/article/34892))",
-      "content_html": "<p>- **Kalshi captured 72.4 percent of hard cash volume in third quarter with 37.3 billion dollars traded, TechFlowPost reports** — TechFlowPost reports Kalshi captured 72.4 percent of total cash transaction volume across Kalshi and the two Polymarket platforms in the third quarter, with cash volume up 75.8 percent quarter over quarter to 37.3 billion dollars and 141.8 billion contracts traded. Polymarket International volume fell 30.1 percent to 8.1 billion dollars while Polymarket US rose 116.2 percent to 6.1 billion dollars. ([TechFlowPost](https://www.techflowpost.com/en-US/article/34892))</p>",
-      "date_published": "2026-10-27T05:00:00-04:00",
-      "date_modified": "2026-10-27T05:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.techflowpost.com/en-US/article/34892",
-      "links": [
-        "https://www.techflowpost.com/en-US/article/34892"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:00 AM ET",
-      "body": "- **Kalshi captured 72.4 percent of hard cash volume in third quarter with 37.3 billion dollars traded, TechFlowPost reports** — TechFlowPost reports Kalshi captured 72.4 percent of total cash transaction volume across Kalshi and the two Polymarket platforms in the third quarter, with cash volume up 75.8 percent quarter over quarter to 37.3 billion dollars and 141.8 billion contracts traded. Polymarket International volume fell 30.1 percent to 8.1 billion dollars while Polymarket US rose 116.2 percent to 6.1 billion dollars. ([TechFlowPost](https://www.techflowpost.com/en-US/article/34892))",
-      "image_url": null,
-      "published": "2026-10-27T05:00:00-04:00",
-      "source": "2026-10-27_0500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0500-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0500-edt-1",
-      "title": "Kalshi prices odds of a US Treasury Bitcoin purchase at 21 percent as Bitcoin October low contracts trade, COINOTAG reports",
-      "content_text": "- **Kalshi prices odds of a US Treasury Bitcoin purchase at 21 percent as Bitcoin October low contracts trade, COINOTAG reports** — COINOTAG reports Kalshi prices the odds of a US Treasury Bitcoin purchase at 21 percent, after Bitcoin slid to 79,146 dollars over the weekend before steadying near 79,800 dollars. Kalshi October low contracts price below 77,500 dollars near 44 percent on volume above 117,000 contracts and below 75,000 dollars near 16 percent. ([COINOTAG](https://en.coinotag.com/kalshi-21-percent-odds-us-treasury-buying-bitcoin-btc-2028))",
-      "content_html": "<p>- **Kalshi prices odds of a US Treasury Bitcoin purchase at 21 percent as Bitcoin October low contracts trade, COINOTAG reports** — COINOTAG reports Kalshi prices the odds of a US Treasury Bitcoin purchase at 21 percent, after Bitcoin slid to 79,146 dollars over the weekend before steadying near 79,800 dollars. Kalshi October low contracts price below 77,500 dollars near 44 percent on volume above 117,000 contracts and below 75,000 dollars near 16 percent. ([COINOTAG](https://en.coinotag.com/kalshi-21-percent-odds-us-treasury-buying-bitcoin-btc-2028))</p>",
-      "date_published": "2026-10-27T05:00:00-04:00",
-      "date_modified": "2026-10-27T05:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://en.coinotag.com/kalshi-21-percent-odds-us-treasury-buying-bitcoin-btc-2028",
-      "links": [
-        "https://en.coinotag.com/kalshi-21-percent-odds-us-treasury-buying-bitcoin-btc-2028"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:00 AM ET",
-      "body": "- **Kalshi prices odds of a US Treasury Bitcoin purchase at 21 percent as Bitcoin October low contracts trade, COINOTAG reports** — COINOTAG reports Kalshi prices the odds of a US Treasury Bitcoin purchase at 21 percent, after Bitcoin slid to 79,146 dollars over the weekend before steadying near 79,800 dollars. Kalshi October low contracts price below 77,500 dollars near 44 percent on volume above 117,000 contracts and below 75,000 dollars near 16 percent. ([COINOTAG](https://en.coinotag.com/kalshi-21-percent-odds-us-treasury-buying-bitcoin-btc-2028))",
-      "image_url": null,
-      "published": "2026-10-27T05:00:00-04:00",
-      "source": "2026-10-27_0500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0500-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0500-edt-2",
-      "title": "Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate in 2026 midterms, Delaware Online reports",
-      "content_text": "- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate in 2026 midterms, Delaware Online reports** — Delaware Online reports Polymarket traders price Democrats at 93 percent to win the House and 65 percent to win the Senate in the 2026 midterms, while Kalshi prices Democrats at 90 percent for the House and 64 percent for the Senate. Decision Desk HQ gives Democrats a 57 percent chance of Senate control, and the RealClearPolling generic ballot favors Democrats by 8.3 points. ([Delaware Online](https://www.delawareonline.com/story/news/2026/10/26/who-is-winning-2026-midterms-predictions-polls-odds-house-senate-when-is-midterm-election-date/92444265007/))",
-      "content_html": "<p>- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate in 2026 midterms, Delaware Online reports** — Delaware Online reports Polymarket traders price Democrats at 93 percent to win the House and 65 percent to win the Senate in the 2026 midterms, while Kalshi prices Democrats at 90 percent for the House and 64 percent for the Senate. Decision Desk HQ gives Democrats a 57 percent chance of Senate control, and the RealClearPolling generic ballot favors Democrats by 8.3 points. ([Delaware Online](https://www.delawareonline.com/story/news/2026/10/26/who-is-winning-2026-midterms-predictions-polls-odds-house-senate-when-is-midterm-election-date/92444265007/))</p>",
-      "date_published": "2026-10-27T05:00:00-04:00",
-      "date_modified": "2026-10-27T05:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.delawareonline.com/story/news/2026/10/26/who-is-winning-2026-midterms-predictions-polls-odds-house-senate-when-is-midterm-election-date/92444265007/",
-      "links": [
-        "https://www.delawareonline.com/story/news/2026/10/26/who-is-winning-2026-midterms-predictions-polls-odds-house-senate-when-is-midterm-election-date/92444265007/"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:00 AM ET",
-      "body": "- **Polymarket prices Democrats at 93 percent for the House and 65 percent for the Senate in 2026 midterms, Delaware Online reports** — Delaware Online reports Polymarket traders price Democrats at 93 percent to win the House and 65 percent to win the Senate in the 2026 midterms, while Kalshi prices Democrats at 90 percent for the House and 64 percent for the Senate. Decision Desk HQ gives Democrats a 57 percent chance of Senate control, and the RealClearPolling generic ballot favors Democrats by 8.3 points. ([Delaware Online](https://www.delawareonline.com/story/news/2026/10/26/who-is-winning-2026-midterms-predictions-polls-odds-house-senate-when-is-midterm-election-date/92444265007/))",
-      "image_url": null,
-      "published": "2026-10-27T05:00:00-04:00",
-      "source": "2026-10-27_0500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0500-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0500-edt-3",
-      "title": "NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports",
-      "content_text": "- **NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports** — BitRss reports Intercontinental Exchange, parent of the New York Stock Exchange, has injected another 600 million dollars into Polymarket, bringing its overall commitment to the platform to approaching 2 billion dollars. The report says Polymarket has purchased a regulated exchange and clearinghouse and formed partnerships with Palantir and TWG AI for trade monitoring. ([BitRss](https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738))",
-      "content_html": "<p>- **NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports** — BitRss reports Intercontinental Exchange, parent of the New York Stock Exchange, has injected another 600 million dollars into Polymarket, bringing its overall commitment to the platform to approaching 2 billion dollars. The report says Polymarket has purchased a regulated exchange and clearinghouse and formed partnerships with Palantir and TWG AI for trade monitoring. ([BitRss](https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738))</p>",
-      "date_published": "2026-10-27T05:00:00-04:00",
-      "date_modified": "2026-10-27T05:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738",
-      "links": [
-        "https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:00 AM ET",
-      "body": "- **NYSE parent Intercontinental Exchange injects another 600 million dollars into Polymarket, BitRss reports** — BitRss reports Intercontinental Exchange, parent of the New York Stock Exchange, has injected another 600 million dollars into Polymarket, bringing its overall commitment to the platform to approaching 2 billion dollars. The report says Polymarket has purchased a regulated exchange and clearinghouse and formed partnerships with Palantir and TWG AI for trade monitoring. ([BitRss](https://bitrss.com/nyse-parent-company-injects-another-600m-into-polymarket-amid-prediction-market-boom-196738))",
-      "image_url": null,
-      "published": "2026-10-27T05:00:00-04:00",
-      "source": "2026-10-27_0500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0500-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0500-edt-4",
-      "title": "Polymarket launches Polymarket Perps perpetual futures platform with up to 20x leverage, BitRss reports",
-      "content_text": "- **Polymarket launches Polymarket Perps perpetual futures platform with up to 20x leverage, BitRss reports** — BitRss reports Polymarket has launched Polymarket Perps, a perpetual futures service for cryptocurrencies and traditional financial assets with leverage up to 20x and no set expiration date. The platform supports nine assets including Bitcoin, Ethereum and Solana, gold, silver and WTI crude oil, the S and P 500 and Nasdaq 100 indices, and SpaceX shares. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))",
-      "content_html": "<p>- **Polymarket launches Polymarket Perps perpetual futures platform with up to 20x leverage, BitRss reports** — BitRss reports Polymarket has launched Polymarket Perps, a perpetual futures service for cryptocurrencies and traditional financial assets with leverage up to 20x and no set expiration date. The platform supports nine assets including Bitcoin, Ethereum and Solana, gold, silver and WTI crude oil, the S and P 500 and Nasdaq 100 indices, and SpaceX shares. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))</p>",
-      "date_published": "2026-10-27T05:00:00-04:00",
-      "date_modified": "2026-10-27T05:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin",
-        "Ethereum",
-        "Solana",
-        "Gold",
-        "Silver",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157",
-      "links": [
-        "https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157"
-      ],
-      "timestamp": "Oct 27, 2026 · 5:00 AM ET",
-      "body": "- **Polymarket launches Polymarket Perps perpetual futures platform with up to 20x leverage, BitRss reports** — BitRss reports Polymarket has launched Polymarket Perps, a perpetual futures service for cryptocurrencies and traditional financial assets with leverage up to 20x and no set expiration date. The platform supports nine assets including Bitcoin, Ethereum and Solana, gold, silver and WTI crude oil, the S and P 500 and Nasdaq 100 indices, and SpaceX shares. ([BitRss](https://bitrss.com/decentralized-prediction-market-platform-polymarket-announces-launch-of-20x-leveraged-futures-trading-platform-248157))",
-      "image_url": null,
-      "published": "2026-10-27T05:00:00-04:00",
-      "source": "2026-10-27_0500-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-27_0454-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0454-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by November 15, 2026 priced at 43.0% on Polymarket, up 6.5 points, on $71K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/tech/\n\nLee Jae-myung arrested before 2027 priced at 1.8% on Polymarket, down 3.4 points, on $602K traded\nPredictionBubbles' movers board lists the Lee Jae-myung arrest contract among its downward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Next Astra Model (6.1+) released by November 15, 2026 priced at 43.0% on Polymarket, up 6.5 points, on $71K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/tech/<br/><br/>Lee Jae-myung arrested before 2027 priced at 1.8% on Polymarket, down 3.4 points, on $602K traded<br/>PredictionBubbles&#x27; movers board lists the Lee Jae-myung arrest contract among its downward political moves, in a political/election category distinct from the lead. It…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-27T04:54:00-04:00",
-      "date_modified": "2026-10-27T04:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/tech/",
-      "links": [
-        "https://predictionbubbles.net/markets/tech/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 27, 2026 · 4:54 AM ET",
-      "body": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by November 15, 2026 priced at 43.0% on Polymarket, up 6.5 points, on $71K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/tech/\n\nLee Jae-myung arrested before 2027 priced at 1.8% on Polymarket, down 3.4 points, on $602K traded\nPredictionBubbles' movers board lists the Lee Jae-myung arrest contract among its downward political moves, in a political/election category distinct from the lead. It…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-27T04:54:00-04:00",
-      "source": "2026-10-27_0454-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_0445-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_0445-edt-0",
-      "title": "Likud files police complaint over Eisenkot campaign sharing Polymarket forecast showing Eisenkot at 52 percent, Prediction News reports",
-      "content_text": "- **Likud files police complaint over Eisenkot campaign sharing Polymarket forecast showing Eisenkot at 52 percent, Prediction News reports** — Prediction News reports Israel's Likud party filed a police complaint alleging Gadi Eisenkot's campaign manager violated election law by sharing a Polymarket forecast showing Eisenkot at 52 percent to become prime minister, ahead of Benjamin Netanyahu at 28 percent. The complaint tests whether prediction market odds count as regulated campaign speech, a classification Israeli authorities must now decide. ([Prediction News](https://predictionnews.com/story/polymarket-prices-eisenkot-at-52-netanyahu-at-28-for-israeli-pm))",
-      "content_html": "<p>- **Likud files police complaint over Eisenkot campaign sharing Polymarket forecast showing Eisenkot at 52 percent, Prediction News reports** — Prediction News reports Israel&#x27;s Likud party filed a police complaint alleging Gadi Eisenkot&#x27;s campaign manager violated election law by sharing a Polymarket forecast showing Eisenkot at 52 percent to become prime minister, ahead of Benjamin Netanyahu at 28 percent. The complaint tests whether prediction market odds count as regulated campaign speech, a classification Israeli authorities must now decide. ([Prediction News](https://predictionnews.com/story/polymarket-prices-eisenkot-at-52-netanyahu-at-28-for-israeli-pm))</p>",
-      "date_published": "2026-10-27T04:45:00-04:00",
-      "date_modified": "2026-10-27T04:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/polymarket-prices-eisenkot-at-52-netanyahu-at-28-for-israeli-pm",
-      "links": [
-        "https://predictionnews.com/story/polymarket-prices-eisenkot-at-52-netanyahu-at-28-for-israeli-pm"
-      ],
-      "timestamp": "Oct 27, 2026 · 4:45 AM ET",
-      "body": "- **Likud files police complaint over Eisenkot campaign sharing Polymarket forecast showing Eisenkot at 52 percent, Prediction News reports** — Prediction News reports Israel's Likud party filed a police complaint alleging Gadi Eisenkot's campaign manager violated election law by sharing a Polymarket forecast showing Eisenkot at 52 percent to become prime minister, ahead of Benjamin Netanyahu at 28 percent. The complaint tests whether prediction market odds count as regulated campaign speech, a classification Israeli authorities must now decide. ([Prediction News](https://predictionnews.com/story/polymarket-prices-eisenkot-at-52-netanyahu-at-28-for-israeli-pm))",
-      "image_url": null,
-      "published": "2026-10-27T04:45:00-04:00",
-      "source": "2026-10-27_0445-edt.json",
       "matches_facebook_post": false
     }
   ]
