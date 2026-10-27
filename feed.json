@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-27T03:26:23.650174-04:00",
+  "updated": "2026-10-27T03:41:31.288068-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-27_0339-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0339-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nPuffpaw FDV above $50M one day after launch priced at 22.5% on Polymarket, up 3.5 points, on $1.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 26, taken by website-only batches, or on the banned…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDarian Mensah win the Heisman Trophy priced at 24.0% on Kalshi, up 4.0 points, on $2.1M traded\nPredictionBubbles' movers board lists the Mensah Heisman contract among its upward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Puffpaw FDV above $50M one day after launch priced at 22.5% on Polymarket, up 3.5 points, on $1.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 26, taken by website-only batches, or on the banned…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Darian Mensah win the Heisman Trophy priced at 24.0% on Kalshi, up 4.0 points, on $2.1M traded<br/>PredictionBubbles&#x27; movers board lists the Mensah Heisman contract among its upward sports moves, in a sports markets category distinct from the lead. It has zero…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-27T03:39:00-04:00",
+      "date_modified": "2026-10-27T03:39:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 27, 2026 · 3:39 AM ET",
+      "body": "Infiniti Briefing\n\nPuffpaw FDV above $50M one day after launch priced at 22.5% on Polymarket, up 3.5 points, on $1.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 26, taken by website-only batches, or on the banned…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDarian Mensah win the Heisman Trophy priced at 24.0% on Kalshi, up 4.0 points, on $2.1M traded\nPredictionBubbles' movers board lists the Mensah Heisman contract among its upward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-27T03:39:00-04:00",
+      "source": "2026-10-27_0339-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-27_0324-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0324-edt",
@@ -4694,37 +4726,6 @@
       ],
       "timestamp": "Oct 26, 2026 · 8:00 PM ET",
       "body": "- **Bernstein expects Robinhood prediction market revenue to reach 1.7 billion dollars by 2028 and Coinbase prediction and derivatives revenue to reach about 2 billion dollars, TradingView reports** — Bernstein analysts cited by TradingView on Monday cut the Coinbase price target to 250 dollars from 330 dollars and cut its 2026 revenue forecast by about 32 percent to 5.5 billion dollars. The firm expects Robinhood event contract volume to jump 21 percent quarter over quarter to about 16.4 billion contracts, with prediction market revenue passing its projected crypto revenue by 2028. ([TradingView](https://www.tradingview.com/news/benzinga:f8dbac69f094b:0-coinbase-target-cut-to-250-robinhood-to-benefit-from-prediction-markets-bernstein/))",
-      "image_url": null,
-      "published": "2026-10-26T20:00:00-04:00",
-      "source": "2026-10-26_2000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-26_2000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-26_2000-edt-1",
-      "title": "NBA names Kalshi and Polymarket preferred prediction market exchanges and signs CFTC integrity deal, Cointelegraph reports",
-      "content_text": "- **NBA names Kalshi and Polymarket preferred prediction market exchanges and signs CFTC integrity deal, Cointelegraph reports** — Cointelegraph reported the NBA on October 26 named Kalshi and Polymarket its preferred prediction market exchanges, giving both access to official league data from Sportradar and United States marketing rights. The league also signed a memorandum of understanding with the CFTC, with agreements limiting permitted markets, barring league and team personnel from trading NBA contracts, and requiring information sharing on suspicious trading. ([Cointelegraph](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal))",
-      "content_html": "<p>- **NBA names Kalshi and Polymarket preferred prediction market exchanges and signs CFTC integrity deal, Cointelegraph reports** — Cointelegraph reported the NBA on October 26 named Kalshi and Polymarket its preferred prediction market exchanges, giving both access to official league data from Sportradar and United States marketing rights. The league also signed a memorandum of understanding with the CFTC, with agreements limiting permitted markets, barring league and team personnel from trading NBA contracts, and requiring information sharing on suspicious trading. ([Cointelegraph](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal))</p>",
-      "date_published": "2026-10-26T20:00:00-04:00",
-      "date_modified": "2026-10-26T20:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
-      "links": [
-        "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal"
-      ],
-      "timestamp": "Oct 26, 2026 · 8:00 PM ET",
-      "body": "- **NBA names Kalshi and Polymarket preferred prediction market exchanges and signs CFTC integrity deal, Cointelegraph reports** — Cointelegraph reported the NBA on October 26 named Kalshi and Polymarket its preferred prediction market exchanges, giving both access to official league data from Sportradar and United States marketing rights. The league also signed a memorandum of understanding with the CFTC, with agreements limiting permitted markets, barring league and team personnel from trading NBA contracts, and requiring information sharing on suspicious trading. ([Cointelegraph](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal))",
       "image_url": null,
       "published": "2026-10-26T20:00:00-04:00",
       "source": "2026-10-26_2000-edt.json",
