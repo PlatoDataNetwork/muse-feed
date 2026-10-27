@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-27T16:57:41.072804-04:00",
+  "updated": "2026-10-27T17:12:36.713301-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,161 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-27_1709-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_1709-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nTim Walz leave the governorship of Minnesota before 2027 priced at 7.7% on Kalshi, up 2.7 points, on $1.3M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nComo wins priced at 26.0% on Kalshi, down 31.0 points, on $1.6M traded\nPredictionBubbles' movers board lists the Como contract as one of its largest downward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Tim Walz leave the governorship of Minnesota before 2027 priced at 7.7% on Kalshi, up 2.7 points, on $1.3M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Como wins priced at 26.0% on Kalshi, down 31.0 points, on $1.6M traded<br/>PredictionBubbles&#x27; movers board lists the Como contract as one of its largest downward sports moves, in a sports markets category distinct from the lead. It has zero…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-27T17:09:00-04:00",
+      "date_modified": "2026-10-27T17:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 27, 2026 · 5:09 PM ET",
+      "body": "Infiniti Briefing\n\nTim Walz leave the governorship of Minnesota before 2027 priced at 7.7% on Kalshi, up 2.7 points, on $1.3M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nComo wins priced at 26.0% on Kalshi, down 31.0 points, on $1.6M traded\nPredictionBubbles' movers board lists the Como contract as one of its largest downward sports moves, in a sports markets category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-27T17:09:00-04:00",
+      "source": "2026-10-27_1709-edt.md",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1700-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1700-edt-0",
+      "title": "Polymarket adds five-minute crypto contracts to its US app for Bitcoin, Ethereum, Solana and XRP, The Defiant reports",
+      "content_text": "- **Polymarket adds five-minute crypto contracts to its US app for Bitcoin, Ethereum, Solana and XRP, The Defiant reports** — Polymarket US has added five-minute crypto contracts covering Bitcoin, Ethereum, Solana and XRP, priced off CF Benchmarks with ties settling Up and taker fees charged separately. The window is shorter than Kalshi's 15-minute crypto markets. ([The Defiant](https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app))",
+      "content_html": "<p>- **Polymarket adds five-minute crypto contracts to its US app for Bitcoin, Ethereum, Solana and XRP, The Defiant reports** — Polymarket US has added five-minute crypto contracts covering Bitcoin, Ethereum, Solana and XRP, priced off CF Benchmarks with ties settling Up and taker fees charged separately. The window is shorter than Kalshi&#x27;s 15-minute crypto markets. ([The Defiant](https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app))</p>",
+      "date_published": "2026-10-27T17:00:00-04:00",
+      "date_modified": "2026-10-27T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": "https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app",
+      "links": [
+        "https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app"
+      ],
+      "timestamp": "Oct 27, 2026 · 5:00 PM ET",
+      "body": "- **Polymarket adds five-minute crypto contracts to its US app for Bitcoin, Ethereum, Solana and XRP, The Defiant reports** — Polymarket US has added five-minute crypto contracts covering Bitcoin, Ethereum, Solana and XRP, priced off CF Benchmarks with ties settling Up and taker fees charged separately. The window is shorter than Kalshi's 15-minute crypto markets. ([The Defiant](https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app))",
+      "image_url": null,
+      "published": "2026-10-27T17:00:00-04:00",
+      "source": "2026-10-27_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1700-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1700-edt-1",
+      "title": "CFTC enforcement official Miller warns on prediction market insider trading and says offshore trading is not outside CFTC jurisdiction, RG reports",
+      "content_text": "- **CFTC enforcement official Miller warns on prediction market insider trading and says offshore trading is not outside CFTC jurisdiction, RG reports** — The CFTC's Miller said the agency has robust surveillance capability ahead of the midterms and warned that trading on an offshore platform does not automatically put a trader outside CFTC jurisdiction. He listed insider trading, including in prediction markets, first among five enforcement priorities set out in a March 31 speech. ([RG](https://rg.org/news/prediction-markets/cftc-david-miller-prediction-market-insider-trading-enforcement))",
+      "content_html": "<p>- **CFTC enforcement official Miller warns on prediction market insider trading and says offshore trading is not outside CFTC jurisdiction, RG reports** — The CFTC&#x27;s Miller said the agency has robust surveillance capability ahead of the midterms and warned that trading on an offshore platform does not automatically put a trader outside CFTC jurisdiction. He listed insider trading, including in prediction markets, first among five enforcement priorities set out in a March 31 speech. ([RG](https://rg.org/news/prediction-markets/cftc-david-miller-prediction-market-insider-trading-enforcement))</p>",
+      "date_published": "2026-10-27T17:00:00-04:00",
+      "date_modified": "2026-10-27T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://rg.org/news/prediction-markets/cftc-david-miller-prediction-market-insider-trading-enforcement",
+      "links": [
+        "https://rg.org/news/prediction-markets/cftc-david-miller-prediction-market-insider-trading-enforcement"
+      ],
+      "timestamp": "Oct 27, 2026 · 5:00 PM ET",
+      "body": "- **CFTC enforcement official Miller warns on prediction market insider trading and says offshore trading is not outside CFTC jurisdiction, RG reports** — The CFTC's Miller said the agency has robust surveillance capability ahead of the midterms and warned that trading on an offshore platform does not automatically put a trader outside CFTC jurisdiction. He listed insider trading, including in prediction markets, first among five enforcement priorities set out in a March 31 speech. ([RG](https://rg.org/news/prediction-markets/cftc-david-miller-prediction-market-insider-trading-enforcement))",
+      "image_url": null,
+      "published": "2026-10-27T17:00:00-04:00",
+      "source": "2026-10-27_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1700-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1700-edt-2",
+      "title": "Prediction market executives expect financial and crypto contracts to outgrow sports, which now drive about 80 percent of volume, Covers reports",
+      "content_text": "- **Prediction market executives expect financial and crypto contracts to outgrow sports, which now drive about 80 percent of volume, Covers reports** — Executives at a New York industry gathering said sports account for roughly 80 percent of trading volume but financial, crypto and other contract types are expected to grow faster. DraftKings and Robinhood are developing election hubs and simpler products to attract customers beyond sports. ([Covers](https://www.covers.com/industry/sports-dominate-prediction-markets-executives-future-beyond-october-26-2026))",
+      "content_html": "<p>- **Prediction market executives expect financial and crypto contracts to outgrow sports, which now drive about 80 percent of volume, Covers reports** — Executives at a New York industry gathering said sports account for roughly 80 percent of trading volume but financial, crypto and other contract types are expected to grow faster. DraftKings and Robinhood are developing election hubs and simpler products to attract customers beyond sports. ([Covers](https://www.covers.com/industry/sports-dominate-prediction-markets-executives-future-beyond-october-26-2026))</p>",
+      "date_published": "2026-10-27T17:00:00-04:00",
+      "date_modified": "2026-10-27T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "DraftKings",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/industry/sports-dominate-prediction-markets-executives-future-beyond-october-26-2026",
+      "links": [
+        "https://www.covers.com/industry/sports-dominate-prediction-markets-executives-future-beyond-october-26-2026"
+      ],
+      "timestamp": "Oct 27, 2026 · 5:00 PM ET",
+      "body": "- **Prediction market executives expect financial and crypto contracts to outgrow sports, which now drive about 80 percent of volume, Covers reports** — Executives at a New York industry gathering said sports account for roughly 80 percent of trading volume but financial, crypto and other contract types are expected to grow faster. DraftKings and Robinhood are developing election hubs and simpler products to attract customers beyond sports. ([Covers](https://www.covers.com/industry/sports-dominate-prediction-markets-executives-future-beyond-october-26-2026))",
+      "image_url": null,
+      "published": "2026-10-27T17:00:00-04:00",
+      "source": "2026-10-27_1700-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-27_1700-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1700-edt-3",
+      "title": "Bitcoin slips under 80,000 dollars on the eve of the Fed decision as traders price an unchanged rate at about 90.6 percent, Publish0x reports",
+      "content_text": "- **Bitcoin slips under 80,000 dollars on the eve of the Fed decision as traders price an unchanged rate at about 90.6 percent, Publish0x reports** — Bitcoin fell as low as 79,146 dollars on Saturday, its weakest in more than a month, and traded near 79,769 dollars on Tuesday morning ahead of the Federal Reserve's October 28 decision. Spot Bitcoin ETFs took in 110.34 million dollars, ending a two-day outflow streak, while Ethereum, XRP and Solana ETFs recorded net outflows. ([Publish0x](https://www.publish0x.com/abc-of-cryptocurrencies/bitcoin-slips-under-80-dollars-000-cents-on-the-eve-of-the-f-xxrppxm))",
+      "content_html": "<p>- **Bitcoin slips under 80,000 dollars on the eve of the Fed decision as traders price an unchanged rate at about 90.6 percent, Publish0x reports** — Bitcoin fell as low as 79,146 dollars on Saturday, its weakest in more than a month, and traded near 79,769 dollars on Tuesday morning ahead of the Federal Reserve&#x27;s October 28 decision. Spot Bitcoin ETFs took in 110.34 million dollars, ending a two-day outflow streak, while Ethereum, XRP and Solana ETFs recorded net outflows. ([Publish0x](https://www.publish0x.com/abc-of-cryptocurrencies/bitcoin-slips-under-80-dollars-000-cents-on-the-eve-of-the-f-xxrppxm))</p>",
+      "date_published": "2026-10-27T17:00:00-04:00",
+      "date_modified": "2026-10-27T17:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": "https://www.publish0x.com/abc-of-cryptocurrencies/bitcoin-slips-under-80-dollars-000-cents-on-the-eve-of-the-f-xxrppxm",
+      "links": [
+        "https://www.publish0x.com/abc-of-cryptocurrencies/bitcoin-slips-under-80-dollars-000-cents-on-the-eve-of-the-f-xxrppxm"
+      ],
+      "timestamp": "Oct 27, 2026 · 5:00 PM ET",
+      "body": "- **Bitcoin slips under 80,000 dollars on the eve of the Fed decision as traders price an unchanged rate at about 90.6 percent, Publish0x reports** — Bitcoin fell as low as 79,146 dollars on Saturday, its weakest in more than a month, and traded near 79,769 dollars on Tuesday morning ahead of the Federal Reserve's October 28 decision. Spot Bitcoin ETFs took in 110.34 million dollars, ending a two-day outflow streak, while Ethereum, XRP and Solana ETFs recorded net outflows. ([Publish0x](https://www.publish0x.com/abc-of-cryptocurrencies/bitcoin-slips-under-80-dollars-000-cents-on-the-eve-of-the-f-xxrppxm))",
+      "image_url": null,
+      "published": "2026-10-27T17:00:00-04:00",
+      "source": "2026-10-27_1700-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-27_1654-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_1654-edt",
@@ -4516,158 +4671,6 @@
       "image_url": null,
       "published": "2026-10-27T10:00:00-04:00",
       "source": "2026-10-27_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_1000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1000-edt-1",
-      "title": "Kalshi captured 72.4 percent of prediction market cash volume in Q3 at 37.3 billion dollars, Alea Research reports via TechFlow",
-      "content_text": "- **Kalshi captured 72.4 percent of prediction market cash volume in Q3 at 37.3 billion dollars, Alea Research reports via TechFlow** — Alea Research estimates Kalshi recorded 37.3 billion dollars in cash trading volume in Q3 2026, up 75.8 percent quarter over quarter, for a 72.4 percent share across Kalshi, Polymarket International and Polymarket US combined. Polymarket International fell 30.1 percent to 8.1 billion dollars while Polymarket US rose 116.2 percent to 6.1 billion dollars, with combo contracts rising to 58.3 percent of Kalshi contract volume in September. ([TechFlow](https://www.techflowpost.com/en-US/article/34892))",
-      "content_html": "<p>- **Kalshi captured 72.4 percent of prediction market cash volume in Q3 at 37.3 billion dollars, Alea Research reports via TechFlow** — Alea Research estimates Kalshi recorded 37.3 billion dollars in cash trading volume in Q3 2026, up 75.8 percent quarter over quarter, for a 72.4 percent share across Kalshi, Polymarket International and Polymarket US combined. Polymarket International fell 30.1 percent to 8.1 billion dollars while Polymarket US rose 116.2 percent to 6.1 billion dollars, with combo contracts rising to 58.3 percent of Kalshi contract volume in September. ([TechFlow](https://www.techflowpost.com/en-US/article/34892))</p>",
-      "date_published": "2026-10-27T10:00:00-04:00",
-      "date_modified": "2026-10-27T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.techflowpost.com/en-US/article/34892",
-      "links": [
-        "https://www.techflowpost.com/en-US/article/34892"
-      ],
-      "timestamp": "Oct 27, 2026 · 10:00 AM ET",
-      "body": "- **Kalshi captured 72.4 percent of prediction market cash volume in Q3 at 37.3 billion dollars, Alea Research reports via TechFlow** — Alea Research estimates Kalshi recorded 37.3 billion dollars in cash trading volume in Q3 2026, up 75.8 percent quarter over quarter, for a 72.4 percent share across Kalshi, Polymarket International and Polymarket US combined. Polymarket International fell 30.1 percent to 8.1 billion dollars while Polymarket US rose 116.2 percent to 6.1 billion dollars, with combo contracts rising to 58.3 percent of Kalshi contract volume in September. ([TechFlow](https://www.techflowpost.com/en-US/article/34892))",
-      "image_url": null,
-      "published": "2026-10-27T10:00:00-04:00",
-      "source": "2026-10-27_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_1000-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1000-edt-2",
-      "title": "US users drove 11 billion to 34 billion dollars in offshore prediction market volume, Crane Zeng report via BitRss reports",
-      "content_text": "- **US users drove 11 billion to 34 billion dollars in offshore prediction market volume, Crane Zeng report via BitRss reports** — A Crane Zeng report estimates US users drove between 11 billion and 34 billion dollars in offshore prediction market volume, with Polymarket alone accounting for up to 27 billion dollars in estimated US-linked activity. The report says the offshore share of total volume fell from 84.4 percent in 2024 to 60.9 percent in 2025 as regulated venues grew, with Kalshi processing about 70 billion dollars of 74 billion dollars in regulated volume. ([BitRss](https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277))",
-      "content_html": "<p>- **US users drove 11 billion to 34 billion dollars in offshore prediction market volume, Crane Zeng report via BitRss reports** — A Crane Zeng report estimates US users drove between 11 billion and 34 billion dollars in offshore prediction market volume, with Polymarket alone accounting for up to 27 billion dollars in estimated US-linked activity. The report says the offshore share of total volume fell from 84.4 percent in 2024 to 60.9 percent in 2025 as regulated venues grew, with Kalshi processing about 70 billion dollars of 74 billion dollars in regulated volume. ([BitRss](https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277))</p>",
-      "date_published": "2026-10-27T10:00:00-04:00",
-      "date_modified": "2026-10-27T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277",
-      "links": [
-        "https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277"
-      ],
-      "timestamp": "Oct 27, 2026 · 10:00 AM ET",
-      "body": "- **US users drove 11 billion to 34 billion dollars in offshore prediction market volume, Crane Zeng report via BitRss reports** — A Crane Zeng report estimates US users drove between 11 billion and 34 billion dollars in offshore prediction market volume, with Polymarket alone accounting for up to 27 billion dollars in estimated US-linked activity. The report says the offshore share of total volume fell from 84.4 percent in 2024 to 60.9 percent in 2025 as regulated venues grew, with Kalshi processing about 70 billion dollars of 74 billion dollars in regulated volume. ([BitRss](https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277))",
-      "image_url": null,
-      "published": "2026-10-27T10:00:00-04:00",
-      "source": "2026-10-27_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_1000-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1000-edt-3",
-      "title": "Polymarket Fed decision contract tops 74 million dollars bet with 94 percent pricing no change in October, Benzinga reports via TradingView",
-      "content_text": "- **Polymarket Fed decision contract tops 74 million dollars bet with 94 percent pricing no change in October, Benzinga reports via TradingView** — Benzinga reports more than 74 million dollars has been bet on Polymarket's Fed Decision in October contract, with bettors pricing a 94 percent probability of no change in interest rates and a 7 percent probability of a 25 basis point increase. CME FedWatch pricing cited in the report puts the likelihood of a hold at 89.5 percent ahead of the Wednesday decision. ([TradingView](https://www.tradingview.com/news/benzinga:f242cb63f094b:0-kevin-warsh-led-fed-faces-inflation-test-ahead-of-midterms-as-stephen-moore-calls-for-another-hike-crypto-bettors-weigh-in/))",
-      "content_html": "<p>- **Polymarket Fed decision contract tops 74 million dollars bet with 94 percent pricing no change in October, Benzinga reports via TradingView** — Benzinga reports more than 74 million dollars has been bet on Polymarket&#x27;s Fed Decision in October contract, with bettors pricing a 94 percent probability of no change in interest rates and a 7 percent probability of a 25 basis point increase. CME FedWatch pricing cited in the report puts the likelihood of a hold at 89.5 percent ahead of the Wednesday decision. ([TradingView](https://www.tradingview.com/news/benzinga:f242cb63f094b:0-kevin-warsh-led-fed-faces-inflation-test-ahead-of-midterms-as-stephen-moore-calls-for-another-hike-crypto-bettors-weigh-in/))</p>",
-      "date_published": "2026-10-27T10:00:00-04:00",
-      "date_modified": "2026-10-27T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.tradingview.com/news/benzinga:f242cb63f094b:0-kevin-warsh-led-fed-faces-inflation-test-ahead-of-midterms-as-stephen-moore-calls-for-another-hike-crypto-bettors-weigh-in/",
-      "links": [
-        "https://www.tradingview.com/news/benzinga:f242cb63f094b:0-kevin-warsh-led-fed-faces-inflation-test-ahead-of-midterms-as-stephen-moore-calls-for-another-hike-crypto-bettors-weigh-in/"
-      ],
-      "timestamp": "Oct 27, 2026 · 10:00 AM ET",
-      "body": "- **Polymarket Fed decision contract tops 74 million dollars bet with 94 percent pricing no change in October, Benzinga reports via TradingView** — Benzinga reports more than 74 million dollars has been bet on Polymarket's Fed Decision in October contract, with bettors pricing a 94 percent probability of no change in interest rates and a 7 percent probability of a 25 basis point increase. CME FedWatch pricing cited in the report puts the likelihood of a hold at 89.5 percent ahead of the Wednesday decision. ([TradingView](https://www.tradingview.com/news/benzinga:f242cb63f094b:0-kevin-warsh-led-fed-faces-inflation-test-ahead-of-midterms-as-stephen-moore-calls-for-another-hike-crypto-bettors-weigh-in/))",
-      "image_url": null,
-      "published": "2026-10-27T10:00:00-04:00",
-      "source": "2026-10-27_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_1000-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1000-edt-4",
-      "title": "Crypto contracts trade 194 million dollars in 24 hours as 15-minute Bitcoin markets settle 96 times a day, DeFi Rate reports",
-      "content_text": "- **Crypto contracts trade 194 million dollars in 24 hours as 15-minute Bitcoin markets settle 96 times a day, DeFi Rate reports** — DeFi Rate reports 194 million dollars of crypto contracts traded in 24 hours, with crypto accounting for 19 percent of all prediction market trading and most of it in 15-minute markets. Its live board observed October 27 at 9:58 a.m. ET lists Bitcoin finishing up in 49 percent of its last 1,286 Kalshi 15-minute windows, with each venue setting its own target and settling on CF Benchmarks indexes. ([DeFi Rate](https://defirate.com/odds/crypto/))",
-      "content_html": "<p>- **Crypto contracts trade 194 million dollars in 24 hours as 15-minute Bitcoin markets settle 96 times a day, DeFi Rate reports** — DeFi Rate reports 194 million dollars of crypto contracts traded in 24 hours, with crypto accounting for 19 percent of all prediction market trading and most of it in 15-minute markets. Its live board observed October 27 at 9:58 a.m. ET lists Bitcoin finishing up in 49 percent of its last 1,286 Kalshi 15-minute windows, with each venue setting its own target and settling on CF Benchmarks indexes. ([DeFi Rate](https://defirate.com/odds/crypto/))</p>",
-      "date_published": "2026-10-27T10:00:00-04:00",
-      "date_modified": "2026-10-27T10:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/crypto/",
-      "links": [
-        "https://defirate.com/odds/crypto/"
-      ],
-      "timestamp": "Oct 27, 2026 · 10:00 AM ET",
-      "body": "- **Crypto contracts trade 194 million dollars in 24 hours as 15-minute Bitcoin markets settle 96 times a day, DeFi Rate reports** — DeFi Rate reports 194 million dollars of crypto contracts traded in 24 hours, with crypto accounting for 19 percent of all prediction market trading and most of it in 15-minute markets. Its live board observed October 27 at 9:58 a.m. ET lists Bitcoin finishing up in 49 percent of its last 1,286 Kalshi 15-minute windows, with each venue setting its own target and settling on CF Benchmarks indexes. ([DeFi Rate](https://defirate.com/odds/crypto/))",
-      "image_url": null,
-      "published": "2026-10-27T10:00:00-04:00",
-      "source": "2026-10-27_1000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-27_0954-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_0954-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nMilitary action against Saudi Oil Pipeline (East-West) by November 30 priced at 55.5% on Polymarket, down 3.5 points, on $200K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Oil\nhttps://predictionbubbles.net/markets/movers/\n\nIsrael x Iran ceasefire continues through December 31 priced at 41.0% on Polymarket, up 3.5 points, on $1.3M traded\nPredictionBubbles' movers board lists the December 31 Israel-Iran ceasefire contract among its upward political moves, in a political/election category alongside the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Military action against Saudi Oil Pipeline (East-West) by November 30 priced at 55.5% on Polymarket, down 3.5 points, on $200K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Oil<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Israel x Iran ceasefire continues through December 31 priced at 41.0% on Polymarket, up 3.5 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board lists the December 31 Israel-Iran ceasefire contract among its upward political moves, in a political/election category alongside the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-27T09:54:00-04:00",
-      "date_modified": "2026-10-27T09:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC",
-        "Oil",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 27, 2026 · 9:54 AM ET",
-      "body": "Infiniti Briefing\n\nMilitary action against Saudi Oil Pipeline (East-West) by November 30 priced at 55.5% on Polymarket, down 3.5 points, on $200K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Oil\nhttps://predictionbubbles.net/markets/movers/\n\nIsrael x Iran ceasefire continues through December 31 priced at 41.0% on Polymarket, up 3.5 points, on $1.3M traded\nPredictionBubbles' movers board lists the December 31 Israel-Iran ceasefire contract among its upward political moves, in a political/election category alongside the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-27T09:54:00-04:00",
-      "source": "2026-10-27_0954-edt.md",
       "matches_facebook_post": false
     }
   ]
