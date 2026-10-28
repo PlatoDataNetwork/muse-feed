@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-28T13:45:43.741646-04:00",
+  "updated": "2026-10-28T13:58:34.626672-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-28_1354-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_1354-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nUS imports Russian diesel by November 30 priced at 83.5% on Polymarket, down 3.5 points, on $178K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nInk FDV above $100M one day after launch priced at 22.5% on Polymarket, up 3.5 points, on $188K traded\nPredictionBubbles' movers board, fresh on its Oct. 28, 17:40 UTC crawl, lists the Ink $100M launch-valuation contract among its upward crypto moves, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>US imports Russian diesel by November 30 priced at 83.5% on Polymarket, down 3.5 points, on $178K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Ink FDV above $100M one day after launch priced at 22.5% on Polymarket, up 3.5 points, on $188K traded<br/>PredictionBubbles&#x27; movers board, fresh on its Oct. 28, 17:40 UTC crawl, lists the Ink $100M launch-valuation contract among its upward crypto moves, in a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-28T13:54:00-04:00",
+      "date_modified": "2026-10-28T13:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 28, 2026 · 1:54 PM ET",
+      "body": "Infiniti Briefing\n\nUS imports Russian diesel by November 30 priced at 83.5% on Polymarket, down 3.5 points, on $178K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nInk FDV above $100M one day after launch priced at 22.5% on Polymarket, up 3.5 points, on $188K traded\nPredictionBubbles' movers board, fresh on its Oct. 28, 17:40 UTC crawl, lists the Ink $100M launch-valuation contract among its upward crypto moves, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-28T13:54:00-04:00",
+      "source": "2026-10-28_1354-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-28_1345-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1345-edt-0",
@@ -4653,35 +4685,6 @@
       "image_url": null,
       "published": "2026-10-28T06:09:00-04:00",
       "source": "2026-10-28_0609-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_0600-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0600-edt-0",
-      "title": "S&P Dow Jones Indices names Kalshi its preferred prediction market platform in licensing deal, AlphaMaven reports",
-      "content_text": "- **S&P Dow Jones Indices names Kalshi its preferred prediction market platform in licensing deal, AlphaMaven reports** — AlphaMaven reports S&P Dow Jones Indices announced on Oct. 27 a licensing deal making Kalshi its preferred prediction market platform and S&P DJI a preferred provider for indices built from Kalshi event contract data. Forthcoming Kalshi contracts tied to S&P DJI indices will settle against official index values, and the collaboration could produce indices on economics, politics and sports. ([AlphaMaven](https://alpha-maven.com/story/venture-capital/sampp-dji-announces-partnership-with-kalshi-for-benchmark-indices-defi-rate))",
-      "content_html": "<p>- **S&amp;P Dow Jones Indices names Kalshi its preferred prediction market platform in licensing deal, AlphaMaven reports** — AlphaMaven reports S&amp;P Dow Jones Indices announced on Oct. 27 a licensing deal making Kalshi its preferred prediction market platform and S&amp;P DJI a preferred provider for indices built from Kalshi event contract data. Forthcoming Kalshi contracts tied to S&amp;P DJI indices will settle against official index values, and the collaboration could produce indices on economics, politics and sports. ([AlphaMaven](https://alpha-maven.com/story/venture-capital/sampp-dji-announces-partnership-with-kalshi-for-benchmark-indices-defi-rate))</p>",
-      "date_published": "2026-10-28T06:00:00-04:00",
-      "date_modified": "2026-10-28T06:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://alpha-maven.com/story/venture-capital/sampp-dji-announces-partnership-with-kalshi-for-benchmark-indices-defi-rate",
-      "links": [
-        "https://alpha-maven.com/story/venture-capital/sampp-dji-announces-partnership-with-kalshi-for-benchmark-indices-defi-rate"
-      ],
-      "timestamp": "Oct 28, 2026 · 6:00 AM ET",
-      "body": "- **S&P Dow Jones Indices names Kalshi its preferred prediction market platform in licensing deal, AlphaMaven reports** — AlphaMaven reports S&P Dow Jones Indices announced on Oct. 27 a licensing deal making Kalshi its preferred prediction market platform and S&P DJI a preferred provider for indices built from Kalshi event contract data. Forthcoming Kalshi contracts tied to S&P DJI indices will settle against official index values, and the collaboration could produce indices on economics, politics and sports. ([AlphaMaven](https://alpha-maven.com/story/venture-capital/sampp-dji-announces-partnership-with-kalshi-for-benchmark-indices-defi-rate))",
-      "image_url": null,
-      "published": "2026-10-28T06:00:00-04:00",
-      "source": "2026-10-28_0600-edt.json",
       "matches_facebook_post": false
     }
   ]
