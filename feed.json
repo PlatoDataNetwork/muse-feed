@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-28T06:01:38.063651-04:00",
+  "updated": "2026-10-28T06:18:26.039026-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,188 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-28_0615-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0615-edt-0",
+      "title": "Nearly 6 million dollars wagered since February on Justice Alito retirement on Kalshi and Polymarket, ABA Journal reports",
+      "content_text": "- **Nearly 6 million dollars wagered since February on Justice Alito retirement on Kalshi and Polymarket, ABA Journal reports** — Betting on whether Justice Samuel Alito will retire increased in October despite his assurances he has no plans to step down imminently. The Supreme Court is also considering petitions on whether states or federal regulators oversee prediction market exchanges. ([ABA Journal](http://www.abajournal.com/news/article/supreme-court-tangled-up-in-prediction-markets))",
+      "content_html": "<p>- **Nearly 6 million dollars wagered since February on Justice Alito retirement on Kalshi and Polymarket, ABA Journal reports** — Betting on whether Justice Samuel Alito will retire increased in October despite his assurances he has no plans to step down imminently. The Supreme Court is also considering petitions on whether states or federal regulators oversee prediction market exchanges. ([ABA Journal](http://www.abajournal.com/news/article/supreme-court-tangled-up-in-prediction-markets))</p>",
+      "date_published": "2026-10-28T06:15:00-04:00",
+      "date_modified": "2026-10-28T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "http://www.abajournal.com/news/article/supreme-court-tangled-up-in-prediction-markets",
+      "links": [
+        "http://www.abajournal.com/news/article/supreme-court-tangled-up-in-prediction-markets"
+      ],
+      "timestamp": "Oct 28, 2026 · 6:15 AM ET",
+      "body": "- **Nearly 6 million dollars wagered since February on Justice Alito retirement on Kalshi and Polymarket, ABA Journal reports** — Betting on whether Justice Samuel Alito will retire increased in October despite his assurances he has no plans to step down imminently. The Supreme Court is also considering petitions on whether states or federal regulators oversee prediction market exchanges. ([ABA Journal](http://www.abajournal.com/news/article/supreme-court-tangled-up-in-prediction-markets))",
+      "image_url": null,
+      "published": "2026-10-28T06:15:00-04:00",
+      "source": "2026-10-28_0615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0615-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0615-edt-1",
+      "title": "Kalshi prices Talarico at 66 percent in Texas Senate race against Paxton at 34 percent on 44.3 million contracts traded, KalshiView reports",
+      "content_text": "- **Kalshi prices Talarico at 66 percent in Texas Senate race against Paxton at 34 percent on 44.3 million contracts traded, KalshiView reports** — James Talarico leads Ken Paxton in Kalshi's Texas Senate winner market as of October 27, with 44.3 million contracts traded including 1.6 million in the last 24 hours. Paxton fell 1 point in that snapshot. ([KalshiView](https://kalshiview.com/markets/texas-senate-winner/))",
+      "content_html": "<p>- **Kalshi prices Talarico at 66 percent in Texas Senate race against Paxton at 34 percent on 44.3 million contracts traded, KalshiView reports** — James Talarico leads Ken Paxton in Kalshi&#x27;s Texas Senate winner market as of October 27, with 44.3 million contracts traded including 1.6 million in the last 24 hours. Paxton fell 1 point in that snapshot. ([KalshiView](https://kalshiview.com/markets/texas-senate-winner/))</p>",
+      "date_published": "2026-10-28T06:15:00-04:00",
+      "date_modified": "2026-10-28T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://kalshiview.com/markets/texas-senate-winner/",
+      "links": [
+        "https://kalshiview.com/markets/texas-senate-winner/"
+      ],
+      "timestamp": "Oct 28, 2026 · 6:15 AM ET",
+      "body": "- **Kalshi prices Talarico at 66 percent in Texas Senate race against Paxton at 34 percent on 44.3 million contracts traded, KalshiView reports** — James Talarico leads Ken Paxton in Kalshi's Texas Senate winner market as of October 27, with 44.3 million contracts traded including 1.6 million in the last 24 hours. Paxton fell 1 point in that snapshot. ([KalshiView](https://kalshiview.com/markets/texas-senate-winner/))",
+      "image_url": null,
+      "published": "2026-10-28T06:15:00-04:00",
+      "source": "2026-10-28_0615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0615-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0615-edt-2",
+      "title": "Polymarket stops Michigan users from opening new sports prediction positions, BBX reports",
+      "content_text": "- **Polymarket stops Michigan users from opening new sports prediction positions, BBX reports** — Polymarket has blocked Michigan users from opening new sports positions, following restrictions imposed in the state on Kalshi, Robinhood and Coinbase. The move was reported October 27 as state restrictions on sports event contracts spread. ([BBX](https://bbx.com/news-detail/3153739))",
+      "content_html": "<p>- **Polymarket stops Michigan users from opening new sports prediction positions, BBX reports** — Polymarket has blocked Michigan users from opening new sports positions, following restrictions imposed in the state on Kalshi, Robinhood and Coinbase. The move was reported October 27 as state restrictions on sports event contracts spread. ([BBX](https://bbx.com/news-detail/3153739))</p>",
+      "date_published": "2026-10-28T06:15:00-04:00",
+      "date_modified": "2026-10-28T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bbx.com/news-detail/3153739",
+      "links": [
+        "https://bbx.com/news-detail/3153739"
+      ],
+      "timestamp": "Oct 28, 2026 · 6:15 AM ET",
+      "body": "- **Polymarket stops Michigan users from opening new sports prediction positions, BBX reports** — Polymarket has blocked Michigan users from opening new sports positions, following restrictions imposed in the state on Kalshi, Robinhood and Coinbase. The move was reported October 27 as state restrictions on sports event contracts spread. ([BBX](https://bbx.com/news-detail/3153739))",
+      "image_url": null,
+      "published": "2026-10-28T06:15:00-04:00",
+      "source": "2026-10-28_0615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0615-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0615-edt-3",
+      "title": "Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi reports",
+      "content_text": "- **Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi reports** — Milwaukee is one win from its first World Series title, with Kalshi traders pricing the Brewers at 52 percent for Game 4 against Tampa Bay at 48 percent. William Contreras leads the World Series MVP market at 54 percent, followed by Jackson Chourio at 45 percent. ([Kalshi](https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep))",
+      "content_html": "<p>- **Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi reports** — Milwaukee is one win from its first World Series title, with Kalshi traders pricing the Brewers at 52 percent for Game 4 against Tampa Bay at 48 percent. William Contreras leads the World Series MVP market at 54 percent, followed by Jackson Chourio at 45 percent. ([Kalshi](https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep))</p>",
+      "date_published": "2026-10-28T06:15:00-04:00",
+      "date_modified": "2026-10-28T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep",
+      "links": [
+        "https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep"
+      ],
+      "timestamp": "Oct 28, 2026 · 6:15 AM ET",
+      "body": "- **Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi reports** — Milwaukee is one win from its first World Series title, with Kalshi traders pricing the Brewers at 52 percent for Game 4 against Tampa Bay at 48 percent. William Contreras leads the World Series MVP market at 54 percent, followed by Jackson Chourio at 45 percent. ([Kalshi](https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep))",
+      "image_url": null,
+      "published": "2026-10-28T06:15:00-04:00",
+      "source": "2026-10-28_0615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0615-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0615-edt-4",
+      "title": "Prediction market trailing one-year volume reached 419.1 billion dollars as of October 27 with sports at 173.6 billion dollars, Cryptopolitan reports",
+      "content_text": "- **Prediction market trailing one-year volume reached 419.1 billion dollars as of October 27 with sports at 173.6 billion dollars, Cryptopolitan reports** — Artemis data cited October 27 put trailing one-year prediction market trading at 419.1 billion dollars, with sports contracts the largest category at 173.6 billion dollars or 41.4 percent. The figures were reported alongside the CFTC lawsuit against Utah over state gambling laws. ([Cryptopolitan](https://www.cryptopolitan.com/cftc-sues-utah-to-shield-prediction-markets-from-state-gambling-laws/))",
+      "content_html": "<p>- **Prediction market trailing one-year volume reached 419.1 billion dollars as of October 27 with sports at 173.6 billion dollars, Cryptopolitan reports** — Artemis data cited October 27 put trailing one-year prediction market trading at 419.1 billion dollars, with sports contracts the largest category at 173.6 billion dollars or 41.4 percent. The figures were reported alongside the CFTC lawsuit against Utah over state gambling laws. ([Cryptopolitan](https://www.cryptopolitan.com/cftc-sues-utah-to-shield-prediction-markets-from-state-gambling-laws/))</p>",
+      "date_published": "2026-10-28T06:15:00-04:00",
+      "date_modified": "2026-10-28T06:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptopolitan.com/cftc-sues-utah-to-shield-prediction-markets-from-state-gambling-laws/",
+      "links": [
+        "https://www.cryptopolitan.com/cftc-sues-utah-to-shield-prediction-markets-from-state-gambling-laws/"
+      ],
+      "timestamp": "Oct 28, 2026 · 6:15 AM ET",
+      "body": "- **Prediction market trailing one-year volume reached 419.1 billion dollars as of October 27 with sports at 173.6 billion dollars, Cryptopolitan reports** — Artemis data cited October 27 put trailing one-year prediction market trading at 419.1 billion dollars, with sports contracts the largest category at 173.6 billion dollars or 41.4 percent. The figures were reported alongside the CFTC lawsuit against Utah over state gambling laws. ([Cryptopolitan](https://www.cryptopolitan.com/cftc-sues-utah-to-shield-prediction-markets-from-state-gambling-laws/))",
+      "image_url": null,
+      "published": "2026-10-28T06:15:00-04:00",
+      "source": "2026-10-28_0615-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-28_0609-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_0609-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by October 31, 2026 priced at 9.0% on Polymarket, down 6.5 points, on $142K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/tech/\n\nAnthropic's valuation hit (HIGH) $3.0T by December 31 priced at 20.5% on Polymarket, up 3.0 points, on $1.6M traded\nPredictionBubbles' finance board, fresh on its Oct. 28, 10:10 UTC read, lists the Anthropic $3.0T valuation contract among its traded finance markets, in a finance…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Next Astra Model (6.1+) released by October 31, 2026 priced at 9.0% on Polymarket, down 6.5 points, on $142K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/tech/<br/><br/>Anthropic&#x27;s valuation hit (HIGH) $3.0T by December 31 priced at 20.5% on Polymarket, up 3.0 points, on $1.6M traded<br/>PredictionBubbles&#x27; finance board, fresh on its Oct. 28, 10:10 UTC read, lists the Anthropic $3.0T valuation contract among its traded finance markets, in a finance…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/finance/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-28T06:09:00-04:00",
+      "date_modified": "2026-10-28T06:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/tech/",
+      "links": [
+        "https://predictionbubbles.net/markets/tech/",
+        "https://predictionbubbles.net/markets/finance/"
+      ],
+      "timestamp": "Oct 28, 2026 · 6:09 AM ET",
+      "body": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by October 31, 2026 priced at 9.0% on Polymarket, down 6.5 points, on $142K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/tech/\n\nAnthropic's valuation hit (HIGH) $3.0T by December 31 priced at 20.5% on Polymarket, up 3.0 points, on $1.6M traded\nPredictionBubbles' finance board, fresh on its Oct. 28, 10:10 UTC read, lists the Anthropic $3.0T valuation contract among its traded finance markets, in a finance…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/finance/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-28T06:09:00-04:00",
+      "source": "2026-10-28_0609-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-28_0600-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0600-edt-0",
@@ -4510,187 +4692,6 @@
       "image_url": null,
       "published": "2026-10-27T23:00:00-04:00",
       "source": "2026-10-27_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2300-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2300-edt-1",
-      "title": "Trader places 19,500 dollar bet on Democrats winning the Ohio Senate race at 69 percent odds, Quiver Quantitative reports",
-      "content_text": "- **Trader places 19,500 dollar bet on Democrats winning the Ohio Senate race at 69 percent odds, Quiver Quantitative reports** — Quiver Quantitative reported a trader bought 19,500 dollars of Yes shares on Oct. 26 at 2:56 PM ET on Polymarket's Ohio Senate Election Winner market at 69 percent odds, a position that would pay about 8,774 dollars in profit if it wins. The Yes price is now 70 percent, up from 57 percent a month ago, with 1,075,819 dollars in total volume on the question. ([Quiver Quantitative](https://www.quiverquant.com/news/A%20trader%20just%20placed%20a%20$19K%20bet%20on%20Democrats%20winning%20the%20Ohio%20Senate%20race))",
-      "content_html": "<p>- **Trader places 19,500 dollar bet on Democrats winning the Ohio Senate race at 69 percent odds, Quiver Quantitative reports** — Quiver Quantitative reported a trader bought 19,500 dollars of Yes shares on Oct. 26 at 2:56 PM ET on Polymarket&#x27;s Ohio Senate Election Winner market at 69 percent odds, a position that would pay about 8,774 dollars in profit if it wins. The Yes price is now 70 percent, up from 57 percent a month ago, with 1,075,819 dollars in total volume on the question. ([Quiver Quantitative](https://www.quiverquant.com/news/A%20trader%20just%20placed%20a%20$19K%20bet%20on%20Democrats%20winning%20the%20Ohio%20Senate%20race))</p>",
-      "date_published": "2026-10-27T23:00:00-04:00",
-      "date_modified": "2026-10-27T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.quiverquant.com/news/A%20trader%20just%20placed%20a%20$19K%20bet%20on%20Democrats%20winning%20the%20Ohio%20Senate%20race",
-      "links": [
-        "https://www.quiverquant.com/news/A%20trader%20just%20placed%20a%20$19K%20bet%20on%20Democrats%20winning%20the%20Ohio%20Senate%20race"
-      ],
-      "timestamp": "Oct 27, 2026 · 11:00 PM ET",
-      "body": "- **Trader places 19,500 dollar bet on Democrats winning the Ohio Senate race at 69 percent odds, Quiver Quantitative reports** — Quiver Quantitative reported a trader bought 19,500 dollars of Yes shares on Oct. 26 at 2:56 PM ET on Polymarket's Ohio Senate Election Winner market at 69 percent odds, a position that would pay about 8,774 dollars in profit if it wins. The Yes price is now 70 percent, up from 57 percent a month ago, with 1,075,819 dollars in total volume on the question. ([Quiver Quantitative](https://www.quiverquant.com/news/A%20trader%20just%20placed%20a%20$19K%20bet%20on%20Democrats%20winning%20the%20Ohio%20Senate%20race))",
-      "image_url": null,
-      "published": "2026-10-27T23:00:00-04:00",
-      "source": "2026-10-27_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2300-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2300-edt-2",
-      "title": "Super Bowl Champion market tops active prediction markets at 628.83 million dollars in volume, LunarCrush reports",
-      "content_text": "- **Super Bowl Champion market tops active prediction markets at 628.83 million dollars in volume, LunarCrush reports** — LunarCrush ranked the Super Bowl Champion 2026 market as the most active prediction market by total volume at 628.83 million dollars, ahead of Democratic Presidential Nominee 2028 at 350.92 million dollars and Fed decision in December at 220.18 million dollars. The list, published Oct. 27, also put the National Heads-Up Poker Championship Winner at 179.34 million dollars and the F1 Drivers Champion at 153.92 million dollars. ([LunarCrush](https://typefully.com/LunarCrush/top-10-active-prediction-markets-HMCioYj))",
-      "content_html": "<p>- **Super Bowl Champion market tops active prediction markets at 628.83 million dollars in volume, LunarCrush reports** — LunarCrush ranked the Super Bowl Champion 2026 market as the most active prediction market by total volume at 628.83 million dollars, ahead of Democratic Presidential Nominee 2028 at 350.92 million dollars and Fed decision in December at 220.18 million dollars. The list, published Oct. 27, also put the National Heads-Up Poker Championship Winner at 179.34 million dollars and the F1 Drivers Champion at 153.92 million dollars. ([LunarCrush](https://typefully.com/LunarCrush/top-10-active-prediction-markets-HMCioYj))</p>",
-      "date_published": "2026-10-27T23:00:00-04:00",
-      "date_modified": "2026-10-27T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://typefully.com/LunarCrush/top-10-active-prediction-markets-HMCioYj",
-      "links": [
-        "https://typefully.com/LunarCrush/top-10-active-prediction-markets-HMCioYj"
-      ],
-      "timestamp": "Oct 27, 2026 · 11:00 PM ET",
-      "body": "- **Super Bowl Champion market tops active prediction markets at 628.83 million dollars in volume, LunarCrush reports** — LunarCrush ranked the Super Bowl Champion 2026 market as the most active prediction market by total volume at 628.83 million dollars, ahead of Democratic Presidential Nominee 2028 at 350.92 million dollars and Fed decision in December at 220.18 million dollars. The list, published Oct. 27, also put the National Heads-Up Poker Championship Winner at 179.34 million dollars and the F1 Drivers Champion at 153.92 million dollars. ([LunarCrush](https://typefully.com/LunarCrush/top-10-active-prediction-markets-HMCioYj))",
-      "image_url": null,
-      "published": "2026-10-27T23:00:00-04:00",
-      "source": "2026-10-27_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2300-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2300-edt-3",
-      "title": "Prediction markets flagged as a new vector for US election misinformation in the 2026 midterms, Prediction News reports",
-      "content_text": "- **Prediction markets flagged as a new vector for US election misinformation in the 2026 midterms, Prediction News reports** — Prediction News reported coverage framing prediction markets as a controversial new scoreboard for US election misinformation during the 2026 midterms, the first major cycle since the platforms gained mainstream traction. The report noted House Oversight has expanded its insider trading probe across five platforms, the Pentagon has banned troops from feeding nonpublic information to the markets, and Polymarket said it investigated dozens of election related cases and referred at least two to the CFTC. ([Prediction News](https://predictionnews.com/story/prediction-markets-open-new-front-for-us-election-misinformation))",
-      "content_html": "<p>- **Prediction markets flagged as a new vector for US election misinformation in the 2026 midterms, Prediction News reports** — Prediction News reported coverage framing prediction markets as a controversial new scoreboard for US election misinformation during the 2026 midterms, the first major cycle since the platforms gained mainstream traction. The report noted House Oversight has expanded its insider trading probe across five platforms, the Pentagon has banned troops from feeding nonpublic information to the markets, and Polymarket said it investigated dozens of election related cases and referred at least two to the CFTC. ([Prediction News](https://predictionnews.com/story/prediction-markets-open-new-front-for-us-election-misinformation))</p>",
-      "date_published": "2026-10-27T23:00:00-04:00",
-      "date_modified": "2026-10-27T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "CFTC",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/prediction-markets-open-new-front-for-us-election-misinformation",
-      "links": [
-        "https://predictionnews.com/story/prediction-markets-open-new-front-for-us-election-misinformation"
-      ],
-      "timestamp": "Oct 27, 2026 · 11:00 PM ET",
-      "body": "- **Prediction markets flagged as a new vector for US election misinformation in the 2026 midterms, Prediction News reports** — Prediction News reported coverage framing prediction markets as a controversial new scoreboard for US election misinformation during the 2026 midterms, the first major cycle since the platforms gained mainstream traction. The report noted House Oversight has expanded its insider trading probe across five platforms, the Pentagon has banned troops from feeding nonpublic information to the markets, and Polymarket said it investigated dozens of election related cases and referred at least two to the CFTC. ([Prediction News](https://predictionnews.com/story/prediction-markets-open-new-front-for-us-election-misinformation))",
-      "image_url": null,
-      "published": "2026-10-27T23:00:00-04:00",
-      "source": "2026-10-27_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2300-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2300-edt-4",
-      "title": "Spurs lead NBA title market at 22 percent with Wembanyama the MVP favorite at 29 percent, DeFi Rate reports",
-      "content_text": "- **Spurs lead NBA title market at 22 percent with Wembanyama the MVP favorite at 29 percent, DeFi Rate reports** — DeFi Rate, reading prices on Oct. 27 at 10:24 PM ET, put the San Antonio Spurs at 22 percent to win the 2027 NBA championship on Kalshi at 22 cents and Polymarket US at 23 cents, ahead of the Oklahoma City Thunder at 19 percent and the Philadelphia 76ers at 12 percent. Victor Wembanyama was the MVP favorite at 29 percent on Polymarket US. ([DeFi Rate](https://defirate.com/odds/nba/))",
-      "content_html": "<p>- **Spurs lead NBA title market at 22 percent with Wembanyama the MVP favorite at 29 percent, DeFi Rate reports** — DeFi Rate, reading prices on Oct. 27 at 10:24 PM ET, put the San Antonio Spurs at 22 percent to win the 2027 NBA championship on Kalshi at 22 cents and Polymarket US at 23 cents, ahead of the Oklahoma City Thunder at 19 percent and the Philadelphia 76ers at 12 percent. Victor Wembanyama was the MVP favorite at 29 percent on Polymarket US. ([DeFi Rate](https://defirate.com/odds/nba/))</p>",
-      "date_published": "2026-10-27T23:00:00-04:00",
-      "date_modified": "2026-10-27T23:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/nba/",
-      "links": [
-        "https://defirate.com/odds/nba/"
-      ],
-      "timestamp": "Oct 27, 2026 · 11:00 PM ET",
-      "body": "- **Spurs lead NBA title market at 22 percent with Wembanyama the MVP favorite at 29 percent, DeFi Rate reports** — DeFi Rate, reading prices on Oct. 27 at 10:24 PM ET, put the San Antonio Spurs at 22 percent to win the 2027 NBA championship on Kalshi at 22 cents and Polymarket US at 23 cents, ahead of the Oklahoma City Thunder at 19 percent and the Philadelphia 76ers at 12 percent. Victor Wembanyama was the MVP favorite at 29 percent on Polymarket US. ([DeFi Rate](https://defirate.com/odds/nba/))",
-      "image_url": null,
-      "published": "2026-10-27T23:00:00-04:00",
-      "source": "2026-10-27_2300-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-27_2254-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_2254-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nMore tech layoffs in 2026 than in 2025 priced at 94.4% on Kalshi, up 0.2 points, on $31.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today or held out (the NBA preferred-partner deal and the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/other/\n\nSam Houston wins priced at 18.0% on Kalshi, down 17.0 points, on $1.2M traded\nPredictionBubbles' movers board, unchanged on its Oct. 28, 02:13 UTC read, lists the Sam Houston win contract among its biggest downward sports moves, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>More tech layoffs in 2026 than in 2025 priced at 94.4% on Kalshi, up 0.2 points, on $31.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today or held out (the NBA preferred-partner deal and the…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/other/<br/><br/>Sam Houston wins priced at 18.0% on Kalshi, down 17.0 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board, unchanged on its Oct. 28, 02:13 UTC read, lists the Sam Houston win contract among its biggest downward sports moves, in a sports…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-27T22:54:00-04:00",
-      "date_modified": "2026-10-27T22:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/other/",
-      "links": [
-        "https://predictionbubbles.net/markets/other/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 27, 2026 · 10:54 PM ET",
-      "body": "Infiniti Briefing\n\nMore tech layoffs in 2026 than in 2025 priced at 94.4% on Kalshi, up 0.2 points, on $31.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today or held out (the NBA preferred-partner deal and the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/other/\n\nSam Houston wins priced at 18.0% on Kalshi, down 17.0 points, on $1.2M traded\nPredictionBubbles' movers board, unchanged on its Oct. 28, 02:13 UTC read, lists the Sam Houston win contract among its biggest downward sports moves, in a sports…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-27T22:54:00-04:00",
-      "source": "2026-10-27_2254-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2245-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2245-edt-0",
-      "title": "Israel election results point to coalition deadlock as turnout hits 77.7 percent, a 27-year peak, WSNext reports",
-      "content_text": "- **Israel election results point to coalition deadlock as turnout hits 77.7 percent, a 27-year peak, WSNext reports** — WSNext reported exit polls show neither the Netanyahu bloc at 50 seats nor the Eisenkot-led opposition at 52 to 53 seats reaching the 61 seats needed to form a government. The Netanyahu coalition is projected to lose 14 seats versus its 2022 result, and Eisenkot would likely need support from the 17 to 18 seats of Arab parties to reach a majority. ([WSNext](https://wsnext.com/6808d71-Israeli-elections-Geopolitical-risk/))",
-      "content_html": "<p>- **Israel election results point to coalition deadlock as turnout hits 77.7 percent, a 27-year peak, WSNext reports** — WSNext reported exit polls show neither the Netanyahu bloc at 50 seats nor the Eisenkot-led opposition at 52 to 53 seats reaching the 61 seats needed to form a government. The Netanyahu coalition is projected to lose 14 seats versus its 2022 result, and Eisenkot would likely need support from the 17 to 18 seats of Arab parties to reach a majority. ([WSNext](https://wsnext.com/6808d71-Israeli-elections-Geopolitical-risk/))</p>",
-      "date_published": "2026-10-27T22:45:00-04:00",
-      "date_modified": "2026-10-27T22:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://wsnext.com/6808d71-Israeli-elections-Geopolitical-risk/",
-      "links": [
-        "https://wsnext.com/6808d71-Israeli-elections-Geopolitical-risk/"
-      ],
-      "timestamp": "Oct 27, 2026 · 10:45 PM ET",
-      "body": "- **Israel election results point to coalition deadlock as turnout hits 77.7 percent, a 27-year peak, WSNext reports** — WSNext reported exit polls show neither the Netanyahu bloc at 50 seats nor the Eisenkot-led opposition at 52 to 53 seats reaching the 61 seats needed to form a government. The Netanyahu coalition is projected to lose 14 seats versus its 2022 result, and Eisenkot would likely need support from the 17 to 18 seats of Arab parties to reach a majority. ([WSNext](https://wsnext.com/6808d71-Israeli-elections-Geopolitical-risk/))",
-      "image_url": null,
-      "published": "2026-10-27T22:45:00-04:00",
-      "source": "2026-10-27_2245-edt.json",
       "matches_facebook_post": false
     }
   ]
