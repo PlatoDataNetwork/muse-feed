@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-28T19:30:55.816996-04:00",
+  "updated": "2026-10-28T19:45:39.662159-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,125 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-28_1945-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1945-edt-0",
+      "title": "US users drove an estimated 11 to 34 billion dollars of offshore prediction market volume, Crane Zeng report via BitRss finds",
+      "content_text": "- **US users drove an estimated 11 to 34 billion dollars of offshore prediction market volume, Crane Zeng report via BitRss finds** — A Crane Zeng report estimated US users accounted for 11 to 34 billion dollars of offshore prediction market volume, with Polymarket alone linked to up to 27 billion dollars and about 30 percent of its volume coming from US users. The offshore share of total volume fell from 84.4 percent in 2024 to 60.9 percent in 2025 as regulated venues grew, with Kalshi processing about 70 billion of 74 billion dollars in regulated volume. ([BitRss](https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277))",
+      "content_html": "<p>- **US users drove an estimated 11 to 34 billion dollars of offshore prediction market volume, Crane Zeng report via BitRss finds** — A Crane Zeng report estimated US users accounted for 11 to 34 billion dollars of offshore prediction market volume, with Polymarket alone linked to up to 27 billion dollars and about 30 percent of its volume coming from US users. The offshore share of total volume fell from 84.4 percent in 2024 to 60.9 percent in 2025 as regulated venues grew, with Kalshi processing about 70 billion of 74 billion dollars in regulated volume. ([BitRss](https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277))</p>",
+      "date_published": "2026-10-28T19:45:00-04:00",
+      "date_modified": "2026-10-28T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277",
+      "links": [
+        "https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277"
+      ],
+      "timestamp": "Oct 28, 2026 · 7:45 PM ET",
+      "body": "- **US users drove an estimated 11 to 34 billion dollars of offshore prediction market volume, Crane Zeng report via BitRss finds** — A Crane Zeng report estimated US users accounted for 11 to 34 billion dollars of offshore prediction market volume, with Polymarket alone linked to up to 27 billion dollars and about 30 percent of its volume coming from US users. The offshore share of total volume fell from 84.4 percent in 2024 to 60.9 percent in 2025 as regulated venues grew, with Kalshi processing about 70 billion of 74 billion dollars in regulated volume. ([BitRss](https://bitrss.com/prediction-market-report-shows-11b-34b-offshore-us-user-activity-220277))",
+      "image_url": null,
+      "published": "2026-10-28T19:45:00-04:00",
+      "source": "2026-10-28_1945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_1945-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1945-edt-1",
+      "title": "Polymarket board tracks 635 active markets with 175 million dollars traded in 24 hours, PredScope reports",
+      "content_text": "- **Polymarket board tracks 635 active markets with 175 million dollars traded in 24 hours, PredScope reports** — PredScope's live statistics, updated October 28 at 22:15 UTC, counted 635 active Polymarket markets with 4,850.7 million dollars in total volume, 175.0 million dollars traded in 24 hours and 519.7 million dollars in liquidity. The Democratic Presidential Nominee 2028 market was the largest by total volume at 1,298.9 million dollars, while the October Fed decision market drew 20.9 million dollars in 24 hours. ([PredScope](https://predscope.com/stats))",
+      "content_html": "<p>- **Polymarket board tracks 635 active markets with 175 million dollars traded in 24 hours, PredScope reports** — PredScope&#x27;s live statistics, updated October 28 at 22:15 UTC, counted 635 active Polymarket markets with 4,850.7 million dollars in total volume, 175.0 million dollars traded in 24 hours and 519.7 million dollars in liquidity. The Democratic Presidential Nominee 2028 market was the largest by total volume at 1,298.9 million dollars, while the October Fed decision market drew 20.9 million dollars in 24 hours. ([PredScope](https://predscope.com/stats))</p>",
+      "date_published": "2026-10-28T19:45:00-04:00",
+      "date_modified": "2026-10-28T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predscope.com/stats",
+      "links": [
+        "https://predscope.com/stats"
+      ],
+      "timestamp": "Oct 28, 2026 · 7:45 PM ET",
+      "body": "- **Polymarket board tracks 635 active markets with 175 million dollars traded in 24 hours, PredScope reports** — PredScope's live statistics, updated October 28 at 22:15 UTC, counted 635 active Polymarket markets with 4,850.7 million dollars in total volume, 175.0 million dollars traded in 24 hours and 519.7 million dollars in liquidity. The Democratic Presidential Nominee 2028 market was the largest by total volume at 1,298.9 million dollars, while the October Fed decision market drew 20.9 million dollars in 24 hours. ([PredScope](https://predscope.com/stats))",
+      "image_url": null,
+      "published": "2026-10-28T19:45:00-04:00",
+      "source": "2026-10-28_1945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_1945-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1945-edt-2",
+      "title": "Jacksonville State and New Mexico State total pushed from 48.5 to 49.5 points with Kalshi pricing the under near even money, Action Network reports",
+      "content_text": "- **Jacksonville State and New Mexico State total pushed from 48.5 to 49.5 points with Kalshi pricing the under near even money, Action Network reports** — Action Network reported bettors pushed the Jacksonville State at New Mexico State total up a full point to 49.5 this week, with Kalshi pricing the No side of over 49.5 at 50 cents for a maximum payout of 193.22 dollars on a 100 dollar buy. The largest gap against sportsbooks was in Kennesaw State at Middle Tennessee, where DraftKings listed Middle Tennessee at minus 2.5 and minus 142 while Kalshi traded the spread at 1.5 points and the moneyline at 51 cents. ([Action Network](https://www.actionnetwork.com/news/college-football-prop-bets-today-best-college-football-picks-today-cfb-best-bets-for-kennesaw-state-vs-middle-tennessee-jacksonville-state-vs-new-mexico-state-prediction-markets-oct-28))",
+      "content_html": "<p>- **Jacksonville State and New Mexico State total pushed from 48.5 to 49.5 points with Kalshi pricing the under near even money, Action Network reports** — Action Network reported bettors pushed the Jacksonville State at New Mexico State total up a full point to 49.5 this week, with Kalshi pricing the No side of over 49.5 at 50 cents for a maximum payout of 193.22 dollars on a 100 dollar buy. The largest gap against sportsbooks was in Kennesaw State at Middle Tennessee, where DraftKings listed Middle Tennessee at minus 2.5 and minus 142 while Kalshi traded the spread at 1.5 points and the moneyline at 51 cents. ([Action Network](https://www.actionnetwork.com/news/college-football-prop-bets-today-best-college-football-picks-today-cfb-best-bets-for-kennesaw-state-vs-middle-tennessee-jacksonville-state-vs-new-mexico-state-prediction-markets-oct-28))</p>",
+      "date_published": "2026-10-28T19:45:00-04:00",
+      "date_modified": "2026-10-28T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://www.actionnetwork.com/news/college-football-prop-bets-today-best-college-football-picks-today-cfb-best-bets-for-kennesaw-state-vs-middle-tennessee-jacksonville-state-vs-new-mexico-state-prediction-markets-oct-28",
+      "links": [
+        "https://www.actionnetwork.com/news/college-football-prop-bets-today-best-college-football-picks-today-cfb-best-bets-for-kennesaw-state-vs-middle-tennessee-jacksonville-state-vs-new-mexico-state-prediction-markets-oct-28"
+      ],
+      "timestamp": "Oct 28, 2026 · 7:45 PM ET",
+      "body": "- **Jacksonville State and New Mexico State total pushed from 48.5 to 49.5 points with Kalshi pricing the under near even money, Action Network reports** — Action Network reported bettors pushed the Jacksonville State at New Mexico State total up a full point to 49.5 this week, with Kalshi pricing the No side of over 49.5 at 50 cents for a maximum payout of 193.22 dollars on a 100 dollar buy. The largest gap against sportsbooks was in Kennesaw State at Middle Tennessee, where DraftKings listed Middle Tennessee at minus 2.5 and minus 142 while Kalshi traded the spread at 1.5 points and the moneyline at 51 cents. ([Action Network](https://www.actionnetwork.com/news/college-football-prop-bets-today-best-college-football-picks-today-cfb-best-bets-for-kennesaw-state-vs-middle-tennessee-jacksonville-state-vs-new-mexico-state-prediction-markets-oct-28))",
+      "image_url": null,
+      "published": "2026-10-28T19:45:00-04:00",
+      "source": "2026-10-28_1945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_1945-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1945-edt-3",
+      "title": "Predict.fun token launch by October 31 priced at 86.5 percent after a 66 point jump on Polymarket, PredictionBubbles reports",
+      "content_text": "- **Predict.fun token launch by October 31 priced at 86.5 percent after a 66 point jump on Polymarket, PredictionBubbles reports** — PredictionBubbles' movers board listed the Polymarket contract on Predict.fun launching a token by October 31, 2026 at 86.5 percent, up 66.0 points, with 264,000 dollars traded and about three days left to resolution. It was the largest absolute probability move on the board across 2,140 open Kalshi and Polymarket markets with 6.29 billion dollars in total volume. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "content_html": "<p>- **Predict.fun token launch by October 31 priced at 86.5 percent after a 66 point jump on Polymarket, PredictionBubbles reports** — PredictionBubbles&#x27; movers board listed the Polymarket contract on Predict.fun launching a token by October 31, 2026 at 86.5 percent, up 66.0 points, with 264,000 dollars traded and about three days left to resolution. It was the largest absolute probability move on the board across 2,140 open Kalshi and Polymarket markets with 6.29 billion dollars in total volume. ([PredictionBubbles](https://predictionbubbles.net/markets/))</p>",
+      "date_published": "2026-10-28T19:45:00-04:00",
+      "date_modified": "2026-10-28T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 28, 2026 · 7:45 PM ET",
+      "body": "- **Predict.fun token launch by October 31 priced at 86.5 percent after a 66 point jump on Polymarket, PredictionBubbles reports** — PredictionBubbles' movers board listed the Polymarket contract on Predict.fun launching a token by October 31, 2026 at 86.5 percent, up 66.0 points, with 264,000 dollars traded and about three days left to resolution. It was the largest absolute probability move on the board across 2,140 open Kalshi and Polymarket markets with 6.29 billion dollars in total volume. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "image_url": null,
+      "published": "2026-10-28T19:45:00-04:00",
+      "source": "2026-10-28_1945-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-28_1924-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_1924-edt",
@@ -4546,128 +4665,6 @@
       "image_url": null,
       "published": "2026-10-28T12:15:00-04:00",
       "source": "2026-10-28_1215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_1215-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1215-edt-4",
-      "title": "Midterm markets trade 18 million dollars in 24 hours as South Carolina Senate Democrat price jumps 8 points, DeFi Rate reports",
-      "content_text": "- **Midterm markets trade 18 million dollars in 24 hours as South Carolina Senate Democrat price jumps 8 points, DeFi Rate reports** — DeFi Rate reports traders put 18 million dollars into election markets over the past 24 hours, with Democrats favored to win both chambers at a 65 percent chance for the Senate and 91 percent for the House across Kalshi and Polymarket. The biggest seven-day move was South Carolina Senate Democrats rising from 18 percent to 26 percent on Kalshi, followed by Louisiana Senate Democrats from 6 percent to 10 percent, while Maine's Troy Jackson eased from 64 percent to 61 percent, with prices observed October 28 at 10:33 AM ET. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
-      "content_html": "<p>- **Midterm markets trade 18 million dollars in 24 hours as South Carolina Senate Democrat price jumps 8 points, DeFi Rate reports** — DeFi Rate reports traders put 18 million dollars into election markets over the past 24 hours, with Democrats favored to win both chambers at a 65 percent chance for the Senate and 91 percent for the House across Kalshi and Polymarket. The biggest seven-day move was South Carolina Senate Democrats rising from 18 percent to 26 percent on Kalshi, followed by Louisiana Senate Democrats from 6 percent to 10 percent, while Maine&#x27;s Troy Jackson eased from 64 percent to 61 percent, with prices observed October 28 at 10:33 AM ET. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))</p>",
-      "date_published": "2026-10-28T12:15:00-04:00",
-      "date_modified": "2026-10-28T12:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/odds/2026-midterms/",
-      "links": [
-        "https://defirate.com/odds/2026-midterms/"
-      ],
-      "timestamp": "Oct 28, 2026 · 12:15 PM ET",
-      "body": "- **Midterm markets trade 18 million dollars in 24 hours as South Carolina Senate Democrat price jumps 8 points, DeFi Rate reports** — DeFi Rate reports traders put 18 million dollars into election markets over the past 24 hours, with Democrats favored to win both chambers at a 65 percent chance for the Senate and 91 percent for the House across Kalshi and Polymarket. The biggest seven-day move was South Carolina Senate Democrats rising from 18 percent to 26 percent on Kalshi, followed by Louisiana Senate Democrats from 6 percent to 10 percent, while Maine's Troy Jackson eased from 64 percent to 61 percent, with prices observed October 28 at 10:33 AM ET. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
-      "image_url": null,
-      "published": "2026-10-28T12:15:00-04:00",
-      "source": "2026-10-28_1215-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-28_1209-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_1209-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nFDA approves Retatrutide this year priced at 3.2% on Polymarket, up 1.1 points, on $596K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/tech/\n\n2 Fed rate hikes happen in 2026 priced at 80.0% on Polymarket, up 4.5 points, on $208K traded\nPredictionBubbles' movers board, on its Oct. 28, 15:09 UTC read, lists the two-hikes contract among its upward finance moves, in a finance category distinct from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>FDA approves Retatrutide this year priced at 3.2% on Polymarket, up 1.1 points, on $596K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/tech/<br/><br/>2 Fed rate hikes happen in 2026 priced at 80.0% on Polymarket, up 4.5 points, on $208K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 28, 15:09 UTC read, lists the two-hikes contract among its upward finance moves, in a finance category distinct from the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-28T12:09:00-04:00",
-      "date_modified": "2026-10-28T12:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/tech/",
-      "links": [
-        "https://predictionbubbles.net/markets/tech/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 28, 2026 · 12:09 PM ET",
-      "body": "Infiniti Briefing\n\nFDA approves Retatrutide this year priced at 3.2% on Polymarket, up 1.1 points, on $596K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/tech/\n\n2 Fed rate hikes happen in 2026 priced at 80.0% on Polymarket, up 4.5 points, on $208K traded\nPredictionBubbles' movers board, on its Oct. 28, 15:09 UTC read, lists the two-hikes contract among its upward finance moves, in a finance category distinct from the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-28T12:09:00-04:00",
-      "source": "2026-10-28_1209-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_1200-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1200-edt-0",
-      "title": "OKX earnings readings put Microsoft at 62 percent and Alphabet at 61 percent to beat expectations ahead of October 28 reports, TokenPost reports",
-      "content_text": "- **OKX earnings readings put Microsoft at 62 percent and Alphabet at 61 percent to beat expectations ahead of October 28 reports, TokenPost reports** — TokenPost reports OKX's third-quarter earnings-season predictions showed readings of 62 percent for Microsoft and 61 percent for Alphabet on whether their quarterly results would exceed expectations, with both companies scheduled to report on Wednesday, October 28. For whether shares would rise on the first full trading day after each report, the readings were 59 percent for Microsoft and 65 percent for Alphabet, below the more than 80 percent readings previously recorded for Robinhood and SK hynix on the same question. ([TokenPost](https://www.tokenpost.com/news/business/42507))",
-      "content_html": "<p>- **OKX earnings readings put Microsoft at 62 percent and Alphabet at 61 percent to beat expectations ahead of October 28 reports, TokenPost reports** — TokenPost reports OKX&#x27;s third-quarter earnings-season predictions showed readings of 62 percent for Microsoft and 61 percent for Alphabet on whether their quarterly results would exceed expectations, with both companies scheduled to report on Wednesday, October 28. For whether shares would rise on the first full trading day after each report, the readings were 59 percent for Microsoft and 65 percent for Alphabet, below the more than 80 percent readings previously recorded for Robinhood and SK hynix on the same question. ([TokenPost](https://www.tokenpost.com/news/business/42507))</p>",
-      "date_published": "2026-10-28T12:00:00-04:00",
-      "date_modified": "2026-10-28T12:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.tokenpost.com/news/business/42507",
-      "links": [
-        "https://www.tokenpost.com/news/business/42507"
-      ],
-      "timestamp": "Oct 28, 2026 · 12:00 PM ET",
-      "body": "- **OKX earnings readings put Microsoft at 62 percent and Alphabet at 61 percent to beat expectations ahead of October 28 reports, TokenPost reports** — TokenPost reports OKX's third-quarter earnings-season predictions showed readings of 62 percent for Microsoft and 61 percent for Alphabet on whether their quarterly results would exceed expectations, with both companies scheduled to report on Wednesday, October 28. For whether shares would rise on the first full trading day after each report, the readings were 59 percent for Microsoft and 65 percent for Alphabet, below the more than 80 percent readings previously recorded for Robinhood and SK hynix on the same question. ([TokenPost](https://www.tokenpost.com/news/business/42507))",
-      "image_url": null,
-      "published": "2026-10-28T12:00:00-04:00",
-      "source": "2026-10-28_1200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_1200-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1200-edt-1",
-      "title": "Kalshi traders wager more than 171,000 dollars on what Sundar Pichai will say on the Alphabet earnings call, Longbridge reports",
-      "content_text": "- **Kalshi traders wager more than 171,000 dollars on what Sundar Pichai will say on the Alphabet earnings call, Longbridge reports** — Longbridge reports Kalshi traders have wagered more than 171,000 dollars on which words Sundar Pichai and his team will say during Alphabet's third-quarter earnings call on October 28, with Gemini leading at 98 percent for at least three mentions, AI Mode at 92 percent and Nvidia at 84 percent. Analysts expect earnings of about 3.02 dollars per share on revenue near 128 billion dollars, up 25 percent from a year ago. ([Longbridge](https://longbridge.com/en/news/303406947))",
-      "content_html": "<p>- **Kalshi traders wager more than 171,000 dollars on what Sundar Pichai will say on the Alphabet earnings call, Longbridge reports** — Longbridge reports Kalshi traders have wagered more than 171,000 dollars on which words Sundar Pichai and his team will say during Alphabet&#x27;s third-quarter earnings call on October 28, with Gemini leading at 98 percent for at least three mentions, AI Mode at 92 percent and Nvidia at 84 percent. Analysts expect earnings of about 3.02 dollars per share on revenue near 128 billion dollars, up 25 percent from a year ago. ([Longbridge](https://longbridge.com/en/news/303406947))</p>",
-      "date_published": "2026-10-28T12:00:00-04:00",
-      "date_modified": "2026-10-28T12:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://longbridge.com/en/news/303406947",
-      "links": [
-        "https://longbridge.com/en/news/303406947"
-      ],
-      "timestamp": "Oct 28, 2026 · 12:00 PM ET",
-      "body": "- **Kalshi traders wager more than 171,000 dollars on what Sundar Pichai will say on the Alphabet earnings call, Longbridge reports** — Longbridge reports Kalshi traders have wagered more than 171,000 dollars on which words Sundar Pichai and his team will say during Alphabet's third-quarter earnings call on October 28, with Gemini leading at 98 percent for at least three mentions, AI Mode at 92 percent and Nvidia at 84 percent. Analysts expect earnings of about 3.02 dollars per share on revenue near 128 billion dollars, up 25 percent from a year ago. ([Longbridge](https://longbridge.com/en/news/303406947))",
-      "image_url": null,
-      "published": "2026-10-28T12:00:00-04:00",
-      "source": "2026-10-28_1200-edt.json",
       "matches_facebook_post": false
     }
   ]
