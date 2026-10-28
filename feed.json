@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-28T04:01:02.360311-04:00",
+  "updated": "2026-10-28T04:16:17.314403-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,191 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-28_0415-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0415-edt-0",
+      "title": "Plus500 becomes first FCM to go live with Kalshi Perps, TradingView reports",
+      "content_text": "- **Plus500 becomes first FCM to go live with Kalshi Perps, TradingView reports** — TradingView reports Plus500 announced on Oct. 28, 2026 that it has become the first Futures Commission Merchant, excluding Kalshi Prime, to make Kalshi perpetual futures available to its clients. Plus500 clears the contracts directly as a clearing member of Kalshi Klear, and Kalshi first launched CFTC-regulated perps in the US in May 2026 before expanding the range to cryptocurrencies, commodities and indices. ([TradingView](https://www.tradingview.com/news/reuters.com,2026-10-28:newsml_RSb6978Aa:0-reg-plus500-ltd-plus500-first-fcm-to-go-live-with-kalshi-perps/))",
+      "content_html": "<p>- **Plus500 becomes first FCM to go live with Kalshi Perps, TradingView reports** — TradingView reports Plus500 announced on Oct. 28, 2026 that it has become the first Futures Commission Merchant, excluding Kalshi Prime, to make Kalshi perpetual futures available to its clients. Plus500 clears the contracts directly as a clearing member of Kalshi Klear, and Kalshi first launched CFTC-regulated perps in the US in May 2026 before expanding the range to cryptocurrencies, commodities and indices. ([TradingView](https://www.tradingview.com/news/reuters.com,2026-10-28:newsml_RSb6978Aa:0-reg-plus500-ltd-plus500-first-fcm-to-go-live-with-kalshi-perps/))</p>",
+      "date_published": "2026-10-28T04:15:00-04:00",
+      "date_modified": "2026-10-28T04:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.tradingview.com/news/reuters.com,2026-10-28:newsml_RSb6978Aa:0-reg-plus500-ltd-plus500-first-fcm-to-go-live-with-kalshi-perps/",
+      "links": [
+        "https://www.tradingview.com/news/reuters.com,2026-10-28:newsml_RSb6978Aa:0-reg-plus500-ltd-plus500-first-fcm-to-go-live-with-kalshi-perps/"
+      ],
+      "timestamp": "Oct 28, 2026 · 4:15 AM ET",
+      "body": "- **Plus500 becomes first FCM to go live with Kalshi Perps, TradingView reports** — TradingView reports Plus500 announced on Oct. 28, 2026 that it has become the first Futures Commission Merchant, excluding Kalshi Prime, to make Kalshi perpetual futures available to its clients. Plus500 clears the contracts directly as a clearing member of Kalshi Klear, and Kalshi first launched CFTC-regulated perps in the US in May 2026 before expanding the range to cryptocurrencies, commodities and indices. ([TradingView](https://www.tradingview.com/news/reuters.com,2026-10-28:newsml_RSb6978Aa:0-reg-plus500-ltd-plus500-first-fcm-to-go-live-with-kalshi-perps/))",
+      "image_url": null,
+      "published": "2026-10-28T04:15:00-04:00",
+      "source": "2026-10-28_0415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0415-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0415-edt-1",
+      "title": "CFTC examining whether Polymarket complied with 2022 deal to block US users from overseas platform, CryptoWisser reports",
+      "content_text": "- **CFTC examining whether Polymarket complied with 2022 deal to block US users from overseas platform, CryptoWisser reports** — CryptoWisser reports the CFTC is examining whether Polymarket complied with restrictions in its 2022 enforcement settlement, which resolved allegations it offered contracts without the required registration and committed it to stop offering those contracts to people in the United States. The reported examination concerns whether US users were blocked from its flagship overseas platform, according to a Reuters report cited by CryptoWisser. ([CryptoWisser](https://www.cryptowisser.com/news/cftc-sues-utah-over-kalshi-crackdown-its-10th-state-lawsuit/))",
+      "content_html": "<p>- **CFTC examining whether Polymarket complied with 2022 deal to block US users from overseas platform, CryptoWisser reports** — CryptoWisser reports the CFTC is examining whether Polymarket complied with restrictions in its 2022 enforcement settlement, which resolved allegations it offered contracts without the required registration and committed it to stop offering those contracts to people in the United States. The reported examination concerns whether US users were blocked from its flagship overseas platform, according to a Reuters report cited by CryptoWisser. ([CryptoWisser](https://www.cryptowisser.com/news/cftc-sues-utah-over-kalshi-crackdown-its-10th-state-lawsuit/))</p>",
+      "date_published": "2026-10-28T04:15:00-04:00",
+      "date_modified": "2026-10-28T04:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.cryptowisser.com/news/cftc-sues-utah-over-kalshi-crackdown-its-10th-state-lawsuit/",
+      "links": [
+        "https://www.cryptowisser.com/news/cftc-sues-utah-over-kalshi-crackdown-its-10th-state-lawsuit/"
+      ],
+      "timestamp": "Oct 28, 2026 · 4:15 AM ET",
+      "body": "- **CFTC examining whether Polymarket complied with 2022 deal to block US users from overseas platform, CryptoWisser reports** — CryptoWisser reports the CFTC is examining whether Polymarket complied with restrictions in its 2022 enforcement settlement, which resolved allegations it offered contracts without the required registration and committed it to stop offering those contracts to people in the United States. The reported examination concerns whether US users were blocked from its flagship overseas platform, according to a Reuters report cited by CryptoWisser. ([CryptoWisser](https://www.cryptowisser.com/news/cftc-sues-utah-over-kalshi-crackdown-its-10th-state-lawsuit/))",
+      "image_url": null,
+      "published": "2026-10-28T04:15:00-04:00",
+      "source": "2026-10-28_0415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0415-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0415-edt-2",
+      "title": "Polymarket prices Bitcoin dipping to 77,500 dollars in October at 20.5 percent, down 26 points, PredictionBubbles reports",
+      "content_text": "- **Polymarket prices Bitcoin dipping to 77,500 dollars in October at 20.5 percent, down 26 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on Bitcoin dipping to 77,500 dollars in October is priced at 20.5 percent, down 26.0 points, on 884,000 dollars in volume. The contract resolves in just under four days, at the end of October. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "content_html": "<p>- **Polymarket prices Bitcoin dipping to 77,500 dollars in October at 20.5 percent, down 26 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on Bitcoin dipping to 77,500 dollars in October is priced at 20.5 percent, down 26.0 points, on 884,000 dollars in volume. The contract resolves in just under four days, at the end of October. ([PredictionBubbles](https://predictionbubbles.net/markets/))</p>",
+      "date_published": "2026-10-28T04:15:00-04:00",
+      "date_modified": "2026-10-28T04:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 28, 2026 · 4:15 AM ET",
+      "body": "- **Polymarket prices Bitcoin dipping to 77,500 dollars in October at 20.5 percent, down 26 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on Bitcoin dipping to 77,500 dollars in October is priced at 20.5 percent, down 26.0 points, on 884,000 dollars in volume. The contract resolves in just under four days, at the end of October. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "image_url": null,
+      "published": "2026-10-28T04:15:00-04:00",
+      "source": "2026-10-28_0415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0415-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0415-edt-3",
+      "title": "Polymarket prices Ethereum dipping to 2,200 dollars in October at 18.5 percent, down 19 points, PredictionBubbles reports",
+      "content_text": "- **Polymarket prices Ethereum dipping to 2,200 dollars in October at 18.5 percent, down 19 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on Ethereum dipping to 2,200 dollars in October is priced at 18.5 percent, down 19.0 points, on 191,000 dollars in volume. The move came alongside a sharp fall in the price of a Bitcoin dip to 77,500 dollars on the same board. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "content_html": "<p>- **Polymarket prices Ethereum dipping to 2,200 dollars in October at 18.5 percent, down 19 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on Ethereum dipping to 2,200 dollars in October is priced at 18.5 percent, down 19.0 points, on 191,000 dollars in volume. The move came alongside a sharp fall in the price of a Bitcoin dip to 77,500 dollars on the same board. ([PredictionBubbles](https://predictionbubbles.net/markets/))</p>",
+      "date_published": "2026-10-28T04:15:00-04:00",
+      "date_modified": "2026-10-28T04:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 28, 2026 · 4:15 AM ET",
+      "body": "- **Polymarket prices Ethereum dipping to 2,200 dollars in October at 18.5 percent, down 19 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on Ethereum dipping to 2,200 dollars in October is priced at 18.5 percent, down 19.0 points, on 191,000 dollars in volume. The move came alongside a sharp fall in the price of a Bitcoin dip to 77,500 dollars on the same board. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "image_url": null,
+      "published": "2026-10-28T04:15:00-04:00",
+      "source": "2026-10-28_0415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_0415-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0415-edt-4",
+      "title": "Polymarket prices next Fable model release by October 31 at 10.1 percent, down 22.1 points, PredictionBubbles reports",
+      "content_text": "- **Polymarket prices next Fable model release by October 31 at 10.1 percent, down 22.1 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on the next Fable model, version 5.2 or later, being released by October 31, 2026 is priced at 10.1 percent, down 22.1 points, on 384,000 dollars in volume. The complementary contract on no release by October 31 rose 23.4 points to 90.3 percent on 129,000 dollars. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "content_html": "<p>- **Polymarket prices next Fable model release by October 31 at 10.1 percent, down 22.1 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on the next Fable model, version 5.2 or later, being released by October 31, 2026 is priced at 10.1 percent, down 22.1 points, on 384,000 dollars in volume. The complementary contract on no release by October 31 rose 23.4 points to 90.3 percent on 129,000 dollars. ([PredictionBubbles](https://predictionbubbles.net/markets/))</p>",
+      "date_published": "2026-10-28T04:15:00-04:00",
+      "date_modified": "2026-10-28T04:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/",
+      "links": [
+        "https://predictionbubbles.net/markets/"
+      ],
+      "timestamp": "Oct 28, 2026 · 4:15 AM ET",
+      "body": "- **Polymarket prices next Fable model release by October 31 at 10.1 percent, down 22.1 points, PredictionBubbles reports** — PredictionBubbles reports the Polymarket contract on the next Fable model, version 5.2 or later, being released by October 31, 2026 is priced at 10.1 percent, down 22.1 points, on 384,000 dollars in volume. The complementary contract on no release by October 31 rose 23.4 points to 90.3 percent on 129,000 dollars. ([PredictionBubbles](https://predictionbubbles.net/markets/))",
+      "image_url": null,
+      "published": "2026-10-28T04:15:00-04:00",
+      "source": "2026-10-28_0415-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-28_0409-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_0409-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nMinnesota win the 2027 Pro Basketball Finals priced at 6.0% on Kalshi, down 3.0 points, on $4.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 27 (the NBA preferred-partner deal and the CFTC-NBA…\n#PredictionMarkets #Kalshi #SEC #CFTC\nhttps://predictionbubbles.net/markets/sports/\n\nHouthis enter Aden by December 31, 2026 priced at 16.5% on Polymarket, down 4.0 points, on $235K traded\nPredictionBubbles' movers board, unchanged on its Oct. 28, 07:16 UTC read, lists the Aden contract among its downward political moves, in a political/election category…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Minnesota win the 2027 Pro Basketball Finals priced at 6.0% on Kalshi, down 3.0 points, on $4.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 27 (the NBA preferred-partner deal and the CFTC-NBA…<br/>#PredictionMarkets #Kalshi #SEC #CFTC<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Houthis enter Aden by December 31, 2026 priced at 16.5% on Polymarket, down 4.0 points, on $235K traded<br/>PredictionBubbles&#x27; movers board, unchanged on its Oct. 28, 07:16 UTC read, lists the Aden contract among its downward political moves, in a political/election category…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-28T04:09:00-04:00",
+      "date_modified": "2026-10-28T04:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "SEC",
+        "CFTC",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/sports/",
+      "links": [
+        "https://predictionbubbles.net/markets/sports/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 28, 2026 · 4:09 AM ET",
+      "body": "Infiniti Briefing\n\nMinnesota win the 2027 Pro Basketball Finals priced at 6.0% on Kalshi, down 3.0 points, on $4.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 27 (the NBA preferred-partner deal and the CFTC-NBA…\n#PredictionMarkets #Kalshi #SEC #CFTC\nhttps://predictionbubbles.net/markets/sports/\n\nHouthis enter Aden by December 31, 2026 priced at 16.5% on Polymarket, down 4.0 points, on $235K traded\nPredictionBubbles' movers board, unchanged on its Oct. 28, 07:16 UTC read, lists the Aden contract among its downward political moves, in a political/election category…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-28T04:09:00-04:00",
+      "source": "2026-10-28_0409-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-28_0400-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0400-edt-0",
@@ -4486,195 +4671,6 @@
       "image_url": null,
       "published": "2026-10-27T21:24:00-04:00",
       "source": "2026-10-27_2124-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2115-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2115-edt-0",
-      "title": "Election trading on Kalshi and Polymarket jumps to 104 million dollars ahead of midterms, DeFi Rate reports",
-      "content_text": "- **Election trading on Kalshi and Polymarket jumps to 104 million dollars ahead of midterms, DeFi Rate reports** — Election trading volume reached 103.87 million dollars across Kalshi, Polymarket US, ForecastEx and Gemini in the first 20 days of October, up from about 41 million dollars over the same period in September. The Texas Senate race and control of the House accounted for nearly 49 million dollars of that volume. ([DeFi Rate](https://defirate.com/news/texas-senate-house-control-drive-october-surge-midterm/))",
-      "content_html": "<p>- **Election trading on Kalshi and Polymarket jumps to 104 million dollars ahead of midterms, DeFi Rate reports** — Election trading volume reached 103.87 million dollars across Kalshi, Polymarket US, ForecastEx and Gemini in the first 20 days of October, up from about 41 million dollars over the same period in September. The Texas Senate race and control of the House accounted for nearly 49 million dollars of that volume. ([DeFi Rate](https://defirate.com/news/texas-senate-house-control-drive-october-surge-midterm/))</p>",
-      "date_published": "2026-10-27T21:15:00-04:00",
-      "date_modified": "2026-10-27T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/news/texas-senate-house-control-drive-october-surge-midterm/",
-      "links": [
-        "https://defirate.com/news/texas-senate-house-control-drive-october-surge-midterm/"
-      ],
-      "timestamp": "Oct 27, 2026 · 9:15 PM ET",
-      "body": "- **Election trading on Kalshi and Polymarket jumps to 104 million dollars ahead of midterms, DeFi Rate reports** — Election trading volume reached 103.87 million dollars across Kalshi, Polymarket US, ForecastEx and Gemini in the first 20 days of October, up from about 41 million dollars over the same period in September. The Texas Senate race and control of the House accounted for nearly 49 million dollars of that volume. ([DeFi Rate](https://defirate.com/news/texas-senate-house-control-drive-october-surge-midterm/))",
-      "image_url": null,
-      "published": "2026-10-27T21:15:00-04:00",
-      "source": "2026-10-27_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2115-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2115-edt-1",
-      "title": "Prediction markets face CFTC scrutiny ahead of 2026 US midterms, Crypto News reports",
-      "content_text": "- **Prediction markets face CFTC scrutiny ahead of 2026 US midterms, Crypto News reports** — CFTC Chairman Michael Selig said the agency is monitoring prediction markets for possible manipulation ahead of the 2026 US midterm elections, according to a summary of his Oct. 23 Bloomberg interview. Kalshi and Polymarket held 250 million dollars in combined midterm open interest as of Oct. 18, according to Dune research cited in the report. ([Crypto News](https://crypto.news/prediction-markets-cftc-2026-us-midterms/))",
-      "content_html": "<p>- **Prediction markets face CFTC scrutiny ahead of 2026 US midterms, Crypto News reports** — CFTC Chairman Michael Selig said the agency is monitoring prediction markets for possible manipulation ahead of the 2026 US midterm elections, according to a summary of his Oct. 23 Bloomberg interview. Kalshi and Polymarket held 250 million dollars in combined midterm open interest as of Oct. 18, according to Dune research cited in the report. ([Crypto News](https://crypto.news/prediction-markets-cftc-2026-us-midterms/))</p>",
-      "date_published": "2026-10-27T21:15:00-04:00",
-      "date_modified": "2026-10-27T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://crypto.news/prediction-markets-cftc-2026-us-midterms/",
-      "links": [
-        "https://crypto.news/prediction-markets-cftc-2026-us-midterms/"
-      ],
-      "timestamp": "Oct 27, 2026 · 9:15 PM ET",
-      "body": "- **Prediction markets face CFTC scrutiny ahead of 2026 US midterms, Crypto News reports** — CFTC Chairman Michael Selig said the agency is monitoring prediction markets for possible manipulation ahead of the 2026 US midterm elections, according to a summary of his Oct. 23 Bloomberg interview. Kalshi and Polymarket held 250 million dollars in combined midterm open interest as of Oct. 18, according to Dune research cited in the report. ([Crypto News](https://crypto.news/prediction-markets-cftc-2026-us-midterms/))",
-      "image_url": null,
-      "published": "2026-10-27T21:15:00-04:00",
-      "source": "2026-10-27_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2115-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2115-edt-2",
-      "title": "TD Cowen warns midterms could stall crypto CLARITY Act as prediction markets price a Democratic sweep, Bitcoin Magazine reports",
-      "content_text": "- **TD Cowen warns midterms could stall crypto CLARITY Act as prediction markets price a Democratic sweep, Bitcoin Magazine reports** — TD Cowen analyst Jaret Seiberg warned that next week midterm results could make it difficult for Congress to pass the CLARITY Act over the next two years, in a policy note shared with Bitcoin Magazine. The note cited prediction markets giving Democrats a 90 percent chance of winning the House and a 62 percent chance of winning the Senate, and described a Democratic sweep as the most probable and most negative scenario for crypto. ([Bitcoin Magazine](https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto))",
-      "content_html": "<p>- **TD Cowen warns midterms could stall crypto CLARITY Act as prediction markets price a Democratic sweep, Bitcoin Magazine reports** — TD Cowen analyst Jaret Seiberg warned that next week midterm results could make it difficult for Congress to pass the CLARITY Act over the next two years, in a policy note shared with Bitcoin Magazine. The note cited prediction markets giving Democrats a 90 percent chance of winning the House and a 62 percent chance of winning the Senate, and described a Democratic sweep as the most probable and most negative scenario for crypto. ([Bitcoin Magazine](https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto))</p>",
-      "date_published": "2026-10-27T21:15:00-04:00",
-      "date_modified": "2026-10-27T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Senate",
-        "Congress",
-        "Bitcoin",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto",
-      "links": [
-        "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto"
-      ],
-      "timestamp": "Oct 27, 2026 · 9:15 PM ET",
-      "body": "- **TD Cowen warns midterms could stall crypto CLARITY Act as prediction markets price a Democratic sweep, Bitcoin Magazine reports** — TD Cowen analyst Jaret Seiberg warned that next week midterm results could make it difficult for Congress to pass the CLARITY Act over the next two years, in a policy note shared with Bitcoin Magazine. The note cited prediction markets giving Democrats a 90 percent chance of winning the House and a 62 percent chance of winning the Senate, and described a Democratic sweep as the most probable and most negative scenario for crypto. ([Bitcoin Magazine](https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto))",
-      "image_url": null,
-      "published": "2026-10-27T21:15:00-04:00",
-      "source": "2026-10-27_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2115-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2115-edt-3",
-      "title": "Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi News reports",
-      "content_text": "- **Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi News reports** — Kalshi traders price the Milwaukee Brewers at 52 percent to win Game 4 of the 2026 World Series on Oct. 27 and complete a sweep of the Tampa Bay Rays, who are priced at 48 percent to extend the series. The Rays championship price has fallen below 5 percent after dropping the first three games, and Brewers catcher William Contreras leads the World Series MVP market at 54 percent on Kalshi. ([Kalshi News](https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep))",
-      "content_html": "<p>- **Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi News reports** — Kalshi traders price the Milwaukee Brewers at 52 percent to win Game 4 of the 2026 World Series on Oct. 27 and complete a sweep of the Tampa Bay Rays, who are priced at 48 percent to extend the series. The Rays championship price has fallen below 5 percent after dropping the first three games, and Brewers catcher William Contreras leads the World Series MVP market at 54 percent on Kalshi. ([Kalshi News](https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep))</p>",
-      "date_published": "2026-10-27T21:15:00-04:00",
-      "date_modified": "2026-10-27T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep",
-      "links": [
-        "https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep"
-      ],
-      "timestamp": "Oct 27, 2026 · 9:15 PM ET",
-      "body": "- **Kalshi prices Brewers at 52 percent to win World Series Game 4 and complete a sweep of the Rays, Kalshi News reports** — Kalshi traders price the Milwaukee Brewers at 52 percent to win Game 4 of the 2026 World Series on Oct. 27 and complete a sweep of the Tampa Bay Rays, who are priced at 48 percent to extend the series. The Rays championship price has fallen below 5 percent after dropping the first three games, and Brewers catcher William Contreras leads the World Series MVP market at 54 percent on Kalshi. ([Kalshi News](https://news.kalshi.com/p/world-series-game-4-odds-milwaukee-favored-to-complete-the-sweep))",
-      "image_url": null,
-      "published": "2026-10-27T21:15:00-04:00",
-      "source": "2026-10-27_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_2115-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_2115-edt-4",
-      "title": "Prediction markets pitch contracts beyond elections at NEXTPredict as Chuck Todd calls markets a fact checker for journalism, Scoop reports",
-      "content_text": "- **Prediction markets pitch contracts beyond elections at NEXTPredict as Chuck Todd calls markets a fact checker for journalism, Scoop reports** — Decrypt reported on Oct. 27 from the NEXTPredict conference that Chuck Todd called prediction markets a fact checker for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections. Scoop aggregated the report under a headline referencing a 3 million dollar hedge, a midterm test and the rise of retail in prediction markets. ([Scoop](https://scoopfeeds.com/article/fe307f7b-ee31-579c-88f9-2d5513fb7060))",
-      "content_html": "<p>- **Prediction markets pitch contracts beyond elections at NEXTPredict as Chuck Todd calls markets a fact checker for journalism, Scoop reports** — Decrypt reported on Oct. 27 from the NEXTPredict conference that Chuck Todd called prediction markets a fact checker for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections. Scoop aggregated the report under a headline referencing a 3 million dollar hedge, a midterm test and the rise of retail in prediction markets. ([Scoop](https://scoopfeeds.com/article/fe307f7b-ee31-579c-88f9-2d5513fb7060))</p>",
-      "date_published": "2026-10-27T21:15:00-04:00",
-      "date_modified": "2026-10-27T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://scoopfeeds.com/article/fe307f7b-ee31-579c-88f9-2d5513fb7060",
-      "links": [
-        "https://scoopfeeds.com/article/fe307f7b-ee31-579c-88f9-2d5513fb7060"
-      ],
-      "timestamp": "Oct 27, 2026 · 9:15 PM ET",
-      "body": "- **Prediction markets pitch contracts beyond elections at NEXTPredict as Chuck Todd calls markets a fact checker for journalism, Scoop reports** — Decrypt reported on Oct. 27 from the NEXTPredict conference that Chuck Todd called prediction markets a fact checker for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections. Scoop aggregated the report under a headline referencing a 3 million dollar hedge, a midterm test and the rise of retail in prediction markets. ([Scoop](https://scoopfeeds.com/article/fe307f7b-ee31-579c-88f9-2d5513fb7060))",
-      "image_url": null,
-      "published": "2026-10-27T21:15:00-04:00",
-      "source": "2026-10-27_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-27_2109-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-27_2109-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nKari Lake be confirmed as Ambassador to Jamaica before Jan 1, 2027 priced at 65.0% on Kalshi, up 47.0 points, on $18K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today or on the banned list (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/politics/\n\nFirst regular season game in the 2027 Pro Baseball season take place before Mar 25, 2027 priced at 38.0% on Kalshi, up 6.0 points, on $9K traded\nPredictionBubbles' movers board, unchanged on its Oct. 28, 00:12 UTC read, lists the March 25 opener-date contract among its upward sports moves, in a sports markets…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Kari Lake be confirmed as Ambassador to Jamaica before Jan 1, 2027 priced at 65.0% on Kalshi, up 47.0 points, on $18K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today or on the banned list (the NBA preferred-partner deal…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/politics/<br/><br/>First regular season game in the 2027 Pro Baseball season take place before Mar 25, 2027 priced at 38.0% on Kalshi, up 6.0 points, on $9K traded<br/>PredictionBubbles&#x27; movers board, unchanged on its Oct. 28, 00:12 UTC read, lists the March 25 opener-date contract among its upward sports moves, in a sports markets…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-27T21:09:00-04:00",
-      "date_modified": "2026-10-27T21:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/politics/",
-      "links": [
-        "https://predictionbubbles.net/markets/politics/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 27, 2026 · 9:09 PM ET",
-      "body": "Infiniti Briefing\n\nKari Lake be confirmed as Ambassador to Jamaica before Jan 1, 2027 priced at 65.0% on Kalshi, up 47.0 points, on $18K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today or on the banned list (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/politics/\n\nFirst regular season game in the 2027 Pro Baseball season take place before Mar 25, 2027 priced at 38.0% on Kalshi, up 6.0 points, on $9K traded\nPredictionBubbles' movers board, unchanged on its Oct. 28, 00:12 UTC read, lists the March 25 opener-date contract among its upward sports moves, in a sports markets…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-27T21:09:00-04:00",
-      "source": "2026-10-27_2109-edt.md",
       "matches_facebook_post": false
     }
   ]
