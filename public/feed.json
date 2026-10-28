@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-28T19:17:09.206221-04:00",
+  "updated": "2026-10-28T19:30:55.816996-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-28_1924-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_1924-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nCommitments to the 1W public sale exceed $60M priced at 35.5% on Polymarket, up 12.0 points, on $120K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nSan Francisco win the 2027 Pro Football Championship priced at 15.0% on Kalshi, down 1.0 points, on $12.1M traded\nPredictionBubbles' sports board, on its Oct. 28, 23:12 UTC crawl at 552 open markets with $794.4M traded, lists the San Francisco championship contract among its…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Commitments to the 1W public sale exceed $60M priced at 35.5% on Polymarket, up 12.0 points, on $120K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>San Francisco win the 2027 Pro Football Championship priced at 15.0% on Kalshi, down 1.0 points, on $12.1M traded<br/>PredictionBubbles&#x27; sports board, on its Oct. 28, 23:12 UTC crawl at 552 open markets with $794.4M traded, lists the San Francisco championship contract among its…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-28T19:24:00-04:00",
+      "date_modified": "2026-10-28T19:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 28, 2026 · 7:24 PM ET",
+      "body": "Infiniti Briefing\n\nCommitments to the 1W public sale exceed $60M priced at 35.5% on Polymarket, up 12.0 points, on $120K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nSan Francisco win the 2027 Pro Football Championship priced at 15.0% on Kalshi, down 1.0 points, on $12.1M traded\nPredictionBubbles' sports board, on its Oct. 28, 23:12 UTC crawl at 552 open markets with $794.4M traded, lists the San Francisco championship contract among its…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-28T19:24:00-04:00",
+      "source": "2026-10-28_1924-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-28_1915-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1915-edt-0",
@@ -4635,38 +4668,6 @@
       "image_url": null,
       "published": "2026-10-28T12:00:00-04:00",
       "source": "2026-10-28_1200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-28_1154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_1154-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nApple be the largest company in the world by market cap on October 31, 2026 priced at 5.2% on Polymarket, down 6.9 points, on $264K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nOhio enact a data center moratorium by December 31, 2027 priced at 27.5% on Polymarket, up 7.0 points, on $151K traded\nPredictionBubbles' movers board, on its Oct. 28, 15:09 UTC read, lists the Ohio data-center moratorium contract among its upward political moves, in a political/election…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Apple be the largest company in the world by market cap on October 31, 2026 priced at 5.2% on Polymarket, down 6.9 points, on $264K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Ohio enact a data center moratorium by December 31, 2027 priced at 27.5% on Polymarket, up 7.0 points, on $151K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 28, 15:09 UTC read, lists the Ohio data-center moratorium contract among its upward political moves, in a political/election…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-28T11:54:00-04:00",
-      "date_modified": "2026-10-28T11:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "CFTC",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 28, 2026 · 11:54 AM ET",
-      "body": "Infiniti Briefing\n\nApple be the largest company in the world by market cap on October 31, 2026 priced at 5.2% on Polymarket, down 6.9 points, on $264K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nOhio enact a data center moratorium by December 31, 2027 priced at 27.5% on Polymarket, up 7.0 points, on $151K traded\nPredictionBubbles' movers board, on its Oct. 28, 15:09 UTC read, lists the Ohio data-center moratorium contract among its upward political moves, in a political/election…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-28T11:54:00-04:00",
-      "source": "2026-10-28_1154-edt.md",
       "matches_facebook_post": false
     }
   ]
