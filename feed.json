@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-28T02:16:09.493404-04:00",
+  "updated": "2026-10-28T02:29:49.061446-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-28_0224-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_0224-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nDrake release new album after issuance and before Jan 1, 2027 priced at 13.0% on Kalshi, down 8.0 points, on $10K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 27 (the NBA preferred-partner deal and the CFTC-NBA…\n#PredictionMarkets #Kalshi #Senate #CFTC\nhttps://predictionbubbles.net/markets/culture/\n\nPortland wins priced at 59.0% on Kalshi, up 17.0 points, on $9.8M traded\nPredictionBubbles' sports board, on its Oct. 28, 06:10 UTC read, lists the Portland win contract among its biggest upward sports moves, in a sports markets category…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Drake release new album after issuance and before Jan 1, 2027 priced at 13.0% on Kalshi, down 8.0 points, on $10K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 27 (the NBA preferred-partner deal and the CFTC-NBA…<br/>#PredictionMarkets #Kalshi #Senate #CFTC<br/>https://predictionbubbles.net/markets/culture/<br/><br/>Portland wins priced at 59.0% on Kalshi, up 17.0 points, on $9.8M traded<br/>PredictionBubbles&#x27; sports board, on its Oct. 28, 06:10 UTC read, lists the Portland win contract among its biggest upward sports moves, in a sports markets category…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-28T02:24:00-04:00",
+      "date_modified": "2026-10-28T02:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Senate",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/culture/",
+      "links": [
+        "https://predictionbubbles.net/markets/culture/",
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 28, 2026 · 2:24 AM ET",
+      "body": "Infiniti Briefing\n\nDrake release new album after issuance and before Jan 1, 2027 priced at 13.0% on Kalshi, down 8.0 points, on $10K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used on Oct. 27 (the NBA preferred-partner deal and the CFTC-NBA…\n#PredictionMarkets #Kalshi #Senate #CFTC\nhttps://predictionbubbles.net/markets/culture/\n\nPortland wins priced at 59.0% on Kalshi, up 17.0 points, on $9.8M traded\nPredictionBubbles' sports board, on its Oct. 28, 06:10 UTC read, lists the Portland win contract among its biggest upward sports moves, in a sports markets category…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-28T02:24:00-04:00",
+      "source": "2026-10-28_0224-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-28_0215-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_0215-edt-0",
@@ -4645,36 +4678,6 @@
       ],
       "timestamp": "Oct 27, 2026 · 7:45 PM ET",
       "body": "- **Kalshi NFL MVP market prices Josh Allen at 32 to 34 percent with 49 contenders listed, Prediction News reports** — Prediction News reported Kalshi has opened live 2026 NFL MVP odds covering 49 contenders, with Josh Allen leading at 32 to 34 percent, followed by Joe Burrow at 17 percent and Brock Purdy at 15 percent. Caleb Williams was priced at 6 percent in the Week 7 board posted by KalshiSports. ([Prediction News](https://predictionnews.com/story/kalshi-nfl-mvp-market-shows-josh-allen-leading-at-34-after-week-7))",
-      "image_url": null,
-      "published": "2026-10-27T19:45:00-04:00",
-      "source": "2026-10-27_1945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-27_1945-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-27_1945-edt-4",
-      "title": "Kalshi prices Fed hold at 93 percent for Oct. 28 decision with hike at 6 percent, PredictionMarketsPicks reports",
-      "content_text": "- **Kalshi prices Fed hold at 93 percent for Oct. 28 decision with hike at 6 percent, PredictionMarketsPicks reports** — PredictionMarketsPicks reported Oct. 27 that Kalshi prices a hold at the Oct. 27-28 FOMC meeting at 93 percent, with a hike at 6 percent and a cut at 1 percent. The tracker compares the same meeting across Kalshi, Polymarket and CME fed funds futures, updated every 30 minutes. ([PredictionMarketsPicks](https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026))",
-      "content_html": "<p>- **Kalshi prices Fed hold at 93 percent for Oct. 28 decision with hike at 6 percent, PredictionMarketsPicks reports** — PredictionMarketsPicks reported Oct. 27 that Kalshi prices a hold at the Oct. 27-28 FOMC meeting at 93 percent, with a hike at 6 percent and a cut at 1 percent. The tracker compares the same meeting across Kalshi, Polymarket and CME fed funds futures, updated every 30 minutes. ([PredictionMarketsPicks](https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026))</p>",
-      "date_published": "2026-10-27T19:45:00-04:00",
-      "date_modified": "2026-10-27T19:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026",
-      "links": [
-        "https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026"
-      ],
-      "timestamp": "Oct 27, 2026 · 7:45 PM ET",
-      "body": "- **Kalshi prices Fed hold at 93 percent for Oct. 28 decision with hike at 6 percent, PredictionMarketsPicks reports** — PredictionMarketsPicks reported Oct. 27 that Kalshi prices a hold at the Oct. 27-28 FOMC meeting at 93 percent, with a hike at 6 percent and a cut at 1 percent. The tracker compares the same meeting across Kalshi, Polymarket and CME fed funds futures, updated every 30 minutes. ([PredictionMarketsPicks](https://predictionmarketspicks.com/tools/fed-rate-tracker/october-2026))",
       "image_url": null,
       "published": "2026-10-27T19:45:00-04:00",
       "source": "2026-10-27_1945-edt.json",
