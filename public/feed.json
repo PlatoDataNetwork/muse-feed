@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-29T18:29:32.653393-04:00",
+  "updated": "2026-10-29T18:32:26.968789-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -275,6 +275,38 @@
       "image_url": null,
       "published": "2026-10-29T18:30:00-04:00",
       "source": "2026-10-29_1830-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-29_1824-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-29_1824-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAnother Fed rate hike in 2026 priced at 73.0% on Polymarket, down 6.5 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nJerome Kym wins priced at 53.0% on Kalshi, up 26.0 points, on $1.0M traded\nPredictionBubbles' movers board, on the same fresh crawl, lists the Kym contract under its new-markets-on-the-move section and among its largest upward sports moves,…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Another Fed rate hike in 2026 priced at 73.0% on Polymarket, down 6.5 points, on $1.2M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Jerome Kym wins priced at 53.0% on Kalshi, up 26.0 points, on $1.0M traded<br/>PredictionBubbles&#x27; movers board, on the same fresh crawl, lists the Kym contract under its new-markets-on-the-move section and among its largest upward sports moves,…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-29T18:24:00-04:00",
+      "date_modified": "2026-10-29T18:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 29, 2026 · 6:24 PM ET",
+      "body": "Infiniti Briefing\n\nAnother Fed rate hike in 2026 priced at 73.0% on Polymarket, down 6.5 points, on $1.2M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nJerome Kym wins priced at 53.0% on Kalshi, up 26.0 points, on $1.0M traded\nPredictionBubbles' movers board, on the same fresh crawl, lists the Kym contract under its new-markets-on-the-move section and among its largest upward sports moves,…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-29T18:24:00-04:00",
+      "source": "2026-10-29_1824-edt.md",
       "matches_facebook_post": false
     },
     {
@@ -4664,35 +4696,6 @@
       "image_url": null,
       "published": "2026-10-29T11:09:00-04:00",
       "source": "2026-10-29_1109-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1100-edt-0",
-      "title": "Prediction markets may have cracked crypto mass adoption, with Polymarket competing directly with traditional sportsbooks, ByteTree reports",
-      "content_text": "- **Prediction markets may have cracked crypto mass adoption, with Polymarket competing directly with traditional sportsbooks, ByteTree reports** — ByteTree reported prediction markets now compete directly with traditional sportsbooks and betting operators despite regulatory pushback. It said Web2 platforms dominate the sector, while blockchain-based Polymarket remains one of the sector's best-known names and crypto's clearest consumer success story. ([ByteTree](https://www.bytetree.com/research/2026/10/prediction-markets-may-have-cracked-crypto-mass-adoption/))",
-      "content_html": "<p>- **Prediction markets may have cracked crypto mass adoption, with Polymarket competing directly with traditional sportsbooks, ByteTree reports** — ByteTree reported prediction markets now compete directly with traditional sportsbooks and betting operators despite regulatory pushback. It said Web2 platforms dominate the sector, while blockchain-based Polymarket remains one of the sector&#x27;s best-known names and crypto&#x27;s clearest consumer success story. ([ByteTree](https://www.bytetree.com/research/2026/10/prediction-markets-may-have-cracked-crypto-mass-adoption/))</p>",
-      "date_published": "2026-10-29T11:00:00-04:00",
-      "date_modified": "2026-10-29T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.bytetree.com/research/2026/10/prediction-markets-may-have-cracked-crypto-mass-adoption/",
-      "links": [
-        "https://www.bytetree.com/research/2026/10/prediction-markets-may-have-cracked-crypto-mass-adoption/"
-      ],
-      "timestamp": "Oct 29, 2026 · 11:00 AM ET",
-      "body": "- **Prediction markets may have cracked crypto mass adoption, with Polymarket competing directly with traditional sportsbooks, ByteTree reports** — ByteTree reported prediction markets now compete directly with traditional sportsbooks and betting operators despite regulatory pushback. It said Web2 platforms dominate the sector, while blockchain-based Polymarket remains one of the sector's best-known names and crypto's clearest consumer success story. ([ByteTree](https://www.bytetree.com/research/2026/10/prediction-markets-may-have-cracked-crypto-mass-adoption/))",
-      "image_url": null,
-      "published": "2026-10-29T11:00:00-04:00",
-      "source": "2026-10-29_1100-edt.json",
       "matches_facebook_post": false
     }
   ]
