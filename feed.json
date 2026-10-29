@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-29T19:23:53.838617-04:00",
+  "updated": "2026-10-29T19:34:29.668712-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,99 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-29_1930-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1930-edt-0",
+      "title": "Hackers drain at least 2.6 million dollars from over 700 Polymarket accounts through DebugBear flaw, Wall Street Journal reports",
+      "content_text": "- **Hackers drain at least 2.6 million dollars from over 700 Polymarket accounts through DebugBear flaw, Wall Street Journal reports** — At least 2.6 million dollars was drained from more than 700 Polymarket accounts on Thursday after hackers exploited a flaw in DebugBear, a third-party performance-monitoring tool used on Polymarket's website, and the company briefly paused trading on its international exchange. Polymarket referred the issue to law enforcement in the United Kingdom, where DebugBear is based, and said traders who lost money would be made whole. ([Wall Street Journal](https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d))",
+      "content_html": "<p>- **Hackers drain at least 2.6 million dollars from over 700 Polymarket accounts through DebugBear flaw, Wall Street Journal reports** — At least 2.6 million dollars was drained from more than 700 Polymarket accounts on Thursday after hackers exploited a flaw in DebugBear, a third-party performance-monitoring tool used on Polymarket&#x27;s website, and the company briefly paused trading on its international exchange. Polymarket referred the issue to law enforcement in the United Kingdom, where DebugBear is based, and said traders who lost money would be made whole. ([Wall Street Journal](https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d))</p>",
+      "date_published": "2026-10-29T19:30:00-04:00",
+      "date_modified": "2026-10-29T19:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d",
+      "links": [
+        "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:30 PM ET",
+      "body": "- **Hackers drain at least 2.6 million dollars from over 700 Polymarket accounts through DebugBear flaw, Wall Street Journal reports** — At least 2.6 million dollars was drained from more than 700 Polymarket accounts on Thursday after hackers exploited a flaw in DebugBear, a third-party performance-monitoring tool used on Polymarket's website, and the company briefly paused trading on its international exchange. Polymarket referred the issue to law enforcement in the United Kingdom, where DebugBear is based, and said traders who lost money would be made whole. ([Wall Street Journal](https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d))",
+      "image_url": null,
+      "published": "2026-10-29T19:30:00-04:00",
+      "source": "2026-10-29_1930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-29_1930-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1930-edt-1",
+      "title": "Polymarket perps whale tracker shows Bitcoin leading at 15.79 million dollars traded through 19:25 UTC, with a 449,000 dollar SK Hynix close, Polywatcher reports",
+      "content_text": "- **Polymarket perps whale tracker shows Bitcoin leading at 15.79 million dollars traded through 19:25 UTC, with a 449,000 dollar SK Hynix close, Polywatcher reports** — Polywatcher, tracking Polymarket perpetual futures through 19:25 UTC on October 29, listed Bitcoin as the hottest market at 15.79 million dollars traded, ahead of SOXL at 3.47 million dollars, SPCX at 2.65 million dollars and WTI oil at 2.38 million dollars. Its latest whale orders included a 449,000 dollar close of a SK Hynix short position and a 138,600 dollar open short on the Nasdaq 100 index. ([Polywatcher](https://polywatcher.com/))",
+      "content_html": "<p>- **Polymarket perps whale tracker shows Bitcoin leading at 15.79 million dollars traded through 19:25 UTC, with a 449,000 dollar SK Hynix close, Polywatcher reports** — Polywatcher, tracking Polymarket perpetual futures through 19:25 UTC on October 29, listed Bitcoin as the hottest market at 15.79 million dollars traded, ahead of SOXL at 3.47 million dollars, SPCX at 2.65 million dollars and WTI oil at 2.38 million dollars. Its latest whale orders included a 449,000 dollar close of a SK Hynix short position and a 138,600 dollar open short on the Nasdaq 100 index. ([Polywatcher](https://polywatcher.com/))</p>",
+      "date_published": "2026-10-29T19:30:00-04:00",
+      "date_modified": "2026-10-29T19:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin",
+        "Oil"
+      ],
+      "image": null,
+      "external_url": "https://polywatcher.com/",
+      "links": [
+        "https://polywatcher.com/"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:30 PM ET",
+      "body": "- **Polymarket perps whale tracker shows Bitcoin leading at 15.79 million dollars traded through 19:25 UTC, with a 449,000 dollar SK Hynix close, Polywatcher reports** — Polywatcher, tracking Polymarket perpetual futures through 19:25 UTC on October 29, listed Bitcoin as the hottest market at 15.79 million dollars traded, ahead of SOXL at 3.47 million dollars, SPCX at 2.65 million dollars and WTI oil at 2.38 million dollars. Its latest whale orders included a 449,000 dollar close of a SK Hynix short position and a 138,600 dollar open short on the Nasdaq 100 index. ([Polywatcher](https://polywatcher.com/))",
+      "image_url": null,
+      "published": "2026-10-29T19:30:00-04:00",
+      "source": "2026-10-29_1930-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-29_1924-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-29_1924-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nKimi Antonelli be the 2026 F1 Drivers' Champion priced at 99.8% on Polymarket, up 0.2 points, on $5.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/sports/\n\nBest AI on Dec 31, 2026? — Claude priced at 35.7% on Kalshi, down 9.5 points, on $3.3M traded\nPredictionBubbles' movers board, fresh on its Oct. 29, 23:05 UTC crawl with data read at Oct. 29, 22:47 UTC at 1,996 markets ranked with 541 moving at least 1 point in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Kimi Antonelli be the 2026 F1 Drivers&#x27; Champion priced at 99.8% on Polymarket, up 0.2 points, on $5.4M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Best AI on Dec 31, 2026? — Claude priced at 35.7% on Kalshi, down 9.5 points, on $3.3M traded<br/>PredictionBubbles&#x27; movers board, fresh on its Oct. 29, 23:05 UTC crawl with data read at Oct. 29, 22:47 UTC at 1,996 markets ranked with 541 moving at least 1 point in…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-29T19:24:00-04:00",
+      "date_modified": "2026-10-29T19:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/sports/",
+      "links": [
+        "https://predictionbubbles.net/markets/sports/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:24 PM ET",
+      "body": "Infiniti Briefing\n\nKimi Antonelli be the 2026 F1 Drivers' Champion priced at 99.8% on Polymarket, up 0.2 points, on $5.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/sports/\n\nBest AI on Dec 31, 2026? — Claude priced at 35.7% on Kalshi, down 9.5 points, on $3.3M traded\nPredictionBubbles' movers board, fresh on its Oct. 29, 23:05 UTC crawl with data read at Oct. 29, 22:47 UTC at 1,996 markets ranked with 541 moving at least 1 point in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-29T19:24:00-04:00",
+      "source": "2026-10-29_1924-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-29_1915-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1915-edt-0",
@@ -4588,99 +4681,6 @@
       "image_url": null,
       "published": "2026-10-29T12:00:00-04:00",
       "source": "2026-10-29_1200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-29_1154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-29_1154-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nRepublican party win the governorship in Texas — Greg Abbott priced at 64.0% on Kalshi, down 3.0 points, on $5.7M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held (the NBA preferred-partner deal and the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nArthur Fils wins priced at 40.0% on Kalshi, down 27.0 points, on $823K traded\nPredictionBubbles' movers board, on its Oct. 29, 15:54 UTC crawl, lists the Fils win contract among its biggest downward moves, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Republican party win the governorship in Texas — Greg Abbott priced at 64.0% on Kalshi, down 3.0 points, on $5.7M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held (the NBA preferred-partner deal and the…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Arthur Fils wins priced at 40.0% on Kalshi, down 27.0 points, on $823K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 29, 15:54 UTC crawl, lists the Fils win contract among its biggest downward moves, in a sports markets category distinct…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-29T11:54:00-04:00",
-      "date_modified": "2026-10-29T11:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 29, 2026 · 11:54 AM ET",
-      "body": "Infiniti Briefing\n\nRepublican party win the governorship in Texas — Greg Abbott priced at 64.0% on Kalshi, down 3.0 points, on $5.7M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held (the NBA preferred-partner deal and the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nArthur Fils wins priced at 40.0% on Kalshi, down 27.0 points, on $823K traded\nPredictionBubbles' movers board, on its Oct. 29, 15:54 UTC crawl, lists the Fils win contract among its biggest downward moves, in a sports markets category distinct…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-29T11:54:00-04:00",
-      "source": "2026-10-29_1154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1145-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1145-edt-0",
-      "title": "Kentucky sues Kalshi and Polymarket over sports betting contracts, BitRss reports",
-      "content_text": "- **Kentucky sues Kalshi and Polymarket over sports betting contracts, BitRss reports** — Kentucky filed lawsuits against Polymarket and Kalshi and named Kalshi partners Coinbase, Robinhood and Webull, alleging the platforms operate sports wagering in the state without required authorization. The complaints add to state challenges arguing sports event contracts are gambling, while operators argue they fall under CFTC jurisdiction. ([BitRss](https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418))",
-      "content_html": "<p>- **Kentucky sues Kalshi and Polymarket over sports betting contracts, BitRss reports** — Kentucky filed lawsuits against Polymarket and Kalshi and named Kalshi partners Coinbase, Robinhood and Webull, alleging the platforms operate sports wagering in the state without required authorization. The complaints add to state challenges arguing sports event contracts are gambling, while operators argue they fall under CFTC jurisdiction. ([BitRss](https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418))</p>",
-      "date_published": "2026-10-29T11:45:00-04:00",
-      "date_modified": "2026-10-29T11:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418",
-      "links": [
-        "https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418"
-      ],
-      "timestamp": "Oct 29, 2026 · 11:45 AM ET",
-      "body": "- **Kentucky sues Kalshi and Polymarket over sports betting contracts, BitRss reports** — Kentucky filed lawsuits against Polymarket and Kalshi and named Kalshi partners Coinbase, Robinhood and Webull, alleging the platforms operate sports wagering in the state without required authorization. The complaints add to state challenges arguing sports event contracts are gambling, while operators argue they fall under CFTC jurisdiction. ([BitRss](https://bitrss.com/kentucky-sues-kalshi-and-polymarket-over-sports-betting-contracts-222418))",
-      "image_url": null,
-      "published": "2026-10-29T11:45:00-04:00",
-      "source": "2026-10-29_1145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1145-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1145-edt-1",
-      "title": "Polymarket and Kalshi put Democrats above 60 percent to take both chambers in midterms, Reuters reports",
-      "content_text": "- **Polymarket and Kalshi put Democrats above 60 percent to take both chambers in midterms, Reuters reports** — Reuters reported Polymarket and Kalshi put the chance of Democrats taking both chambers next week at more than 60 percent, with a better than 90 percent chance of winning at least the House of Representatives. The column said odds for the 2028 White House race were roughly even this far out. ([Reuters](https://www.reuters.com/commentary/reuters-open-interest/biggest-market-impact-us-midterms-may-be-2028-countdown-mike-dolan-2026-10-29/))",
-      "content_html": "<p>- **Polymarket and Kalshi put Democrats above 60 percent to take both chambers in midterms, Reuters reports** — Reuters reported Polymarket and Kalshi put the chance of Democrats taking both chambers next week at more than 60 percent, with a better than 90 percent chance of winning at least the House of Representatives. The column said odds for the 2028 White House race were roughly even this far out. ([Reuters](https://www.reuters.com/commentary/reuters-open-interest/biggest-market-impact-us-midterms-may-be-2028-countdown-mike-dolan-2026-10-29/))</p>",
-      "date_published": "2026-10-29T11:45:00-04:00",
-      "date_modified": "2026-10-29T11:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/commentary/reuters-open-interest/biggest-market-impact-us-midterms-may-be-2028-countdown-mike-dolan-2026-10-29/",
-      "links": [
-        "https://www.reuters.com/commentary/reuters-open-interest/biggest-market-impact-us-midterms-may-be-2028-countdown-mike-dolan-2026-10-29/"
-      ],
-      "timestamp": "Oct 29, 2026 · 11:45 AM ET",
-      "body": "- **Polymarket and Kalshi put Democrats above 60 percent to take both chambers in midterms, Reuters reports** — Reuters reported Polymarket and Kalshi put the chance of Democrats taking both chambers next week at more than 60 percent, with a better than 90 percent chance of winning at least the House of Representatives. The column said odds for the 2028 White House race were roughly even this far out. ([Reuters](https://www.reuters.com/commentary/reuters-open-interest/biggest-market-impact-us-midterms-may-be-2028-countdown-mike-dolan-2026-10-29/))",
-      "image_url": null,
-      "published": "2026-10-29T11:45:00-04:00",
-      "source": "2026-10-29_1145-edt.json",
       "matches_facebook_post": false
     }
   ]
