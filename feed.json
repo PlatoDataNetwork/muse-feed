@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-28T22:55:12.694625-04:00",
+  "updated": "2026-10-28T23:08:12.027416-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,158 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-28_2300-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_2300-edt-0",
+      "title": "Polymarket built a 14 billion dollar US trading business almost entirely on sports bets, CryptoNews reports",
+      "content_text": "- **Polymarket built a 14 billion dollar US trading business almost entirely on sports bets, CryptoNews reports** — Polymarket's US business has reached about 14 billion dollars in trading, with recent measured turnover overwhelmingly based on sports contracts, according to CryptoNews. That mix leaves the US business exposed if courts or states narrow the terms under which sports event contracts can remain available. ([CryptoNews](https://cryptonews.net/news/market/33666917/))",
+      "content_html": "<p>- **Polymarket built a 14 billion dollar US trading business almost entirely on sports bets, CryptoNews reports** — Polymarket&#x27;s US business has reached about 14 billion dollars in trading, with recent measured turnover overwhelmingly based on sports contracts, according to CryptoNews. That mix leaves the US business exposed if courts or states narrow the terms under which sports event contracts can remain available. ([CryptoNews](https://cryptonews.net/news/market/33666917/))</p>",
+      "date_published": "2026-10-28T23:00:00-04:00",
+      "date_modified": "2026-10-28T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://cryptonews.net/news/market/33666917/",
+      "links": [
+        "https://cryptonews.net/news/market/33666917/"
+      ],
+      "timestamp": "Oct 28, 2026 · 11:00 PM ET",
+      "body": "- **Polymarket built a 14 billion dollar US trading business almost entirely on sports bets, CryptoNews reports** — Polymarket's US business has reached about 14 billion dollars in trading, with recent measured turnover overwhelmingly based on sports contracts, according to CryptoNews. That mix leaves the US business exposed if courts or states narrow the terms under which sports event contracts can remain available. ([CryptoNews](https://cryptonews.net/news/market/33666917/))",
+      "image_url": null,
+      "published": "2026-10-28T23:00:00-04:00",
+      "source": "2026-10-28_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_2300-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_2300-edt-1",
+      "title": "Alaska Senate Democrat chance falls 7 points to 69 percent on Kalshi in weekly midterm board, DeFi Rate reports",
+      "content_text": "- **Alaska Senate Democrat chance falls 7 points to 69 percent on Kalshi in weekly midterm board, DeFi Rate reports** — DeFi Rate's midterm board observed on October 28 at 8:23 PM ET shows the Democrat chance in Alaska falling 7 points to 69 percent over seven days, while Louisiana's Democrat price rose 5 points to 12 percent. Iowa is the closest Senate race on the board, with the Democrat priced at 47 percent against the Republican at 54 percent. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "content_html": "<p>- **Alaska Senate Democrat chance falls 7 points to 69 percent on Kalshi in weekly midterm board, DeFi Rate reports** — DeFi Rate&#x27;s midterm board observed on October 28 at 8:23 PM ET shows the Democrat chance in Alaska falling 7 points to 69 percent over seven days, while Louisiana&#x27;s Democrat price rose 5 points to 12 percent. Iowa is the closest Senate race on the board, with the Democrat priced at 47 percent against the Republican at 54 percent. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))</p>",
+      "date_published": "2026-10-28T23:00:00-04:00",
+      "date_modified": "2026-10-28T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/2026-midterms/",
+      "links": [
+        "https://defirate.com/odds/2026-midterms/"
+      ],
+      "timestamp": "Oct 28, 2026 · 11:00 PM ET",
+      "body": "- **Alaska Senate Democrat chance falls 7 points to 69 percent on Kalshi in weekly midterm board, DeFi Rate reports** — DeFi Rate's midterm board observed on October 28 at 8:23 PM ET shows the Democrat chance in Alaska falling 7 points to 69 percent over seven days, while Louisiana's Democrat price rose 5 points to 12 percent. Iowa is the closest Senate race on the board, with the Democrat priced at 47 percent against the Republican at 54 percent. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "image_url": null,
+      "published": "2026-10-28T23:00:00-04:00",
+      "source": "2026-10-28_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_2300-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_2300-edt-2",
+      "title": "Polymarket cheaper than Kalshi on 25 of 34 matched contracts with median saving of 2.37 percent, VoxOdds reports",
+      "content_text": "- **Polymarket cheaper than Kalshi on 25 of 34 matched contracts with median saving of 2.37 percent, VoxOdds reports** — VoxOdds' October 28 snapshot of 34 matched contracts found Polymarket cheaper on 25 outcome sides and Kalshi cheaper on 9, after estimated taker fees on a 100 dollar order. The site's Gap Index, the median fee-inclusive saving on the cheaper venue, stood at 2.37 percent. ([VoxOdds](https://voxodds.com/polymarket-vs-kalshi))",
+      "content_html": "<p>- **Polymarket cheaper than Kalshi on 25 of 34 matched contracts with median saving of 2.37 percent, VoxOdds reports** — VoxOdds&#x27; October 28 snapshot of 34 matched contracts found Polymarket cheaper on 25 outcome sides and Kalshi cheaper on 9, after estimated taker fees on a 100 dollar order. The site&#x27;s Gap Index, the median fee-inclusive saving on the cheaper venue, stood at 2.37 percent. ([VoxOdds](https://voxodds.com/polymarket-vs-kalshi))</p>",
+      "date_published": "2026-10-28T23:00:00-04:00",
+      "date_modified": "2026-10-28T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://voxodds.com/polymarket-vs-kalshi",
+      "links": [
+        "https://voxodds.com/polymarket-vs-kalshi"
+      ],
+      "timestamp": "Oct 28, 2026 · 11:00 PM ET",
+      "body": "- **Polymarket cheaper than Kalshi on 25 of 34 matched contracts with median saving of 2.37 percent, VoxOdds reports** — VoxOdds' October 28 snapshot of 34 matched contracts found Polymarket cheaper on 25 outcome sides and Kalshi cheaper on 9, after estimated taker fees on a 100 dollar order. The site's Gap Index, the median fee-inclusive saving on the cheaper venue, stood at 2.37 percent. ([VoxOdds](https://voxodds.com/polymarket-vs-kalshi))",
+      "image_url": null,
+      "published": "2026-10-28T23:00:00-04:00",
+      "source": "2026-10-28_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-28_2300-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_2300-edt-3",
+      "title": "Trail Blazers priced at 72 percent against Grizzlies at 28.5 percent on Kalshi in NBA board, SportsBookISH reports",
+      "content_text": "- **Trail Blazers priced at 72 percent against Grizzlies at 28.5 percent on Kalshi in NBA board, SportsBookISH reports** — SportsBookISH's NBA comparison board prices the Portland Trail Blazers at 72.0 percent on Kalshi against the Memphis Grizzlies at 28.5 percent for their upcoming game, close to the sportsbook median of 71.6 percent and 29.0 percent. The board tracks Kalshi prices against Polymarket and four sportsbooks for the matchup. ([SportsBookISH](https://sportsbookish.com/sports/nba))",
+      "content_html": "<p>- **Trail Blazers priced at 72 percent against Grizzlies at 28.5 percent on Kalshi in NBA board, SportsBookISH reports** — SportsBookISH&#x27;s NBA comparison board prices the Portland Trail Blazers at 72.0 percent on Kalshi against the Memphis Grizzlies at 28.5 percent for their upcoming game, close to the sportsbook median of 71.6 percent and 29.0 percent. The board tracks Kalshi prices against Polymarket and four sportsbooks for the matchup. ([SportsBookISH](https://sportsbookish.com/sports/nba))</p>",
+      "date_published": "2026-10-28T23:00:00-04:00",
+      "date_modified": "2026-10-28T23:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://sportsbookish.com/sports/nba",
+      "links": [
+        "https://sportsbookish.com/sports/nba"
+      ],
+      "timestamp": "Oct 28, 2026 · 11:00 PM ET",
+      "body": "- **Trail Blazers priced at 72 percent against Grizzlies at 28.5 percent on Kalshi in NBA board, SportsBookISH reports** — SportsBookISH's NBA comparison board prices the Portland Trail Blazers at 72.0 percent on Kalshi against the Memphis Grizzlies at 28.5 percent for their upcoming game, close to the sportsbook median of 71.6 percent and 29.0 percent. The board tracks Kalshi prices against Polymarket and four sportsbooks for the matchup. ([SportsBookISH](https://sportsbookish.com/sports/nba))",
+      "image_url": null,
+      "published": "2026-10-28T23:00:00-04:00",
+      "source": "2026-10-28_2300-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-28_2254-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_2254-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAlycia Parks wins priced at 97.0% on Kalshi, up 57.0 points, on $899K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/sports/\n\nDallas wins priced at 55.0% on Kalshi, up 23.0 points, on $1.9M traded\nPredictionBubbles' sports board, fresh on its Oct. 29, 03:03 UTC crawl, lists the Dallas contract among its traded sports markets, in a sports markets category matching…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Alycia Parks wins priced at 97.0% on Kalshi, up 57.0 points, on $899K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Dallas wins priced at 55.0% on Kalshi, up 23.0 points, on $1.9M traded<br/>PredictionBubbles&#x27; sports board, fresh on its Oct. 29, 03:03 UTC crawl, lists the Dallas contract among its traded sports markets, in a sports markets category matching…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-28T22:54:00-04:00",
+      "date_modified": "2026-10-28T22:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/sports/",
+      "links": [
+        "https://predictionbubbles.net/markets/sports/"
+      ],
+      "timestamp": "Oct 28, 2026 · 10:54 PM ET",
+      "body": "Infiniti Briefing\n\nAlycia Parks wins priced at 97.0% on Kalshi, up 57.0 points, on $899K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/sports/\n\nDallas wins priced at 55.0% on Kalshi, up 23.0 points, on $1.9M traded\nPredictionBubbles' sports board, fresh on its Oct. 29, 03:03 UTC crawl, lists the Dallas contract among its traded sports markets, in a sports markets category matching…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-28T22:54:00-04:00",
+      "source": "2026-10-28_2254-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-28_2245-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_2245-edt-0",
@@ -4534,161 +4686,6 @@
       "image_url": null,
       "published": "2026-10-28T16:00:00-04:00",
       "source": "2026-10-28_1600-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_1600-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1600-edt-3",
-      "title": "Polymarket prices Bitcoin hitting 100,000 dollars by year end at 17 percent and 110,000 dollars at 9 percent, Moneyweb reports",
-      "content_text": "- **Polymarket prices Bitcoin hitting 100,000 dollars by year end at 17 percent and 110,000 dollars at 9 percent, Moneyweb reports** — Bitcoin has reverted to around 80,000 dollars after advancing above 87,000 dollars earlier, and Polymarket traders put the odds of it hitting 100,000 dollars by the end of the year at 17 percent and 110,000 dollars at 9 percent. Researchers at Glassnode said buyers from the past two years break even around 87,000 dollars and above and have sold into rallies at that level twice this year. ([Moneyweb](https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/bitcoins-road-to-100-000-is-crowded-with-would-be-sellers/))",
-      "content_html": "<p>- **Polymarket prices Bitcoin hitting 100,000 dollars by year end at 17 percent and 110,000 dollars at 9 percent, Moneyweb reports** — Bitcoin has reverted to around 80,000 dollars after advancing above 87,000 dollars earlier, and Polymarket traders put the odds of it hitting 100,000 dollars by the end of the year at 17 percent and 110,000 dollars at 9 percent. Researchers at Glassnode said buyers from the past two years break even around 87,000 dollars and above and have sold into rallies at that level twice this year. ([Moneyweb](https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/bitcoins-road-to-100-000-is-crowded-with-would-be-sellers/))</p>",
-      "date_published": "2026-10-28T16:00:00-04:00",
-      "date_modified": "2026-10-28T16:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/bitcoins-road-to-100-000-is-crowded-with-would-be-sellers/",
-      "links": [
-        "https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/bitcoins-road-to-100-000-is-crowded-with-would-be-sellers/"
-      ],
-      "timestamp": "Oct 28, 2026 · 4:00 PM ET",
-      "body": "- **Polymarket prices Bitcoin hitting 100,000 dollars by year end at 17 percent and 110,000 dollars at 9 percent, Moneyweb reports** — Bitcoin has reverted to around 80,000 dollars after advancing above 87,000 dollars earlier, and Polymarket traders put the odds of it hitting 100,000 dollars by the end of the year at 17 percent and 110,000 dollars at 9 percent. Researchers at Glassnode said buyers from the past two years break even around 87,000 dollars and above and have sold into rallies at that level twice this year. ([Moneyweb](https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/bitcoins-road-to-100-000-is-crowded-with-would-be-sellers/))",
-      "image_url": null,
-      "published": "2026-10-28T16:00:00-04:00",
-      "source": "2026-10-28_1600-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_1600-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1600-edt-4",
-      "title": "Hyperliquid HIP-4 outcome markets price Bitcoin at or above 80,872 dollars at 54 percent against Polymarket near 51 percent, Cipher Intelligence reports",
-      "content_text": "- **Hyperliquid HIP-4 outcome markets price Bitcoin at or above 80,872 dollars at 54 percent against Polymarket near 51 percent, Cipher Intelligence reports** — Hyperliquid's HIP-4 outcome contracts are fully collateralised Yes and No markets traded from a Hyperliquid balance. On October 28 at 12:32 UTC its daily contract on Bitcoin at or above 80,872 dollars traded at 54 percent, while Polymarket's ladder for the same day implied about 51 percent at that strike, with the two settling 10 hours apart on different price sources. ([Cipher Intelligence](https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/))",
-      "content_html": "<p>- **Hyperliquid HIP-4 outcome markets price Bitcoin at or above 80,872 dollars at 54 percent against Polymarket near 51 percent, Cipher Intelligence reports** — Hyperliquid&#x27;s HIP-4 outcome contracts are fully collateralised Yes and No markets traded from a Hyperliquid balance. On October 28 at 12:32 UTC its daily contract on Bitcoin at or above 80,872 dollars traded at 54 percent, while Polymarket&#x27;s ladder for the same day implied about 51 percent at that strike, with the two settling 10 hours apart on different price sources. ([Cipher Intelligence](https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/))</p>",
-      "date_published": "2026-10-28T16:00:00-04:00",
-      "date_modified": "2026-10-28T16:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/",
-      "links": [
-        "https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/"
-      ],
-      "timestamp": "Oct 28, 2026 · 4:00 PM ET",
-      "body": "- **Hyperliquid HIP-4 outcome markets price Bitcoin at or above 80,872 dollars at 54 percent against Polymarket near 51 percent, Cipher Intelligence reports** — Hyperliquid's HIP-4 outcome contracts are fully collateralised Yes and No markets traded from a Hyperliquid balance. On October 28 at 12:32 UTC its daily contract on Bitcoin at or above 80,872 dollars traded at 54 percent, while Polymarket's ladder for the same day implied about 51 percent at that strike, with the two settling 10 hours apart on different price sources. ([Cipher Intelligence](https://cipher-intelligence.io/blog/hyperliquid-prediction-markets/))",
-      "image_url": null,
-      "published": "2026-10-28T16:00:00-04:00",
-      "source": "2026-10-28_1600-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-28_1554-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_1554-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nUpper bound of the target federal funds rate be 4.25% at the end of 2026 priced at 79.5% on Polymarket, up 8.4 points, on $583K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nMiguel Díaz-Canel leave First Secretary of the Communist Party of Cuba before Jan 1, 2027 priced at 17.0% on Kalshi, up 8.8 points, on $755K traded\nPredictionBubbles' movers board lists the Díaz-Canel contract among its moving political markets, in a political/election category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Upper bound of the target federal funds rate be 4.25% at the end of 2026 priced at 79.5% on Polymarket, up 8.4 points, on $583K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…<br/>#PredictionMarkets #Polymarket #Senate #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Miguel Díaz-Canel leave First Secretary of the Communist Party of Cuba before Jan 1, 2027 priced at 17.0% on Kalshi, up 8.8 points, on $755K traded<br/>PredictionBubbles&#x27; movers board lists the Díaz-Canel contract among its moving political markets, in a political/election category distinct from the lead. It has zero…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-28T15:54:00-04:00",
-      "date_modified": "2026-10-28T15:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Polymarket",
-        "Senate",
-        "CFTC",
-        "Kalshi",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 28, 2026 · 3:54 PM ET",
-      "body": "Infiniti Briefing\n\nUpper bound of the target federal funds rate be 4.25% at the end of 2026 priced at 79.5% on Polymarket, up 8.4 points, on $583K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today, taken by website-only batches, or on the banned list…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nMiguel Díaz-Canel leave First Secretary of the Communist Party of Cuba before Jan 1, 2027 priced at 17.0% on Kalshi, up 8.8 points, on $755K traded\nPredictionBubbles' movers board lists the Díaz-Canel contract among its moving political markets, in a political/election category distinct from the lead. It has zero…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-28T15:54:00-04:00",
-      "source": "2026-10-28_1554-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_1545-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1545-edt-0",
-      "title": "Texas Senate market prices Talarico at 66 cents on both Polymarket and Kalshi on 46.7 million dollars traded, Action Network reports",
-      "content_text": "- **Texas Senate market prices Talarico at 66 cents on both Polymarket and Kalshi on 46.7 million dollars traded, Action Network reports** — Both exchanges price James Talarico at 66 cents, up 1 point, against Ken Paxton at 36 cents on Polymarket and 35 cents on Kalshi, even though recent polls range from a 49-49 tie to a 5-point Talarico lead. Kalshi's market has traded more than 46.7 million dollars and its margin forecast is Talarico plus 2.1, with more than 4.5 million Texans having voted early as of October 26. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-27-update))",
-      "content_html": "<p>- **Texas Senate market prices Talarico at 66 cents on both Polymarket and Kalshi on 46.7 million dollars traded, Action Network reports** — Both exchanges price James Talarico at 66 cents, up 1 point, against Ken Paxton at 36 cents on Polymarket and 35 cents on Kalshi, even though recent polls range from a 49-49 tie to a 5-point Talarico lead. Kalshi&#x27;s market has traded more than 46.7 million dollars and its margin forecast is Talarico plus 2.1, with more than 4.5 million Texans having voted early as of October 26. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-27-update))</p>",
-      "date_published": "2026-10-28T15:45:00-04:00",
-      "date_modified": "2026-10-28T15:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-27-update",
-      "links": [
-        "https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-27-update"
-      ],
-      "timestamp": "Oct 28, 2026 · 3:45 PM ET",
-      "body": "- **Texas Senate market prices Talarico at 66 cents on both Polymarket and Kalshi on 46.7 million dollars traded, Action Network reports** — Both exchanges price James Talarico at 66 cents, up 1 point, against Ken Paxton at 36 cents on Polymarket and 35 cents on Kalshi, even though recent polls range from a 49-49 tie to a 5-point Talarico lead. Kalshi's market has traded more than 46.7 million dollars and its margin forecast is Talarico plus 2.1, with more than 4.5 million Texans having voted early as of October 26. ([Action Network](https://www.actionnetwork.com/news/texas-senate-race-odds-2026-kalshi-polymarket-texas-senate-predictions-talarico-vs-paxton-polls-analysis-oct-27-update))",
-      "image_url": null,
-      "published": "2026-10-28T15:45:00-04:00",
-      "source": "2026-10-28_1545-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-28_1545-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-28_1545-edt-1",
-      "title": "Kalshi prices Chiefs at 58 percent and Steelers at 53 percent in Josh Downs next team market after trade request, Action Network reports",
-      "content_text": "- **Kalshi prices Chiefs at 58 percent and Steelers at 53 percent in Josh Downs next team market after trade request, Action Network reports** — Colts wide receiver Josh Downs requested a trade after Indianapolis traded Quenton Nelson and DeForest Buckner, and Kalshi's next team market prices Kansas City at 58 percent and Pittsburgh at 53 percent, with San Francisco at 8 percent. The market resolves on Downs' next team before December 1, 2026, ahead of the November 10 NFL trade deadline. ([Action Network](https://www.actionnetwork.com/news/josh-downs-next-team-odds-trade-the-market-on-kalshi))",
-      "content_html": "<p>- **Kalshi prices Chiefs at 58 percent and Steelers at 53 percent in Josh Downs next team market after trade request, Action Network reports** — Colts wide receiver Josh Downs requested a trade after Indianapolis traded Quenton Nelson and DeForest Buckner, and Kalshi&#x27;s next team market prices Kansas City at 58 percent and Pittsburgh at 53 percent, with San Francisco at 8 percent. The market resolves on Downs&#x27; next team before December 1, 2026, ahead of the November 10 NFL trade deadline. ([Action Network](https://www.actionnetwork.com/news/josh-downs-next-team-odds-trade-the-market-on-kalshi))</p>",
-      "date_published": "2026-10-28T15:45:00-04:00",
-      "date_modified": "2026-10-28T15:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/josh-downs-next-team-odds-trade-the-market-on-kalshi",
-      "links": [
-        "https://www.actionnetwork.com/news/josh-downs-next-team-odds-trade-the-market-on-kalshi"
-      ],
-      "timestamp": "Oct 28, 2026 · 3:45 PM ET",
-      "body": "- **Kalshi prices Chiefs at 58 percent and Steelers at 53 percent in Josh Downs next team market after trade request, Action Network reports** — Colts wide receiver Josh Downs requested a trade after Indianapolis traded Quenton Nelson and DeForest Buckner, and Kalshi's next team market prices Kansas City at 58 percent and Pittsburgh at 53 percent, with San Francisco at 8 percent. The market resolves on Downs' next team before December 1, 2026, ahead of the November 10 NFL trade deadline. ([Action Network](https://www.actionnetwork.com/news/josh-downs-next-team-odds-trade-the-market-on-kalshi))",
-      "image_url": null,
-      "published": "2026-10-28T15:45:00-04:00",
-      "source": "2026-10-28_1545-edt.json",
       "matches_facebook_post": false
     }
   ]
