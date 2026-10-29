@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-29T07:27:19.448811-04:00",
+  "updated": "2026-10-29T07:38:54.120130-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,189 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-29_0730-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0730-edt-0",
+      "title": "Broadridge extends CQG multi-asset offering with Kalshi, giving brokers and FCMs direct event-contract trading access, Morningstar reports",
+      "content_text": "- **Broadridge extends CQG multi-asset offering with Kalshi, giving brokers and FCMs direct event-contract trading access, Morningstar reports** — Broadridge said brokers and futures commission merchants can offer clients direct Kalshi trading access and market data through CQG front-ends and APIs, with access also available to more than 1,700 buy-side clients on the NYFIX network. Kalshi head of institutional Andy Ross said traders can now incorporate event contracts into broader portfolio and hedging strategies in a single platform. ([Morningstar](https://www.morningstar.com/news/pr-newswire/20261029ny81200/broadridge-extends-its-cqg-multi-asset-offering-with-kalshi))",
+      "content_html": "<p>- **Broadridge extends CQG multi-asset offering with Kalshi, giving brokers and FCMs direct event-contract trading access, Morningstar reports** — Broadridge said brokers and futures commission merchants can offer clients direct Kalshi trading access and market data through CQG front-ends and APIs, with access also available to more than 1,700 buy-side clients on the NYFIX network. Kalshi head of institutional Andy Ross said traders can now incorporate event contracts into broader portfolio and hedging strategies in a single platform. ([Morningstar](https://www.morningstar.com/news/pr-newswire/20261029ny81200/broadridge-extends-its-cqg-multi-asset-offering-with-kalshi))</p>",
+      "date_published": "2026-10-29T07:30:00-04:00",
+      "date_modified": "2026-10-29T07:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://www.morningstar.com/news/pr-newswire/20261029ny81200/broadridge-extends-its-cqg-multi-asset-offering-with-kalshi",
+      "links": [
+        "https://www.morningstar.com/news/pr-newswire/20261029ny81200/broadridge-extends-its-cqg-multi-asset-offering-with-kalshi"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:30 AM ET",
+      "body": "- **Broadridge extends CQG multi-asset offering with Kalshi, giving brokers and FCMs direct event-contract trading access, Morningstar reports** — Broadridge said brokers and futures commission merchants can offer clients direct Kalshi trading access and market data through CQG front-ends and APIs, with access also available to more than 1,700 buy-side clients on the NYFIX network. Kalshi head of institutional Andy Ross said traders can now incorporate event contracts into broader portfolio and hedging strategies in a single platform. ([Morningstar](https://www.morningstar.com/news/pr-newswire/20261029ny81200/broadridge-extends-its-cqg-multi-asset-offering-with-kalshi))",
+      "image_url": null,
+      "published": "2026-10-29T07:30:00-04:00",
+      "source": "2026-10-29_0730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-29_0730-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0730-edt-1",
+      "title": "CFTC sues Utah to shield Kalshi after state files criminal charges against the exchange, Basis Desk reports",
+      "content_text": "- **CFTC sues Utah to shield Kalshi after state files criminal charges against the exchange, Basis Desk reports** — Basis Desk reported October 29 that the CFTC sued Utah over its prediction market ban after the state filed 14 felony counts against Kalshi and its co-founders. The federal agency argues Utah gambling laws obstruct federal oversight, highlighting a circuit split over whether federal derivatives rules preempt state gambling prohibitions. ([Basis Desk](https://basisdesk.news/news/cftc-sues-utah-kalshi-prediction-markets-criminal-charges))",
+      "content_html": "<p>- **CFTC sues Utah to shield Kalshi after state files criminal charges against the exchange, Basis Desk reports** — Basis Desk reported October 29 that the CFTC sued Utah over its prediction market ban after the state filed 14 felony counts against Kalshi and its co-founders. The federal agency argues Utah gambling laws obstruct federal oversight, highlighting a circuit split over whether federal derivatives rules preempt state gambling prohibitions. ([Basis Desk](https://basisdesk.news/news/cftc-sues-utah-kalshi-prediction-markets-criminal-charges))</p>",
+      "date_published": "2026-10-29T07:30:00-04:00",
+      "date_modified": "2026-10-29T07:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://basisdesk.news/news/cftc-sues-utah-kalshi-prediction-markets-criminal-charges",
+      "links": [
+        "https://basisdesk.news/news/cftc-sues-utah-kalshi-prediction-markets-criminal-charges"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:30 AM ET",
+      "body": "- **CFTC sues Utah to shield Kalshi after state files criminal charges against the exchange, Basis Desk reports** — Basis Desk reported October 29 that the CFTC sued Utah over its prediction market ban after the state filed 14 felony counts against Kalshi and its co-founders. The federal agency argues Utah gambling laws obstruct federal oversight, highlighting a circuit split over whether federal derivatives rules preempt state gambling prohibitions. ([Basis Desk](https://basisdesk.news/news/cftc-sues-utah-kalshi-prediction-markets-criminal-charges))",
+      "image_url": null,
+      "published": "2026-10-29T07:30:00-04:00",
+      "source": "2026-10-29_0730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-29_0730-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0730-edt-2",
+      "title": "Kalshi prices Texas Senate race at 66 percent for Talarico against 34 percent for Paxton into final early-voting stretch, Kalshi News reports",
+      "content_text": "- **Kalshi prices Texas Senate race at 66 percent for Talarico against 34 percent for Paxton into final early-voting stretch, Kalshi News reports** — Kalshi News reported traders have held James Talarico between 65 and 66 percent for two straight weeks, hitting 67 percent on Wednesday, as early voting ends Friday. The margin market priced Talarico winning by 2 points or more at 56 percent, against Paxton winning by 2 or more at 26 percent. ([Kalshi News](https://news.kalshi.com/p/texas-senate-odds-talarico-holds-at-66-after-dueling-lubbock-rallies-and-musk-feud))",
+      "content_html": "<p>- **Kalshi prices Texas Senate race at 66 percent for Talarico against 34 percent for Paxton into final early-voting stretch, Kalshi News reports** — Kalshi News reported traders have held James Talarico between 65 and 66 percent for two straight weeks, hitting 67 percent on Wednesday, as early voting ends Friday. The margin market priced Talarico winning by 2 points or more at 56 percent, against Paxton winning by 2 or more at 26 percent. ([Kalshi News](https://news.kalshi.com/p/texas-senate-odds-talarico-holds-at-66-after-dueling-lubbock-rallies-and-musk-feud))</p>",
+      "date_published": "2026-10-29T07:30:00-04:00",
+      "date_modified": "2026-10-29T07:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://news.kalshi.com/p/texas-senate-odds-talarico-holds-at-66-after-dueling-lubbock-rallies-and-musk-feud",
+      "links": [
+        "https://news.kalshi.com/p/texas-senate-odds-talarico-holds-at-66-after-dueling-lubbock-rallies-and-musk-feud"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:30 AM ET",
+      "body": "- **Kalshi prices Texas Senate race at 66 percent for Talarico against 34 percent for Paxton into final early-voting stretch, Kalshi News reports** — Kalshi News reported traders have held James Talarico between 65 and 66 percent for two straight weeks, hitting 67 percent on Wednesday, as early voting ends Friday. The margin market priced Talarico winning by 2 points or more at 56 percent, against Paxton winning by 2 or more at 26 percent. ([Kalshi News](https://news.kalshi.com/p/texas-senate-odds-talarico-holds-at-66-after-dueling-lubbock-rallies-and-musk-feud))",
+      "image_url": null,
+      "published": "2026-10-29T07:30:00-04:00",
+      "source": "2026-10-29_0730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-29_0730-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0730-edt-3",
+      "title": "Polymarket probabilities anchor Covers October 29 NBA moneyline board for Cavaliers-Hawks, Kings-Pelicans and Grizzlies-Trail Blazers, Covers reports",
+      "content_text": "- **Polymarket probabilities anchor Covers October 29 NBA moneyline board for Cavaliers-Hawks, Kings-Pelicans and Grizzlies-Trail Blazers, Covers reports** — Covers updated its Thursday, October 29 NBA moneyline picks at 6:00 AM ET, using Polymarket probabilities for a three-game slate. The board listed the Cavaliers-Hawks matchup at 51 percent, Kings-Pelicans at 69 percent and Grizzlies-Trail Blazers at 70 percent for its picks. ([Covers](https://www.covers.com/nba/moneyline-predictions-picks-thursday-10-29-2026))",
+      "content_html": "<p>- **Polymarket probabilities anchor Covers October 29 NBA moneyline board for Cavaliers-Hawks, Kings-Pelicans and Grizzlies-Trail Blazers, Covers reports** — Covers updated its Thursday, October 29 NBA moneyline picks at 6:00 AM ET, using Polymarket probabilities for a three-game slate. The board listed the Cavaliers-Hawks matchup at 51 percent, Kings-Pelicans at 69 percent and Grizzlies-Trail Blazers at 70 percent for its picks. ([Covers](https://www.covers.com/nba/moneyline-predictions-picks-thursday-10-29-2026))</p>",
+      "date_published": "2026-10-29T07:30:00-04:00",
+      "date_modified": "2026-10-29T07:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/nba/moneyline-predictions-picks-thursday-10-29-2026",
+      "links": [
+        "https://www.covers.com/nba/moneyline-predictions-picks-thursday-10-29-2026"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:30 AM ET",
+      "body": "- **Polymarket probabilities anchor Covers October 29 NBA moneyline board for Cavaliers-Hawks, Kings-Pelicans and Grizzlies-Trail Blazers, Covers reports** — Covers updated its Thursday, October 29 NBA moneyline picks at 6:00 AM ET, using Polymarket probabilities for a three-game slate. The board listed the Cavaliers-Hawks matchup at 51 percent, Kings-Pelicans at 69 percent and Grizzlies-Trail Blazers at 70 percent for its picks. ([Covers](https://www.covers.com/nba/moneyline-predictions-picks-thursday-10-29-2026))",
+      "image_url": null,
+      "published": "2026-10-29T07:30:00-04:00",
+      "source": "2026-10-29_0730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-29_0730-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0730-edt-4",
+      "title": "Pentagon restricts military prediction market trading as Congress expands VIP scrutiny to Kalshi and Polymarket, Gambling Insider reports",
+      "content_text": "- **Pentagon restricts military prediction market trading as Congress expands VIP scrutiny to Kalshi and Polymarket, Gambling Insider reports** — Gambling Insider reported the Pentagon directive prohibits military personnel from using nonpublic information to trade on prediction markets, with Defense Secretary Pete Hegseth warning adversaries watch movements in these markets. The roundup also noted congressional scrutiny of VIP programs has expanded to six more companies, including DraftKings, Kalshi and Polymarket. ([Gambling Insider](https://www.gamblinginsider.com/news/197440/pentagon-prediction-markets-congress-vip-programs))",
+      "content_html": "<p>- **Pentagon restricts military prediction market trading as Congress expands VIP scrutiny to Kalshi and Polymarket, Gambling Insider reports** — Gambling Insider reported the Pentagon directive prohibits military personnel from using nonpublic information to trade on prediction markets, with Defense Secretary Pete Hegseth warning adversaries watch movements in these markets. The roundup also noted congressional scrutiny of VIP programs has expanded to six more companies, including DraftKings, Kalshi and Polymarket. ([Gambling Insider](https://www.gamblinginsider.com/news/197440/pentagon-prediction-markets-congress-vip-programs))</p>",
+      "date_published": "2026-10-29T07:30:00-04:00",
+      "date_modified": "2026-10-29T07:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Congress",
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": "https://www.gamblinginsider.com/news/197440/pentagon-prediction-markets-congress-vip-programs",
+      "links": [
+        "https://www.gamblinginsider.com/news/197440/pentagon-prediction-markets-congress-vip-programs"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:30 AM ET",
+      "body": "- **Pentagon restricts military prediction market trading as Congress expands VIP scrutiny to Kalshi and Polymarket, Gambling Insider reports** — Gambling Insider reported the Pentagon directive prohibits military personnel from using nonpublic information to trade on prediction markets, with Defense Secretary Pete Hegseth warning adversaries watch movements in these markets. The roundup also noted congressional scrutiny of VIP programs has expanded to six more companies, including DraftKings, Kalshi and Polymarket. ([Gambling Insider](https://www.gamblinginsider.com/news/197440/pentagon-prediction-markets-congress-vip-programs))",
+      "image_url": null,
+      "published": "2026-10-29T07:30:00-04:00",
+      "source": "2026-10-29_0730-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-29_0724-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-29_0724-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nBuffalo win the 2027 Pro Football Championship priced at 13.0% on Kalshi, up 2.0 points, on $10.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/sports/\n\nFederal Reserve cut rates before 2027 — Cuts priced at 3.0% on Kalshi, down 2.1 points, on $1.6M traded\nPredictionBubbles' other board, page crawled Oct. 29, 11:11 UTC at 23 open markets with $48.8M traded, lists the any-cut contract as its largest move, in a finance…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/other/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Buffalo win the 2027 Pro Football Championship priced at 13.0% on Kalshi, up 2.0 points, on $10.0M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Federal Reserve cut rates before 2027 — Cuts priced at 3.0% on Kalshi, down 2.1 points, on $1.6M traded<br/>PredictionBubbles&#x27; other board, page crawled Oct. 29, 11:11 UTC at 23 open markets with $48.8M traded, lists the any-cut contract as its largest move, in a finance…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/other/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-29T07:24:00-04:00",
+      "date_modified": "2026-10-29T07:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/sports/",
+      "links": [
+        "https://predictionbubbles.net/markets/sports/",
+        "https://predictionbubbles.net/markets/other/"
+      ],
+      "timestamp": "Oct 29, 2026 · 7:24 AM ET",
+      "body": "Infiniti Briefing\n\nBuffalo win the 2027 Pro Football Championship priced at 13.0% on Kalshi, up 2.0 points, on $10.0M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/sports/\n\nFederal Reserve cut rates before 2027 — Cuts priced at 3.0% on Kalshi, down 2.1 points, on $1.6M traded\nPredictionBubbles' other board, page crawled Oct. 29, 11:11 UTC at 23 open markets with $48.8M traded, lists the any-cut contract as its largest move, in a finance…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/other/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-29T07:24:00-04:00",
+      "source": "2026-10-29_0724-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-29_0715-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0715-edt-0",
@@ -4496,187 +4679,6 @@
       "image_url": null,
       "published": "2026-10-29T00:15:00-04:00",
       "source": "2026-10-29_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_0015-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0015-edt-1",
-      "title": "Polymarket prices a December Fed 25 basis point hike at 79.5 percent on 6.89 million dollars traded, matching Kalshi, PolymarketTrader reports",
-      "content_text": "- **Polymarket prices a December Fed 25 basis point hike at 79.5 percent on 6.89 million dollars traded, matching Kalshi, PolymarketTrader reports** — PolymarketTrader, updated October 29, put a 25 basis point hike at the December 8 to 9 Fed meeting at 79.5 percent with no change at 17.5 percent, on 6.89 million dollars of volume. Kalshi priced the same hike at 79.5 percent, a gap of zero points, with January most likely to bring no change at 66.5 percent on Polymarket. ([PolymarketTrader](https://polymarkettrader.com/odds/fed-rate-odds/))",
-      "content_html": "<p>- **Polymarket prices a December Fed 25 basis point hike at 79.5 percent on 6.89 million dollars traded, matching Kalshi, PolymarketTrader reports** — PolymarketTrader, updated October 29, put a 25 basis point hike at the December 8 to 9 Fed meeting at 79.5 percent with no change at 17.5 percent, on 6.89 million dollars of volume. Kalshi priced the same hike at 79.5 percent, a gap of zero points, with January most likely to bring no change at 66.5 percent on Polymarket. ([PolymarketTrader](https://polymarkettrader.com/odds/fed-rate-odds/))</p>",
-      "date_published": "2026-10-29T00:15:00-04:00",
-      "date_modified": "2026-10-29T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarkettrader.com/odds/fed-rate-odds/",
-      "links": [
-        "https://polymarkettrader.com/odds/fed-rate-odds/"
-      ],
-      "timestamp": "Oct 29, 2026 · 12:15 AM ET",
-      "body": "- **Polymarket prices a December Fed 25 basis point hike at 79.5 percent on 6.89 million dollars traded, matching Kalshi, PolymarketTrader reports** — PolymarketTrader, updated October 29, put a 25 basis point hike at the December 8 to 9 Fed meeting at 79.5 percent with no change at 17.5 percent, on 6.89 million dollars of volume. Kalshi priced the same hike at 79.5 percent, a gap of zero points, with January most likely to bring no change at 66.5 percent on Polymarket. ([PolymarketTrader](https://polymarkettrader.com/odds/fed-rate-odds/))",
-      "image_url": null,
-      "published": "2026-10-29T00:15:00-04:00",
-      "source": "2026-10-29_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_0015-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0015-edt-2",
-      "title": "Los Angeles mayor market moves to Bass at 59 percent, up 14 points, against Raman at 41 percent on Kalshi, CoinStats reports",
-      "content_text": "- **Los Angeles mayor market moves to Bass at 59 percent, up 14 points, against Raman at 41 percent on Kalshi, CoinStats reports** — CoinStats Kalshi movers for October 28 showed Karen Bass at 59 cents, up 14 points, on 463,786 dollars traded in the Los Angeles mayor race, while Nithya Raman fell 15 points to 41 cents on 579,515 dollars traded. Kalshi rolling 24 hour volume was 73.75 million dollars as of midday UTC on October 28, up from 61.32 million dollars a day earlier. ([CoinStats](https://coinstats.app/ai/a/kalshi-news-today))",
-      "content_html": "<p>- **Los Angeles mayor market moves to Bass at 59 percent, up 14 points, against Raman at 41 percent on Kalshi, CoinStats reports** — CoinStats Kalshi movers for October 28 showed Karen Bass at 59 cents, up 14 points, on 463,786 dollars traded in the Los Angeles mayor race, while Nithya Raman fell 15 points to 41 cents on 579,515 dollars traded. Kalshi rolling 24 hour volume was 73.75 million dollars as of midday UTC on October 28, up from 61.32 million dollars a day earlier. ([CoinStats](https://coinstats.app/ai/a/kalshi-news-today))</p>",
-      "date_published": "2026-10-29T00:15:00-04:00",
-      "date_modified": "2026-10-29T00:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://coinstats.app/ai/a/kalshi-news-today",
-      "links": [
-        "https://coinstats.app/ai/a/kalshi-news-today"
-      ],
-      "timestamp": "Oct 29, 2026 · 12:15 AM ET",
-      "body": "- **Los Angeles mayor market moves to Bass at 59 percent, up 14 points, against Raman at 41 percent on Kalshi, CoinStats reports** — CoinStats Kalshi movers for October 28 showed Karen Bass at 59 cents, up 14 points, on 463,786 dollars traded in the Los Angeles mayor race, while Nithya Raman fell 15 points to 41 cents on 579,515 dollars traded. Kalshi rolling 24 hour volume was 73.75 million dollars as of midday UTC on October 28, up from 61.32 million dollars a day earlier. ([CoinStats](https://coinstats.app/ai/a/kalshi-news-today))",
-      "image_url": null,
-      "published": "2026-10-29T00:15:00-04:00",
-      "source": "2026-10-29_0015-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-29_0009-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-29_0009-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nRussia capture all of Kostyantynivka by December 31, 2026 priced at 7.5% on Polymarket, down 5.0 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held (the NBA preferred-partner deal and the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nArsenal win the English Premier League priced at 65.0% on Kalshi, down 3.0 points, on $784K traded\nPredictionBubbles' movers board lists the Arsenal contract among its sports moves, in a sports markets category. It has zero priced hits in any Oct. 28 edition in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Russia capture all of Kostyantynivka by December 31, 2026 priced at 7.5% on Polymarket, down 5.0 points, on $1.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held (the NBA preferred-partner deal and the…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Arsenal win the English Premier League priced at 65.0% on Kalshi, down 3.0 points, on $784K traded<br/>PredictionBubbles&#x27; movers board lists the Arsenal contract among its sports moves, in a sports markets category. It has zero priced hits in any Oct. 28 edition in…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-29T00:09:00-04:00",
-      "date_modified": "2026-10-29T00:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 29, 2026 · 12:09 AM ET",
-      "body": "Infiniti Briefing\n\nRussia capture all of Kostyantynivka by December 31, 2026 priced at 7.5% on Polymarket, down 5.0 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held (the NBA preferred-partner deal and the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nArsenal win the English Premier League priced at 65.0% on Kalshi, down 3.0 points, on $784K traded\nPredictionBubbles' movers board lists the Arsenal contract among its sports moves, in a sports markets category. It has zero priced hits in any Oct. 28 edition in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-29T00:09:00-04:00",
-      "source": "2026-10-29_0009-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_0000-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0000-edt-0",
-      "title": "Polymarket prices NVIDIA at about 94 percent to end October as the world's largest company ahead of Apple, KuCoin reports",
-      "content_text": "- **Polymarket prices NVIDIA at about 94 percent to end October as the world's largest company ahead of Apple, KuCoin reports** — KuCoin detailed the Polymarket Largest Company end of October 2026 market, which resolves on the market capitalization ranking at the close on October 31. NVIDIA was priced at about 94 percent with a market capitalization near 5.26 trillion dollars, ahead of Apple near 5.07 trillion dollars. ([KuCoin](https://www.kucoin.com/blog/who-will-be-the-world-largest-company-at-the-end-of-october-2026-inside-the-polymarket-event-on-kucoin))",
-      "content_html": "<p>- **Polymarket prices NVIDIA at about 94 percent to end October as the world&#x27;s largest company ahead of Apple, KuCoin reports** — KuCoin detailed the Polymarket Largest Company end of October 2026 market, which resolves on the market capitalization ranking at the close on October 31. NVIDIA was priced at about 94 percent with a market capitalization near 5.26 trillion dollars, ahead of Apple near 5.07 trillion dollars. ([KuCoin](https://www.kucoin.com/blog/who-will-be-the-world-largest-company-at-the-end-of-october-2026-inside-the-polymarket-event-on-kucoin))</p>",
-      "date_published": "2026-10-29T00:00:00-04:00",
-      "date_modified": "2026-10-29T00:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.kucoin.com/blog/who-will-be-the-world-largest-company-at-the-end-of-october-2026-inside-the-polymarket-event-on-kucoin",
-      "links": [
-        "https://www.kucoin.com/blog/who-will-be-the-world-largest-company-at-the-end-of-october-2026-inside-the-polymarket-event-on-kucoin"
-      ],
-      "timestamp": "Oct 29, 2026 · 12:00 AM ET",
-      "body": "- **Polymarket prices NVIDIA at about 94 percent to end October as the world's largest company ahead of Apple, KuCoin reports** — KuCoin detailed the Polymarket Largest Company end of October 2026 market, which resolves on the market capitalization ranking at the close on October 31. NVIDIA was priced at about 94 percent with a market capitalization near 5.26 trillion dollars, ahead of Apple near 5.07 trillion dollars. ([KuCoin](https://www.kucoin.com/blog/who-will-be-the-world-largest-company-at-the-end-of-october-2026-inside-the-polymarket-event-on-kucoin))",
-      "image_url": null,
-      "published": "2026-10-29T00:00:00-04:00",
-      "source": "2026-10-29_0000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_0000-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_0000-edt-1",
-      "title": "Bitcoin returns above 81,000 dollars after the Fed holds rates, with markets pricing about 83 percent chance of a December hike, Morningstar reports",
-      "content_text": "- **Bitcoin returns above 81,000 dollars after the Fed holds rates, with markets pricing about 83 percent chance of a December hike, Morningstar reports** — Morningstar, citing Dow Jones, reported Bitcoin climbed back above 81,000 dollars to 81,245 dollars, up 0.7 percent, after the Federal Reserve voted 10 to 2 to hold rates at 3.75 to 4.00 percent on October 28. Ether was 0.6 percent higher at 2,360 dollars, and CME Group data put the chance of a quarter point hike in December near 83 percent. ([Morningstar](https://www.morningstar.com/news/dow-jones/2026102814741/bitcoin-returns-to-81000-after-fed-holds-rates-2nd-update))",
-      "content_html": "<p>- **Bitcoin returns above 81,000 dollars after the Fed holds rates, with markets pricing about 83 percent chance of a December hike, Morningstar reports** — Morningstar, citing Dow Jones, reported Bitcoin climbed back above 81,000 dollars to 81,245 dollars, up 0.7 percent, after the Federal Reserve voted 10 to 2 to hold rates at 3.75 to 4.00 percent on October 28. Ether was 0.6 percent higher at 2,360 dollars, and CME Group data put the chance of a quarter point hike in December near 83 percent. ([Morningstar](https://www.morningstar.com/news/dow-jones/2026102814741/bitcoin-returns-to-81000-after-fed-holds-rates-2nd-update))</p>",
-      "date_published": "2026-10-29T00:00:00-04:00",
-      "date_modified": "2026-10-29T00:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://www.morningstar.com/news/dow-jones/2026102814741/bitcoin-returns-to-81000-after-fed-holds-rates-2nd-update",
-      "links": [
-        "https://www.morningstar.com/news/dow-jones/2026102814741/bitcoin-returns-to-81000-after-fed-holds-rates-2nd-update"
-      ],
-      "timestamp": "Oct 29, 2026 · 12:00 AM ET",
-      "body": "- **Bitcoin returns above 81,000 dollars after the Fed holds rates, with markets pricing about 83 percent chance of a December hike, Morningstar reports** — Morningstar, citing Dow Jones, reported Bitcoin climbed back above 81,000 dollars to 81,245 dollars, up 0.7 percent, after the Federal Reserve voted 10 to 2 to hold rates at 3.75 to 4.00 percent on October 28. Ether was 0.6 percent higher at 2,360 dollars, and CME Group data put the chance of a quarter point hike in December near 83 percent. ([Morningstar](https://www.morningstar.com/news/dow-jones/2026102814741/bitcoin-returns-to-81000-after-fed-holds-rates-2nd-update))",
-      "image_url": null,
-      "published": "2026-10-29T00:00:00-04:00",
-      "source": "2026-10-29_0000-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-28_2354-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-28_2354-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nTijuana wins priced at 30.0% on Kalshi, up 15.0 points, on $973K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today or on the banned list (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nAtlanta win the 2026 Women's Pro Basketball Championship priced at 34.0% on Kalshi, up 4.0 points, on $1.3M traded\nPredictionBubbles' movers board lists the Atlanta contract among its sports moves, in a sports markets category. It has zero priced hits in any Oct. 28 edition in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Tijuana wins priced at 30.0% on Kalshi, up 15.0 points, on $973K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used today or on the banned list (the NBA preferred-partner deal…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Atlanta win the 2026 Women&#x27;s Pro Basketball Championship priced at 34.0% on Kalshi, up 4.0 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board lists the Atlanta contract among its sports moves, in a sports markets category. It has zero priced hits in any Oct. 28 edition in…<br/>#PredictionMarkets #Kalshi<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-28T23:54:00-04:00",
-      "date_modified": "2026-10-28T23:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/movers/",
-      "links": [
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 28, 2026 · 11:54 PM ET",
-      "body": "Infiniti Briefing\n\nTijuana wins priced at 30.0% on Kalshi, up 15.0 points, on $973K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used today or on the banned list (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nAtlanta win the 2026 Women's Pro Basketball Championship priced at 34.0% on Kalshi, up 4.0 points, on $1.3M traded\nPredictionBubbles' movers board lists the Atlanta contract among its sports moves, in a sports markets category. It has zero priced hits in any Oct. 28 edition in…\n#PredictionMarkets #Kalshi\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-28T23:54:00-04:00",
-      "source": "2026-10-28_2354-edt.md",
       "matches_facebook_post": false
     }
   ]
