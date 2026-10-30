@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-30T19:30:03.173984-04:00",
+  "updated": "2026-10-30T19:46:05.201582-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,130 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-30_1945-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1945-edt-0",
+      "title": "Kalshi raises 1 billion dollars at a 40 billion dollar valuation, nearly doubling its value in five months",
+      "content_text": "- **Kalshi raises 1 billion dollars at a 40 billion dollar valuation, nearly doubling its value in five months** — Kalshi raised 1 billion dollars in a round co-led by Sequoia Capital and Wellington Management at a 40 billion dollar valuation, up from 22 billion dollars in May. The company plans to use the funds for leveraged event contracts, perpetual futures on individual stocks, markets on the price of compute, and its institutional business. ([Lumida News](https://lumidanews.com/kalshi-nearly-doubles-its-valuation-to-40-billion-in-five-months-as-polymarket-rolls-out-five-minute-bitcoin-bets-for-us-traders/))",
+      "content_html": "<p>- **Kalshi raises 1 billion dollars at a 40 billion dollar valuation, nearly doubling its value in five months** — Kalshi raised 1 billion dollars in a round co-led by Sequoia Capital and Wellington Management at a 40 billion dollar valuation, up from 22 billion dollars in May. The company plans to use the funds for leveraged event contracts, perpetual futures on individual stocks, markets on the price of compute, and its institutional business. ([Lumida News](https://lumidanews.com/kalshi-nearly-doubles-its-valuation-to-40-billion-in-five-months-as-polymarket-rolls-out-five-minute-bitcoin-bets-for-us-traders/))</p>",
+      "date_published": "2026-10-30T19:45:00-04:00",
+      "date_modified": "2026-10-30T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://lumidanews.com/kalshi-nearly-doubles-its-valuation-to-40-billion-in-five-months-as-polymarket-rolls-out-five-minute-bitcoin-bets-for-us-traders/",
+      "links": [
+        "https://lumidanews.com/kalshi-nearly-doubles-its-valuation-to-40-billion-in-five-months-as-polymarket-rolls-out-five-minute-bitcoin-bets-for-us-traders/"
+      ],
+      "timestamp": "Oct 30, 2026 · 7:45 PM ET",
+      "body": "- **Kalshi raises 1 billion dollars at a 40 billion dollar valuation, nearly doubling its value in five months** — Kalshi raised 1 billion dollars in a round co-led by Sequoia Capital and Wellington Management at a 40 billion dollar valuation, up from 22 billion dollars in May. The company plans to use the funds for leveraged event contracts, perpetual futures on individual stocks, markets on the price of compute, and its institutional business. ([Lumida News](https://lumidanews.com/kalshi-nearly-doubles-its-valuation-to-40-billion-in-five-months-as-polymarket-rolls-out-five-minute-bitcoin-bets-for-us-traders/))",
+      "image_url": null,
+      "published": "2026-10-30T19:45:00-04:00",
+      "source": "2026-10-30_1945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1945-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1945-edt-1",
+      "title": "Phantom opens Kalshi prediction markets to US users inside its wallet at 0.02 dollars per contract",
+      "content_text": "- **Phantom opens Kalshi prediction markets to US users inside its wallet at 0.02 dollars per contract** — Phantom is rolling out Kalshi event contracts to eligible US users through a Predict tab in its mobile app, charging 0.02 dollars per contract split between Phantom and Kalshi. Users complete Kalshi identity verification, fund trades from Phantom Cash or Solana tokens, and see different market categories depending on state restrictions. ([FinanceFeeds](https://financefeeds.com/phantom-users-can-fund-kalshi-trades-with-cash-stablecoin-balances/))",
+      "content_html": "<p>- **Phantom opens Kalshi prediction markets to US users inside its wallet at 0.02 dollars per contract** — Phantom is rolling out Kalshi event contracts to eligible US users through a Predict tab in its mobile app, charging 0.02 dollars per contract split between Phantom and Kalshi. Users complete Kalshi identity verification, fund trades from Phantom Cash or Solana tokens, and see different market categories depending on state restrictions. ([FinanceFeeds](https://financefeeds.com/phantom-users-can-fund-kalshi-trades-with-cash-stablecoin-balances/))</p>",
+      "date_published": "2026-10-30T19:45:00-04:00",
+      "date_modified": "2026-10-30T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": "https://financefeeds.com/phantom-users-can-fund-kalshi-trades-with-cash-stablecoin-balances/",
+      "links": [
+        "https://financefeeds.com/phantom-users-can-fund-kalshi-trades-with-cash-stablecoin-balances/"
+      ],
+      "timestamp": "Oct 30, 2026 · 7:45 PM ET",
+      "body": "- **Phantom opens Kalshi prediction markets to US users inside its wallet at 0.02 dollars per contract** — Phantom is rolling out Kalshi event contracts to eligible US users through a Predict tab in its mobile app, charging 0.02 dollars per contract split between Phantom and Kalshi. Users complete Kalshi identity verification, fund trades from Phantom Cash or Solana tokens, and see different market categories depending on state restrictions. ([FinanceFeeds](https://financefeeds.com/phantom-users-can-fund-kalshi-trades-with-cash-stablecoin-balances/))",
+      "image_url": null,
+      "published": "2026-10-30T19:45:00-04:00",
+      "source": "2026-10-30_1945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1945-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1945-edt-2",
+      "title": "Texas election preview puts Abbott at 63 to 64 percent and Patrick at 75 to 77 percent on Kalshi and Polymarket",
+      "content_text": "- **Texas election preview puts Abbott at 63 to 64 percent and Patrick at 75 to 77 percent on Kalshi and Polymarket** — Covers reports prediction markets favor Republican incumbents in Texas ahead of the November 3 vote, with Kalshi at 63 percent for Governor Greg Abbott and Polymarket near 64 percent, while Lieutenant Governor Dan Patrick sits at 75 percent on Kalshi and 77 percent on Polymarket. Patrick has also directed senators to study whether prediction markets circumvent Texas gambling prohibitions. ([Covers](https://www.covers.com/industry/texas-election-preview-push-for-public-gambling-vote-at-stake-october-29-2026))",
+      "content_html": "<p>- **Texas election preview puts Abbott at 63 to 64 percent and Patrick at 75 to 77 percent on Kalshi and Polymarket** — Covers reports prediction markets favor Republican incumbents in Texas ahead of the November 3 vote, with Kalshi at 63 percent for Governor Greg Abbott and Polymarket near 64 percent, while Lieutenant Governor Dan Patrick sits at 75 percent on Kalshi and 77 percent on Polymarket. Patrick has also directed senators to study whether prediction markets circumvent Texas gambling prohibitions. ([Covers](https://www.covers.com/industry/texas-election-preview-push-for-public-gambling-vote-at-stake-october-29-2026))</p>",
+      "date_published": "2026-10-30T19:45:00-04:00",
+      "date_modified": "2026-10-30T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/industry/texas-election-preview-push-for-public-gambling-vote-at-stake-october-29-2026",
+      "links": [
+        "https://www.covers.com/industry/texas-election-preview-push-for-public-gambling-vote-at-stake-october-29-2026"
+      ],
+      "timestamp": "Oct 30, 2026 · 7:45 PM ET",
+      "body": "- **Texas election preview puts Abbott at 63 to 64 percent and Patrick at 75 to 77 percent on Kalshi and Polymarket** — Covers reports prediction markets favor Republican incumbents in Texas ahead of the November 3 vote, with Kalshi at 63 percent for Governor Greg Abbott and Polymarket near 64 percent, while Lieutenant Governor Dan Patrick sits at 75 percent on Kalshi and 77 percent on Polymarket. Patrick has also directed senators to study whether prediction markets circumvent Texas gambling prohibitions. ([Covers](https://www.covers.com/industry/texas-election-preview-push-for-public-gambling-vote-at-stake-october-29-2026))",
+      "image_url": null,
+      "published": "2026-10-30T19:45:00-04:00",
+      "source": "2026-10-30_1945-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1945-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1945-edt-3",
+      "title": "Midterm election trading is only available through Kalshi and Polymarket US, with Kalshi House volume passing 150 million dollars",
+      "content_text": "- **Midterm election trading is only available through Kalshi and Polymarket US, with Kalshi House volume passing 150 million dollars** — OddsChecker explains that US sportsbooks cannot take election bets because their state licenses cover only sporting events, so midterm trading runs through the CFTC-regulated Kalshi and Polymarket US exchanges. Kalshi alone had passed 150 million dollars traded on its House control market by October 30, with hundreds of individual Senate, House and governor races also listed. ([OddsChecker](https://www.oddschecker.com/us/insight/specials/politics/20261030-can-you-bet-on-the-2026-midterms))",
+      "content_html": "<p>- **Midterm election trading is only available through Kalshi and Polymarket US, with Kalshi House volume passing 150 million dollars** — OddsChecker explains that US sportsbooks cannot take election bets because their state licenses cover only sporting events, so midterm trading runs through the CFTC-regulated Kalshi and Polymarket US exchanges. Kalshi alone had passed 150 million dollars traded on its House control market by October 30, with hundreds of individual Senate, House and governor races also listed. ([OddsChecker](https://www.oddschecker.com/us/insight/specials/politics/20261030-can-you-bet-on-the-2026-midterms))</p>",
+      "date_published": "2026-10-30T19:45:00-04:00",
+      "date_modified": "2026-10-30T19:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "CFTC",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.oddschecker.com/us/insight/specials/politics/20261030-can-you-bet-on-the-2026-midterms",
+      "links": [
+        "https://www.oddschecker.com/us/insight/specials/politics/20261030-can-you-bet-on-the-2026-midterms"
+      ],
+      "timestamp": "Oct 30, 2026 · 7:45 PM ET",
+      "body": "- **Midterm election trading is only available through Kalshi and Polymarket US, with Kalshi House volume passing 150 million dollars** — OddsChecker explains that US sportsbooks cannot take election bets because their state licenses cover only sporting events, so midterm trading runs through the CFTC-regulated Kalshi and Polymarket US exchanges. Kalshi alone had passed 150 million dollars traded on its House control market by October 30, with hundreds of individual Senate, House and governor races also listed. ([OddsChecker](https://www.oddschecker.com/us/insight/specials/politics/20261030-can-you-bet-on-the-2026-midterms))",
+      "image_url": null,
+      "published": "2026-10-30T19:45:00-04:00",
+      "source": "2026-10-30_1945-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-30_1930-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1930-edt-0",
@@ -917,6 +1041,40 @@
       "published": "2026-10-30T18:15:00-04:00",
       "source": "2026-10-30_1815-edt.json",
       "matches_facebook_post": false
+    },
+    {
+      "id": "article-2026-10-30_1810-kalshi-76ers",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-30_1810-kalshi-76ers",
+      "title": "First Team In: Kalshi Signs the 76ers",
+      "content_text": "First Team In: Kalshi Signs the 76ers\n\nThe Philadelphia 76ers became the first NBA team to name an official prediction market partner on Friday, signing a multiyear agreement with Kalshi. The deal puts Kalshi in the arena, in the 76ers mobile app and on the team's ticketing platform — the first time an NBA franchise has sold that space to an exchange.\n\nThe timing is the story. The team deal lands just four days after the NBA itself named Kalshi and Polymarket its Preferred Prediction Market Exchanges on October 26, with DraftKings expanded as an authorized operator. The league framework gives both exchanges official NBA data via Sportradar, NBA intellectual property and marketing rights, in exchange for integrity rules that prohibit league and team personnel from trading NBA contracts.\n\nThe money around the players is moving just as fast. LeBron James signed a reported $15 million annual endorsement agreement with Polymarket in September, Giannis Antetokounmpo became a Kalshi shareholder earlier this year, and Kevin Durant and Devin Booker have established their own ties to operators.\n\nThe trading underneath it all is enormous: prediction markets generated more than $14 billion in notional volume over the October 24-25 weekend alone, including more than $10 billion on Kalshi, according to Aldrin Research, and sports account for roughly 80 percent of all prediction market volume. The NFL remains the last major league holding out — and has backed state regulators at the Supreme Court, where a ruling could come as early as 2027.\n\nSources: https://www.covers.com/industry/kalshi-signs-first-nba-team-partnership-76ers-deal-october-30-2026\n#infiniti #infinitimarkets #predictionmarkets #Kalshi #NBA\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>First Team In: Kalshi Signs the 76ers<br/><br/>The Philadelphia 76ers became the first NBA team to name an official prediction market partner on Friday, signing a multiyear agreement with Kalshi. The deal puts Kalshi in the arena, in the 76ers mobile app and on the team&#x27;s ticketing platform — the first time an NBA franchise has sold that space to an exchange.<br/><br/>The timing is the story. The team deal lands just four days after the NBA itself named Kalshi and Polymarket its Preferred Prediction Market Exchanges on October 26, with DraftKings expanded as an authorized operator. The league framework gives both exchanges official NBA data via Sportradar, NBA intellectual property and marketing rights, in exchange for integrity rules that prohibit league and team personnel from trading NBA contracts.<br/><br/>The money around the players is moving just as fast. LeBron James signed a reported $15 million annual endorsement agreement with Polymarket in September, Giannis Antetokounmpo became a Kalshi shareholder earlier this year, and Kevin Durant and Devin Booker have established their own ties to operators.<br/><br/>The trading underneath it all is enormous: prediction markets generated more than $14 billion in notional volume over the October 24-25 weekend alone, including more than $10 billion on Kalshi, according to Aldrin Research, and sports account for roughly 80 percent of all prediction market volume. The NFL remains the last major league holding out — and has backed state regulators at the Supreme Court, where a ruling could come as early as 2027.<br/><br/>Sources: https://www.covers.com/industry/kalshi-signs-first-nba-team-partnership-76ers-deal-october-30-2026<br/>#infiniti #infinitimarkets #predictionmarkets #Kalshi #NBA<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-30_1810-kalshi-76ers.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "date_published": "2026-10-30T18:10:14-04:00",
+      "date_modified": "2026-10-30T18:10:14-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "NBA",
+        "partnerships",
+        "sports markets",
+        "Polymarket"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1810-kalshi-76ers.jpg",
+      "external_url": "https://www.covers.com/industry/kalshi-signs-first-nba-team-partnership-76ers-deal-october-30-2026",
+      "links": [
+        "https://www.covers.com/industry/kalshi-signs-first-nba-team-partnership-76ers-deal-october-30-2026"
+      ],
+      "timestamp": "Oct 30, 2026 · 6:10 PM ET",
+      "body": "First Team In: Kalshi Signs the 76ers\n\nThe Philadelphia 76ers became the first NBA team to name an official prediction market partner on Friday, signing a multiyear agreement with Kalshi. The deal puts Kalshi in the arena, in the 76ers mobile app and on the team's ticketing platform — the first time an NBA franchise has sold that space to an exchange.\n\nThe timing is the story. The team deal lands just four days after the NBA itself named Kalshi and Polymarket its Preferred Prediction Market Exchanges on October 26, with DraftKings expanded as an authorized operator. The league framework gives both exchanges official NBA data via Sportradar, NBA intellectual property and marketing rights, in exchange for integrity rules that prohibit league and team personnel from trading NBA contracts.\n\nThe money around the players is moving just as fast. LeBron James signed a reported $15 million annual endorsement agreement with Polymarket in September, Giannis Antetokounmpo became a Kalshi shareholder earlier this year, and Kevin Durant and Devin Booker have established their own ties to operators.\n\nThe trading underneath it all is enormous: prediction markets generated more than $14 billion in notional volume over the October 24-25 weekend alone, including more than $10 billion on Kalshi, according to Aldrin Research, and sports account for roughly 80 percent of all prediction market volume. The NFL remains the last major league holding out — and has backed state regulators at the Supreme Court, where a ruling could come as early as 2027.\n\nSources: https://www.covers.com/industry/kalshi-signs-first-nba-team-partnership-76ers-deal-october-30-2026\n#infiniti #infinitimarkets #predictionmarkets #Kalshi #NBA\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1810-kalshi-76ers.jpg",
+      "published": "2026-10-30T18:10:14-04:00",
+      "source": "2026-10-30_1810-kalshi-76ers.json",
+      "matches_facebook_post": false,
+      "kind": "article"
     },
     {
       "id": "web-2026-10-30_1800-edt-0",
@@ -4568,158 +4726,6 @@
       "source": "2026-10-30_1210-polymarket-insider.json",
       "matches_facebook_post": false,
       "kind": "article"
-    },
-    {
-      "id": "web-2026-10-30_1200-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1200-edt-0",
-      "title": "Study finds prediction markets on page one in half of sampled midterm forecast searches, BusinessWire reports",
-      "content_text": "- **Study finds prediction markets on page one in half of sampled midterm forecast searches, BusinessWire reports** — A CasinoReviews.net study of 140 Google results pages across 14 U.S. cities found Polymarket or Kalshi on page one for half of everyday forecast searches such as election forecast and midterm polls. The platforms appeared in all eight cities tested in states where state law bans betting on elections, even though 24 states ban election betting outright. ([BusinessWire](https://www.businesswire.com/news/home/20261030002868/en/Study-Finds-Prediction-Markets-in-Half-of-Sampled-Midterm-Forecast-Searches))",
-      "content_html": "<p>- **Study finds prediction markets on page one in half of sampled midterm forecast searches, BusinessWire reports** — A CasinoReviews.net study of 140 Google results pages across 14 U.S. cities found Polymarket or Kalshi on page one for half of everyday forecast searches such as election forecast and midterm polls. The platforms appeared in all eight cities tested in states where state law bans betting on elections, even though 24 states ban election betting outright. ([BusinessWire](https://www.businesswire.com/news/home/20261030002868/en/Study-Finds-Prediction-Markets-in-Half-of-Sampled-Midterm-Forecast-Searches))</p>",
-      "date_published": "2026-10-30T12:00:00-04:00",
-      "date_modified": "2026-10-30T12:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.businesswire.com/news/home/20261030002868/en/Study-Finds-Prediction-Markets-in-Half-of-Sampled-Midterm-Forecast-Searches",
-      "links": [
-        "https://www.businesswire.com/news/home/20261030002868/en/Study-Finds-Prediction-Markets-in-Half-of-Sampled-Midterm-Forecast-Searches"
-      ],
-      "timestamp": "Oct 30, 2026 · 12:00 PM ET",
-      "body": "- **Study finds prediction markets on page one in half of sampled midterm forecast searches, BusinessWire reports** — A CasinoReviews.net study of 140 Google results pages across 14 U.S. cities found Polymarket or Kalshi on page one for half of everyday forecast searches such as election forecast and midterm polls. The platforms appeared in all eight cities tested in states where state law bans betting on elections, even though 24 states ban election betting outright. ([BusinessWire](https://www.businesswire.com/news/home/20261030002868/en/Study-Finds-Prediction-Markets-in-Half-of-Sampled-Midterm-Forecast-Searches))",
-      "image_url": null,
-      "published": "2026-10-30T12:00:00-04:00",
-      "source": "2026-10-30_1200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1200-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1200-edt-1",
-      "title": "Kalshi captured 72.4 percent of prediction market cash volume in Q3 with 37.3 billion dollars traded, TechFlowPost reports",
-      "content_text": "- **Kalshi captured 72.4 percent of prediction market cash volume in Q3 with 37.3 billion dollars traded, TechFlowPost reports** — TechFlowPost, citing Alea Research, reports Kalshi recorded 37.3 billion dollars in Q3 cash transaction volume, up 75.8 percent quarter over quarter and 2.6 times the combined total of Polymarket International and Polymarket US. Total cash volume across the three platforms grew 40.5 percent to 51.5 billion dollars in the quarter. ([TechFlowPost](https://www.techflowpost.com/en-US/article/34892))",
-      "content_html": "<p>- **Kalshi captured 72.4 percent of prediction market cash volume in Q3 with 37.3 billion dollars traded, TechFlowPost reports** — TechFlowPost, citing Alea Research, reports Kalshi recorded 37.3 billion dollars in Q3 cash transaction volume, up 75.8 percent quarter over quarter and 2.6 times the combined total of Polymarket International and Polymarket US. Total cash volume across the three platforms grew 40.5 percent to 51.5 billion dollars in the quarter. ([TechFlowPost](https://www.techflowpost.com/en-US/article/34892))</p>",
-      "date_published": "2026-10-30T12:00:00-04:00",
-      "date_modified": "2026-10-30T12:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.techflowpost.com/en-US/article/34892",
-      "links": [
-        "https://www.techflowpost.com/en-US/article/34892"
-      ],
-      "timestamp": "Oct 30, 2026 · 12:00 PM ET",
-      "body": "- **Kalshi captured 72.4 percent of prediction market cash volume in Q3 with 37.3 billion dollars traded, TechFlowPost reports** — TechFlowPost, citing Alea Research, reports Kalshi recorded 37.3 billion dollars in Q3 cash transaction volume, up 75.8 percent quarter over quarter and 2.6 times the combined total of Polymarket International and Polymarket US. Total cash volume across the three platforms grew 40.5 percent to 51.5 billion dollars in the quarter. ([TechFlowPost](https://www.techflowpost.com/en-US/article/34892))",
-      "image_url": null,
-      "published": "2026-10-30T12:00:00-04:00",
-      "source": "2026-10-30_1200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1200-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1200-edt-2",
-      "title": "New York Gaming Commission asks court to force Kalshi to comply with investigative subpoenas, GamblingInsider reports",
-      "content_text": "- **New York Gaming Commission asks court to force Kalshi to comply with investigative subpoenas, GamblingInsider reports** — New York's gaming regulator has asked a state court in Manhattan to compel Kalshi to comply with subpoenas seeking records on its sports-event contracts, offerings to New Yorkers under 21, advertising that describes its products as wagers or bets, and its ownership and corporate structure. The petition was logged by the court on October 22, 2026, with the Commission represented by the office of Attorney General Letitia James. ([GamblingInsider](https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court))",
-      "content_html": "<p>- **New York Gaming Commission asks court to force Kalshi to comply with investigative subpoenas, GamblingInsider reports** — New York&#x27;s gaming regulator has asked a state court in Manhattan to compel Kalshi to comply with subpoenas seeking records on its sports-event contracts, offerings to New Yorkers under 21, advertising that describes its products as wagers or bets, and its ownership and corporate structure. The petition was logged by the court on October 22, 2026, with the Commission represented by the office of Attorney General Letitia James. ([GamblingInsider](https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court))</p>",
-      "date_published": "2026-10-30T12:00:00-04:00",
-      "date_modified": "2026-10-30T12:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court",
-      "links": [
-        "https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court"
-      ],
-      "timestamp": "Oct 30, 2026 · 12:00 PM ET",
-      "body": "- **New York Gaming Commission asks court to force Kalshi to comply with investigative subpoenas, GamblingInsider reports** — New York's gaming regulator has asked a state court in Manhattan to compel Kalshi to comply with subpoenas seeking records on its sports-event contracts, offerings to New Yorkers under 21, advertising that describes its products as wagers or bets, and its ownership and corporate structure. The petition was logged by the court on October 22, 2026, with the Commission represented by the office of Attorney General Letitia James. ([GamblingInsider](https://www.gamblinginsider.com/news/197514/new-york-gaming-commission-kalshi-subpoenas-court))",
-      "image_url": null,
-      "published": "2026-10-30T12:00:00-04:00",
-      "source": "2026-10-30_1200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1200-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1200-edt-3",
-      "title": "NFL stands alone in prediction market fight as rival leagues sign deals with Kalshi and Polymarket, Prediction News reports",
-      "content_text": "- **NFL stands alone in prediction market fight as rival leagues sign deals with Kalshi and Polymarket, Prediction News reports** — Prediction News reports the NFL remains isolated in resisting prediction markets while the NBA, MLB, NHL and MLS have signed partnership or information-sharing deals with platforms including Kalshi and Polymarket. The NFL has urged the Supreme Court to cement a state-gambling framing of event contracts, while state attorneys general pursue civil and criminal cases against Kalshi. ([Prediction News](https://predictionnews.com/story/kalshi-vs-casinos-the-war-over-prediction-markets))",
-      "content_html": "<p>- **NFL stands alone in prediction market fight as rival leagues sign deals with Kalshi and Polymarket, Prediction News reports** — Prediction News reports the NFL remains isolated in resisting prediction markets while the NBA, MLB, NHL and MLS have signed partnership or information-sharing deals with platforms including Kalshi and Polymarket. The NFL has urged the Supreme Court to cement a state-gambling framing of event contracts, while state attorneys general pursue civil and criminal cases against Kalshi. ([Prediction News](https://predictionnews.com/story/kalshi-vs-casinos-the-war-over-prediction-markets))</p>",
-      "date_published": "2026-10-30T12:00:00-04:00",
-      "date_modified": "2026-10-30T12:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL",
-        "SCOTUS"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/kalshi-vs-casinos-the-war-over-prediction-markets",
-      "links": [
-        "https://predictionnews.com/story/kalshi-vs-casinos-the-war-over-prediction-markets"
-      ],
-      "timestamp": "Oct 30, 2026 · 12:00 PM ET",
-      "body": "- **NFL stands alone in prediction market fight as rival leagues sign deals with Kalshi and Polymarket, Prediction News reports** — Prediction News reports the NFL remains isolated in resisting prediction markets while the NBA, MLB, NHL and MLS have signed partnership or information-sharing deals with platforms including Kalshi and Polymarket. The NFL has urged the Supreme Court to cement a state-gambling framing of event contracts, while state attorneys general pursue civil and criminal cases against Kalshi. ([Prediction News](https://predictionnews.com/story/kalshi-vs-casinos-the-war-over-prediction-markets))",
-      "image_url": null,
-      "published": "2026-10-30T12:00:00-04:00",
-      "source": "2026-10-30_1200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1200-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1200-edt-4",
-      "title": "Chicago tops Kalshi most-traded markets at 8 cents for the 2027 Pro Football Championship, PredictionMarketPicks reports",
-      "content_text": "- **Chicago tops Kalshi most-traded markets at 8 cents for the 2027 Pro Football Championship, PredictionMarketPicks reports** — PredictionMarketPicks' Kalshi leaderboard snapshot on October 30 at 8:14 AM EDT, covering 319 priced contracts, ranks Chicago to win the 2027 Pro Football Championship as the most-traded market at 8 cents with about 710,000 contracts traded in 24 hours. The biggest 24-hour mover was the market on real GDP rising more than 1.5 percent in Q4 2026, up 17 cents to 77 cents. ([PredictionMarketPicks](https://predictionmarketspicks.com/leaderboard/kalshi))",
-      "content_html": "<p>- **Chicago tops Kalshi most-traded markets at 8 cents for the 2027 Pro Football Championship, PredictionMarketPicks reports** — PredictionMarketPicks&#x27; Kalshi leaderboard snapshot on October 30 at 8:14 AM EDT, covering 319 priced contracts, ranks Chicago to win the 2027 Pro Football Championship as the most-traded market at 8 cents with about 710,000 contracts traded in 24 hours. The biggest 24-hour mover was the market on real GDP rising more than 1.5 percent in Q4 2026, up 17 cents to 77 cents. ([PredictionMarketPicks](https://predictionmarketspicks.com/leaderboard/kalshi))</p>",
-      "date_published": "2026-10-30T12:00:00-04:00",
-      "date_modified": "2026-10-30T12:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://predictionmarketspicks.com/leaderboard/kalshi",
-      "links": [
-        "https://predictionmarketspicks.com/leaderboard/kalshi"
-      ],
-      "timestamp": "Oct 30, 2026 · 12:00 PM ET",
-      "body": "- **Chicago tops Kalshi most-traded markets at 8 cents for the 2027 Pro Football Championship, PredictionMarketPicks reports** — PredictionMarketPicks' Kalshi leaderboard snapshot on October 30 at 8:14 AM EDT, covering 319 priced contracts, ranks Chicago to win the 2027 Pro Football Championship as the most-traded market at 8 cents with about 710,000 contracts traded in 24 hours. The biggest 24-hour mover was the market on real GDP rising more than 1.5 percent in Q4 2026, up 17 cents to 77 cents. ([PredictionMarketPicks](https://predictionmarketspicks.com/leaderboard/kalshi))",
-      "image_url": null,
-      "published": "2026-10-30T12:00:00-04:00",
-      "source": "2026-10-30_1200-edt.json",
-      "matches_facebook_post": false
     }
   ]
 }
