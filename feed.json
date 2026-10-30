@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-30T16:30:37.889655-04:00",
+  "updated": "2026-10-30T16:58:22.249803-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-30_1654-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_1654-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\n$2.80B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.39B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Spain DGOJ licence item…\n#PredictionMarkets #Kalshi #Polymarket #Gold\nhttps://defirate.com/prediction-markets/volume/\n\nRepublicans win the House in 2026 priced at 6.3% on Kalshi, down 2.2 points, on $59.7M traded\nPredictionBubbles' movers board, fresh on its Oct. 30, 20:56 UTC crawl with data read at Oct. 30, 20:17 UTC at 2,004 markets ranked with 513 moving at least 1 point in…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>$2.80B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.39B<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Spain DGOJ licence item…<br/>#PredictionMarkets #Kalshi #Polymarket #Gold<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Republicans win the House in 2026 priced at 6.3% on Kalshi, down 2.2 points, on $59.7M traded<br/>PredictionBubbles&#x27; movers board, fresh on its Oct. 30, 20:56 UTC crawl with data read at Oct. 30, 20:17 UTC at 2,004 markets ranked with 513 moving at least 1 point in…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-30T16:54:00-04:00",
+      "date_modified": "2026-10-30T16:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Gold",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/prediction-markets/volume/",
+      "links": [
+        "https://defirate.com/prediction-markets/volume/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 30, 2026 · 4:54 PM ET",
+      "body": "Infiniti Briefing\n\n$2.80B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.39B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Spain DGOJ licence item…\n#PredictionMarkets #Kalshi #Polymarket #Gold\nhttps://defirate.com/prediction-markets/volume/\n\nRepublicans win the House in 2026 priced at 6.3% on Kalshi, down 2.2 points, on $59.7M traded\nPredictionBubbles' movers board, fresh on its Oct. 30, 20:56 UTC crawl with data read at Oct. 30, 20:17 UTC at 2,004 markets ranked with 513 moving at least 1 point in…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-30T16:54:00-04:00",
+      "source": "2026-10-30_1654-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-30_1630-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1630-edt-0",
@@ -4682,37 +4716,6 @@
       ],
       "timestamp": "Oct 30, 2026 · 9:45 AM ET",
       "body": "- **Utah files felony charges against Kalshi and its co-founders over illegal gambling promotion, Particle News reports** — Utah's attorney general filed criminal charges on Wednesday against KalshiEX LLC and co-founders Tarek Mansour and Luana Lopes Lara, listing one second-degree felony for a pattern of unlawful activity, 12 third-degree felony counts for online gambling promotion and one misdemeanor. Prosecutors say an undercover agent placed 12 sports wagers on Kalshi in September, risking 114.87 dollars and losing 25.10 dollars. ([Particle News](https://particle.news/story/utah-files-felony-charges-against-kalshi-as-federal-regulators-sue-to-block-state-enforcement))",
-      "image_url": null,
-      "published": "2026-10-30T09:45:00-04:00",
-      "source": "2026-10-30_0945-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_0945-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0945-edt-1",
-      "title": "Alaska Senate market prices Peltola at 68 percent against Sullivan at 32 percent on Kalshi, PredictionMarketPicks reports",
-      "content_text": "- **Alaska Senate market prices Peltola at 68 percent against Sullivan at 32 percent on Kalshi, PredictionMarketPicks reports** — PredictionMarketPicks, updated the morning of October 30, prices Mary Peltola at 68 cents to win the Alaska Senate race on Kalshi, with Dan Sullivan at 32 cents. Forecasters rate the seat a toss-up, and the market price sits well ahead of that rating heading into the November 3 election. ([PredictionMarketPicks](https://predictionmarketspicks.com/midterms-2026/alaska-senate))",
-      "content_html": "<p>- **Alaska Senate market prices Peltola at 68 percent against Sullivan at 32 percent on Kalshi, PredictionMarketPicks reports** — PredictionMarketPicks, updated the morning of October 30, prices Mary Peltola at 68 cents to win the Alaska Senate race on Kalshi, with Dan Sullivan at 32 cents. Forecasters rate the seat a toss-up, and the market price sits well ahead of that rating heading into the November 3 election. ([PredictionMarketPicks](https://predictionmarketspicks.com/midterms-2026/alaska-senate))</p>",
-      "date_published": "2026-10-30T09:45:00-04:00",
-      "date_modified": "2026-10-30T09:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionmarketspicks.com/midterms-2026/alaska-senate",
-      "links": [
-        "https://predictionmarketspicks.com/midterms-2026/alaska-senate"
-      ],
-      "timestamp": "Oct 30, 2026 · 9:45 AM ET",
-      "body": "- **Alaska Senate market prices Peltola at 68 percent against Sullivan at 32 percent on Kalshi, PredictionMarketPicks reports** — PredictionMarketPicks, updated the morning of October 30, prices Mary Peltola at 68 cents to win the Alaska Senate race on Kalshi, with Dan Sullivan at 32 cents. Forecasters rate the seat a toss-up, and the market price sits well ahead of that rating heading into the November 3 election. ([PredictionMarketPicks](https://predictionmarketspicks.com/midterms-2026/alaska-senate))",
       "image_url": null,
       "published": "2026-10-30T09:45:00-04:00",
       "source": "2026-10-30_0945-edt.json",
