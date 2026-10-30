@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-30T17:30:11.737021-04:00",
+  "updated": "2026-10-30T17:41:31.970649-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -396,6 +396,41 @@
       "published": "2026-10-30T17:15:00-04:00",
       "source": "2026-10-30_1715-edt.json",
       "matches_facebook_post": false
+    },
+    {
+      "id": "article-2026-10-30_1710-fed-december-hike",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-30_1710-fed-december-hike",
+      "title": "Seventy Percent Says the Fed Hikes in December",
+      "content_text": "Seventy Percent Says the Fed Hikes in December\n\nThe Federal Reserve held rates at 3.75% to 4.00% on October 28, but it was not a quiet hold. The vote was 10-2, with Governor Lisa Cook and Cleveland Fed President Beth Hammack both voting for a quarter-point hike right away. Prediction markets read the dissents as a forwarding address: the hike the committee skipped in October is now priced to arrive in December.\n\nAs of October 30 at 5:00 PM ET, Kalshi prices a 25-point hike on December 9 at 69%, a hold at 28%, a 50-point hike at about 3% and a cut at 1% — a 72% chance of a hike in total. Polymarket prices the same 25-point hike at 70.5%, and fed funds futures are higher still at 73.3%. DeFi Rate's last trades tell the same story: Kalshi at 68.5 cents with $60K traded in 24 hours, Polymarket at 70.5 cents with $173K traded.\n\nThe crowd has earned some trust here. The market favorite has won 15 of 15 Fed decisions since 2025 on Kalshi and Polymarket, and October was graded close: Polymarket closed the hold at 95.5% and Kalshi at 94.5%. December's hike odds first closed above 50% on August 15 and sit at 73% on the latest daily close, even after slipping 3 points this week from 72% to 69% on Kalshi's decision contract.\n\nBeyond December, the path goes quiet. January 27 prices a hike at just 26% to 28% against a 71% hold, and March is a coin flip at 50% hike, 47% hold. Kalshi's dot-plot ladder, which prices the Fed's own year-end 2026 projection, implies a median dot of 4.00% to 4.10% — exactly one more hike, delivered in December and then a pause.\n\nWhat moves it next is data, starting with payrolls on November 6. The statement lands at 2:00 PM ET on December 9 with a new dot plot attached. Until then, every inflation print is a trade: hot, and 70% becomes 80%; soft, and the two dissenters start to look early rather than right.\n\nSources: https://predictionmarketspicks.com/tools/fed-rate-tracker https://defirate.com/odds/fed-decision/\n#infiniti #infinitimarkets #predictionmarkets #FederalReserve #Kalshi #Polymarket\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Seventy Percent Says the Fed Hikes in December<br/><br/>The Federal Reserve held rates at 3.75% to 4.00% on October 28, but it was not a quiet hold. The vote was 10-2, with Governor Lisa Cook and Cleveland Fed President Beth Hammack both voting for a quarter-point hike right away. Prediction markets read the dissents as a forwarding address: the hike the committee skipped in October is now priced to arrive in December.<br/><br/>As of October 30 at 5:00 PM ET, Kalshi prices a 25-point hike on December 9 at 69%, a hold at 28%, a 50-point hike at about 3% and a cut at 1% — a 72% chance of a hike in total. Polymarket prices the same 25-point hike at 70.5%, and fed funds futures are higher still at 73.3%. DeFi Rate&#x27;s last trades tell the same story: Kalshi at 68.5 cents with $60K traded in 24 hours, Polymarket at 70.5 cents with $173K traded.<br/><br/>The crowd has earned some trust here. The market favorite has won 15 of 15 Fed decisions since 2025 on Kalshi and Polymarket, and October was graded close: Polymarket closed the hold at 95.5% and Kalshi at 94.5%. December&#x27;s hike odds first closed above 50% on August 15 and sit at 73% on the latest daily close, even after slipping 3 points this week from 72% to 69% on Kalshi&#x27;s decision contract.<br/><br/>Beyond December, the path goes quiet. January 27 prices a hike at just 26% to 28% against a 71% hold, and March is a coin flip at 50% hike, 47% hold. Kalshi&#x27;s dot-plot ladder, which prices the Fed&#x27;s own year-end 2026 projection, implies a median dot of 4.00% to 4.10% — exactly one more hike, delivered in December and then a pause.<br/><br/>What moves it next is data, starting with payrolls on November 6. The statement lands at 2:00 PM ET on December 9 with a new dot plot attached. Until then, every inflation print is a trade: hot, and 70% becomes 80%; soft, and the two dissenters start to look early rather than right.<br/><br/>Sources: https://predictionmarketspicks.com/tools/fed-rate-tracker https://defirate.com/odds/fed-decision/<br/>#infiniti #infinitimarkets #predictionmarkets #FederalReserve #Kalshi #Polymarket<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-30_1710-fed-december-hike.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "date_published": "2026-10-30T17:10:14-04:00",
+      "date_modified": "2026-10-30T17:10:14-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Federal Reserve",
+        "Fed rates",
+        "Kalshi",
+        "Polymarket",
+        "macro markets"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1710-fed-december-hike.jpg",
+      "external_url": "https://predictionmarketspicks.com/tools/fed-rate-tracker",
+      "links": [
+        "https://predictionmarketspicks.com/tools/fed-rate-tracker",
+        "https://defirate.com/odds/fed-decision/"
+      ],
+      "timestamp": "Oct 30, 2026 · 5:10 PM ET",
+      "body": "Seventy Percent Says the Fed Hikes in December\n\nThe Federal Reserve held rates at 3.75% to 4.00% on October 28, but it was not a quiet hold. The vote was 10-2, with Governor Lisa Cook and Cleveland Fed President Beth Hammack both voting for a quarter-point hike right away. Prediction markets read the dissents as a forwarding address: the hike the committee skipped in October is now priced to arrive in December.\n\nAs of October 30 at 5:00 PM ET, Kalshi prices a 25-point hike on December 9 at 69%, a hold at 28%, a 50-point hike at about 3% and a cut at 1% — a 72% chance of a hike in total. Polymarket prices the same 25-point hike at 70.5%, and fed funds futures are higher still at 73.3%. DeFi Rate's last trades tell the same story: Kalshi at 68.5 cents with $60K traded in 24 hours, Polymarket at 70.5 cents with $173K traded.\n\nThe crowd has earned some trust here. The market favorite has won 15 of 15 Fed decisions since 2025 on Kalshi and Polymarket, and October was graded close: Polymarket closed the hold at 95.5% and Kalshi at 94.5%. December's hike odds first closed above 50% on August 15 and sit at 73% on the latest daily close, even after slipping 3 points this week from 72% to 69% on Kalshi's decision contract.\n\nBeyond December, the path goes quiet. January 27 prices a hike at just 26% to 28% against a 71% hold, and March is a coin flip at 50% hike, 47% hold. Kalshi's dot-plot ladder, which prices the Fed's own year-end 2026 projection, implies a median dot of 4.00% to 4.10% — exactly one more hike, delivered in December and then a pause.\n\nWhat moves it next is data, starting with payrolls on November 6. The statement lands at 2:00 PM ET on December 9 with a new dot plot attached. Until then, every inflation print is a trade: hot, and 70% becomes 80%; soft, and the two dissenters start to look early rather than right.\n\nSources: https://predictionmarketspicks.com/tools/fed-rate-tracker https://defirate.com/odds/fed-decision/\n#infiniti #infinitimarkets #predictionmarkets #FederalReserve #Kalshi #Polymarket\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1710-fed-december-hike.jpg",
+      "published": "2026-10-30T17:10:14-04:00",
+      "source": "2026-10-30_1710-fed-december-hike.json",
+      "matches_facebook_post": false,
+      "kind": "article"
     },
     {
       "id": "web-2026-10-30_1700-edt-0",
@@ -4679,35 +4714,6 @@
       ],
       "timestamp": "Oct 30, 2026 · 10:30 AM ET",
       "body": "- **Kalshi raises 1 billion dollars at 40 billion dollar valuation in Series G co-led by Wellington and Sequoia, Croupier reports** — Croupier, published October 30, reports Kalshi announced on October 29 a 1 billion dollar Series G co-led by Wellington and Sequoia at a 40 billion dollar post-money valuation. Kalshi says it accounts for over 75 percent of prediction market trading volume, non-sports revenue has passed 1 billion dollars a year, and the new funds will support institutional sales, new products including indices and single-stock perpetual futures, and expansion in Latin America and Europe. ([Croupier](https://croupier.media/news/kalshi-raises-usd-1bn-at-usd-40bn-valuation-claims-over-75-of-market-volume/))",
-      "image_url": null,
-      "published": "2026-10-30T10:30:00-04:00",
-      "source": "2026-10-30_1030-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1030-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1030-edt-1",
-      "title": "SignalMarkets launches prediction platform and plans Boston Signal Summit on November 3, KuCoin reports",
-      "content_text": "- **SignalMarkets launches prediction platform and plans Boston Signal Summit on November 3, KuCoin reports** — KuCoin, citing Huo Xing Cai Jing, reports SignalMarkets, a financial prediction market platform associated with Crypto.com, announced its platform launch on October 29. The platform focuses on economic, financial and political events and will host the Signal Summit 2026 in Boston and online on November 3 at 6:00 PM ET to show how election expectations move markets in real time. ([KuCoin](https://www.kucoin.com/news/flash/signalmarkets-launches-prediction-platform-hosts-boston-event-on-nov-3))",
-      "content_html": "<p>- **SignalMarkets launches prediction platform and plans Boston Signal Summit on November 3, KuCoin reports** — KuCoin, citing Huo Xing Cai Jing, reports SignalMarkets, a financial prediction market platform associated with Crypto.com, announced its platform launch on October 29. The platform focuses on economic, financial and political events and will host the Signal Summit 2026 in Boston and online on November 3 at 6:00 PM ET to show how election expectations move markets in real time. ([KuCoin](https://www.kucoin.com/news/flash/signalmarkets-launches-prediction-platform-hosts-boston-event-on-nov-3))</p>",
-      "date_published": "2026-10-30T10:30:00-04:00",
-      "date_modified": "2026-10-30T10:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.kucoin.com/news/flash/signalmarkets-launches-prediction-platform-hosts-boston-event-on-nov-3",
-      "links": [
-        "https://www.kucoin.com/news/flash/signalmarkets-launches-prediction-platform-hosts-boston-event-on-nov-3"
-      ],
-      "timestamp": "Oct 30, 2026 · 10:30 AM ET",
-      "body": "- **SignalMarkets launches prediction platform and plans Boston Signal Summit on November 3, KuCoin reports** — KuCoin, citing Huo Xing Cai Jing, reports SignalMarkets, a financial prediction market platform associated with Crypto.com, announced its platform launch on October 29. The platform focuses on economic, financial and political events and will host the Signal Summit 2026 in Boston and online on November 3 at 6:00 PM ET to show how election expectations move markets in real time. ([KuCoin](https://www.kucoin.com/news/flash/signalmarkets-launches-prediction-platform-hosts-boston-event-on-nov-3))",
       "image_url": null,
       "published": "2026-10-30T10:30:00-04:00",
       "source": "2026-10-30_1030-edt.json",
