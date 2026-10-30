@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-30T18:29:47.811482-04:00",
+  "updated": "2026-10-30T18:45:07.935952-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,159 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-30_1845-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1845-edt-0",
+      "title": "CNN, CBS, CNBC and Dow Jones sign prediction market partnerships ahead of the midterms, with election volume near 1.5 billion dollars, KuCoin reports",
+      "content_text": "- **CNN, CBS, CNBC and Dow Jones sign prediction market partnerships ahead of the midterms, with election volume near 1.5 billion dollars, KuCoin reports** — KuCoin, citing Bloomberg, reports CNN, CBS News, Dow Jones and CNBC have entered commercial partnerships with Kalshi and Polymarket to incorporate election odds into reporting, with election-related volume on the two platforms totaling about 1.5 billion dollars. CBS named Kalshi its prediction market sponsor, CNBC disclosed a Kalshi deal with customer acquisition revenue sharing and a minority equity stake, and the Wall Street Journal features a Polymarket odds column, while Fox and CNN said they will not report odds during election night broadcasts. ([KuCoin](https://www.kucoin.com/news/flash/kalshi-and-polymarket-partner-with-cnn-cnbc-ahead-of-u-s-midterm-elections))",
+      "content_html": "<p>- **CNN, CBS, CNBC and Dow Jones sign prediction market partnerships ahead of the midterms, with election volume near 1.5 billion dollars, KuCoin reports** — KuCoin, citing Bloomberg, reports CNN, CBS News, Dow Jones and CNBC have entered commercial partnerships with Kalshi and Polymarket to incorporate election odds into reporting, with election-related volume on the two platforms totaling about 1.5 billion dollars. CBS named Kalshi its prediction market sponsor, CNBC disclosed a Kalshi deal with customer acquisition revenue sharing and a minority equity stake, and the Wall Street Journal features a Polymarket odds column, while Fox and CNN said they will not report odds during election night broadcasts. ([KuCoin](https://www.kucoin.com/news/flash/kalshi-and-polymarket-partner-with-cnn-cnbc-ahead-of-u-s-midterm-elections))</p>",
+      "date_published": "2026-10-30T18:45:00-04:00",
+      "date_modified": "2026-10-30T18:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://www.kucoin.com/news/flash/kalshi-and-polymarket-partner-with-cnn-cnbc-ahead-of-u-s-midterm-elections",
+      "links": [
+        "https://www.kucoin.com/news/flash/kalshi-and-polymarket-partner-with-cnn-cnbc-ahead-of-u-s-midterm-elections"
+      ],
+      "timestamp": "Oct 30, 2026 · 6:45 PM ET",
+      "body": "- **CNN, CBS, CNBC and Dow Jones sign prediction market partnerships ahead of the midterms, with election volume near 1.5 billion dollars, KuCoin reports** — KuCoin, citing Bloomberg, reports CNN, CBS News, Dow Jones and CNBC have entered commercial partnerships with Kalshi and Polymarket to incorporate election odds into reporting, with election-related volume on the two platforms totaling about 1.5 billion dollars. CBS named Kalshi its prediction market sponsor, CNBC disclosed a Kalshi deal with customer acquisition revenue sharing and a minority equity stake, and the Wall Street Journal features a Polymarket odds column, while Fox and CNN said they will not report odds during election night broadcasts. ([KuCoin](https://www.kucoin.com/news/flash/kalshi-and-polymarket-partner-with-cnn-cnbc-ahead-of-u-s-midterm-elections))",
+      "image_url": null,
+      "published": "2026-10-30T18:45:00-04:00",
+      "source": "2026-10-30_1845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1845-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1845-edt-1",
+      "title": "Supreme Court extends Kalshi response deadline to December 7 in New Jersey case, as lawsuit tracker counts 134 cases, DeFi Rate reports",
+      "content_text": "- **Supreme Court extends Kalshi response deadline to December 7 in New Jersey case, as lawsuit tracker counts 134 cases, DeFi Rate reports** — DeFi Rate's lawsuit tracker reports the Supreme Court on October 30 granted KalshiEX's motion to extend its response deadline to December 7, replacing a November 9 deadline, in the New Jersey sports contracts case. The tracker counts 134 lawsuits and 14 administrative or enforcement actions across 29 states and DC, and notes a temporary restraining order and preliminary injunction motion filed October 29 in the federal case against Utah. ([DeFi Rate](https://defirate.com/prediction-markets/legal/))",
+      "content_html": "<p>- **Supreme Court extends Kalshi response deadline to December 7 in New Jersey case, as lawsuit tracker counts 134 cases, DeFi Rate reports** — DeFi Rate&#x27;s lawsuit tracker reports the Supreme Court on October 30 granted KalshiEX&#x27;s motion to extend its response deadline to December 7, replacing a November 9 deadline, in the New Jersey sports contracts case. The tracker counts 134 lawsuits and 14 administrative or enforcement actions across 29 states and DC, and notes a temporary restraining order and preliminary injunction motion filed October 29 in the federal case against Utah. ([DeFi Rate](https://defirate.com/prediction-markets/legal/))</p>",
+      "date_published": "2026-10-30T18:45:00-04:00",
+      "date_modified": "2026-10-30T18:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "SCOTUS"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/prediction-markets/legal/",
+      "links": [
+        "https://defirate.com/prediction-markets/legal/"
+      ],
+      "timestamp": "Oct 30, 2026 · 6:45 PM ET",
+      "body": "- **Supreme Court extends Kalshi response deadline to December 7 in New Jersey case, as lawsuit tracker counts 134 cases, DeFi Rate reports** — DeFi Rate's lawsuit tracker reports the Supreme Court on October 30 granted KalshiEX's motion to extend its response deadline to December 7, replacing a November 9 deadline, in the New Jersey sports contracts case. The tracker counts 134 lawsuits and 14 administrative or enforcement actions across 29 states and DC, and notes a temporary restraining order and preliminary injunction motion filed October 29 in the federal case against Utah. ([DeFi Rate](https://defirate.com/prediction-markets/legal/))",
+      "image_url": null,
+      "published": "2026-10-30T18:45:00-04:00",
+      "source": "2026-10-30_1845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1845-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1845-edt-2",
+      "title": "Kalshi and Polymarket price the Celtics at 88 percent over the Bulls and the Spurs as NBA title favorites at 22 percent, DeFi Rate reports",
+      "content_text": "- **Kalshi and Polymarket price the Celtics at 88 percent over the Bulls and the Spurs as NBA title favorites at 22 percent, DeFi Rate reports** — DeFi Rate's NBA board for Friday, October 30 prices Boston at 88 percent against Chicago across Kalshi and Polymarket US, with Detroit at 73 percent over Brooklyn and Toronto at 66 percent over Orlando among the 10 games. San Antonio leads the NBA champion market at 22 percent, and Victor Wembanyama leads the MVP market at 29 percent on Polymarket US. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "content_html": "<p>- **Kalshi and Polymarket price the Celtics at 88 percent over the Bulls and the Spurs as NBA title favorites at 22 percent, DeFi Rate reports** — DeFi Rate&#x27;s NBA board for Friday, October 30 prices Boston at 88 percent against Chicago across Kalshi and Polymarket US, with Detroit at 73 percent over Brooklyn and Toronto at 66 percent over Orlando among the 10 games. San Antonio leads the NBA champion market at 22 percent, and Victor Wembanyama leads the MVP market at 29 percent on Polymarket US. ([DeFi Rate](https://defirate.com/odds/nba/))</p>",
+      "date_published": "2026-10-30T18:45:00-04:00",
+      "date_modified": "2026-10-30T18:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/nba/",
+      "links": [
+        "https://defirate.com/odds/nba/"
+      ],
+      "timestamp": "Oct 30, 2026 · 6:45 PM ET",
+      "body": "- **Kalshi and Polymarket price the Celtics at 88 percent over the Bulls and the Spurs as NBA title favorites at 22 percent, DeFi Rate reports** — DeFi Rate's NBA board for Friday, October 30 prices Boston at 88 percent against Chicago across Kalshi and Polymarket US, with Detroit at 73 percent over Brooklyn and Toronto at 66 percent over Orlando among the 10 games. San Antonio leads the NBA champion market at 22 percent, and Victor Wembanyama leads the MVP market at 29 percent on Polymarket US. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "image_url": null,
+      "published": "2026-10-30T18:45:00-04:00",
+      "source": "2026-10-30_1845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1845-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1845-edt-3",
+      "title": "Polymarket whale ndb1 places 557,000 dollars on Senate control, 544,000 dollars against a House outcome and 306,000 dollars on balance of power, Lines reports",
+      "content_text": "- **Polymarket whale ndb1 places 557,000 dollars on Senate control, 544,000 dollars against a House outcome and 306,000 dollars on balance of power, Lines reports** — Lines' daily whale recap for October 30 reports wallet ndb1 bought YES on Senate control at 0.31 dollars for a 557,000 dollar position representing 19.4 percent of 24-hour volume in that market. The same wallet placed a 544,000 dollar NO trade at 0.93 dollars on the House market and a 306,000 dollar YES trade at 0.26 dollars on the 2026 midterms balance of power market. ([Lines](https://www.lines.com/whales/daily-recap))",
+      "content_html": "<p>- **Polymarket whale ndb1 places 557,000 dollars on Senate control, 544,000 dollars against a House outcome and 306,000 dollars on balance of power, Lines reports** — Lines&#x27; daily whale recap for October 30 reports wallet ndb1 bought YES on Senate control at 0.31 dollars for a 557,000 dollar position representing 19.4 percent of 24-hour volume in that market. The same wallet placed a 544,000 dollar NO trade at 0.93 dollars on the House market and a 306,000 dollar YES trade at 0.26 dollars on the 2026 midterms balance of power market. ([Lines](https://www.lines.com/whales/daily-recap))</p>",
+      "date_published": "2026-10-30T18:45:00-04:00",
+      "date_modified": "2026-10-30T18:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://www.lines.com/whales/daily-recap",
+      "links": [
+        "https://www.lines.com/whales/daily-recap"
+      ],
+      "timestamp": "Oct 30, 2026 · 6:45 PM ET",
+      "body": "- **Polymarket whale ndb1 places 557,000 dollars on Senate control, 544,000 dollars against a House outcome and 306,000 dollars on balance of power, Lines reports** — Lines' daily whale recap for October 30 reports wallet ndb1 bought YES on Senate control at 0.31 dollars for a 557,000 dollar position representing 19.4 percent of 24-hour volume in that market. The same wallet placed a 544,000 dollar NO trade at 0.93 dollars on the House market and a 306,000 dollar YES trade at 0.26 dollars on the 2026 midterms balance of power market. ([Lines](https://www.lines.com/whales/daily-recap))",
+      "image_url": null,
+      "published": "2026-10-30T18:45:00-04:00",
+      "source": "2026-10-30_1845-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1845-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1845-edt-4",
+      "title": "Kansas Senate Democrat jumps 13 points to 53 percent in biggest weekly midterm move, with 20 million dollars traded in 24 hours, DeFi Rate reports",
+      "content_text": "- **Kansas Senate Democrat jumps 13 points to 53 percent in biggest weekly midterm move, with 20 million dollars traded in 24 hours, DeFi Rate reports** — DeFi Rate's midterm hub, with latest observation at October 30 at 4:26 PM ET, shows the Kansas Senate Democrat price on Kalshi rising from 40 percent to 53 percent over seven days, the biggest move tracked. Michigan Senate Democrat El-Sayed rose 7 points to 76 percent and Texas Senate candidate James Talarico rose 7 points to 72 percent, with traders putting 20 million dollars into election markets over the past 24 hours. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "content_html": "<p>- **Kansas Senate Democrat jumps 13 points to 53 percent in biggest weekly midterm move, with 20 million dollars traded in 24 hours, DeFi Rate reports** — DeFi Rate&#x27;s midterm hub, with latest observation at October 30 at 4:26 PM ET, shows the Kansas Senate Democrat price on Kalshi rising from 40 percent to 53 percent over seven days, the biggest move tracked. Michigan Senate Democrat El-Sayed rose 7 points to 76 percent and Texas Senate candidate James Talarico rose 7 points to 72 percent, with traders putting 20 million dollars into election markets over the past 24 hours. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))</p>",
+      "date_published": "2026-10-30T18:45:00-04:00",
+      "date_modified": "2026-10-30T18:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/2026-midterms/",
+      "links": [
+        "https://defirate.com/odds/2026-midterms/"
+      ],
+      "timestamp": "Oct 30, 2026 · 6:45 PM ET",
+      "body": "- **Kansas Senate Democrat jumps 13 points to 53 percent in biggest weekly midterm move, with 20 million dollars traded in 24 hours, DeFi Rate reports** — DeFi Rate's midterm hub, with latest observation at October 30 at 4:26 PM ET, shows the Kansas Senate Democrat price on Kalshi rising from 40 percent to 53 percent over seven days, the biggest move tracked. Michigan Senate Democrat El-Sayed rose 7 points to 76 percent and Texas Senate candidate James Talarico rose 7 points to 72 percent, with traders putting 20 million dollars into election markets over the past 24 hours. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "image_url": null,
+      "published": "2026-10-30T18:45:00-04:00",
+      "source": "2026-10-30_1845-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-30_1824-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_1824-edt",
@@ -4569,161 +4722,6 @@
       "image_url": null,
       "published": "2026-10-30T11:15:00-04:00",
       "source": "2026-10-30_1115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1115-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1115-edt-3",
-      "title": "NBA names Kalshi and Polymarket its preferred prediction market exchanges under a CFTC integrity agreement, CryptoDaily reports",
-      "content_text": "- **NBA names Kalshi and Polymarket its preferred prediction market exchanges under a CFTC integrity agreement, CryptoDaily reports** — CryptoDaily reports the NBA on October 26 named Kalshi and Polymarket its Preferred Prediction Market Exchanges, giving both NBA intellectual property and marketing rights and official Sportradar data to operate and settle authorized markets. The league retains approval rights over market types, league and team personnel are barred from trading NBA contracts, and the NBA signed a memorandum of understanding with the CFTC on information sharing. ([CryptoDaily](https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges))",
-      "content_html": "<p>- **NBA names Kalshi and Polymarket its preferred prediction market exchanges under a CFTC integrity agreement, CryptoDaily reports** — CryptoDaily reports the NBA on October 26 named Kalshi and Polymarket its Preferred Prediction Market Exchanges, giving both NBA intellectual property and marketing rights and official Sportradar data to operate and settle authorized markets. The league retains approval rights over market types, league and team personnel are barred from trading NBA contracts, and the NBA signed a memorandum of understanding with the CFTC on information sharing. ([CryptoDaily](https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges))</p>",
-      "date_published": "2026-10-30T11:15:00-04:00",
-      "date_modified": "2026-10-30T11:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges",
-      "links": [
-        "https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges"
-      ],
-      "timestamp": "Oct 30, 2026 · 11:15 AM ET",
-      "body": "- **NBA names Kalshi and Polymarket its preferred prediction market exchanges under a CFTC integrity agreement, CryptoDaily reports** — CryptoDaily reports the NBA on October 26 named Kalshi and Polymarket its Preferred Prediction Market Exchanges, giving both NBA intellectual property and marketing rights and official Sportradar data to operate and settle authorized markets. The league retains approval rights over market types, league and team personnel are barred from trading NBA contracts, and the NBA signed a memorandum of understanding with the CFTC on information sharing. ([CryptoDaily](https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges))",
-      "image_url": null,
-      "published": "2026-10-30T11:15:00-04:00",
-      "source": "2026-10-30_1115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1115-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1115-edt-4",
-      "title": "Kalshi ends its volume incentive programme amid a CFTC review of about 5 billion dollars in ether trades, IGamingHouse reports",
-      "content_text": "- **Kalshi ends its volume incentive programme amid a CFTC review of about 5 billion dollars in ether trades, IGamingHouse reports** — IGamingHouse reports Kalshi filed to terminate its volume incentive programme while the CFTC examines roughly 5 billion dollars in near-identical ether perpetual trades. Both Kalshi and Polymarket deny wash trading allegations, with scrutiny also focused on high-volume activity in low-odds markets on Polymarket's international venue. ([IGamingHouse](https://igaminghouse.net/en/betting/prediction-market/articles/kalshi-trading-volume-and-polymarket-patterns-draw-regulatory-scrutiny))",
-      "content_html": "<p>- **Kalshi ends its volume incentive programme amid a CFTC review of about 5 billion dollars in ether trades, IGamingHouse reports** — IGamingHouse reports Kalshi filed to terminate its volume incentive programme while the CFTC examines roughly 5 billion dollars in near-identical ether perpetual trades. Both Kalshi and Polymarket deny wash trading allegations, with scrutiny also focused on high-volume activity in low-odds markets on Polymarket&#x27;s international venue. ([IGamingHouse](https://igaminghouse.net/en/betting/prediction-market/articles/kalshi-trading-volume-and-polymarket-patterns-draw-regulatory-scrutiny))</p>",
-      "date_published": "2026-10-30T11:15:00-04:00",
-      "date_modified": "2026-10-30T11:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": "https://igaminghouse.net/en/betting/prediction-market/articles/kalshi-trading-volume-and-polymarket-patterns-draw-regulatory-scrutiny",
-      "links": [
-        "https://igaminghouse.net/en/betting/prediction-market/articles/kalshi-trading-volume-and-polymarket-patterns-draw-regulatory-scrutiny"
-      ],
-      "timestamp": "Oct 30, 2026 · 11:15 AM ET",
-      "body": "- **Kalshi ends its volume incentive programme amid a CFTC review of about 5 billion dollars in ether trades, IGamingHouse reports** — IGamingHouse reports Kalshi filed to terminate its volume incentive programme while the CFTC examines roughly 5 billion dollars in near-identical ether perpetual trades. Both Kalshi and Polymarket deny wash trading allegations, with scrutiny also focused on high-volume activity in low-odds markets on Polymarket's international venue. ([IGamingHouse](https://igaminghouse.net/en/betting/prediction-market/articles/kalshi-trading-volume-and-polymarket-patterns-draw-regulatory-scrutiny))",
-      "image_url": null,
-      "published": "2026-10-30T11:15:00-04:00",
-      "source": "2026-10-30_1115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "article-2026-10-30_1110-cftc-utah",
-      "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-30_1110-cftc-utah",
-      "title": "Washington Sues Back: The CFTC Now Has 10 States in Court",
-      "content_text": "Washington Sues Back: The CFTC Now Has 10 States in Court\n\nThe prediction market fight is no longer just platforms against states. The federal government sued Utah on Monday, and counting Utah, Washington now has 10 states in court for trying to keep federally regulated exchanges out. The Commodity Futures Trading Commission filed in federal court in Salt Lake City, less than a week after Utah moved first.\n\nUtah Attorney General Derek Brown sued Kalshi and trading firm Susquehanna in state court on October 20, alleging Kalshi has offered gambling bets to residents since at least September 2024 and calling them indistinguishable from what a sportsbook sells. Utah bans gambling outright, and the state seeks to block Kalshi's sports, election and cultural markets and recover the fees it collected. Utah has already beaten Kalshi once: a federal judge ruled for the state in August, and the Tenth Circuit refused emergency relief while Kalshi appeals.\n\nThe CFTC's position is that event contracts count as swaps, a category federal commodities law leaves to federal regulators alone, and that letting each state step in would leave exchanges answering to 50 regulators nationwide. Its earlier suits cover Arizona, Connecticut, Illinois, New York, Wisconsin, Minnesota, Rhode Island, New Mexico and Kentucky. Judges have sided with Washington so far in Minnesota, Illinois and Arizona, including an October 2 Illinois ruling that the state likely cannot force Kalshi to get a sports wagering license.\n\nWhere Washington has not stepped in, the exchanges are suing themselves: Kalshi in Louisiana on October 23, Polymarket US in Louisiana and Ohio, and Nadex and Ludlow in Missouri, whose cease-and-desist letters also remain in play for Polymarket, Robinhood, Crypto.com, Novig and Underdog.\n\nThe appeals courts are split: Nevada won at the Ninth Circuit, the Sixth Circuit turned down Kalshi in Ohio and Tennessee, and New Jersey, which lost at the Third Circuit, has asked the Supreme Court to step in, with Kalshi's reply due November 9. Ten states in court, platforms suing in four more, and a Supreme Court petition pending: this is now a federal fight over who regulates the odds.\n\nSources: https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/ https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/\n\n#infiniti #infinitimarkets #predictionmarkets #cftc #kalshi #regulation\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Washington Sues Back: The CFTC Now Has 10 States in Court<br/><br/>The prediction market fight is no longer just platforms against states. The federal government sued Utah on Monday, and counting Utah, Washington now has 10 states in court for trying to keep federally regulated exchanges out. The Commodity Futures Trading Commission filed in federal court in Salt Lake City, less than a week after Utah moved first.<br/><br/>Utah Attorney General Derek Brown sued Kalshi and trading firm Susquehanna in state court on October 20, alleging Kalshi has offered gambling bets to residents since at least September 2024 and calling them indistinguishable from what a sportsbook sells. Utah bans gambling outright, and the state seeks to block Kalshi&#x27;s sports, election and cultural markets and recover the fees it collected. Utah has already beaten Kalshi once: a federal judge ruled for the state in August, and the Tenth Circuit refused emergency relief while Kalshi appeals.<br/><br/>The CFTC&#x27;s position is that event contracts count as swaps, a category federal commodities law leaves to federal regulators alone, and that letting each state step in would leave exchanges answering to 50 regulators nationwide. Its earlier suits cover Arizona, Connecticut, Illinois, New York, Wisconsin, Minnesota, Rhode Island, New Mexico and Kentucky. Judges have sided with Washington so far in Minnesota, Illinois and Arizona, including an October 2 Illinois ruling that the state likely cannot force Kalshi to get a sports wagering license.<br/><br/>Where Washington has not stepped in, the exchanges are suing themselves: Kalshi in Louisiana on October 23, Polymarket US in Louisiana and Ohio, and Nadex and Ludlow in Missouri, whose cease-and-desist letters also remain in play for Polymarket, Robinhood, Crypto.com, Novig and Underdog.<br/><br/>The appeals courts are split: Nevada won at the Ninth Circuit, the Sixth Circuit turned down Kalshi in Ohio and Tennessee, and New Jersey, which lost at the Third Circuit, has asked the Supreme Court to step in, with Kalshi&#x27;s reply due November 9. Ten states in court, platforms suing in four more, and a Supreme Court petition pending: this is now a federal fight over who regulates the odds.<br/><br/>Sources: https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/ https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/<br/><br/>#infiniti #infinitimarkets #predictionmarkets #cftc #kalshi #regulation<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-30_1110-cftc-utah.jpg\" alt=\"Infiniti Briefing image\"/></p>",
-      "date_published": "2026-10-30T11:10:14-04:00",
-      "date_modified": "2026-10-30T11:10:14-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "Regulation",
-        "Kalshi",
-        "Polymarket",
-        "Legal"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1110-cftc-utah.jpg",
-      "external_url": "https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/",
-      "links": [
-        "https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/",
-        "https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/"
-      ],
-      "timestamp": "Oct 30, 2026 · 11:10 AM ET",
-      "body": "Washington Sues Back: The CFTC Now Has 10 States in Court\n\nThe prediction market fight is no longer just platforms against states. The federal government sued Utah on Monday, and counting Utah, Washington now has 10 states in court for trying to keep federally regulated exchanges out. The Commodity Futures Trading Commission filed in federal court in Salt Lake City, less than a week after Utah moved first.\n\nUtah Attorney General Derek Brown sued Kalshi and trading firm Susquehanna in state court on October 20, alleging Kalshi has offered gambling bets to residents since at least September 2024 and calling them indistinguishable from what a sportsbook sells. Utah bans gambling outright, and the state seeks to block Kalshi's sports, election and cultural markets and recover the fees it collected. Utah has already beaten Kalshi once: a federal judge ruled for the state in August, and the Tenth Circuit refused emergency relief while Kalshi appeals.\n\nThe CFTC's position is that event contracts count as swaps, a category federal commodities law leaves to federal regulators alone, and that letting each state step in would leave exchanges answering to 50 regulators nationwide. Its earlier suits cover Arizona, Connecticut, Illinois, New York, Wisconsin, Minnesota, Rhode Island, New Mexico and Kentucky. Judges have sided with Washington so far in Minnesota, Illinois and Arizona, including an October 2 Illinois ruling that the state likely cannot force Kalshi to get a sports wagering license.\n\nWhere Washington has not stepped in, the exchanges are suing themselves: Kalshi in Louisiana on October 23, Polymarket US in Louisiana and Ohio, and Nadex and Ludlow in Missouri, whose cease-and-desist letters also remain in play for Polymarket, Robinhood, Crypto.com, Novig and Underdog.\n\nThe appeals courts are split: Nevada won at the Ninth Circuit, the Sixth Circuit turned down Kalshi in Ohio and Tennessee, and New Jersey, which lost at the Third Circuit, has asked the Supreme Court to step in, with Kalshi's reply due November 9. Ten states in court, platforms suing in four more, and a Supreme Court petition pending: this is now a federal fight over who regulates the odds.\n\nSources: https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/ https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/\n\n#infiniti #infinitimarkets #predictionmarkets #cftc #kalshi #regulation\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1110-cftc-utah.jpg",
-      "published": "2026-10-30T11:10:14-04:00",
-      "source": "2026-10-30_1110-cftc-utah.json",
-      "matches_facebook_post": false,
-      "kind": "article"
-    },
-    {
-      "id": "web-2026-10-30_1100-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1100-edt-0",
-      "title": "S&P Dow Jones Indices and Kalshi announce collaboration to bring benchmark indices to prediction markets, Morningstar reports",
-      "content_text": "- **S&P Dow Jones Indices and Kalshi announce collaboration to bring benchmark indices to prediction markets, Morningstar reports** — Under the agreement, Kalshi becomes a preferred prediction market platform licensed for event contracts tied to S&P DJI indices. S&P DJI in turn becomes a preferred provider for constructing indices from Kalshi event contract data. ([Morningstar](https://www.morningstar.com/news/pr-newswire/20261030ny85207/14-press-releases-you-need-to-see-this-week))",
-      "content_html": "<p>- **S&amp;P Dow Jones Indices and Kalshi announce collaboration to bring benchmark indices to prediction markets, Morningstar reports** — Under the agreement, Kalshi becomes a preferred prediction market platform licensed for event contracts tied to S&amp;P DJI indices. S&amp;P DJI in turn becomes a preferred provider for constructing indices from Kalshi event contract data. ([Morningstar](https://www.morningstar.com/news/pr-newswire/20261030ny85207/14-press-releases-you-need-to-see-this-week))</p>",
-      "date_published": "2026-10-30T11:00:00-04:00",
-      "date_modified": "2026-10-30T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.morningstar.com/news/pr-newswire/20261030ny85207/14-press-releases-you-need-to-see-this-week",
-      "links": [
-        "https://www.morningstar.com/news/pr-newswire/20261030ny85207/14-press-releases-you-need-to-see-this-week"
-      ],
-      "timestamp": "Oct 30, 2026 · 11:00 AM ET",
-      "body": "- **S&P Dow Jones Indices and Kalshi announce collaboration to bring benchmark indices to prediction markets, Morningstar reports** — Under the agreement, Kalshi becomes a preferred prediction market platform licensed for event contracts tied to S&P DJI indices. S&P DJI in turn becomes a preferred provider for constructing indices from Kalshi event contract data. ([Morningstar](https://www.morningstar.com/news/pr-newswire/20261030ny85207/14-press-releases-you-need-to-see-this-week))",
-      "image_url": null,
-      "published": "2026-10-30T11:00:00-04:00",
-      "source": "2026-10-30_1100-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1100-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1100-edt-1",
-      "title": "LBank launches Pre-IPO market with tokenized Kalshi-linked assets priced at 28 and 39 USDT, GlobeNewswire reports",
-      "content_text": "- **LBank launches Pre-IPO market with tokenized Kalshi-linked assets priced at 28 and 39 USDT, GlobeNewswire reports** — Subscriptions for the inaugural Kalshi-linked offering opened on October 29, with cKLSH priced at 28 USDT and subject to a six-month lock-up after a Kalshi IPO, and xKLSH at 39 USDT intended for spot trading. The issuer says the tokens are backed 1 to 1 by Kalshi shares held through a special purpose vehicle and do not confer direct ownership. ([WCIA (GlobeNewswire)](https://www.wcia.com/business/press-releases/globenewswire/9855973/lbank-to-launch-pre-ipo-market-with-kalshi-tokenized-asset-offering/))",
-      "content_html": "<p>- **LBank launches Pre-IPO market with tokenized Kalshi-linked assets priced at 28 and 39 USDT, GlobeNewswire reports** — Subscriptions for the inaugural Kalshi-linked offering opened on October 29, with cKLSH priced at 28 USDT and subject to a six-month lock-up after a Kalshi IPO, and xKLSH at 39 USDT intended for spot trading. The issuer says the tokens are backed 1 to 1 by Kalshi shares held through a special purpose vehicle and do not confer direct ownership. ([WCIA (GlobeNewswire)](https://www.wcia.com/business/press-releases/globenewswire/9855973/lbank-to-launch-pre-ipo-market-with-kalshi-tokenized-asset-offering/))</p>",
-      "date_published": "2026-10-30T11:00:00-04:00",
-      "date_modified": "2026-10-30T11:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.wcia.com/business/press-releases/globenewswire/9855973/lbank-to-launch-pre-ipo-market-with-kalshi-tokenized-asset-offering/",
-      "links": [
-        "https://www.wcia.com/business/press-releases/globenewswire/9855973/lbank-to-launch-pre-ipo-market-with-kalshi-tokenized-asset-offering/"
-      ],
-      "timestamp": "Oct 30, 2026 · 11:00 AM ET",
-      "body": "- **LBank launches Pre-IPO market with tokenized Kalshi-linked assets priced at 28 and 39 USDT, GlobeNewswire reports** — Subscriptions for the inaugural Kalshi-linked offering opened on October 29, with cKLSH priced at 28 USDT and subject to a six-month lock-up after a Kalshi IPO, and xKLSH at 39 USDT intended for spot trading. The issuer says the tokens are backed 1 to 1 by Kalshi shares held through a special purpose vehicle and do not confer direct ownership. ([WCIA (GlobeNewswire)](https://www.wcia.com/business/press-releases/globenewswire/9855973/lbank-to-launch-pre-ipo-market-with-kalshi-tokenized-asset-offering/))",
-      "image_url": null,
-      "published": "2026-10-30T11:00:00-04:00",
-      "source": "2026-10-30_1100-edt.json",
       "matches_facebook_post": false
     }
   ]
