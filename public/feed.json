@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-30T11:30:38.618099-04:00",
+  "updated": "2026-10-30T11:44:26.534007-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,159 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-30_1145-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1145-edt-0",
+      "title": "Polymarket launches 15-minute gold and silver contracts with Chainlink as data oracle, Mining.com.au reports",
+      "content_text": "- **Polymarket launches 15-minute gold and silver contracts with Chainlink as data oracle, Mining.com.au reports** — Polymarket has launched 15-minute Up or Down contracts on gold and silver prices, expanding beyond crypto into precious metals. Chainlink will act as the oracle for settlement and will also supply data for other short-duration contracts across foreign exchange and stocks. ([Mining.com.au](https://mining.com.au/polymarket-launches-15-minute-gold-and-silver-contracts/))",
+      "content_html": "<p>- **Polymarket launches 15-minute gold and silver contracts with Chainlink as data oracle, Mining.com.au reports** — Polymarket has launched 15-minute Up or Down contracts on gold and silver prices, expanding beyond crypto into precious metals. Chainlink will act as the oracle for settlement and will also supply data for other short-duration contracts across foreign exchange and stocks. ([Mining.com.au](https://mining.com.au/polymarket-launches-15-minute-gold-and-silver-contracts/))</p>",
+      "date_published": "2026-10-30T11:45:00-04:00",
+      "date_modified": "2026-10-30T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Gold",
+        "Silver"
+      ],
+      "image": null,
+      "external_url": "https://mining.com.au/polymarket-launches-15-minute-gold-and-silver-contracts/",
+      "links": [
+        "https://mining.com.au/polymarket-launches-15-minute-gold-and-silver-contracts/"
+      ],
+      "timestamp": "Oct 30, 2026 · 11:45 AM ET",
+      "body": "- **Polymarket launches 15-minute gold and silver contracts with Chainlink as data oracle, Mining.com.au reports** — Polymarket has launched 15-minute Up or Down contracts on gold and silver prices, expanding beyond crypto into precious metals. Chainlink will act as the oracle for settlement and will also supply data for other short-duration contracts across foreign exchange and stocks. ([Mining.com.au](https://mining.com.au/polymarket-launches-15-minute-gold-and-silver-contracts/))",
+      "image_url": null,
+      "published": "2026-10-30T11:45:00-04:00",
+      "source": "2026-10-30_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1145-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1145-edt-1",
+      "title": "CFTC enforcement update names insider trading on prediction markets a top priority, Legal500 reports",
+      "content_text": "- **CFTC enforcement update names insider trading on prediction markets a top priority, Legal500 reports** — A Legal500 enforcement update outlines how the CFTC Division of Enforcement treats misuse of material non-public information on prediction markets the same as insider trading on any other CFTC-regulated market. The update notes event contracts can fall under multiple parts of the swap definition, giving the CFTC broad jurisdiction, and that enforcement also covers fraud, manipulation and market abuse. ([Legal500](https://www.legal500.com/intelligence/united-states/finance-and-banking/prediction-markets-a-cftc-enforcement-update))",
+      "content_html": "<p>- **CFTC enforcement update names insider trading on prediction markets a top priority, Legal500 reports** — A Legal500 enforcement update outlines how the CFTC Division of Enforcement treats misuse of material non-public information on prediction markets the same as insider trading on any other CFTC-regulated market. The update notes event contracts can fall under multiple parts of the swap definition, giving the CFTC broad jurisdiction, and that enforcement also covers fraud, manipulation and market abuse. ([Legal500](https://www.legal500.com/intelligence/united-states/finance-and-banking/prediction-markets-a-cftc-enforcement-update))</p>",
+      "date_published": "2026-10-30T11:45:00-04:00",
+      "date_modified": "2026-10-30T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.legal500.com/intelligence/united-states/finance-and-banking/prediction-markets-a-cftc-enforcement-update",
+      "links": [
+        "https://www.legal500.com/intelligence/united-states/finance-and-banking/prediction-markets-a-cftc-enforcement-update"
+      ],
+      "timestamp": "Oct 30, 2026 · 11:45 AM ET",
+      "body": "- **CFTC enforcement update names insider trading on prediction markets a top priority, Legal500 reports** — A Legal500 enforcement update outlines how the CFTC Division of Enforcement treats misuse of material non-public information on prediction markets the same as insider trading on any other CFTC-regulated market. The update notes event contracts can fall under multiple parts of the swap definition, giving the CFTC broad jurisdiction, and that enforcement also covers fraud, manipulation and market abuse. ([Legal500](https://www.legal500.com/intelligence/united-states/finance-and-banking/prediction-markets-a-cftc-enforcement-update))",
+      "image_url": null,
+      "published": "2026-10-30T11:45:00-04:00",
+      "source": "2026-10-30_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1145-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1145-edt-2",
+      "title": "Goldman Sachs builds midterm trading playbook as prediction markets price a Democratic sweep at 67 percent, BigGo Finance reports",
+      "content_text": "- **Goldman Sachs builds midterm trading playbook as prediction markets price a Democratic sweep at 67 percent, BigGo Finance reports** — Goldman Sachs has built a sector framework around a 67 percent prediction-market probability of a Democratic sweep of Congress, favoring healthcare, renewable energy and homebuilders and taking a short view on major pharma, defense and crypto. The bank notes the S and P 500 rose in the 12 months after all 19 midterms since 1950, with an average gain of 15.1 percent. ([BigGo Finance](https://finance.biggo.com/news/6b165643-ed5a-4ad0-af7c-9c1a25e40694))",
+      "content_html": "<p>- **Goldman Sachs builds midterm trading playbook as prediction markets price a Democratic sweep at 67 percent, BigGo Finance reports** — Goldman Sachs has built a sector framework around a 67 percent prediction-market probability of a Democratic sweep of Congress, favoring healthcare, renewable energy and homebuilders and taking a short view on major pharma, defense and crypto. The bank notes the S and P 500 rose in the 12 months after all 19 midterms since 1950, with an average gain of 15.1 percent. ([BigGo Finance](https://finance.biggo.com/news/6b165643-ed5a-4ad0-af7c-9c1a25e40694))</p>",
+      "date_published": "2026-10-30T11:45:00-04:00",
+      "date_modified": "2026-10-30T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Congress",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://finance.biggo.com/news/6b165643-ed5a-4ad0-af7c-9c1a25e40694",
+      "links": [
+        "https://finance.biggo.com/news/6b165643-ed5a-4ad0-af7c-9c1a25e40694"
+      ],
+      "timestamp": "Oct 30, 2026 · 11:45 AM ET",
+      "body": "- **Goldman Sachs builds midterm trading playbook as prediction markets price a Democratic sweep at 67 percent, BigGo Finance reports** — Goldman Sachs has built a sector framework around a 67 percent prediction-market probability of a Democratic sweep of Congress, favoring healthcare, renewable energy and homebuilders and taking a short view on major pharma, defense and crypto. The bank notes the S and P 500 rose in the 12 months after all 19 midterms since 1950, with an average gain of 15.1 percent. ([BigGo Finance](https://finance.biggo.com/news/6b165643-ed5a-4ad0-af7c-9c1a25e40694))",
+      "image_url": null,
+      "published": "2026-10-30T11:45:00-04:00",
+      "source": "2026-10-30_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1145-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1145-edt-3",
+      "title": "Midterm markets price Democrats at 70 percent for the Senate and 93 percent for the House as Kansas Senate odds jump, DeFi Rate reports",
+      "content_text": "- **Midterm markets price Democrats at 70 percent for the Senate and 93 percent for the House as Kansas Senate odds jump, DeFi Rate reports** — DeFi Rate's live midterm tracker, updated October 30 at 11:11 AM ET, prices Democrats at about 70 percent for the Senate and 93 percent for the House across Kalshi and Polymarket, with 21 million dollars traded in election markets in the past 24 hours. The biggest weekly move was in the Kansas Senate race, where the Democrat rose from 40 percent to 53 percent on Kalshi. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "content_html": "<p>- **Midterm markets price Democrats at 70 percent for the Senate and 93 percent for the House as Kansas Senate odds jump, DeFi Rate reports** — DeFi Rate&#x27;s live midterm tracker, updated October 30 at 11:11 AM ET, prices Democrats at about 70 percent for the Senate and 93 percent for the House across Kalshi and Polymarket, with 21 million dollars traded in election markets in the past 24 hours. The biggest weekly move was in the Kansas Senate race, where the Democrat rose from 40 percent to 53 percent on Kalshi. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))</p>",
+      "date_published": "2026-10-30T11:45:00-04:00",
+      "date_modified": "2026-10-30T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/2026-midterms/",
+      "links": [
+        "https://defirate.com/odds/2026-midterms/"
+      ],
+      "timestamp": "Oct 30, 2026 · 11:45 AM ET",
+      "body": "- **Midterm markets price Democrats at 70 percent for the Senate and 93 percent for the House as Kansas Senate odds jump, DeFi Rate reports** — DeFi Rate's live midterm tracker, updated October 30 at 11:11 AM ET, prices Democrats at about 70 percent for the Senate and 93 percent for the House across Kalshi and Polymarket, with 21 million dollars traded in election markets in the past 24 hours. The biggest weekly move was in the Kansas Senate race, where the Democrat rose from 40 percent to 53 percent on Kalshi. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "image_url": null,
+      "published": "2026-10-30T11:45:00-04:00",
+      "source": "2026-10-30_1145-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_1145-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1145-edt-4",
+      "title": "Spurs lead NBA title market at 21 percent and Wembanyama leads MVP at 30 percent on Kalshi and Polymarket US, DeFi Rate reports",
+      "content_text": "- **Spurs lead NBA title market at 21 percent and Wembanyama leads MVP at 30 percent on Kalshi and Polymarket US, DeFi Rate reports** — DeFi Rate's NBA board prices the San Antonio Spurs as title favorites at 21 percent, with the Oklahoma City Thunder next at 18 percent in the 2027 championship market. Victor Wembanyama leads the MVP market at 30 percent, and Friday's 10-game slate prices Washington at 52 percent against Charlotte and Boston at 88 percent against Chicago. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "content_html": "<p>- **Spurs lead NBA title market at 21 percent and Wembanyama leads MVP at 30 percent on Kalshi and Polymarket US, DeFi Rate reports** — DeFi Rate&#x27;s NBA board prices the San Antonio Spurs as title favorites at 21 percent, with the Oklahoma City Thunder next at 18 percent in the 2027 championship market. Victor Wembanyama leads the MVP market at 30 percent, and Friday&#x27;s 10-game slate prices Washington at 52 percent against Charlotte and Boston at 88 percent against Chicago. ([DeFi Rate](https://defirate.com/odds/nba/))</p>",
+      "date_published": "2026-10-30T11:45:00-04:00",
+      "date_modified": "2026-10-30T11:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/nba/",
+      "links": [
+        "https://defirate.com/odds/nba/"
+      ],
+      "timestamp": "Oct 30, 2026 · 11:45 AM ET",
+      "body": "- **Spurs lead NBA title market at 21 percent and Wembanyama leads MVP at 30 percent on Kalshi and Polymarket US, DeFi Rate reports** — DeFi Rate's NBA board prices the San Antonio Spurs as title favorites at 21 percent, with the Oklahoma City Thunder next at 18 percent in the 2027 championship market. Victor Wembanyama leads the MVP market at 30 percent, and Friday's 10-game slate prices Washington at 52 percent against Charlotte and Boston at 88 percent against Chicago. ([DeFi Rate](https://defirate.com/odds/nba/))",
+      "image_url": null,
+      "published": "2026-10-30T11:45:00-04:00",
+      "source": "2026-10-30_1145-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-30_1130-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1130-edt-0",
@@ -4552,158 +4705,6 @@
       "image_url": null,
       "published": "2026-10-30T04:45:00-04:00",
       "source": "2026-10-30_0445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_0445-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0445-edt-2",
-      "title": "MEMX files to offer event contracts on company earnings and other performance indicators, GambleRss reports",
-      "content_text": "- **MEMX files to offer event contracts on company earnings and other performance indicators, GambleRss reports** — Exchange operator MEMX filed a proposed rule change with the SEC to offer Equities Based Exchange Prediction Contracts, yes and no derivatives tied to earnings, revenue and other metrics of publicly traded companies. The contracts would cover the top 25 U.S. stocks by market capitalization, be offered through Interactive Brokers, and are targeted for early 2027, following a similar Cboe filing. ([GambleRss](https://gamblerss.com/memx-wants-to-offer-event-contracts-on-company-earnings-other-indicators-67506))",
-      "content_html": "<p>- **MEMX files to offer event contracts on company earnings and other performance indicators, GambleRss reports** — Exchange operator MEMX filed a proposed rule change with the SEC to offer Equities Based Exchange Prediction Contracts, yes and no derivatives tied to earnings, revenue and other metrics of publicly traded companies. The contracts would cover the top 25 U.S. stocks by market capitalization, be offered through Interactive Brokers, and are targeted for early 2027, following a similar Cboe filing. ([GambleRss](https://gamblerss.com/memx-wants-to-offer-event-contracts-on-company-earnings-other-indicators-67506))</p>",
-      "date_published": "2026-10-30T04:45:00-04:00",
-      "date_modified": "2026-10-30T04:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "SEC"
-      ],
-      "image": null,
-      "external_url": "https://gamblerss.com/memx-wants-to-offer-event-contracts-on-company-earnings-other-indicators-67506",
-      "links": [
-        "https://gamblerss.com/memx-wants-to-offer-event-contracts-on-company-earnings-other-indicators-67506"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:45 AM ET",
-      "body": "- **MEMX files to offer event contracts on company earnings and other performance indicators, GambleRss reports** — Exchange operator MEMX filed a proposed rule change with the SEC to offer Equities Based Exchange Prediction Contracts, yes and no derivatives tied to earnings, revenue and other metrics of publicly traded companies. The contracts would cover the top 25 U.S. stocks by market capitalization, be offered through Interactive Brokers, and are targeted for early 2027, following a similar Cboe filing. ([GambleRss](https://gamblerss.com/memx-wants-to-offer-event-contracts-on-company-earnings-other-indicators-67506))",
-      "image_url": null,
-      "published": "2026-10-30T04:45:00-04:00",
-      "source": "2026-10-30_0445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_0445-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0445-edt-3",
-      "title": "Event contracts are becoming a new asset class as Kalshi is valued at 40 billion dollars and Polymarket at 15 billion, MarketMinute analysis says",
-      "content_text": "- **Event contracts are becoming a new asset class as Kalshi is valued at 40 billion dollars and Polymarket at 15 billion, MarketMinute analysis says** — An October 30 MarketMinute analysis frames event contracts as a new asset class, citing Kalshi's 40 billion dollar valuation, Polymarket at 15 billion dollars, and Robinhood trading more than 16 billion dollars of event contracts in the year by mid-2026, according to Bernstein. It also cites Macquarie data putting total prediction market volume at 20.1 billion dollars in September 2026. ([FOX47 MarketMinute](https://fox47.marketminute.com/article/businesnewswire-2026-10-30-event-contracts-as-a-new-asset-class))",
-      "content_html": "<p>- **Event contracts are becoming a new asset class as Kalshi is valued at 40 billion dollars and Polymarket at 15 billion, MarketMinute analysis says** — An October 30 MarketMinute analysis frames event contracts as a new asset class, citing Kalshi&#x27;s 40 billion dollar valuation, Polymarket at 15 billion dollars, and Robinhood trading more than 16 billion dollars of event contracts in the year by mid-2026, according to Bernstein. It also cites Macquarie data putting total prediction market volume at 20.1 billion dollars in September 2026. ([FOX47 MarketMinute](https://fox47.marketminute.com/article/businesnewswire-2026-10-30-event-contracts-as-a-new-asset-class))</p>",
-      "date_published": "2026-10-30T04:45:00-04:00",
-      "date_modified": "2026-10-30T04:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://fox47.marketminute.com/article/businesnewswire-2026-10-30-event-contracts-as-a-new-asset-class",
-      "links": [
-        "https://fox47.marketminute.com/article/businesnewswire-2026-10-30-event-contracts-as-a-new-asset-class"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:45 AM ET",
-      "body": "- **Event contracts are becoming a new asset class as Kalshi is valued at 40 billion dollars and Polymarket at 15 billion, MarketMinute analysis says** — An October 30 MarketMinute analysis frames event contracts as a new asset class, citing Kalshi's 40 billion dollar valuation, Polymarket at 15 billion dollars, and Robinhood trading more than 16 billion dollars of event contracts in the year by mid-2026, according to Bernstein. It also cites Macquarie data putting total prediction market volume at 20.1 billion dollars in September 2026. ([FOX47 MarketMinute](https://fox47.marketminute.com/article/businesnewswire-2026-10-30-event-contracts-as-a-new-asset-class))",
-      "image_url": null,
-      "published": "2026-10-30T04:45:00-04:00",
-      "source": "2026-10-30_0445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_0445-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0445-edt-4",
-      "title": "Polymarket is probing suspicious well-timed trades around Israel's election, Reuters reports",
-      "content_text": "- **Polymarket is probing suspicious well-timed trades around Israel's election, Reuters reports** — Polymarket is investigating a string of well-timed, profitable trades placed shortly before polls closed in Israel's election this week, according to a Bloomberg News report carried by Reuters. Hundreds of newly created accounts bet on Benjamin Netanyahu and Likud, some accounts cashed out more than 100,000 dollars, and data firm Bubblemaps said 101 accounts were funded for the first time on election day. ([Reuters](https://www.reuters.com/business/polymarket-probes-suspicious-trades-around-israel-election-bloomberg-news-2026-10-29/))",
-      "content_html": "<p>- **Polymarket is probing suspicious well-timed trades around Israel&#x27;s election, Reuters reports** — Polymarket is investigating a string of well-timed, profitable trades placed shortly before polls closed in Israel&#x27;s election this week, according to a Bloomberg News report carried by Reuters. Hundreds of newly created accounts bet on Benjamin Netanyahu and Likud, some accounts cashed out more than 100,000 dollars, and data firm Bubblemaps said 101 accounts were funded for the first time on election day. ([Reuters](https://www.reuters.com/business/polymarket-probes-suspicious-trades-around-israel-election-bloomberg-news-2026-10-29/))</p>",
-      "date_published": "2026-10-30T04:45:00-04:00",
-      "date_modified": "2026-10-30T04:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.reuters.com/business/polymarket-probes-suspicious-trades-around-israel-election-bloomberg-news-2026-10-29/",
-      "links": [
-        "https://www.reuters.com/business/polymarket-probes-suspicious-trades-around-israel-election-bloomberg-news-2026-10-29/"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:45 AM ET",
-      "body": "- **Polymarket is probing suspicious well-timed trades around Israel's election, Reuters reports** — Polymarket is investigating a string of well-timed, profitable trades placed shortly before polls closed in Israel's election this week, according to a Bloomberg News report carried by Reuters. Hundreds of newly created accounts bet on Benjamin Netanyahu and Likud, some accounts cashed out more than 100,000 dollars, and data firm Bubblemaps said 101 accounts were funded for the first time on election day. ([Reuters](https://www.reuters.com/business/polymarket-probes-suspicious-trades-around-israel-election-bloomberg-news-2026-10-29/))",
-      "image_url": null,
-      "published": "2026-10-30T04:45:00-04:00",
-      "source": "2026-10-30_0445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-30_0439-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_0439-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBuffalo win the 2027 Pro Football Championship priced at 11.0% on Kalshi, down 2.0 points, on $10.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held out today (the NBA preferred-partner deal, the…\n#PredictionMarkets #Kalshi #Polymarket #Oil\nhttps://predictionbubbles.net/markets/sports/\n\nHezbollah disarm by December 31 priced at 3.0% on Polymarket, down 5.0 points, on $2.1M traded\nPredictionBubbles' movers board, fresh on its Oct. 30, 08:39 UTC crawl with data read at Oct. 30, 08:08 UTC, lists the Hezbollah disarmament contract among its downward…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Buffalo win the 2027 Pro Football Championship priced at 11.0% on Kalshi, down 2.0 points, on $10.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held out today (the NBA preferred-partner deal, the…<br/>#PredictionMarkets #Kalshi #Polymarket #Oil<br/>https://predictionbubbles.net/markets/sports/<br/><br/>Hezbollah disarm by December 31 priced at 3.0% on Polymarket, down 5.0 points, on $2.1M traded<br/>PredictionBubbles&#x27; movers board, fresh on its Oct. 30, 08:39 UTC crawl with data read at Oct. 30, 08:08 UTC, lists the Hezbollah disarmament contract among its downward…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-30T04:39:00-04:00",
-      "date_modified": "2026-10-30T04:39:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Oil",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/sports/",
-      "links": [
-        "https://predictionbubbles.net/markets/sports/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:39 AM ET",
-      "body": "Infiniti Briefing\n\nBuffalo win the 2027 Pro Football Championship priced at 11.0% on Kalshi, down 2.0 points, on $10.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held out today (the NBA preferred-partner deal, the…\n#PredictionMarkets #Kalshi #Polymarket #Oil\nhttps://predictionbubbles.net/markets/sports/\n\nHezbollah disarm by December 31 priced at 3.0% on Polymarket, down 5.0 points, on $2.1M traded\nPredictionBubbles' movers board, fresh on its Oct. 30, 08:39 UTC crawl with data read at Oct. 30, 08:08 UTC, lists the Hezbollah disarmament contract among its downward…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-30T04:39:00-04:00",
-      "source": "2026-10-30_0439-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_0430-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0430-edt-0",
-      "title": "World Series prediction markets take in more than 180 million dollars in trades at Kalshi, Deadspin reports",
-      "content_text": "- **World Series prediction markets take in more than 180 million dollars in trades at Kalshi, Deadspin reports** — Deadspin reported the 2026 World Series between Milwaukee and Tampa Bay generated more than 180 million dollars in trading volume at Kalshi, with Game 4 highest at 51.37 million dollars and Game 3 lowest at 20.18 million dollars. Milwaukee won the series in five games on October 28. ([Deadspin](https://deadspin.com/prediction-markets/trending/mlb/world-series-bring-over-180m-in-volume-at-predictions-markets/))",
-      "content_html": "<p>- **World Series prediction markets take in more than 180 million dollars in trades at Kalshi, Deadspin reports** — Deadspin reported the 2026 World Series between Milwaukee and Tampa Bay generated more than 180 million dollars in trading volume at Kalshi, with Game 4 highest at 51.37 million dollars and Game 3 lowest at 20.18 million dollars. Milwaukee won the series in five games on October 28. ([Deadspin](https://deadspin.com/prediction-markets/trending/mlb/world-series-bring-over-180m-in-volume-at-predictions-markets/))</p>",
-      "date_published": "2026-10-30T04:30:00-04:00",
-      "date_modified": "2026-10-30T04:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://deadspin.com/prediction-markets/trending/mlb/world-series-bring-over-180m-in-volume-at-predictions-markets/",
-      "links": [
-        "https://deadspin.com/prediction-markets/trending/mlb/world-series-bring-over-180m-in-volume-at-predictions-markets/"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:30 AM ET",
-      "body": "- **World Series prediction markets take in more than 180 million dollars in trades at Kalshi, Deadspin reports** — Deadspin reported the 2026 World Series between Milwaukee and Tampa Bay generated more than 180 million dollars in trading volume at Kalshi, with Game 4 highest at 51.37 million dollars and Game 3 lowest at 20.18 million dollars. Milwaukee won the series in five games on October 28. ([Deadspin](https://deadspin.com/prediction-markets/trending/mlb/world-series-bring-over-180m-in-volume-at-predictions-markets/))",
-      "image_url": null,
-      "published": "2026-10-30T04:30:00-04:00",
-      "source": "2026-10-30_0430-edt.json",
       "matches_facebook_post": false
     }
   ]
