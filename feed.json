@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-29T22:03:19.472086-04:00",
+  "updated": "2026-10-29T22:17:04.665570-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,67 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-29_2215-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_2215-edt-0",
+      "title": "Prediction markets push into stock-linked contracts as Rothera wins CFTC approval for Tesla KPI swaps, Covers reports",
+      "content_text": "- **Prediction markets push into stock-linked contracts as Rothera wins CFTC approval for Tesla KPI swaps, Covers reports** — Covers reported October 29 that federally regulated prediction markets are adding contracts tied to stock indices, corporate earnings and industry performance to attract financial traders, with sports-related contracts still accounting for roughly 85 percent of trading volume. Rothera, the Robinhood and Susquehanna joint venture, said the CFTC approved its filing for swaps tied to Tesla key performance indicators, described as the first approval of its kind, which could pave the way for contracts on earnings, sales and active users. ([Covers](https://www.covers.com/industry/prediction-markets-financials-sports-trading-legal-different-robinhood-draftkings-october-2026))",
+      "content_html": "<p>- **Prediction markets push into stock-linked contracts as Rothera wins CFTC approval for Tesla KPI swaps, Covers reports** — Covers reported October 29 that federally regulated prediction markets are adding contracts tied to stock indices, corporate earnings and industry performance to attract financial traders, with sports-related contracts still accounting for roughly 85 percent of trading volume. Rothera, the Robinhood and Susquehanna joint venture, said the CFTC approved its filing for swaps tied to Tesla key performance indicators, described as the first approval of its kind, which could pave the way for contracts on earnings, sales and active users. ([Covers](https://www.covers.com/industry/prediction-markets-financials-sports-trading-legal-different-robinhood-draftkings-october-2026))</p>",
+      "date_published": "2026-10-29T22:15:00-04:00",
+      "date_modified": "2026-10-29T22:15:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.covers.com/industry/prediction-markets-financials-sports-trading-legal-different-robinhood-draftkings-october-2026",
+      "links": [
+        "https://www.covers.com/industry/prediction-markets-financials-sports-trading-legal-different-robinhood-draftkings-october-2026"
+      ],
+      "timestamp": "Oct 29, 2026 · 10:15 PM ET",
+      "body": "- **Prediction markets push into stock-linked contracts as Rothera wins CFTC approval for Tesla KPI swaps, Covers reports** — Covers reported October 29 that federally regulated prediction markets are adding contracts tied to stock indices, corporate earnings and industry performance to attract financial traders, with sports-related contracts still accounting for roughly 85 percent of trading volume. Rothera, the Robinhood and Susquehanna joint venture, said the CFTC approved its filing for swaps tied to Tesla key performance indicators, described as the first approval of its kind, which could pave the way for contracts on earnings, sales and active users. ([Covers](https://www.covers.com/industry/prediction-markets-financials-sports-trading-legal-different-robinhood-draftkings-october-2026))",
+      "image_url": null,
+      "published": "2026-10-29T22:15:00-04:00",
+      "source": "2026-10-29_2215-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-29_2209-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-29_2209-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nDemocrats hold 235 or more seats in the House AND hold 51 or more seats in the Senate after the 2026 midterms priced at 64.0% on Kalshi, up 8.0 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/movers/\n\nPanthers vs. Packers priced at 52.5% on Polymarket, up 17.0 points, on $698K traded\nPredictionBubbles' movers board, on the same fresh Oct. 30, 02:10 UTC crawl, lists the Panthers-Packers contract among its upward sports moves, in a sports markets…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Democrats hold 235 or more seats in the House AND hold 51 or more seats in the Senate after the 2026 midterms priced at 64.0% on Kalshi, up 8.0 points, on $1.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Panthers vs. Packers priced at 52.5% on Polymarket, up 17.0 points, on $698K traded<br/>PredictionBubbles&#x27; movers board, on the same fresh Oct. 30, 02:10 UTC crawl, lists the Panthers-Packers contract among its upward sports moves, in a sports markets…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-29T22:09:00-04:00",
+      "date_modified": "2026-10-29T22:09:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 29, 2026 · 10:09 PM ET",
+      "body": "Infiniti Briefing\n\nDemocrats hold 235 or more seats in the House AND hold 51 or more seats in the Senate after the 2026 midterms priced at 64.0% on Kalshi, up 8.0 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/movers/\n\nPanthers vs. Packers priced at 52.5% on Polymarket, up 17.0 points, on $698K traded\nPredictionBubbles' movers board, on the same fresh Oct. 30, 02:10 UTC crawl, lists the Panthers-Packers contract among its upward sports moves, in a sports markets…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-29T22:09:00-04:00",
+      "source": "2026-10-29_2209-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-29_2200-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_2200-edt-0",
@@ -4604,68 +4665,6 @@
       ],
       "timestamp": "Oct 29, 2026 · 2:45 PM ET",
       "body": "- **Kalshi S and P 500 deal with S and P Dow Jones Indices opens door to benchmark event contracts, CCN reports** — Kalshi signed a preferred-provider agreement announced October 26 with S and P Dow Jones Indices to offer event contracts tied to major benchmarks including the S and P 500, settling on official index values. S and P Dow Jones Indices will in return explore building new indices from Kalshi contract prices to measure market expectations across economics, politics and sports, with no launch dates disclosed. ([CCN](https://www.ccn.com/news/crypto/kalshi-sp-dow-jones-sp500-prediction-markets-deal/))",
-      "image_url": null,
-      "published": "2026-10-29T14:45:00-04:00",
-      "source": "2026-10-29_1445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1445-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1445-edt-1",
-      "title": "Polymarket has investigated dozens of midterm election bets and referred at least two cases to the CFTC, NPR reports",
-      "content_text": "- **Polymarket has investigated dozens of midterm election bets and referred at least two cases to the CFTC, NPR reports** — Polymarket has investigated dozens of bets related to the midterm elections over suspected insider trading and market manipulation, and at least two cases were referred to the Commodity Futures Trading Commission, according to NPR reporting carried by WKYU. Head of global intelligence and investigations Shana Bautista leads a 16-person team using a new election surveillance system ahead of the November 3 midterms. ([WKYU](https://www.wkyufm.org/news/2026-10-27/polymarket-has-investigated-dozens-of-election-related-cases))",
-      "content_html": "<p>- **Polymarket has investigated dozens of midterm election bets and referred at least two cases to the CFTC, NPR reports** — Polymarket has investigated dozens of bets related to the midterm elections over suspected insider trading and market manipulation, and at least two cases were referred to the Commodity Futures Trading Commission, according to NPR reporting carried by WKYU. Head of global intelligence and investigations Shana Bautista leads a 16-person team using a new election surveillance system ahead of the November 3 midterms. ([WKYU](https://www.wkyufm.org/news/2026-10-27/polymarket-has-investigated-dozens-of-election-related-cases))</p>",
-      "date_published": "2026-10-29T14:45:00-04:00",
-      "date_modified": "2026-10-29T14:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "CFTC",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://www.wkyufm.org/news/2026-10-27/polymarket-has-investigated-dozens-of-election-related-cases",
-      "links": [
-        "https://www.wkyufm.org/news/2026-10-27/polymarket-has-investigated-dozens-of-election-related-cases"
-      ],
-      "timestamp": "Oct 29, 2026 · 2:45 PM ET",
-      "body": "- **Polymarket has investigated dozens of midterm election bets and referred at least two cases to the CFTC, NPR reports** — Polymarket has investigated dozens of bets related to the midterm elections over suspected insider trading and market manipulation, and at least two cases were referred to the Commodity Futures Trading Commission, according to NPR reporting carried by WKYU. Head of global intelligence and investigations Shana Bautista leads a 16-person team using a new election surveillance system ahead of the November 3 midterms. ([WKYU](https://www.wkyufm.org/news/2026-10-27/polymarket-has-investigated-dozens-of-election-related-cases))",
-      "image_url": null,
-      "published": "2026-10-29T14:45:00-04:00",
-      "source": "2026-10-29_1445-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1445-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1445-edt-2",
-      "title": "Polymarket Israel prices flip as Netanyahu rises 20 points to 47 percent and Eisenkot falls 21 points to 36 percent, RG reports",
-      "content_text": "- **Polymarket Israel prices flip as Netanyahu rises 20 points to 47 percent and Eisenkot falls 21 points to 36 percent, RG reports** — RG's daily movers board showed the Likud Israeli legislative election winner contract jumping 69 points to 99 percent, while Benjamin Netanyahu's price to be prime minister after the election rose 20 points to 47 percent and Gadi Eisenkot fell 21 points to 36 percent. With 51.5 percent of votes counted, Likud led with 27 seats to Yashar's 21, and neither bloc held the 61 seats needed for a majority. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-texas-senate-netanyahu-bills-super-bowl-october-28-2026))",
-      "content_html": "<p>- **Polymarket Israel prices flip as Netanyahu rises 20 points to 47 percent and Eisenkot falls 21 points to 36 percent, RG reports** — RG&#x27;s daily movers board showed the Likud Israeli legislative election winner contract jumping 69 points to 99 percent, while Benjamin Netanyahu&#x27;s price to be prime minister after the election rose 20 points to 47 percent and Gadi Eisenkot fell 21 points to 36 percent. With 51.5 percent of votes counted, Likud led with 27 seats to Yashar&#x27;s 21, and neither bloc held the 61 seats needed for a majority. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-texas-senate-netanyahu-bills-super-bowl-october-28-2026))</p>",
-      "date_published": "2026-10-29T14:45:00-04:00",
-      "date_modified": "2026-10-29T14:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://rg.org/news/prediction-markets/polymarket-daily-texas-senate-netanyahu-bills-super-bowl-october-28-2026",
-      "links": [
-        "https://rg.org/news/prediction-markets/polymarket-daily-texas-senate-netanyahu-bills-super-bowl-october-28-2026"
-      ],
-      "timestamp": "Oct 29, 2026 · 2:45 PM ET",
-      "body": "- **Polymarket Israel prices flip as Netanyahu rises 20 points to 47 percent and Eisenkot falls 21 points to 36 percent, RG reports** — RG's daily movers board showed the Likud Israeli legislative election winner contract jumping 69 points to 99 percent, while Benjamin Netanyahu's price to be prime minister after the election rose 20 points to 47 percent and Gadi Eisenkot fell 21 points to 36 percent. With 51.5 percent of votes counted, Likud led with 27 seats to Yashar's 21, and neither bloc held the 61 seats needed for a majority. ([RG](https://rg.org/news/prediction-markets/polymarket-daily-texas-senate-netanyahu-bills-super-bowl-october-28-2026))",
       "image_url": null,
       "published": "2026-10-29T14:45:00-04:00",
       "source": "2026-10-29_1445-edt.json",
