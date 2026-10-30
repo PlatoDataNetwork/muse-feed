@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-30T12:14:59.212628-04:00",
+  "updated": "2026-10-30T12:15:54.656884-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -951,6 +951,41 @@
       "published": "2026-10-30T11:15:00-04:00",
       "source": "2026-10-30_1115-edt.json",
       "matches_facebook_post": false
+    },
+    {
+      "id": "article-2026-10-30_1110-cftc-utah",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-30_1110-cftc-utah",
+      "title": "Washington Sues Back: The CFTC Now Has 10 States in Court",
+      "content_text": "Washington Sues Back: The CFTC Now Has 10 States in Court\n\nThe prediction market fight is no longer just platforms against states. The federal government sued Utah on Monday, and counting Utah, Washington now has 10 states in court for trying to keep federally regulated exchanges out. The Commodity Futures Trading Commission filed in federal court in Salt Lake City, less than a week after Utah moved first.\n\nUtah Attorney General Derek Brown sued Kalshi and trading firm Susquehanna in state court on October 20, alleging Kalshi has offered gambling bets to residents since at least September 2024 and calling them indistinguishable from what a sportsbook sells. Utah bans gambling outright, and the state seeks to block Kalshi's sports, election and cultural markets and recover the fees it collected. Utah has already beaten Kalshi once: a federal judge ruled for the state in August, and the Tenth Circuit refused emergency relief while Kalshi appeals.\n\nThe CFTC's position is that event contracts count as swaps, a category federal commodities law leaves to federal regulators alone, and that letting each state step in would leave exchanges answering to 50 regulators nationwide. Its earlier suits cover Arizona, Connecticut, Illinois, New York, Wisconsin, Minnesota, Rhode Island, New Mexico and Kentucky. Judges have sided with Washington so far in Minnesota, Illinois and Arizona, including an October 2 Illinois ruling that the state likely cannot force Kalshi to get a sports wagering license.\n\nWhere Washington has not stepped in, the exchanges are suing themselves: Kalshi in Louisiana on October 23, Polymarket US in Louisiana and Ohio, and Nadex and Ludlow in Missouri, whose cease-and-desist letters also remain in play for Polymarket, Robinhood, Crypto.com, Novig and Underdog.\n\nThe appeals courts are split: Nevada won at the Ninth Circuit, the Sixth Circuit turned down Kalshi in Ohio and Tennessee, and New Jersey, which lost at the Third Circuit, has asked the Supreme Court to step in, with Kalshi's reply due November 9. Ten states in court, platforms suing in four more, and a Supreme Court petition pending: this is now a federal fight over who regulates the odds.\n\nSources: https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/ https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/\n\n#infiniti #infinitimarkets #predictionmarkets #cftc #kalshi #regulation\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Washington Sues Back: The CFTC Now Has 10 States in Court<br/><br/>The prediction market fight is no longer just platforms against states. The federal government sued Utah on Monday, and counting Utah, Washington now has 10 states in court for trying to keep federally regulated exchanges out. The Commodity Futures Trading Commission filed in federal court in Salt Lake City, less than a week after Utah moved first.<br/><br/>Utah Attorney General Derek Brown sued Kalshi and trading firm Susquehanna in state court on October 20, alleging Kalshi has offered gambling bets to residents since at least September 2024 and calling them indistinguishable from what a sportsbook sells. Utah bans gambling outright, and the state seeks to block Kalshi&#x27;s sports, election and cultural markets and recover the fees it collected. Utah has already beaten Kalshi once: a federal judge ruled for the state in August, and the Tenth Circuit refused emergency relief while Kalshi appeals.<br/><br/>The CFTC&#x27;s position is that event contracts count as swaps, a category federal commodities law leaves to federal regulators alone, and that letting each state step in would leave exchanges answering to 50 regulators nationwide. Its earlier suits cover Arizona, Connecticut, Illinois, New York, Wisconsin, Minnesota, Rhode Island, New Mexico and Kentucky. Judges have sided with Washington so far in Minnesota, Illinois and Arizona, including an October 2 Illinois ruling that the state likely cannot force Kalshi to get a sports wagering license.<br/><br/>Where Washington has not stepped in, the exchanges are suing themselves: Kalshi in Louisiana on October 23, Polymarket US in Louisiana and Ohio, and Nadex and Ludlow in Missouri, whose cease-and-desist letters also remain in play for Polymarket, Robinhood, Crypto.com, Novig and Underdog.<br/><br/>The appeals courts are split: Nevada won at the Ninth Circuit, the Sixth Circuit turned down Kalshi in Ohio and Tennessee, and New Jersey, which lost at the Third Circuit, has asked the Supreme Court to step in, with Kalshi&#x27;s reply due November 9. Ten states in court, platforms suing in four more, and a Supreme Court petition pending: this is now a federal fight over who regulates the odds.<br/><br/>Sources: https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/ https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/<br/><br/>#infiniti #infinitimarkets #predictionmarkets #cftc #kalshi #regulation<br/><br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-30_1110-cftc-utah.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "date_published": "2026-10-30T11:10:14-04:00",
+      "date_modified": "2026-10-30T11:10:14-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC",
+        "Regulation",
+        "Kalshi",
+        "Polymarket",
+        "Legal"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1110-cftc-utah.jpg",
+      "external_url": "https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/",
+      "links": [
+        "https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/",
+        "https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/"
+      ],
+      "timestamp": "Oct 30, 2026 · 11:10 AM ET",
+      "body": "Washington Sues Back: The CFTC Now Has 10 States in Court\n\nThe prediction market fight is no longer just platforms against states. The federal government sued Utah on Monday, and counting Utah, Washington now has 10 states in court for trying to keep federally regulated exchanges out. The Commodity Futures Trading Commission filed in federal court in Salt Lake City, less than a week after Utah moved first.\n\nUtah Attorney General Derek Brown sued Kalshi and trading firm Susquehanna in state court on October 20, alleging Kalshi has offered gambling bets to residents since at least September 2024 and calling them indistinguishable from what a sportsbook sells. Utah bans gambling outright, and the state seeks to block Kalshi's sports, election and cultural markets and recover the fees it collected. Utah has already beaten Kalshi once: a federal judge ruled for the state in August, and the Tenth Circuit refused emergency relief while Kalshi appeals.\n\nThe CFTC's position is that event contracts count as swaps, a category federal commodities law leaves to federal regulators alone, and that letting each state step in would leave exchanges answering to 50 regulators nationwide. Its earlier suits cover Arizona, Connecticut, Illinois, New York, Wisconsin, Minnesota, Rhode Island, New Mexico and Kentucky. Judges have sided with Washington so far in Minnesota, Illinois and Arizona, including an October 2 Illinois ruling that the state likely cannot force Kalshi to get a sports wagering license.\n\nWhere Washington has not stepped in, the exchanges are suing themselves: Kalshi in Louisiana on October 23, Polymarket US in Louisiana and Ohio, and Nadex and Ludlow in Missouri, whose cease-and-desist letters also remain in play for Polymarket, Robinhood, Crypto.com, Novig and Underdog.\n\nThe appeals courts are split: Nevada won at the Ninth Circuit, the Sixth Circuit turned down Kalshi in Ohio and Tennessee, and New Jersey, which lost at the Third Circuit, has asked the Supreme Court to step in, with Kalshi's reply due November 9. Ten states in court, platforms suing in four more, and a Supreme Court petition pending: this is now a federal fight over who regulates the odds.\n\nSources: https://www.legalsportsbetting.com/news/cftc-sues-utah-as-washington-takes-over-the-prediction-market-fight-10-28-2026/ https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/\n\n#infiniti #infinitimarkets #predictionmarkets #cftc #kalshi #regulation\n\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-10-30_1110-cftc-utah.jpg",
+      "published": "2026-10-30T11:10:14-04:00",
+      "source": "2026-10-30_1110-cftc-utah.json",
+      "matches_facebook_post": false,
+      "kind": "article"
     },
     {
       "id": "web-2026-10-30_1100-edt-0",
@@ -4674,36 +4709,6 @@
       "image_url": null,
       "published": "2026-10-30T05:39:00-04:00",
       "source": "2026-10-30_0539-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_0515-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0515-edt-0",
-      "title": "Kalshi is on course for more than 1 billion dollars in adjusted earnings in 2026 on 3.7 billion dollars in gross revenue, PitchBook research via InGame reports",
-      "content_text": "- **Kalshi is on course for more than 1 billion dollars in adjusted earnings in 2026 on 3.7 billion dollars in gross revenue, PitchBook research via InGame reports** — PitchBook estimates Kalshi adjusted EBITDA excluding stock-based compensation at 1.2 billion dollars for 2026, with Polymarket projected at 842 million dollars in gross revenue and 34.9 million dollars on the same earnings measure. PitchBook values Kalshi at 42.3 billion dollars and Polymarket at 20.6 billion dollars based on present and projected revenue and earnings. ([InGame](https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/))",
-      "content_html": "<p>- **Kalshi is on course for more than 1 billion dollars in adjusted earnings in 2026 on 3.7 billion dollars in gross revenue, PitchBook research via InGame reports** — PitchBook estimates Kalshi adjusted EBITDA excluding stock-based compensation at 1.2 billion dollars for 2026, with Polymarket projected at 842 million dollars in gross revenue and 34.9 million dollars on the same earnings measure. PitchBook values Kalshi at 42.3 billion dollars and Polymarket at 20.6 billion dollars based on present and projected revenue and earnings. ([InGame](https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/))</p>",
-      "date_published": "2026-10-30T05:15:00-04:00",
-      "date_modified": "2026-10-30T05:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/",
-      "links": [
-        "https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/"
-      ],
-      "timestamp": "Oct 30, 2026 · 5:15 AM ET",
-      "body": "- **Kalshi is on course for more than 1 billion dollars in adjusted earnings in 2026 on 3.7 billion dollars in gross revenue, PitchBook research via InGame reports** — PitchBook estimates Kalshi adjusted EBITDA excluding stock-based compensation at 1.2 billion dollars for 2026, with Polymarket projected at 842 million dollars in gross revenue and 34.9 million dollars on the same earnings measure. PitchBook values Kalshi at 42.3 billion dollars and Polymarket at 20.6 billion dollars based on present and projected revenue and earnings. ([InGame](https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/))",
-      "image_url": null,
-      "published": "2026-10-30T05:15:00-04:00",
-      "source": "2026-10-30_0515-edt.json",
       "matches_facebook_post": false
     }
   ]
