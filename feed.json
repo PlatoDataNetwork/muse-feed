@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-30T00:14:55.378449-04:00",
+  "updated": "2026-10-30T00:31:35.844590-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,151 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-30_0030-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0030-edt-0",
+      "title": "CFTC Chair Selig calls Utah criminal charges against Kalshi co-founders a blatant overreach, KuCoin reports",
+      "content_text": "- **CFTC Chair Selig calls Utah criminal charges against Kalshi co-founders a blatant overreach, KuCoin reports** — CFTC Chairman Michael Selig on October 29 called Utah's criminal charges against Kalshi's co-founders a blatant overreach and pledged to defend federal jurisdiction, KuCoin reports. The charges, filed October 28 against KalshiEX, CEO Tarek Mansour and COO Luana Lopes Lara, came two days after the CFTC sued Utah to block state enforcement against federally regulated prediction markets. ([KuCoin](https://www.kucoin.com/news/flash/cftc-chair-criticizes-utah-s-kalshi-prosecution-as-blatant-overreach))",
+      "content_html": "<p>- **CFTC Chair Selig calls Utah criminal charges against Kalshi co-founders a blatant overreach, KuCoin reports** — CFTC Chairman Michael Selig on October 29 called Utah&#x27;s criminal charges against Kalshi&#x27;s co-founders a blatant overreach and pledged to defend federal jurisdiction, KuCoin reports. The charges, filed October 28 against KalshiEX, CEO Tarek Mansour and COO Luana Lopes Lara, came two days after the CFTC sued Utah to block state enforcement against federally regulated prediction markets. ([KuCoin](https://www.kucoin.com/news/flash/cftc-chair-criticizes-utah-s-kalshi-prosecution-as-blatant-overreach))</p>",
+      "date_published": "2026-10-30T00:30:00-04:00",
+      "date_modified": "2026-10-30T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.kucoin.com/news/flash/cftc-chair-criticizes-utah-s-kalshi-prosecution-as-blatant-overreach",
+      "links": [
+        "https://www.kucoin.com/news/flash/cftc-chair-criticizes-utah-s-kalshi-prosecution-as-blatant-overreach"
+      ],
+      "timestamp": "Oct 30, 2026 · 12:30 AM ET",
+      "body": "- **CFTC Chair Selig calls Utah criminal charges against Kalshi co-founders a blatant overreach, KuCoin reports** — CFTC Chairman Michael Selig on October 29 called Utah's criminal charges against Kalshi's co-founders a blatant overreach and pledged to defend federal jurisdiction, KuCoin reports. The charges, filed October 28 against KalshiEX, CEO Tarek Mansour and COO Luana Lopes Lara, came two days after the CFTC sued Utah to block state enforcement against federally regulated prediction markets. ([KuCoin](https://www.kucoin.com/news/flash/cftc-chair-criticizes-utah-s-kalshi-prosecution-as-blatant-overreach))",
+      "image_url": null,
+      "published": "2026-10-30T00:30:00-04:00",
+      "source": "2026-10-30_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_0030-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0030-edt-1",
+      "title": "Coinbase earnings preview splits Wall Street as Robinhood crypto revenue falls 55 percent while prediction markets bring in 173 million dollars, CoinDesk reports",
+      "content_text": "- **Coinbase earnings preview splits Wall Street as Robinhood crypto revenue falls 55 percent while prediction markets bring in 173 million dollars, CoinDesk reports** — Wall Street analysts expect Coinbase trading activity improved from the second quarter but disagree on revenue, with trading volume forecasts ranging from 141 billion dollars at Oppenheimer to 173 billion dollars at JPMorgan, CoinDesk reports. Robinhood's crypto transaction revenue fell 55 percent from a year earlier as volume fell 38 percent, while its prediction markets brought in 173 million dollars, more than six times the year-earlier figure. ([CoinDesk](https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55))",
+      "content_html": "<p>- **Coinbase earnings preview splits Wall Street as Robinhood crypto revenue falls 55 percent while prediction markets bring in 173 million dollars, CoinDesk reports** — Wall Street analysts expect Coinbase trading activity improved from the second quarter but disagree on revenue, with trading volume forecasts ranging from 141 billion dollars at Oppenheimer to 173 billion dollars at JPMorgan, CoinDesk reports. Robinhood&#x27;s crypto transaction revenue fell 55 percent from a year earlier as volume fell 38 percent, while its prediction markets brought in 173 million dollars, more than six times the year-earlier figure. ([CoinDesk](https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55))</p>",
+      "date_published": "2026-10-30T00:30:00-04:00",
+      "date_modified": "2026-10-30T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+      "links": [
+        "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55"
+      ],
+      "timestamp": "Oct 30, 2026 · 12:30 AM ET",
+      "body": "- **Coinbase earnings preview splits Wall Street as Robinhood crypto revenue falls 55 percent while prediction markets bring in 173 million dollars, CoinDesk reports** — Wall Street analysts expect Coinbase trading activity improved from the second quarter but disagree on revenue, with trading volume forecasts ranging from 141 billion dollars at Oppenheimer to 173 billion dollars at JPMorgan, CoinDesk reports. Robinhood's crypto transaction revenue fell 55 percent from a year earlier as volume fell 38 percent, while its prediction markets brought in 173 million dollars, more than six times the year-earlier figure. ([CoinDesk](https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55))",
+      "image_url": null,
+      "published": "2026-10-30T00:30:00-04:00",
+      "source": "2026-10-30_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_0030-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0030-edt-2",
+      "title": "Trail Blazers priced at 58 percent live against Grizzlies as Packers, Hawks and Pelicans close out Thursday wins on sports board, DeFi Rate reports",
+      "content_text": "- **Trail Blazers priced at 58 percent live against Grizzlies as Packers, Hawks and Pelicans close out Thursday wins on sports board, DeFi Rate reports** — DeFi Rate's live sports board showed Portland at 58 percent against Memphis with the score at 77 to 72, after Thursday finals in which Green Bay beat Carolina 27 to 19, Atlanta beat Cleveland 114 to 111 and New Orleans beat Sacramento 132 to 120. Friday NBA prices on the board included Boston at 88 percent against Chicago and Detroit at 73 percent against Brooklyn. ([DeFi Rate](https://defirate.com/odds/sports/))",
+      "content_html": "<p>- **Trail Blazers priced at 58 percent live against Grizzlies as Packers, Hawks and Pelicans close out Thursday wins on sports board, DeFi Rate reports** — DeFi Rate&#x27;s live sports board showed Portland at 58 percent against Memphis with the score at 77 to 72, after Thursday finals in which Green Bay beat Carolina 27 to 19, Atlanta beat Cleveland 114 to 111 and New Orleans beat Sacramento 132 to 120. Friday NBA prices on the board included Boston at 88 percent against Chicago and Detroit at 73 percent against Brooklyn. ([DeFi Rate](https://defirate.com/odds/sports/))</p>",
+      "date_published": "2026-10-30T00:30:00-04:00",
+      "date_modified": "2026-10-30T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://defirate.com/odds/sports/",
+      "links": [
+        "https://defirate.com/odds/sports/"
+      ],
+      "timestamp": "Oct 30, 2026 · 12:30 AM ET",
+      "body": "- **Trail Blazers priced at 58 percent live against Grizzlies as Packers, Hawks and Pelicans close out Thursday wins on sports board, DeFi Rate reports** — DeFi Rate's live sports board showed Portland at 58 percent against Memphis with the score at 77 to 72, after Thursday finals in which Green Bay beat Carolina 27 to 19, Atlanta beat Cleveland 114 to 111 and New Orleans beat Sacramento 132 to 120. Friday NBA prices on the board included Boston at 88 percent against Chicago and Detroit at 73 percent against Brooklyn. ([DeFi Rate](https://defirate.com/odds/sports/))",
+      "image_url": null,
+      "published": "2026-10-30T00:30:00-04:00",
+      "source": "2026-10-30_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-30_0030-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0030-edt-3",
+      "title": "Coinbase, Circle and Robinhood shares sit 40 to 56 percent below peaks in stealth bear market, CryptoRank reports",
+      "content_text": "- **Coinbase, Circle and Robinhood shares sit 40 to 56 percent below peaks in stealth bear market, CryptoRank reports** — Coinbase, Circle and Robinhood shares trade 40 to 56 percent below their highs, with Coinbase down 56 percent, Circle 44 percent and Robinhood 40 percent, according to Kobeissi Letter data cited by CryptoRank on October 29. Robinhood posted record third-quarter revenue of 1.4 billion dollars, yet its diluted earnings per share fell 16 percent from a year earlier. ([CryptoRank](https://cryptorank.io/news/feed/ee861-stealth-bear-market-crypto-stocks-coinbase))",
+      "content_html": "<p>- **Coinbase, Circle and Robinhood shares sit 40 to 56 percent below peaks in stealth bear market, CryptoRank reports** — Coinbase, Circle and Robinhood shares trade 40 to 56 percent below their highs, with Coinbase down 56 percent, Circle 44 percent and Robinhood 40 percent, according to Kobeissi Letter data cited by CryptoRank on October 29. Robinhood posted record third-quarter revenue of 1.4 billion dollars, yet its diluted earnings per share fell 16 percent from a year earlier. ([CryptoRank](https://cryptorank.io/news/feed/ee861-stealth-bear-market-crypto-stocks-coinbase))</p>",
+      "date_published": "2026-10-30T00:30:00-04:00",
+      "date_modified": "2026-10-30T00:30:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": "https://cryptorank.io/news/feed/ee861-stealth-bear-market-crypto-stocks-coinbase",
+      "links": [
+        "https://cryptorank.io/news/feed/ee861-stealth-bear-market-crypto-stocks-coinbase"
+      ],
+      "timestamp": "Oct 30, 2026 · 12:30 AM ET",
+      "body": "- **Coinbase, Circle and Robinhood shares sit 40 to 56 percent below peaks in stealth bear market, CryptoRank reports** — Coinbase, Circle and Robinhood shares trade 40 to 56 percent below their highs, with Coinbase down 56 percent, Circle 44 percent and Robinhood 40 percent, according to Kobeissi Letter data cited by CryptoRank on October 29. Robinhood posted record third-quarter revenue of 1.4 billion dollars, yet its diluted earnings per share fell 16 percent from a year earlier. ([CryptoRank](https://cryptorank.io/news/feed/ee861-stealth-bear-market-crypto-stocks-coinbase))",
+      "image_url": null,
+      "published": "2026-10-30T00:30:00-04:00",
+      "source": "2026-10-30_0030-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-30_0024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_0024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nAtlanta Dream win the 2026 WNBA Finals priced at 48.5% on Polymarket, up 17.0 points, on $212K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the NBA preferred-partner deal, the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDan Osborn win the Senate race in Nebraska priced at 34.0% on Kalshi, up 4.0 points, on $1.6M traded\nPredictionBubbles' movers board, on the same fresh crawl, lists the independent Osborn's Nebraska Senate contract among its upward political moves, in a…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Atlanta Dream win the 2026 WNBA Finals priced at 48.5% on Polymarket, up 17.0 points, on $212K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the NBA preferred-partner deal, the…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Dan Osborn win the Senate race in Nebraska priced at 34.0% on Kalshi, up 4.0 points, on $1.6M traded<br/>PredictionBubbles&#x27; movers board, on the same fresh crawl, lists the independent Osborn&#x27;s Nebraska Senate contract among its upward political moves, in a…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-30T00:24:00-04:00",
+      "date_modified": "2026-10-30T00:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC",
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 30, 2026 · 12:24 AM ET",
+      "body": "Infiniti Briefing\n\nAtlanta Dream win the 2026 WNBA Finals priced at 48.5% on Polymarket, up 17.0 points, on $212K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the NBA preferred-partner deal, the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nDan Osborn win the Senate race in Nebraska priced at 34.0% on Kalshi, up 4.0 points, on $1.6M traded\nPredictionBubbles' movers board, on the same fresh crawl, lists the independent Osborn's Nebraska Senate contract among its upward political moves, in a…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-30T00:24:00-04:00",
+      "source": "2026-10-30_0024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-30_0015-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_0015-edt-0",
@@ -4525,159 +4670,6 @@
       "image_url": null,
       "published": "2026-10-29T16:15:00-04:00",
       "source": "2026-10-29_1615-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1615-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1615-edt-2",
-      "title": "December Fed hike priced at 76.5 percent on both Kalshi and Polymarket against 81.7 percent from fed funds futures, PredictionMarketsPicks reports",
-      "content_text": "- **December Fed hike priced at 76.5 percent on both Kalshi and Polymarket against 81.7 percent from fed funds futures, PredictionMarketsPicks reports** — A fed rate tracker comparing venues puts a 25 basis point December hike at 76.5 percent on Kalshi and 76.5 percent on Polymarket, below the 81.7 percent implied by fed funds futures, and grades Kalshi and Polymarket near 95 percent accuracy across 15 past Fed decisions. ([PredictionMarketsPicks](https://predictionmarketspicks.com/tools/fed-rate-tracker))",
-      "content_html": "<p>- **December Fed hike priced at 76.5 percent on both Kalshi and Polymarket against 81.7 percent from fed funds futures, PredictionMarketsPicks reports** — A fed rate tracker comparing venues puts a 25 basis point December hike at 76.5 percent on Kalshi and 76.5 percent on Polymarket, below the 81.7 percent implied by fed funds futures, and grades Kalshi and Polymarket near 95 percent accuracy across 15 past Fed decisions. ([PredictionMarketsPicks](https://predictionmarketspicks.com/tools/fed-rate-tracker))</p>",
-      "date_published": "2026-10-29T16:15:00-04:00",
-      "date_modified": "2026-10-29T16:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://predictionmarketspicks.com/tools/fed-rate-tracker",
-      "links": [
-        "https://predictionmarketspicks.com/tools/fed-rate-tracker"
-      ],
-      "timestamp": "Oct 29, 2026 · 4:15 PM ET",
-      "body": "- **December Fed hike priced at 76.5 percent on both Kalshi and Polymarket against 81.7 percent from fed funds futures, PredictionMarketsPicks reports** — A fed rate tracker comparing venues puts a 25 basis point December hike at 76.5 percent on Kalshi and 76.5 percent on Polymarket, below the 81.7 percent implied by fed funds futures, and grades Kalshi and Polymarket near 95 percent accuracy across 15 past Fed decisions. ([PredictionMarketsPicks](https://predictionmarketspicks.com/tools/fed-rate-tracker))",
-      "image_url": null,
-      "published": "2026-10-29T16:15:00-04:00",
-      "source": "2026-10-29_1615-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1615-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1615-edt-3",
-      "title": "Hawks priced at 52 cents over Cavaliers on Kalshi for October 29 NBA game, with under at 51 cents on 237.5 total, Deadspin reports",
-      "content_text": "- **Hawks priced at 52 cents over Cavaliers on Kalshi for October 29 NBA game, with under at 51 cents on 237.5 total, Deadspin reports** — Kalshi prices Atlanta at 52 cents to beat Cleveland at home on October 29, with the Hawks minus 1.5 spread at 49 cents and the under on a 237.5 point total at 51 cents, as Cleveland plays its third game in four nights. ([Deadspin](https://deadspin.com/prediction-markets/trending/nba/cavaliers-v-hawks-predictions-10-29-2026-eastern-conference-tilt-highlights-thursday-slate/))",
-      "content_html": "<p>- **Hawks priced at 52 cents over Cavaliers on Kalshi for October 29 NBA game, with under at 51 cents on 237.5 total, Deadspin reports** — Kalshi prices Atlanta at 52 cents to beat Cleveland at home on October 29, with the Hawks minus 1.5 spread at 49 cents and the under on a 237.5 point total at 51 cents, as Cleveland plays its third game in four nights. ([Deadspin](https://deadspin.com/prediction-markets/trending/nba/cavaliers-v-hawks-predictions-10-29-2026-eastern-conference-tilt-highlights-thursday-slate/))</p>",
-      "date_published": "2026-10-29T16:15:00-04:00",
-      "date_modified": "2026-10-29T16:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://deadspin.com/prediction-markets/trending/nba/cavaliers-v-hawks-predictions-10-29-2026-eastern-conference-tilt-highlights-thursday-slate/",
-      "links": [
-        "https://deadspin.com/prediction-markets/trending/nba/cavaliers-v-hawks-predictions-10-29-2026-eastern-conference-tilt-highlights-thursday-slate/"
-      ],
-      "timestamp": "Oct 29, 2026 · 4:15 PM ET",
-      "body": "- **Hawks priced at 52 cents over Cavaliers on Kalshi for October 29 NBA game, with under at 51 cents on 237.5 total, Deadspin reports** — Kalshi prices Atlanta at 52 cents to beat Cleveland at home on October 29, with the Hawks minus 1.5 spread at 49 cents and the under on a 237.5 point total at 51 cents, as Cleveland plays its third game in four nights. ([Deadspin](https://deadspin.com/prediction-markets/trending/nba/cavaliers-v-hawks-predictions-10-29-2026-eastern-conference-tilt-highlights-thursday-slate/))",
-      "image_url": null,
-      "published": "2026-10-29T16:15:00-04:00",
-      "source": "2026-10-29_1615-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1615-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1615-edt-4",
-      "title": "NBA names Kalshi and Polymarket preferred prediction market exchanges with official Sportradar data and market approval rights, CryptoDaily reports",
-      "content_text": "- **NBA names Kalshi and Polymarket preferred prediction market exchanges with official Sportradar data and market approval rights, CryptoDaily reports** — The NBA designated Kalshi and Polymarket as preferred prediction market exchanges under multi-year arrangements announced October 26, giving them league intellectual property and official Sportradar data to settle authorized markets while the league retains approval rights and bars league and team personnel from trading NBA contracts. ([CryptoDaily](https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges))",
-      "content_html": "<p>- **NBA names Kalshi and Polymarket preferred prediction market exchanges with official Sportradar data and market approval rights, CryptoDaily reports** — The NBA designated Kalshi and Polymarket as preferred prediction market exchanges under multi-year arrangements announced October 26, giving them league intellectual property and official Sportradar data to settle authorized markets while the league retains approval rights and bars league and team personnel from trading NBA contracts. ([CryptoDaily](https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges))</p>",
-      "date_published": "2026-10-29T16:15:00-04:00",
-      "date_modified": "2026-10-29T16:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges",
-      "links": [
-        "https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges"
-      ],
-      "timestamp": "Oct 29, 2026 · 4:15 PM ET",
-      "body": "- **NBA names Kalshi and Polymarket preferred prediction market exchanges with official Sportradar data and market approval rights, CryptoDaily reports** — The NBA designated Kalshi and Polymarket as preferred prediction market exchanges under multi-year arrangements announced October 26, giving them league intellectual property and official Sportradar data to settle authorized markets while the league retains approval rights and bars league and team personnel from trading NBA contracts. ([CryptoDaily](https://cryptodaily.co.uk/2026/10/nba-kalshi-polymarket-preferred-prediction-market-exchanges))",
-      "image_url": null,
-      "published": "2026-10-29T16:15:00-04:00",
-      "source": "2026-10-29_1615-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-29_1609-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-29_1609-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nNext Google Gemini Pro model be released by October 31, 2026 priced at 2.9% on Polymarket, up 1.1 points, on $183K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/tech/\n\nJD Vance visit Ukraine by December 31, 2026 priced at 31.1% on Polymarket, up 25.6 points, on $149K traded\nPredictionBubbles' movers board, on its fresh Oct. 29, 20:11 UTC crawl with data read at Oct. 29, 19:44 UTC, lists the Vance visit contract among its biggest upward…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Next Google Gemini Pro model be released by October 31, 2026 priced at 2.9% on Polymarket, up 1.1 points, on $183K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/>https://predictionbubbles.net/markets/tech/<br/><br/>JD Vance visit Ukraine by December 31, 2026 priced at 31.1% on Polymarket, up 25.6 points, on $149K traded<br/>PredictionBubbles&#x27; movers board, on its fresh Oct. 29, 20:11 UTC crawl with data read at Oct. 29, 19:44 UTC, lists the Vance visit contract among its biggest upward…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-29T16:09:00-04:00",
-      "date_modified": "2026-10-29T16:09:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://predictionbubbles.net/markets/tech/",
-      "links": [
-        "https://predictionbubbles.net/markets/tech/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 29, 2026 · 4:09 PM ET",
-      "body": "Infiniti Briefing\n\nNext Google Gemini Pro model be released by October 31, 2026 priced at 2.9% on Polymarket, up 1.1 points, on $183K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, banned or web-held today (the NBA preferred-partner deal…\n#PredictionMarkets #Kalshi #Polymarket #Senate\nhttps://predictionbubbles.net/markets/tech/\n\nJD Vance visit Ukraine by December 31, 2026 priced at 31.1% on Polymarket, up 25.6 points, on $149K traded\nPredictionBubbles' movers board, on its fresh Oct. 29, 20:11 UTC crawl with data read at Oct. 29, 19:44 UTC, lists the Vance visit contract among its biggest upward…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-29T16:09:00-04:00",
-      "source": "2026-10-29_1609-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-29_1600-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-29_1600-edt-0",
-      "title": "Polymarket market share drops to 27 percent as Kalshi surges to nearly three times its volume, CryptoBriefing reports",
-      "content_text": "- **Polymarket market share drops to 27 percent as Kalshi surges to nearly three times its volume, CryptoBriefing reports** — CryptoBriefing reports Polymarket's share of prediction market volume has fallen from 96 percent to 27 percent over two years, with Kalshi logging about 65 billion dollars in October volume and about 2.05 billion dollars in open interest against Polymarket US at about 384 million dollars. ([CryptoBriefing](https://cryptobriefing.com/polymarket-market-share-drops-kalshi-surges/))",
-      "content_html": "<p>- **Polymarket market share drops to 27 percent as Kalshi surges to nearly three times its volume, CryptoBriefing reports** — CryptoBriefing reports Polymarket&#x27;s share of prediction market volume has fallen from 96 percent to 27 percent over two years, with Kalshi logging about 65 billion dollars in October volume and about 2.05 billion dollars in open interest against Polymarket US at about 384 million dollars. ([CryptoBriefing](https://cryptobriefing.com/polymarket-market-share-drops-kalshi-surges/))</p>",
-      "date_published": "2026-10-29T16:00:00-04:00",
-      "date_modified": "2026-10-29T16:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://cryptobriefing.com/polymarket-market-share-drops-kalshi-surges/",
-      "links": [
-        "https://cryptobriefing.com/polymarket-market-share-drops-kalshi-surges/"
-      ],
-      "timestamp": "Oct 29, 2026 · 4:00 PM ET",
-      "body": "- **Polymarket market share drops to 27 percent as Kalshi surges to nearly three times its volume, CryptoBriefing reports** — CryptoBriefing reports Polymarket's share of prediction market volume has fallen from 96 percent to 27 percent over two years, with Kalshi logging about 65 billion dollars in October volume and about 2.05 billion dollars in open interest against Polymarket US at about 384 million dollars. ([CryptoBriefing](https://cryptobriefing.com/polymarket-market-share-drops-kalshi-surges/))",
-      "image_url": null,
-      "published": "2026-10-29T16:00:00-04:00",
-      "source": "2026-10-29_1600-edt.json",
       "matches_facebook_post": false
     }
   ]
