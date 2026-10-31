@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-31T03:36:07.181934-04:00",
+  "updated": "2026-10-31T03:44:15.036339-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,35 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-31_0345-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0345-edt-0",
+      "title": "PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, GambleRss reports",
+      "content_text": "- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, GambleRss reports** — PrizePicks has partnered with Kalshi to offer prediction markets directly in the PrizePicks app, live in 38 states and Washington DC. Sports event contracts under the Team Picks hub are available in 15 states including Texas and Georgia, while Culture Picks covers music, movies and politics, following PrizePicks securing futures commission merchant approval. ([GambleRss](https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062))",
+      "content_html": "<p>- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, GambleRss reports** — PrizePicks has partnered with Kalshi to offer prediction markets directly in the PrizePicks app, live in 38 states and Washington DC. Sports event contracts under the Team Picks hub are available in 15 states including Texas and Georgia, while Culture Picks covers music, movies and politics, following PrizePicks securing futures commission merchant approval. ([GambleRss](https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062))</p>",
+      "date_published": "2026-10-31T03:45:00-04:00",
+      "date_modified": "2026-10-31T03:45:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": "https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062",
+      "links": [
+        "https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062"
+      ],
+      "timestamp": "Oct 31, 2026 · 3:45 AM ET",
+      "body": "- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, GambleRss reports** — PrizePicks has partnered with Kalshi to offer prediction markets directly in the PrizePicks app, live in 38 states and Washington DC. Sports event contracts under the Team Picks hub are available in 15 states including Texas and Georgia, while Culture Picks covers music, movies and politics, following PrizePicks securing futures commission merchant approval. ([GambleRss](https://gamblerss.com/prizepicks-launches-prediction-markets-with-kalshi-48062))",
+      "image_url": null,
+      "published": "2026-10-31T03:45:00-04:00",
+      "source": "2026-10-31_0345-edt.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-31_0330-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0330-edt-0",
@@ -4650,39 +4679,6 @@
       "image_url": null,
       "published": "2026-10-30T19:30:00-04:00",
       "source": "2026-10-30_1930-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-30_1924-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_1924-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\n$3.21B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.74B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://defirate.com/prediction-markets/volume/\n\nVidantaWorld Mexico Open Winner: Ben Griffin priced at 17% on Kalshi, on $998K traded in the last 24 hours\nDeFi Rate's odds page, on its Oct. 30 crawl with latest observations at Oct. 30, 3:57 PM ET, lists Ben Griffin as the leader of the VidantaWorld Mexico Open winner…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>$3.21B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.74B<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://defirate.com/prediction-markets/volume/<br/><br/>VidantaWorld Mexico Open Winner: Ben Griffin priced at 17% on Kalshi, on $998K traded in the last 24 hours<br/>DeFi Rate&#x27;s odds page, on its Oct. 30 crawl with latest observations at Oct. 30, 3:57 PM ET, lists Ben Griffin as the leader of the VidantaWorld Mexico Open winner…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-30T19:24:00-04:00",
-      "date_modified": "2026-10-30T19:24:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/",
-        "https://defirate.com/odds/"
-      ],
-      "timestamp": "Oct 30, 2026 · 7:24 PM ET",
-      "body": "Infiniti Briefing\n\n$3.21B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.74B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://defirate.com/prediction-markets/volume/\n\nVidantaWorld Mexico Open Winner: Ben Griffin priced at 17% on Kalshi, on $998K traded in the last 24 hours\nDeFi Rate's odds page, on its Oct. 30 crawl with latest observations at Oct. 30, 3:57 PM ET, lists Ben Griffin as the leader of the VidantaWorld Mexico Open winner…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-30T19:24:00-04:00",
-      "source": "2026-10-30_1924-edt.md",
       "matches_facebook_post": false
     }
   ]
