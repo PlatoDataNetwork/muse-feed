@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-31T01:14:16.680499-04:00",
+  "updated": "2026-10-31T01:27:41.280298-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-31_0124-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0124-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nThe upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRussia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>The upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Russia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-31T01:24:00-04:00",
+      "date_modified": "2026-10-31T01:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 31, 2026 · 1:24 AM ET",
+      "body": "Infiniti Briefing\n\nThe upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRussia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-31T01:24:00-04:00",
+      "source": "2026-10-31_0124-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-31_0100-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0100-edt-0",
@@ -4654,33 +4686,6 @@
       ],
       "timestamp": "Oct 30, 2026 · 5:00 PM ET",
       "body": "- **CoinStats whale signals show a U.S.-Iran ceasefire through October 31 at 94 percent and Democratic Senate control at 71 percent** — CoinStats' prediction market signals page lists its strongest current signals as a U.S.-Iran ceasefire continuing through October 31 at 94 percent and Democratic control of the Senate after the 2026 midterms at 71 percent, with whale wallets leaning yes on both contracts. ([CoinStats](https://coinstats.app/prediction-markets/signals/))",
-      "image_url": null,
-      "published": "2026-10-30T17:00:00-04:00",
-      "source": "2026-10-30_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1700-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1700-edt-4",
-      "title": "BetUS House odds price Democrats at -1600 for House control, with Lawrence at -300 in Michigan-07 and Conley at -165 in New York-17, The Sports Geek reports",
-      "content_text": "- **BetUS House odds price Democrats at -1600 for House control, with Lawrence at -300 in Michigan-07 and Conley at -165 in New York-17, The Sports Geek reports** — The Sports Geek reports BetUS prices Democrats at -1600 to win House control in the 2026 midterms, with race-level odds including William Lawrence at -300 over Tom Barrett in Michigan-07, Cait Conley at -165 over Mike Lawler in New York-17, and Amish Shah at -400 over Jay Feely in Arizona-01 in its October 30 update. ([The Sports Geek](https://www.thesportsgeek.com/blog/house-of-representatives-odds-predictions-betting-picks/))",
-      "content_html": "<p>- **BetUS House odds price Democrats at -1600 for House control, with Lawrence at -300 in Michigan-07 and Conley at -165 in New York-17, The Sports Geek reports** — The Sports Geek reports BetUS prices Democrats at -1600 to win House control in the 2026 midterms, with race-level odds including William Lawrence at -300 over Tom Barrett in Michigan-07, Cait Conley at -165 over Mike Lawler in New York-17, and Amish Shah at -400 over Jay Feely in Arizona-01 in its October 30 update. ([The Sports Geek](https://www.thesportsgeek.com/blog/house-of-representatives-odds-predictions-betting-picks/))</p>",
-      "date_published": "2026-10-30T17:00:00-04:00",
-      "date_modified": "2026-10-30T17:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://www.thesportsgeek.com/blog/house-of-representatives-odds-predictions-betting-picks/",
-      "links": [
-        "https://www.thesportsgeek.com/blog/house-of-representatives-odds-predictions-betting-picks/"
-      ],
-      "timestamp": "Oct 30, 2026 · 5:00 PM ET",
-      "body": "- **BetUS House odds price Democrats at -1600 for House control, with Lawrence at -300 in Michigan-07 and Conley at -165 in New York-17, The Sports Geek reports** — The Sports Geek reports BetUS prices Democrats at -1600 to win House control in the 2026 midterms, with race-level odds including William Lawrence at -300 over Tom Barrett in Michigan-07, Cait Conley at -165 over Mike Lawler in New York-17, and Amish Shah at -400 over Jay Feely in Arizona-01 in its October 30 update. ([The Sports Geek](https://www.thesportsgeek.com/blog/house-of-representatives-odds-predictions-betting-picks/))",
       "image_url": null,
       "published": "2026-10-30T17:00:00-04:00",
       "source": "2026-10-30_1700-edt.json",
