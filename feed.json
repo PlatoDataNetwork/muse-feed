@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-31T11:29:05.006806-04:00",
+  "updated": "2026-10-31T11:41:47.073538-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -264,7 +264,7 @@
     {
       "id": "infiniti-2026-10-31_1124-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_1124-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "Kalshi opens average gas price markets: above $4.00 priced at 49% and above $3.80 at 87%",
       "content_text": "Infiniti Prediction Markets\n\nKalshi opens average gas price markets: above $4.00 priced at 49% and above $3.80 at 87%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Polymarket…\n#PredictionMarkets #Kalshi #Polymarket\n\nMagdalena Andersson be the next Prime Minister of Sweden priced at 69.5% on Polymarket, down 3.5 points, on $2.8M traded\nPredictionBubbles' movers board, on its Oct. 31, 15:26 UTC crawl with data read at Oct. 31, 14:44 UTC at 1,998 markets ranked with 486 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket #Elections\n\nNFL MVP Winner: Josh Allen priced at 31% on Kalshi, ahead of Joe Burrow at 18%\nDeFi Rate's sports page, on its Oct. 31, 12:52 UTC crawl with chances observed between Oct. 31, 3:07 AM and 8:51 AM ET, lists the MVP Winner futures market fourth among…\n#PredictionMarkets #Kalshi #NFL\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>Kalshi opens average gas price markets: above $4.00 priced at 49% and above $3.80 at 87%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Polymarket…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>Magdalena Andersson be the next Prime Minister of Sweden priced at 69.5% on Polymarket, down 3.5 points, on $2.8M traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 15:26 UTC crawl with data read at Oct. 31, 14:44 UTC at 1,998 markets ranked with 486 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket #Elections<br/><br/>NFL MVP Winner: Josh Allen priced at 31% on Kalshi, ahead of Joe Burrow at 18%<br/>DeFi Rate&#x27;s sports page, on its Oct. 31, 12:52 UTC crawl with chances observed between Oct. 31, 3:07 AM and 8:51 AM ET, lists the MVP Winner futures market fourth among…<br/>#PredictionMarkets #Kalshi #NFL<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T11:24:00-04:00",
@@ -432,6 +432,37 @@
       "matches_facebook_post": false
     },
     {
+      "id": "article-2026-10-31_1110-model-market",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-31_1110-model-market",
+      "title": "The Model and the Market Agree to the Point",
+      "content_text": "The Model and the Market Agree to the Point\n\nSaturday's two biggest college football games come with a rare sight: the trading market and the simulation model are pricing them almost identically. On Kalshi, Georgia is an 80-cent favorite over Florida, with Florida at 21 cents, ahead of their 3:30 p.m. ET kickoff. SportsLine's projection model, which simulates the game 10,000 times, has Georgia winning 81% of the time — one point from the market.\n\nThe primetime game is the same story. Ohio State is priced at 69 cents on Kalshi for its trip to USC, with USC at 32 cents. The same simulation model puts Ohio State's win rate at 70%. Two venues of judgment — thousands of traders putting money down, and a model running ten thousand simulated Saturdays — landed within a single point of each other, twice in one day.\n\nWhere the certainty ends is the margin. Earlier on the slate, Notre Dame was priced near 97% to beat Navy on roughly $2.9 million of volume, yet the market gave Notre Dame only a 51% chance of winning by more than 30.5 points, and just 47% for the game to clear 55.5 total points. Miami's spread against North Carolina tells the same story, with Miami to cover 14.5 priced at 49 cents — a genuine coin flip.\n\nThat split is what makes a Saturday board worth reading. The moneyline answers who wins, and on the biggest games it now matches the computers almost exactly. The spread and total markets answer how it happens, and there the market is honestly undecided — priced at 49, 51 and 47 cents, where a single drive moves the number.\n\nSources: SportsLine, SportsBettingDime, Action Network\n#infiniti #infinitimarkets #predictionmarkets #collegefootball #kalshi\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>The Model and the Market Agree to the Point<br/><br/>Saturday&#x27;s two biggest college football games come with a rare sight: the trading market and the simulation model are pricing them almost identically. On Kalshi, Georgia is an 80-cent favorite over Florida, with Florida at 21 cents, ahead of their 3:30 p.m. ET kickoff. SportsLine&#x27;s projection model, which simulates the game 10,000 times, has Georgia winning 81% of the time — one point from the market.<br/><br/>The primetime game is the same story. Ohio State is priced at 69 cents on Kalshi for its trip to USC, with USC at 32 cents. The same simulation model puts Ohio State&#x27;s win rate at 70%. Two venues of judgment — thousands of traders putting money down, and a model running ten thousand simulated Saturdays — landed within a single point of each other, twice in one day.<br/><br/>Where the certainty ends is the margin. Earlier on the slate, Notre Dame was priced near 97% to beat Navy on roughly $2.9 million of volume, yet the market gave Notre Dame only a 51% chance of winning by more than 30.5 points, and just 47% for the game to clear 55.5 total points. Miami&#x27;s spread against North Carolina tells the same story, with Miami to cover 14.5 priced at 49 cents — a genuine coin flip.<br/><br/>That split is what makes a Saturday board worth reading. The moneyline answers who wins, and on the biggest games it now matches the computers almost exactly. The spread and total markets answer how it happens, and there the market is honestly undecided — priced at 49, 51 and 47 cents, where a single drive moves the number.<br/><br/>Sources: SportsLine, SportsBettingDime, Action Network<br/>#infiniti #infinitimarkets #predictionmarkets #collegefootball #kalshi<br/>web: Infiniti.w3ai.io<br/>Infiniti Prediction Markets<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-31_1110-model-market.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
+      "date_published": "2026-10-31T11:10:14-04:00",
+      "date_modified": "2026-10-31T11:10:14-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "college football",
+        "Kalshi",
+        "sports markets",
+        "prediction markets"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-10-31_1110-model-market.jpg",
+      "external_url": null,
+      "links": [],
+      "timestamp": "Oct 31, 2026 · 11:10 AM ET",
+      "body": "The Model and the Market Agree to the Point\n\nSaturday's two biggest college football games come with a rare sight: the trading market and the simulation model are pricing them almost identically. On Kalshi, Georgia is an 80-cent favorite over Florida, with Florida at 21 cents, ahead of their 3:30 p.m. ET kickoff. SportsLine's projection model, which simulates the game 10,000 times, has Georgia winning 81% of the time — one point from the market.\n\nThe primetime game is the same story. Ohio State is priced at 69 cents on Kalshi for its trip to USC, with USC at 32 cents. The same simulation model puts Ohio State's win rate at 70%. Two venues of judgment — thousands of traders putting money down, and a model running ten thousand simulated Saturdays — landed within a single point of each other, twice in one day.\n\nWhere the certainty ends is the margin. Earlier on the slate, Notre Dame was priced near 97% to beat Navy on roughly $2.9 million of volume, yet the market gave Notre Dame only a 51% chance of winning by more than 30.5 points, and just 47% for the game to clear 55.5 total points. Miami's spread against North Carolina tells the same story, with Miami to cover 14.5 priced at 49 cents — a genuine coin flip.\n\nThat split is what makes a Saturday board worth reading. The moneyline answers who wins, and on the biggest games it now matches the computers almost exactly. The spread and total markets answer how it happens, and there the market is honestly undecided — priced at 49, 51 and 47 cents, where a single drive moves the number.\n\nSources: SportsLine, SportsBettingDime, Action Network\n#infiniti #infinitimarkets #predictionmarkets #collegefootball #kalshi\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-10-31_1110-model-market.jpg",
+      "published": "2026-10-31T11:10:14-04:00",
+      "source": "2026-10-31_1110-model-market.json",
+      "matches_facebook_post": false,
+      "kind": "article"
+    },
+    {
       "id": "web-2026-10-31_1100-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_1100-edt-0",
       "title": "Sacramento wins is the most-traded Kalshi market in the October 31 snapshot at 24 cents with 385,805 contracts traded in 24 hours, PredictionMarketPicks reports",
@@ -569,7 +600,7 @@
     {
       "id": "infiniti-2026-10-31_1054-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_1054-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "Broadridge expands its CQG multi-asset trading offering with Kalshi prediction-market capabilities",
       "content_text": "Infiniti Prediction Markets\n\nBroadridge expands its CQG multi-asset trading offering with Kalshi prediction-market capabilities\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Polymarket…\n#PredictionMarkets #Kalshi #Polymarket #Midterms\n\nLBank opens subscriptions for Kalshi-linked pre-IPO tokens, capped at 500,000 USDT, running October 29 to November 2\nThe same fintech roundup reports the planned LBank offering provides eligible users with tokenised economic exposure to Kalshi through third-party provider Paimon,…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>Broadridge expands its CQG multi-asset trading offering with Kalshi prediction-market capabilities<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Polymarket…<br/>#PredictionMarkets #Kalshi #Polymarket #Midterms<br/><br/>LBank opens subscriptions for Kalshi-linked pre-IPO tokens, capped at 500,000 USDT, running October 29 to November 2<br/>The same fintech roundup reports the planned LBank offering provides eligible users with tokenised economic exposure to Kalshi through third-party provider Paimon,…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T10:54:00-04:00",
@@ -876,7 +907,7 @@
     {
       "id": "infiniti-2026-10-31_1024-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_1024-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "OpenAI IPO closing market cap above $1T priced at 64.5% on Polymarket, down 8.5 points, on $1.1M traded",
       "content_text": "Infiniti Prediction Markets\n\nOpenAI IPO closing market cap above $1T priced at 64.5% on Polymarket, down 8.5 points, on $1.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Polymarket…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nChiang Wan-an win the next Taipei Mayor election priced at 76.5% on Polymarket, up 8.0 points, on $1.2M traded\nPredictionBubbles' movers board, on the same Oct. 31, 13:44 UTC crawl, lists the Chiang Wan-an Taipei mayoral contract among its upward political moves, in a…\n#PredictionMarkets #Polymarket #Elections\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>OpenAI IPO closing market cap above $1T priced at 64.5% on Polymarket, down 8.5 points, on $1.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Polymarket…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/><br/>Chiang Wan-an win the next Taipei Mayor election priced at 76.5% on Polymarket, up 8.0 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 13:44 UTC crawl, lists the Chiang Wan-an Taipei mayoral contract among its upward political moves, in a…<br/>#PredictionMarkets #Polymarket #Elections<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T10:24:00-04:00",
@@ -1215,7 +1246,7 @@
     {
       "id": "infiniti-2026-10-31_0954-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0954-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "Recession in 2027 priced at 18.0% on Kalshi, down 3.0 points, on $796K traded",
       "content_text": "Infiniti Prediction Markets\n\nRecession in 2027 priced at 18.0% on Kalshi, down 3.0 points, on $796K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nSteve Witkoff attend a US-Iran diplomatic meeting by December 31, 2026 priced at 44.5% on Polymarket, up 5.5 points, on $114K traded\nPredictionBubbles' movers board, on the same Oct. 31, 13:56 UTC crawl, lists the Witkoff attendance contract among its upward political moves, in a political/world…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>Recession in 2027 priced at 18.0% on Kalshi, down 3.0 points, on $796K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/><br/>Steve Witkoff attend a US-Iran diplomatic meeting by December 31, 2026 priced at 44.5% on Polymarket, up 5.5 points, on $114K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 13:56 UTC crawl, lists the Witkoff attendance contract among its upward political moves, in a political/world…<br/>#PredictionMarkets #Polymarket<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T09:54:00-04:00",
@@ -2009,7 +2040,7 @@
     {
       "id": "infiniti-2026-10-31_0924-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0924-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "Manchester City vs Brighton is among the most traded sports markets in the last 24 hours at $465K, with Manchester City at 57% on Kalshi",
       "content_text": "Infiniti Prediction Markets\n\nManchester City vs Brighton is among the most traded sports markets in the last 24 hours at $465K, with Manchester City at 57% on Kalshi\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nSpaceX have the highest IPO Market Cap 2026 priced at 55.5% on Polymarket, up 5.0 points, on $1.1M traded\nPredictionBubbles' movers board, on its Oct. 31, 13:25 UTC crawl with data read at Oct. 31, 12:43 UTC at 2,016 markets ranked with 506 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>Manchester City vs Brighton is among the most traded sports markets in the last 24 hours at $465K, with Manchester City at 57% on Kalshi<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/><br/>SpaceX have the highest IPO Market Cap 2026 priced at 55.5% on Polymarket, up 5.0 points, on $1.1M traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 13:25 UTC crawl with data read at Oct. 31, 12:43 UTC at 2,016 markets ranked with 506 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T09:24:00-04:00",
@@ -2625,7 +2656,7 @@
     {
       "id": "infiniti-2026-10-31_0854-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0854-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "Kansas Senate Democrat priced at 51% on Kalshi, up 11 points over seven days",
       "content_text": "Infiniti Prediction Markets\n\nKansas Senate Democrat priced at 51% on Kalshi, up 11 points over seven days\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nCollege football Week 9 prediction-market picks: Arizona +3.5 priced at 49c and Cincinnati +7.5 at 52c on Polymarket, Wisconsin vs Iowa Under 37.5 at 55c on Kalshi\nSportsBettingDime's Oct. 31 college football card, with prices refreshed Oct. 31, 2026, prices Arizona +3.5 at 49c (49%) and Cincinnati +7.5 at 52c (52%) on Polymarket,…\n#PredictionMarkets #Kalshi #Polymarket #NFL\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>Kansas Senate Democrat priced at 51% on Kalshi, up 11 points over seven days<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>College football Week 9 prediction-market picks: Arizona +3.5 priced at 49c and Cincinnati +7.5 at 52c on Polymarket, Wisconsin vs Iowa Under 37.5 at 55c on Kalshi<br/>SportsBettingDime&#x27;s Oct. 31 college football card, with prices refreshed Oct. 31, 2026, prices Arizona +3.5 at 49c (49%) and Cincinnati +7.5 at 52c (52%) on Polymarket,…<br/>#PredictionMarkets #Kalshi #Polymarket #NFL<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T08:54:00-04:00",
@@ -2928,7 +2959,7 @@
     {
       "id": "infiniti-2026-10-31_0824-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0824-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "Ethereum dip to $1,500 by December 31, 2026 priced at 13.3% on Polymarket, up 3.0 points, on $3.3M traded",
       "content_text": "Infiniti Prediction Markets\n\nEthereum dip to $1,500 by December 31, 2026 priced at 13.3% on Polymarket, up 3.0 points, on $3.3M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Ethereum\n\nTesla and SpaceX merger officially announced by December 31, 2026 priced at 17.5% on Polymarket, down 3.0 points, on $344K traded\nPredictionBubbles' movers board, on the same Oct. 31, 11:58 UTC crawl, lists the Tesla–SpaceX merger announcement contract among its downward tech/business moves, in a…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>Ethereum dip to $1,500 by December 31, 2026 priced at 13.3% on Polymarket, up 3.0 points, on $3.3M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #Ethereum<br/><br/>Tesla and SpaceX merger officially announced by December 31, 2026 priced at 17.5% on Polymarket, down 3.0 points, on $344K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 11:58 UTC crawl, lists the Tesla–SpaceX merger announcement contract among its downward tech/business moves, in a…<br/>#PredictionMarkets #Polymarket<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T08:24:00-04:00",
@@ -3264,7 +3295,7 @@
     {
       "id": "infiniti-2026-10-31_0754-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0754-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "$1.63B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.46B",
       "content_text": "Infiniti Prediction Markets\n\n$1.63B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.46B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\n\nCanelo Alvarez vs Christian Mbilli is among the most traded sports markets in the last 24 hours at $296K on Kalshi, with Canelo Alvarez at 74%\nDeFi Rate's sports page, on its fresh Oct. 31, 11:24 UTC crawl with volume by category as of Oct. 31, 5:30 AM ET and events observed between Oct. 31, 5:44 AM and 7:23 AM…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>$1.63B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.46B<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/><br/>Canelo Alvarez vs Christian Mbilli is among the most traded sports markets in the last 24 hours at $296K on Kalshi, with Canelo Alvarez at 74%<br/>DeFi Rate&#x27;s sports page, on its fresh Oct. 31, 11:24 UTC crawl with volume by category as of Oct. 31, 5:30 AM ET and events observed between Oct. 31, 5:44 AM and 7:23 AM…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T07:54:00-04:00",
@@ -3574,7 +3605,7 @@
     {
       "id": "infiniti-2026-10-31_0724-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0724-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs is among the most traded sports markets in the last 24 hours at $470K on Polymarket, with Nemiga at 94% on the map handicap",
       "content_text": "Infiniti Prediction Markets\n\nCounter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs is among the most traded sports markets in the last 24 hours at $470K on Polymarket, with Nemiga at 94% on the map handicap\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nS&P 500 between 7600 and 7799.99 on December 31, 2026 priced at 17c on Kalshi, with 14K contracts traded in 24 hours\nPredictionMarketPicks' Kalshi leaderboard, on its Oct. 31, 7:12 AM ET snapshot across 291 priced contracts in 20 series, ranks the 7600-band S&P 500 year-end contract…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs is among the most traded sports markets in the last 24 hours at $470K on Polymarket, with Nemiga at 94% on the map handicap<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/><br/>S&amp;P 500 between 7600 and 7799.99 on December 31, 2026 priced at 17c on Kalshi, with 14K contracts traded in 24 hours<br/>PredictionMarketPicks&#x27; Kalshi leaderboard, on its Oct. 31, 7:12 AM ET snapshot across 291 priced contracts in 20 series, ranks the 7600-band S&amp;P 500 year-end contract…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T07:24:00-04:00",
@@ -3910,7 +3941,7 @@
     {
       "id": "infiniti-2026-10-31_0654-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0654-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "U.S. invade Iran before 2027 priced at 17c on Polymarket, on $76.1M traded",
       "content_text": "Infiniti Prediction Markets\n\nU.S. invade Iran before 2027 priced at 17c on Polymarket, on $76.1M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket\n\nCollege Football National Championship Winner futures: Georgia priced at 19% and Miami (FL) at 15% on Kalshi, on $74K traded\nDeFi Rate's sports page, with chances observed between Oct. 31, 3:07 AM and 6:47 AM ET, lists the College Football National Championship Winner futures third among its…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>U.S. invade Iran before 2027 priced at 17c on Polymarket, on $76.1M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30–31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>College Football National Championship Winner futures: Georgia priced at 19% and Miami (FL) at 15% on Kalshi, on $74K traded<br/>DeFi Rate&#x27;s sports page, with chances observed between Oct. 31, 3:07 AM and 6:47 AM ET, lists the College Football National Championship Winner futures third among its…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T06:54:00-04:00",
@@ -4214,7 +4245,7 @@
     {
       "id": "infiniti-2026-10-31_0624-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0624-edt",
-      "title": "Infiniti Prediction Markets",
+      "title": "More than 1 major Atlantic hurricanes in 2026 priced at 19c on Kalshi, up 8c, with 1,908 contracts traded in 24 hours",
       "content_text": "Infiniti Prediction Markets\n\nMore than 1 major Atlantic hurricanes in 2026 priced at 19c on Kalshi, up 8c, with 1,908 contracts traded in 24 hours\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket\n\nSun vs Dart is among the most traded sports markets in the last 24 hours at $553K on Kalshi, with Xinran Sun at 85%\nDeFi Rate's sports page, on its fresh Oct. 31, 10:24 UTC crawl with volume by category as of Oct. 31, 4:30 AM ET and events observed between Oct. 31, 6:04 AM and 6:21 AM…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "content_html": "<p>Infiniti Prediction Markets<br/><br/>More than 1 major Atlantic hurricanes in 2026 priced at 19c on Kalshi, up 8c, with 1,908 contracts traded in 24 hours<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>Sun vs Dart is among the most traded sports markets in the last 24 hours at $553K on Kalshi, with Xinran Sun at 85%<br/>DeFi Rate&#x27;s sports page, on its fresh Oct. 31, 10:24 UTC crawl with volume by category as of Oct. 31, 4:30 AM ET and events observed between Oct. 31, 6:04 AM and 6:21 AM…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T06:24:00-04:00",
@@ -4348,33 +4379,6 @@
       "links": [],
       "timestamp": "Oct 31, 2026 · 6:15 AM ET",
       "body": "- **Kansas Governor election winner priced at 72 percent on prediction markets, down 4.5 points in 24 hours, GeoOdds reports** — GeoOdds, tracking Polymarket and Kalshi prices, lists the Kansas Governor election winner market at 72 percent, down 4.5 points in 24 hours, with 101,000 dollars traded in the last day. It was among the largest moves on its board, behind House races in North Carolina and Florida. (GeoOdds)",
-      "image_url": null,
-      "published": "2026-10-31T06:15:00-04:00",
-      "source": "2026-10-31_0615-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-31_0615-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0615-edt-4",
-      "title": "Politics accounts for 26 of the 50 most-traded prediction markets with 20 million dollars in 24 hours, DeFi Rate reports",
-      "content_text": "- **Politics accounts for 26 of the 50 most-traded prediction markets with 20 million dollars in 24 hours, DeFi Rate reports** — DeFi Rate's top 50 board for October 31 ranks the 2026 Midterms Congress Balance of Power market first with 3.5 million dollars traded in 24 hours. Politics accounts for 26 of the top 50 markets and 20 million dollars of the 28 million dollars traded, ahead of sports with 17 markets and 6.2 million dollars. (DeFi Rate)",
-      "content_html": "<p>- **Politics accounts for 26 of the 50 most-traded prediction markets with 20 million dollars in 24 hours, DeFi Rate reports** — DeFi Rate&#x27;s top 50 board for October 31 ranks the 2026 Midterms Congress Balance of Power market first with 3.5 million dollars traded in 24 hours. Politics accounts for 26 of the top 50 markets and 20 million dollars of the 28 million dollars traded, ahead of sports with 17 markets and 6.2 million dollars. (DeFi Rate)</p>",
-      "date_published": "2026-10-31T06:15:00-04:00",
-      "date_modified": "2026-10-31T06:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Congress"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Oct 31, 2026 · 6:15 AM ET",
-      "body": "- **Politics accounts for 26 of the 50 most-traded prediction markets with 20 million dollars in 24 hours, DeFi Rate reports** — DeFi Rate's top 50 board for October 31 ranks the 2026 Midterms Congress Balance of Power market first with 3.5 million dollars traded in 24 hours. Politics accounts for 26 of the top 50 markets and 20 million dollars of the 28 million dollars traded, ahead of sports with 17 markets and 6.2 million dollars. (DeFi Rate)",
       "image_url": null,
       "published": "2026-10-31T06:15:00-04:00",
       "source": "2026-10-31_0615-edt.json",
