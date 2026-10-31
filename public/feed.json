@@ -12,7 +12,7 @@
   "site": "Infiniti Oracle — Market Intelligence",
   "site_url": "https://infiniti.w3ai.io",
   "feed_page_url": "https://infiniti.w3ai.io/infiniti-feed",
-  "description": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Briefing\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated.",
+  "description": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Prediction Markets\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated.",
   "language": "en",
   "author": {
     "name": "Infiniti Oracle",
@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-31T05:57:33.720588-04:00",
+  "updated": "2026-10-31T05:59:57.125110-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -49,7 +49,7 @@
     {
       "tag": "meta",
       "name": "description",
-      "content": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Briefing\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated."
+      "content": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Prediction Markets\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated."
     },
     {
       "tag": "meta",
@@ -103,7 +103,7 @@
     {
       "tag": "meta",
       "property": "og:description",
-      "content": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Briefing\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated."
+      "content": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Prediction Markets\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated."
     },
     {
       "tag": "meta",
@@ -123,10 +123,193 @@
     {
       "tag": "meta",
       "name": "twitter:description",
-      "content": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Briefing\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated."
+      "content": "Infiniti Oracle is the AI-native market intelligence layer for prediction markets. This is the live Intelligence Feed for the Infiniti website: the hourly \"Infiniti Prediction Markets\" plus up to 5 fresh story updates every 15 minutes, published directly to the web page as soon as each one is generated."
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-31_0600-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0600-edt-0",
+      "title": "Michigan Senate market rises 7 points to 76 percent for El-Sayed and Minnesota rises 7 points to 90 percent in final week, DeFi Rate reports",
+      "content_text": "- **Michigan Senate market rises 7 points to 76 percent for El-Sayed and Minnesota rises 7 points to 90 percent in final week, DeFi Rate reports** — DeFi Rate's midterm hub, observed at 5:59 AM ET on October 31, shows the biggest 7-day Senate moves in Michigan, where El-Sayed rose from 69 to 76 percent against Rogers on Kalshi, and Minnesota, where the Democrat rose from 84 to 90 percent. Senate control averages 70 percent for Democrats across Kalshi and Polymarket, with 25 million dollars traded in election markets in the past 24 hours. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "content_html": "<p>- **Michigan Senate market rises 7 points to 76 percent for El-Sayed and Minnesota rises 7 points to 90 percent in final week, DeFi Rate reports** — DeFi Rate&#x27;s midterm hub, observed at 5:59 AM ET on October 31, shows the biggest 7-day Senate moves in Michigan, where El-Sayed rose from 69 to 76 percent against Rogers on Kalshi, and Minnesota, where the Democrat rose from 84 to 90 percent. Senate control averages 70 percent for Democrats across Kalshi and Polymarket, with 25 million dollars traded in election markets in the past 24 hours. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))</p>",
+      "date_published": "2026-10-31T06:00:00-04:00",
+      "date_modified": "2026-10-31T06:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/2026-midterms/",
+      "links": [
+        "https://defirate.com/odds/2026-midterms/"
+      ],
+      "timestamp": "Oct 31, 2026 · 6:00 AM ET",
+      "body": "- **Michigan Senate market rises 7 points to 76 percent for El-Sayed and Minnesota rises 7 points to 90 percent in final week, DeFi Rate reports** — DeFi Rate's midterm hub, observed at 5:59 AM ET on October 31, shows the biggest 7-day Senate moves in Michigan, where El-Sayed rose from 69 to 76 percent against Rogers on Kalshi, and Minnesota, where the Democrat rose from 84 to 90 percent. Senate control averages 70 percent for Democrats across Kalshi and Polymarket, with 25 million dollars traded in election markets in the past 24 hours. ([DeFi Rate](https://defirate.com/odds/2026-midterms/))",
+      "image_url": null,
+      "published": "2026-10-31T06:00:00-04:00",
+      "source": "2026-10-31_0600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-31_0600-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0600-edt-1",
+      "title": "Midterm prediction markets pass 1.4 billion dollars in trading as forecasting credibility faces test, Yogonet reports",
+      "content_text": "- **Midterm prediction markets pass 1.4 billion dollars in trading as forecasting credibility faces test, Yogonet reports** — Prediction markets linked to the 2026 midterms have exceeded 1.4 billion dollars in trading volume according to a CNN analysis reported by Yogonet, with Kalshi accounting for nearly 1.1 billion dollars, Polymarket more than 340 million dollars across its US and offshore platforms, and ForecastEx more than 6.4 million dollars. Kalshi CEO Tarek Mansour described the midterms as a test of market-based political forecasting. ([Yogonet](https://www.yogonet.com/international/news/2026/10/26/127015-prediction-markets-hit-14-billion-in-midterms-trading-as-forecasting-credibility-faces-test))",
+      "content_html": "<p>- **Midterm prediction markets pass 1.4 billion dollars in trading as forecasting credibility faces test, Yogonet reports** — Prediction markets linked to the 2026 midterms have exceeded 1.4 billion dollars in trading volume according to a CNN analysis reported by Yogonet, with Kalshi accounting for nearly 1.1 billion dollars, Polymarket more than 340 million dollars across its US and offshore platforms, and ForecastEx more than 6.4 million dollars. Kalshi CEO Tarek Mansour described the midterms as a test of market-based political forecasting. ([Yogonet](https://www.yogonet.com/international/news/2026/10/26/127015-prediction-markets-hit-14-billion-in-midterms-trading-as-forecasting-credibility-faces-test))</p>",
+      "date_published": "2026-10-31T06:00:00-04:00",
+      "date_modified": "2026-10-31T06:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": "https://www.yogonet.com/international/news/2026/10/26/127015-prediction-markets-hit-14-billion-in-midterms-trading-as-forecasting-credibility-faces-test",
+      "links": [
+        "https://www.yogonet.com/international/news/2026/10/26/127015-prediction-markets-hit-14-billion-in-midterms-trading-as-forecasting-credibility-faces-test"
+      ],
+      "timestamp": "Oct 31, 2026 · 6:00 AM ET",
+      "body": "- **Midterm prediction markets pass 1.4 billion dollars in trading as forecasting credibility faces test, Yogonet reports** — Prediction markets linked to the 2026 midterms have exceeded 1.4 billion dollars in trading volume according to a CNN analysis reported by Yogonet, with Kalshi accounting for nearly 1.1 billion dollars, Polymarket more than 340 million dollars across its US and offshore platforms, and ForecastEx more than 6.4 million dollars. Kalshi CEO Tarek Mansour described the midterms as a test of market-based political forecasting. ([Yogonet](https://www.yogonet.com/international/news/2026/10/26/127015-prediction-markets-hit-14-billion-in-midterms-trading-as-forecasting-credibility-faces-test))",
+      "image_url": null,
+      "published": "2026-10-31T06:00:00-04:00",
+      "source": "2026-10-31_0600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-31_0600-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0600-edt-2",
+      "title": "Jakob Glesnes jumps 27.1 points to 27.5 percent in Polymarket MLS Defender of the Year market, PredictionBubbles reports",
+      "content_text": "- **Jakob Glesnes jumps 27.1 points to 27.5 percent in Polymarket MLS Defender of the Year market, PredictionBubbles reports** — The market on whether Jakob Glesnes will win 2026 MLS Defender of the Year is the biggest sports mover on PredictionBubbles, rising 27.1 points in 24 hours to 27.5 percent on Polymarket. The market has traded 348,000 dollars over its life and resolves on November 12. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-jakob-glesnes-win-2026-mls-defender-of-the-year-a3be82/))",
+      "content_html": "<p>- **Jakob Glesnes jumps 27.1 points to 27.5 percent in Polymarket MLS Defender of the Year market, PredictionBubbles reports** — The market on whether Jakob Glesnes will win 2026 MLS Defender of the Year is the biggest sports mover on PredictionBubbles, rising 27.1 points in 24 hours to 27.5 percent on Polymarket. The market has traded 348,000 dollars over its life and resolves on November 12. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-jakob-glesnes-win-2026-mls-defender-of-the-year-a3be82/))</p>",
+      "date_published": "2026-10-31T06:00:00-04:00",
+      "date_modified": "2026-10-31T06:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/polymarket/will-jakob-glesnes-win-2026-mls-defender-of-the-year-a3be82/",
+      "links": [
+        "https://predictionbubbles.net/markets/polymarket/will-jakob-glesnes-win-2026-mls-defender-of-the-year-a3be82/"
+      ],
+      "timestamp": "Oct 31, 2026 · 6:00 AM ET",
+      "body": "- **Jakob Glesnes jumps 27.1 points to 27.5 percent in Polymarket MLS Defender of the Year market, PredictionBubbles reports** — The market on whether Jakob Glesnes will win 2026 MLS Defender of the Year is the biggest sports mover on PredictionBubbles, rising 27.1 points in 24 hours to 27.5 percent on Polymarket. The market has traded 348,000 dollars over its life and resolves on November 12. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-jakob-glesnes-win-2026-mls-defender-of-the-year-a3be82/))",
+      "image_url": null,
+      "published": "2026-10-31T06:00:00-04:00",
+      "source": "2026-10-31_0600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-31_0600-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0600-edt-3",
+      "title": "Predict.fun token launch by October 31 priced at 1 percent after falling 18.2 points on Polymarket, PredictionBubbles reports",
+      "content_text": "- **Predict.fun token launch by October 31 priced at 1 percent after falling 18.2 points on Polymarket, PredictionBubbles reports** — The market on whether Predict.fun will launch a token by October 31 has fallen 18.2 points in 24 hours to 1.0 percent on Polymarket as its deadline arrives. The market has traded 551,000 dollars over its life, with 50,000 dollars of that in the last day. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-predict-fun-launch-a-token-by-october-31-2026-53fe1c/))",
+      "content_html": "<p>- **Predict.fun token launch by October 31 priced at 1 percent after falling 18.2 points on Polymarket, PredictionBubbles reports** — The market on whether Predict.fun will launch a token by October 31 has fallen 18.2 points in 24 hours to 1.0 percent on Polymarket as its deadline arrives. The market has traded 551,000 dollars over its life, with 50,000 dollars of that in the last day. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-predict-fun-launch-a-token-by-october-31-2026-53fe1c/))</p>",
+      "date_published": "2026-10-31T06:00:00-04:00",
+      "date_modified": "2026-10-31T06:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/polymarket/will-predict-fun-launch-a-token-by-october-31-2026-53fe1c/",
+      "links": [
+        "https://predictionbubbles.net/markets/polymarket/will-predict-fun-launch-a-token-by-october-31-2026-53fe1c/"
+      ],
+      "timestamp": "Oct 31, 2026 · 6:00 AM ET",
+      "body": "- **Predict.fun token launch by October 31 priced at 1 percent after falling 18.2 points on Polymarket, PredictionBubbles reports** — The market on whether Predict.fun will launch a token by October 31 has fallen 18.2 points in 24 hours to 1.0 percent on Polymarket as its deadline arrives. The market has traded 551,000 dollars over its life, with 50,000 dollars of that in the last day. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-predict-fun-launch-a-token-by-october-31-2026-53fe1c/))",
+      "image_url": null,
+      "published": "2026-10-31T06:00:00-04:00",
+      "source": "2026-10-31_0600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-31_0600-edt-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0600-edt-4",
+      "title": "Google priced at 99 percent to have the best AI model at the end of October on Polymarket, PredictionBubbles reports",
+      "content_text": "- **Google priced at 99 percent to have the best AI model at the end of October on Polymarket, PredictionBubbles reports** — The market on whether Google will have the best AI model at the end of October 2026 trades at 99.0 percent on Polymarket, up 0.7 points in 24 hours, ahead of its October 31 resolution. The market has traded 945,000 dollars over its life, while Anthropic, OpenAI and SpaceXAI are each priced at 0.2 percent or below. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-google-have-the-best-ai-model-at-the-end-of-october-2026-43557c/))",
+      "content_html": "<p>- **Google priced at 99 percent to have the best AI model at the end of October on Polymarket, PredictionBubbles reports** — The market on whether Google will have the best AI model at the end of October 2026 trades at 99.0 percent on Polymarket, up 0.7 points in 24 hours, ahead of its October 31 resolution. The market has traded 945,000 dollars over its life, while Anthropic, OpenAI and SpaceXAI are each priced at 0.2 percent or below. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-google-have-the-best-ai-model-at-the-end-of-october-2026-43557c/))</p>",
+      "date_published": "2026-10-31T06:00:00-04:00",
+      "date_modified": "2026-10-31T06:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/polymarket/will-google-have-the-best-ai-model-at-the-end-of-october-2026-43557c/",
+      "links": [
+        "https://predictionbubbles.net/markets/polymarket/will-google-have-the-best-ai-model-at-the-end-of-october-2026-43557c/"
+      ],
+      "timestamp": "Oct 31, 2026 · 6:00 AM ET",
+      "body": "- **Google priced at 99 percent to have the best AI model at the end of October on Polymarket, PredictionBubbles reports** — The market on whether Google will have the best AI model at the end of October 2026 trades at 99.0 percent on Polymarket, up 0.7 points in 24 hours, ahead of its October 31 resolution. The market has traded 945,000 dollars over its life, while Anthropic, OpenAI and SpaceXAI are each priced at 0.2 percent or below. ([PredictionBubbles](https://predictionbubbles.net/markets/polymarket/will-google-have-the-best-ai-model-at-the-end-of-october-2026-43557c/))",
+      "image_url": null,
+      "published": "2026-10-31T06:00:00-04:00",
+      "source": "2026-10-31_0600-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-31_0554-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0554-edt",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nAnthropic IPO by November 30, 2026 priced at 77.5% on Polymarket, down 8.5 points, on $569K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections priced at 20.5% on Polymarket, down 4.7 points, on $161K traded\nPredictionBubbles' movers board, on the same Oct. 31, 09:54 UTC crawl, lists the DPP Taiwan local-elections contract among its downward political moves, in a…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Anthropic IPO by November 30, 2026 priced at 77.5% on Polymarket, down 8.5 points, on $569K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections priced at 20.5% on Polymarket, down 4.7 points, on $161K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 09:54 UTC crawl, lists the DPP Taiwan local-elections contract among its downward political moves, in a…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-31T05:54:00-04:00",
+      "date_modified": "2026-10-31T05:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 31, 2026 · 5:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nAnthropic IPO by November 30, 2026 priced at 77.5% on Polymarket, down 8.5 points, on $569K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nDemocratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections priced at 20.5% on Polymarket, down 4.7 points, on $161K traded\nPredictionBubbles' movers board, on the same Oct. 31, 09:54 UTC crawl, lists the DPP Taiwan local-elections contract among its downward political moves, in a…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-31T05:54:00-04:00",
+      "source": "2026-10-31_0554-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-31_0545-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0545-edt-0",
@@ -427,9 +610,9 @@
     {
       "id": "infiniti-2026-10-31_0524-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0524-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nSafonov vs Omarkhanov is among the most traded sports markets in the last 24 hours at $311K on Kalshi, with Amir Omarkhanov at 66%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nRepublicans win the Nebraska Senate race in 2026 priced at 74.5% on Polymarket, up 6.0 points, on $931K traded\nPredictionBubbles' movers board, on its Oct. 31, 08:55 UTC crawl with data read at Oct. 31, 08:10 UTC at 2,035 markets ranked with 514 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Safonov vs Omarkhanov is among the most traded sports markets in the last 24 hours at $311K on Kalshi, with Amir Omarkhanov at 66%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/sports/<br/><br/>Republicans win the Nebraska Senate race in 2026 priced at 74.5% on Polymarket, up 6.0 points, on $931K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 08:55 UTC crawl with data read at Oct. 31, 08:10 UTC at 2,035 markets ranked with 514 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nSafonov vs Omarkhanov is among the most traded sports markets in the last 24 hours at $311K on Kalshi, with Amir Omarkhanov at 66%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nRepublicans win the Nebraska Senate race in 2026 priced at 74.5% on Polymarket, up 6.0 points, on $931K traded\nPredictionBubbles' movers board, on its Oct. 31, 08:55 UTC crawl with data read at Oct. 31, 08:10 UTC at 2,035 markets ranked with 514 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Safonov vs Omarkhanov is among the most traded sports markets in the last 24 hours at $311K on Kalshi, with Amir Omarkhanov at 66%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/sports/<br/><br/>Republicans win the Nebraska Senate race in 2026 priced at 74.5% on Polymarket, up 6.0 points, on $931K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 08:55 UTC crawl with data read at Oct. 31, 08:10 UTC at 2,035 markets ranked with 514 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket #Senate #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T05:24:00-04:00",
       "date_modified": "2026-10-31T05:24:00-04:00",
       "authors": [
@@ -452,7 +635,7 @@
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 31, 2026 · 5:24 AM ET",
-      "body": "Infiniti Briefing\n\nSafonov vs Omarkhanov is among the most traded sports markets in the last 24 hours at $311K on Kalshi, with Amir Omarkhanov at 66%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nRepublicans win the Nebraska Senate race in 2026 priced at 74.5% on Polymarket, up 6.0 points, on $931K traded\nPredictionBubbles' movers board, on its Oct. 31, 08:55 UTC crawl with data read at Oct. 31, 08:10 UTC at 2,035 markets ranked with 514 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nSafonov vs Omarkhanov is among the most traded sports markets in the last 24 hours at $311K on Kalshi, with Amir Omarkhanov at 66%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30-31 (the Kalshi 76ers…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nRepublicans win the Nebraska Senate race in 2026 priced at 74.5% on Polymarket, up 6.0 points, on $931K traded\nPredictionBubbles' movers board, on its Oct. 31, 08:55 UTC crawl with data read at Oct. 31, 08:10 UTC at 2,035 markets ranked with 514 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T05:24:00-04:00",
       "source": "2026-10-31_0524-edt.md",
@@ -609,7 +792,7 @@
       "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-31_0510-utah-felony",
       "title": "Twelve Trades for $114.87: Utah Put Kalshi's Founders on the Charge Sheet",
       "content_text": "Twelve Trades for $114.87: Utah Put Kalshi's Founders on the Charge Sheet\n\nThe evidence is small. The charges are not. Utah Attorney General Derek Brown filed a criminal complaint on October 29 naming Kalshi chief executive Tarek Mansour and chief operating officer Luana Lopes Lara as defendants, after an undercover agent placed 12 sports trades on the platform for a total of $114.87.\n\nThe complaint carries 12 counts of online gaming promotion plus a single count of pattern of unlawful activity. It landed less than two weeks after Utah sued Kalshi in civil court, calling gambling a public nuisance that inflicts substantial harm on state residents. Utah bans gambling outright, and Brown's position is blunt: calling a bet a prediction market, and holding a federal registration, does not put a company above state law.\n\nKalshi called the filing a crazy overreach and said Utah is clearly playing politics, vowing to stop it in court as it did in Arizona. Arizona was the first state to bring criminal charges against Kalshi earlier this year, and a judge later put that case on hold. The legal map is now fragmented across roughly 20 states, with federal circuit courts split on whether sports event contracts are swaps, while the CFTC has sued at least 10 states to stop them regulating the platforms.\n\nThat is what makes Utah different. Civil suits argue about jurisdiction. A felony complaint names people. The timing sharpens the contrast: the charges arrived in the same week Kalshi completed a $1 billion raise at a $40 billion valuation. A market big enough to be worth $40 billion is now big enough for prosecutors to test personally, and legal analyst Daniel Wallach calls Utah a bellwether for how other states approach Kalshi and Polymarket.\n\nSources: https://igamingbusiness.com/prediction-markets/prediction-market-roundup-103026/ https://capitaldigest.com/utah-files-felony-charges-against-kalshi-and-its-founders-in-prediction-market-crackdown/\n#infiniti #infinitimarkets #predictionmarkets #Kalshi #Utah\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Twelve Trades for $114.87: Utah Put Kalshi&#x27;s Founders on the Charge Sheet<br/><br/>The evidence is small. The charges are not. Utah Attorney General Derek Brown filed a criminal complaint on October 29 naming Kalshi chief executive Tarek Mansour and chief operating officer Luana Lopes Lara as defendants, after an undercover agent placed 12 sports trades on the platform for a total of $114.87.<br/><br/>The complaint carries 12 counts of online gaming promotion plus a single count of pattern of unlawful activity. It landed less than two weeks after Utah sued Kalshi in civil court, calling gambling a public nuisance that inflicts substantial harm on state residents. Utah bans gambling outright, and Brown&#x27;s position is blunt: calling a bet a prediction market, and holding a federal registration, does not put a company above state law.<br/><br/>Kalshi called the filing a crazy overreach and said Utah is clearly playing politics, vowing to stop it in court as it did in Arizona. Arizona was the first state to bring criminal charges against Kalshi earlier this year, and a judge later put that case on hold. The legal map is now fragmented across roughly 20 states, with federal circuit courts split on whether sports event contracts are swaps, while the CFTC has sued at least 10 states to stop them regulating the platforms.<br/><br/>That is what makes Utah different. Civil suits argue about jurisdiction. A felony complaint names people. The timing sharpens the contrast: the charges arrived in the same week Kalshi completed a $1 billion raise at a $40 billion valuation. A market big enough to be worth $40 billion is now big enough for prosecutors to test personally, and legal analyst Daniel Wallach calls Utah a bellwether for how other states approach Kalshi and Polymarket.<br/><br/>Sources: https://igamingbusiness.com/prediction-markets/prediction-market-roundup-103026/ https://capitaldigest.com/utah-files-felony-charges-against-kalshi-and-its-founders-in-prediction-market-crackdown/<br/>#infiniti #infinitimarkets #predictionmarkets #Kalshi #Utah<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-31_0510-utah-felony.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "content_html": "<p>Twelve Trades for $114.87: Utah Put Kalshi&#x27;s Founders on the Charge Sheet<br/><br/>The evidence is small. The charges are not. Utah Attorney General Derek Brown filed a criminal complaint on October 29 naming Kalshi chief executive Tarek Mansour and chief operating officer Luana Lopes Lara as defendants, after an undercover agent placed 12 sports trades on the platform for a total of $114.87.<br/><br/>The complaint carries 12 counts of online gaming promotion plus a single count of pattern of unlawful activity. It landed less than two weeks after Utah sued Kalshi in civil court, calling gambling a public nuisance that inflicts substantial harm on state residents. Utah bans gambling outright, and Brown&#x27;s position is blunt: calling a bet a prediction market, and holding a federal registration, does not put a company above state law.<br/><br/>Kalshi called the filing a crazy overreach and said Utah is clearly playing politics, vowing to stop it in court as it did in Arizona. Arizona was the first state to bring criminal charges against Kalshi earlier this year, and a judge later put that case on hold. The legal map is now fragmented across roughly 20 states, with federal circuit courts split on whether sports event contracts are swaps, while the CFTC has sued at least 10 states to stop them regulating the platforms.<br/><br/>That is what makes Utah different. Civil suits argue about jurisdiction. A felony complaint names people. The timing sharpens the contrast: the charges arrived in the same week Kalshi completed a $1 billion raise at a $40 billion valuation. A market big enough to be worth $40 billion is now big enough for prosecutors to test personally, and legal analyst Daniel Wallach calls Utah a bellwether for how other states approach Kalshi and Polymarket.<br/><br/>Sources: https://igamingbusiness.com/prediction-markets/prediction-market-roundup-103026/ https://capitaldigest.com/utah-files-felony-charges-against-kalshi-and-its-founders-in-prediction-market-crackdown/<br/>#infiniti #infinitimarkets #predictionmarkets #Kalshi #Utah<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-31_0510-utah-felony.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
       "date_published": "2026-10-31T05:10:14-04:00",
       "date_modified": "2026-10-31T05:10:14-04:00",
       "authors": [
@@ -760,9 +943,9 @@
     {
       "id": "infiniti-2026-10-31_0454-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0454-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\n$1.36B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.23B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nWhich Senate Swing States will Republicans win: \"None\" priced at 23% on Polymarket, on $2.6M traded in 24 hours\nDeFi Rate's odds hub, with prices observed between Oct. 31, 4:26 AM and 4:56 AM ET, ranks the Senate swing-states market second among its most-traded markets, with…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>$1.36B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.23B<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Which Senate Swing States will Republicans win: &quot;None&quot; priced at 23% on Polymarket, on $2.6M traded in 24 hours<br/>DeFi Rate&#x27;s odds hub, with prices observed between Oct. 31, 4:26 AM and 4:56 AM ET, ranks the Senate swing-states market second among its most-traded markets, with…<br/>#PredictionMarkets #Polymarket #Senate #Elections<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\n$1.36B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.23B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nWhich Senate Swing States will Republicans win: \"None\" priced at 23% on Polymarket, on $2.6M traded in 24 hours\nDeFi Rate's odds hub, with prices observed between Oct. 31, 4:26 AM and 4:56 AM ET, ranks the Senate swing-states market second among its most-traded markets, with…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>$1.36B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.23B<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Which Senate Swing States will Republicans win: &quot;None&quot; priced at 23% on Polymarket, on $2.6M traded in 24 hours<br/>DeFi Rate&#x27;s odds hub, with prices observed between Oct. 31, 4:26 AM and 4:56 AM ET, ranks the Senate swing-states market second among its most-traded markets, with…<br/>#PredictionMarkets #Polymarket #Senate #Elections<br/>https://defirate.com/odds/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T04:54:00-04:00",
       "date_modified": "2026-10-31T04:54:00-04:00",
       "authors": [
@@ -786,7 +969,7 @@
         "https://defirate.com/odds/"
       ],
       "timestamp": "Oct 31, 2026 · 4:54 AM ET",
-      "body": "Infiniti Briefing\n\n$1.36B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.23B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nWhich Senate Swing States will Republicans win: \"None\" priced at 23% on Polymarket, on $2.6M traded in 24 hours\nDeFi Rate's odds hub, with prices observed between Oct. 31, 4:26 AM and 4:56 AM ET, ranks the Senate swing-states market second among its most-traded markets, with…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\n$1.36B traded on Oct. 31 so far across 9 prediction market venues, with Kalshi at $1.23B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nWhich Senate Swing States will Republicans win: \"None\" priced at 23% on Polymarket, on $2.6M traded in 24 hours\nDeFi Rate's odds hub, with prices observed between Oct. 31, 4:26 AM and 4:56 AM ET, ranks the Senate swing-states market second among its most-traded markets, with…\n#PredictionMarkets #Polymarket #Senate #Elections\nhttps://defirate.com/odds/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T04:54:00-04:00",
       "source": "2026-10-31_0454-edt.md",
@@ -797,7 +980,7 @@
       "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-31_0310-one-cent-shelf",
       "title": "The One-Cent Shelf: $419 Million Traded on Almost Nothing",
       "content_text": "The One-Cent Shelf: $419 Million Traded on Almost Nothing\n\nLook at the top of the prediction-market volume board and the biggest numbers carry the smallest prices. Eight markets priced at exactly 1 cent, the floor, have traded $418,727,767 between them, according to PicksByOdds' live board on October 31. Volume, it turns out, does not require belief.\n\nThe leader is \"Will Jesus Christ return before 2027?\" at 1 cent on $66,761,416 traded. Next is LeBron James winning the 2028 presidential election, also 1 cent, on $54,895,306. Oprah Winfrey winning the 2028 Democratic nomination follows at 1 cent on $54,448,323, and Bernie Sanders winning the same nomination at 1 cent on $52,923,492. Those four alone account for more than $228 million.\n\nThe shelf runs deeper. Chelsea Clinton at $51,070,529, Andrew Yang at $48,953,782, Tim Walz at $44,877,007 and Hunter Biden at $44,797,912, each priced at 1 cent for the 2028 Democratic nomination or the presidency, bring the eight-market total past $418 million, none of them moving off the floor.\n\nPicksByOdds notes much of that activity likely reflects traders selling cheap Yes shares to collect small, slow returns, not anyone expecting the outcome. A 1-cent Yes pays a dollar if it happens; the other side collects the near-certain cent, repeated at enormous scale. High volume on a longshot is still a longshot.\n\nThat is a tell about this market's maturity. The board's heaviest traffic is not always a forecast. Sometimes it is a yield trade wearing a headline, and the one-cent shelf is where prediction markets quietly became a place to park conviction that nothing will happen.\n\nSources: https://picksbyodds.com/\n#infiniti #infinitimarkets #predictionmarkets #Polymarket #longshots\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>The One-Cent Shelf: $419 Million Traded on Almost Nothing<br/><br/>Look at the top of the prediction-market volume board and the biggest numbers carry the smallest prices. Eight markets priced at exactly 1 cent, the floor, have traded $418,727,767 between them, according to PicksByOdds&#x27; live board on October 31. Volume, it turns out, does not require belief.<br/><br/>The leader is &quot;Will Jesus Christ return before 2027?&quot; at 1 cent on $66,761,416 traded. Next is LeBron James winning the 2028 presidential election, also 1 cent, on $54,895,306. Oprah Winfrey winning the 2028 Democratic nomination follows at 1 cent on $54,448,323, and Bernie Sanders winning the same nomination at 1 cent on $52,923,492. Those four alone account for more than $228 million.<br/><br/>The shelf runs deeper. Chelsea Clinton at $51,070,529, Andrew Yang at $48,953,782, Tim Walz at $44,877,007 and Hunter Biden at $44,797,912, each priced at 1 cent for the 2028 Democratic nomination or the presidency, bring the eight-market total past $418 million, none of them moving off the floor.<br/><br/>PicksByOdds notes much of that activity likely reflects traders selling cheap Yes shares to collect small, slow returns, not anyone expecting the outcome. A 1-cent Yes pays a dollar if it happens; the other side collects the near-certain cent, repeated at enormous scale. High volume on a longshot is still a longshot.<br/><br/>That is a tell about this market&#x27;s maturity. The board&#x27;s heaviest traffic is not always a forecast. Sometimes it is a yield trade wearing a headline, and the one-cent shelf is where prediction markets quietly became a place to park conviction that nothing will happen.<br/><br/>Sources: https://picksbyodds.com/<br/>#infiniti #infinitimarkets #predictionmarkets #Polymarket #longshots<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-31_0310-one-cent-shelf.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "content_html": "<p>The One-Cent Shelf: $419 Million Traded on Almost Nothing<br/><br/>Look at the top of the prediction-market volume board and the biggest numbers carry the smallest prices. Eight markets priced at exactly 1 cent, the floor, have traded $418,727,767 between them, according to PicksByOdds&#x27; live board on October 31. Volume, it turns out, does not require belief.<br/><br/>The leader is &quot;Will Jesus Christ return before 2027?&quot; at 1 cent on $66,761,416 traded. Next is LeBron James winning the 2028 presidential election, also 1 cent, on $54,895,306. Oprah Winfrey winning the 2028 Democratic nomination follows at 1 cent on $54,448,323, and Bernie Sanders winning the same nomination at 1 cent on $52,923,492. Those four alone account for more than $228 million.<br/><br/>The shelf runs deeper. Chelsea Clinton at $51,070,529, Andrew Yang at $48,953,782, Tim Walz at $44,877,007 and Hunter Biden at $44,797,912, each priced at 1 cent for the 2028 Democratic nomination or the presidency, bring the eight-market total past $418 million, none of them moving off the floor.<br/><br/>PicksByOdds notes much of that activity likely reflects traders selling cheap Yes shares to collect small, slow returns, not anyone expecting the outcome. A 1-cent Yes pays a dollar if it happens; the other side collects the near-certain cent, repeated at enormous scale. High volume on a longshot is still a longshot.<br/><br/>That is a tell about this market&#x27;s maturity. The board&#x27;s heaviest traffic is not always a forecast. Sometimes it is a yield trade wearing a headline, and the one-cent shelf is where prediction markets quietly became a place to park conviction that nothing will happen.<br/><br/>Sources: https://picksbyodds.com/<br/>#infiniti #infinitimarkets #predictionmarkets #Polymarket #longshots<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-31_0310-one-cent-shelf.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
       "date_published": "2026-10-31T04:49:05-04:00",
       "date_modified": "2026-10-31T04:49:05-04:00",
       "authors": [
@@ -1123,9 +1306,9 @@
     {
       "id": "infiniti-2026-10-31_0424-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0424-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nUS imports Russian diesel by November 30 priced at 51.5% on Polymarket, up 8.0 points, on $282K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nChelsea vs Manchester United is among the most traded sports markets in the last 24 hours at $322K on Kalshi, with Chelsea at 48%\nDeFi Rate's sports page, crawled Oct. 31, 08:26 UTC with volume by category as of Oct. 31, 2:30 AM ET and events observed between Oct. 31, 2:26 AM and 4:24 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>US imports Russian diesel by November 30 priced at 51.5% on Polymarket, up 8.0 points, on $282K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Chelsea vs Manchester United is among the most traded sports markets in the last 24 hours at $322K on Kalshi, with Chelsea at 48%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 08:26 UTC with volume by category as of Oct. 31, 2:30 AM ET and events observed between Oct. 31, 2:26 AM and 4:24 AM ET, lists…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nUS imports Russian diesel by November 30 priced at 51.5% on Polymarket, up 8.0 points, on $282K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nChelsea vs Manchester United is among the most traded sports markets in the last 24 hours at $322K on Kalshi, with Chelsea at 48%\nDeFi Rate's sports page, crawled Oct. 31, 08:26 UTC with volume by category as of Oct. 31, 2:30 AM ET and events observed between Oct. 31, 2:26 AM and 4:24 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>US imports Russian diesel by November 30 priced at 51.5% on Polymarket, up 8.0 points, on $282K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Chelsea vs Manchester United is among the most traded sports markets in the last 24 hours at $322K on Kalshi, with Chelsea at 48%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 08:26 UTC with volume by category as of Oct. 31, 2:30 AM ET and events observed between Oct. 31, 2:26 AM and 4:24 AM ET, lists…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T04:24:00-04:00",
       "date_modified": "2026-10-31T04:24:00-04:00",
       "authors": [
@@ -1146,7 +1329,7 @@
         "https://defirate.com/odds/sports/"
       ],
       "timestamp": "Oct 31, 2026 · 4:24 AM ET",
-      "body": "Infiniti Briefing\n\nUS imports Russian diesel by November 30 priced at 51.5% on Polymarket, up 8.0 points, on $282K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nChelsea vs Manchester United is among the most traded sports markets in the last 24 hours at $322K on Kalshi, with Chelsea at 48%\nDeFi Rate's sports page, crawled Oct. 31, 08:26 UTC with volume by category as of Oct. 31, 2:30 AM ET and events observed between Oct. 31, 2:26 AM and 4:24 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nUS imports Russian diesel by November 30 priced at 51.5% on Polymarket, up 8.0 points, on $282K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item,…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nChelsea vs Manchester United is among the most traded sports markets in the last 24 hours at $322K on Kalshi, with Chelsea at 48%\nDeFi Rate's sports page, crawled Oct. 31, 08:26 UTC with volume by category as of Oct. 31, 2:30 AM ET and events observed between Oct. 31, 2:26 AM and 4:24 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T04:24:00-04:00",
       "source": "2026-10-31_0424-edt.md",
@@ -1309,7 +1492,7 @@
       "url": "https://infiniti.w3ai.io/intelligence#article-2026-10-31_0410-kansas-flipped",
       "title": "Kansas Flipped: Three Days Out, the Senate Map Moved",
       "content_text": "Kansas Flipped: Three Days Out, the Senate Map Moved\n\nThree days before Election Day on November 3, the biggest move on the midterm board is not in a marquee state. In Kansas, the Democrat in the Senate race climbed from 40% to 51% in seven days on Kalshi, an 11-point jump that DeFi Rate ranks as the largest Senate move of the week. At 51 cents to 50 cents, a race traders had priced as Republican is now a coin flip that broke the other way.\n\nThat one flip is why the chamber numbers keep rising. Averaging Kalshi and Polymarket, DeFi Rate puts Democrats at 70% to take the Senate and 94% to win the House, with traders putting $24 million into election markets in the past 24 hours. Kalshi alone prices Senate control at 68% and House control at 93%, across 311 tradeable midterm contracts covering 35 Senate races and 66 competitive House districts.\n\nThe path still runs through the same states. Democrats need a net gain of four Senate seats, and DeFi Rate notes the 51st seat runs through Maine, where Troy Jackson is at 69%. Texas has moved with Kansas: James Talarico is at 71%, up 6 points in a week. Michigan's Abdul El-Sayed is at 75%, also up 6, and Minnesota's Democrat rose from 84% to 90%.\n\nThe tightest board is Iowa, where Ashley Hinson leads Josh Turek 56 cents to 45, on 7.9 million contracts traded. And the balance-of-power combo, the single bet on who controls both chambers, has traded 77.8 million contracts with 60.9 million still open. Three days out, the House looks priced in. Kansas is the reminder that the Senate is not.\n\nSources: https://defirate.com/odds/2026-midterms/ https://predictionmarketspicks.com/midterms-2026\n#infiniti #infinitimarkets #predictionmarkets #Midterms2026 #Kalshi #Senate\nweb: Infiniti.w3ai.io\nInfiniti Briefing\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Kansas Flipped: Three Days Out, the Senate Map Moved<br/><br/>Three days before Election Day on November 3, the biggest move on the midterm board is not in a marquee state. In Kansas, the Democrat in the Senate race climbed from 40% to 51% in seven days on Kalshi, an 11-point jump that DeFi Rate ranks as the largest Senate move of the week. At 51 cents to 50 cents, a race traders had priced as Republican is now a coin flip that broke the other way.<br/><br/>That one flip is why the chamber numbers keep rising. Averaging Kalshi and Polymarket, DeFi Rate puts Democrats at 70% to take the Senate and 94% to win the House, with traders putting $24 million into election markets in the past 24 hours. Kalshi alone prices Senate control at 68% and House control at 93%, across 311 tradeable midterm contracts covering 35 Senate races and 66 competitive House districts.<br/><br/>The path still runs through the same states. Democrats need a net gain of four Senate seats, and DeFi Rate notes the 51st seat runs through Maine, where Troy Jackson is at 69%. Texas has moved with Kansas: James Talarico is at 71%, up 6 points in a week. Michigan&#x27;s Abdul El-Sayed is at 75%, also up 6, and Minnesota&#x27;s Democrat rose from 84% to 90%.<br/><br/>The tightest board is Iowa, where Ashley Hinson leads Josh Turek 56 cents to 45, on 7.9 million contracts traded. And the balance-of-power combo, the single bet on who controls both chambers, has traded 77.8 million contracts with 60.9 million still open. Three days out, the House looks priced in. Kansas is the reminder that the Senate is not.<br/><br/>Sources: https://defirate.com/odds/2026-midterms/ https://predictionmarketspicks.com/midterms-2026<br/>#infiniti #infinitimarkets #predictionmarkets #Midterms2026 #Kalshi #Senate<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-31_0410-kansas-flipped.jpg\" alt=\"Infiniti Briefing image\"/></p>",
+      "content_html": "<p>Kansas Flipped: Three Days Out, the Senate Map Moved<br/><br/>Three days before Election Day on November 3, the biggest move on the midterm board is not in a marquee state. In Kansas, the Democrat in the Senate race climbed from 40% to 51% in seven days on Kalshi, an 11-point jump that DeFi Rate ranks as the largest Senate move of the week. At 51 cents to 50 cents, a race traders had priced as Republican is now a coin flip that broke the other way.<br/><br/>That one flip is why the chamber numbers keep rising. Averaging Kalshi and Polymarket, DeFi Rate puts Democrats at 70% to take the Senate and 94% to win the House, with traders putting $24 million into election markets in the past 24 hours. Kalshi alone prices Senate control at 68% and House control at 93%, across 311 tradeable midterm contracts covering 35 Senate races and 66 competitive House districts.<br/><br/>The path still runs through the same states. Democrats need a net gain of four Senate seats, and DeFi Rate notes the 51st seat runs through Maine, where Troy Jackson is at 69%. Texas has moved with Kansas: James Talarico is at 71%, up 6 points in a week. Michigan&#x27;s Abdul El-Sayed is at 75%, also up 6, and Minnesota&#x27;s Democrat rose from 84% to 90%.<br/><br/>The tightest board is Iowa, where Ashley Hinson leads Josh Turek 56 cents to 45, on 7.9 million contracts traded. And the balance-of-power combo, the single bet on who controls both chambers, has traded 77.8 million contracts with 60.9 million still open. Three days out, the House looks priced in. Kansas is the reminder that the Senate is not.<br/><br/>Sources: https://defirate.com/odds/2026-midterms/ https://predictionmarketspicks.com/midterms-2026<br/>#infiniti #infinitimarkets #predictionmarkets #Midterms2026 #Kalshi #Senate<br/>web: Infiniti.w3ai.io<br/>Infiniti Briefing<br/>https://infiniti.w3ai.io/infiniti-feed</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-10-31_0410-kansas-flipped.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
       "date_published": "2026-10-31T04:10:00-04:00",
       "date_modified": "2026-10-31T04:10:00-04:00",
       "authors": [
@@ -1491,9 +1674,9 @@
     {
       "id": "infiniti-2026-10-31_0354-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0354-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nAustralia's ASIC casts doubt on retail prediction markets, calling the contracts bets\nNo significant new platform headline in the last 30 minutes; the freshest unused headline today is Bitcoin News' Oct. 31, 1:05 AM EDT report that the Australian…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://news.bitcoin.com/igaming/australia-casts-doubt-retail-prediction-markets-calls-them-bets/\n\nMinnesota Senate Democrat priced at 90% on Kalshi, up 7 points over seven days\nDeFi Rate's 2026 midterms hub, crawled Oct. 31, 07:58 UTC with its latest observation at Oct. 31, 3:55 AM ET, lists the Minnesota Senate race among the week's biggest…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://defirate.com/odds/2026-midterms/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Australia&#x27;s ASIC casts doubt on retail prediction markets, calling the contracts bets<br/>No significant new platform headline in the last 30 minutes; the freshest unused headline today is Bitcoin News&#x27; Oct. 31, 1:05 AM EDT report that the Australian…<br/>#PredictionMarkets #Polymarket #Senate #Bitcoin<br/>https://news.bitcoin.com/igaming/australia-casts-doubt-retail-prediction-markets-calls-them-bets/<br/><br/>Minnesota Senate Democrat priced at 90% on Kalshi, up 7 points over seven days<br/>DeFi Rate&#x27;s 2026 midterms hub, crawled Oct. 31, 07:58 UTC with its latest observation at Oct. 31, 3:55 AM ET, lists the Minnesota Senate race among the week&#x27;s biggest…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://defirate.com/odds/2026-midterms/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nAustralia's ASIC casts doubt on retail prediction markets, calling the contracts bets\nNo significant new platform headline in the last 30 minutes; the freshest unused headline today is Bitcoin News' Oct. 31, 1:05 AM EDT report that the Australian…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://news.bitcoin.com/igaming/australia-casts-doubt-retail-prediction-markets-calls-them-bets/\n\nMinnesota Senate Democrat priced at 90% on Kalshi, up 7 points over seven days\nDeFi Rate's 2026 midterms hub, crawled Oct. 31, 07:58 UTC with its latest observation at Oct. 31, 3:55 AM ET, lists the Minnesota Senate race among the week's biggest…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://defirate.com/odds/2026-midterms/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Australia&#x27;s ASIC casts doubt on retail prediction markets, calling the contracts bets<br/>No significant new platform headline in the last 30 minutes; the freshest unused headline today is Bitcoin News&#x27; Oct. 31, 1:05 AM EDT report that the Australian…<br/>#PredictionMarkets #Polymarket #Senate #Bitcoin<br/>https://news.bitcoin.com/igaming/australia-casts-doubt-retail-prediction-markets-calls-them-bets/<br/><br/>Minnesota Senate Democrat priced at 90% on Kalshi, up 7 points over seven days<br/>DeFi Rate&#x27;s 2026 midterms hub, crawled Oct. 31, 07:58 UTC with its latest observation at Oct. 31, 3:55 AM ET, lists the Minnesota Senate race among the week&#x27;s biggest…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/>https://defirate.com/odds/2026-midterms/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T03:54:00-04:00",
       "date_modified": "2026-10-31T03:54:00-04:00",
       "authors": [
@@ -1517,7 +1700,7 @@
         "https://defirate.com/odds/2026-midterms/"
       ],
       "timestamp": "Oct 31, 2026 · 3:54 AM ET",
-      "body": "Infiniti Briefing\n\nAustralia's ASIC casts doubt on retail prediction markets, calling the contracts bets\nNo significant new platform headline in the last 30 minutes; the freshest unused headline today is Bitcoin News' Oct. 31, 1:05 AM EDT report that the Australian…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://news.bitcoin.com/igaming/australia-casts-doubt-retail-prediction-markets-calls-them-bets/\n\nMinnesota Senate Democrat priced at 90% on Kalshi, up 7 points over seven days\nDeFi Rate's 2026 midterms hub, crawled Oct. 31, 07:58 UTC with its latest observation at Oct. 31, 3:55 AM ET, lists the Minnesota Senate race among the week's biggest…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://defirate.com/odds/2026-midterms/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nAustralia's ASIC casts doubt on retail prediction markets, calling the contracts bets\nNo significant new platform headline in the last 30 minutes; the freshest unused headline today is Bitcoin News' Oct. 31, 1:05 AM EDT report that the Australian…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\nhttps://news.bitcoin.com/igaming/australia-casts-doubt-retail-prediction-markets-calls-them-bets/\n\nMinnesota Senate Democrat priced at 90% on Kalshi, up 7 points over seven days\nDeFi Rate's 2026 midterms hub, crawled Oct. 31, 07:58 UTC with its latest observation at Oct. 31, 3:55 AM ET, lists the Minnesota Senate race among the week's biggest…\n#PredictionMarkets #Kalshi #Senate #Elections\nhttps://defirate.com/odds/2026-midterms/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T03:54:00-04:00",
       "source": "2026-10-31_0354-edt.md",
@@ -1709,9 +1892,9 @@
     {
       "id": "infiniti-2026-10-31_0324-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0324-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nElla Langley be the #1 most streamed Artist on the 2026 Spotify Wrapped Top 10 Artist U.S chart priced at 2.0% on Kalshi, down 7.0 points, on $812K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the NBA preferred-exchange deal, the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nSouth Africa vs Australia is among the most traded sports markets in the last 24 hours at $392K on Kalshi, with South Africa at 46%\nDeFi Rate's sports page, crawled Oct. 31, 07:25 UTC with volume by category as of Oct. 31, 1:30 AM ET and events observed between Oct. 31, 2:24 AM and 3:20 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Ella Langley be the #1 most streamed Artist on the 2026 Spotify Wrapped Top 10 Artist U.S chart priced at 2.0% on Kalshi, down 7.0 points, on $812K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the NBA preferred-exchange deal, the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>South Africa vs Australia is among the most traded sports markets in the last 24 hours at $392K on Kalshi, with South Africa at 46%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 07:25 UTC with volume by category as of Oct. 31, 1:30 AM ET and events observed between Oct. 31, 2:24 AM and 3:20 AM ET, lists…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nElla Langley be the #1 most streamed Artist on the 2026 Spotify Wrapped Top 10 Artist U.S chart priced at 2.0% on Kalshi, down 7.0 points, on $812K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the NBA preferred-exchange deal, the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nSouth Africa vs Australia is among the most traded sports markets in the last 24 hours at $392K on Kalshi, with South Africa at 46%\nDeFi Rate's sports page, crawled Oct. 31, 07:25 UTC with volume by category as of Oct. 31, 1:30 AM ET and events observed between Oct. 31, 2:24 AM and 3:20 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Ella Langley be the #1 most streamed Artist on the 2026 Spotify Wrapped Top 10 Artist U.S chart priced at 2.0% on Kalshi, down 7.0 points, on $812K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the NBA preferred-exchange deal, the…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>South Africa vs Australia is among the most traded sports markets in the last 24 hours at $392K on Kalshi, with South Africa at 46%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 07:25 UTC with volume by category as of Oct. 31, 1:30 AM ET and events observed between Oct. 31, 2:24 AM and 3:20 AM ET, lists…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T03:24:00-04:00",
       "date_modified": "2026-10-31T03:24:00-04:00",
       "authors": [
@@ -1733,7 +1916,7 @@
         "https://defirate.com/odds/sports/"
       ],
       "timestamp": "Oct 31, 2026 · 3:24 AM ET",
-      "body": "Infiniti Briefing\n\nElla Langley be the #1 most streamed Artist on the 2026 Spotify Wrapped Top 10 Artist U.S chart priced at 2.0% on Kalshi, down 7.0 points, on $812K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the NBA preferred-exchange deal, the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nSouth Africa vs Australia is among the most traded sports markets in the last 24 hours at $392K on Kalshi, with South Africa at 46%\nDeFi Rate's sports page, crawled Oct. 31, 07:25 UTC with volume by category as of Oct. 31, 1:30 AM ET and events observed between Oct. 31, 2:24 AM and 3:20 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nElla Langley be the #1 most streamed Artist on the 2026 Spotify Wrapped Top 10 Artist U.S chart priced at 2.0% on Kalshi, down 7.0 points, on $812K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the NBA preferred-exchange deal, the…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nSouth Africa vs Australia is among the most traded sports markets in the last 24 hours at $392K on Kalshi, with South Africa at 46%\nDeFi Rate's sports page, crawled Oct. 31, 07:25 UTC with volume by category as of Oct. 31, 1:30 AM ET and events observed between Oct. 31, 2:24 AM and 3:20 AM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T03:24:00-04:00",
       "source": "2026-10-31_0324-edt.md",
@@ -1920,9 +2103,9 @@
     {
       "id": "infiniti-2026-10-31_0254-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0254-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nLas Vegas vs New York J is among the most traded sports markets in the last 24 hours at $592K on Kalshi, with New York J at 54%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the Louisiana, Missouri and Utah state…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nPresident be impeached before Jan 1, 2028 priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded\nPredictionBubbles' movers board, on its Oct. 31, 06:54 UTC crawl with data read at Oct. 31, 06:10 UTC at 2,040 markets ranked with 531 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Las Vegas vs New York J is among the most traded sports markets in the last 24 hours at $592K on Kalshi, with New York J at 54%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the Louisiana, Missouri and Utah state…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/odds/sports/<br/><br/>President be impeached before Jan 1, 2028 priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 06:54 UTC crawl with data read at Oct. 31, 06:10 UTC at 2,040 markets ranked with 531 moving at least 1 point in 24…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nLas Vegas vs New York J is among the most traded sports markets in the last 24 hours at $592K on Kalshi, with New York J at 54%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the Louisiana, Missouri and Utah state…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nPresident be impeached before Jan 1, 2028 priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded\nPredictionBubbles' movers board, on its Oct. 31, 06:54 UTC crawl with data read at Oct. 31, 06:10 UTC at 2,040 markets ranked with 531 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Las Vegas vs New York J is among the most traded sports markets in the last 24 hours at $592K on Kalshi, with New York J at 54%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the Louisiana, Missouri and Utah state…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/odds/sports/<br/><br/>President be impeached before Jan 1, 2028 priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 06:54 UTC crawl with data read at Oct. 31, 06:10 UTC at 2,040 markets ranked with 531 moving at least 1 point in 24…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T02:54:00-04:00",
       "date_modified": "2026-10-31T02:54:00-04:00",
       "authors": [
@@ -1944,7 +2127,7 @@
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 31, 2026 · 2:54 AM ET",
-      "body": "Infiniti Briefing\n\nLas Vegas vs New York J is among the most traded sports markets in the last 24 hours at $592K on Kalshi, with New York J at 54%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the Louisiana, Missouri and Utah state…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nPresident be impeached before Jan 1, 2028 priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded\nPredictionBubbles' movers board, on its Oct. 31, 06:54 UTC crawl with data read at Oct. 31, 06:10 UTC at 2,040 markets ranked with 531 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nLas Vegas vs New York J is among the most traded sports markets in the last 24 hours at $592K on Kalshi, with New York J at 54%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (the Louisiana, Missouri and Utah state…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nPresident be impeached before Jan 1, 2028 priced at 68.0% on Kalshi, up 3.0 points, on $1.2M traded\nPredictionBubbles' movers board, on its Oct. 31, 06:54 UTC crawl with data read at Oct. 31, 06:10 UTC at 2,040 markets ranked with 531 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T02:54:00-04:00",
       "source": "2026-10-31_0254-edt.md",
@@ -2222,9 +2405,9 @@
     {
       "id": "infiniti-2026-10-31_0224-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0224-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nApple be the largest company in the world by market cap on October 31, 2026 priced at 100.0% on Polymarket, up 36.4 points, on $438K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (October volume records, the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nVidantaWorld Mexico Open Winner is among the most traded sports markets in the last 24 hours at $792K on Kalshi, with Andrew Novak at 30%\nDeFi Rate's sports page, with volume by category as of Oct. 31, 12:30 AM ET and events observed between Oct. 31, 1:34 AM and 1:53 AM ET, lists the Mexico Open third…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Apple be the largest company in the world by market cap on October 31, 2026 priced at 100.0% on Polymarket, up 36.4 points, on $438K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (October volume records, the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>VidantaWorld Mexico Open Winner is among the most traded sports markets in the last 24 hours at $792K on Kalshi, with Andrew Novak at 30%<br/>DeFi Rate&#x27;s sports page, with volume by category as of Oct. 31, 12:30 AM ET and events observed between Oct. 31, 1:34 AM and 1:53 AM ET, lists the Mexico Open third…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nApple be the largest company in the world by market cap on October 31, 2026 priced at 100.0% on Polymarket, up 36.4 points, on $438K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (October volume records, the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nVidantaWorld Mexico Open Winner is among the most traded sports markets in the last 24 hours at $792K on Kalshi, with Andrew Novak at 30%\nDeFi Rate's sports page, with volume by category as of Oct. 31, 12:30 AM ET and events observed between Oct. 31, 1:34 AM and 1:53 AM ET, lists the Mexico Open third…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Apple be the largest company in the world by market cap on October 31, 2026 priced at 100.0% on Polymarket, up 36.4 points, on $438K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (October volume records, the…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>VidantaWorld Mexico Open Winner is among the most traded sports markets in the last 24 hours at $792K on Kalshi, with Andrew Novak at 30%<br/>DeFi Rate&#x27;s sports page, with volume by category as of Oct. 31, 12:30 AM ET and events observed between Oct. 31, 1:34 AM and 1:53 AM ET, lists the Mexico Open third…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T02:24:00-04:00",
       "date_modified": "2026-10-31T02:24:00-04:00",
       "authors": [
@@ -2245,7 +2428,7 @@
         "https://defirate.com/odds/sports/"
       ],
       "timestamp": "Oct 31, 2026 · 2:24 AM ET",
-      "body": "Infiniti Briefing\n\nApple be the largest company in the world by market cap on October 31, 2026 priced at 100.0% on Polymarket, up 36.4 points, on $438K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (October volume records, the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nVidantaWorld Mexico Open Winner is among the most traded sports markets in the last 24 hours at $792K on Kalshi, with Andrew Novak at 30%\nDeFi Rate's sports page, with volume by category as of Oct. 31, 12:30 AM ET and events observed between Oct. 31, 1:34 AM and 1:53 AM ET, lists the Mexico Open third…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nApple be the largest company in the world by market cap on October 31, 2026 priced at 100.0% on Polymarket, up 36.4 points, on $438K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held on Oct. 30 (October volume records, the…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nVidantaWorld Mexico Open Winner is among the most traded sports markets in the last 24 hours at $792K on Kalshi, with Andrew Novak at 30%\nDeFi Rate's sports page, with volume by category as of Oct. 31, 12:30 AM ET and events observed between Oct. 31, 1:34 AM and 1:53 AM ET, lists the Mexico Open third…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T02:24:00-04:00",
       "source": "2026-10-31_0224-edt.md",
@@ -2435,9 +2618,9 @@
     {
       "id": "infiniti-2026-10-31_0154-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0154-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nIran-Oman Hormuz Agreement by December 31, 2026 priced at 34.0% on Polymarket, up 5.5 points, on $171K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic IPO by December 15, 2026 priced at 81.5% on Polymarket, down 11.0 points, on $327K traded\nPredictionBubbles' movers board, on the same Oct. 31, 05:54 UTC crawl, lists the December 15 Anthropic IPO contract among its largest downward finance moves, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Iran-Oman Hormuz Agreement by December 31, 2026 priced at 34.0% on Polymarket, up 5.5 points, on $171K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Anthropic IPO by December 15, 2026 priced at 81.5% on Polymarket, down 11.0 points, on $327K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 05:54 UTC crawl, lists the December 15 Anthropic IPO contract among its largest downward finance moves, in a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nIran-Oman Hormuz Agreement by December 31, 2026 priced at 34.0% on Polymarket, up 5.5 points, on $171K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic IPO by December 15, 2026 priced at 81.5% on Polymarket, down 11.0 points, on $327K traded\nPredictionBubbles' movers board, on the same Oct. 31, 05:54 UTC crawl, lists the December 15 Anthropic IPO contract among its largest downward finance moves, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Iran-Oman Hormuz Agreement by December 31, 2026 priced at 34.0% on Polymarket, up 5.5 points, on $171K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Anthropic IPO by December 15, 2026 priced at 81.5% on Polymarket, down 11.0 points, on $327K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 05:54 UTC crawl, lists the December 15 Anthropic IPO contract among its largest downward finance moves, in a…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T01:54:00-04:00",
       "date_modified": "2026-10-31T01:54:00-04:00",
       "authors": [
@@ -2457,7 +2640,7 @@
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 31, 2026 · 1:54 AM ET",
-      "body": "Infiniti Briefing\n\nIran-Oman Hormuz Agreement by December 31, 2026 priced at 34.0% on Polymarket, up 5.5 points, on $171K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic IPO by December 15, 2026 priced at 81.5% on Polymarket, down 11.0 points, on $327K traded\nPredictionBubbles' movers board, on the same Oct. 31, 05:54 UTC crawl, lists the December 15 Anthropic IPO contract among its largest downward finance moves, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nIran-Oman Hormuz Agreement by December 31, 2026 priced at 34.0% on Polymarket, up 5.5 points, on $171K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nAnthropic IPO by December 15, 2026 priced at 81.5% on Polymarket, down 11.0 points, on $327K traded\nPredictionBubbles' movers board, on the same Oct. 31, 05:54 UTC crawl, lists the December 15 Anthropic IPO contract among its largest downward finance moves, in a…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T01:54:00-04:00",
       "source": "2026-10-31_0154-edt.md",
@@ -2742,9 +2925,9 @@
     {
       "id": "infiniti-2026-10-31_0124-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0124-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nThe upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRussia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>The upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Russia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nThe upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRussia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>The upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #CFTC #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Russia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T01:24:00-04:00",
       "date_modified": "2026-10-31T01:24:00-04:00",
       "authors": [
@@ -2765,7 +2948,7 @@
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 31, 2026 · 1:24 AM ET",
-      "body": "Infiniti Briefing\n\nThe upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRussia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nThe upper bound of the target federal funds rate be 4.0% at the end of 2026 priced at 28.3% on Polymarket, up 6.7 points, on $1.4M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #CFTC #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nRussia enter Druzhivka by December 31, 2026 priced at 24.5% on Polymarket, down 5.0 points, on $358K traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Druzhivka entry contract among its downward political/world moves, in a political/world…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T01:24:00-04:00",
       "source": "2026-10-31_0124-edt.md",
@@ -2895,9 +3078,9 @@
     {
       "id": "infiniti-2026-10-31_0054-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0054-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Next Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #Senate #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Iliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nNext Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Next Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #Senate #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Iliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T00:54:00-04:00",
       "date_modified": "2026-10-31T00:54:00-04:00",
       "authors": [
@@ -2919,7 +3102,7 @@
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 31, 2026 · 12:54 AM ET",
-      "body": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nNext Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T00:54:00-04:00",
       "source": "2026-10-31_0054-edt.md",
@@ -3229,9 +3412,9 @@
     {
       "id": "infiniti-2026-10-31_0024-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0024-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nDenver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nMark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded\nPredictionBubbles' movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Denver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/sports/<br/><br/>Mark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nDenver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nMark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded\nPredictionBubbles' movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Denver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/sports/<br/><br/>Mark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-31T00:24:00-04:00",
       "date_modified": "2026-10-31T00:24:00-04:00",
       "authors": [
@@ -3253,7 +3436,7 @@
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 31, 2026 · 12:24 AM ET",
-      "body": "Infiniti Briefing\n\nDenver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nMark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded\nPredictionBubbles' movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nDenver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nMark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded\nPredictionBubbles' movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-31T00:24:00-04:00",
       "source": "2026-10-31_0024-edt.md",
@@ -3262,9 +3445,9 @@
     {
       "id": "infiniti-2026-10-30_2354-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_2354-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nAlexandria Ocasio-Cortez: 2028 Democratic presidential nomination priced at 13c on Kalshi against 16c on Polymarket, a 3.2-point cross-venue gap\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #SEC\nhttps://picksbyodds.com/\n\nLos Angeles L vs Golden State is among the most traded sports markets in the last 24 hours at $1.7M on Kalshi, with Los Angeles at 77%\nDeFi Rate's sports page, crawled Oct. 31, 03:54 UTC with volume by category as of Oct. 30, 10:30 PM ET and events observed between Oct. 30, 7:24 PM and 11:53 PM ET,…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Alexandria Ocasio-Cortez: 2028 Democratic presidential nomination priced at 13c on Kalshi against 16c on Polymarket, a 3.2-point cross-venue gap<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Kalshi #Polymarket #SEC<br/>https://picksbyodds.com/<br/><br/>Los Angeles L vs Golden State is among the most traded sports markets in the last 24 hours at $1.7M on Kalshi, with Los Angeles at 77%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 03:54 UTC with volume by category as of Oct. 30, 10:30 PM ET and events observed between Oct. 30, 7:24 PM and 11:53 PM ET,…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nAlexandria Ocasio-Cortez: 2028 Democratic presidential nomination priced at 13c on Kalshi against 16c on Polymarket, a 3.2-point cross-venue gap\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #SEC\nhttps://picksbyodds.com/\n\nLos Angeles L vs Golden State is among the most traded sports markets in the last 24 hours at $1.7M on Kalshi, with Los Angeles at 77%\nDeFi Rate's sports page, crawled Oct. 31, 03:54 UTC with volume by category as of Oct. 30, 10:30 PM ET and events observed between Oct. 30, 7:24 PM and 11:53 PM ET,…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Alexandria Ocasio-Cortez: 2028 Democratic presidential nomination priced at 13c on Kalshi against 16c on Polymarket, a 3.2-point cross-venue gap<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Kalshi #Polymarket #SEC<br/>https://picksbyodds.com/<br/><br/>Los Angeles L vs Golden State is among the most traded sports markets in the last 24 hours at $1.7M on Kalshi, with Los Angeles at 77%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 03:54 UTC with volume by category as of Oct. 30, 10:30 PM ET and events observed between Oct. 30, 7:24 PM and 11:53 PM ET,…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-30T23:54:00-04:00",
       "date_modified": "2026-10-30T23:54:00-04:00",
       "authors": [
@@ -3286,7 +3469,7 @@
         "https://defirate.com/odds/sports/"
       ],
       "timestamp": "Oct 30, 2026 · 11:54 PM ET",
-      "body": "Infiniti Briefing\n\nAlexandria Ocasio-Cortez: 2028 Democratic presidential nomination priced at 13c on Kalshi against 16c on Polymarket, a 3.2-point cross-venue gap\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #SEC\nhttps://picksbyodds.com/\n\nLos Angeles L vs Golden State is among the most traded sports markets in the last 24 hours at $1.7M on Kalshi, with Los Angeles at 77%\nDeFi Rate's sports page, crawled Oct. 31, 03:54 UTC with volume by category as of Oct. 30, 10:30 PM ET and events observed between Oct. 30, 7:24 PM and 11:53 PM ET,…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nAlexandria Ocasio-Cortez: 2028 Democratic presidential nomination priced at 13c on Kalshi against 16c on Polymarket, a 3.2-point cross-venue gap\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #SEC\nhttps://picksbyodds.com/\n\nLos Angeles L vs Golden State is among the most traded sports markets in the last 24 hours at $1.7M on Kalshi, with Los Angeles at 77%\nDeFi Rate's sports page, crawled Oct. 31, 03:54 UTC with volume by category as of Oct. 30, 10:30 PM ET and events observed between Oct. 30, 7:24 PM and 11:53 PM ET,…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-30T23:54:00-04:00",
       "source": "2026-10-30_2354-edt.md",
@@ -3598,9 +3781,9 @@
     {
       "id": "infiniti-2026-10-30_2324-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_2324-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\n$3.98B traded on Oct. 30 across 9 prediction market venues, with Polymarket US at $383M\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nTulane vs Charlotte is among the most traded sports markets in the last 24 hours at $1.4M on Kalshi, with Tulane at 56%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>$3.98B traded on Oct. 30 across 9 prediction market venues, with Polymarket US at $383M<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Tulane vs Charlotte is among the most traded sports markets in the last 24 hours at $1.4M on Kalshi, with Tulane at 56%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\n$3.98B traded on Oct. 30 across 9 prediction market venues, with Polymarket US at $383M\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nTulane vs Charlotte is among the most traded sports markets in the last 24 hours at $1.4M on Kalshi, with Tulane at 56%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>$3.98B traded on Oct. 30 across 9 prediction market venues, with Polymarket US at $383M<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…<br/>#PredictionMarkets #Kalshi #Polymarket #DraftKings<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Tulane vs Charlotte is among the most traded sports markets in the last 24 hours at $1.4M on Kalshi, with Tulane at 56%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…<br/>#PredictionMarkets #Kalshi<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-30T23:24:00-04:00",
       "date_modified": "2026-10-30T23:24:00-04:00",
       "authors": [
@@ -3622,7 +3805,7 @@
         "https://defirate.com/odds/sports/"
       ],
       "timestamp": "Oct 30, 2026 · 11:24 PM ET",
-      "body": "Infiniti Briefing\n\n$3.98B traded on Oct. 30 across 9 prediction market venues, with Polymarket US at $383M\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nTulane vs Charlotte is among the most traded sports markets in the last 24 hours at $1.4M on Kalshi, with Tulane at 56%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\n$3.98B traded on Oct. 30 across 9 prediction market venues, with Polymarket US at $383M\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #DraftKings\nhttps://defirate.com/prediction-markets/volume/\n\nTulane vs Charlotte is among the most traded sports markets in the last 24 hours at $1.4M on Kalshi, with Tulane at 56%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-30T23:24:00-04:00",
       "source": "2026-10-30_2324-edt.md",
@@ -3928,9 +4111,9 @@
     {
       "id": "infiniti-2026-10-30_2254-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_2254-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nBitcoin hit $50,000 before $100,000 by Dec 31, 2026 priced at 9.0% on Kalshi, down 3.0 points, on $5.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the October volume-records…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nBaylor vs UCF is the most traded sports market in the last 24 hours at $4.1M on Kalshi, with Baylor at 99%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Bitcoin hit $50,000 before $100,000 by Dec 31, 2026 priced at 9.0% on Kalshi, down 3.0 points, on $5.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the October volume-records…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Baylor vs UCF is the most traded sports market in the last 24 hours at $4.1M on Kalshi, with Baylor at 99%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nBitcoin hit $50,000 before $100,000 by Dec 31, 2026 priced at 9.0% on Kalshi, down 3.0 points, on $5.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the October volume-records…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nBaylor vs UCF is the most traded sports market in the last 24 hours at $4.1M on Kalshi, with Baylor at 99%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Bitcoin hit $50,000 before $100,000 by Dec 31, 2026 priced at 9.0% on Kalshi, down 3.0 points, on $5.5M traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the October volume-records…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Baylor vs UCF is the most traded sports market in the last 24 hours at $4.1M on Kalshi, with Baylor at 99%<br/>DeFi Rate&#x27;s sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…<br/>#PredictionMarkets #Kalshi #Polymarket<br/>https://defirate.com/odds/sports/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-30T22:54:00-04:00",
       "date_modified": "2026-10-30T22:54:00-04:00",
       "authors": [
@@ -3952,7 +4135,7 @@
         "https://defirate.com/odds/sports/"
       ],
       "timestamp": "Oct 30, 2026 · 10:54 PM ET",
-      "body": "Infiniti Briefing\n\nBitcoin hit $50,000 before $100,000 by Dec 31, 2026 priced at 9.0% on Kalshi, down 3.0 points, on $5.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the October volume-records…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nBaylor vs UCF is the most traded sports market in the last 24 hours at $4.1M on Kalshi, with Baylor at 99%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nBitcoin hit $50,000 before $100,000 by Dec 31, 2026 priced at 9.0% on Kalshi, down 3.0 points, on $5.5M traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the October volume-records…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\nhttps://predictionbubbles.net/markets/movers/\n\nBaylor vs UCF is the most traded sports market in the last 24 hours at $4.1M on Kalshi, with Baylor at 99%\nDeFi Rate's sports page, crawled Oct. 31, 02:55 UTC with volume by category as of Oct. 30, 9:30 PM ET and events observed between Oct. 30, 7:24 PM and 10:47 PM ET, lists…\n#PredictionMarkets #Kalshi #Polymarket\nhttps://defirate.com/odds/sports/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-30T22:54:00-04:00",
       "source": "2026-10-30_2254-edt.md",
@@ -4262,9 +4445,9 @@
     {
       "id": "infiniti-2026-10-30_2224-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_2224-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nHarvard vs Dartmouth is among the most traded sports markets in the last 24 hours at $1.2M on Kalshi, with Dartmouth at 99%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://defirate.com/odds/sports/\n\nRepublican party win the governorship in Nevada — Joe Lombardo priced at 28.0% on Kalshi, up 5.0 points, on $1.3M traded\nPredictionBubbles' movers board, on its Oct. 31, 02:24 UTC crawl with data read at Oct. 31, 01:37 UTC at 1,985 markets ranked with 500 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>Harvard vs Dartmouth is among the most traded sports markets in the last 24 hours at $1.2M on Kalshi, with Dartmouth at 99%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://defirate.com/odds/sports/<br/><br/>Republican party win the governorship in Nevada — Joe Lombardo priced at 28.0% on Kalshi, up 5.0 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 02:24 UTC crawl with data read at Oct. 31, 01:37 UTC at 1,985 markets ranked with 500 moving at least 1 point in 24…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "title": "Infiniti Prediction Markets",
+      "content_text": "Infiniti Prediction Markets\n\nHarvard vs Dartmouth is among the most traded sports markets in the last 24 hours at $1.2M on Kalshi, with Dartmouth at 99%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://defirate.com/odds/sports/\n\nRepublican party win the governorship in Nevada — Joe Lombardo priced at 28.0% on Kalshi, up 5.0 points, on $1.3M traded\nPredictionBubbles' movers board, on its Oct. 31, 02:24 UTC crawl with data read at Oct. 31, 01:37 UTC at 1,985 markets ranked with 500 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Harvard vs Dartmouth is among the most traded sports markets in the last 24 hours at $1.2M on Kalshi, with Dartmouth at 99%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/>https://defirate.com/odds/sports/<br/><br/>Republican party win the governorship in Nevada — Joe Lombardo priced at 28.0% on Kalshi, up 5.0 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 02:24 UTC crawl with data read at Oct. 31, 01:37 UTC at 1,985 markets ranked with 500 moving at least 1 point in 24…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
       "date_published": "2026-10-30T22:24:00-04:00",
       "date_modified": "2026-10-30T22:24:00-04:00",
       "authors": [
@@ -4287,7 +4470,7 @@
         "https://predictionbubbles.net/markets/movers/"
       ],
       "timestamp": "Oct 30, 2026 · 10:24 PM ET",
-      "body": "Infiniti Briefing\n\nHarvard vs Dartmouth is among the most traded sports markets in the last 24 hours at $1.2M on Kalshi, with Dartmouth at 99%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://defirate.com/odds/sports/\n\nRepublican party win the governorship in Nevada — Joe Lombardo priced at 28.0% on Kalshi, up 5.0 points, on $1.3M traded\nPredictionBubbles' movers board, on its Oct. 31, 02:24 UTC crawl with data read at Oct. 31, 01:37 UTC at 1,985 markets ranked with 500 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "body": "Infiniti Prediction Markets\n\nHarvard vs Dartmouth is among the most traded sports markets in the last 24 hours at $1.2M on Kalshi, with Dartmouth at 99%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\nhttps://defirate.com/odds/sports/\n\nRepublican party win the governorship in Nevada — Joe Lombardo priced at 28.0% on Kalshi, up 5.0 points, on $1.3M traded\nPredictionBubbles' movers board, on its Oct. 31, 02:24 UTC crawl with data read at Oct. 31, 01:37 UTC at 1,985 markets ranked with 500 moving at least 1 point in 24…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
       "image_url": null,
       "published": "2026-10-30T22:24:00-04:00",
       "source": "2026-10-30_2224-edt.md",
@@ -4503,192 +4686,6 @@
       "image_url": null,
       "published": "2026-10-30T22:00:00-04:00",
       "source": "2026-10-30_2200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_2200-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_2200-edt-2",
-      "title": "Prediction markets appeared on page one in half of sampled midterm forecast searches, Eagle Country reports",
-      "content_text": "- **Prediction markets appeared on page one in half of sampled midterm forecast searches, Eagle Country reports** — A CasinoReviews.net study of 140 Google results pages across 14 U.S. cities found Polymarket or Kalshi on page one for half of everyday forecast searches such as election forecast and midterm polls. The platforms appeared in all eight cities tested in states where state law bans betting on elections, and Kalshi appeared on all 28 pages for senate odds and midterm odds searches. ([Eagle Country](https://lifestyle.myeaglecountry.com/story/540920/study-finds-prediction-markets-in-half-of-sampled-midterm-forecast-searches/))",
-      "content_html": "<p>- **Prediction markets appeared on page one in half of sampled midterm forecast searches, Eagle Country reports** — A CasinoReviews.net study of 140 Google results pages across 14 U.S. cities found Polymarket or Kalshi on page one for half of everyday forecast searches such as election forecast and midterm polls. The platforms appeared in all eight cities tested in states where state law bans betting on elections, and Kalshi appeared on all 28 pages for senate odds and midterm odds searches. ([Eagle Country](https://lifestyle.myeaglecountry.com/story/540920/study-finds-prediction-markets-in-half-of-sampled-midterm-forecast-searches/))</p>",
-      "date_published": "2026-10-30T22:00:00-04:00",
-      "date_modified": "2026-10-30T22:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://lifestyle.myeaglecountry.com/story/540920/study-finds-prediction-markets-in-half-of-sampled-midterm-forecast-searches/",
-      "links": [
-        "https://lifestyle.myeaglecountry.com/story/540920/study-finds-prediction-markets-in-half-of-sampled-midterm-forecast-searches/"
-      ],
-      "timestamp": "Oct 30, 2026 · 10:00 PM ET",
-      "body": "- **Prediction markets appeared on page one in half of sampled midterm forecast searches, Eagle Country reports** — A CasinoReviews.net study of 140 Google results pages across 14 U.S. cities found Polymarket or Kalshi on page one for half of everyday forecast searches such as election forecast and midterm polls. The platforms appeared in all eight cities tested in states where state law bans betting on elections, and Kalshi appeared on all 28 pages for senate odds and midterm odds searches. ([Eagle Country](https://lifestyle.myeaglecountry.com/story/540920/study-finds-prediction-markets-in-half-of-sampled-midterm-forecast-searches/))",
-      "image_url": null,
-      "published": "2026-10-30T22:00:00-04:00",
-      "source": "2026-10-30_2200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_2200-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_2200-edt-3",
-      "title": "Polymarket prices Hyperliquid reaching 100 dollars by end of 2026 at 65 percent, TokenPost reports",
-      "content_text": "- **Polymarket prices Hyperliquid reaching 100 dollars by end of 2026 at 65 percent, TokenPost reports** — A Polymarket contract showed a 65 percent probability that Hyperliquid would reach 100 dollars by the end of 2026 at 12:53 AM ET on Friday, with the probability up 45 percent over the previous 24 hours. HYPE traded at 92.30 dollars, up 16.65 percent over 24 hours as of 04:54 UTC, separate from the Binance perpetual-contract prices used to resolve the contract. ([TokenPost](https://www.tokenpost.com/news/investing/44275))",
-      "content_html": "<p>- **Polymarket prices Hyperliquid reaching 100 dollars by end of 2026 at 65 percent, TokenPost reports** — A Polymarket contract showed a 65 percent probability that Hyperliquid would reach 100 dollars by the end of 2026 at 12:53 AM ET on Friday, with the probability up 45 percent over the previous 24 hours. HYPE traded at 92.30 dollars, up 16.65 percent over 24 hours as of 04:54 UTC, separate from the Binance perpetual-contract prices used to resolve the contract. ([TokenPost](https://www.tokenpost.com/news/investing/44275))</p>",
-      "date_published": "2026-10-30T22:00:00-04:00",
-      "date_modified": "2026-10-30T22:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.tokenpost.com/news/investing/44275",
-      "links": [
-        "https://www.tokenpost.com/news/investing/44275"
-      ],
-      "timestamp": "Oct 30, 2026 · 10:00 PM ET",
-      "body": "- **Polymarket prices Hyperliquid reaching 100 dollars by end of 2026 at 65 percent, TokenPost reports** — A Polymarket contract showed a 65 percent probability that Hyperliquid would reach 100 dollars by the end of 2026 at 12:53 AM ET on Friday, with the probability up 45 percent over the previous 24 hours. HYPE traded at 92.30 dollars, up 16.65 percent over 24 hours as of 04:54 UTC, separate from the Binance perpetual-contract prices used to resolve the contract. ([TokenPost](https://www.tokenpost.com/news/investing/44275))",
-      "image_url": null,
-      "published": "2026-10-30T22:00:00-04:00",
-      "source": "2026-10-30_2200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_2200-edt-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_2200-edt-4",
-      "title": "Apple priced at 41 percent against Nvidia at about 55 percent for largest company at year end on Polymarket, AlphaPayouts reports",
-      "content_text": "- **Apple priced at 41 percent against Nvidia at about 55 percent for largest company at year end on Polymarket, AlphaPayouts reports** — Apple's odds of being the world's largest company by market cap on December 31 on Polymarket have risen from 23 cents to 41 cents in three days, with Nvidia at about 55 percent. Apple is set to report fiscal fourth-quarter earnings, its first earnings call under CEO John Ternus, more than two weeks before Nvidia reports around November 18, with the two companies close in market value. ([AlphaPayouts](https://alphapayouts.com/apple-reports-tomorrow-heres-what-it-needs-to-pass-nvidia/))",
-      "content_html": "<p>- **Apple priced at 41 percent against Nvidia at about 55 percent for largest company at year end on Polymarket, AlphaPayouts reports** — Apple&#x27;s odds of being the world&#x27;s largest company by market cap on December 31 on Polymarket have risen from 23 cents to 41 cents in three days, with Nvidia at about 55 percent. Apple is set to report fiscal fourth-quarter earnings, its first earnings call under CEO John Ternus, more than two weeks before Nvidia reports around November 18, with the two companies close in market value. ([AlphaPayouts](https://alphapayouts.com/apple-reports-tomorrow-heres-what-it-needs-to-pass-nvidia/))</p>",
-      "date_published": "2026-10-30T22:00:00-04:00",
-      "date_modified": "2026-10-30T22:00:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://alphapayouts.com/apple-reports-tomorrow-heres-what-it-needs-to-pass-nvidia/",
-      "links": [
-        "https://alphapayouts.com/apple-reports-tomorrow-heres-what-it-needs-to-pass-nvidia/"
-      ],
-      "timestamp": "Oct 30, 2026 · 10:00 PM ET",
-      "body": "- **Apple priced at 41 percent against Nvidia at about 55 percent for largest company at year end on Polymarket, AlphaPayouts reports** — Apple's odds of being the world's largest company by market cap on December 31 on Polymarket have risen from 23 cents to 41 cents in three days, with Nvidia at about 55 percent. Apple is set to report fiscal fourth-quarter earnings, its first earnings call under CEO John Ternus, more than two weeks before Nvidia reports around November 18, with the two companies close in market value. ([AlphaPayouts](https://alphapayouts.com/apple-reports-tomorrow-heres-what-it-needs-to-pass-nvidia/))",
-      "image_url": null,
-      "published": "2026-10-30T22:00:00-04:00",
-      "source": "2026-10-30_2200-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-30_2154-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_2154-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\nJ.D. Vance: 2028 Republican presidential nominee priced at 35c on Kalshi against 38c on Polymarket, a 3.2-point cross-venue gap\nNo significant new market headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://picksbyodds.com/\n\nHanwha Life Esports win Worlds 2026 priced at 11.5% on Polymarket, up 3.0 points, on $471K traded\nPredictionBubbles' movers board, on its Oct. 31, 01:25 UTC crawl with data read at Oct. 31, 00:36 UTC at 1,993 markets ranked with 515 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>J.D. Vance: 2028 Republican presidential nominee priced at 35c on Kalshi against 38c on Polymarket, a 3.2-point cross-venue gap<br/>No significant new market headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://picksbyodds.com/<br/><br/>Hanwha Life Esports win Worlds 2026 priced at 11.5% on Polymarket, up 3.0 points, on $471K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 01:25 UTC crawl with data read at Oct. 31, 00:36 UTC at 1,993 markets ranked with 515 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-30T21:54:00-04:00",
-      "date_modified": "2026-10-30T21:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://picksbyodds.com/",
-      "links": [
-        "https://picksbyodds.com/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 30, 2026 · 9:54 PM ET",
-      "body": "Infiniti Briefing\n\nJ.D. Vance: 2028 Republican presidential nominee priced at 35c on Kalshi against 38c on Polymarket, a 3.2-point cross-venue gap\nNo significant new market headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Kalshi 76ers partner item…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://picksbyodds.com/\n\nHanwha Life Esports win Worlds 2026 priced at 11.5% on Polymarket, up 3.0 points, on $471K traded\nPredictionBubbles' movers board, on its Oct. 31, 01:25 UTC crawl with data read at Oct. 31, 00:36 UTC at 1,993 markets ranked with 515 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-30T21:54:00-04:00",
-      "source": "2026-10-30_2154-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_2145-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_2145-edt-0",
-      "title": "Aries launches midterm election event contracts in its mobile app through ForecastEx, Prediction News reports",
-      "content_text": "- **Aries launches midterm election event contracts in its mobile app through ForecastEx, Prediction News reports** — Aries has launched prediction markets in the Aries Mobile app, offering eligible customers event contracts on the 2026 U.S. midterm elections through ForecastEx, a CFTC-regulated exchange. Aries Futures LLC is also providing access to economic data and financial markets contracts alongside the election vertical, bringing event-contract trading to the mobile platform for the first time. ([Prediction News](https://predictionnews.com/story/aries-launches-prediction-markets-through-forecastex))",
-      "content_html": "<p>- **Aries launches midterm election event contracts in its mobile app through ForecastEx, Prediction News reports** — Aries has launched prediction markets in the Aries Mobile app, offering eligible customers event contracts on the 2026 U.S. midterm elections through ForecastEx, a CFTC-regulated exchange. Aries Futures LLC is also providing access to economic data and financial markets contracts alongside the election vertical, bringing event-contract trading to the mobile platform for the first time. ([Prediction News](https://predictionnews.com/story/aries-launches-prediction-markets-through-forecastex))</p>",
-      "date_published": "2026-10-30T21:45:00-04:00",
-      "date_modified": "2026-10-30T21:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": "https://predictionnews.com/story/aries-launches-prediction-markets-through-forecastex",
-      "links": [
-        "https://predictionnews.com/story/aries-launches-prediction-markets-through-forecastex"
-      ],
-      "timestamp": "Oct 30, 2026 · 9:45 PM ET",
-      "body": "- **Aries launches midterm election event contracts in its mobile app through ForecastEx, Prediction News reports** — Aries has launched prediction markets in the Aries Mobile app, offering eligible customers event contracts on the 2026 U.S. midterm elections through ForecastEx, a CFTC-regulated exchange. Aries Futures LLC is also providing access to economic data and financial markets contracts alongside the election vertical, bringing event-contract trading to the mobile platform for the first time. ([Prediction News](https://predictionnews.com/story/aries-launches-prediction-markets-through-forecastex))",
-      "image_url": null,
-      "published": "2026-10-30T21:45:00-04:00",
-      "source": "2026-10-30_2145-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_2145-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_2145-edt-1",
-      "title": "Graham priced at 73 percent against Andrews at 28 percent in South Carolina Senate race on both Polymarket and Kalshi, Action Network reports",
-      "content_text": "- **Graham priced at 73 percent against Andrews at 28 percent in South Carolina Senate race on both Polymarket and Kalshi, Action Network reports** — Polls in the South Carolina Senate race run from a 4-point Graham lead to a 48-48 tie, but both Polymarket and Kalshi price Darline Graham at 73 percent and Annie Andrews at 28 percent. In the governor race, Alan Wilson is priced at 93 percent on Polymarket and 92.6 percent on Kalshi, against Jermaine Johnson at 9 percent and 7.9 percent. ([Action Network](https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-30))",
-      "content_html": "<p>- **Graham priced at 73 percent against Andrews at 28 percent in South Carolina Senate race on both Polymarket and Kalshi, Action Network reports** — Polls in the South Carolina Senate race run from a 4-point Graham lead to a 48-48 tie, but both Polymarket and Kalshi price Darline Graham at 73 percent and Annie Andrews at 28 percent. In the governor race, Alan Wilson is priced at 93 percent on Polymarket and 92.6 percent on Kalshi, against Jermaine Johnson at 9 percent and 7.9 percent. ([Action Network](https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-30))</p>",
-      "date_published": "2026-10-30T21:45:00-04:00",
-      "date_modified": "2026-10-30T21:45:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": "https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-30",
-      "links": [
-        "https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-30"
-      ],
-      "timestamp": "Oct 30, 2026 · 9:45 PM ET",
-      "body": "- **Graham priced at 73 percent against Andrews at 28 percent in South Carolina Senate race on both Polymarket and Kalshi, Action Network reports** — Polls in the South Carolina Senate race run from a 4-point Graham lead to a 48-48 tie, but both Polymarket and Kalshi price Darline Graham at 73 percent and Annie Andrews at 28 percent. In the governor race, Alan Wilson is priced at 93 percent on Polymarket and 92.6 percent on Kalshi, against Jermaine Johnson at 9 percent and 7.9 percent. ([Action Network](https://www.actionnetwork.com/news/south-carolina-senate-race-sc-governor-race-2026-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions-oct-30))",
-      "image_url": null,
-      "published": "2026-10-30T21:45:00-04:00",
-      "source": "2026-10-30_2145-edt.json",
       "matches_facebook_post": false
     }
   ]
