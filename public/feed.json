@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-31T00:46:04.331407-04:00",
+  "updated": "2026-10-31T01:00:29.350238-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,160 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-10-31_0100-edt-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0100-edt-0",
+      "title": "Corporate insider trading policies should explicitly cover prediction markets, Proskauer reports",
+      "content_text": "- **Corporate insider trading policies should explicitly cover prediction markets, Proskauer reports** — Proskauer says many corporate policies may not yet expressly bar trading on material nonpublic information in prediction markets, even though CFTC-registered platforms such as Kalshi prohibit it and the CFTC has asserted commodities fraud and manipulation authority over event contracts. ([Proskauer](https://www.proskauer.com/blog/do-your-insider-trading-policies-cover-the-prediction-markets-should-they))",
+      "content_html": "<p>- **Corporate insider trading policies should explicitly cover prediction markets, Proskauer reports** — Proskauer says many corporate policies may not yet expressly bar trading on material nonpublic information in prediction markets, even though CFTC-registered platforms such as Kalshi prohibit it and the CFTC has asserted commodities fraud and manipulation authority over event contracts. ([Proskauer](https://www.proskauer.com/blog/do-your-insider-trading-policies-cover-the-prediction-markets-should-they))</p>",
+      "date_published": "2026-10-31T01:00:00-04:00",
+      "date_modified": "2026-10-31T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.proskauer.com/blog/do-your-insider-trading-policies-cover-the-prediction-markets-should-they",
+      "links": [
+        "https://www.proskauer.com/blog/do-your-insider-trading-policies-cover-the-prediction-markets-should-they"
+      ],
+      "timestamp": "Oct 31, 2026 · 1:00 AM ET",
+      "body": "- **Corporate insider trading policies should explicitly cover prediction markets, Proskauer reports** — Proskauer says many corporate policies may not yet expressly bar trading on material nonpublic information in prediction markets, even though CFTC-registered platforms such as Kalshi prohibit it and the CFTC has asserted commodities fraud and manipulation authority over event contracts. ([Proskauer](https://www.proskauer.com/blog/do-your-insider-trading-policies-cover-the-prediction-markets-should-they))",
+      "image_url": null,
+      "published": "2026-10-31T01:00:00-04:00",
+      "source": "2026-10-31_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-31_0100-edt-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0100-edt-1",
+      "title": "Prediction market insider trading creates compliance risk under multiple legal frameworks, Pillsbury analysis reports",
+      "content_text": "- **Prediction market insider trading creates compliance risk under multiple legal frameworks, Pillsbury analysis reports** — A Pillsbury analysis notes prediction markets now let users trade on corporate outcomes and cites May 2026 DOJ and CFTC charges against a Google employee accused of placing Polymarket bets based on confidential search information, with criminal commodities and wire fraud charges and civil insider trading charges. ([JD Supra](https://www.jdsupra.com/legalnews/prediction-markets-and-insider-trading-8651205/))",
+      "content_html": "<p>- **Prediction market insider trading creates compliance risk under multiple legal frameworks, Pillsbury analysis reports** — A Pillsbury analysis notes prediction markets now let users trade on corporate outcomes and cites May 2026 DOJ and CFTC charges against a Google employee accused of placing Polymarket bets based on confidential search information, with criminal commodities and wire fraud charges and civil insider trading charges. ([JD Supra](https://www.jdsupra.com/legalnews/prediction-markets-and-insider-trading-8651205/))</p>",
+      "date_published": "2026-10-31T01:00:00-04:00",
+      "date_modified": "2026-10-31T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": "https://www.jdsupra.com/legalnews/prediction-markets-and-insider-trading-8651205/",
+      "links": [
+        "https://www.jdsupra.com/legalnews/prediction-markets-and-insider-trading-8651205/"
+      ],
+      "timestamp": "Oct 31, 2026 · 1:00 AM ET",
+      "body": "- **Prediction market insider trading creates compliance risk under multiple legal frameworks, Pillsbury analysis reports** — A Pillsbury analysis notes prediction markets now let users trade on corporate outcomes and cites May 2026 DOJ and CFTC charges against a Google employee accused of placing Polymarket bets based on confidential search information, with criminal commodities and wire fraud charges and civil insider trading charges. ([JD Supra](https://www.jdsupra.com/legalnews/prediction-markets-and-insider-trading-8651205/))",
+      "image_url": null,
+      "published": "2026-10-31T01:00:00-04:00",
+      "source": "2026-10-31_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-31_0100-edt-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0100-edt-2",
+      "title": "Patriots priced at 76 percent against Dolphins at 24 percent in NFL prediction market comparison, Covers via OddsShark reports",
+      "content_text": "- **Patriots priced at 76 percent against Dolphins at 24 percent in NFL prediction market comparison, Covers via OddsShark reports** — A cross-platform NFL comparison shows New England at 76 percent against Miami at 24 percent, Kansas City at 53 percent against Denver at 49 percent on Kalshi, and Washington at 70 percent against Philadelphia at 30 percent, with prices compared across Kalshi, Polymarket US, Novig, ProphetX and Predict.fun. ([OddsShark](https://www.oddsshark.com/prediction-markets/trends-picks-12292025))",
+      "content_html": "<p>- **Patriots priced at 76 percent against Dolphins at 24 percent in NFL prediction market comparison, Covers via OddsShark reports** — A cross-platform NFL comparison shows New England at 76 percent against Miami at 24 percent, Kansas City at 53 percent against Denver at 49 percent on Kalshi, and Washington at 70 percent against Philadelphia at 30 percent, with prices compared across Kalshi, Polymarket US, Novig, ProphetX and Predict.fun. ([OddsShark](https://www.oddsshark.com/prediction-markets/trends-picks-12292025))</p>",
+      "date_published": "2026-10-31T01:00:00-04:00",
+      "date_modified": "2026-10-31T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "NFL"
+      ],
+      "image": null,
+      "external_url": "https://www.oddsshark.com/prediction-markets/trends-picks-12292025",
+      "links": [
+        "https://www.oddsshark.com/prediction-markets/trends-picks-12292025"
+      ],
+      "timestamp": "Oct 31, 2026 · 1:00 AM ET",
+      "body": "- **Patriots priced at 76 percent against Dolphins at 24 percent in NFL prediction market comparison, Covers via OddsShark reports** — A cross-platform NFL comparison shows New England at 76 percent against Miami at 24 percent, Kansas City at 53 percent against Denver at 49 percent on Kalshi, and Washington at 70 percent against Philadelphia at 30 percent, with prices compared across Kalshi, Polymarket US, Novig, ProphetX and Predict.fun. ([OddsShark](https://www.oddsshark.com/prediction-markets/trends-picks-12292025))",
+      "image_url": null,
+      "published": "2026-10-31T01:00:00-04:00",
+      "source": "2026-10-31_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-10-31_0100-edt-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0100-edt-3",
+      "title": "Polymarket prices December Fed hike at 77 percent after Fed holds rates at 3.75 to 4 percent, Altcoinvest reports",
+      "content_text": "- **Polymarket prices December Fed hike at 77 percent after Fed holds rates at 3.75 to 4 percent, Altcoinvest reports** — The Federal Reserve held rates at 3.75 to 4 percent on October 28 in a 10 to 2 vote, with two officials voting for a hike, and Polymarket priced a December quarter-point hike at 77 percent. US spot Bitcoin ETFs took in 137.3 million dollars that day as Bitcoin traded near 79,899 dollars. ([Altcoinvest](https://altcoinvest.com/etfs-add-424m-as-fed-holds-november-ahead/))",
+      "content_html": "<p>- **Polymarket prices December Fed hike at 77 percent after Fed holds rates at 3.75 to 4 percent, Altcoinvest reports** — The Federal Reserve held rates at 3.75 to 4 percent on October 28 in a 10 to 2 vote, with two officials voting for a hike, and Polymarket priced a December quarter-point hike at 77 percent. US spot Bitcoin ETFs took in 137.3 million dollars that day as Bitcoin traded near 79,899 dollars. ([Altcoinvest](https://altcoinvest.com/etfs-add-424m-as-fed-holds-november-ahead/))</p>",
+      "date_published": "2026-10-31T01:00:00-04:00",
+      "date_modified": "2026-10-31T01:00:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": "https://altcoinvest.com/etfs-add-424m-as-fed-holds-november-ahead/",
+      "links": [
+        "https://altcoinvest.com/etfs-add-424m-as-fed-holds-november-ahead/"
+      ],
+      "timestamp": "Oct 31, 2026 · 1:00 AM ET",
+      "body": "- **Polymarket prices December Fed hike at 77 percent after Fed holds rates at 3.75 to 4 percent, Altcoinvest reports** — The Federal Reserve held rates at 3.75 to 4 percent on October 28 in a 10 to 2 vote, with two officials voting for a hike, and Polymarket priced a December quarter-point hike at 77 percent. US spot Bitcoin ETFs took in 137.3 million dollars that day as Bitcoin traded near 79,899 dollars. ([Altcoinvest](https://altcoinvest.com/etfs-add-424m-as-fed-holds-november-ahead/))",
+      "image_url": null,
+      "published": "2026-10-31T01:00:00-04:00",
+      "source": "2026-10-31_0100-edt.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-10-31_0054-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0054-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Next Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…<br/>#PredictionMarkets #Polymarket #Senate #CFTC<br/>https://predictionbubbles.net/markets/movers/<br/><br/>Iliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded<br/>PredictionBubbles&#x27; movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…<br/>#PredictionMarkets #Polymarket #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-31T00:54:00-04:00",
+      "date_modified": "2026-10-31T00:54:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Senate",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://predictionbubbles.net/markets/movers/",
+      "links": [
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 31, 2026 · 12:54 AM ET",
+      "body": "Infiniti Briefing\n\nNext Astra Model (6.1+) released by December 31, 2026 priced at 77.0% on Polymarket, down 11.5 points, on $122K traded\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange /…\n#PredictionMarkets #Polymarket #Senate #CFTC\nhttps://predictionbubbles.net/markets/movers/\n\nIliana Iotova win the next Bulgarian presidential election priced at 66.5% on Polymarket, down 15.0 points, on $1.3M traded\nPredictionBubbles' movers board, on the same Oct. 31, 04:55 UTC crawl, lists the Iotova outright-winner contract among its largest downward political moves ahead of the…\n#PredictionMarkets #Polymarket #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-31T00:54:00-04:00",
+      "source": "2026-10-31_0054-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-31_0045-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_0045-edt-0",
@@ -4530,159 +4684,6 @@
       "image_url": null,
       "published": "2026-10-30T17:00:00-04:00",
       "source": "2026-10-30_1700-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-10-30_1654-edt",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_1654-edt",
-      "title": "Infiniti Briefing",
-      "content_text": "Infiniti Briefing\n\n$2.80B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.39B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Spain DGOJ licence item…\n#PredictionMarkets #Kalshi #Polymarket #Gold\nhttps://defirate.com/prediction-markets/volume/\n\nRepublicans win the House in 2026 priced at 6.3% on Kalshi, down 2.2 points, on $59.7M traded\nPredictionBubbles' movers board, fresh on its Oct. 30, 20:56 UTC crawl with data read at Oct. 30, 20:17 UTC at 2,004 markets ranked with 513 moving at least 1 point in…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "content_html": "<p>Infiniti Briefing<br/><br/>$2.80B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.39B<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Spain DGOJ licence item…<br/>#PredictionMarkets #Kalshi #Polymarket #Gold<br/>https://defirate.com/prediction-markets/volume/<br/><br/>Republicans win the House in 2026 priced at 6.3% on Kalshi, down 2.2 points, on $59.7M traded<br/>PredictionBubbles&#x27; movers board, fresh on its Oct. 30, 20:56 UTC crawl with data read at Oct. 30, 20:17 UTC at 2,004 markets ranked with 513 moving at least 1 point in…<br/>#PredictionMarkets #Kalshi #Elections<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
-      "date_published": "2026-10-30T16:54:00-04:00",
-      "date_modified": "2026-10-30T16:54:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Gold",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://defirate.com/prediction-markets/volume/",
-      "links": [
-        "https://defirate.com/prediction-markets/volume/",
-        "https://predictionbubbles.net/markets/movers/"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:54 PM ET",
-      "body": "Infiniti Briefing\n\n$2.80B traded so far on Oct. 30 across 9 prediction market venues, with Kalshi at $2.39B\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Spain DGOJ licence item…\n#PredictionMarkets #Kalshi #Polymarket #Gold\nhttps://defirate.com/prediction-markets/volume/\n\nRepublicans win the House in 2026 priced at 6.3% on Kalshi, down 2.2 points, on $59.7M traded\nPredictionBubbles' movers board, fresh on its Oct. 30, 20:56 UTC crawl with data read at Oct. 30, 20:17 UTC at 2,004 markets ranked with 513 moving at least 1 point in…\n#PredictionMarkets #Kalshi #Elections\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
-      "image_url": null,
-      "published": "2026-10-30T16:54:00-04:00",
-      "source": "2026-10-30_1654-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1630-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1630-edt-0",
-      "title": "Kalshi prices just a 15 percent chance of Los Angeles topping an inch of rain in October, with the city at 0.69 inches so far, Fox Weather reports",
-      "content_text": "- **Kalshi prices just a 15 percent chance of Los Angeles topping an inch of rain in October, with the city at 0.69 inches so far, Fox Weather reports** — Fox Weather reports Kalshi's monthly rainfall market for Los Angeles gives a 15 percent chance of more than an inch of rain by the end of October, after the National Weather Service measured 0.69 inches in the city so far this month, with wet weather expected to persist into the final days. ([Fox Weather](https://www.foxweather.com/weather-news/how-much-rain-los-angeles-end-october-kalshi))",
-      "content_html": "<p>- **Kalshi prices just a 15 percent chance of Los Angeles topping an inch of rain in October, with the city at 0.69 inches so far, Fox Weather reports** — Fox Weather reports Kalshi&#x27;s monthly rainfall market for Los Angeles gives a 15 percent chance of more than an inch of rain by the end of October, after the National Weather Service measured 0.69 inches in the city so far this month, with wet weather expected to persist into the final days. ([Fox Weather](https://www.foxweather.com/weather-news/how-much-rain-los-angeles-end-october-kalshi))</p>",
-      "date_published": "2026-10-30T16:30:00-04:00",
-      "date_modified": "2026-10-30T16:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": "https://www.foxweather.com/weather-news/how-much-rain-los-angeles-end-october-kalshi",
-      "links": [
-        "https://www.foxweather.com/weather-news/how-much-rain-los-angeles-end-october-kalshi"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:30 PM ET",
-      "body": "- **Kalshi prices just a 15 percent chance of Los Angeles topping an inch of rain in October, with the city at 0.69 inches so far, Fox Weather reports** — Fox Weather reports Kalshi's monthly rainfall market for Los Angeles gives a 15 percent chance of more than an inch of rain by the end of October, after the National Weather Service measured 0.69 inches in the city so far this month, with wet weather expected to persist into the final days. ([Fox Weather](https://www.foxweather.com/weather-news/how-much-rain-los-angeles-end-october-kalshi))",
-      "image_url": null,
-      "published": "2026-10-30T16:30:00-04:00",
-      "source": "2026-10-30_1630-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1630-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1630-edt-1",
-      "title": "Polymarket prices Apple at 93 percent to end October as the world's largest company, with NVIDIA at 8 percent on 1.2 million dollars of volume",
-      "content_text": "- **Polymarket prices Apple at 93 percent to end October as the world's largest company, with NVIDIA at 8 percent on 1.2 million dollars of volume** — Polymarket's largest company market for the end of October prices Apple at 93 percent and NVIDIA at 8 percent, with 1.2 million dollars traded since the market opened on October 1 ahead of its October 31 resolution. ([Polymarket](https://polymarket.com/event/largest-company-end-of-october-2026))",
-      "content_html": "<p>- **Polymarket prices Apple at 93 percent to end October as the world&#x27;s largest company, with NVIDIA at 8 percent on 1.2 million dollars of volume** — Polymarket&#x27;s largest company market for the end of October prices Apple at 93 percent and NVIDIA at 8 percent, with 1.2 million dollars traded since the market opened on October 1 ahead of its October 31 resolution. ([Polymarket](https://polymarket.com/event/largest-company-end-of-october-2026))</p>",
-      "date_published": "2026-10-30T16:30:00-04:00",
-      "date_modified": "2026-10-30T16:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://polymarket.com/event/largest-company-end-of-october-2026",
-      "links": [
-        "https://polymarket.com/event/largest-company-end-of-october-2026"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:30 PM ET",
-      "body": "- **Polymarket prices Apple at 93 percent to end October as the world's largest company, with NVIDIA at 8 percent on 1.2 million dollars of volume** — Polymarket's largest company market for the end of October prices Apple at 93 percent and NVIDIA at 8 percent, with 1.2 million dollars traded since the market opened on October 1 ahead of its October 31 resolution. ([Polymarket](https://polymarket.com/event/largest-company-end-of-october-2026))",
-      "image_url": null,
-      "published": "2026-10-30T16:30:00-04:00",
-      "source": "2026-10-30_1630-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1630-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1630-edt-2",
-      "title": "PitchBook research puts Kalshi on course for more than 1 billion dollars in adjusted earnings in 2026, InGame reports",
-      "content_text": "- **PitchBook research puts Kalshi on course for more than 1 billion dollars in adjusted earnings in 2026, InGame reports** — InGame reports PitchBook research estimating Kalshi's 2026 gross revenue at 3.7 billion dollars and its adjusted earnings at more than 1 billion dollars, with implied valuations of 42.3 billion dollars for Kalshi and 20.6 billion dollars for Polymarket. ([InGame](https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/))",
-      "content_html": "<p>- **PitchBook research puts Kalshi on course for more than 1 billion dollars in adjusted earnings in 2026, InGame reports** — InGame reports PitchBook research estimating Kalshi&#x27;s 2026 gross revenue at 3.7 billion dollars and its adjusted earnings at more than 1 billion dollars, with implied valuations of 42.3 billion dollars for Kalshi and 20.6 billion dollars for Polymarket. ([InGame](https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/))</p>",
-      "date_published": "2026-10-30T16:30:00-04:00",
-      "date_modified": "2026-10-30T16:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": "https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/",
-      "links": [
-        "https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:30 PM ET",
-      "body": "- **PitchBook research puts Kalshi on course for more than 1 billion dollars in adjusted earnings in 2026, InGame reports** — InGame reports PitchBook research estimating Kalshi's 2026 gross revenue at 3.7 billion dollars and its adjusted earnings at more than 1 billion dollars, with implied valuations of 42.3 billion dollars for Kalshi and 20.6 billion dollars for Polymarket. ([InGame](https://www.ingame.com/kalshi-adjusted-earnings-pitchbook/))",
-      "image_url": null,
-      "published": "2026-10-30T16:30:00-04:00",
-      "source": "2026-10-30_1630-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1630-edt-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1630-edt-3",
-      "title": "Kalshi prices Arizona Governor Katie Hobbs at 90 percent and Polymarket at 92 percent in the final polls roundup, AZCentral reports",
-      "content_text": "- **Kalshi prices Arizona Governor Katie Hobbs at 90 percent and Polymarket at 92 percent in the final polls roundup, AZCentral reports** — AZCentral reports final pre-election polling shows Democratic Governor Katie Hobbs leading Representative Andy Biggs in eight October polls of the Arizona governor's race, with prediction markets pricing Hobbs at 90 percent on Kalshi and 92 percent on Polymarket as of October 29. ([AZCentral](https://www.azcentral.com/story/news/politics/elections/2026/10/30/arizona-governors-race-final-polls/92404056007/))",
-      "content_html": "<p>- **Kalshi prices Arizona Governor Katie Hobbs at 90 percent and Polymarket at 92 percent in the final polls roundup, AZCentral reports** — AZCentral reports final pre-election polling shows Democratic Governor Katie Hobbs leading Representative Andy Biggs in eight October polls of the Arizona governor&#x27;s race, with prediction markets pricing Hobbs at 90 percent on Kalshi and 92 percent on Polymarket as of October 29. ([AZCentral](https://www.azcentral.com/story/news/politics/elections/2026/10/30/arizona-governors-race-final-polls/92404056007/))</p>",
-      "date_published": "2026-10-30T16:30:00-04:00",
-      "date_modified": "2026-10-30T16:30:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": "https://www.azcentral.com/story/news/politics/elections/2026/10/30/arizona-governors-race-final-polls/92404056007/",
-      "links": [
-        "https://www.azcentral.com/story/news/politics/elections/2026/10/30/arizona-governors-race-final-polls/92404056007/"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:30 PM ET",
-      "body": "- **Kalshi prices Arizona Governor Katie Hobbs at 90 percent and Polymarket at 92 percent in the final polls roundup, AZCentral reports** — AZCentral reports final pre-election polling shows Democratic Governor Katie Hobbs leading Representative Andy Biggs in eight October polls of the Arizona governor's race, with prediction markets pricing Hobbs at 90 percent on Kalshi and 92 percent on Polymarket as of October 29. ([AZCentral](https://www.azcentral.com/story/news/politics/elections/2026/10/30/arizona-governors-race-final-polls/92404056007/))",
-      "image_url": null,
-      "published": "2026-10-30T16:30:00-04:00",
-      "source": "2026-10-30_1630-edt.json",
       "matches_facebook_post": false
     }
   ]
