@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-31T00:00:40.530904-04:00",
+  "updated": "2026-10-31T00:27:24.041608-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,39 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-31_0024-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_0024-edt",
+      "title": "Infiniti Briefing",
+      "content_text": "Infiniti Briefing\n\nDenver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nMark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded\nPredictionBubbles' movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "content_html": "<p>Infiniti Briefing<br/><br/>Denver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/>https://defirate.com/odds/sports/<br/><br/>Mark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded<br/>PredictionBubbles&#x27; movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…<br/>#PredictionMarkets #Polymarket<br/>https://predictionbubbles.net/markets/movers/<br/><br/>https://infiniti.w3ai.io/infiniti-feed</p>",
+      "date_published": "2026-10-31T00:24:00-04:00",
+      "date_modified": "2026-10-31T00:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": "https://defirate.com/odds/sports/",
+      "links": [
+        "https://defirate.com/odds/sports/",
+        "https://predictionbubbles.net/markets/movers/"
+      ],
+      "timestamp": "Oct 31, 2026 · 12:24 AM ET",
+      "body": "Infiniti Briefing\n\nDenver vs Phoenix is among the most traded sports markets in the last 24 hours at $2M on Kalshi, with Denver at 91%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held on Oct. 30 (the Kalshi 76ers partner…\n#PredictionMarkets #Kalshi #Polymarket #Elections\nhttps://defirate.com/odds/sports/\n\nMark Rutte visit Ukraine by December 31, 2026 priced at 58.5% on Polymarket, up 13.0 points, on $111K traded\nPredictionBubbles' movers board, on its Oct. 31, 04:24 UTC crawl with data read at Oct. 31, 03:38 UTC at 2,017 markets ranked with 509 moving at least 1 point in 24…\n#PredictionMarkets #Polymarket\nhttps://predictionbubbles.net/markets/movers/\n\nhttps://infiniti.w3ai.io/infiniti-feed",
+      "image_url": null,
+      "published": "2026-10-31T00:24:00-04:00",
+      "source": "2026-10-31_0024-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-10-30_2354-edt",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-30_2354-edt",
@@ -4663,33 +4696,6 @@
       ],
       "timestamp": "Oct 30, 2026 · 4:15 PM ET",
       "body": "- **Kalshi prices the Bengals at 84.5 percent over the Titans as the biggest Sunday favorite, with the Chiefs at 52.5 percent at the Broncos the closest game, iPredicta reports** — iPredicta reports Kalshi prices for the Sunday, November 1 NFL slate as of October 30, led by Cincinnati at 84.5 percent against Tennessee and Jacksonville at 80.5 percent against Indianapolis, while Kansas City at Denver is the tightest board at 52.5 percent to 47.5 percent. ([iPredicta](https://ipredicta.co/nfl/))",
-      "image_url": null,
-      "published": "2026-10-30T16:15:00-04:00",
-      "source": "2026-10-30_1615-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-30_1615-edt-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-30_1615-edt-2",
-      "title": "Crypto perpetual contracts value Anthropic at about 1.9 trillion dollars ahead of its IPO, near the top of the reported range, Unchained reports",
-      "content_text": "- **Crypto perpetual contracts value Anthropic at about 1.9 trillion dollars ahead of its IPO, near the top of the reported range, Unchained reports** — Unchained reports pre-IPO perpetual contracts on seven crypto venues imply an Anthropic valuation between 1.87 trillion and 1.92 trillion dollars, and that seven earlier pre-IPO contracts missed the opening trade by about 25 percent on average once their companies listed. ([Unchained](https://unchainedcrypto.com/is-crypto-overpricing-anthropic/))",
-      "content_html": "<p>- **Crypto perpetual contracts value Anthropic at about 1.9 trillion dollars ahead of its IPO, near the top of the reported range, Unchained reports** — Unchained reports pre-IPO perpetual contracts on seven crypto venues imply an Anthropic valuation between 1.87 trillion and 1.92 trillion dollars, and that seven earlier pre-IPO contracts missed the opening trade by about 25 percent on average once their companies listed. ([Unchained](https://unchainedcrypto.com/is-crypto-overpricing-anthropic/))</p>",
-      "date_published": "2026-10-30T16:15:00-04:00",
-      "date_modified": "2026-10-30T16:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": "https://unchainedcrypto.com/is-crypto-overpricing-anthropic/",
-      "links": [
-        "https://unchainedcrypto.com/is-crypto-overpricing-anthropic/"
-      ],
-      "timestamp": "Oct 30, 2026 · 4:15 PM ET",
-      "body": "- **Crypto perpetual contracts value Anthropic at about 1.9 trillion dollars ahead of its IPO, near the top of the reported range, Unchained reports** — Unchained reports pre-IPO perpetual contracts on seven crypto venues imply an Anthropic valuation between 1.87 trillion and 1.92 trillion dollars, and that seven earlier pre-IPO contracts missed the opening trade by about 25 percent on average once their companies listed. ([Unchained](https://unchainedcrypto.com/is-crypto-overpricing-anthropic/))",
       "image_url": null,
       "published": "2026-10-30T16:15:00-04:00",
       "source": "2026-10-30_1615-edt.json",
