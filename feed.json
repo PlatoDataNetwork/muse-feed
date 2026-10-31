@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-10-31T18:14:27.064798-04:00",
+  "updated": "2026-10-31T18:28:19.910901-04:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,35 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-10-31_1824-edt",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-10-31_1824-edt",
+      "title": "Sports paid $1.4B of prediction-market volume in the last 24 hours, with crypto at $415M down 20%",
+      "content_text": "Infiniti Prediction Markets\n\nSports paid $1.4B of prediction-market volume in the last 24 hours, with crypto at $415M down 20%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange…\n#PredictionMarkets #Midterms\n\nTulane vs Charlotte is among the most traded markets in the last 24 hours at $11M on Kalshi\nDeFi Rate's volume tracker, on the same Oct. 31, 2:30 PM ET snapshot, lists the Tulane vs Charlotte game third among its most-traded markets of the last 24 hours at $11M…\n#PredictionMarkets #Kalshi\n\nBaylor vs UCF is among the most traded markets in the last 24 hours at $10M on Kalshi\nDeFi Rate's volume tracker, on the same Oct. 31, 2:30 PM ET snapshot, lists the Baylor vs UCF game sixth among its most-traded markets of the last 24 hours at $10M in…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Sports paid $1.4B of prediction-market volume in the last 24 hours, with crypto at $415M down 20%<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange…<br/>#PredictionMarkets #Midterms<br/><br/>Tulane vs Charlotte is among the most traded markets in the last 24 hours at $11M on Kalshi<br/>DeFi Rate&#x27;s volume tracker, on the same Oct. 31, 2:30 PM ET snapshot, lists the Tulane vs Charlotte game third among its most-traded markets of the last 24 hours at $11M…<br/>#PredictionMarkets #Kalshi<br/><br/>Baylor vs UCF is among the most traded markets in the last 24 hours at $10M on Kalshi<br/>DeFi Rate&#x27;s volume tracker, on the same Oct. 31, 2:30 PM ET snapshot, lists the Baylor vs UCF game sixth among its most-traded markets of the last 24 hours at $10M in…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-10-31T18:24:00-04:00",
+      "date_modified": "2026-10-31T18:24:00-04:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Oct 31, 2026 · 6:24 PM ET",
+      "body": "Infiniti Prediction Markets\n\nSports paid $1.4B of prediction-market volume in the last 24 hours, with crypto at $415M down 20%\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the NBA preferred-exchange…\n#PredictionMarkets #Midterms\n\nTulane vs Charlotte is among the most traded markets in the last 24 hours at $11M on Kalshi\nDeFi Rate's volume tracker, on the same Oct. 31, 2:30 PM ET snapshot, lists the Tulane vs Charlotte game third among its most-traded markets of the last 24 hours at $11M…\n#PredictionMarkets #Kalshi\n\nBaylor vs UCF is among the most traded markets in the last 24 hours at $10M on Kalshi\nDeFi Rate's volume tracker, on the same Oct. 31, 2:30 PM ET snapshot, lists the Baylor vs UCF game sixth among its most-traded markets of the last 24 hours at $10M in…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-10-31T18:24:00-04:00",
+      "source": "2026-10-31_1824-edt.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-10-31_1815-edt-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_1815-edt-0",
@@ -4332,35 +4361,6 @@
       "image_url": null,
       "published": "2026-10-31T11:24:00-04:00",
       "source": "2026-10-31_1124-edt.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-31_1115-edt-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_1115-edt-0",
-      "title": "Polymarket launches 15-minute gold and silver markets with Chainlink as official oracle, building on 11 billion dollars in powered volume, PR Newswire reports",
-      "content_text": "- **Polymarket launches 15-minute gold and silver markets with Chainlink as official oracle, building on 11 billion dollars in powered volume, PR Newswire reports** — Polymarket's 15-minute up-or-down gold and silver markets are now live, its first fast markets outside crypto prices, settled with Chainlink pricing delivered through Data Streams. The expanded partnership builds on more than 11 billion dollars in 5- and 15-minute crypto market volume, with more commodities, equities and forex planned. (PR Newswire)",
-      "content_html": "<p>- **Polymarket launches 15-minute gold and silver markets with Chainlink as official oracle, building on 11 billion dollars in powered volume, PR Newswire reports** — Polymarket&#x27;s 15-minute up-or-down gold and silver markets are now live, its first fast markets outside crypto prices, settled with Chainlink pricing delivered through Data Streams. The expanded partnership builds on more than 11 billion dollars in 5- and 15-minute crypto market volume, with more commodities, equities and forex planned. (PR Newswire)</p>",
-      "date_published": "2026-10-31T11:15:00-04:00",
-      "date_modified": "2026-10-31T11:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Gold",
-        "Silver"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Oct 31, 2026 · 11:15 AM ET",
-      "body": "- **Polymarket launches 15-minute gold and silver markets with Chainlink as official oracle, building on 11 billion dollars in powered volume, PR Newswire reports** — Polymarket's 15-minute up-or-down gold and silver markets are now live, its first fast markets outside crypto prices, settled with Chainlink pricing delivered through Data Streams. The expanded partnership builds on more than 11 billion dollars in 5- and 15-minute crypto market volume, with more commodities, equities and forex planned. (PR Newswire)",
-      "image_url": null,
-      "published": "2026-10-31T11:15:00-04:00",
-      "source": "2026-10-31_1115-edt.json",
       "matches_facebook_post": false
     }
   ]
