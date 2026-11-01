@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-01T09:49:44.598888-05:00",
+  "updated": "2026-11-01T09:58:38.337286-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-01_0954-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-01_0954-est",
+      "title": "Predictions.io tracks 1,670 validated Polymarket-Kalshi question matches, with Polymarket carrying $6.3B of volume on 2,932 open questions against Kalshi's $2.3B on 6,455 open questions",
+      "content_text": "Infiniti Prediction Markets\n\nPredictions.io tracks 1,670 validated Polymarket-Kalshi question matches, with Polymarket carrying $6.3B of volume on 2,932 open questions against Kalshi's $2.3B on 6,455 open questions\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Polymarket…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nLos Angeles C wins priced at 46c on Kalshi, up 20c, with 37K contracts traded in 24 hours\nPredictionMarketPicks' Kalshi leaderboard, on its Nov. 1, 9:40 AM EST snapshot across 289 priced contracts in 20 series, ranks the Los Angeles C game contract for the…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Predictions.io tracks 1,670 validated Polymarket-Kalshi question matches, with Polymarket carrying $6.3B of volume on 2,932 open questions against Kalshi&#x27;s $2.3B on 6,455 open questions<br/>No significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Polymarket…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>Los Angeles C wins priced at 46c on Kalshi, up 20c, with 37K contracts traded in 24 hours<br/>PredictionMarketPicks&#x27; Kalshi leaderboard, on its Nov. 1, 9:40 AM EST snapshot across 289 priced contracts in 20 series, ranks the Los Angeles C game contract for the…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-01T09:54:00-05:00",
+      "date_modified": "2026-11-01T09:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 1, 2026 · 9:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nPredictions.io tracks 1,670 validated Polymarket-Kalshi question matches, with Polymarket carrying $6.3B of volume on 2,932 open questions against Kalshi's $2.3B on 6,455 open questions\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held today (the Polymarket…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nLos Angeles C wins priced at 46c on Kalshi, up 20c, with 37K contracts traded in 24 hours\nPredictionMarketPicks' Kalshi leaderboard, on its Nov. 1, 9:40 AM EST snapshot across 289 priced contracts in 20 series, ranks the Los Angeles C game contract for the…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-01T09:54:00-05:00",
+      "source": "2026-11-01_0954-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-01_0945-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_0945-est-0",
@@ -4331,34 +4361,6 @@
       "links": [],
       "timestamp": "Nov 1, 2026 · 3:00 AM ET",
       "body": "- **Las Vegas against New York trades 786,000 dollars in 24 hours with New York priced at 54 cents on Kalshi, DeFi Rate reports** — The Las Vegas against New York game is the tenth most traded prediction market on the DeFi Rate board, with 786,000 dollars traded in 24 hours. New York is priced at 54 cents on Kalshi, and the spread line sits at New York minus 1.5 priced at 51 cents. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-01T03:00:00-05:00",
-      "source": "2026-11-01_0300-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-01_0300-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_0300-est-2",
-      "title": "Bitcoin price up in next 15 minutes contract is the most traded Kalshi market at 66 cents with 143,820 contracts traded in 24 hours, PredictionMarketPicks reports",
-      "content_text": "- **Bitcoin price up in next 15 minutes contract is the most traded Kalshi market at 66 cents with 143,820 contracts traded in 24 hours, PredictionMarketPicks reports** — The contract for the 2:45 AM window is the most traded Kalshi market in the PredictionMarketPicks snapshot at 2:36 AM EST on November 1, priced at 66 cents with 224,268 contracts in open interest. (PredictionMarketPicks)",
-      "content_html": "<p>- **Bitcoin price up in next 15 minutes contract is the most traded Kalshi market at 66 cents with 143,820 contracts traded in 24 hours, PredictionMarketPicks reports** — The contract for the 2:45 AM window is the most traded Kalshi market in the PredictionMarketPicks snapshot at 2:36 AM EST on November 1, priced at 66 cents with 224,268 contracts in open interest. (PredictionMarketPicks)</p>",
-      "date_published": "2026-11-01T03:00:00-05:00",
-      "date_modified": "2026-11-01T03:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 1, 2026 · 3:00 AM ET",
-      "body": "- **Bitcoin price up in next 15 minutes contract is the most traded Kalshi market at 66 cents with 143,820 contracts traded in 24 hours, PredictionMarketPicks reports** — The contract for the 2:45 AM window is the most traded Kalshi market in the PredictionMarketPicks snapshot at 2:36 AM EST on November 1, priced at 66 cents with 224,268 contracts in open interest. (PredictionMarketPicks)",
       "image_url": null,
       "published": "2026-11-01T03:00:00-05:00",
       "source": "2026-11-01_0300-est.json",
