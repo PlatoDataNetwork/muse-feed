@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-01T02:48:37.419657-05:00",
+  "updated": "2026-11-01T02:58:53.479164-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-01_0254-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-01_0254-est",
+      "title": "Trader Eugycom went 27-0 in the last 24 hours on Polymarket, making $210.2K in profit",
+      "content_text": "Infiniti Prediction Markets\n\nTrader Eugycom went 27-0 in the last 24 hours on Polymarket, making $210.2K in profit\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held out on Oct. 31 and Nov. 1 (the Polymarket…\n#PredictionMarkets #Kalshi #Polymarket\n\nBTC trimmed mean above $92,500 by November 30, 2026 priced at 29.0% on Kalshi, on $3K traded\nPredictionBubbles' new-markets list, on its Nov. 1, 07:55 UTC live read, shows the $92,500 Bitcoin trimmed-mean strike among the newest markets on the board, opened…\n#PredictionMarkets #Kalshi #Bitcoin\n\nSeattle win at least 9 games priced at 87c on Kalshi, down 22c, with 1,357 contracts traded in 24 hours\nPredictionMarketPicks' Kalshi leaderboard, on its Nov. 1, 2:36 AM EST snapshot across 283 priced contracts in 20 series, ranks the Seattle win-total contract…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Trader Eugycom went 27-0 in the last 24 hours on Polymarket, making $210.2K in profit<br/>No significant new platform headline in the last 30 minutes; news search recirculated only items already used or held out on Oct. 31 and Nov. 1 (the Polymarket…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>BTC trimmed mean above $92,500 by November 30, 2026 priced at 29.0% on Kalshi, on $3K traded<br/>PredictionBubbles&#x27; new-markets list, on its Nov. 1, 07:55 UTC live read, shows the $92,500 Bitcoin trimmed-mean strike among the newest markets on the board, opened…<br/>#PredictionMarkets #Kalshi #Bitcoin<br/><br/>Seattle win at least 9 games priced at 87c on Kalshi, down 22c, with 1,357 contracts traded in 24 hours<br/>PredictionMarketPicks&#x27; Kalshi leaderboard, on its Nov. 1, 2:36 AM EST snapshot across 283 priced contracts in 20 series, ranks the Seattle win-total contract…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-01T02:54:00-05:00",
+      "date_modified": "2026-11-01T02:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 1, 2026 · 2:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nTrader Eugycom went 27-0 in the last 24 hours on Polymarket, making $210.2K in profit\nNo significant new platform headline in the last 30 minutes; news search recirculated only items already used or held out on Oct. 31 and Nov. 1 (the Polymarket…\n#PredictionMarkets #Kalshi #Polymarket\n\nBTC trimmed mean above $92,500 by November 30, 2026 priced at 29.0% on Kalshi, on $3K traded\nPredictionBubbles' new-markets list, on its Nov. 1, 07:55 UTC live read, shows the $92,500 Bitcoin trimmed-mean strike among the newest markets on the board, opened…\n#PredictionMarkets #Kalshi #Bitcoin\n\nSeattle win at least 9 games priced at 87c on Kalshi, down 22c, with 1,357 contracts traded in 24 hours\nPredictionMarketPicks' Kalshi leaderboard, on its Nov. 1, 2:36 AM EST snapshot across 283 priced contracts in 20 series, ranks the Seattle win-total contract…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-01T02:54:00-05:00",
+      "source": "2026-11-01_0254-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-01_0245-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_0245-est-0",
@@ -4229,34 +4259,6 @@
       "links": [],
       "timestamp": "Oct 31, 2026 · 9:15 PM ET",
       "body": "- **Atlanta wins falls 46 cents to 14 cents on Kalshi as New Orleans wins rises 45 cents to 87 cents, PredictionMarketPicks reports** — The Kalshi market leaderboard for October 31 at 8:47 PM EDT ranks Atlanta wins as the biggest 24-hour mover, down 46 cents on 1.4 million contracts traded, while New Orleans wins rose 45 cents on 773,000 contracts in the same game. (PredictionMarketPicks)",
-      "image_url": null,
-      "published": "2026-10-31T21:15:00-04:00",
-      "source": "2026-10-31_2115-edt.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-10-31_2115-edt-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-10-31_2115-edt-1",
-      "title": "Democratic Senate control rises eight points in seven days to 72 percent on Kalshi, DeFi Rate reports",
-      "content_text": "- **Democratic Senate control rises eight points in seven days to 72 percent on Kalshi, DeFi Rate reports** — DeFi Rate lists who will control the Senate among the biggest seven-day moves, with the Democratic Party rising from 64 percent to 72 percent on Kalshi and 714,000 dollars traded in 24 hours. (DeFi Rate)",
-      "content_html": "<p>- **Democratic Senate control rises eight points in seven days to 72 percent on Kalshi, DeFi Rate reports** — DeFi Rate lists who will control the Senate among the biggest seven-day moves, with the Democratic Party rising from 64 percent to 72 percent on Kalshi and 714,000 dollars traded in 24 hours. (DeFi Rate)</p>",
-      "date_published": "2026-10-31T21:15:00-04:00",
-      "date_modified": "2026-10-31T21:15:00-04:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Oct 31, 2026 · 9:15 PM ET",
-      "body": "- **Democratic Senate control rises eight points in seven days to 72 percent on Kalshi, DeFi Rate reports** — DeFi Rate lists who will control the Senate among the biggest seven-day moves, with the Democratic Party rising from 64 percent to 72 percent on Kalshi and 714,000 dollars traded in 24 hours. (DeFi Rate)",
       "image_url": null,
       "published": "2026-10-31T21:15:00-04:00",
       "source": "2026-10-31_2115-edt.json",
