@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-02T03:16:07.065037-05:00",
+  "updated": "2026-11-02T03:25:35.711769-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "article-2026-11-02_batch4-taxes",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-11-02_batch4-taxes",
+      "title": "Won the Trade, Met the Tax Man: The Unsettled Tax Life of a Prediction-Market Dollar",
+      "content_text": "Won the Trade, Met the Tax Man: The Unsettled Tax Life of a Prediction-Market Dollar\n\nEvery winning trade creates two events: the settlement, and the tax question. In the United States, prediction-market profits are taxable income whether or not any platform sends you a form, and that is where the certainty ends. As of 2026, the IRS has issued no specific guidance on event contracts, which leaves traders and their accountants arguing about a deceptively simple question: what, exactly, is a prediction-market dollar?\n\nThree answers circulate in professional practice. The conservative one treats net profits as ordinary income, taxed at marginal rates from 10% to 37%, with net losses simply not deductible. The common middle position reports gains as capital gains. The most favorable, and the most contested, is Section 1256: contracts traded on a CFTC-regulated designated contract market are argued to qualify for the futures-style 60/40 blend, 60% long-term and 40% short-term regardless of holding period. One worked example puts a 32%-bracket trader with $50,000 of gains at roughly $10,900 of federal tax under Section 1256 against about $16,000 at ordinary rates. The catch is qualification: the IRS has historically read Section 1256 narrowly, and no ruling blesses event contracts by name.\n\nThe fourth possibility is the one traders least want to hear: gambling treatment. Under it, winnings are ordinary income and losses are deductible only by itemizers, and only against winnings. Worse, starting with the 2026 tax year, a new federal cap limits gambling-loss deductions to 90% of losses, which can leave a break-even bettor owing tax on income they never kept. Whether sports event contracts fall on the gambling side of the line is precisely the kind of question the missing IRS guidance would answer.\n\nReporting adds its own friction. Tax guides disagree about what platforms send: Kalshi provides profit-and-loss statements and may issue forms for interest and rewards, while several guides report that neither Kalshi nor Polymarket issues a 1099 covering trading gains, leaving the reporting burden on the trader either way. Crypto-settled platforms add a second ledger, because moving stablecoins in and out can itself create records to reconcile. State treatment varies too; some states follow the federal approach and others do not.\n\nThe practical discipline is boring and decisive: keep every trade record, reconcile it against whatever the platform reports, and decide the characterization question with a professional before filing, not after a notice arrives. This article is general information about a genuinely unsettled area, not tax advice. The market prices uncertainty for a living. On taxes, for now, traders have to hold it themselves.\n\nSources: Oddschecker; KeeperTax; Count On Sheep; Kalshi View\n#infiniti #infinitimarkets #predictionmarkets #taxes #kalshi #polymarket\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/won-the-trade-met-the-tax-man-the-unsettled-tax-life-of-a-prediction-m",
+      "content_html": "<p>Won the Trade, Met the Tax Man: The Unsettled Tax Life of a Prediction-Market Dollar<br/><br/>Every winning trade creates two events: the settlement, and the tax question. In the United States, prediction-market profits are taxable income whether or not any platform sends you a form, and that is where the certainty ends. As of 2026, the IRS has issued no specific guidance on event contracts, which leaves traders and their accountants arguing about a deceptively simple question: what, exactly, is a prediction-market dollar?<br/><br/>Three answers circulate in professional practice. The conservative one treats net profits as ordinary income, taxed at marginal rates from 10% to 37%, with net losses simply not deductible. The common middle position reports gains as capital gains. The most favorable, and the most contested, is Section 1256: contracts traded on a CFTC-regulated designated contract market are argued to qualify for the futures-style 60/40 blend, 60% long-term and 40% short-term regardless of holding period. One worked example puts a 32%-bracket trader with $50,000 of gains at roughly $10,900 of federal tax under Section 1256 against about $16,000 at ordinary rates. The catch is qualification: the IRS has historically read Section 1256 narrowly, and no ruling blesses event contracts by name.<br/><br/>The fourth possibility is the one traders least want to hear: gambling treatment. Under it, winnings are ordinary income and losses are deductible only by itemizers, and only against winnings. Worse, starting with the 2026 tax year, a new federal cap limits gambling-loss deductions to 90% of losses, which can leave a break-even bettor owing tax on income they never kept. Whether sports event contracts fall on the gambling side of the line is precisely the kind of question the missing IRS guidance would answer.<br/><br/>Reporting adds its own friction. Tax guides disagree about what platforms send: Kalshi provides profit-and-loss statements and may issue forms for interest and rewards, while several guides report that neither Kalshi nor Polymarket issues a 1099 covering trading gains, leaving the reporting burden on the trader either way. Crypto-settled platforms add a second ledger, because moving stablecoins in and out can itself create records to reconcile. State treatment varies too; some states follow the federal approach and others do not.<br/><br/>The practical discipline is boring and decisive: keep every trade record, reconcile it against whatever the platform reports, and decide the characterization question with a professional before filing, not after a notice arrives. This article is general information about a genuinely unsettled area, not tax advice. The market prices uncertainty for a living. On taxes, for now, traders have to hold it themselves.<br/><br/>Sources: Oddschecker; KeeperTax; Count On Sheep; Kalshi View<br/>#infiniti #infinitimarkets #predictionmarkets #taxes #kalshi #polymarket<br/>web: Infiniti.w3ai.io<br/>Infiniti Prediction Markets<br/>https://infiniti.w3ai.io/intelligence/won-the-trade-met-the-tax-man-the-unsettled-tax-life-of-a-prediction-m</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch4-taxes.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
+      "date_published": "2026-11-02T03:25:20-05:00",
+      "date_modified": "2026-11-02T03:25:20-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "taxes",
+        "irs",
+        "section 1256",
+        "kalshi",
+        "polymarket"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch4-taxes.jpg",
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 2, 2026 · 3:25 AM ET",
+      "body": "Won the Trade, Met the Tax Man: The Unsettled Tax Life of a Prediction-Market Dollar\n\nEvery winning trade creates two events: the settlement, and the tax question. In the United States, prediction-market profits are taxable income whether or not any platform sends you a form, and that is where the certainty ends. As of 2026, the IRS has issued no specific guidance on event contracts, which leaves traders and their accountants arguing about a deceptively simple question: what, exactly, is a prediction-market dollar?\n\nThree answers circulate in professional practice. The conservative one treats net profits as ordinary income, taxed at marginal rates from 10% to 37%, with net losses simply not deductible. The common middle position reports gains as capital gains. The most favorable, and the most contested, is Section 1256: contracts traded on a CFTC-regulated designated contract market are argued to qualify for the futures-style 60/40 blend, 60% long-term and 40% short-term regardless of holding period. One worked example puts a 32%-bracket trader with $50,000 of gains at roughly $10,900 of federal tax under Section 1256 against about $16,000 at ordinary rates. The catch is qualification: the IRS has historically read Section 1256 narrowly, and no ruling blesses event contracts by name.\n\nThe fourth possibility is the one traders least want to hear: gambling treatment. Under it, winnings are ordinary income and losses are deductible only by itemizers, and only against winnings. Worse, starting with the 2026 tax year, a new federal cap limits gambling-loss deductions to 90% of losses, which can leave a break-even bettor owing tax on income they never kept. Whether sports event contracts fall on the gambling side of the line is precisely the kind of question the missing IRS guidance would answer.\n\nReporting adds its own friction. Tax guides disagree about what platforms send: Kalshi provides profit-and-loss statements and may issue forms for interest and rewards, while several guides report that neither Kalshi nor Polymarket issues a 1099 covering trading gains, leaving the reporting burden on the trader either way. Crypto-settled platforms add a second ledger, because moving stablecoins in and out can itself create records to reconcile. State treatment varies too; some states follow the federal approach and others do not.\n\nThe practical discipline is boring and decisive: keep every trade record, reconcile it against whatever the platform reports, and decide the characterization question with a professional before filing, not after a notice arrives. This article is general information about a genuinely unsettled area, not tax advice. The market prices uncertainty for a living. On taxes, for now, traders have to hold it themselves.\n\nSources: Oddschecker; KeeperTax; Count On Sheep; Kalshi View\n#infiniti #infinitimarkets #predictionmarkets #taxes #kalshi #polymarket\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/won-the-trade-met-the-tax-man-the-unsettled-tax-life-of-a-prediction-m",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch4-taxes.jpg",
+      "published": "2026-11-02T03:25:20-05:00",
+      "source": "2026-11-02_batch4-taxes.json",
+      "matches_facebook_post": false,
+      "kind": "article"
+    },
     {
       "id": "web-2026-11-02_0315-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0315-est-0",
@@ -4363,33 +4395,6 @@
       "links": [],
       "timestamp": "Nov 1, 2026 · 8:30 PM ET",
       "body": "- **Kalshi prices Jean-Luc Melenchon at 8 cents against 13 cents on Polymarket in the next French presidential election market, PicksByOdds reports** — PicksByOdds' same-question comparison for November 1 lists Jean-Luc Melenchon in the next French presidential election market at 8 cents on Kalshi against 13 cents on Polymarket, a 5-point gap between the two venues. The pair is among the widest verified gaps the tracker shows between the exchanges. (PicksByOdds)",
-      "image_url": null,
-      "published": "2026-11-01T20:30:00-05:00",
-      "source": "2026-11-01_2030-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-01_2030-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_2030-est-4",
-      "title": "Spot gold ends the week near 3,875 dollars with 63 percent of surveyed Wall Street analysts expecting lower prices, FinanceFeeds reports",
-      "content_text": "- **Spot gold ends the week near 3,875 dollars with 63 percent of surveyed Wall Street analysts expecting lower prices, FinanceFeeds reports** — FinanceFeeds reports spot gold ended Friday, October 30 at about 3,875 dollars an ounce, down 3.74 percent on the week, with Kitco's survey showing 10 of 16 Wall Street analysts expecting lower prices this week and only one expecting a gain. Retail voters in the same survey still leaned higher, with 53 percent expecting a rise. (FinanceFeeds)",
-      "content_html": "<p>- **Spot gold ends the week near 3,875 dollars with 63 percent of surveyed Wall Street analysts expecting lower prices, FinanceFeeds reports** — FinanceFeeds reports spot gold ended Friday, October 30 at about 3,875 dollars an ounce, down 3.74 percent on the week, with Kitco&#x27;s survey showing 10 of 16 Wall Street analysts expecting lower prices this week and only one expecting a gain. Retail voters in the same survey still leaned higher, with 53 percent expecting a rise. (FinanceFeeds)</p>",
-      "date_published": "2026-11-01T20:30:00-05:00",
-      "date_modified": "2026-11-01T20:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Gold"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 1, 2026 · 8:30 PM ET",
-      "body": "- **Spot gold ends the week near 3,875 dollars with 63 percent of surveyed Wall Street analysts expecting lower prices, FinanceFeeds reports** — FinanceFeeds reports spot gold ended Friday, October 30 at about 3,875 dollars an ounce, down 3.74 percent on the week, with Kitco's survey showing 10 of 16 Wall Street analysts expecting lower prices this week and only one expecting a gain. Retail voters in the same survey still leaned higher, with 53 percent expecting a rise. (FinanceFeeds)",
       "image_url": null,
       "published": "2026-11-01T20:30:00-05:00",
       "source": "2026-11-01_2030-est.json",
