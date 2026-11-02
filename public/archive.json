@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "article-2026-11-02_batch5-ai-agents",
+      "slug": "the-machines-are-the-market-now-ai-agents-take-their-seats-on-the-book",
+      "title": "The Machines Are the Market Now: AI Agents Take Their Seats on the Book",
+      "body": "The Machines Are the Market Now: AI Agents Take Their Seats on the Book\n\nLook at who actually makes money on the biggest prediction market and a pattern jumps out: fourteen of the twenty most profitable wallets on Polymarket are bots, according to FXVerify's reporting. One wallet turned roughly $300 into more than $400,000 in a single month by trading fifteen-minute Bitcoin, Ethereum and Solana contracts, exploiting the small lag between prices on the big crypto exchanges and prices on the prediction market. A 2025 study of a full year of Polymarket trading estimated arbitrage strategies extracted about $40 million from the platform. The fastest money in forecasting is no longer forecasting at all. It is plumbing.\n\nThat division of labor is becoming the market's structure. Machines excel at the mechanical edges: scanning order books for mispriced pairs, arbitraging the same event across venues, quoting both sides of thin markets and tightening spreads for everyone else. The infrastructure now assumes non-human customers. Polymarket's data and trading APIs are built for programmatic access, model-context-protocol servers stream live order books directly into AI agent frameworks, venues market themselves to autonomous agents, and purpose-built agents trade around the clock without sleep, fear or a favorite team.\n\nBut give the machines the actual forecasting job and the record humbles quickly. In the Prediction Arena experiment, six frontier AI models traded autonomously on Kalshi for 57 days and every one of them lost money, down between 16% and 31%. More research did not rescue them; the study found the volume of a model's research had little correlation with its returns. Meanwhile the profit distribution stays brutally concentrated: a Wall Street Journal analysis found about 67% of Polymarket's profit accrues to the top 0.1% of accounts, a leaderboard dominated by speed, size and systems rather than opinions.\n\nThe synthesis is the story. Prediction markets are becoming machine-readable probability infrastructure, a layer where prices are quoted in an API, consumed by software, and increasingly set by software too. That makes markets faster, tighter and harder to fool with stale prices. It does not make them oracles. The bots earn by correcting the price; the price still needs humans, with information and conviction, to be worth correcting toward.\n\nFor everyone else, the practical lesson is the same one Article One of this series delivered from the other side: know which game you are playing. Against a latency bot, a human clicking a price is the exit liquidity. In a slow, information-driven market, the machine is just another counterparty. The book now seats both species, and the edge belongs to whoever knows which seat they are in.\n\nSources: FXVerify; Prediction Arena study; Wall Street Journal\n#infiniti #infinitimarkets #predictionmarkets #aiagents #polymarket #kalshi\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/the-machines-are-the-market-now-ai-agents-take-their-seats-on-the-book",
+      "timestamp": "2026-11-02T04:32:41-05:00",
+      "image": "article-2026-11-02_batch5-ai-agents.jpg",
+      "kind": "article"
+    },
+    {
+      "id": "web-2026-11-02_0430-est-0",
+      "slug": "whale-and-smart-money-wallets-show-the-strongest-signal-on-democrats-c",
+      "title": "Whale and smart-money wallets show the strongest signal on Democrats controlling the House at 95 percent with 234,000 dollars in signal volume, CoinStats reports",
+      "body": "- **Whale and smart-money wallets show the strongest signal on Democrats controlling the House at 95 percent with 234,000 dollars in signal volume, CoinStats reports** — CoinStats, in a snapshot refreshed on November 2, scores the House market at plus 2, with whales buying Yes and smart money showing a strong Yes signal on 234,000 dollars of signal volume. The same board prices Democrats controlling the Senate at 73 percent and a Democratic win in the Michigan Senate race at 79 percent. (CoinStats)",
+      "timestamp": "2026-11-02T04:30:00-05:00",
+      "image": null,
+      "kind": "web"
+    },
+    {
+      "id": "web-2026-11-02_0430-est-1",
+      "slug": "aj-dybantsa-shows-the-widest-cross-venue-gap-at-5-5-points-in-the-nba",
+      "title": "AJ Dybantsa shows the widest cross-venue gap at 5.5 points in the NBA Rookie of the Year market, at 17 cents on Polymarket against 11 cents on Kalshi, WIN Daily reports",
+      "body": "- **AJ Dybantsa shows the widest cross-venue gap at 5.5 points in the NBA Rookie of the Year market, at 17 cents on Polymarket against 11 cents on Kalshi, WIN Daily reports** — WIN Daily, with prices refreshing about every 40 minutes on November 2, lists the Dybantsa gap as the biggest between the two exchanges, followed by Georgia in the college football championship market at 15 cents on Polymarket against 20 cents on Kalshi for a 4.6 point gap. The board prices Texas Senate favorite James Talarico at 72 cents on both venues. (WIN Daily)",
+      "timestamp": "2026-11-02T04:30:00-05:00",
+      "image": null,
+      "kind": "web"
+    },
+    {
+      "id": "web-2026-11-02_0430-est-2",
+      "slug": "prizepicks-launches-prediction-markets-with-kalshi-in-38-states-and-wa",
+      "title": "PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, with sports contracts in 15 states, GambleRss reports",
+      "body": "- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, with sports contracts in 15 states, GambleRss reports** — GambleRss reports PrizePicks has partnered with Kalshi to launch prediction markets directly in the PrizePicks app, after securing FCM approval to partner with a designated contract market. Sports event contracts sit under the Team Picks hub in 15 states, while the Culture Picks banner covers music, movies, politics and more. (GambleRss)",
+      "timestamp": "2026-11-02T04:30:00-05:00",
+      "image": null,
+      "kind": "web"
+    },
+    {
+      "id": "web-2026-11-02_0430-est-3",
+      "slug": "defillama-and-trueo-launch-defi-revenue-and-exploit-prediction-markets",
+      "title": "DefiLlama and Trueo launch DeFi revenue and exploit prediction markets settling on DefiLlama data, Coinscreamer reports",
+      "body": "- **DefiLlama and Trueo launch DeFi revenue and exploit prediction markets settling on DefiLlama data, Coinscreamer reports** — Coinscreamer reports DefiLlama is featuring new Trueo prediction markets that settle using its analytics data, covering protocol revenue, exploit risk and onchain metrics. Revenue contracts cover Hyperliquid, Pump.fun, Aero Protocol, Uniswap, Collector Crypt and Papertrade, alongside markets on whether Aave or Morpho experiences an exploit during the month. (Coinscreamer)",
+      "timestamp": "2026-11-02T04:30:00-05:00",
+      "image": null,
+      "kind": "web"
+    },
+    {
+      "id": "web-2026-11-02_0430-est-4",
+      "slug": "bitcoin-trades-below-80-000-dollars-near-78-000-to-78-500-dollars-on-n",
+      "title": "Bitcoin trades below 80,000 dollars near 78,000 to 78,500 dollars on November 2 as gold holds below 4,000 dollars and WTI trades near 101 to 102 dollars, DailyForex reports",
+      "body": "- **Bitcoin trades below 80,000 dollars near 78,000 to 78,500 dollars on November 2 as gold holds below 4,000 dollars and WTI trades near 101 to 102 dollars, DailyForex reports** — DailyForex, in its November 2 brief, says Bitcoin remains below 80,000 dollars after last week selloff and the reported 6.3 billion dollar Binance theft, with gold near 3,900 to 3,910 dollars after its lowest level in about a year on Friday. WTI traded around 101 to 102 dollars and Brent around 110 to 112 dollars, while prediction markets saw a strong probability that Democrats will take control of both Houses ahead of the November 3 midterms. (DailyForex)",
+      "timestamp": "2026-11-02T04:30:00-05:00",
+      "image": null,
+      "kind": "web"
+    },
+    {
       "id": "web-2026-11-02_0400-est-0",
       "slug": "winthrop-priced-at-60-percent-on-polymarket-against-queens-at-59-perce",
       "title": "Winthrop priced at 60 percent on Polymarket against Queens at 59 percent in a college basketball toss-up on November 2, Action Network reports",
