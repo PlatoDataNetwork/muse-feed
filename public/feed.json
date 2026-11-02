@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-02T01:40:40.541390-05:00",
+  "updated": "2026-11-02T01:42:09.258036-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "article-2026-11-02_batch1-psychology",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-11-02_batch1-psychology",
+      "title": "Biased Traders, Honest Prices: The Psychology Inside Prediction Markets",
+      "content_text": "Biased Traders, Honest Prices: The Psychology Inside Prediction Markets\n\nEvery trader who opens a prediction market brings the same equipment: a human brain, with its factory-installed biases. We fall for the favorite-longshot bias, paying too much for improbable outcomes because the payoff feels exciting. We are overconfident in our own read of the news, we overweight whatever happened this morning, and we herd into whatever price is already moving. If markets were made of our individual judgments, the prices would be a mess. Mostly, they are not.\n\nThe biases are not theory; they are measurable in the tape. In a 2026 study of 72.1 million Kalshi trades, contracts bought at one cent won just 0.43% of the time against a 1% implied probability, meaning longshot buyers overpaid by more than half. At five cents, the win rate was 4.18% against 5% implied. There is also a YES optimism tax: traders disproportionately buy the affirmative side, and YES contracts underperformed NO at 69 of 99 price levels. Dollar-weighted, YES buyers earned excess returns of -1.02% while NO buyers earned +0.83%, a gap of nearly two points paid for the privilege of agreeing.\n\nThe losses are not evenly shared; they flow in a predictable direction. Karl Whelan's study of more than 300,000 Kalshi contracts found an average pre-fee return of roughly -20%, concentrated among takers, the traders who cross the spread with market orders, and among longshot buyers. Makers, the traders who rest limit orders and wait, earned positive returns. On Polymarket, across 588 million trades, the top 1% of accounts captured about 76.5% of the profit, predominantly by providing liquidity. The crowd's biases are, in effect, a standing transfer from the impatient to the patient.\n\nSo why does the final price stay honest? Because the mechanism taxes exaggeration. A poll costs nothing to answer; a position costs money to be wrong, and that single fact disciplines overconfidence, anchoring and herding better than any survey design. Biased flows also cancel: for every recency-driven buyer chasing the headline there is a maker happy to sell into the spike. Kalshi Research, grading 686,272 trades, found the market's closing prices scored a Brier score of 0.063, accuracy that rivals professional forecasting operations. The bias lives at the tails and in the taking. The price in the middle belongs to whoever was willing to be bored and right.\n\nThe lesson is not that prediction markets have cured human psychology. It is that they have built a machine that runs on it. The probability on the screen is the crowd's mind after its worst impulses have been charged a fee, and the toll is paid, trade after trade, by whoever insists on being the hero of the story instead of its bookmaker.\n\nSources: Becker Kalshi trade study (2026); Whelan, Makers and Takers, CEPR; Kalshi Research; Polymarket maker-taker study, SSRN\n#infiniti #infinitimarkets #predictionmarkets #behavioralfinance #polymarket #kalshi\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Biased Traders, Honest Prices: The Psychology Inside Prediction Markets<br/><br/>Every trader who opens a prediction market brings the same equipment: a human brain, with its factory-installed biases. We fall for the favorite-longshot bias, paying too much for improbable outcomes because the payoff feels exciting. We are overconfident in our own read of the news, we overweight whatever happened this morning, and we herd into whatever price is already moving. If markets were made of our individual judgments, the prices would be a mess. Mostly, they are not.<br/><br/>The biases are not theory; they are measurable in the tape. In a 2026 study of 72.1 million Kalshi trades, contracts bought at one cent won just 0.43% of the time against a 1% implied probability, meaning longshot buyers overpaid by more than half. At five cents, the win rate was 4.18% against 5% implied. There is also a YES optimism tax: traders disproportionately buy the affirmative side, and YES contracts underperformed NO at 69 of 99 price levels. Dollar-weighted, YES buyers earned excess returns of -1.02% while NO buyers earned +0.83%, a gap of nearly two points paid for the privilege of agreeing.<br/><br/>The losses are not evenly shared; they flow in a predictable direction. Karl Whelan&#x27;s study of more than 300,000 Kalshi contracts found an average pre-fee return of roughly -20%, concentrated among takers, the traders who cross the spread with market orders, and among longshot buyers. Makers, the traders who rest limit orders and wait, earned positive returns. On Polymarket, across 588 million trades, the top 1% of accounts captured about 76.5% of the profit, predominantly by providing liquidity. The crowd&#x27;s biases are, in effect, a standing transfer from the impatient to the patient.<br/><br/>So why does the final price stay honest? Because the mechanism taxes exaggeration. A poll costs nothing to answer; a position costs money to be wrong, and that single fact disciplines overconfidence, anchoring and herding better than any survey design. Biased flows also cancel: for every recency-driven buyer chasing the headline there is a maker happy to sell into the spike. Kalshi Research, grading 686,272 trades, found the market&#x27;s closing prices scored a Brier score of 0.063, accuracy that rivals professional forecasting operations. The bias lives at the tails and in the taking. The price in the middle belongs to whoever was willing to be bored and right.<br/><br/>The lesson is not that prediction markets have cured human psychology. It is that they have built a machine that runs on it. The probability on the screen is the crowd&#x27;s mind after its worst impulses have been charged a fee, and the toll is paid, trade after trade, by whoever insists on being the hero of the story instead of its bookmaker.<br/><br/>Sources: Becker Kalshi trade study (2026); Whelan, Makers and Takers, CEPR; Kalshi Research; Polymarket maker-taker study, SSRN<br/>#infiniti #infinitimarkets #predictionmarkets #behavioralfinance #polymarket #kalshi<br/>web: Infiniti.w3ai.io<br/>Infiniti Prediction Markets<br/>https://infiniti.w3ai.io/intelligence</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch1-psychology.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
+      "date_published": "2026-11-02T01:42:00-05:00",
+      "date_modified": "2026-11-02T01:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "psychology",
+        "behavioral finance",
+        "polymarket",
+        "kalshi",
+        "trading"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch1-psychology.jpg",
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 2, 2026 · 1:42 AM ET",
+      "body": "Biased Traders, Honest Prices: The Psychology Inside Prediction Markets\n\nEvery trader who opens a prediction market brings the same equipment: a human brain, with its factory-installed biases. We fall for the favorite-longshot bias, paying too much for improbable outcomes because the payoff feels exciting. We are overconfident in our own read of the news, we overweight whatever happened this morning, and we herd into whatever price is already moving. If markets were made of our individual judgments, the prices would be a mess. Mostly, they are not.\n\nThe biases are not theory; they are measurable in the tape. In a 2026 study of 72.1 million Kalshi trades, contracts bought at one cent won just 0.43% of the time against a 1% implied probability, meaning longshot buyers overpaid by more than half. At five cents, the win rate was 4.18% against 5% implied. There is also a YES optimism tax: traders disproportionately buy the affirmative side, and YES contracts underperformed NO at 69 of 99 price levels. Dollar-weighted, YES buyers earned excess returns of -1.02% while NO buyers earned +0.83%, a gap of nearly two points paid for the privilege of agreeing.\n\nThe losses are not evenly shared; they flow in a predictable direction. Karl Whelan's study of more than 300,000 Kalshi contracts found an average pre-fee return of roughly -20%, concentrated among takers, the traders who cross the spread with market orders, and among longshot buyers. Makers, the traders who rest limit orders and wait, earned positive returns. On Polymarket, across 588 million trades, the top 1% of accounts captured about 76.5% of the profit, predominantly by providing liquidity. The crowd's biases are, in effect, a standing transfer from the impatient to the patient.\n\nSo why does the final price stay honest? Because the mechanism taxes exaggeration. A poll costs nothing to answer; a position costs money to be wrong, and that single fact disciplines overconfidence, anchoring and herding better than any survey design. Biased flows also cancel: for every recency-driven buyer chasing the headline there is a maker happy to sell into the spike. Kalshi Research, grading 686,272 trades, found the market's closing prices scored a Brier score of 0.063, accuracy that rivals professional forecasting operations. The bias lives at the tails and in the taking. The price in the middle belongs to whoever was willing to be bored and right.\n\nThe lesson is not that prediction markets have cured human psychology. It is that they have built a machine that runs on it. The probability on the screen is the crowd's mind after its worst impulses have been charged a fee, and the toll is paid, trade after trade, by whoever insists on being the hero of the story instead of its bookmaker.\n\nSources: Becker Kalshi trade study (2026); Whelan, Makers and Takers, CEPR; Kalshi Research; Polymarket maker-taker study, SSRN\n#infiniti #infinitimarkets #predictionmarkets #behavioralfinance #polymarket #kalshi\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch1-psychology.jpg",
+      "published": "2026-11-02T01:42:00-05:00",
+      "source": "2026-11-02_batch1-psychology.json",
+      "matches_facebook_post": false,
+      "kind": "article"
+    },
     {
       "id": "web-2026-11-02_0130-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0130-est-0",
@@ -432,6 +464,38 @@
       "published": "2026-11-02T01:15:00-05:00",
       "source": "2026-11-02_0115-est.json",
       "matches_facebook_post": false
+    },
+    {
+      "id": "article-2026-11-02_0110-phemex-polymarket",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-11-02_0110-phemex-polymarket",
+      "title": "Polymarket Moves In: Phemex Puts Prediction Markets Inside the Exchange",
+      "content_text": "Polymarket Moves In: Phemex Puts Prediction Markets Inside the Exchange\n\nPrediction markets no longer ask traders to come to them. Phemex, a cryptocurrency exchange, launched a Prediction Market feature today, November 2, built on Polymarket infrastructure — binary event contracts inside the same account its users already trade from, with no separate wallet and no gas fees, settled in USDT.\n\nThe first board is short-horizon crypto: YES or NO positions on the price moves of Bitcoin, Ethereum, XRP, Solana and HYPE, across windows from five minutes to four hours. Shares settle at $1 or $0 against published criteria, positions can be traded before resolution, and markets resolve automatically — the full prediction-market machine, compressed into a trading app's side tab.\n\nThe design choice matters more than the asset list. Every embedded launch removes the two steps that kept event contracts niche: funding a new venue and learning a new interface. The balance, the login and the habits are already there; the contract is just one more instrument on the screen.\n\nPhemex is the second distribution deal in four days. On October 30, mobile brokerage Aries put ForecastEx contracts on the 2026 midterms, economic data and financial markets inside its app — a different pipe, a CFTC-regulated exchange instead of Polymarket's rails, but the same strategy: meet traders where their money already sits.\n\nThe fight for 2027 is over the front door. The big exchanges keep the deepest books, but the embedded venues are competing on access and speed — and a five-minute Bitcoin contract inside an app a trader already opens every day is a hard product to out-advertise.\n\nSources: Traders Union, Prediction News\n#infiniti #infinitimarkets #predictionmarkets #polymarket #crypto\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/polymarket-moves-in-phemex-puts-prediction-markets-inside-the-exchange",
+      "content_html": "<p>Polymarket Moves In: Phemex Puts Prediction Markets Inside the Exchange<br/><br/>Prediction markets no longer ask traders to come to them. Phemex, a cryptocurrency exchange, launched a Prediction Market feature today, November 2, built on Polymarket infrastructure — binary event contracts inside the same account its users already trade from, with no separate wallet and no gas fees, settled in USDT.<br/><br/>The first board is short-horizon crypto: YES or NO positions on the price moves of Bitcoin, Ethereum, XRP, Solana and HYPE, across windows from five minutes to four hours. Shares settle at $1 or $0 against published criteria, positions can be traded before resolution, and markets resolve automatically — the full prediction-market machine, compressed into a trading app&#x27;s side tab.<br/><br/>The design choice matters more than the asset list. Every embedded launch removes the two steps that kept event contracts niche: funding a new venue and learning a new interface. The balance, the login and the habits are already there; the contract is just one more instrument on the screen.<br/><br/>Phemex is the second distribution deal in four days. On October 30, mobile brokerage Aries put ForecastEx contracts on the 2026 midterms, economic data and financial markets inside its app — a different pipe, a CFTC-regulated exchange instead of Polymarket&#x27;s rails, but the same strategy: meet traders where their money already sits.<br/><br/>The fight for 2027 is over the front door. The big exchanges keep the deepest books, but the embedded venues are competing on access and speed — and a five-minute Bitcoin contract inside an app a trader already opens every day is a hard product to out-advertise.<br/><br/>Sources: Traders Union, Prediction News<br/>#infiniti #infinitimarkets #predictionmarkets #polymarket #crypto<br/>web: Infiniti.w3ai.io<br/>Infiniti Prediction Markets<br/>https://infiniti.w3ai.io/intelligence/polymarket-moves-in-phemex-puts-prediction-markets-inside-the-exchange</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-11-02_0110-phemex-polymarket.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
+      "date_published": "2026-11-02T01:10:14-05:00",
+      "date_modified": "2026-11-02T01:10:14-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "product launches",
+        "partnerships",
+        "polymarket",
+        "crypto",
+        "exchanges"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_0110-phemex-polymarket.jpg",
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 2, 2026 · 1:10 AM ET",
+      "body": "Polymarket Moves In: Phemex Puts Prediction Markets Inside the Exchange\n\nPrediction markets no longer ask traders to come to them. Phemex, a cryptocurrency exchange, launched a Prediction Market feature today, November 2, built on Polymarket infrastructure — binary event contracts inside the same account its users already trade from, with no separate wallet and no gas fees, settled in USDT.\n\nThe first board is short-horizon crypto: YES or NO positions on the price moves of Bitcoin, Ethereum, XRP, Solana and HYPE, across windows from five minutes to four hours. Shares settle at $1 or $0 against published criteria, positions can be traded before resolution, and markets resolve automatically — the full prediction-market machine, compressed into a trading app's side tab.\n\nThe design choice matters more than the asset list. Every embedded launch removes the two steps that kept event contracts niche: funding a new venue and learning a new interface. The balance, the login and the habits are already there; the contract is just one more instrument on the screen.\n\nPhemex is the second distribution deal in four days. On October 30, mobile brokerage Aries put ForecastEx contracts on the 2026 midterms, economic data and financial markets inside its app — a different pipe, a CFTC-regulated exchange instead of Polymarket's rails, but the same strategy: meet traders where their money already sits.\n\nThe fight for 2027 is over the front door. The big exchanges keep the deepest books, but the embedded venues are competing on access and speed — and a five-minute Bitcoin contract inside an app a trader already opens every day is a hard product to out-advertise.\n\nSources: Traders Union, Prediction News\n#infiniti #infinitimarkets #predictionmarkets #polymarket #crypto\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/polymarket-moves-in-phemex-puts-prediction-markets-inside-the-exchange",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_0110-phemex-polymarket.jpg",
+      "published": "2026-11-02T01:10:14-05:00",
+      "source": "2026-11-02_0110-phemex-polymarket.json",
+      "matches_facebook_post": false,
+      "kind": "article"
     },
     {
       "id": "web-2026-11-02_0100-est-0",
@@ -4312,62 +4376,6 @@
       "links": [],
       "timestamp": "Nov 1, 2026 · 6:15 PM ET",
       "body": "- **Study finds Polymarket or Kalshi on page one in half of sampled midterm forecast searches, Business Wire reports** — Business Wire says a CasinoReviews.net study of 140 Google results pages across 14 United States cities found Polymarket or Kalshi on page one for half of everyday forecast searches such as election forecast and midterm polls. It says the platforms appeared in all eight cities tested in states where state law bans betting on elections. (Business Wire)",
-      "image_url": null,
-      "published": "2026-11-01T18:15:00-05:00",
-      "source": "2026-11-01_1815-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-01_1815-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_1815-est-3",
-      "title": "Tallahassee mayor market moves to Loranne Ausley at 74 percent on Kalshi and 72.5 percent on Polymarket, Tallahassee Democrat reports",
-      "content_text": "- **Tallahassee mayor market moves to Loranne Ausley at 74 percent on Kalshi and 72.5 percent on Polymarket, Tallahassee Democrat reports** — The Tallahassee Democrat says Kalshi had Ausley and Jeremy Matlow running neck and neck as recently as October 20, but the platform now shows Ausley with a 74 percent chance of winning. It says Polymarket, where bets total more than 156,000 dollars, had Ausley at 72.5 percent. (Tallahassee Democrat)",
-      "content_html": "<p>- **Tallahassee mayor market moves to Loranne Ausley at 74 percent on Kalshi and 72.5 percent on Polymarket, Tallahassee Democrat reports** — The Tallahassee Democrat says Kalshi had Ausley and Jeremy Matlow running neck and neck as recently as October 20, but the platform now shows Ausley with a 74 percent chance of winning. It says Polymarket, where bets total more than 156,000 dollars, had Ausley at 72.5 percent. (Tallahassee Democrat)</p>",
-      "date_published": "2026-11-01T18:15:00-05:00",
-      "date_modified": "2026-11-01T18:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 1, 2026 · 6:15 PM ET",
-      "body": "- **Tallahassee mayor market moves to Loranne Ausley at 74 percent on Kalshi and 72.5 percent on Polymarket, Tallahassee Democrat reports** — The Tallahassee Democrat says Kalshi had Ausley and Jeremy Matlow running neck and neck as recently as October 20, but the platform now shows Ausley with a 74 percent chance of winning. It says Polymarket, where bets total more than 156,000 dollars, had Ausley at 72.5 percent. (Tallahassee Democrat)",
-      "image_url": null,
-      "published": "2026-11-01T18:15:00-05:00",
-      "source": "2026-11-01_1815-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-01_1815-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_1815-est-4",
-      "title": "Polymarket Bitcoin Up or Down on November 1 market prices Up at 82.5 percent, up 32 points, PolymarketTrader reports",
-      "content_text": "- **Polymarket Bitcoin Up or Down on November 1 market prices Up at 82.5 percent, up 32 points, PolymarketTrader reports** — PolymarketTrader says its Bitcoin board, updated November 1, 2026 with 93 live markets, prices Bitcoin finishing Up on November 1 at 82.5 percent, up 32.0 points, on 102,400 dollars traded. The same board prices the Bitcoin price on November 1 range leader, 76,000 to 78,000 dollars, at 53.6 percent. (PolymarketTrader)",
-      "content_html": "<p>- **Polymarket Bitcoin Up or Down on November 1 market prices Up at 82.5 percent, up 32 points, PolymarketTrader reports** — PolymarketTrader says its Bitcoin board, updated November 1, 2026 with 93 live markets, prices Bitcoin finishing Up on November 1 at 82.5 percent, up 32.0 points, on 102,400 dollars traded. The same board prices the Bitcoin price on November 1 range leader, 76,000 to 78,000 dollars, at 53.6 percent. (PolymarketTrader)</p>",
-      "date_published": "2026-11-01T18:15:00-05:00",
-      "date_modified": "2026-11-01T18:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 1, 2026 · 6:15 PM ET",
-      "body": "- **Polymarket Bitcoin Up or Down on November 1 market prices Up at 82.5 percent, up 32 points, PolymarketTrader reports** — PolymarketTrader says its Bitcoin board, updated November 1, 2026 with 93 live markets, prices Bitcoin finishing Up on November 1 at 82.5 percent, up 32.0 points, on 102,400 dollars traded. The same board prices the Bitcoin price on November 1 range leader, 76,000 to 78,000 dollars, at 53.6 percent. (PolymarketTrader)",
       "image_url": null,
       "published": "2026-11-01T18:15:00-05:00",
       "source": "2026-11-01_1815-est.json",
