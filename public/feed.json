@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-02T05:14:53.056440-05:00",
+  "updated": "2026-11-02T05:28:26.396948-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-02_0524-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-02_0524-est",
+      "title": "Chicago win the 2027 Pro Football Championship priced at 9c on Kalshi, up 1c, with 308K contracts traded in 24 hours",
+      "content_text": "Infiniti Prediction Markets\n\nChicago win the 2027 Pro Football Championship priced at 9c on Kalshi, up 1c, with 308K contracts traded in 24 hours\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the midterm stress-test…\n#PredictionMarkets #Kalshi #Elections #Midterms\n\nSpaceX have the highest IPO Market Cap 2026 priced at 57.5% on Polymarket, up 4.5 points, on $1.1M traded\nPredictionBubbles' finance board, read live Nov. 2 at about 5:25 AM ET across 166 open finance markets with $161.3M in total volume, lists the SpaceX highest-IPO…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Chicago win the 2027 Pro Football Championship priced at 9c on Kalshi, up 1c, with 308K contracts traded in 24 hours<br/>No significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the midterm stress-test…<br/>#PredictionMarkets #Kalshi #Elections #Midterms<br/><br/>SpaceX have the highest IPO Market Cap 2026 priced at 57.5% on Polymarket, up 4.5 points, on $1.1M traded<br/>PredictionBubbles&#x27; finance board, read live Nov. 2 at about 5:25 AM ET across 166 open finance markets with $161.3M in total volume, lists the SpaceX highest-IPO…<br/>#PredictionMarkets #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-02T05:24:00-05:00",
+      "date_modified": "2026-11-02T05:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Elections",
+        "Midterms",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 2, 2026 · 5:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nChicago win the 2027 Pro Football Championship priced at 9c on Kalshi, up 1c, with 308K contracts traded in 24 hours\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the midterm stress-test…\n#PredictionMarkets #Kalshi #Elections #Midterms\n\nSpaceX have the highest IPO Market Cap 2026 priced at 57.5% on Polymarket, up 4.5 points, on $1.1M traded\nPredictionBubbles' finance board, read live Nov. 2 at about 5:25 AM ET across 166 open finance markets with $161.3M in total volume, lists the SpaceX highest-IPO…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-02T05:24:00-05:00",
+      "source": "2026-11-02_0524-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-02_0515-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0515-est-0",
@@ -4365,34 +4396,6 @@
       "links": [],
       "timestamp": "Nov 1, 2026 · 10:30 PM ET",
       "body": "- **Maryland elections chief says state law bars Kalshi and Polymarket election wagers, Prediction News reports** — Prediction News reports Maryland's elections chief argues state law bans election wagering on Kalshi and Polymarket, where users have traded 1.1 million dollars on Maryland elections including the governor race and the 1st congressional district. Maryland joins Utah, Ohio and Tennessee in challenging federally registered prediction markets. (Prediction News)",
-      "image_url": null,
-      "published": "2026-11-01T22:30:00-05:00",
-      "source": "2026-11-01_2230-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-01_2230-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_2230-est-1",
-      "title": "Polymarket traders price Ether at 92 percent to touch 2,300 dollars in November, up 44 points in 24 hours, Prediction News reports",
-      "content_text": "- **Polymarket traders price Ether at 92 percent to touch 2,300 dollars in November, up 44 points in 24 hours, Prediction News reports** — Prediction News reports Polymarket traders assign a 92 percent probability that Ether will touch 2,300 dollars at least once during November, up 44 percentage points in 24 hours. The contract settles using one-minute Binance ETH/USDT candles and measures whether Ether touches the threshold, not whether it finishes the month above it. (Prediction News)",
-      "content_html": "<p>- **Polymarket traders price Ether at 92 percent to touch 2,300 dollars in November, up 44 points in 24 hours, Prediction News reports** — Prediction News reports Polymarket traders assign a 92 percent probability that Ether will touch 2,300 dollars at least once during November, up 44 percentage points in 24 hours. The contract settles using one-minute Binance ETH/USDT candles and measures whether Ether touches the threshold, not whether it finishes the month above it. (Prediction News)</p>",
-      "date_published": "2026-11-01T22:30:00-05:00",
-      "date_modified": "2026-11-01T22:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 1, 2026 · 10:30 PM ET",
-      "body": "- **Polymarket traders price Ether at 92 percent to touch 2,300 dollars in November, up 44 points in 24 hours, Prediction News reports** — Prediction News reports Polymarket traders assign a 92 percent probability that Ether will touch 2,300 dollars at least once during November, up 44 percentage points in 24 hours. The contract settles using one-minute Binance ETH/USDT candles and measures whether Ether touches the threshold, not whether it finishes the month above it. (Prediction News)",
       "image_url": null,
       "published": "2026-11-01T22:30:00-05:00",
       "source": "2026-11-01_2230-est.json",
