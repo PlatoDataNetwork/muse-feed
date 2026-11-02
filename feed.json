@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-01T21:03:30.642237-05:00",
+  "updated": "2026-11-01T21:15:00.927650-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,38 @@
     }
   ],
   "items": [
+    {
+      "id": "article-2026-11-01_2110-accuracy-verdict",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-11-01_2110-accuracy-verdict",
+      "title": "358,236 Markets, One Verdict: The Price Is Usually Right",
+      "content_text": "358,236 Markets, One Verdict: The Price Is Usually Right\n\nPrediction markets finally have a report card big enough to trust. PredictDesks graded 358,236 resolved markets, 333,464 on Polymarket and 24,772 on Kalshi, against what actually happened. A day before resolution, the favourite won 76.9% of the time, and in standard markets the average gap between price and reality was just 0.9 points on Polymarket and 1.7 on Kalshi.\n\nStrip out the easy questions and the picture sharpens. Two-thirds of Polymarket's sampled markets resolved No, most of them long shots parked at a cent or two. Limit the test to markets priced between 10% and 90% a day out, the genuinely uncertain ones, and the favourite's win rate falls to 65.9%. The headline accuracy is real, but it is flattered by questions nobody was ever unsure about.\n\nWhat is being forecast matters more than where. Tech and science markets scored a Brier 0.040 a day out on Polymarket; sports, the biggest category on both platforms, scored 0.196, the hardest call on the board. Weighted to the same mix of topics, the two exchanges finished in a dead heat: 0.150 for Polymarket, 0.147 for Kalshi. Across 24 Federal Reserve meetings priced on both, their odds differed by just 0.8 points a day before the decision.\n\nThe warning is aimed at the industry's fastest-growing product: templated ladder markets, temperature brackets, spreads, totals and exact scores, now 38% of the sample and 47% of Polymarket's 2026 markets. There, outcomes priced under 10 cents won 1.6 times as often as their prices implied, and favourites priced at 80 to 90 cents won only 76% of the time. In standard markets, long shots were the leak: every $100 spent on contracts below 5 cents returned about $81, before fees.\n\nThe rarest line in the data may be the most honest: in just 1.1% of markets, the winner had been priced at 10% or less a day earlier, a list that includes the election of Pope Leo XIV. The crowd is usually right. The study's gift is showing exactly where it is not.\n\nSources: PredictDesks\n#infiniti #infinitimarkets #predictionmarkets #research #accuracy\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/358-236-markets-one-verdict-the-price-is-usually-right",
+      "content_html": "<p>358,236 Markets, One Verdict: The Price Is Usually Right<br/><br/>Prediction markets finally have a report card big enough to trust. PredictDesks graded 358,236 resolved markets, 333,464 on Polymarket and 24,772 on Kalshi, against what actually happened. A day before resolution, the favourite won 76.9% of the time, and in standard markets the average gap between price and reality was just 0.9 points on Polymarket and 1.7 on Kalshi.<br/><br/>Strip out the easy questions and the picture sharpens. Two-thirds of Polymarket&#x27;s sampled markets resolved No, most of them long shots parked at a cent or two. Limit the test to markets priced between 10% and 90% a day out, the genuinely uncertain ones, and the favourite&#x27;s win rate falls to 65.9%. The headline accuracy is real, but it is flattered by questions nobody was ever unsure about.<br/><br/>What is being forecast matters more than where. Tech and science markets scored a Brier 0.040 a day out on Polymarket; sports, the biggest category on both platforms, scored 0.196, the hardest call on the board. Weighted to the same mix of topics, the two exchanges finished in a dead heat: 0.150 for Polymarket, 0.147 for Kalshi. Across 24 Federal Reserve meetings priced on both, their odds differed by just 0.8 points a day before the decision.<br/><br/>The warning is aimed at the industry&#x27;s fastest-growing product: templated ladder markets, temperature brackets, spreads, totals and exact scores, now 38% of the sample and 47% of Polymarket&#x27;s 2026 markets. There, outcomes priced under 10 cents won 1.6 times as often as their prices implied, and favourites priced at 80 to 90 cents won only 76% of the time. In standard markets, long shots were the leak: every $100 spent on contracts below 5 cents returned about $81, before fees.<br/><br/>The rarest line in the data may be the most honest: in just 1.1% of markets, the winner had been priced at 10% or less a day earlier, a list that includes the election of Pope Leo XIV. The crowd is usually right. The study&#x27;s gift is showing exactly where it is not.<br/><br/>Sources: PredictDesks<br/>#infiniti #infinitimarkets #predictionmarkets #research #accuracy<br/>web: Infiniti.w3ai.io<br/>Infiniti Prediction Markets<br/>https://infiniti.w3ai.io/intelligence/358-236-markets-one-verdict-the-price-is-usually-right</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-11-01_2110-accuracy-verdict.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
+      "date_published": "2026-11-01T21:10:00-05:00",
+      "date_modified": "2026-11-01T21:10:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "accuracy",
+        "research",
+        "polymarket",
+        "kalshi",
+        "science"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-11-01_2110-accuracy-verdict.jpg",
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 1, 2026 · 9:10 PM ET",
+      "body": "358,236 Markets, One Verdict: The Price Is Usually Right\n\nPrediction markets finally have a report card big enough to trust. PredictDesks graded 358,236 resolved markets, 333,464 on Polymarket and 24,772 on Kalshi, against what actually happened. A day before resolution, the favourite won 76.9% of the time, and in standard markets the average gap between price and reality was just 0.9 points on Polymarket and 1.7 on Kalshi.\n\nStrip out the easy questions and the picture sharpens. Two-thirds of Polymarket's sampled markets resolved No, most of them long shots parked at a cent or two. Limit the test to markets priced between 10% and 90% a day out, the genuinely uncertain ones, and the favourite's win rate falls to 65.9%. The headline accuracy is real, but it is flattered by questions nobody was ever unsure about.\n\nWhat is being forecast matters more than where. Tech and science markets scored a Brier 0.040 a day out on Polymarket; sports, the biggest category on both platforms, scored 0.196, the hardest call on the board. Weighted to the same mix of topics, the two exchanges finished in a dead heat: 0.150 for Polymarket, 0.147 for Kalshi. Across 24 Federal Reserve meetings priced on both, their odds differed by just 0.8 points a day before the decision.\n\nThe warning is aimed at the industry's fastest-growing product: templated ladder markets, temperature brackets, spreads, totals and exact scores, now 38% of the sample and 47% of Polymarket's 2026 markets. There, outcomes priced under 10 cents won 1.6 times as often as their prices implied, and favourites priced at 80 to 90 cents won only 76% of the time. In standard markets, long shots were the leak: every $100 spent on contracts below 5 cents returned about $81, before fees.\n\nThe rarest line in the data may be the most honest: in just 1.1% of markets, the winner had been priced at 10% or less a day earlier, a list that includes the election of Pope Leo XIV. The crowd is usually right. The study's gift is showing exactly where it is not.\n\nSources: PredictDesks\n#infiniti #infinitimarkets #predictionmarkets #research #accuracy\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/358-236-markets-one-verdict-the-price-is-usually-right",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-11-01_2110-accuracy-verdict.jpg",
+      "published": "2026-11-01T21:10:00-05:00",
+      "source": "2026-11-01_2110-accuracy-verdict.json",
+      "matches_facebook_post": false,
+      "kind": "article"
+    },
     {
       "id": "web-2026-11-01_2100-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_2100-est-0",
@@ -688,6 +720,38 @@
       "published": "2026-11-01T20:15:00-05:00",
       "source": "2026-11-01_2015-est.json",
       "matches_facebook_post": false
+    },
+    {
+      "id": "article-2026-11-01_2010-october-128-billion",
+      "url": "https://infiniti.w3ai.io/intelligence#article-2026-11-01_2010-october-128-billion",
+      "title": "October Was a $128 Billion Month",
+      "content_text": "October Was a $128 Billion Month\n\nOctober was not a breakout month for prediction markets. It was a step change. Traders moved $128.0 billion in contracts across the tracked exchanges in October, up 63 percent from September on a like-for-like basis, according to DeFi Rate.\n\nKalshi did most of it. The exchange handled $95.5 billion over the Oct. 2 to Oct. 31 window, about 76 percent of all volume, and grew 55 percent against the prior 30 days. Polymarket US was second at $14.6 billion, up 62 percent, while Polymarket's international exchange added $5.1 billion.\n\nThe growth underneath matters more than the total. Underdog Exchange was the fastest-growing venue, up 161 percent, followed by DraftKings Predictions at 126 percent and Novig at 118 percent. Nine venues now share the board, and the challengers are growing faster than the leader.\n\nThe calendar shows why. An average Sunday traded $5.2 billion, more than double an average Monday at $2.4 billion, and the busiest day in the last 60 was Sunday, Oct. 25, at $7.14 billion. Sports took 68 percent of the dollars paid on single markets, with crypto next at 25 percent.\n\nSources: DeFi Rate\n#infiniti #infinitimarkets #predictionmarkets #Kalshi #Polymarket\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/october-was-a-128-billion-month",
+      "content_html": "<p>October Was a $128 Billion Month<br/><br/>October was not a breakout month for prediction markets. It was a step change. Traders moved $128.0 billion in contracts across the tracked exchanges in October, up 63 percent from September on a like-for-like basis, according to DeFi Rate.<br/><br/>Kalshi did most of it. The exchange handled $95.5 billion over the Oct. 2 to Oct. 31 window, about 76 percent of all volume, and grew 55 percent against the prior 30 days. Polymarket US was second at $14.6 billion, up 62 percent, while Polymarket&#x27;s international exchange added $5.1 billion.<br/><br/>The growth underneath matters more than the total. Underdog Exchange was the fastest-growing venue, up 161 percent, followed by DraftKings Predictions at 126 percent and Novig at 118 percent. Nine venues now share the board, and the challengers are growing faster than the leader.<br/><br/>The calendar shows why. An average Sunday traded $5.2 billion, more than double an average Monday at $2.4 billion, and the busiest day in the last 60 was Sunday, Oct. 25, at $7.14 billion. Sports took 68 percent of the dollars paid on single markets, with crypto next at 25 percent.<br/><br/>Sources: DeFi Rate<br/>#infiniti #infinitimarkets #predictionmarkets #Kalshi #Polymarket<br/>web: Infiniti.w3ai.io<br/>Infiniti Prediction Markets<br/>https://infiniti.w3ai.io/intelligence/october-was-a-128-billion-month</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-11-01_2010-october-128-billion.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
+      "date_published": "2026-11-01T20:10:14-05:00",
+      "date_modified": "2026-11-01T20:10:14-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "prediction markets",
+        "volume",
+        "Kalshi",
+        "Polymarket",
+        "trading"
+      ],
+      "image": "https://muse-feed-psi.vercel.app/images/article-2026-11-01_2010-october-128-billion.jpg",
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 1, 2026 · 8:10 PM ET",
+      "body": "October Was a $128 Billion Month\n\nOctober was not a breakout month for prediction markets. It was a step change. Traders moved $128.0 billion in contracts across the tracked exchanges in October, up 63 percent from September on a like-for-like basis, according to DeFi Rate.\n\nKalshi did most of it. The exchange handled $95.5 billion over the Oct. 2 to Oct. 31 window, about 76 percent of all volume, and grew 55 percent against the prior 30 days. Polymarket US was second at $14.6 billion, up 62 percent, while Polymarket's international exchange added $5.1 billion.\n\nThe growth underneath matters more than the total. Underdog Exchange was the fastest-growing venue, up 161 percent, followed by DraftKings Predictions at 126 percent and Novig at 118 percent. Nine venues now share the board, and the challengers are growing faster than the leader.\n\nThe calendar shows why. An average Sunday traded $5.2 billion, more than double an average Monday at $2.4 billion, and the busiest day in the last 60 was Sunday, Oct. 25, at $7.14 billion. Sports took 68 percent of the dollars paid on single markets, with crypto next at 25 percent.\n\nSources: DeFi Rate\n#infiniti #infinitimarkets #predictionmarkets #Kalshi #Polymarket\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/october-was-a-128-billion-month",
+      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-11-01_2010-october-128-billion.jpg",
+      "published": "2026-11-01T20:10:14-05:00",
+      "source": "2026-11-01_2010-october-128-billion.json",
+      "matches_facebook_post": false,
+      "kind": "article"
     },
     {
       "id": "infiniti-2026-11-01_1954-est",
@@ -4328,65 +4392,6 @@
       "image_url": null,
       "published": "2026-11-01T13:30:00-05:00",
       "source": "2026-11-01_1330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-11-01_1324-est",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-01_1324-est",
-      "title": "BTC hit $50,000 before $100,000 by December 31, 2026 priced at 11.0% on Kalshi, up 3.0 points, on $5.6M traded",
-      "content_text": "Infiniti Prediction Markets\n\nBTC hit $50,000 before $100,000 by December 31, 2026 priced at 11.0% on Kalshi, up 3.0 points, on $5.6M traded\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, struck or web-held today (the Maryland…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nGoogle have the best AI model at the end of December 2026 priced at 53.5% on Polymarket, down 4.0 points, on $514K traded\nPredictionBubbles' tech board, read Nov. 1 across 43 tech markets, lists the Google December contract among the day's biggest tech moves at 53.5%, down 4.0 points, on…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Prediction Markets<br/><br/>BTC hit $50,000 before $100,000 by December 31, 2026 priced at 11.0% on Kalshi, up 3.0 points, on $5.6M traded<br/>No significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, struck or web-held today (the Maryland…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>Google have the best AI model at the end of December 2026 priced at 53.5% on Polymarket, down 4.0 points, on $514K traded<br/>PredictionBubbles&#x27; tech board, read Nov. 1 across 43 tech markets, lists the Google December contract among the day&#x27;s biggest tech moves at 53.5%, down 4.0 points, on…<br/>#PredictionMarkets #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
-      "date_published": "2026-11-01T13:24:00-05:00",
-      "date_modified": "2026-11-01T13:24:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 1, 2026 · 1:24 PM ET",
-      "body": "Infiniti Prediction Markets\n\nBTC hit $50,000 before $100,000 by December 31, 2026 priced at 11.0% on Kalshi, up 3.0 points, on $5.6M traded\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, struck or web-held today (the Maryland…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nGoogle have the best AI model at the end of December 2026 priced at 53.5% on Polymarket, down 4.0 points, on $514K traded\nPredictionBubbles' tech board, read Nov. 1 across 43 tech markets, lists the Google December contract among the day's biggest tech moves at 53.5%, down 4.0 points, on…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-11-01T13:24:00-05:00",
-      "source": "2026-11-01_1324-est.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-01_1315-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-01_1315-est-0",
-      "title": "Polymarket delays Protocol V2 launch to November 9 to avoid U.S. midterm election week, KuCoin reports",
-      "content_text": "- **Polymarket delays Protocol V2 launch to November 9 to avoid U.S. midterm election week, KuCoin reports** — Polymarket developers have rescheduled the Protocol V2 release from November 2 to November 9 to avoid the week of the U.S. midterm elections. The final schedule and deployment plan, including timing and the order of market migrations, will be announced in the coming days, and users need take no action during the period. (KuCoin)",
-      "content_html": "<p>- **Polymarket delays Protocol V2 launch to November 9 to avoid U.S. midterm election week, KuCoin reports** — Polymarket developers have rescheduled the Protocol V2 release from November 2 to November 9 to avoid the week of the U.S. midterm elections. The final schedule and deployment plan, including timing and the order of market migrations, will be announced in the coming days, and users need take no action during the period. (KuCoin)</p>",
-      "date_published": "2026-11-01T13:15:00-05:00",
-      "date_modified": "2026-11-01T13:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 1, 2026 · 1:15 PM ET",
-      "body": "- **Polymarket delays Protocol V2 launch to November 9 to avoid U.S. midterm election week, KuCoin reports** — Polymarket developers have rescheduled the Protocol V2 release from November 2 to November 9 to avoid the week of the U.S. midterm elections. The final schedule and deployment plan, including timing and the order of market migrations, will be announced in the coming days, and users need take no action during the period. (KuCoin)",
-      "image_url": null,
-      "published": "2026-11-01T13:15:00-05:00",
-      "source": "2026-11-01_1315-est.json",
       "matches_facebook_post": false
     }
   ]
