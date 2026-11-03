@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T05:43:46.701560-05:00",
+  "updated": "2026-11-03T05:56:19.994114-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,40 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-03_0554-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_0554-est",
+      "title": "Seattle win at least 12 games priced at 14c on Kalshi, down 24c, the sports board's second-biggest 24-hour mover",
+      "content_text": "Infiniti Prediction Markets\n\nSeattle win at least 12 games priced at 14c on Kalshi, down 24c, the sports board's second-biggest 24-hour mover\nNo significant new prediction-platform headline in the last 30 minutes; news search surfaced no fresh platform announcement, so this edition leads with the freshest live…\n#PredictionMarkets #Kalshi\n\nFed funds upper bound above 4.00% after the September 2027 meeting priced at 69c on Kalshi, down 51c, the board's biggest 24-hour mover overall\nThe same PredictionMarketPicks leaderboard snapshot at 5:38 AM EST ranks the contract on the upper bound of the federal funds rate being above 4.00% following the Fed's…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Seattle win at least 12 games priced at 14c on Kalshi, down 24c, the sports board&#x27;s second-biggest 24-hour mover<br/>No significant new prediction-platform headline in the last 30 minutes; news search surfaced no fresh platform announcement, so this edition leads with the freshest live…<br/>#PredictionMarkets #Kalshi<br/><br/>Fed funds upper bound above 4.00% after the September 2027 meeting priced at 69c on Kalshi, down 51c, the board&#x27;s biggest 24-hour mover overall<br/>The same PredictionMarketPicks leaderboard snapshot at 5:38 AM EST ranks the contract on the upper bound of the federal funds rate being above 4.00% following the Fed&#x27;s…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T05:54:00-05:00",
+      "date_modified": "2026-11-03T05:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Bitcoin",
+        "ETF",
+        "Polymarket",
+        "DraftKings",
+        "Elections",
+        "Gold"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 5:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nSeattle win at least 12 games priced at 14c on Kalshi, down 24c, the sports board's second-biggest 24-hour mover\nNo significant new prediction-platform headline in the last 30 minutes; news search surfaced no fresh platform announcement, so this edition leads with the freshest live…\n#PredictionMarkets #Kalshi\n\nFed funds upper bound above 4.00% after the September 2027 meeting priced at 69c on Kalshi, down 51c, the board's biggest 24-hour mover overall\nThe same PredictionMarketPicks leaderboard snapshot at 5:38 AM EST ranks the contract on the upper bound of the federal funds rate being above 4.00% following the Fed's…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T05:54:00-05:00",
+      "source": "2026-11-03_0554-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_0545-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0545-est-0",
@@ -4372,33 +4406,6 @@
       "links": [],
       "timestamp": "Nov 2, 2026 · 3:45 AM ET",
       "body": "- **Democrats priced at 94 percent on Polymarket and 92 percent on Kalshi to win the House, with the Senate at 69 percent on both venues, Oddschecker reports** — Oddschecker's midterm comparison, with prices as of October 30, shows Democrats at 94 percent on Polymarket and 92 percent on Kalshi to win the House. Both venues price Democrats at 69 percent to win the Senate ahead of Election Day on November 3. (Oddschecker)",
-      "image_url": null,
-      "published": "2026-11-02T03:45:00-05:00",
-      "source": "2026-11-02_0345-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0345-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0345-est-3",
-      "title": "BreakTheBank leads Polymarket sports traders over 30 days with 6.9 million dollars in profit on 84.8 million dollars traded, Polycopy reports",
-      "content_text": "- **BreakTheBank leads Polymarket sports traders over 30 days with 6.9 million dollars in profit on 84.8 million dollars traded, Polycopy reports** — Polycopy's sports leaderboard, updated November 2 and ranked by verified on-chain profit over 30 days, puts BreakTheBank first with 6.9 million dollars in profit on 84.8 million dollars traded. Joseph00677 follows at 5.7 million dollars in sports profit. (Polycopy)",
-      "content_html": "<p>- **BreakTheBank leads Polymarket sports traders over 30 days with 6.9 million dollars in profit on 84.8 million dollars traded, Polycopy reports** — Polycopy&#x27;s sports leaderboard, updated November 2 and ranked by verified on-chain profit over 30 days, puts BreakTheBank first with 6.9 million dollars in profit on 84.8 million dollars traded. Joseph00677 follows at 5.7 million dollars in sports profit. (Polycopy)</p>",
-      "date_published": "2026-11-02T03:45:00-05:00",
-      "date_modified": "2026-11-02T03:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 3:45 AM ET",
-      "body": "- **BreakTheBank leads Polymarket sports traders over 30 days with 6.9 million dollars in profit on 84.8 million dollars traded, Polycopy reports** — Polycopy's sports leaderboard, updated November 2 and ranked by verified on-chain profit over 30 days, puts BreakTheBank first with 6.9 million dollars in profit on 84.8 million dollars traded. Joseph00677 follows at 5.7 million dollars in sports profit. (Polycopy)",
       "image_url": null,
       "published": "2026-11-02T03:45:00-05:00",
       "source": "2026-11-02_0345-est.json",
