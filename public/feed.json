@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T17:46:01.373373-05:00",
+  "updated": "2026-11-03T17:58:04.447589-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-03_1754-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_1754-est",
+      "title": "Just $300K of selling would have pushed Kalshi's Democrats-win-Senate contract down 10 points this morning, Talos researchers warn",
+      "content_text": "Infiniti Prediction Markets\n\nJust $300K of selling would have pushed Kalshi's Democrats-win-Senate contract down 10 points this morning, Talos researchers warn\nA fresh update in the last 30 minutes; under today's Election Day political focus this edition leads with a fresh liquidity read, in a sub-angle different from the…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nKalshi's House control market carries 22.9M contracts open, more than double the Senate control market's 10.6M\nPredictionMarketPicks' election-night live blog, updated Nov. 3 at 5:40 PM ET and read this run, counts about 22.9 million contracts open on House control against 10.6…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Just $300K of selling would have pushed Kalshi&#x27;s Democrats-win-Senate contract down 10 points this morning, Talos researchers warn<br/>A fresh update in the last 30 minutes; under today&#x27;s Election Day political focus this edition leads with a fresh liquidity read, in a sub-angle different from the…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/><br/>Kalshi&#x27;s House control market carries 22.9M contracts open, more than double the Senate control market&#x27;s 10.6M<br/>PredictionMarketPicks&#x27; election-night live blog, updated Nov. 3 at 5:40 PM ET and read this run, counts about 22.9 million contracts open on House control against 10.6…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T17:54:00-05:00",
+      "date_modified": "2026-11-03T17:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 5:54 PM ET",
+      "body": "Infiniti Prediction Markets\n\nJust $300K of selling would have pushed Kalshi's Democrats-win-Senate contract down 10 points this morning, Talos researchers warn\nA fresh update in the last 30 minutes; under today's Election Day political focus this edition leads with a fresh liquidity read, in a sub-angle different from the…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nKalshi's House control market carries 22.9M contracts open, more than double the Senate control market's 10.6M\nPredictionMarketPicks' election-night live blog, updated Nov. 3 at 5:40 PM ET and read this run, counts about 22.9 million contracts open on House control against 10.6…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T17:54:00-05:00",
+      "source": "2026-11-03_1754-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_1745-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1745-est-0",
@@ -4394,35 +4424,6 @@
       "links": [],
       "timestamp": "Nov 3, 2026 · 11:00 AM ET",
       "body": "- **North Carolina Senate market prices Roy Cooper at 97 percent on Kalshi and 98 percent on Polymarket, Kalshi reports** — Kalshi reports Cooper trades at 97.1 percent against Michael Whatley at 2.9 percent in the open seat vacated by Thom Tillis, with 7.08 million dollars traded on its North Carolina Senate market. The polling average puts Cooper ahead by 10.7 points. (Kalshi)",
-      "image_url": null,
-      "published": "2026-11-03T11:00:00-05:00",
-      "source": "2026-11-03_1100-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_1100-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1100-est-1",
-      "title": "Texas Senate margin-of-victory markets draw 4.79 million dollars on Kalshi and 377,905 dollars on Polymarket, USA Today reports",
-      "content_text": "- **Texas Senate margin-of-victory markets draw 4.79 million dollars on Kalshi and 377,905 dollars on Polymarket, USA Today reports** — USA Today reports traders are also pricing how wide the Texas Senate result will be, not just who wins, with Polymarket's margin market led by a Talarico win of 0 to 3 percent at 29 percent. Kalshi's margin market has drawn 4,792,844 dollars in volume. (USA Today)",
-      "content_html": "<p>- **Texas Senate margin-of-victory markets draw 4.79 million dollars on Kalshi and 377,905 dollars on Polymarket, USA Today reports** — USA Today reports traders are also pricing how wide the Texas Senate result will be, not just who wins, with Polymarket&#x27;s margin market led by a Talarico win of 0 to 3 percent at 29 percent. Kalshi&#x27;s margin market has drawn 4,792,844 dollars in volume. (USA Today)</p>",
-      "date_published": "2026-11-03T11:00:00-05:00",
-      "date_modified": "2026-11-03T11:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 11:00 AM ET",
-      "body": "- **Texas Senate margin-of-victory markets draw 4.79 million dollars on Kalshi and 377,905 dollars on Polymarket, USA Today reports** — USA Today reports traders are also pricing how wide the Texas Senate result will be, not just who wins, with Polymarket's margin market led by a Talarico win of 0 to 3 percent at 29 percent. Kalshi's margin market has drawn 4,792,844 dollars in volume. (USA Today)",
       "image_url": null,
       "published": "2026-11-03T11:00:00-05:00",
       "source": "2026-11-03_1100-est.json",
