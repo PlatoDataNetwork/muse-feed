@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T04:45:01.566911-05:00",
+  "updated": "2026-11-03T04:58:38.264038-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-03_0454-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_0454-est",
+      "title": "Senate swing-states map market tops the cross-venue board at $6.8M traded in 24 hours on Election Day",
+      "content_text": "Infiniti Prediction Markets\n\nSenate swing-states map market tops the cross-venue board at $6.8M traded in 24 hours on Election Day\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used today in briefings or website-only batches (the…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nFlorida Governor favorite Byron Donalds slides from 78% to 63% over seven days on Kalshi, the board's second-biggest weekly move\nDeFi Rate's biggest-moves list, on the same live board read this morning, puts Kalshi's Florida Governor winner contract for Byron Donalds at 63%, down 15 points over…\n#PredictionMarkets #Kalshi #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Senate swing-states map market tops the cross-venue board at $6.8M traded in 24 hours on Election Day<br/>No significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used today in briefings or website-only batches (the…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>Florida Governor favorite Byron Donalds slides from 78% to 63% over seven days on Kalshi, the board&#x27;s second-biggest weekly move<br/>DeFi Rate&#x27;s biggest-moves list, on the same live board read this morning, puts Kalshi&#x27;s Florida Governor winner contract for Byron Donalds at 63%, down 15 points over…<br/>#PredictionMarkets #Kalshi #Elections<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T04:54:00-05:00",
+      "date_modified": "2026-11-03T04:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 4:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nSenate swing-states map market tops the cross-venue board at $6.8M traded in 24 hours on Election Day\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used today in briefings or website-only batches (the…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nFlorida Governor favorite Byron Donalds slides from 78% to 63% over seven days on Kalshi, the board's second-biggest weekly move\nDeFi Rate's biggest-moves list, on the same live board read this morning, puts Kalshi's Florida Governor winner contract for Byron Donalds at 63%, down 15 points over…\n#PredictionMarkets #Kalshi #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T04:54:00-05:00",
+      "source": "2026-11-03_0454-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_0445-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0445-est-0",
@@ -4365,35 +4396,6 @@
       "links": [],
       "timestamp": "Nov 2, 2026 · 2:45 AM ET",
       "body": "- **Polymarket tracks 669 active markets with 169.8 million dollars traded in 24 hours and 4,952.9 million dollars in total volume, PredScope reports** — PredScope's November 2 board, updated every 10 minutes, counts 669 active Polymarket markets with 169.8 million dollars traded in the last 24 hours. The highest-volume single markets were Eagles against Commanders at 8.1 million dollars in 24 hours and Chiefs against Broncos at 5.9 million dollars. (PredScope)",
-      "image_url": null,
-      "published": "2026-11-02T02:45:00-05:00",
-      "source": "2026-11-02_0245-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0245-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0245-est-3",
-      "title": "Kalshi market on how high WTI oil will get by the end of next month has traded 10.7 million dollars as its gold market prices gold above 3,904 dollars, Kalshi reports",
-      "content_text": "- **Kalshi market on how high WTI oil will get by the end of next month has traded 10.7 million dollars as its gold market prices gold above 3,904 dollars, Kalshi reports** — Kalshi's commodities board shows 10.7 million dollars traded on its market for how high WTI crude oil will get by the end of next month, with the market for WTI above 100.49 dollars today drawing 79,028 dollars. Its gold price market for today prices gold above 3,904 dollars at 1.76 times, on 47,848 dollars traded. (Kalshi)",
-      "content_html": "<p>- **Kalshi market on how high WTI oil will get by the end of next month has traded 10.7 million dollars as its gold market prices gold above 3,904 dollars, Kalshi reports** — Kalshi&#x27;s commodities board shows 10.7 million dollars traded on its market for how high WTI crude oil will get by the end of next month, with the market for WTI above 100.49 dollars today drawing 79,028 dollars. Its gold price market for today prices gold above 3,904 dollars at 1.76 times, on 47,848 dollars traded. (Kalshi)</p>",
-      "date_published": "2026-11-02T02:45:00-05:00",
-      "date_modified": "2026-11-02T02:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Gold",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 2:45 AM ET",
-      "body": "- **Kalshi market on how high WTI oil will get by the end of next month has traded 10.7 million dollars as its gold market prices gold above 3,904 dollars, Kalshi reports** — Kalshi's commodities board shows 10.7 million dollars traded on its market for how high WTI crude oil will get by the end of next month, with the market for WTI above 100.49 dollars today drawing 79,028 dollars. Its gold price market for today prices gold above 3,904 dollars at 1.76 times, on 47,848 dollars traded. (Kalshi)",
       "image_url": null,
       "published": "2026-11-02T02:45:00-05:00",
       "source": "2026-11-02_0245-est.json",
