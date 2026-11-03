@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T06:25:43.757058-05:00",
+  "updated": "2026-11-03T06:42:45.114443-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -128,11 +128,151 @@
   ],
   "items": [
     {
+      "id": "web-2026-11-03_0630-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0630-est-0",
+      "title": "Prediction markets face their biggest forecasting test as midterm wagering passes 1.48 billion dollars",
+      "content_text": "- **Prediction markets face their biggest forecasting test as midterm wagering passes 1.48 billion dollars** — More than 1.48 billion dollars has been wagered on Tuesday's US midterm elections across prediction markets, with Kalshi reporting 1.33 billion dollars in midterm trading volume on Monday and about 145 million dollars wagered on Polymarket's congressional markets. More than 28,000 midterm markets have opened, and a 2025 Vanderbilt University study of nearly 2,500 markets on the 2024 election found prediction markets are generally well calibrated at scale. (Reuters)",
+      "content_html": "<p>- **Prediction markets face their biggest forecasting test as midterm wagering passes 1.48 billion dollars** — More than 1.48 billion dollars has been wagered on Tuesday&#x27;s US midterm elections across prediction markets, with Kalshi reporting 1.33 billion dollars in midterm trading volume on Monday and about 145 million dollars wagered on Polymarket&#x27;s congressional markets. More than 28,000 midterm markets have opened, and a 2025 Vanderbilt University study of nearly 2,500 markets on the 2024 election found prediction markets are generally well calibrated at scale. (Reuters)</p>",
+      "date_published": "2026-11-03T06:30:00-05:00",
+      "date_modified": "2026-11-03T06:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 6:30 AM ET",
+      "body": "- **Prediction markets face their biggest forecasting test as midterm wagering passes 1.48 billion dollars** — More than 1.48 billion dollars has been wagered on Tuesday's US midterm elections across prediction markets, with Kalshi reporting 1.33 billion dollars in midterm trading volume on Monday and about 145 million dollars wagered on Polymarket's congressional markets. More than 28,000 midterm markets have opened, and a 2025 Vanderbilt University study of nearly 2,500 markets on the 2024 election found prediction markets are generally well calibrated at scale. (Reuters)",
+      "image_url": null,
+      "published": "2026-11-03T06:30:00-05:00",
+      "source": "2026-11-03_0630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0630-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0630-est-1",
+      "title": "Kalshi funds a 2.4 million dollar New York schools initiative as the state sues over its event contracts",
+      "content_text": "- **Kalshi funds a 2.4 million dollar New York schools initiative as the state sues over its event contracts** — Kalshi and digital learning developer Everfi are launching a three-year, 2.4 million dollar initiative for New York public schools covering healthy digital habits, artificial intelligence and STEM career readiness, with Everfi curricula already used in more than 100 New York schools. The program comes as Attorney General Letitia James pursues lawsuits arguing that Kalshi and Polymarket circumvent state gambling laws with their event contracts. (New York Post)",
+      "content_html": "<p>- **Kalshi funds a 2.4 million dollar New York schools initiative as the state sues over its event contracts** — Kalshi and digital learning developer Everfi are launching a three-year, 2.4 million dollar initiative for New York public schools covering healthy digital habits, artificial intelligence and STEM career readiness, with Everfi curricula already used in more than 100 New York schools. The program comes as Attorney General Letitia James pursues lawsuits arguing that Kalshi and Polymarket circumvent state gambling laws with their event contracts. (New York Post)</p>",
+      "date_published": "2026-11-03T06:30:00-05:00",
+      "date_modified": "2026-11-03T06:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 6:30 AM ET",
+      "body": "- **Kalshi funds a 2.4 million dollar New York schools initiative as the state sues over its event contracts** — Kalshi and digital learning developer Everfi are launching a three-year, 2.4 million dollar initiative for New York public schools covering healthy digital habits, artificial intelligence and STEM career readiness, with Everfi curricula already used in more than 100 New York schools. The program comes as Attorney General Letitia James pursues lawsuits arguing that Kalshi and Polymarket circumvent state gambling laws with their event contracts. (New York Post)",
+      "image_url": null,
+      "published": "2026-11-03T06:30:00-05:00",
+      "source": "2026-11-03_0630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0630-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0630-est-2",
+      "title": "Polymarket share of combined Kalshi and Polymarket volume falls to about 17 percent as Polymarket US pays to win traders back",
+      "content_text": "- **Polymarket share of combined Kalshi and Polymarket volume falls to about 17 percent as Polymarket US pays to win traders back** — Polymarket's international platform and Polymarket US together took 17.2 percent of combined face-value volume with Kalshi in the 30 days before October 29, according to the DeFi Rate volume tracker cited by Gaming America, down from 93.8 percent in October 2024. Polymarket US filed nine CFTC amendments between October 2 and October 26 covering seven deposit, rebate and referral programs as it pays traders to return. (Gaming America)",
+      "content_html": "<p>- **Polymarket share of combined Kalshi and Polymarket volume falls to about 17 percent as Polymarket US pays to win traders back** — Polymarket&#x27;s international platform and Polymarket US together took 17.2 percent of combined face-value volume with Kalshi in the 30 days before October 29, according to the DeFi Rate volume tracker cited by Gaming America, down from 93.8 percent in October 2024. Polymarket US filed nine CFTC amendments between October 2 and October 26 covering seven deposit, rebate and referral programs as it pays traders to return. (Gaming America)</p>",
+      "date_published": "2026-11-03T06:30:00-05:00",
+      "date_modified": "2026-11-03T06:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 6:30 AM ET",
+      "body": "- **Polymarket share of combined Kalshi and Polymarket volume falls to about 17 percent as Polymarket US pays to win traders back** — Polymarket's international platform and Polymarket US together took 17.2 percent of combined face-value volume with Kalshi in the 30 days before October 29, according to the DeFi Rate volume tracker cited by Gaming America, down from 93.8 percent in October 2024. Polymarket US filed nine CFTC amendments between October 2 and October 26 covering seven deposit, rebate and referral programs as it pays traders to return. (Gaming America)",
+      "image_url": null,
+      "published": "2026-11-03T06:30:00-05:00",
+      "source": "2026-11-03_0630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0630-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0630-est-3",
+      "title": "Livestream prediction market CRSHMARKET raises a 3.5 million dollar seed round led by 6th Man Ventures",
+      "content_text": "- **Livestream prediction market CRSHMARKET raises a 3.5 million dollar seed round led by 6th Man Ventures** — CRSHMARKET, a prediction market built on Monad for livestreams, has completed a 3.5 million dollar seed funding round led by 6th Man Ventures, with participation from Reciprocal Ventures, Lattice Fund and Starting Line. Viewers predict how livestream content, including gaming and real-life streams, will unfold, and its markets settle within 60 seconds. (PANews)",
+      "content_html": "<p>- **Livestream prediction market CRSHMARKET raises a 3.5 million dollar seed round led by 6th Man Ventures** — CRSHMARKET, a prediction market built on Monad for livestreams, has completed a 3.5 million dollar seed funding round led by 6th Man Ventures, with participation from Reciprocal Ventures, Lattice Fund and Starting Line. Viewers predict how livestream content, including gaming and real-life streams, will unfold, and its markets settle within 60 seconds. (PANews)</p>",
+      "date_published": "2026-11-03T06:30:00-05:00",
+      "date_modified": "2026-11-03T06:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 6:30 AM ET",
+      "body": "- **Livestream prediction market CRSHMARKET raises a 3.5 million dollar seed round led by 6th Man Ventures** — CRSHMARKET, a prediction market built on Monad for livestreams, has completed a 3.5 million dollar seed funding round led by 6th Man Ventures, with participation from Reciprocal Ventures, Lattice Fund and Starting Line. Viewers predict how livestream content, including gaming and real-life streams, will unfold, and its markets settle within 60 seconds. (PANews)",
+      "image_url": null,
+      "published": "2026-11-03T06:30:00-05:00",
+      "source": "2026-11-03_0630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0630-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0630-est-4",
+      "title": "Chicago Bears Super Bowl price climbs 4 points to 12 percent on Kalshi in the latest odds update",
+      "content_text": "- **Chicago Bears Super Bowl price climbs 4 points to 12 percent on Kalshi in the latest odds update** — The Kalshi odds board updated on the morning of November 3 prices the Chicago Bears at 12 percent to win Super Bowl LXI, up 4 points in 24 hours, with the San Francisco 49ers leading at 16 percent on Kalshi and 14 percent on Polymarket. The Buffalo Bills follow the 49ers at 14 percent on Kalshi. (Rivo)",
+      "content_html": "<p>- **Chicago Bears Super Bowl price climbs 4 points to 12 percent on Kalshi in the latest odds update** — The Kalshi odds board updated on the morning of November 3 prices the Chicago Bears at 12 percent to win Super Bowl LXI, up 4 points in 24 hours, with the San Francisco 49ers leading at 16 percent on Kalshi and 14 percent on Polymarket. The Buffalo Bills follow the 49ers at 14 percent on Kalshi. (Rivo)</p>",
+      "date_published": "2026-11-03T06:30:00-05:00",
+      "date_modified": "2026-11-03T06:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 6:30 AM ET",
+      "body": "- **Chicago Bears Super Bowl price climbs 4 points to 12 percent on Kalshi in the latest odds update** — The Kalshi odds board updated on the morning of November 3 prices the Chicago Bears at 12 percent to win Super Bowl LXI, up 4 points in 24 hours, with the San Francisco 49ers leading at 16 percent on Kalshi and 14 percent on Polymarket. The Buffalo Bills follow the 49ers at 14 percent on Kalshi. (Rivo)",
+      "image_url": null,
+      "published": "2026-11-03T06:30:00-05:00",
+      "source": "2026-11-03_0630-est.json",
+      "matches_facebook_post": false
+    },
+    {
       "id": "infiniti-2026-11-03_0624-est",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_0624-est",
-      "title": "NBA names Kalshi and Polymarket its preferred prediction market exchanges, with official data via Sportradar and a CFTC integrity agreement",
-      "content_text": "Infiniti Prediction Markets\n\nNBA names Kalshi and Polymarket its preferred prediction market exchanges, with official data via Sportradar and a CFTC integrity agreement\nNo significant new prediction-platform headline in the last 30 minutes beyond this deal coverage, so this edition leads with it, in a product launches/partnerships…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\n\nFour Democratic senators question whether X gives Polymarket preferential advertising treatment, with answers due November 30\nKuCoin, published Nov. 3, reports Senators Catherine Cortez Masto, Jacky Rosen, Adam Schiff and Richard Blumenthal sent X's leadership a letter dated October 30 citing…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Prediction Markets<br/><br/>NBA names Kalshi and Polymarket its preferred prediction market exchanges, with official data via Sportradar and a CFTC integrity agreement<br/>No significant new prediction-platform headline in the last 30 minutes beyond this deal coverage, so this edition leads with it, in a product launches/partnerships…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/><br/>Four Democratic senators question whether X gives Polymarket preferential advertising treatment, with answers due November 30<br/>KuCoin, published Nov. 3, reports Senators Catherine Cortez Masto, Jacky Rosen, Adam Schiff and Richard Blumenthal sent X&#x27;s leadership a letter dated October 30 citing…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "title": "Four Democratic senators question whether X gives Polymarket preferential advertising treatment, with answers due November 30",
+      "content_text": "Infiniti Prediction Markets\n\nFour Democratic senators question whether X gives Polymarket preferential advertising treatment, with answers due November 30\nKuCoin, published Nov. 3, reports Senators Catherine Cortez Masto, Jacky Rosen, Adam Schiff and Richard Blumenthal sent X's leadership a letter dated October 30 citing…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nCommodities & crypto stats\nPredictionMarketPicks' Kalshi 15-minute board, read Nov. 3 at 6:24 AM ET:, Bitcoin was 70% of the contracts traded across the 20 trading series over the last day of…\n#PredictionMarkets #Kalshi #Bitcoin #Ethereum\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Four Democratic senators question whether X gives Polymarket preferential advertising treatment, with answers due November 30<br/>KuCoin, published Nov. 3, reports Senators Catherine Cortez Masto, Jacky Rosen, Adam Schiff and Richard Blumenthal sent X&#x27;s leadership a letter dated October 30 citing…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>Commodities &amp; crypto stats<br/>PredictionMarketPicks&#x27; Kalshi 15-minute board, read Nov. 3 at 6:24 AM ET:, Bitcoin was 70% of the contracts traded across the 20 trading series over the last day of…<br/>#PredictionMarkets #Kalshi #Bitcoin #Ethereum<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
       "date_published": "2026-11-03T06:24:00-05:00",
       "date_modified": "2026-11-03T06:24:00-05:00",
       "authors": [
@@ -145,14 +285,15 @@
         "PredictionMarkets",
         "Kalshi",
         "Polymarket",
-        "CFTC",
-        "Senate"
+        "Senate",
+        "Bitcoin",
+        "Ethereum"
       ],
       "image": null,
       "external_url": null,
       "links": [],
       "timestamp": "Nov 3, 2026 · 6:24 AM ET",
-      "body": "Infiniti Prediction Markets\n\nNBA names Kalshi and Polymarket its preferred prediction market exchanges, with official data via Sportradar and a CFTC integrity agreement\nNo significant new prediction-platform headline in the last 30 minutes beyond this deal coverage, so this edition leads with it, in a product launches/partnerships…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\n\nFour Democratic senators question whether X gives Polymarket preferential advertising treatment, with answers due November 30\nKuCoin, published Nov. 3, reports Senators Catherine Cortez Masto, Jacky Rosen, Adam Schiff and Richard Blumenthal sent X's leadership a letter dated October 30 citing…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nhttps://infiniti.w3ai.io/intelligence",
+      "body": "Infiniti Prediction Markets\n\nFour Democratic senators question whether X gives Polymarket preferential advertising treatment, with answers due November 30\nKuCoin, published Nov. 3, reports Senators Catherine Cortez Masto, Jacky Rosen, Adam Schiff and Richard Blumenthal sent X's leadership a letter dated October 30 citing…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nCommodities & crypto stats\nPredictionMarketPicks' Kalshi 15-minute board, read Nov. 3 at 6:24 AM ET:, Bitcoin was 70% of the contracts traded across the 20 trading series over the last day of…\n#PredictionMarkets #Kalshi #Bitcoin #Ethereum\n\nhttps://infiniti.w3ai.io/intelligence",
       "image_url": null,
       "published": "2026-11-03T06:24:00-05:00",
       "source": "2026-11-03_0624-est.md",
@@ -4264,143 +4405,6 @@
       "source": "2026-11-02_batch5-ai-agents.json",
       "matches_facebook_post": false,
       "kind": "article"
-    },
-    {
-      "id": "web-2026-11-02_0430-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0430-est-0",
-      "title": "Whale and smart-money wallets show the strongest signal on Democrats controlling the House at 95 percent with 234,000 dollars in signal volume, CoinStats reports",
-      "content_text": "- **Whale and smart-money wallets show the strongest signal on Democrats controlling the House at 95 percent with 234,000 dollars in signal volume, CoinStats reports** — CoinStats, in a snapshot refreshed on November 2, scores the House market at plus 2, with whales buying Yes and smart money showing a strong Yes signal on 234,000 dollars of signal volume. The same board prices Democrats controlling the Senate at 73 percent and a Democratic win in the Michigan Senate race at 79 percent. (CoinStats)",
-      "content_html": "<p>- **Whale and smart-money wallets show the strongest signal on Democrats controlling the House at 95 percent with 234,000 dollars in signal volume, CoinStats reports** — CoinStats, in a snapshot refreshed on November 2, scores the House market at plus 2, with whales buying Yes and smart money showing a strong Yes signal on 234,000 dollars of signal volume. The same board prices Democrats controlling the Senate at 73 percent and a Democratic win in the Michigan Senate race at 79 percent. (CoinStats)</p>",
-      "date_published": "2026-11-02T04:30:00-05:00",
-      "date_modified": "2026-11-02T04:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 4:30 AM ET",
-      "body": "- **Whale and smart-money wallets show the strongest signal on Democrats controlling the House at 95 percent with 234,000 dollars in signal volume, CoinStats reports** — CoinStats, in a snapshot refreshed on November 2, scores the House market at plus 2, with whales buying Yes and smart money showing a strong Yes signal on 234,000 dollars of signal volume. The same board prices Democrats controlling the Senate at 73 percent and a Democratic win in the Michigan Senate race at 79 percent. (CoinStats)",
-      "image_url": null,
-      "published": "2026-11-02T04:30:00-05:00",
-      "source": "2026-11-02_0430-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0430-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0430-est-1",
-      "title": "AJ Dybantsa shows the widest cross-venue gap at 5.5 points in the NBA Rookie of the Year market, at 17 cents on Polymarket against 11 cents on Kalshi, WIN Daily reports",
-      "content_text": "- **AJ Dybantsa shows the widest cross-venue gap at 5.5 points in the NBA Rookie of the Year market, at 17 cents on Polymarket against 11 cents on Kalshi, WIN Daily reports** — WIN Daily, with prices refreshing about every 40 minutes on November 2, lists the Dybantsa gap as the biggest between the two exchanges, followed by Georgia in the college football championship market at 15 cents on Polymarket against 20 cents on Kalshi for a 4.6 point gap. The board prices Texas Senate favorite James Talarico at 72 cents on both venues. (WIN Daily)",
-      "content_html": "<p>- **AJ Dybantsa shows the widest cross-venue gap at 5.5 points in the NBA Rookie of the Year market, at 17 cents on Polymarket against 11 cents on Kalshi, WIN Daily reports** — WIN Daily, with prices refreshing about every 40 minutes on November 2, lists the Dybantsa gap as the biggest between the two exchanges, followed by Georgia in the college football championship market at 15 cents on Polymarket against 20 cents on Kalshi for a 4.6 point gap. The board prices Texas Senate favorite James Talarico at 72 cents on both venues. (WIN Daily)</p>",
-      "date_published": "2026-11-02T04:30:00-05:00",
-      "date_modified": "2026-11-02T04:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 4:30 AM ET",
-      "body": "- **AJ Dybantsa shows the widest cross-venue gap at 5.5 points in the NBA Rookie of the Year market, at 17 cents on Polymarket against 11 cents on Kalshi, WIN Daily reports** — WIN Daily, with prices refreshing about every 40 minutes on November 2, lists the Dybantsa gap as the biggest between the two exchanges, followed by Georgia in the college football championship market at 15 cents on Polymarket against 20 cents on Kalshi for a 4.6 point gap. The board prices Texas Senate favorite James Talarico at 72 cents on both venues. (WIN Daily)",
-      "image_url": null,
-      "published": "2026-11-02T04:30:00-05:00",
-      "source": "2026-11-02_0430-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0430-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0430-est-2",
-      "title": "PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, with sports contracts in 15 states, GambleRss reports",
-      "content_text": "- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, with sports contracts in 15 states, GambleRss reports** — GambleRss reports PrizePicks has partnered with Kalshi to launch prediction markets directly in the PrizePicks app, after securing FCM approval to partner with a designated contract market. Sports event contracts sit under the Team Picks hub in 15 states, while the Culture Picks banner covers music, movies, politics and more. (GambleRss)",
-      "content_html": "<p>- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, with sports contracts in 15 states, GambleRss reports** — GambleRss reports PrizePicks has partnered with Kalshi to launch prediction markets directly in the PrizePicks app, after securing FCM approval to partner with a designated contract market. Sports event contracts sit under the Team Picks hub in 15 states, while the Culture Picks banner covers music, movies, politics and more. (GambleRss)</p>",
-      "date_published": "2026-11-02T04:30:00-05:00",
-      "date_modified": "2026-11-02T04:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 4:30 AM ET",
-      "body": "- **PrizePicks launches prediction markets with Kalshi in 38 states and Washington DC, with sports contracts in 15 states, GambleRss reports** — GambleRss reports PrizePicks has partnered with Kalshi to launch prediction markets directly in the PrizePicks app, after securing FCM approval to partner with a designated contract market. Sports event contracts sit under the Team Picks hub in 15 states, while the Culture Picks banner covers music, movies, politics and more. (GambleRss)",
-      "image_url": null,
-      "published": "2026-11-02T04:30:00-05:00",
-      "source": "2026-11-02_0430-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0430-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0430-est-3",
-      "title": "DefiLlama and Trueo launch DeFi revenue and exploit prediction markets settling on DefiLlama data, Coinscreamer reports",
-      "content_text": "- **DefiLlama and Trueo launch DeFi revenue and exploit prediction markets settling on DefiLlama data, Coinscreamer reports** — Coinscreamer reports DefiLlama is featuring new Trueo prediction markets that settle using its analytics data, covering protocol revenue, exploit risk and onchain metrics. Revenue contracts cover Hyperliquid, Pump.fun, Aero Protocol, Uniswap, Collector Crypt and Papertrade, alongside markets on whether Aave or Morpho experiences an exploit during the month. (Coinscreamer)",
-      "content_html": "<p>- **DefiLlama and Trueo launch DeFi revenue and exploit prediction markets settling on DefiLlama data, Coinscreamer reports** — Coinscreamer reports DefiLlama is featuring new Trueo prediction markets that settle using its analytics data, covering protocol revenue, exploit risk and onchain metrics. Revenue contracts cover Hyperliquid, Pump.fun, Aero Protocol, Uniswap, Collector Crypt and Papertrade, alongside markets on whether Aave or Morpho experiences an exploit during the month. (Coinscreamer)</p>",
-      "date_published": "2026-11-02T04:30:00-05:00",
-      "date_modified": "2026-11-02T04:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 4:30 AM ET",
-      "body": "- **DefiLlama and Trueo launch DeFi revenue and exploit prediction markets settling on DefiLlama data, Coinscreamer reports** — Coinscreamer reports DefiLlama is featuring new Trueo prediction markets that settle using its analytics data, covering protocol revenue, exploit risk and onchain metrics. Revenue contracts cover Hyperliquid, Pump.fun, Aero Protocol, Uniswap, Collector Crypt and Papertrade, alongside markets on whether Aave or Morpho experiences an exploit during the month. (Coinscreamer)",
-      "image_url": null,
-      "published": "2026-11-02T04:30:00-05:00",
-      "source": "2026-11-02_0430-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0430-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0430-est-4",
-      "title": "Bitcoin trades below 80,000 dollars near 78,000 to 78,500 dollars on November 2 as gold holds below 4,000 dollars and WTI trades near 101 to 102 dollars, DailyForex reports",
-      "content_text": "- **Bitcoin trades below 80,000 dollars near 78,000 to 78,500 dollars on November 2 as gold holds below 4,000 dollars and WTI trades near 101 to 102 dollars, DailyForex reports** — DailyForex, in its November 2 brief, says Bitcoin remains below 80,000 dollars after last week selloff and the reported 6.3 billion dollar Binance theft, with gold near 3,900 to 3,910 dollars after its lowest level in about a year on Friday. WTI traded around 101 to 102 dollars and Brent around 110 to 112 dollars, while prediction markets saw a strong probability that Democrats will take control of both Houses ahead of the November 3 midterms. (DailyForex)",
-      "content_html": "<p>- **Bitcoin trades below 80,000 dollars near 78,000 to 78,500 dollars on November 2 as gold holds below 4,000 dollars and WTI trades near 101 to 102 dollars, DailyForex reports** — DailyForex, in its November 2 brief, says Bitcoin remains below 80,000 dollars after last week selloff and the reported 6.3 billion dollar Binance theft, with gold near 3,900 to 3,910 dollars after its lowest level in about a year on Friday. WTI traded around 101 to 102 dollars and Brent around 110 to 112 dollars, while prediction markets saw a strong probability that Democrats will take control of both Houses ahead of the November 3 midterms. (DailyForex)</p>",
-      "date_published": "2026-11-02T04:30:00-05:00",
-      "date_modified": "2026-11-02T04:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Gold",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 4:30 AM ET",
-      "body": "- **Bitcoin trades below 80,000 dollars near 78,000 to 78,500 dollars on November 2 as gold holds below 4,000 dollars and WTI trades near 101 to 102 dollars, DailyForex reports** — DailyForex, in its November 2 brief, says Bitcoin remains below 80,000 dollars after last week selloff and the reported 6.3 billion dollar Binance theft, with gold near 3,900 to 3,910 dollars after its lowest level in about a year on Friday. WTI traded around 101 to 102 dollars and Brent around 110 to 112 dollars, while prediction markets saw a strong probability that Democrats will take control of both Houses ahead of the November 3 midterms. (DailyForex)",
-      "image_url": null,
-      "published": "2026-11-02T04:30:00-05:00",
-      "source": "2026-11-02_0430-est.json",
-      "matches_facebook_post": false
     }
   ]
 }
