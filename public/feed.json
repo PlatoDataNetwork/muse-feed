@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T03:43:53.538530-05:00",
+  "updated": "2026-11-03T04:02:57.326886-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,182 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-03_0400-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0400-est-0",
+      "title": "Polymarket sues Louisiana, Kalshi sues Missouri and Crypto.com sues Utah in the state fight over prediction markets, Gaming America reports",
+      "content_text": "- **Polymarket sues Louisiana, Kalshi sues Missouri and Crypto.com sues Utah in the state fight over prediction markets, Gaming America reports** — The lawsuits repeat the operators argument that federally regulated event contracts fall under the Commodity Exchange Act and that states cannot block them. The filings follow cease-and-desist letters and enforcement threats from state gaming authorities. (Gaming America)",
+      "content_html": "<p>- **Polymarket sues Louisiana, Kalshi sues Missouri and Crypto.com sues Utah in the state fight over prediction markets, Gaming America reports** — The lawsuits repeat the operators argument that federally regulated event contracts fall under the Commodity Exchange Act and that states cannot block them. The filings follow cease-and-desist letters and enforcement threats from state gaming authorities. (Gaming America)</p>",
+      "date_published": "2026-11-03T04:00:00-05:00",
+      "date_modified": "2026-11-03T04:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 4:00 AM ET",
+      "body": "- **Polymarket sues Louisiana, Kalshi sues Missouri and Crypto.com sues Utah in the state fight over prediction markets, Gaming America reports** — The lawsuits repeat the operators argument that federally regulated event contracts fall under the Commodity Exchange Act and that states cannot block them. The filings follow cease-and-desist letters and enforcement threats from state gaming authorities. (Gaming America)",
+      "image_url": null,
+      "published": "2026-11-03T04:00:00-05:00",
+      "source": "2026-11-03_0400-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0400-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0400-est-1",
+      "title": "Democratic sweep priced at 66 cents on both Kalshi and Polymarket in the Congress balance of power market, Vegas Insider reports",
+      "content_text": "- **Democratic sweep priced at 66 cents on both Kalshi and Polymarket in the Congress balance of power market, Vegas Insider reports** — A Democratic House with a Republican Senate is the main alternative at 29 cents on Kalshi and 28 cents on Polymarket, while a Republican sweep sits at 8.3 cents and 9 cents. The two exchanges price every balance-of-power outcome within about a point of each other heading into Election Day. (Vegas Insider)",
+      "content_html": "<p>- **Democratic sweep priced at 66 cents on both Kalshi and Polymarket in the Congress balance of power market, Vegas Insider reports** — A Democratic House with a Republican Senate is the main alternative at 29 cents on Kalshi and 28 cents on Polymarket, while a Republican sweep sits at 8.3 cents and 9 cents. The two exchanges price every balance-of-power outcome within about a point of each other heading into Election Day. (Vegas Insider)</p>",
+      "date_published": "2026-11-03T04:00:00-05:00",
+      "date_modified": "2026-11-03T04:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Congress",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 4:00 AM ET",
+      "body": "- **Democratic sweep priced at 66 cents on both Kalshi and Polymarket in the Congress balance of power market, Vegas Insider reports** — A Democratic House with a Republican Senate is the main alternative at 29 cents on Kalshi and 28 cents on Polymarket, while a Republican sweep sits at 8.3 cents and 9 cents. The two exchanges price every balance-of-power outcome within about a point of each other heading into Election Day. (Vegas Insider)",
+      "image_url": null,
+      "published": "2026-11-03T04:00:00-05:00",
+      "source": "2026-11-03_0400-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0400-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0400-est-2",
+      "title": "Sherrod Brown priced at 71 cents on both Polymarket and Kalshi in the Ohio Senate special election against Jon Husted, Vegas Insider reports",
+      "content_text": "- **Sherrod Brown priced at 71 cents on both Polymarket and Kalshi in the Ohio Senate special election against Jon Husted, Vegas Insider reports** — Husted sits at 30 cents on Polymarket and 29 cents on Kalshi in the race to finish the unexpired term. Ohio polls close at 7:30 p.m. ET on Tuesday, November 3. (Vegas Insider)",
+      "content_html": "<p>- **Sherrod Brown priced at 71 cents on both Polymarket and Kalshi in the Ohio Senate special election against Jon Husted, Vegas Insider reports** — Husted sits at 30 cents on Polymarket and 29 cents on Kalshi in the race to finish the unexpired term. Ohio polls close at 7:30 p.m. ET on Tuesday, November 3. (Vegas Insider)</p>",
+      "date_published": "2026-11-03T04:00:00-05:00",
+      "date_modified": "2026-11-03T04:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 4:00 AM ET",
+      "body": "- **Sherrod Brown priced at 71 cents on both Polymarket and Kalshi in the Ohio Senate special election against Jon Husted, Vegas Insider reports** — Husted sits at 30 cents on Polymarket and 29 cents on Kalshi in the race to finish the unexpired term. Ohio polls close at 7:30 p.m. ET on Tuesday, November 3. (Vegas Insider)",
+      "image_url": null,
+      "published": "2026-11-03T04:00:00-05:00",
+      "source": "2026-11-03_0400-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0400-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0400-est-3",
+      "title": "Polymarket US adds five-minute Bitcoin, Ether, Solana and XRP price markets to its US app, FinanceFeeds reports",
+      "content_text": "- **Polymarket US adds five-minute Bitcoin, Ether, Solana and XRP price markets to its US app, FinanceFeeds reports** — The contracts, launched on October 27, settle on whether each cryptocurrency finishes a five-minute window higher or lower, using CF Benchmarks pricing, with winning positions paying 1 dollar. The launch follows 15-minute, hourly and daily crypto markets added earlier in October. (FinanceFeeds)",
+      "content_html": "<p>- **Polymarket US adds five-minute Bitcoin, Ether, Solana and XRP price markets to its US app, FinanceFeeds reports** — The contracts, launched on October 27, settle on whether each cryptocurrency finishes a five-minute window higher or lower, using CF Benchmarks pricing, with winning positions paying 1 dollar. The launch follows 15-minute, hourly and daily crypto markets added earlier in October. (FinanceFeeds)</p>",
+      "date_published": "2026-11-03T04:00:00-05:00",
+      "date_modified": "2026-11-03T04:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Bitcoin",
+        "Solana"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 4:00 AM ET",
+      "body": "- **Polymarket US adds five-minute Bitcoin, Ether, Solana and XRP price markets to its US app, FinanceFeeds reports** — The contracts, launched on October 27, settle on whether each cryptocurrency finishes a five-minute window higher or lower, using CF Benchmarks pricing, with winning positions paying 1 dollar. The launch follows 15-minute, hourly and daily crypto markets added earlier in October. (FinanceFeeds)",
+      "image_url": null,
+      "published": "2026-11-03T04:00:00-05:00",
+      "source": "2026-11-03_0400-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_0400-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0400-est-4",
+      "title": "November Polymarket calendar lists 1,610 markets by date, led by 1,210 election markets, PolymarketTrader reports",
+      "content_text": "- **November Polymarket calendar lists 1,610 markets by date, led by 1,210 election markets, PolymarketTrader reports** — The calendar, updated November 3, also counts 102 economy and central bank markets, 96 sports markets, 72 tech and AI markets and 45 culture and awards markets. Election markets account for about three quarters of the months listed expiries. (PolymarketTrader)",
+      "content_html": "<p>- **November Polymarket calendar lists 1,610 markets by date, led by 1,210 election markets, PolymarketTrader reports** — The calendar, updated November 3, also counts 102 economy and central bank markets, 96 sports markets, 72 tech and AI markets and 45 culture and awards markets. Election markets account for about three quarters of the months listed expiries. (PolymarketTrader)</p>",
+      "date_published": "2026-11-03T04:00:00-05:00",
+      "date_modified": "2026-11-03T04:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 4:00 AM ET",
+      "body": "- **November Polymarket calendar lists 1,610 markets by date, led by 1,210 election markets, PolymarketTrader reports** — The calendar, updated November 3, also counts 102 economy and central bank markets, 96 sports markets, 72 tech and AI markets and 45 culture and awards markets. Election markets account for about three quarters of the months listed expiries. (PolymarketTrader)",
+      "image_url": null,
+      "published": "2026-11-03T04:00:00-05:00",
+      "source": "2026-11-03_0400-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-11-03_0354-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_0354-est",
+      "title": "Three-quarters of Polymarket profits went to 0.1% of accounts, a new critique of election markets argues",
+      "content_text": "Infiniti Prediction Markets\n\nThree-quarters of Polymarket profits went to 0.1% of accounts, a new critique of election markets argues\nMogaz, publishing Judith Levine's critique on Nov. 3, reports a London Business School and Yale working paper found almost every wagerer's results were no better than…\n#PredictionMarkets #Polymarket #Elections\n\nPolitics was the fastest-rising major category in dollars paid over the last 24 hours, up 94% to $211M\nDeFi Rate's prediction-market volume tracker, as of Nov. 3 at 2:30 AM ET, puts politics at $211M in dollars actually paid over the last 24 hours, up 94%, with finance at…\n#PredictionMarkets\n\nMinnesota Timberwolves priced at 24.5% on Kalshi against the Houston Rockets on the live NBA board\nSportsBookISH's NBA board, read live this morning across 25 games with 28 Kalshi quotes tracked against seven sportsbooks, prices Minnesota at 24.5% on Kalshi against…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Three-quarters of Polymarket profits went to 0.1% of accounts, a new critique of election markets argues<br/>Mogaz, publishing Judith Levine&#x27;s critique on Nov. 3, reports a London Business School and Yale working paper found almost every wagerer&#x27;s results were no better than…<br/>#PredictionMarkets #Polymarket #Elections<br/><br/>Politics was the fastest-rising major category in dollars paid over the last 24 hours, up 94% to $211M<br/>DeFi Rate&#x27;s prediction-market volume tracker, as of Nov. 3 at 2:30 AM ET, puts politics at $211M in dollars actually paid over the last 24 hours, up 94%, with finance at…<br/>#PredictionMarkets<br/><br/>Minnesota Timberwolves priced at 24.5% on Kalshi against the Houston Rockets on the live NBA board<br/>SportsBookISH&#x27;s NBA board, read live this morning across 25 games with 28 Kalshi quotes tracked against seven sportsbooks, prices Minnesota at 24.5% on Kalshi against…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T03:54:00-05:00",
+      "date_modified": "2026-11-03T03:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 3:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nThree-quarters of Polymarket profits went to 0.1% of accounts, a new critique of election markets argues\nMogaz, publishing Judith Levine's critique on Nov. 3, reports a London Business School and Yale working paper found almost every wagerer's results were no better than…\n#PredictionMarkets #Polymarket #Elections\n\nPolitics was the fastest-rising major category in dollars paid over the last 24 hours, up 94% to $211M\nDeFi Rate's prediction-market volume tracker, as of Nov. 3 at 2:30 AM ET, puts politics at $211M in dollars actually paid over the last 24 hours, up 94%, with finance at…\n#PredictionMarkets\n\nMinnesota Timberwolves priced at 24.5% on Kalshi against the Houston Rockets on the live NBA board\nSportsBookISH's NBA board, read live this morning across 25 games with 28 Kalshi quotes tracked against seven sportsbooks, prices Minnesota at 24.5% on Kalshi against…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T03:54:00-05:00",
+      "source": "2026-11-03_0354-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_0345-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0345-est-0",
@@ -4238,178 +4414,6 @@
       "image_url": null,
       "published": "2026-11-02T02:00:00-05:00",
       "source": "2026-11-02_0200-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0200-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0200-est-2",
-      "title": "Kalshi Bears at Seahawks market draws 1.86 million dollars ahead of Monday Night Football, Prediction News reports",
-      "content_text": "- **Kalshi Bears at Seahawks market draws 1.86 million dollars ahead of Monday Night Football, Prediction News reports** — Kalshi's prediction market for the Chicago Bears at Seattle Seahawks Monday Night Football game on November 2 has traded about 1.86 million dollars. Prediction News noted the volume shows Kalshi drawing meaningful trading on single-game sports contracts. (Prediction News)",
-      "content_html": "<p>- **Kalshi Bears at Seahawks market draws 1.86 million dollars ahead of Monday Night Football, Prediction News reports** — Kalshi&#x27;s prediction market for the Chicago Bears at Seattle Seahawks Monday Night Football game on November 2 has traded about 1.86 million dollars. Prediction News noted the volume shows Kalshi drawing meaningful trading on single-game sports contracts. (Prediction News)</p>",
-      "date_published": "2026-11-02T02:00:00-05:00",
-      "date_modified": "2026-11-02T02:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 2:00 AM ET",
-      "body": "- **Kalshi Bears at Seahawks market draws 1.86 million dollars ahead of Monday Night Football, Prediction News reports** — Kalshi's prediction market for the Chicago Bears at Seattle Seahawks Monday Night Football game on November 2 has traded about 1.86 million dollars. Prediction News noted the volume shows Kalshi drawing meaningful trading on single-game sports contracts. (Prediction News)",
-      "image_url": null,
-      "published": "2026-11-02T02:00:00-05:00",
-      "source": "2026-11-02_0200-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0200-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0200-est-3",
-      "title": "Trader suntori leads Polymarket 24-hour profit board with 205,400 dollars, Predictmoni reports",
-      "content_text": "- **Trader suntori leads Polymarket 24-hour profit board with 205,400 dollars, Predictmoni reports** — Predictmoni's 24-hour Polymarket profit board puts trader suntori first with 205,400 dollars in profit in its November 2 snapshot, ahead of ndb1 at 201,700 dollars and AnonymousUsername at 113,000 dollars. The board ranks traders by profit as published by Polymarket over the last 24 hours. (Predictmoni)",
-      "content_html": "<p>- **Trader suntori leads Polymarket 24-hour profit board with 205,400 dollars, Predictmoni reports** — Predictmoni&#x27;s 24-hour Polymarket profit board puts trader suntori first with 205,400 dollars in profit in its November 2 snapshot, ahead of ndb1 at 201,700 dollars and AnonymousUsername at 113,000 dollars. The board ranks traders by profit as published by Polymarket over the last 24 hours. (Predictmoni)</p>",
-      "date_published": "2026-11-02T02:00:00-05:00",
-      "date_modified": "2026-11-02T02:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 2:00 AM ET",
-      "body": "- **Trader suntori leads Polymarket 24-hour profit board with 205,400 dollars, Predictmoni reports** — Predictmoni's 24-hour Polymarket profit board puts trader suntori first with 205,400 dollars in profit in its November 2 snapshot, ahead of ndb1 at 201,700 dollars and AnonymousUsername at 113,000 dollars. The board ranks traders by profit as published by Polymarket over the last 24 hours. (Predictmoni)",
-      "image_url": null,
-      "published": "2026-11-02T02:00:00-05:00",
-      "source": "2026-11-02_0200-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0200-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0200-est-4",
-      "title": "Sports take 27 of the top 50 prediction markets and 35 million dollars of 50 million dollars in 24-hour volume, DeFi Rate reports",
-      "content_text": "- **Sports take 27 of the top 50 prediction markets and 35 million dollars of 50 million dollars in 24-hour volume, DeFi Rate reports** — DeFi Rate's top 50 markets list shows sports holding 27 of the 50 most-traded markets, accounting for 35 million dollars of the 50 million dollars traded in 24 hours across Kalshi, Polymarket US, Polymarket and Gemini. Baltimore against Buffalo led the list at 5.4 million dollars in 24 hours, followed by Minnesota against Detroit at 4.3 million dollars. (DeFi Rate)",
-      "content_html": "<p>- **Sports take 27 of the top 50 prediction markets and 35 million dollars of 50 million dollars in 24-hour volume, DeFi Rate reports** — DeFi Rate&#x27;s top 50 markets list shows sports holding 27 of the 50 most-traded markets, accounting for 35 million dollars of the 50 million dollars traded in 24 hours across Kalshi, Polymarket US, Polymarket and Gemini. Baltimore against Buffalo led the list at 5.4 million dollars in 24 hours, followed by Minnesota against Detroit at 4.3 million dollars. (DeFi Rate)</p>",
-      "date_published": "2026-11-02T02:00:00-05:00",
-      "date_modified": "2026-11-02T02:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 2:00 AM ET",
-      "body": "- **Sports take 27 of the top 50 prediction markets and 35 million dollars of 50 million dollars in 24-hour volume, DeFi Rate reports** — DeFi Rate's top 50 markets list shows sports holding 27 of the 50 most-traded markets, accounting for 35 million dollars of the 50 million dollars traded in 24 hours across Kalshi, Polymarket US, Polymarket and Gemini. Baltimore against Buffalo led the list at 5.4 million dollars in 24 hours, followed by Minnesota against Detroit at 4.3 million dollars. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-02T02:00:00-05:00",
-      "source": "2026-11-02_0200-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-11-02_0154-est",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-02_0154-est",
-      "title": "Bitcoin be above $200,000 by Jan 1, 2027 priced at 2.0% on Kalshi, on $14.1M traded",
-      "content_text": "Infiniti Prediction Markets\n\nBitcoin be above $200,000 by Jan 1, 2027 priced at 2.0% on Kalshi, on $14.1M traded\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the Polymarket hack…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\n\nHouston win the Pro Football AFC South Division priced at 9.0% on Kalshi, down 7.0 points, on $850K traded\nPredictionBubbles' movers board, read live Nov. 2 at about 1:56 AM ET across 1,927 markets ranked, lists the Houston division contract among its downward movers at 9.0%,…\n#PredictionMarkets #Kalshi\n\nTrader yupiiiiiiiii made $140.8K in profit today, going 4-6\nRivo's combined today leaderboard, read live Nov. 2 at about 1:56 AM ET, ranks yupiiiiiiiii eighth on the day at $140.8K in profit on $129.3K traded, a 40% win rate and…\n#PredictionMarkets\n\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Bitcoin be above $200,000 by Jan 1, 2027 priced at 2.0% on Kalshi, on $14.1M traded<br/>No significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the Polymarket hack…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/><br/>Houston win the Pro Football AFC South Division priced at 9.0% on Kalshi, down 7.0 points, on $850K traded<br/>PredictionBubbles&#x27; movers board, read live Nov. 2 at about 1:56 AM ET across 1,927 markets ranked, lists the Houston division contract among its downward movers at 9.0%,…<br/>#PredictionMarkets #Kalshi<br/><br/>Trader yupiiiiiiiii made $140.8K in profit today, going 4-6<br/>Rivo&#x27;s combined today leaderboard, read live Nov. 2 at about 1:56 AM ET, ranks yupiiiiiiiii eighth on the day at $140.8K in profit on $129.3K traded, a 40% win rate and…<br/>#PredictionMarkets<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
-      "date_published": "2026-11-02T01:54:00-05:00",
-      "date_modified": "2026-11-02T01:54:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 1:54 AM ET",
-      "body": "Infiniti Prediction Markets\n\nBitcoin be above $200,000 by Jan 1, 2027 priced at 2.0% on Kalshi, on $14.1M traded\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used, held out or web-held (the Polymarket hack…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\n\nHouston win the Pro Football AFC South Division priced at 9.0% on Kalshi, down 7.0 points, on $850K traded\nPredictionBubbles' movers board, read live Nov. 2 at about 1:56 AM ET across 1,927 markets ranked, lists the Houston division contract among its downward movers at 9.0%,…\n#PredictionMarkets #Kalshi\n\nTrader yupiiiiiiiii made $140.8K in profit today, going 4-6\nRivo's combined today leaderboard, read live Nov. 2 at about 1:56 AM ET, ranks yupiiiiiiiii eighth on the day at $140.8K in profit on $129.3K traded, a 40% win rate and…\n#PredictionMarkets\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-11-02T01:54:00-05:00",
-      "source": "2026-11-02_0154-est.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "article-2026-11-02_batch2-capital-markets",
-      "url": "https://infiniti.w3ai.io/intelligence#article-2026-11-02_batch2-capital-markets",
-      "title": "Event Risk Has a Price Now: Prediction Markets Join the Capital Markets",
-      "content_text": "Event Risk Has a Price Now: Prediction Markets Join the Capital Markets\n\nEvery portfolio carries risks that no stock, bond or futures contract prices directly: an election that rewrites tax law, a central bank decision that reprices everything, a hurricane that closes a coastline. For decades, investors hedged those exposures with proxies, assets that might move the right way when the event landed. Prediction markets have started selling the thing itself: a contract that pays precisely when the event happens, and nothing when it does not.\n\nThe capital has noticed. Combined monthly volume on Kalshi and Polymarket grew from under $5 billion in September 2025 to about $24 billion by April 2026, according to Jefferies figures. In February 2026, Intercontinental Exchange launched Polymarket Signals and Sentiment, packaging prediction-market odds, with historical data for backtesting, as a data product for professional investors. Tradeweb distributes Kalshi event-contract data, FIS is building clearing infrastructure, and Clear Street and Interactive Brokers have integrated Kalshi contracts for their clients.\n\nThe credibility test came from the Federal Reserve itself. A February 2026 Federal Reserve Board working paper found Kalshi's macroeconomic markets deliver well-calibrated, rapidly updating forecasts, and that on the day before each Fed meeting, the market's median and most likely outcome had a perfect record, a statistically significant improvement over fed funds futures, the instrument professionals have used for decades. When the market that prices an event beats the market that merely correlates with it, the event contract stops being a curiosity and becomes a benchmark.\n\nInstitutions are now building the pipes to use it at size. In August 2026, Cantor Fitzgerald began offering institutional block trading on Kalshi to roughly 3,000 institutional clients, with Susquehanna providing pricing and liquidity, including custom contracts for bespoke risks that traditional insurance does not cover. Kalshi's clearinghouse has also asked the CFTC to permit margin for qualified self-clearing members; event contracts are currently fully collateralized, which ties up capital for months on long-dated hedges. Kalshi has said its institutional trading volume rose more than 800% in six months.\n\nPlenty of hedge funds are still watching rather than trading: liquidity in long-dated contracts remains thin, and standardization is young. But the direction is set. A market that began as a forecasting toy now clears institutional block trades, feeds the world's largest exchange operator's data business, and out-forecasts the futures pit on the Fed. Event risk has a price now, quoted in cents, and capital markets are learning to read it.\n\nSources: Sikt Intelligence; PYMNTS; Jefferies; Federal Reserve Board; Cantor Fitzgerald\n#infiniti #infinitimarkets #predictionmarkets #capitalmarkets #kalshi #polymarket\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/event-risk-has-a-price-now-prediction-markets-join-the-capital-markets",
-      "content_html": "<p>Event Risk Has a Price Now: Prediction Markets Join the Capital Markets<br/><br/>Every portfolio carries risks that no stock, bond or futures contract prices directly: an election that rewrites tax law, a central bank decision that reprices everything, a hurricane that closes a coastline. For decades, investors hedged those exposures with proxies, assets that might move the right way when the event landed. Prediction markets have started selling the thing itself: a contract that pays precisely when the event happens, and nothing when it does not.<br/><br/>The capital has noticed. Combined monthly volume on Kalshi and Polymarket grew from under $5 billion in September 2025 to about $24 billion by April 2026, according to Jefferies figures. In February 2026, Intercontinental Exchange launched Polymarket Signals and Sentiment, packaging prediction-market odds, with historical data for backtesting, as a data product for professional investors. Tradeweb distributes Kalshi event-contract data, FIS is building clearing infrastructure, and Clear Street and Interactive Brokers have integrated Kalshi contracts for their clients.<br/><br/>The credibility test came from the Federal Reserve itself. A February 2026 Federal Reserve Board working paper found Kalshi&#x27;s macroeconomic markets deliver well-calibrated, rapidly updating forecasts, and that on the day before each Fed meeting, the market&#x27;s median and most likely outcome had a perfect record, a statistically significant improvement over fed funds futures, the instrument professionals have used for decades. When the market that prices an event beats the market that merely correlates with it, the event contract stops being a curiosity and becomes a benchmark.<br/><br/>Institutions are now building the pipes to use it at size. In August 2026, Cantor Fitzgerald began offering institutional block trading on Kalshi to roughly 3,000 institutional clients, with Susquehanna providing pricing and liquidity, including custom contracts for bespoke risks that traditional insurance does not cover. Kalshi&#x27;s clearinghouse has also asked the CFTC to permit margin for qualified self-clearing members; event contracts are currently fully collateralized, which ties up capital for months on long-dated hedges. Kalshi has said its institutional trading volume rose more than 800% in six months.<br/><br/>Plenty of hedge funds are still watching rather than trading: liquidity in long-dated contracts remains thin, and standardization is young. But the direction is set. A market that began as a forecasting toy now clears institutional block trades, feeds the world&#x27;s largest exchange operator&#x27;s data business, and out-forecasts the futures pit on the Fed. Event risk has a price now, quoted in cents, and capital markets are learning to read it.<br/><br/>Sources: Sikt Intelligence; PYMNTS; Jefferies; Federal Reserve Board; Cantor Fitzgerald<br/>#infiniti #infinitimarkets #predictionmarkets #capitalmarkets #kalshi #polymarket<br/>web: Infiniti.w3ai.io<br/>Infiniti Prediction Markets<br/>https://infiniti.w3ai.io/intelligence/event-risk-has-a-price-now-prediction-markets-join-the-capital-markets</p><p><img src=\"https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch2-capital-markets.jpg\" alt=\"Infiniti Prediction Markets image\"/></p>",
-      "date_published": "2026-11-02T01:51:27-05:00",
-      "date_modified": "2026-11-02T01:51:27-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "capital markets",
-        "institutions",
-        "hedging",
-        "kalshi",
-        "polymarket"
-      ],
-      "image": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch2-capital-markets.jpg",
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 1:51 AM ET",
-      "body": "Event Risk Has a Price Now: Prediction Markets Join the Capital Markets\n\nEvery portfolio carries risks that no stock, bond or futures contract prices directly: an election that rewrites tax law, a central bank decision that reprices everything, a hurricane that closes a coastline. For decades, investors hedged those exposures with proxies, assets that might move the right way when the event landed. Prediction markets have started selling the thing itself: a contract that pays precisely when the event happens, and nothing when it does not.\n\nThe capital has noticed. Combined monthly volume on Kalshi and Polymarket grew from under $5 billion in September 2025 to about $24 billion by April 2026, according to Jefferies figures. In February 2026, Intercontinental Exchange launched Polymarket Signals and Sentiment, packaging prediction-market odds, with historical data for backtesting, as a data product for professional investors. Tradeweb distributes Kalshi event-contract data, FIS is building clearing infrastructure, and Clear Street and Interactive Brokers have integrated Kalshi contracts for their clients.\n\nThe credibility test came from the Federal Reserve itself. A February 2026 Federal Reserve Board working paper found Kalshi's macroeconomic markets deliver well-calibrated, rapidly updating forecasts, and that on the day before each Fed meeting, the market's median and most likely outcome had a perfect record, a statistically significant improvement over fed funds futures, the instrument professionals have used for decades. When the market that prices an event beats the market that merely correlates with it, the event contract stops being a curiosity and becomes a benchmark.\n\nInstitutions are now building the pipes to use it at size. In August 2026, Cantor Fitzgerald began offering institutional block trading on Kalshi to roughly 3,000 institutional clients, with Susquehanna providing pricing and liquidity, including custom contracts for bespoke risks that traditional insurance does not cover. Kalshi's clearinghouse has also asked the CFTC to permit margin for qualified self-clearing members; event contracts are currently fully collateralized, which ties up capital for months on long-dated hedges. Kalshi has said its institutional trading volume rose more than 800% in six months.\n\nPlenty of hedge funds are still watching rather than trading: liquidity in long-dated contracts remains thin, and standardization is young. But the direction is set. A market that began as a forecasting toy now clears institutional block trades, feeds the world's largest exchange operator's data business, and out-forecasts the futures pit on the Fed. Event risk has a price now, quoted in cents, and capital markets are learning to read it.\n\nSources: Sikt Intelligence; PYMNTS; Jefferies; Federal Reserve Board; Cantor Fitzgerald\n#infiniti #infinitimarkets #predictionmarkets #capitalmarkets #kalshi #polymarket\nweb: Infiniti.w3ai.io\nInfiniti Prediction Markets\nhttps://infiniti.w3ai.io/intelligence/event-risk-has-a-price-now-prediction-markets-join-the-capital-markets",
-      "image_url": "https://muse-feed-psi.vercel.app/images/article-2026-11-02_batch2-capital-markets.jpg",
-      "published": "2026-11-02T01:51:27-05:00",
-      "source": "2026-11-02_batch2-capital-markets.json",
-      "matches_facebook_post": false,
-      "kind": "article"
-    },
-    {
-      "id": "web-2026-11-02_0145-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0145-est-0",
-      "title": "CFTC sues Utah to block state action against prediction markets as Utah files criminal charges against Kalshi founders, CryptoNews reports",
-      "content_text": "- **CFTC sues Utah to block state action against prediction markets as Utah files criminal charges against Kalshi founders, CryptoNews reports** — On October 27 the CFTC sued Utah to stop the state using its gambling laws against CFTC-registered prediction markets, following Utah's October 20 civil enforcement action against Kalshi. On October 28 Utah filed criminal charges against Kalshi and co-founders Tarek Mansour and Luana Lopes Lara, alleging gambling violations and a pattern of unlawful activity. (CryptoNews)",
-      "content_html": "<p>- **CFTC sues Utah to block state action against prediction markets as Utah files criminal charges against Kalshi founders, CryptoNews reports** — On October 27 the CFTC sued Utah to stop the state using its gambling laws against CFTC-registered prediction markets, following Utah&#x27;s October 20 civil enforcement action against Kalshi. On October 28 Utah filed criminal charges against Kalshi and co-founders Tarek Mansour and Luana Lopes Lara, alleging gambling violations and a pattern of unlawful activity. (CryptoNews)</p>",
-      "date_published": "2026-11-02T01:45:00-05:00",
-      "date_modified": "2026-11-02T01:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 1:45 AM ET",
-      "body": "- **CFTC sues Utah to block state action against prediction markets as Utah files criminal charges against Kalshi founders, CryptoNews reports** — On October 27 the CFTC sued Utah to stop the state using its gambling laws against CFTC-registered prediction markets, following Utah's October 20 civil enforcement action against Kalshi. On October 28 Utah filed criminal charges against Kalshi and co-founders Tarek Mansour and Luana Lopes Lara, alleging gambling violations and a pattern of unlawful activity. (CryptoNews)",
-      "image_url": null,
-      "published": "2026-11-02T01:45:00-05:00",
-      "source": "2026-11-02_0145-est.json",
       "matches_facebook_post": false
     }
   ]
