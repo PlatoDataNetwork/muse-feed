@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T09:14:31.209225-05:00",
+  "updated": "2026-11-03T09:28:34.572699-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,35 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-03_0924-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_0924-est",
+      "title": "CPI inflation above 4.0% for the year ending in November priced at 19c on Kalshi, down 12c, the economics board's second-biggest 24-hour mover",
+      "content_text": "Infiniti Prediction Markets\n\nCPI inflation above 4.0% for the year ending in November priced at 19c on Kalshi, down 12c, the economics board's second-biggest 24-hour mover\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated the Reuters midterm forecasting test already carried today, so this…\n#PredictionMarkets #Kalshi #Midterms\n\nCharlotte wins for the November 4 game against Brooklyn priced at 57c on Kalshi, down 15c, among the sports board's biggest 24-hour movers\nThe same PredictionMarketPicks snapshot ranks the Charlotte win contract for the November 4 game against Brooklyn sixth among sports movers at 57c, down 15c, on 5,291…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>CPI inflation above 4.0% for the year ending in November priced at 19c on Kalshi, down 12c, the economics board&#x27;s second-biggest 24-hour mover<br/>No significant new prediction-platform headline in the last 30 minutes; news search recirculated the Reuters midterm forecasting test already carried today, so this…<br/>#PredictionMarkets #Kalshi #Midterms<br/><br/>Charlotte wins for the November 4 game against Brooklyn priced at 57c on Kalshi, down 15c, among the sports board&#x27;s biggest 24-hour movers<br/>The same PredictionMarketPicks snapshot ranks the Charlotte win contract for the November 4 game against Brooklyn sixth among sports movers at 57c, down 15c, on 5,291…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T09:24:00-05:00",
+      "date_modified": "2026-11-03T09:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 9:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nCPI inflation above 4.0% for the year ending in November priced at 19c on Kalshi, down 12c, the economics board's second-biggest 24-hour mover\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated the Reuters midterm forecasting test already carried today, so this…\n#PredictionMarkets #Kalshi #Midterms\n\nCharlotte wins for the November 4 game against Brooklyn priced at 57c on Kalshi, down 15c, among the sports board's biggest 24-hour movers\nThe same PredictionMarketPicks snapshot ranks the Charlotte win contract for the November 4 game against Brooklyn sixth among sports movers at 57c, down 15c, on 5,291…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T09:24:00-05:00",
+      "source": "2026-11-03_0924-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_0915-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0915-est-0",
@@ -4375,34 +4404,6 @@
       "links": [],
       "timestamp": "Nov 2, 2026 · 7:30 AM ET",
       "body": "- **Polymarket prices Palantir at 85 percent and Apple at 81 percent to beat earnings on Monday, with ON Semiconductor at 55 percent, TipRanks reports** — TipRanks says Apple, Palantir and ON Semiconductor all report after the close on Monday, November 2, against Wall Street estimates of 2.02 dollars GAAP EPS for Apple, 42 cents adjusted for Palantir and 90 cents adjusted for ON Semiconductor. Apple and ON Semiconductor have each beaten or met estimates in 17 of the past 18 quarters, and Palantir in 15 of 18. (TipRanks)",
-      "image_url": null,
-      "published": "2026-11-02T07:30:00-05:00",
-      "source": "2026-11-02_0730-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-02_0730-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-02_0730-est-1",
-      "title": "Clean energy, housing and healthcare stocks seen as beneficiaries as Polymarket prices a Democratic sweep at 72 percent ahead of the midterms, Reuters reports",
-      "content_text": "- **Clean energy, housing and healthcare stocks seen as beneficiaries as Polymarket prices a Democratic sweep at 72 percent ahead of the midterms, Reuters reports** — Reuters, published November 2, says corporate America is bracing for a possible shift in the balance of power in Washington, with analysts seeing clean energy, housing and healthcare as potential beneficiaries of a strong Democratic showing. Polymarket prices Republicans holding the Senate while Democrats win the House at 23 percent and Republicans retaining both chambers at 6 percent. (Reuters)",
-      "content_html": "<p>- **Clean energy, housing and healthcare stocks seen as beneficiaries as Polymarket prices a Democratic sweep at 72 percent ahead of the midterms, Reuters reports** — Reuters, published November 2, says corporate America is bracing for a possible shift in the balance of power in Washington, with analysts seeing clean energy, housing and healthcare as potential beneficiaries of a strong Democratic showing. Polymarket prices Republicans holding the Senate while Democrats win the House at 23 percent and Republicans retaining both chambers at 6 percent. (Reuters)</p>",
-      "date_published": "2026-11-02T07:30:00-05:00",
-      "date_modified": "2026-11-02T07:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 2, 2026 · 7:30 AM ET",
-      "body": "- **Clean energy, housing and healthcare stocks seen as beneficiaries as Polymarket prices a Democratic sweep at 72 percent ahead of the midterms, Reuters reports** — Reuters, published November 2, says corporate America is bracing for a possible shift in the balance of power in Washington, with analysts seeing clean energy, housing and healthcare as potential beneficiaries of a strong Democratic showing. Polymarket prices Republicans holding the Senate while Democrats win the House at 23 percent and Republicans retaining both chambers at 6 percent. (Reuters)",
       "image_url": null,
       "published": "2026-11-02T07:30:00-05:00",
       "source": "2026-11-02_0730-est.json",
