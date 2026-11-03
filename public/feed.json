@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T09:59:33.607497-05:00",
+  "updated": "2026-11-03T10:17:06.417184-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,90 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-03_1015-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1015-est-0",
+      "title": "Iowa Senate market flips as Democrat Josh Turek leads for the first time at 52 percent on Kalshi, Kalshi News reports",
+      "content_text": "- **Iowa Senate market flips as Democrat Josh Turek leads for the first time at 52 percent on Kalshi, Kalshi News reports** — Kalshi News reports Turek rose nearly eight points in 24 hours to a record 52 percent against Republican Ashley Hinson at 48 percent, his first lead since the contract launched in December 2024, when Hinson stood above 80 percent. The final New York Times and Siena College poll had the race effectively tied at 48 to 47 percent, and Kalshi traders forecast a Turek margin of victory of 0.6 points. (Kalshi News)",
+      "content_html": "<p>- **Iowa Senate market flips as Democrat Josh Turek leads for the first time at 52 percent on Kalshi, Kalshi News reports** — Kalshi News reports Turek rose nearly eight points in 24 hours to a record 52 percent against Republican Ashley Hinson at 48 percent, his first lead since the contract launched in December 2024, when Hinson stood above 80 percent. The final New York Times and Siena College poll had the race effectively tied at 48 to 47 percent, and Kalshi traders forecast a Turek margin of victory of 0.6 points. (Kalshi News)</p>",
+      "date_published": "2026-11-03T10:15:00-05:00",
+      "date_modified": "2026-11-03T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:15 AM ET",
+      "body": "- **Iowa Senate market flips as Democrat Josh Turek leads for the first time at 52 percent on Kalshi, Kalshi News reports** — Kalshi News reports Turek rose nearly eight points in 24 hours to a record 52 percent against Republican Ashley Hinson at 48 percent, his first lead since the contract launched in December 2024, when Hinson stood above 80 percent. The final New York Times and Siena College poll had the race effectively tied at 48 to 47 percent, and Kalshi traders forecast a Turek margin of victory of 0.6 points. (Kalshi News)",
+      "image_url": null,
+      "published": "2026-11-03T10:15:00-05:00",
+      "source": "2026-11-03_1015-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_1015-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1015-est-1",
+      "title": "Nevada governor market prices Aaron Ford at 75 percent on Kalshi and Polymarket US, up from 58 percent on October 21, DeFi Rate reports",
+      "content_text": "- **Nevada governor market prices Aaron Ford at 75 percent on Kalshi and Polymarket US, up from 58 percent on October 21, DeFi Rate reports** — DeFi Rate reports Democrat Aaron Ford trades at 75 percent on Kalshi and about 75 percent on Polymarket US against Republican Governor Joe Lombardo, up from 74 percent on Monday and 58 percent on October 21. Lombardo is the only Republican incumbent governor in a state Donald Trump carried in 2024 whom the market prices as an underdog. (DeFi Rate)",
+      "content_html": "<p>- **Nevada governor market prices Aaron Ford at 75 percent on Kalshi and Polymarket US, up from 58 percent on October 21, DeFi Rate reports** — DeFi Rate reports Democrat Aaron Ford trades at 75 percent on Kalshi and about 75 percent on Polymarket US against Republican Governor Joe Lombardo, up from 74 percent on Monday and 58 percent on October 21. Lombardo is the only Republican incumbent governor in a state Donald Trump carried in 2024 whom the market prices as an underdog. (DeFi Rate)</p>",
+      "date_published": "2026-11-03T10:15:00-05:00",
+      "date_modified": "2026-11-03T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:15 AM ET",
+      "body": "- **Nevada governor market prices Aaron Ford at 75 percent on Kalshi and Polymarket US, up from 58 percent on October 21, DeFi Rate reports** — DeFi Rate reports Democrat Aaron Ford trades at 75 percent on Kalshi and about 75 percent on Polymarket US against Republican Governor Joe Lombardo, up from 74 percent on Monday and 58 percent on October 21. Lombardo is the only Republican incumbent governor in a state Donald Trump carried in 2024 whom the market prices as an underdog. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-03T10:15:00-05:00",
+      "source": "2026-11-03_1015-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_1015-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1015-est-2",
+      "title": "Polymarket governor map favours Democrats in 20 of 36 races and Republicans in 14, with venue prices 0.7 points apart on average, PolymarketTrader reports",
+      "content_text": "- **Polymarket governor map favours Democrats in 20 of 36 races and Republicans in 14, with venue prices 0.7 points apart on average, PolymarketTrader reports** — PolymarketTrader reports its November 3 governor forecast, updated at 14:04 UTC, rates 18 of the 36 races safe, 12 likely and 6 lean, and puts the most likely number of Republican governors below 22 at 55.5 percent. Across the 33 races priced on both Polymarket and Kalshi, the Democratic candidate's price differs by 0.7 points on average, widest in Texas at 2 points. (PolymarketTrader)",
+      "content_html": "<p>- **Polymarket governor map favours Democrats in 20 of 36 races and Republicans in 14, with venue prices 0.7 points apart on average, PolymarketTrader reports** — PolymarketTrader reports its November 3 governor forecast, updated at 14:04 UTC, rates 18 of the 36 races safe, 12 likely and 6 lean, and puts the most likely number of Republican governors below 22 at 55.5 percent. Across the 33 races priced on both Polymarket and Kalshi, the Democratic candidate&#x27;s price differs by 0.7 points on average, widest in Texas at 2 points. (PolymarketTrader)</p>",
+      "date_published": "2026-11-03T10:15:00-05:00",
+      "date_modified": "2026-11-03T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:15 AM ET",
+      "body": "- **Polymarket governor map favours Democrats in 20 of 36 races and Republicans in 14, with venue prices 0.7 points apart on average, PolymarketTrader reports** — PolymarketTrader reports its November 3 governor forecast, updated at 14:04 UTC, rates 18 of the 36 races safe, 12 likely and 6 lean, and puts the most likely number of Republican governors below 22 at 55.5 percent. Across the 33 races priced on both Polymarket and Kalshi, the Democratic candidate's price differs by 0.7 points on average, widest in Texas at 2 points. (PolymarketTrader)",
+      "image_url": null,
+      "published": "2026-11-03T10:15:00-05:00",
+      "source": "2026-11-03_1015-est.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "article-2026-11-03_election-4-tonight",
       "url": "https://infiniti.w3ai.io/intelligence#article-2026-11-03_election-4-tonight",
@@ -4317,91 +4401,6 @@
       "image_url": null,
       "published": "2026-11-03T03:45:00-05:00",
       "source": "2026-11-03_0345-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0330-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0330-est-0",
-      "title": "Polymarket combined market share falls to 17.2 percent in the 30 days before October 29 as Kalshi pulls away, Gaming America reports",
-      "content_text": "- **Polymarket combined market share falls to 17.2 percent in the 30 days before October 29 as Kalshi pulls away, Gaming America reports** — Gaming America, citing DeFi Rate volume data, says Polymarket US and Polymarket's international platform together took 17.2 percent of combined face-value volume in the 30 days before October 29, down from 93.8 percent in October 2024. Polymarket US has filed nine CFTC amendments between October 2 and October 26 covering seven deposit, rebate and referral programs to win traders back. (Gaming America)",
-      "content_html": "<p>- **Polymarket combined market share falls to 17.2 percent in the 30 days before October 29 as Kalshi pulls away, Gaming America reports** — Gaming America, citing DeFi Rate volume data, says Polymarket US and Polymarket&#x27;s international platform together took 17.2 percent of combined face-value volume in the 30 days before October 29, down from 93.8 percent in October 2024. Polymarket US has filed nine CFTC amendments between October 2 and October 26 covering seven deposit, rebate and referral programs to win traders back. (Gaming America)</p>",
-      "date_published": "2026-11-03T03:30:00-05:00",
-      "date_modified": "2026-11-03T03:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:30 AM ET",
-      "body": "- **Polymarket combined market share falls to 17.2 percent in the 30 days before October 29 as Kalshi pulls away, Gaming America reports** — Gaming America, citing DeFi Rate volume data, says Polymarket US and Polymarket's international platform together took 17.2 percent of combined face-value volume in the 30 days before October 29, down from 93.8 percent in October 2024. Polymarket US has filed nine CFTC amendments between October 2 and October 26 covering seven deposit, rebate and referral programs to win traders back. (Gaming America)",
-      "image_url": null,
-      "published": "2026-11-03T03:30:00-05:00",
-      "source": "2026-11-03_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0330-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0330-est-1",
-      "title": "Kalshi weekend notional volume dips 6.2 percent to 9.44 billion dollars during NFL Week 8, Covers reports",
-      "content_text": "- **Kalshi weekend notional volume dips 6.2 percent to 9.44 billion dollars during NFL Week 8, Covers reports** — Covers says Kalshi accounted for 74 percent of reported Saturday and Sunday prediction market volume, but its weekend total fell from 10.06 billion dollars the previous weekend, with Saturday volume down 9.5 percent. The Eagles-Commanders game was the most traded of the weekend on Kalshi at 96.2 million dollars. (Covers)",
-      "content_html": "<p>- **Kalshi weekend notional volume dips 6.2 percent to 9.44 billion dollars during NFL Week 8, Covers reports** — Covers says Kalshi accounted for 74 percent of reported Saturday and Sunday prediction market volume, but its weekend total fell from 10.06 billion dollars the previous weekend, with Saturday volume down 9.5 percent. The Eagles-Commanders game was the most traded of the weekend on Kalshi at 96.2 million dollars. (Covers)</p>",
-      "date_published": "2026-11-03T03:30:00-05:00",
-      "date_modified": "2026-11-03T03:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:30 AM ET",
-      "body": "- **Kalshi weekend notional volume dips 6.2 percent to 9.44 billion dollars during NFL Week 8, Covers reports** — Covers says Kalshi accounted for 74 percent of reported Saturday and Sunday prediction market volume, but its weekend total fell from 10.06 billion dollars the previous weekend, with Saturday volume down 9.5 percent. The Eagles-Commanders game was the most traded of the weekend on Kalshi at 96.2 million dollars. (Covers)",
-      "image_url": null,
-      "published": "2026-11-03T03:30:00-05:00",
-      "source": "2026-11-03_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0330-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0330-est-2",
-      "title": "California governor race priced at 98 cents for Xavier Becerra on Polymarket and 97.4 cents on Kalshi against Steve Hilton, Action Network reports",
-      "content_text": "- **California governor race priced at 98 cents for Xavier Becerra on Polymarket and 97.4 cents on Kalshi against Steve Hilton, Action Network reports** — Action Network says both exchanges price Democrat Xavier Becerra above 97 cents heading into the November 3 California governor vote, with Republican Steve Hilton at 3 cents on Polymarket and 2.9 cents on Kalshi. The latest polls cited have Becerra ahead by 27 points, and California polls close at 8 p.m. PT on Tuesday. (Action Network)",
-      "content_html": "<p>- **California governor race priced at 98 cents for Xavier Becerra on Polymarket and 97.4 cents on Kalshi against Steve Hilton, Action Network reports** — Action Network says both exchanges price Democrat Xavier Becerra above 97 cents heading into the November 3 California governor vote, with Republican Steve Hilton at 3 cents on Polymarket and 2.9 cents on Kalshi. The latest polls cited have Becerra ahead by 27 points, and California polls close at 8 p.m. PT on Tuesday. (Action Network)</p>",
-      "date_published": "2026-11-03T03:30:00-05:00",
-      "date_modified": "2026-11-03T03:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:30 AM ET",
-      "body": "- **California governor race priced at 98 cents for Xavier Becerra on Polymarket and 97.4 cents on Kalshi against Steve Hilton, Action Network reports** — Action Network says both exchanges price Democrat Xavier Becerra above 97 cents heading into the November 3 California governor vote, with Republican Steve Hilton at 3 cents on Polymarket and 2.9 cents on Kalshi. The latest polls cited have Becerra ahead by 27 points, and California polls close at 8 p.m. PT on Tuesday. (Action Network)",
-      "image_url": null,
-      "published": "2026-11-03T03:30:00-05:00",
-      "source": "2026-11-03_0330-est.json",
       "matches_facebook_post": false
     }
   ]
