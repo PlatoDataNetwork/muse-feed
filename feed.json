@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T12:45:39.142988-05:00",
+  "updated": "2026-11-03T12:57:55.621933-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-03_1254-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_1254-est",
+      "title": "Kalshi prices a Democratic sweep of Congress at 79% at midday, up 4 points from this morning, on $108.9M traded",
+      "content_text": "Infiniti Prediction Markets\n\nKalshi prices a Democratic sweep of Congress at 79% at midday, up 4 points from this morning, on $108.9M traded\nNo significant new prediction-platform headline in the last 30 minutes; under today's Election Day political focus this edition leads with a fresh control-picture read,…\n#PredictionMarkets #Kalshi #Senate #Congress\n\nColorado's 8th district market prices Rutinel at 88% to flip the seat, against a poll that had incumbent Evans ahead 48% to 46%\nThe Coloradoan's final look at Colorado's congressional races, read this run, reports Kalshi prices Democrat Manny Rutinel at an 88% probability of flipping Colorado's…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Kalshi prices a Democratic sweep of Congress at 79% at midday, up 4 points from this morning, on $108.9M traded<br/>No significant new prediction-platform headline in the last 30 minutes; under today&#x27;s Election Day political focus this edition leads with a fresh control-picture read,…<br/>#PredictionMarkets #Kalshi #Senate #Congress<br/><br/>Colorado&#x27;s 8th district market prices Rutinel at 88% to flip the seat, against a poll that had incumbent Evans ahead 48% to 46%<br/>The Coloradoan&#x27;s final look at Colorado&#x27;s congressional races, read this run, reports Kalshi prices Democrat Manny Rutinel at an 88% probability of flipping Colorado&#x27;s…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T12:54:00-05:00",
+      "date_modified": "2026-11-03T12:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Senate",
+        "Congress"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 12:54 PM ET",
+      "body": "Infiniti Prediction Markets\n\nKalshi prices a Democratic sweep of Congress at 79% at midday, up 4 points from this morning, on $108.9M traded\nNo significant new prediction-platform headline in the last 30 minutes; under today's Election Day political focus this edition leads with a fresh control-picture read,…\n#PredictionMarkets #Kalshi #Senate #Congress\n\nColorado's 8th district market prices Rutinel at 88% to flip the seat, against a poll that had incumbent Evans ahead 48% to 46%\nThe Coloradoan's final look at Colorado's congressional races, read this run, reports Kalshi prices Democrat Manny Rutinel at an 88% probability of flipping Colorado's…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T12:54:00-05:00",
+      "source": "2026-11-03_1254-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_1245-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1245-est-0",
@@ -4374,34 +4404,6 @@
       "links": [],
       "timestamp": "Nov 3, 2026 · 6:15 AM ET",
       "body": "- **Polymarket prices Anthropic at 79 percent to be worth more than Bitcoin by the end of the year** — Polymarket traders give a 79 percent chance that Anthropic will have a higher valuation than Bitcoin within 60 days, following the company's IPO filing. Bitcoin traded at 76,934 dollars, down 1.29 percent, as of 5:51 AM ET on November 3, with a market capitalization of about 1.6 trillion dollars. (Motley Fool)",
-      "image_url": null,
-      "published": "2026-11-03T06:15:00-05:00",
-      "source": "2026-11-03_0615-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0615-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0615-est-4",
-      "title": "Polymarket Bitcoin price market for November 3 now leads with the 76,000 to 78,000 dollar range at 69 percent",
-      "content_text": "- **Polymarket Bitcoin price market for November 3 now leads with the 76,000 to 78,000 dollar range at 69 percent** — The 76,000 to 78,000 dollar range leads Polymarket's Bitcoin price market for November 3 at 69 percent, up from 55 percent earlier in the morning, ahead of the 78,000 to 80,000 dollar range at 15 percent. The market, with about 82,000 dollars in volume, resolves on November 3. (Lines)",
-      "content_html": "<p>- **Polymarket Bitcoin price market for November 3 now leads with the 76,000 to 78,000 dollar range at 69 percent** — The 76,000 to 78,000 dollar range leads Polymarket&#x27;s Bitcoin price market for November 3 at 69 percent, up from 55 percent earlier in the morning, ahead of the 78,000 to 80,000 dollar range at 15 percent. The market, with about 82,000 dollars in volume, resolves on November 3. (Lines)</p>",
-      "date_published": "2026-11-03T06:15:00-05:00",
-      "date_modified": "2026-11-03T06:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 6:15 AM ET",
-      "body": "- **Polymarket Bitcoin price market for November 3 now leads with the 76,000 to 78,000 dollar range at 69 percent** — The 76,000 to 78,000 dollar range leads Polymarket's Bitcoin price market for November 3 at 69 percent, up from 55 percent earlier in the morning, ahead of the 78,000 to 80,000 dollar range at 15 percent. The market, with about 82,000 dollars in volume, resolves on November 3. (Lines)",
       "image_url": null,
       "published": "2026-11-03T06:15:00-05:00",
       "source": "2026-11-03_0615-est.json",
