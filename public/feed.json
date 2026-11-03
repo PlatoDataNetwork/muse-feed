@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T09:58:40.230318-05:00",
+  "updated": "2026-11-03T09:59:33.607497-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -192,6 +192,147 @@
       "source": "2026-11-03_election-3-follow-the-money.json",
       "matches_facebook_post": false,
       "kind": "article"
+    },
+    {
+      "id": "web-2026-11-03_1000-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1000-est-0",
+      "title": "Texas Senate market prices James Talarico at 74 cents on Polymarket and 73 cents on Kalshi against much tighter polls, Action Network reports",
+      "content_text": "- **Texas Senate market prices James Talarico at 74 cents on Polymarket and 73 cents on Kalshi against much tighter polls, Action Network reports** — Action Network reports Polymarket prices Democrat James Talarico at 74 cents and Kalshi at 73 cents, with Republican Ken Paxton at 28 and 29 cents, while final polls range from a 1 point Paxton edge to a 7 point Talarico lead and polling averages put Talarico ahead by only 2.5 to 4 points. (Action Network)",
+      "content_html": "<p>- **Texas Senate market prices James Talarico at 74 cents on Polymarket and 73 cents on Kalshi against much tighter polls, Action Network reports** — Action Network reports Polymarket prices Democrat James Talarico at 74 cents and Kalshi at 73 cents, with Republican Ken Paxton at 28 and 29 cents, while final polls range from a 1 point Paxton edge to a 7 point Talarico lead and polling averages put Talarico ahead by only 2.5 to 4 points. (Action Network)</p>",
+      "date_published": "2026-11-03T10:00:00-05:00",
+      "date_modified": "2026-11-03T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:00 AM ET",
+      "body": "- **Texas Senate market prices James Talarico at 74 cents on Polymarket and 73 cents on Kalshi against much tighter polls, Action Network reports** — Action Network reports Polymarket prices Democrat James Talarico at 74 cents and Kalshi at 73 cents, with Republican Ken Paxton at 28 and 29 cents, while final polls range from a 1 point Paxton edge to a 7 point Talarico lead and polling averages put Talarico ahead by only 2.5 to 4 points. (Action Network)",
+      "image_url": null,
+      "published": "2026-11-03T10:00:00-05:00",
+      "source": "2026-11-03_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_1000-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1000-est-1",
+      "title": "California governor market prices Xavier Becerra at 98 cents on Polymarket and 97.4 cents on Kalshi, Action Network reports",
+      "content_text": "- **California governor market prices Xavier Becerra at 98 cents on Polymarket and 97.4 cents on Kalshi, Action Network reports** — Action Network reports Democrat Xavier Becerra trades at 98 cents on Polymarket and 97.4 cents on Kalshi against Republican Steve Hilton at 3 cents on both venues, with more than 5.68 million dollars traded and a separate Polymarket margin market pricing a 25 to 30 point Becerra win at 40 cents. (Action Network)",
+      "content_html": "<p>- **California governor market prices Xavier Becerra at 98 cents on Polymarket and 97.4 cents on Kalshi, Action Network reports** — Action Network reports Democrat Xavier Becerra trades at 98 cents on Polymarket and 97.4 cents on Kalshi against Republican Steve Hilton at 3 cents on both venues, with more than 5.68 million dollars traded and a separate Polymarket margin market pricing a 25 to 30 point Becerra win at 40 cents. (Action Network)</p>",
+      "date_published": "2026-11-03T10:00:00-05:00",
+      "date_modified": "2026-11-03T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:00 AM ET",
+      "body": "- **California governor market prices Xavier Becerra at 98 cents on Polymarket and 97.4 cents on Kalshi, Action Network reports** — Action Network reports Democrat Xavier Becerra trades at 98 cents on Polymarket and 97.4 cents on Kalshi against Republican Steve Hilton at 3 cents on both venues, with more than 5.68 million dollars traded and a separate Polymarket margin market pricing a 25 to 30 point Becerra win at 40 cents. (Action Network)",
+      "image_url": null,
+      "published": "2026-11-03T10:00:00-05:00",
+      "source": "2026-11-03_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_1000-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1000-est-2",
+      "title": "Balance of power markets price a Democratic sweep at 77 percent on Polymarket and 76 percent on Kalshi, PredictionTape reports",
+      "content_text": "- **Balance of power markets price a Democratic sweep at 77 percent on Polymarket and 76 percent on Kalshi, PredictionTape reports** — PredictionTape reports the balance of power market has moved 5 points toward a Democratic sweep, now 77 percent on Polymarket and 76 percent on Kalshi, with a split of a Republican Senate and Democratic House at 18 to 19 percent and a Republican sweep at 5 to 7 percent. (PredictionTape)",
+      "content_html": "<p>- **Balance of power markets price a Democratic sweep at 77 percent on Polymarket and 76 percent on Kalshi, PredictionTape reports** — PredictionTape reports the balance of power market has moved 5 points toward a Democratic sweep, now 77 percent on Polymarket and 76 percent on Kalshi, with a split of a Republican Senate and Democratic House at 18 to 19 percent and a Republican sweep at 5 to 7 percent. (PredictionTape)</p>",
+      "date_published": "2026-11-03T10:00:00-05:00",
+      "date_modified": "2026-11-03T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:00 AM ET",
+      "body": "- **Balance of power markets price a Democratic sweep at 77 percent on Polymarket and 76 percent on Kalshi, PredictionTape reports** — PredictionTape reports the balance of power market has moved 5 points toward a Democratic sweep, now 77 percent on Polymarket and 76 percent on Kalshi, with a split of a Republican Senate and Democratic House at 18 to 19 percent and a Republican sweep at 5 to 7 percent. (PredictionTape)",
+      "image_url": null,
+      "published": "2026-11-03T10:00:00-05:00",
+      "source": "2026-11-03_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_1000-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1000-est-3",
+      "title": "Michigan Senate markets price Abdul El-Sayed at 81 cents, well above the polling average, PoliAgg reports",
+      "content_text": "- **Michigan Senate markets price Abdul El-Sayed at 81 cents, well above the polling average, PoliAgg reports** — PoliAgg reports the cross-platform market consensus prices Democrat Abdul El-Sayed at 81 cents to win Michigan's open Senate seat against Republican Mike Rogers, while its average of the three most recent polls puts El-Sayed at 48 percent and Rogers at 46 percent. (PoliAgg)",
+      "content_html": "<p>- **Michigan Senate markets price Abdul El-Sayed at 81 cents, well above the polling average, PoliAgg reports** — PoliAgg reports the cross-platform market consensus prices Democrat Abdul El-Sayed at 81 cents to win Michigan&#x27;s open Senate seat against Republican Mike Rogers, while its average of the three most recent polls puts El-Sayed at 48 percent and Rogers at 46 percent. (PoliAgg)</p>",
+      "date_published": "2026-11-03T10:00:00-05:00",
+      "date_modified": "2026-11-03T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:00 AM ET",
+      "body": "- **Michigan Senate markets price Abdul El-Sayed at 81 cents, well above the polling average, PoliAgg reports** — PoliAgg reports the cross-platform market consensus prices Democrat Abdul El-Sayed at 81 cents to win Michigan's open Senate seat against Republican Mike Rogers, while its average of the three most recent polls puts El-Sayed at 48 percent and Rogers at 46 percent. (PoliAgg)",
+      "image_url": null,
+      "published": "2026-11-03T10:00:00-05:00",
+      "source": "2026-11-03_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-03_1000-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1000-est-4",
+      "title": "Tufts professor warns prediction markets may show too much confidence in a good night for Democrats, Morningstar reports",
+      "content_text": "- **Tufts professor warns prediction markets may show too much confidence in a good night for Democrats, Morningstar reports** — Morningstar reports Tufts University political science professor Brian Schaffner cautioned that prediction markets may be leaning too far toward Democrats on Election Day, with the House at 94 to 95 percent and the Senate at 77 to 78 percent while six Senate races remain rated as toss-ups by Cook Political Report analysts. (Morningstar)",
+      "content_html": "<p>- **Tufts professor warns prediction markets may show too much confidence in a good night for Democrats, Morningstar reports** — Morningstar reports Tufts University political science professor Brian Schaffner cautioned that prediction markets may be leaning too far toward Democrats on Election Day, with the House at 94 to 95 percent and the Senate at 77 to 78 percent while six Senate races remain rated as toss-ups by Cook Political Report analysts. (Morningstar)</p>",
+      "date_published": "2026-11-03T10:00:00-05:00",
+      "date_modified": "2026-11-03T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Senate",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:00 AM ET",
+      "body": "- **Tufts professor warns prediction markets may show too much confidence in a good night for Democrats, Morningstar reports** — Morningstar reports Tufts University political science professor Brian Schaffner cautioned that prediction markets may be leaning too far toward Democrats on Election Day, with the House at 94 to 95 percent and the Senate at 77 to 78 percent while six Senate races remain rated as toss-ups by Cook Political Report analysts. (Morningstar)",
+      "image_url": null,
+      "published": "2026-11-03T10:00:00-05:00",
+      "source": "2026-11-03_1000-est.json",
+      "matches_facebook_post": false
     },
     {
       "id": "article-2026-11-03_election-2-markets-vs-polls",
@@ -4261,152 +4402,6 @@
       "image_url": null,
       "published": "2026-11-03T03:30:00-05:00",
       "source": "2026-11-03_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0330-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0330-est-3",
-      "title": "Kalshi remains available in California for users 18 and older while the legal status of its sports contracts stays unsettled, RotoGrinders reports",
-      "content_text": "- **Kalshi remains available in California for users 18 and older while the legal status of its sports contracts stays unsettled, RotoGrinders reports** — RotoGrinders says that as of November 2 Kalshi, a CFTC-designated exchange, is still available to eligible California users aged 18 and older, and that trading there is not a sportsbook. An August 28 Ninth Circuit ruling rejected the argument that federal commodities law automatically prevents states from applying gambling laws to Kalshi sports contracts, and Attorney General Rob Bonta has joined multistate filings backing state authority. (RotoGrinders)",
-      "content_html": "<p>- **Kalshi remains available in California for users 18 and older while the legal status of its sports contracts stays unsettled, RotoGrinders reports** — RotoGrinders says that as of November 2 Kalshi, a CFTC-designated exchange, is still available to eligible California users aged 18 and older, and that trading there is not a sportsbook. An August 28 Ninth Circuit ruling rejected the argument that federal commodities law automatically prevents states from applying gambling laws to Kalshi sports contracts, and Attorney General Rob Bonta has joined multistate filings backing state authority. (RotoGrinders)</p>",
-      "date_published": "2026-11-03T03:30:00-05:00",
-      "date_modified": "2026-11-03T03:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "CFTC"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:30 AM ET",
-      "body": "- **Kalshi remains available in California for users 18 and older while the legal status of its sports contracts stays unsettled, RotoGrinders reports** — RotoGrinders says that as of November 2 Kalshi, a CFTC-designated exchange, is still available to eligible California users aged 18 and older, and that trading there is not a sportsbook. An August 28 Ninth Circuit ruling rejected the argument that federal commodities law automatically prevents states from applying gambling laws to Kalshi sports contracts, and Attorney General Rob Bonta has joined multistate filings backing state authority. (RotoGrinders)",
-      "image_url": null,
-      "published": "2026-11-03T03:30:00-05:00",
-      "source": "2026-11-03_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0330-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0330-est-4",
-      "title": "DraftKings climbs to third in prediction market notional volume behind Kalshi and Polymarket, WeeBet reports",
-      "content_text": "- **DraftKings climbs to third in prediction market notional volume behind Kalshi and Polymarket, WeeBet reports** — WeeBet, citing iGaming Business, says DraftKings has reached third place in prediction market rankings by notional volume, trailing only Kalshi and Polymarket as of October 2026. DraftKings entered the space later than both rivals and is relying on brand recognition and its existing registered user base, with CEO Jason Robins publicly signalling satisfaction with a sharp surge in trading activity in recent weeks. (WeeBet)",
-      "content_html": "<p>- **DraftKings climbs to third in prediction market notional volume behind Kalshi and Polymarket, WeeBet reports** — WeeBet, citing iGaming Business, says DraftKings has reached third place in prediction market rankings by notional volume, trailing only Kalshi and Polymarket as of October 2026. DraftKings entered the space later than both rivals and is relying on brand recognition and its existing registered user base, with CEO Jason Robins publicly signalling satisfaction with a sharp surge in trading activity in recent weeks. (WeeBet)</p>",
-      "date_published": "2026-11-03T03:30:00-05:00",
-      "date_modified": "2026-11-03T03:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:30 AM ET",
-      "body": "- **DraftKings climbs to third in prediction market notional volume behind Kalshi and Polymarket, WeeBet reports** — WeeBet, citing iGaming Business, says DraftKings has reached third place in prediction market rankings by notional volume, trailing only Kalshi and Polymarket as of October 2026. DraftKings entered the space later than both rivals and is relying on brand recognition and its existing registered user base, with CEO Jason Robins publicly signalling satisfaction with a sharp surge in trading activity in recent weeks. (WeeBet)",
-      "image_url": null,
-      "published": "2026-11-03T03:30:00-05:00",
-      "source": "2026-11-03_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-11-03_0324-est",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_0324-est",
-      "title": "Feyenoord priced at 25.5% on Kalshi against Inter on Tuesday's Champions League slate",
-      "content_text": "Infiniti Prediction Markets\n\nFeyenoord priced at 25.5% on Kalshi against Inter on Tuesday's Champions League slate\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used today in briefings or website-only batches (the…\n#PredictionMarkets #Kalshi #Midterms\n\nPolymarket's combined market share falls to 17.2% as Kalshi pulls away\nGaming America, citing DeFi Rate's prediction-market volume tracker, reports Polymarket's international platform and Polymarket US together took 17.2% of combined…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\n\nPolymarket US 5-minute Bitcoin windows settled up in 49.4% of 3,324 windows since Oct. 22\nPredictionMarketPicks' ledger of Polymarket US's 5-minute Bitcoin up-or-down windows, which open every five minutes for 288 a day and settle on the Chainlink BTC/USD…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\n\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Feyenoord priced at 25.5% on Kalshi against Inter on Tuesday&#x27;s Champions League slate<br/>No significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used today in briefings or website-only batches (the…<br/>#PredictionMarkets #Kalshi #Midterms<br/><br/>Polymarket&#x27;s combined market share falls to 17.2% as Kalshi pulls away<br/>Gaming America, citing DeFi Rate&#x27;s prediction-market volume tracker, reports Polymarket&#x27;s international platform and Polymarket US together took 17.2% of combined…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/><br/>Polymarket US 5-minute Bitcoin windows settled up in 49.4% of 3,324 windows since Oct. 22<br/>PredictionMarketPicks&#x27; ledger of Polymarket US&#x27;s 5-minute Bitcoin up-or-down windows, which open every five minutes for 288 a day and settle on the Chainlink BTC/USD…<br/>#PredictionMarkets #Kalshi #Polymarket #Bitcoin<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
-      "date_published": "2026-11-03T03:24:00-05:00",
-      "date_modified": "2026-11-03T03:24:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Midterms",
-        "Polymarket",
-        "CFTC",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:24 AM ET",
-      "body": "Infiniti Prediction Markets\n\nFeyenoord priced at 25.5% on Kalshi against Inter on Tuesday's Champions League slate\nNo significant new prediction-platform headline in the last 30 minutes; news search recirculated only items already used today in briefings or website-only batches (the…\n#PredictionMarkets #Kalshi #Midterms\n\nPolymarket's combined market share falls to 17.2% as Kalshi pulls away\nGaming America, citing DeFi Rate's prediction-market volume tracker, reports Polymarket's international platform and Polymarket US together took 17.2% of combined…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\n\nPolymarket US 5-minute Bitcoin windows settled up in 49.4% of 3,324 windows since Oct. 22\nPredictionMarketPicks' ledger of Polymarket US's 5-minute Bitcoin up-or-down windows, which open every five minutes for 288 a day and settle on the Chainlink BTC/USD…\n#PredictionMarkets #Kalshi #Polymarket #Bitcoin\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-11-03T03:24:00-05:00",
-      "source": "2026-11-03_0324-est.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0315-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0315-est-0",
-      "title": "Democrats priced at 93 percent on Kalshi and 94 percent on Polymarket to win the House, with the Senate at 74 and 76 percent, Sikt Intelligence reports",
-      "content_text": "- **Democrats priced at 93 percent on Kalshi and 94 percent on Polymarket to win the House, with the Senate at 74 and 76 percent, Sikt Intelligence reports** — Sikt Intelligence, refreshing from Kalshi and Polymarket public data on November 3, says Democrats lead the House market at 93 percent on Kalshi and 94 percent on Polymarket. Its Senate board puts Democrats at 74 percent on Kalshi and 76 percent on Polymarket as voting begins. (Sikt Intelligence)",
-      "content_html": "<p>- **Democrats priced at 93 percent on Kalshi and 94 percent on Polymarket to win the House, with the Senate at 74 and 76 percent, Sikt Intelligence reports** — Sikt Intelligence, refreshing from Kalshi and Polymarket public data on November 3, says Democrats lead the House market at 93 percent on Kalshi and 94 percent on Polymarket. Its Senate board puts Democrats at 74 percent on Kalshi and 76 percent on Polymarket as voting begins. (Sikt Intelligence)</p>",
-      "date_published": "2026-11-03T03:15:00-05:00",
-      "date_modified": "2026-11-03T03:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:15 AM ET",
-      "body": "- **Democrats priced at 93 percent on Kalshi and 94 percent on Polymarket to win the House, with the Senate at 74 and 76 percent, Sikt Intelligence reports** — Sikt Intelligence, refreshing from Kalshi and Polymarket public data on November 3, says Democrats lead the House market at 93 percent on Kalshi and 94 percent on Polymarket. Its Senate board puts Democrats at 74 percent on Kalshi and 76 percent on Polymarket as voting begins. (Sikt Intelligence)",
-      "image_url": null,
-      "published": "2026-11-03T03:15:00-05:00",
-      "source": "2026-11-03_0315-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_0315-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_0315-est-1",
-      "title": "Polymarket bettor nets about 118,500 dollars after buying the Cardinals at 1.4 cents late against Dallas, Bitcoin.com News reports",
-      "content_text": "- **Polymarket bettor nets about 118,500 dollars after buying the Cardinals at 1.4 cents late against Dallas, Bitcoin.com News reports** — Bitcoin.com News says an account trading as CutJalenHurts bought 171,703 Cardinals shares at 1.4 cents with Arizona trailing Dallas 27-17 and 3:54 left on Sunday. Arizona won 33-30 in overtime, and the account ended about 118,500 dollars ahead on the moneyline after putting in about 57,800 dollars and taking out about 176,300 dollars. (Bitcoin.com News)",
-      "content_html": "<p>- **Polymarket bettor nets about 118,500 dollars after buying the Cardinals at 1.4 cents late against Dallas, Bitcoin.com News reports** — Bitcoin.com News says an account trading as CutJalenHurts bought 171,703 Cardinals shares at 1.4 cents with Arizona trailing Dallas 27-17 and 3:54 left on Sunday. Arizona won 33-30 in overtime, and the account ended about 118,500 dollars ahead on the moneyline after putting in about 57,800 dollars and taking out about 176,300 dollars. (Bitcoin.com News)</p>",
-      "date_published": "2026-11-03T03:15:00-05:00",
-      "date_modified": "2026-11-03T03:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:15 AM ET",
-      "body": "- **Polymarket bettor nets about 118,500 dollars after buying the Cardinals at 1.4 cents late against Dallas, Bitcoin.com News reports** — Bitcoin.com News says an account trading as CutJalenHurts bought 171,703 Cardinals shares at 1.4 cents with Arizona trailing Dallas 27-17 and 3:54 left on Sunday. Arizona won 33-30 in overtime, and the account ended about 118,500 dollars ahead on the moneyline after putting in about 57,800 dollars and taking out about 176,300 dollars. (Bitcoin.com News)",
-      "image_url": null,
-      "published": "2026-11-03T03:15:00-05:00",
-      "source": "2026-11-03_0315-est.json",
       "matches_facebook_post": false
     }
   ]
