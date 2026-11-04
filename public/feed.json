@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-04T02:44:24.508649-05:00",
+  "updated": "2026-11-04T02:58:38.224897-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-04_0254-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-04_0254-est",
+      "title": "Mississippi's Senate market flips to Scott Colom at 77c, the most-traded market on any venue at $7.3M in 24 hours",
+      "content_text": "Infiniti Prediction Markets\n\nMississippi's Senate market flips to Scott Colom at 77c, the most-traded market on any venue at $7.3M in 24 hours\nNo new prediction-platform headline in the last 30 minutes, so this edition leads with a live board flip, in a political/election category different from the previous…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nSecond Circuit denies Kalshi an injunction against New York and Connecticut enforcement\nInGame reports a three-judge Second Circuit panel heard arguments on Tuesday and denied Kalshi and Coinbase's motions for an injunction pending appeal just hours later,…\n#PredictionMarkets #Kalshi #CFTC\n\nCPI above 4.0% for the year ending November 2026 falls 7c to 20c on Kalshi, the second-biggest economics mover\nPredictionMarketPicks' Kalshi leaderboard snapshot at 2:51 AM EST on Nov. 4, read this run across 324 priced contracts in 20 series, ranks the November 2026 CPI contract…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Mississippi&#x27;s Senate market flips to Scott Colom at 77c, the most-traded market on any venue at $7.3M in 24 hours<br/>No new prediction-platform headline in the last 30 minutes, so this edition leads with a live board flip, in a political/election category different from the previous…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>Second Circuit denies Kalshi an injunction against New York and Connecticut enforcement<br/>InGame reports a three-judge Second Circuit panel heard arguments on Tuesday and denied Kalshi and Coinbase&#x27;s motions for an injunction pending appeal just hours later,…<br/>#PredictionMarkets #Kalshi #CFTC<br/><br/>CPI above 4.0% for the year ending November 2026 falls 7c to 20c on Kalshi, the second-biggest economics mover<br/>PredictionMarketPicks&#x27; Kalshi leaderboard snapshot at 2:51 AM EST on Nov. 4, read this run across 324 priced contracts in 20 series, ranks the November 2026 CPI contract…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-04T02:54:00-05:00",
+      "date_modified": "2026-11-04T02:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Senate",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 2:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nMississippi's Senate market flips to Scott Colom at 77c, the most-traded market on any venue at $7.3M in 24 hours\nNo new prediction-platform headline in the last 30 minutes, so this edition leads with a live board flip, in a political/election category different from the previous…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nSecond Circuit denies Kalshi an injunction against New York and Connecticut enforcement\nInGame reports a three-judge Second Circuit panel heard arguments on Tuesday and denied Kalshi and Coinbase's motions for an injunction pending appeal just hours later,…\n#PredictionMarkets #Kalshi #CFTC\n\nCPI above 4.0% for the year ending November 2026 falls 7c to 20c on Kalshi, the second-biggest economics mover\nPredictionMarketPicks' Kalshi leaderboard snapshot at 2:51 AM EST on Nov. 4, read this run across 324 priced contracts in 20 series, ranks the November 2026 CPI contract…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-04T02:54:00-05:00",
+      "source": "2026-11-04_0254-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-04_0245-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_0245-est-0",
@@ -4254,36 +4285,6 @@
       "links": [],
       "timestamp": "Nov 3, 2026 · 8:00 PM ET",
       "body": "- **BetInt flags two 500,000 dollar trades and a 100,000 dollar trade on Republicans on Kalshi last week, likely by hedge funds, Reuters reports** — Reuters reports analytics firm BetInt flagged the three large Republican trades on Kalshi last week as likely hedge fund activity, in a cycle where a small share of sophisticated traders accounts for a large chunk of prediction market capital. The report notes the platforms say markets correct quickly when large bets move prices, even as researchers warn political markets can be shifted with relatively small bets. (Reuters)",
-      "image_url": null,
-      "published": "2026-11-03T20:00:00-05:00",
-      "source": "2026-11-03_2000-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_2000-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_2000-est-2",
-      "title": "More than 28,000 midterm markets have been opened, with Texas, Michigan, Maine and South Carolina Senate races taking a large chunk of volume, Reuters reports",
-      "content_text": "- **More than 28,000 midterm markets have been opened, with Texas, Michigan, Maine and South Carolina Senate races taking a large chunk of volume, Reuters reports** — Reuters reports the Anti-Corruption Data Collective count of more than 28,000 midterm markets opened so far, with a fraction of individual contests accounting for a large chunk of trading volume. It cites Texas Senate at nearly 67 million dollars in wagers as of October 29 and Michigan Senate at more than 26 million dollars, alongside Kalshi at 1.33 billion dollars across all midterm bets on Monday against about 145 million dollars on Polymarket congressional markets. (Reuters)",
-      "content_html": "<p>- **More than 28,000 midterm markets have been opened, with Texas, Michigan, Maine and South Carolina Senate races taking a large chunk of volume, Reuters reports** — Reuters reports the Anti-Corruption Data Collective count of more than 28,000 midterm markets opened so far, with a fraction of individual contests accounting for a large chunk of trading volume. It cites Texas Senate at nearly 67 million dollars in wagers as of October 29 and Michigan Senate at more than 26 million dollars, alongside Kalshi at 1.33 billion dollars across all midterm bets on Monday against about 145 million dollars on Polymarket congressional markets. (Reuters)</p>",
-      "date_published": "2026-11-03T20:00:00-05:00",
-      "date_modified": "2026-11-03T20:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 8:00 PM ET",
-      "body": "- **More than 28,000 midterm markets have been opened, with Texas, Michigan, Maine and South Carolina Senate races taking a large chunk of volume, Reuters reports** — Reuters reports the Anti-Corruption Data Collective count of more than 28,000 midterm markets opened so far, with a fraction of individual contests accounting for a large chunk of trading volume. It cites Texas Senate at nearly 67 million dollars in wagers as of October 29 and Michigan Senate at more than 26 million dollars, alongside Kalshi at 1.33 billion dollars across all midterm bets on Monday against about 145 million dollars on Polymarket congressional markets. (Reuters)",
       "image_url": null,
       "published": "2026-11-03T20:00:00-05:00",
       "source": "2026-11-03_2000-est.json",
