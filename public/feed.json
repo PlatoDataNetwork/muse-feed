@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-04T00:16:11.570996-05:00",
+  "updated": "2026-11-04T00:29:49.614828-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-04_0024-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-04_0024-est",
+      "title": "Sports markets out-trade politics $426M to $342M in the last 24 hours as election-night volume rolls off",
+      "content_text": "Infiniti Prediction Markets\n\nSports markets out-trade politics $426M to $342M in the last 24 hours as election-night volume rolls off\nNo race call in the last 30 minutes changes the chamber picture, so this edition leads with a fresh volume-and-flows read, in a category different from the previous…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nAdam Hamilton wins Kansas's Senate seat, defeating incumbent Roger Marshall in a Democratic flip\nPoliwave's live Senate map, updated at 12:16 AM EST on Nov. 4 and read this run, calls Kansas for Democrat Adam Hamilton at 51.3% with 553,047 votes against Republican…\n#PredictionMarkets #Senate\n\nMaine's Senate race is still too early to call, with Troy Jackson ahead 270,650 votes to 242,670 for Susan Collins\nThe Associated Press's Maine Senate results board, read this run, lists the race as Too Early to Call with Democrat Troy Jackson at 270,650 votes against Republican…\n#PredictionMarkets #Senate\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Sports markets out-trade politics $426M to $342M in the last 24 hours as election-night volume rolls off<br/>No race call in the last 30 minutes changes the chamber picture, so this edition leads with a fresh volume-and-flows read, in a category different from the previous…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/><br/>Adam Hamilton wins Kansas&#x27;s Senate seat, defeating incumbent Roger Marshall in a Democratic flip<br/>Poliwave&#x27;s live Senate map, updated at 12:16 AM EST on Nov. 4 and read this run, calls Kansas for Democrat Adam Hamilton at 51.3% with 553,047 votes against Republican…<br/>#PredictionMarkets #Senate<br/><br/>Maine&#x27;s Senate race is still too early to call, with Troy Jackson ahead 270,650 votes to 242,670 for Susan Collins<br/>The Associated Press&#x27;s Maine Senate results board, read this run, lists the race as Too Early to Call with Democrat Troy Jackson at 270,650 votes against Republican…<br/>#PredictionMarkets #Senate<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-04T00:24:00-05:00",
+      "date_modified": "2026-11-04T00:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 12:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nSports markets out-trade politics $426M to $342M in the last 24 hours as election-night volume rolls off\nNo race call in the last 30 minutes changes the chamber picture, so this edition leads with a fresh volume-and-flows read, in a category different from the previous…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nAdam Hamilton wins Kansas's Senate seat, defeating incumbent Roger Marshall in a Democratic flip\nPoliwave's live Senate map, updated at 12:16 AM EST on Nov. 4 and read this run, calls Kansas for Democrat Adam Hamilton at 51.3% with 553,047 votes against Republican…\n#PredictionMarkets #Senate\n\nMaine's Senate race is still too early to call, with Troy Jackson ahead 270,650 votes to 242,670 for Susan Collins\nThe Associated Press's Maine Senate results board, read this run, lists the race as Too Early to Call with Democrat Troy Jackson at 270,650 votes against Republican…\n#PredictionMarkets #Senate\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-04T00:24:00-05:00",
+      "source": "2026-11-04_0024-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-04_0015-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_0015-est-0",
@@ -4286,34 +4317,6 @@
       "links": [],
       "timestamp": "Nov 3, 2026 · 5:30 PM ET",
       "body": "- **CFTC and Justice Department sue Utah to block state enforcement against Kalshi, their tenth state case and the first against a Republican-led state, SCCG reports** — SCCG reports the CFTC and the Department of Justice filed a 33-page federal complaint seeking to stop Utah Attorney General Derek Brown from applying state gambling restrictions, election betting prohibitions or public nuisance laws to CFTC-registered exchanges, after Utah sued Kalshi and two Susquehanna trading firms on October 20. Utah seeks to block contracts on sports, elections, politics and culture for state residents and estimates Kalshi collected between 30.6 million and 61.2 million dollars in fees from Utah accounts. (SCCG)",
-      "image_url": null,
-      "published": "2026-11-03T17:30:00-05:00",
-      "source": "2026-11-03_1730-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_1730-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1730-est-2",
-      "title": "Kalshi adds a Ballotpedia-powered My Ballot guide to its Midterms Hub, as more than 80 percent of hub visitors use the platform for information without trading, Kalshi reports",
-      "content_text": "- **Kalshi adds a Ballotpedia-powered My Ballot guide to its Midterms Hub, as more than 80 percent of hub visitors use the platform for information without trading, Kalshi reports** — Kalshi reports it launched My Ballot in its Midterms Hub using Ballotpedia's nonpartisan Sample Ballot Lookup data, matching each user's address to the Senate, House, governor, state legislative and ballot measure races on their ballot and pairing them with Kalshi market prices where an active market exists. Kalshi says more than 80 percent of Midterms Hub visitors do not trade and instead use the hub as part of their media diet, alongside Race Intel polling averages and FEC fundraising data from VoteHub. (Kalshi)",
-      "content_html": "<p>- **Kalshi adds a Ballotpedia-powered My Ballot guide to its Midterms Hub, as more than 80 percent of hub visitors use the platform for information without trading, Kalshi reports** — Kalshi reports it launched My Ballot in its Midterms Hub using Ballotpedia&#x27;s nonpartisan Sample Ballot Lookup data, matching each user&#x27;s address to the Senate, House, governor, state legislative and ballot measure races on their ballot and pairing them with Kalshi market prices where an active market exists. Kalshi says more than 80 percent of Midterms Hub visitors do not trade and instead use the hub as part of their media diet, alongside Race Intel polling averages and FEC fundraising data from VoteHub. (Kalshi)</p>",
-      "date_published": "2026-11-03T17:30:00-05:00",
-      "date_modified": "2026-11-03T17:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 5:30 PM ET",
-      "body": "- **Kalshi adds a Ballotpedia-powered My Ballot guide to its Midterms Hub, as more than 80 percent of hub visitors use the platform for information without trading, Kalshi reports** — Kalshi reports it launched My Ballot in its Midterms Hub using Ballotpedia's nonpartisan Sample Ballot Lookup data, matching each user's address to the Senate, House, governor, state legislative and ballot measure races on their ballot and pairing them with Kalshi market prices where an active market exists. Kalshi says more than 80 percent of Midterms Hub visitors do not trade and instead use the hub as part of their media diet, alongside Race Intel polling averages and FEC fundraising data from VoteHub. (Kalshi)",
       "image_url": null,
       "published": "2026-11-03T17:30:00-05:00",
       "source": "2026-11-03_1730-est.json",
