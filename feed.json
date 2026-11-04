@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T22:17:10.841469-05:00",
+  "updated": "2026-11-03T22:28:29.240495-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-03_2224-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_2224-est",
+      "title": "CNN joins Decision Desk HQ in projecting Democrats will win back control of the House",
+      "content_text": "Infiniti Prediction Markets\n\nCNN joins Decision Desk HQ in projecting Democrats will win back control of the House\nUnder today's Election Day political focus this edition leads with a fresh control-picture development, in a sub-angle different from the previous edition's key-races…\n#PredictionMarkets #Elections\n\nAnnie Andrews defeats Darline Graham in South Carolina, the night's biggest Senate upset\nUSA Today's 10:01 PM ET update, read this run, reports Democrat Annie Andrews defeated Republican Senator Darline Graham, with both Decision Desk HQ and NBC News calling…\n#PredictionMarkets #Kalshi #Senate\n\nZach Dembo flips Kentucky's 6th district, a bellwether held by Republicans since 2012\nUSA Today's 9:59 PM ET update, read this run, reports former federal prosecutor Zach Dembo defeated Republican Ralph Alvarado in central Kentucky, according to CNN and…\n#PredictionMarkets\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>CNN joins Decision Desk HQ in projecting Democrats will win back control of the House<br/>Under today&#x27;s Election Day political focus this edition leads with a fresh control-picture development, in a sub-angle different from the previous edition&#x27;s key-races…<br/>#PredictionMarkets #Elections<br/><br/>Annie Andrews defeats Darline Graham in South Carolina, the night&#x27;s biggest Senate upset<br/>USA Today&#x27;s 10:01 PM ET update, read this run, reports Democrat Annie Andrews defeated Republican Senator Darline Graham, with both Decision Desk HQ and NBC News calling…<br/>#PredictionMarkets #Kalshi #Senate<br/><br/>Zach Dembo flips Kentucky&#x27;s 6th district, a bellwether held by Republicans since 2012<br/>USA Today&#x27;s 9:59 PM ET update, read this run, reports former federal prosecutor Zach Dembo defeated Republican Ralph Alvarado in central Kentucky, according to CNN and…<br/>#PredictionMarkets<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T22:24:00-05:00",
+      "date_modified": "2026-11-03T22:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Elections",
+        "Kalshi",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 10:24 PM ET",
+      "body": "Infiniti Prediction Markets\n\nCNN joins Decision Desk HQ in projecting Democrats will win back control of the House\nUnder today's Election Day political focus this edition leads with a fresh control-picture development, in a sub-angle different from the previous edition's key-races…\n#PredictionMarkets #Elections\n\nAnnie Andrews defeats Darline Graham in South Carolina, the night's biggest Senate upset\nUSA Today's 10:01 PM ET update, read this run, reports Democrat Annie Andrews defeated Republican Senator Darline Graham, with both Decision Desk HQ and NBC News calling…\n#PredictionMarkets #Kalshi #Senate\n\nZach Dembo flips Kentucky's 6th district, a bellwether held by Republicans since 2012\nUSA Today's 9:59 PM ET update, read this run, reports former federal prosecutor Zach Dembo defeated Republican Ralph Alvarado in central Kentucky, according to CNN and…\n#PredictionMarkets\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T22:24:00-05:00",
+      "source": "2026-11-03_2224-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_2215-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_2215-est-0",
@@ -4352,34 +4382,6 @@
       "links": [],
       "timestamp": "Nov 3, 2026 · 3:30 PM ET",
       "body": "- **Final forecast models run below the markets on Senate control, with Decision Desk HQ at 65 percent and a 63 percent chance of a Democratic sweep, NorthJersey.com reports** — NorthJersey.com reports Decision Desk HQ projects 241 House seats and 52 Senate seats for Democrats, while The Economist model gives Democrats about a 93 percent chance of taking the House, with a median forecast of a 31-seat Democratic advantage. (NorthJersey.com)",
-      "image_url": null,
-      "published": "2026-11-03T15:30:00-05:00",
-      "source": "2026-11-03_1530-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_1530-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1530-est-2",
-      "title": "Kalshi prices Cory Booker at 98 percent in New Jersey, among the lawmakers tied to crypto legislation tracked on Election Day, The Block reports",
-      "content_text": "- **Kalshi prices Cory Booker at 98 percent in New Jersey, among the lawmakers tied to crypto legislation tracked on Election Day, The Block reports** — The Block reports Kalshi prices New Jersey Senator Cory Booker at a 98 percent chance, and notes a change of party control could put Democrats including Elizabeth Warren and Sherrod Brown atop committees overseeing the digital asset industry. (The Block)",
-      "content_html": "<p>- **Kalshi prices Cory Booker at 98 percent in New Jersey, among the lawmakers tied to crypto legislation tracked on Election Day, The Block reports** — The Block reports Kalshi prices New Jersey Senator Cory Booker at a 98 percent chance, and notes a change of party control could put Democrats including Elizabeth Warren and Sherrod Brown atop committees overseeing the digital asset industry. (The Block)</p>",
-      "date_published": "2026-11-03T15:30:00-05:00",
-      "date_modified": "2026-11-03T15:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:30 PM ET",
-      "body": "- **Kalshi prices Cory Booker at 98 percent in New Jersey, among the lawmakers tied to crypto legislation tracked on Election Day, The Block reports** — The Block reports Kalshi prices New Jersey Senator Cory Booker at a 98 percent chance, and notes a change of party control could put Democrats including Elizabeth Warren and Sherrod Brown atop committees overseeing the digital asset industry. (The Block)",
       "image_url": null,
       "published": "2026-11-03T15:30:00-05:00",
       "source": "2026-11-03_1530-est.json",
