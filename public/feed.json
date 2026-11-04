@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-03T21:44:51.423104-05:00",
+  "updated": "2026-11-03T21:57:33.141372-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-03_2154-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-03_2154-est",
+      "title": "Crypto-backed Republican Andy Barr wins Kentucky's Senate seat",
+      "content_text": "Infiniti Prediction Markets\n\nCrypto-backed Republican Andy Barr wins Kentucky's Senate seat\nNo significant new prediction-platform headline in the last 30 minutes; under today's Election Day political focus this edition leads with a fresh key-races call, in a…\n#PredictionMarkets #Senate #Elections\n\nRepublican Harriet Hageman wins Wyoming's Senate seat, succeeding retiring Cynthia Lummis\nCointelegraph's 9:05 PM ET update, read this run, reports Republican Representative Harriet Hageman has won Wyoming's US Senate race against Democrat James Byrd,…\n#PredictionMarkets #Senate #Bitcoin\n\nDecision Desk HQ projects Democrats win control of the House\nZeroHedge's election-night live page, read this run, timestamps the call at 9:10 PM ET: Democrats win control of the House, DDHQ projects — the first House-control call…\n#PredictionMarkets #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Crypto-backed Republican Andy Barr wins Kentucky&#x27;s Senate seat<br/>No significant new prediction-platform headline in the last 30 minutes; under today&#x27;s Election Day political focus this edition leads with a fresh key-races call, in a…<br/>#PredictionMarkets #Senate #Elections<br/><br/>Republican Harriet Hageman wins Wyoming&#x27;s Senate seat, succeeding retiring Cynthia Lummis<br/>Cointelegraph&#x27;s 9:05 PM ET update, read this run, reports Republican Representative Harriet Hageman has won Wyoming&#x27;s US Senate race against Democrat James Byrd,…<br/>#PredictionMarkets #Senate #Bitcoin<br/><br/>Decision Desk HQ projects Democrats win control of the House<br/>ZeroHedge&#x27;s election-night live page, read this run, timestamps the call at 9:10 PM ET: Democrats win control of the House, DDHQ projects — the first House-control call…<br/>#PredictionMarkets #Elections<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-03T21:54:00-05:00",
+      "date_modified": "2026-11-03T21:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Senate",
+        "Elections",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 3, 2026 · 9:54 PM ET",
+      "body": "Infiniti Prediction Markets\n\nCrypto-backed Republican Andy Barr wins Kentucky's Senate seat\nNo significant new prediction-platform headline in the last 30 minutes; under today's Election Day political focus this edition leads with a fresh key-races call, in a…\n#PredictionMarkets #Senate #Elections\n\nRepublican Harriet Hageman wins Wyoming's Senate seat, succeeding retiring Cynthia Lummis\nCointelegraph's 9:05 PM ET update, read this run, reports Republican Representative Harriet Hageman has won Wyoming's US Senate race against Democrat James Byrd,…\n#PredictionMarkets #Senate #Bitcoin\n\nDecision Desk HQ projects Democrats win control of the House\nZeroHedge's election-night live page, read this run, timestamps the call at 9:10 PM ET: Democrats win control of the House, DDHQ projects — the first House-control call…\n#PredictionMarkets #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-03T21:54:00-05:00",
+      "source": "2026-11-03_2154-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-03_2145-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_2145-est-0",
@@ -4366,36 +4396,6 @@
       "links": [],
       "timestamp": "Nov 3, 2026 · 3:00 PM ET",
       "body": "- **Crypto industry groups spent about 176 million dollars across more than 100 midterm races, with Fairshake spending nearly 11 million dollars backing Pete Ricketts in Nebraska, Cointelegraph reports** — Cointelegraph reports crypto groups spent roughly 176 million dollars across more than 100 races this cycle, citing an October 27 Reuters report, with Fairshake spending nearly 11 million dollars benefiting Nebraska Senator Pete Ricketts against independent Dan Osborn. (Cointelegraph)",
-      "image_url": null,
-      "published": "2026-11-03T15:00:00-05:00",
-      "source": "2026-11-03_1500-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-03_1500-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-03_1500-est-2",
-      "title": "DoubleZero added Kalshi election feeds to its low-latency Edge platform on September 9 while Gemini built a Politics Hub for live midterm odds, Startup Fortune reports",
-      "content_text": "- **DoubleZero added Kalshi election feeds to its low-latency Edge platform on September 9 while Gemini built a Politics Hub for live midterm odds, Startup Fortune reports** — Startup Fortune reports market-data network DoubleZero added Kalshi election and politics feeds to its Edge platform on September 9, 2026, and Gemini built a Politics Hub consolidating live Senate, House and governor odds in one place. (Startup Fortune)",
-      "content_html": "<p>- **DoubleZero added Kalshi election feeds to its low-latency Edge platform on September 9 while Gemini built a Politics Hub for live midterm odds, Startup Fortune reports** — Startup Fortune reports market-data network DoubleZero added Kalshi election and politics feeds to its Edge platform on September 9, 2026, and Gemini built a Politics Hub consolidating live Senate, House and governor odds in one place. (Startup Fortune)</p>",
-      "date_published": "2026-11-03T15:00:00-05:00",
-      "date_modified": "2026-11-03T15:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Elections",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 3, 2026 · 3:00 PM ET",
-      "body": "- **DoubleZero added Kalshi election feeds to its low-latency Edge platform on September 9 while Gemini built a Politics Hub for live midterm odds, Startup Fortune reports** — Startup Fortune reports market-data network DoubleZero added Kalshi election and politics feeds to its Edge platform on September 9, 2026, and Gemini built a Politics Hub consolidating live Senate, House and governor odds in one place. (Startup Fortune)",
       "image_url": null,
       "published": "2026-11-03T15:00:00-05:00",
       "source": "2026-11-03_1500-est.json",
