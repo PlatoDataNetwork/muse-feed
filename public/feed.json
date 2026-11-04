@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-04T16:22:02.906153-05:00",
+  "updated": "2026-11-04T16:31:54.375770-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,173 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-04_1630-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1630-est-0",
+      "title": "Second Circuit denies Kalshi and Coinbase an injunction pending appeal in the New York and Connecticut prediction market cases, Unchained reports",
+      "content_text": "- **Second Circuit denies Kalshi and Coinbase an injunction pending appeal in the New York and Connecticut prediction market cases, Unchained reports** — Unchained, published at 9:32 AM ET on November 4, reports a two-page order on Tuesday from Judges Walker, Jacobs and Bianco saying the companies failed to make the required showing for an injunction pending appeal in three cases considered together. The order does not rule on federal preemption or on contracts already open, the appeals remain pending, and New York's damages claim could total at least 36 billion dollars. (Unchained)",
+      "content_html": "<p>- **Second Circuit denies Kalshi and Coinbase an injunction pending appeal in the New York and Connecticut prediction market cases, Unchained reports** — Unchained, published at 9:32 AM ET on November 4, reports a two-page order on Tuesday from Judges Walker, Jacobs and Bianco saying the companies failed to make the required showing for an injunction pending appeal in three cases considered together. The order does not rule on federal preemption or on contracts already open, the appeals remain pending, and New York&#x27;s damages claim could total at least 36 billion dollars. (Unchained)</p>",
+      "date_published": "2026-11-04T16:30:00-05:00",
+      "date_modified": "2026-11-04T16:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 4:30 PM ET",
+      "body": "- **Second Circuit denies Kalshi and Coinbase an injunction pending appeal in the New York and Connecticut prediction market cases, Unchained reports** — Unchained, published at 9:32 AM ET on November 4, reports a two-page order on Tuesday from Judges Walker, Jacobs and Bianco saying the companies failed to make the required showing for an injunction pending appeal in three cases considered together. The order does not rule on federal preemption or on contracts already open, the appeals remain pending, and New York's damages claim could total at least 36 billion dollars. (Unchained)",
+      "image_url": null,
+      "published": "2026-11-04T16:30:00-05:00",
+      "source": "2026-11-04_1630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-04_1630-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1630-est-1",
+      "title": "NC-03 House winner market trades 1.4 million dollars in 24 hours with Raymond Smith Jr. at 73 cents on Kalshi, DeFi Rate reports",
+      "content_text": "- **NC-03 House winner market trades 1.4 million dollars in 24 hours with Raymond Smith Jr. at 73 cents on Kalshi, DeFi Rate reports** — DeFi Rate, observing prices between 3:39 PM and 4:20 PM ET on November 4, ranks the North Carolina 3rd District House winner market 15th overall by 24 hour volume at 1.4 million dollars. Raymond Smith Jr. leads at 73 cents on Kalshi, with Greg Murphy at 29 cents. (DeFi Rate)",
+      "content_html": "<p>- **NC-03 House winner market trades 1.4 million dollars in 24 hours with Raymond Smith Jr. at 73 cents on Kalshi, DeFi Rate reports** — DeFi Rate, observing prices between 3:39 PM and 4:20 PM ET on November 4, ranks the North Carolina 3rd District House winner market 15th overall by 24 hour volume at 1.4 million dollars. Raymond Smith Jr. leads at 73 cents on Kalshi, with Greg Murphy at 29 cents. (DeFi Rate)</p>",
+      "date_published": "2026-11-04T16:30:00-05:00",
+      "date_modified": "2026-11-04T16:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 4:30 PM ET",
+      "body": "- **NC-03 House winner market trades 1.4 million dollars in 24 hours with Raymond Smith Jr. at 73 cents on Kalshi, DeFi Rate reports** — DeFi Rate, observing prices between 3:39 PM and 4:20 PM ET on November 4, ranks the North Carolina 3rd District House winner market 15th overall by 24 hour volume at 1.4 million dollars. Raymond Smith Jr. leads at 73 cents on Kalshi, with Greg Murphy at 29 cents. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-04T16:30:00-05:00",
+      "source": "2026-11-04_1630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-04_1630-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1630-est-2",
+      "title": "Leipzig against Manchester City trades 2.2 million dollars in 24 hours with Manchester City at 45 cents on Kalshi, DeFi Rate reports",
+      "content_text": "- **Leipzig against Manchester City trades 2.2 million dollars in 24 hours with Manchester City at 45 cents on Kalshi, DeFi Rate reports** — DeFi Rate, observing prices between 3:39 PM and 4:20 PM ET on November 4, ranks the Leipzig against Manchester City match seventh overall by 24 hour volume at 2.2 million dollars across two venues. Manchester City is priced at 45 cents on Kalshi, with the Manchester City by 1.5 goals spread at 22 cents and the total over 5.5 goals at 41 cents. (DeFi Rate)",
+      "content_html": "<p>- **Leipzig against Manchester City trades 2.2 million dollars in 24 hours with Manchester City at 45 cents on Kalshi, DeFi Rate reports** — DeFi Rate, observing prices between 3:39 PM and 4:20 PM ET on November 4, ranks the Leipzig against Manchester City match seventh overall by 24 hour volume at 2.2 million dollars across two venues. Manchester City is priced at 45 cents on Kalshi, with the Manchester City by 1.5 goals spread at 22 cents and the total over 5.5 goals at 41 cents. (DeFi Rate)</p>",
+      "date_published": "2026-11-04T16:30:00-05:00",
+      "date_modified": "2026-11-04T16:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 4:30 PM ET",
+      "body": "- **Leipzig against Manchester City trades 2.2 million dollars in 24 hours with Manchester City at 45 cents on Kalshi, DeFi Rate reports** — DeFi Rate, observing prices between 3:39 PM and 4:20 PM ET on November 4, ranks the Leipzig against Manchester City match seventh overall by 24 hour volume at 2.2 million dollars across two venues. Manchester City is priced at 45 cents on Kalshi, with the Manchester City by 1.5 goals spread at 22 cents and the total over 5.5 goals at 41 cents. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-04T16:30:00-05:00",
+      "source": "2026-11-04_1630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-04_1630-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1630-est-3",
+      "title": "Ethereum price ladder for November 6 prices 2,400 dollars or above at 60 percent on Kalshi on 69,000 dollars traded, DeFi Rate reports",
+      "content_text": "- **Ethereum price ladder for November 6 prices 2,400 dollars or above at 60 percent on Kalshi on 69,000 dollars traded, DeFi Rate reports** — DeFi Rate, observed at 3:52 PM ET on November 4, shows Kalshi's Ethereum price contract for the 5 PM ET close on November 6 with 2,400 dollars or above at 60 percent and 2,440 dollars or above at 43 percent. The contract traded 69,000 dollars in 24 hours. (DeFi Rate)",
+      "content_html": "<p>- **Ethereum price ladder for November 6 prices 2,400 dollars or above at 60 percent on Kalshi on 69,000 dollars traded, DeFi Rate reports** — DeFi Rate, observed at 3:52 PM ET on November 4, shows Kalshi&#x27;s Ethereum price contract for the 5 PM ET close on November 6 with 2,400 dollars or above at 60 percent and 2,440 dollars or above at 43 percent. The contract traded 69,000 dollars in 24 hours. (DeFi Rate)</p>",
+      "date_published": "2026-11-04T16:30:00-05:00",
+      "date_modified": "2026-11-04T16:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Ethereum"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 4:30 PM ET",
+      "body": "- **Ethereum price ladder for November 6 prices 2,400 dollars or above at 60 percent on Kalshi on 69,000 dollars traded, DeFi Rate reports** — DeFi Rate, observed at 3:52 PM ET on November 4, shows Kalshi's Ethereum price contract for the 5 PM ET close on November 6 with 2,400 dollars or above at 60 percent and 2,440 dollars or above at 43 percent. The contract traded 69,000 dollars in 24 hours. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-04T16:30:00-05:00",
+      "source": "2026-11-04_1630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-04_1630-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1630-est-4",
+      "title": "VA-05 House winner market trades at 2.9 times its daily average with John McGuire at 98 percent on Kalshi, DeFi Rate reports",
+      "content_text": "- **VA-05 House winner market trades at 2.9 times its daily average with John McGuire at 98 percent on Kalshi, DeFi Rate reports** — DeFi Rate, in its surging markets list observed on November 4, shows the Virginia 5th District House winner market trading at 2.9 times its daily average over the past week, with 321,000 dollars traded in 24 hours. John McGuire is priced at 98 percent on Kalshi. (DeFi Rate)",
+      "content_html": "<p>- **VA-05 House winner market trades at 2.9 times its daily average with John McGuire at 98 percent on Kalshi, DeFi Rate reports** — DeFi Rate, in its surging markets list observed on November 4, shows the Virginia 5th District House winner market trading at 2.9 times its daily average over the past week, with 321,000 dollars traded in 24 hours. John McGuire is priced at 98 percent on Kalshi. (DeFi Rate)</p>",
+      "date_published": "2026-11-04T16:30:00-05:00",
+      "date_modified": "2026-11-04T16:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 4:30 PM ET",
+      "body": "- **VA-05 House winner market trades at 2.9 times its daily average with John McGuire at 98 percent on Kalshi, DeFi Rate reports** — DeFi Rate, in its surging markets list observed on November 4, shows the Virginia 5th District House winner market trading at 2.9 times its daily average over the past week, with 321,000 dollars traded in 24 hours. John McGuire is priced at 98 percent on Kalshi. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-04T16:30:00-05:00",
+      "source": "2026-11-04_1630-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-11-04_1624-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-04_1624-est",
+      "title": "Saquon Barkley says NFL rules forced him to sell his Polymarket stake",
+      "content_text": "Infiniti Prediction Markets\n\nSaquon Barkley says NFL rules forced him to sell his Polymarket stake\nNo new prediction-platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh legal and league-governance read, in a category…\n#PredictionMarkets #Polymarket #NFL\n\nBaltimore's contract to be a 2026-27 pro football playoff qualifier rises 11c to 27c on Kalshi\nPredictionMarketPicks' Kalshi leaderboard snapshot at 4:15 PM EST on Nov. 4, read this run across 347 priced contracts in 20 series, ranks the Baltimore…\n#PredictionMarkets #Kalshi\n\nGavin Newsom's 2028 presidential-winner contract falls 6c to 12c on Kalshi\nThe same PredictionMarketPicks snapshot lists Newsom's contract to win the next presidential election among the politics movers at 12c, down 6c in 24 hours, on 105K…\n#PredictionMarkets #Kalshi #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Saquon Barkley says NFL rules forced him to sell his Polymarket stake<br/>No new prediction-platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh legal and league-governance read, in a category…<br/>#PredictionMarkets #Polymarket #NFL<br/><br/>Baltimore&#x27;s contract to be a 2026-27 pro football playoff qualifier rises 11c to 27c on Kalshi<br/>PredictionMarketPicks&#x27; Kalshi leaderboard snapshot at 4:15 PM EST on Nov. 4, read this run across 347 priced contracts in 20 series, ranks the Baltimore…<br/>#PredictionMarkets #Kalshi<br/><br/>Gavin Newsom&#x27;s 2028 presidential-winner contract falls 6c to 12c on Kalshi<br/>The same PredictionMarketPicks snapshot lists Newsom&#x27;s contract to win the next presidential election among the politics movers at 12c, down 6c in 24 hours, on 105K…<br/>#PredictionMarkets #Kalshi #Elections<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-04T16:24:00-05:00",
+      "date_modified": "2026-11-04T16:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "NFL",
+        "Kalshi",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 4:24 PM ET",
+      "body": "Infiniti Prediction Markets\n\nSaquon Barkley says NFL rules forced him to sell his Polymarket stake\nNo new prediction-platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh legal and league-governance read, in a category…\n#PredictionMarkets #Polymarket #NFL\n\nBaltimore's contract to be a 2026-27 pro football playoff qualifier rises 11c to 27c on Kalshi\nPredictionMarketPicks' Kalshi leaderboard snapshot at 4:15 PM EST on Nov. 4, read this run across 347 priced contracts in 20 series, ranks the Baltimore…\n#PredictionMarkets #Kalshi\n\nGavin Newsom's 2028 presidential-winner contract falls 6c to 12c on Kalshi\nThe same PredictionMarketPicks snapshot lists Newsom's contract to win the next presidential election among the politics movers at 12c, down 6c in 24 hours, on 105K…\n#PredictionMarkets #Kalshi #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-04T16:24:00-05:00",
+      "source": "2026-11-04_1624-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-04_1615-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1615-est-0",
@@ -4188,178 +4355,6 @@
       "image_url": null,
       "published": "2026-11-04T09:30:00-05:00",
       "source": "2026-11-04_0930-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_0930-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_0930-est-3",
-      "title": "Polymarket US contract on the Iran ceasefire continuing through November 4 falls 90 points to 4 percent, NewsMarkets reports",
-      "content_text": "- **Polymarket US contract on the Iran ceasefire continuing through November 4 falls 90 points to 4 percent, NewsMarkets reports** — NewsMarkets' November 4 prediction-market board shows the ceasefire continuation contract among the day's largest single moves, dropping 90 points to 4 percent as its November 4 deadline arrived. (NewsMarkets)",
-      "content_html": "<p>- **Polymarket US contract on the Iran ceasefire continuing through November 4 falls 90 points to 4 percent, NewsMarkets reports** — NewsMarkets&#x27; November 4 prediction-market board shows the ceasefire continuation contract among the day&#x27;s largest single moves, dropping 90 points to 4 percent as its November 4 deadline arrived. (NewsMarkets)</p>",
-      "date_published": "2026-11-04T09:30:00-05:00",
-      "date_modified": "2026-11-04T09:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 9:30 AM ET",
-      "body": "- **Polymarket US contract on the Iran ceasefire continuing through November 4 falls 90 points to 4 percent, NewsMarkets reports** — NewsMarkets' November 4 prediction-market board shows the ceasefire continuation contract among the day's largest single moves, dropping 90 points to 4 percent as its November 4 deadline arrived. (NewsMarkets)",
-      "image_url": null,
-      "published": "2026-11-04T09:30:00-05:00",
-      "source": "2026-11-04_0930-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-11-04_0924-est",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-04_0924-est",
-      "title": "October was the largest month on record for prediction markets, at $121.28B traded, up 58.7% from September",
-      "content_text": "Infiniti Prediction Markets\n\nOctober was the largest month on record for prediction markets, at $121.28B traded, up 58.7% from September\nNo new platform headline in the last 30 minutes, so this edition leads with a fresh volume/metrics read, in a category different from the previous three delivered leads…\n#PredictionMarkets #Kalshi #Polymarket\n\nJames Talarico's 2028 presidential-winner contract trades at 4c on Kalshi, on 197K contracts in 24 hours\nPredictionMarketPicks' Kalshi leaderboard, read this run in its 9:09 AM ET snapshot of 333 priced contracts across 20 series, ranks the contract on Talarico winning the…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Prediction Markets<br/><br/>October was the largest month on record for prediction markets, at $121.28B traded, up 58.7% from September<br/>No new platform headline in the last 30 minutes, so this edition leads with a fresh volume/metrics read, in a category different from the previous three delivered leads…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>James Talarico&#x27;s 2028 presidential-winner contract trades at 4c on Kalshi, on 197K contracts in 24 hours<br/>PredictionMarketPicks&#x27; Kalshi leaderboard, read this run in its 9:09 AM ET snapshot of 333 priced contracts across 20 series, ranks the contract on Talarico winning the…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
-      "date_published": "2026-11-04T09:24:00-05:00",
-      "date_modified": "2026-11-04T09:24:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Polymarket",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 9:24 AM ET",
-      "body": "Infiniti Prediction Markets\n\nOctober was the largest month on record for prediction markets, at $121.28B traded, up 58.7% from September\nNo new platform headline in the last 30 minutes, so this edition leads with a fresh volume/metrics read, in a category different from the previous three delivered leads…\n#PredictionMarkets #Kalshi #Polymarket\n\nJames Talarico's 2028 presidential-winner contract trades at 4c on Kalshi, on 197K contracts in 24 hours\nPredictionMarketPicks' Kalshi leaderboard, read this run in its 9:09 AM ET snapshot of 333 priced contracts across 20 series, ranks the contract on Talarico winning the…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-11-04T09:24:00-05:00",
-      "source": "2026-11-04_0924-est.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_0915-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_0915-est-0",
-      "title": "Nebraska Senate market prices Pete Ricketts at 97 cents on Kalshi on November 4, with Dan Osborn at 3 cents, PredictionMarketPicks reports",
-      "content_text": "- **Nebraska Senate market prices Pete Ricketts at 97 cents on Kalshi on November 4, with Dan Osborn at 3 cents, PredictionMarketPicks reports** — PredictionMarketPicks reports Kalshi prices Pete Ricketts at 97 cents for the Nebraska Senate race as of November 4, with Dan Osborn at 3 cents. Forecasters rated the seat Lean Republican, and the price is well above the 70 cents Ricketts traded at earlier in the week. (PredictionMarketPicks)",
-      "content_html": "<p>- **Nebraska Senate market prices Pete Ricketts at 97 cents on Kalshi on November 4, with Dan Osborn at 3 cents, PredictionMarketPicks reports** — PredictionMarketPicks reports Kalshi prices Pete Ricketts at 97 cents for the Nebraska Senate race as of November 4, with Dan Osborn at 3 cents. Forecasters rated the seat Lean Republican, and the price is well above the 70 cents Ricketts traded at earlier in the week. (PredictionMarketPicks)</p>",
-      "date_published": "2026-11-04T09:15:00-05:00",
-      "date_modified": "2026-11-04T09:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 9:15 AM ET",
-      "body": "- **Nebraska Senate market prices Pete Ricketts at 97 cents on Kalshi on November 4, with Dan Osborn at 3 cents, PredictionMarketPicks reports** — PredictionMarketPicks reports Kalshi prices Pete Ricketts at 97 cents for the Nebraska Senate race as of November 4, with Dan Osborn at 3 cents. Forecasters rated the seat Lean Republican, and the price is well above the 70 cents Ricketts traded at earlier in the week. (PredictionMarketPicks)",
-      "image_url": null,
-      "published": "2026-11-04T09:15:00-05:00",
-      "source": "2026-11-04_0915-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_0915-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_0915-est-1",
-      "title": "Stock futures rally after the Democratic sweep, with Nasdaq and S and P 500 futures each up 1.1 percent and the Dow up 1.5 percent, Morningstar reports",
-      "content_text": "- **Stock futures rally after the Democratic sweep, with Nasdaq and S and P 500 futures each up 1.1 percent and the Dow up 1.5 percent, Morningstar reports** — Morningstar, via Dow Jones Newswires, reports United States stock futures reversed earlier losses on November 4 after Democrats won both chambers, with analysts citing relief that a balance of power would keep both parties in check. Brent crude fell 1.4 percent to about 102.20 dollars a barrel, gold rallied back above 4,000 dollars an ounce, and Bitcoin hovered around 78,400 dollars. (Morningstar)",
-      "content_html": "<p>- **Stock futures rally after the Democratic sweep, with Nasdaq and S and P 500 futures each up 1.1 percent and the Dow up 1.5 percent, Morningstar reports** — Morningstar, via Dow Jones Newswires, reports United States stock futures reversed earlier losses on November 4 after Democrats won both chambers, with analysts citing relief that a balance of power would keep both parties in check. Brent crude fell 1.4 percent to about 102.20 dollars a barrel, gold rallied back above 4,000 dollars an ounce, and Bitcoin hovered around 78,400 dollars. (Morningstar)</p>",
-      "date_published": "2026-11-04T09:15:00-05:00",
-      "date_modified": "2026-11-04T09:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Bitcoin",
-        "Gold",
-        "Oil"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 9:15 AM ET",
-      "body": "- **Stock futures rally after the Democratic sweep, with Nasdaq and S and P 500 futures each up 1.1 percent and the Dow up 1.5 percent, Morningstar reports** — Morningstar, via Dow Jones Newswires, reports United States stock futures reversed earlier losses on November 4 after Democrats won both chambers, with analysts citing relief that a balance of power would keep both parties in check. Brent crude fell 1.4 percent to about 102.20 dollars a barrel, gold rallied back above 4,000 dollars an ounce, and Bitcoin hovered around 78,400 dollars. (Morningstar)",
-      "image_url": null,
-      "published": "2026-11-04T09:15:00-05:00",
-      "source": "2026-11-04_0915-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_0915-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_0915-est-2",
-      "title": "Trump Media shares sank nearly 7 percent ahead of the opening bell after the midterm results, Morningstar reports",
-      "content_text": "- **Trump Media shares sank nearly 7 percent ahead of the opening bell after the midterm results, Morningstar reports** — Morningstar reports Trump Media and Technology shares fell nearly 7 percent in premarket trading on November 4 following the Democratic sweep of Congress. The same briefing said oil prices dropped as investors weighed the sweep's geopolitical implications, with Capital Economics warning Brent could rise above 120 dollars a barrel if strikes on Iran resume. (Morningstar)",
-      "content_html": "<p>- **Trump Media shares sank nearly 7 percent ahead of the opening bell after the midterm results, Morningstar reports** — Morningstar reports Trump Media and Technology shares fell nearly 7 percent in premarket trading on November 4 following the Democratic sweep of Congress. The same briefing said oil prices dropped as investors weighed the sweep&#x27;s geopolitical implications, with Capital Economics warning Brent could rise above 120 dollars a barrel if strikes on Iran resume. (Morningstar)</p>",
-      "date_published": "2026-11-04T09:15:00-05:00",
-      "date_modified": "2026-11-04T09:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Congress",
-        "Oil",
-        "Midterms"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 9:15 AM ET",
-      "body": "- **Trump Media shares sank nearly 7 percent ahead of the opening bell after the midterm results, Morningstar reports** — Morningstar reports Trump Media and Technology shares fell nearly 7 percent in premarket trading on November 4 following the Democratic sweep of Congress. The same briefing said oil prices dropped as investors weighed the sweep's geopolitical implications, with Capital Economics warning Brent could rise above 120 dollars a barrel if strikes on Iran resume. (Morningstar)",
-      "image_url": null,
-      "published": "2026-11-04T09:15:00-05:00",
-      "source": "2026-11-04_0915-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_0915-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_0915-est-3",
-      "title": "Stablecoin market capitalization fell to about 263 billion dollars, its lowest level in more than a year, CryptoQuant data via Brave New Coin reports",
-      "content_text": "- **Stablecoin market capitalization fell to about 263 billion dollars, its lowest level in more than a year, CryptoQuant data via Brave New Coin reports** — Brave New Coin reports CryptoQuant data showing total stablecoin market capitalization declined to approximately 263 billion dollars by early November 2026, signaling declining liquidity across cryptocurrency markets. Gold and silver also fell alongside risk assets ahead of the midterms as margin calls and forced deleveraging outweighed safe-haven demand, before recovering on November 2. (Brave New Coin)",
-      "content_html": "<p>- **Stablecoin market capitalization fell to about 263 billion dollars, its lowest level in more than a year, CryptoQuant data via Brave New Coin reports** — Brave New Coin reports CryptoQuant data showing total stablecoin market capitalization declined to approximately 263 billion dollars by early November 2026, signaling declining liquidity across cryptocurrency markets. Gold and silver also fell alongside risk assets ahead of the midterms as margin calls and forced deleveraging outweighed safe-haven demand, before recovering on November 2. (Brave New Coin)</p>",
-      "date_published": "2026-11-04T09:15:00-05:00",
-      "date_modified": "2026-11-04T09:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 9:15 AM ET",
-      "body": "- **Stablecoin market capitalization fell to about 263 billion dollars, its lowest level in more than a year, CryptoQuant data via Brave New Coin reports** — Brave New Coin reports CryptoQuant data showing total stablecoin market capitalization declined to approximately 263 billion dollars by early November 2026, signaling declining liquidity across cryptocurrency markets. Gold and silver also fell alongside risk assets ahead of the midterms as margin calls and forced deleveraging outweighed safe-haven demand, before recovering on November 2. (Brave New Coin)",
-      "image_url": null,
-      "published": "2026-11-04T09:15:00-05:00",
-      "source": "2026-11-04_0915-est.json",
       "matches_facebook_post": false
     }
   ]
