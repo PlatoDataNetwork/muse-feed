@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-05T02:17:53.268072-05:00",
+  "updated": "2026-11-05T02:29:57.404963-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-05_0224-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-05_0224-est",
+      "title": "The Ninth Circuit denies Kalshi panel and en banc rehearing in its Nevada case on November 4, leaving the 3-0 ruling against the exchange in place",
+      "content_text": "Infiniti Prediction Markets\n\nThe Ninth Circuit denies Kalshi panel and en banc rehearing in its Nevada case on November 4, leaving the 3-0 ruling against the exchange in place\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with the freshest legal development, in a category different from the previous…\n#PredictionMarkets #Kalshi #SCOTUS\n\n38 of the 43 most-traded events of the past seven days have now settled, led by the $49M Texas Senate winner market\nDeFi Rate's settlement page, observed Nov. 5 at 12:25 AM ET and read this run, counts 38 settled of the 43 most-traded events of the past seven days — 33 on Kalshi, 4 on…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>The Ninth Circuit denies Kalshi panel and en banc rehearing in its Nevada case on November 4, leaving the 3-0 ruling against the exchange in place<br/>No new platform headline in the last 30 minutes changes the picture, so this edition leads with the freshest legal development, in a category different from the previous…<br/>#PredictionMarkets #Kalshi #SCOTUS<br/><br/>38 of the 43 most-traded events of the past seven days have now settled, led by the $49M Texas Senate winner market<br/>DeFi Rate&#x27;s settlement page, observed Nov. 5 at 12:25 AM ET and read this run, counts 38 settled of the 43 most-traded events of the past seven days — 33 on Kalshi, 4 on…<br/>#PredictionMarkets #Kalshi #Polymarket #Senate<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-05T02:24:00-05:00",
+      "date_modified": "2026-11-05T02:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "SCOTUS",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 5, 2026 · 2:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nThe Ninth Circuit denies Kalshi panel and en banc rehearing in its Nevada case on November 4, leaving the 3-0 ruling against the exchange in place\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with the freshest legal development, in a category different from the previous…\n#PredictionMarkets #Kalshi #SCOTUS\n\n38 of the 43 most-traded events of the past seven days have now settled, led by the $49M Texas Senate winner market\nDeFi Rate's settlement page, observed Nov. 5 at 12:25 AM ET and read this run, counts 38 settled of the 43 most-traded events of the past seven days — 33 on Kalshi, 4 on…\n#PredictionMarkets #Kalshi #Polymarket #Senate\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-05T02:24:00-05:00",
+      "source": "2026-11-05_0224-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-05_0215-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_0215-est-0",
@@ -4299,33 +4330,6 @@
       "links": [],
       "timestamp": "Nov 4, 2026 · 7:00 PM ET",
       "body": "- **Polymarket perpetual futures trade 211.40 million dollars in Bitcoin in the latest hour, ahead of silver at 9.88 million dollars, Polywatcher reports** — Polywatcher reports its latest hourly read through November 4, 23:00 UTC puts Bitcoin first among Polymarket perpetual futures markets, with SK Hynix stock at 4.87 million dollars and the S and P 500 index product at 3.81 million dollars. Its latest whale orders of 50,000 dollars or more include a 187,400 dollar close of an SK Hynix long at 1,015.30 dollars. (Polywatcher)",
-      "image_url": null,
-      "published": "2026-11-04T19:00:00-05:00",
-      "source": "2026-11-04_1900-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_1900-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1900-est-2",
-      "title": "New Orleans priced at 61 percent against Cleveland at 40 percent for their November 10 game on Kalshi, on 333,000 dollars traded, DeFi Rate reports",
-      "content_text": "- **New Orleans priced at 61 percent against Cleveland at 40 percent for their November 10 game on Kalshi, on 333,000 dollars traded, DeFi Rate reports** — DeFi Rate reports the Cleveland against New Orleans game market ranks ninth among the most-traded sports events of the last 24 hours, with prices observed between November 4, 2:59 PM and 6:55 PM ET. The market is listed on Kalshi and closes November 10, 2026. (DeFi Rate)",
-      "content_html": "<p>- **New Orleans priced at 61 percent against Cleveland at 40 percent for their November 10 game on Kalshi, on 333,000 dollars traded, DeFi Rate reports** — DeFi Rate reports the Cleveland against New Orleans game market ranks ninth among the most-traded sports events of the last 24 hours, with prices observed between November 4, 2:59 PM and 6:55 PM ET. The market is listed on Kalshi and closes November 10, 2026. (DeFi Rate)</p>",
-      "date_published": "2026-11-04T19:00:00-05:00",
-      "date_modified": "2026-11-04T19:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 7:00 PM ET",
-      "body": "- **New Orleans priced at 61 percent against Cleveland at 40 percent for their November 10 game on Kalshi, on 333,000 dollars traded, DeFi Rate reports** — DeFi Rate reports the Cleveland against New Orleans game market ranks ninth among the most-traded sports events of the last 24 hours, with prices observed between November 4, 2:59 PM and 6:55 PM ET. The market is listed on Kalshi and closes November 10, 2026. (DeFi Rate)",
       "image_url": null,
       "published": "2026-11-04T19:00:00-05:00",
       "source": "2026-11-04_1900-est.json",
