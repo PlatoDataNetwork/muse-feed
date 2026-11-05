@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-05T18:45:11.227323-05:00",
+  "updated": "2026-11-05T18:59:08.195778-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-05_1854-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-05_1854-est",
+      "title": "The CFTC declares federally regulated prediction markets generally cannot restrict access based on where a trader is located, giving exchanges 30 days to end geographic restrictions or explain why they cannot",
+      "content_text": "Infiniti Prediction Markets\n\nThe CFTC declares federally regulated prediction markets generally cannot restrict access based on where a trader is located, giving exchanges 30 days to end geographic restrictions or explain why they cannot\nThe agency's new interpretation of federal impartial access requirements, issued Thursday, November 5, says the Commodity Exchange Act generally does not permit…\n#PredictionMarkets #Kalshi #Congress #CFTC\n\nMiami wins is the most-traded Kalshi contract on the board at 40c, on 739,040 contracts traded ahead of tonight's game against Golden State\nPredictionMarketPicks' Kalshi leaderboard, read this run in its November 5, 6:50 PM EST snapshot of 325 priced contracts across 21 series, ranks Miami wins first by…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>The CFTC declares federally regulated prediction markets generally cannot restrict access based on where a trader is located, giving exchanges 30 days to end geographic restrictions or explain why they cannot<br/>The agency&#x27;s new interpretation of federal impartial access requirements, issued Thursday, November 5, says the Commodity Exchange Act generally does not permit…<br/>#PredictionMarkets #Kalshi #Congress #CFTC<br/><br/>Miami wins is the most-traded Kalshi contract on the board at 40c, on 739,040 contracts traded ahead of tonight&#x27;s game against Golden State<br/>PredictionMarketPicks&#x27; Kalshi leaderboard, read this run in its November 5, 6:50 PM EST snapshot of 325 priced contracts across 21 series, ranks Miami wins first by…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-05T18:54:00-05:00",
+      "date_modified": "2026-11-05T18:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Congress",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 5, 2026 · 6:54 PM ET",
+      "body": "Infiniti Prediction Markets\n\nThe CFTC declares federally regulated prediction markets generally cannot restrict access based on where a trader is located, giving exchanges 30 days to end geographic restrictions or explain why they cannot\nThe agency's new interpretation of federal impartial access requirements, issued Thursday, November 5, says the Commodity Exchange Act generally does not permit…\n#PredictionMarkets #Kalshi #Congress #CFTC\n\nMiami wins is the most-traded Kalshi contract on the board at 40c, on 739,040 contracts traded ahead of tonight's game against Golden State\nPredictionMarketPicks' Kalshi leaderboard, read this run in its November 5, 6:50 PM EST snapshot of 325 priced contracts across 21 series, ranks Miami wins first by…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-05T18:54:00-05:00",
+      "source": "2026-11-05_1854-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-05_1845-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_1845-est-0",
@@ -4252,33 +4282,6 @@
       "links": [],
       "timestamp": "Nov 5, 2026 · 12:00 PM ET",
       "body": "- **India withholds Polymarket's official X account following a legal request over online betting, Inshorts reports** — India has withheld the official X account of offshore prediction market platform Polymarket following a legal request. The move follows the blocking of Polymarket and Kalshi websites under the Promotion and Restriction of Online Gaming Act, while Polymarket's associated accounts and the official X accounts of Kalshi and other platforms remain accessible. (Inshorts)",
-      "image_url": null,
-      "published": "2026-11-05T12:00:00-05:00",
-      "source": "2026-11-05_1200-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-05_1200-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_1200-est-2",
-      "title": "Kalshi develops niche prediction contracts to attract large institutional investors, including products tied to legal claims, Binance reports",
-      "content_text": "- **Kalshi develops niche prediction contracts to attract large institutional investors, including products tied to legal claims, Binance reports** — Binance, citing Odaily, reports Kalshi is developing new contracts to attract large funds and corporate clients as it seeks to compete with traditional financial markets. The company hopes institutional investors will use prediction markets to hedge potential losses and is exploring products in niche areas such as legal claims, where investors could buy claims at a discount and gain if related cases are settled. (Binance)",
-      "content_html": "<p>- **Kalshi develops niche prediction contracts to attract large institutional investors, including products tied to legal claims, Binance reports** — Binance, citing Odaily, reports Kalshi is developing new contracts to attract large funds and corporate clients as it seeks to compete with traditional financial markets. The company hopes institutional investors will use prediction markets to hedge potential losses and is exploring products in niche areas such as legal claims, where investors could buy claims at a discount and gain if related cases are settled. (Binance)</p>",
-      "date_published": "2026-11-05T12:00:00-05:00",
-      "date_modified": "2026-11-05T12:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 5, 2026 · 12:00 PM ET",
-      "body": "- **Kalshi develops niche prediction contracts to attract large institutional investors, including products tied to legal claims, Binance reports** — Binance, citing Odaily, reports Kalshi is developing new contracts to attract large funds and corporate clients as it seeks to compete with traditional financial markets. The company hopes institutional investors will use prediction markets to hedge potential losses and is exploring products in niche areas such as legal claims, where investors could buy claims at a discount and gain if related cases are settled. (Binance)",
       "image_url": null,
       "published": "2026-11-05T12:00:00-05:00",
       "source": "2026-11-05_1200-est.json",
