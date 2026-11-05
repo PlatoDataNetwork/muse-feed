@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-05T12:19:13.319641-05:00",
+  "updated": "2026-11-05T12:29:05.139313-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-05_1224-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-05_1224-est",
+      "title": "Kalshi's single-stock perpetual futures for Apple, Amazon and AMD are active, with the Apple contract trading about $4.61M in notional volume in 24 hours at an estimated 4.96 times leverage",
+      "content_text": "Infiniti Prediction Markets\n\nKalshi's single-stock perpetual futures for Apple, Amazon and AMD are active, with the Apple contract trading about $4.61M in notional volume in 24 hours at an estimated 4.96 times leverage\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh product read, in a category different from the previous three…\n#PredictionMarkets #Kalshi #CFTC #Elections\n\nArizona's second House district reprices sharply on Kalshi, with Republican Eli Crane up 39 points to 69c and Democrat Jonathan Nez down 45 points to 31c\nCoinStats' Kalshi biggest-moves board, read this run, lists the AZ-2 race among the largest moves of the day, with the Republican win contract at 69c, up 39 points, on…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Kalshi&#x27;s single-stock perpetual futures for Apple, Amazon and AMD are active, with the Apple contract trading about $4.61M in notional volume in 24 hours at an estimated 4.96 times leverage<br/>No new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh product read, in a category different from the previous three…<br/>#PredictionMarkets #Kalshi #CFTC #Elections<br/><br/>Arizona&#x27;s second House district reprices sharply on Kalshi, with Republican Eli Crane up 39 points to 69c and Democrat Jonathan Nez down 45 points to 31c<br/>CoinStats&#x27; Kalshi biggest-moves board, read this run, lists the AZ-2 race among the largest moves of the day, with the Republican win contract at 69c, up 39 points, on…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-05T12:24:00-05:00",
+      "date_modified": "2026-11-05T12:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 5, 2026 · 12:24 PM ET",
+      "body": "Infiniti Prediction Markets\n\nKalshi's single-stock perpetual futures for Apple, Amazon and AMD are active, with the Apple contract trading about $4.61M in notional volume in 24 hours at an estimated 4.96 times leverage\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh product read, in a category different from the previous three…\n#PredictionMarkets #Kalshi #CFTC #Elections\n\nArizona's second House district reprices sharply on Kalshi, with Republican Eli Crane up 39 points to 69c and Democrat Jonathan Nez down 45 points to 31c\nCoinStats' Kalshi biggest-moves board, read this run, lists the AZ-2 race among the largest moves of the day, with the Republican win contract at 69c, up 39 points, on…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-05T12:24:00-05:00",
+      "source": "2026-11-05_1224-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-05_1215-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_1215-est-0",
@@ -4271,33 +4301,6 @@
       "links": [],
       "timestamp": "Nov 5, 2026 · 5:30 AM ET",
       "body": "- **Contract on a Freddie Mac IPO before 2027 falls 26 points to 5.9 percent on Polymarket, with 247,000 dollars traded, PredictionBubbles reports** — The contract is the biggest mover on the finance board in the November 5 reading, after a 26 point fall over 24 hours. It runs to the end of 2026, with about 57 days remaining. (PredictionBubbles)",
-      "image_url": null,
-      "published": "2026-11-05T05:30:00-05:00",
-      "source": "2026-11-05_0530-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-05_0530-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_0530-est-1",
-      "title": "Contract on the next Astra Model (6.1+) being released by November 15, 2026 rises 17 points to 94 percent on Polymarket, with 131,000 dollars traded, PredictionBubbles reports",
-      "content_text": "- **Contract on the next Astra Model (6.1+) being released by November 15, 2026 rises 17 points to 94 percent on Polymarket, with 131,000 dollars traded, PredictionBubbles reports** — The contract is the top mover on the tech board in the November 5 reading. It has about 11 days left to run before the November 15 deadline. (PredictionBubbles)",
-      "content_html": "<p>- **Contract on the next Astra Model (6.1+) being released by November 15, 2026 rises 17 points to 94 percent on Polymarket, with 131,000 dollars traded, PredictionBubbles reports** — The contract is the top mover on the tech board in the November 5 reading. It has about 11 days left to run before the November 15 deadline. (PredictionBubbles)</p>",
-      "date_published": "2026-11-05T05:30:00-05:00",
-      "date_modified": "2026-11-05T05:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 5, 2026 · 5:30 AM ET",
-      "body": "- **Contract on the next Astra Model (6.1+) being released by November 15, 2026 rises 17 points to 94 percent on Polymarket, with 131,000 dollars traded, PredictionBubbles reports** — The contract is the top mover on the tech board in the November 5 reading. It has about 11 days left to run before the November 15 deadline. (PredictionBubbles)",
       "image_url": null,
       "published": "2026-11-05T05:30:00-05:00",
       "source": "2026-11-05_0530-est.json",
