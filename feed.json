@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-05T03:44:37.709502-05:00",
+  "updated": "2026-11-05T03:56:51.830937-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-05_0354-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-05_0354-est",
+      "title": "Politics volume falls 80% to $224M in 24 hours as sports rises 35% to $1.3B",
+      "content_text": "Infiniti Prediction Markets\n\nPolitics volume falls 80% to $224M in 24 hours as sports rises 35% to $1.3B\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh volume/metrics read, in a category different from the previous…\n#PredictionMarkets #Elections\n\nPridankina against Shubladze trades $931K in 24 hours on two venues, with Shubladze at 67% on Polymarket and 75c on Kalshi\nDeFi Rate's top-50 board, observed between 2:24 AM and 3:23 AM ET on Nov. 5 and read this run, lists the Pridankina vs Shubladze tennis match among the day's most-traded…\n#PredictionMarkets #Kalshi #Polymarket\n\nFlorida's Senate margin-of-victory market trades $1.6M in 24 hours, led by Moody at 1+ points\nThe same DeFi Rate board ranks Florida's Senate margin-of-victory market fifth overall at $1.6M traded in 24 hours across 22 outcomes, led by Moody, 1+ pts, with Moody,…\n#PredictionMarkets #Senate #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Politics volume falls 80% to $224M in 24 hours as sports rises 35% to $1.3B<br/>No new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh volume/metrics read, in a category different from the previous…<br/>#PredictionMarkets #Elections<br/><br/>Pridankina against Shubladze trades $931K in 24 hours on two venues, with Shubladze at 67% on Polymarket and 75c on Kalshi<br/>DeFi Rate&#x27;s top-50 board, observed between 2:24 AM and 3:23 AM ET on Nov. 5 and read this run, lists the Pridankina vs Shubladze tennis match among the day&#x27;s most-traded…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>Florida&#x27;s Senate margin-of-victory market trades $1.6M in 24 hours, led by Moody at 1+ points<br/>The same DeFi Rate board ranks Florida&#x27;s Senate margin-of-victory market fifth overall at $1.6M traded in 24 hours across 22 outcomes, led by Moody, 1+ pts, with Moody,…<br/>#PredictionMarkets #Senate #Elections<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-05T03:54:00-05:00",
+      "date_modified": "2026-11-05T03:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Elections",
+        "Kalshi",
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 5, 2026 · 3:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nPolitics volume falls 80% to $224M in 24 hours as sports rises 35% to $1.3B\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh volume/metrics read, in a category different from the previous…\n#PredictionMarkets #Elections\n\nPridankina against Shubladze trades $931K in 24 hours on two venues, with Shubladze at 67% on Polymarket and 75c on Kalshi\nDeFi Rate's top-50 board, observed between 2:24 AM and 3:23 AM ET on Nov. 5 and read this run, lists the Pridankina vs Shubladze tennis match among the day's most-traded…\n#PredictionMarkets #Kalshi #Polymarket\n\nFlorida's Senate margin-of-victory market trades $1.6M in 24 hours, led by Moody at 1+ points\nThe same DeFi Rate board ranks Florida's Senate margin-of-victory market fifth overall at $1.6M traded in 24 hours across 22 outcomes, led by Moody, 1+ pts, with Moody,…\n#PredictionMarkets #Senate #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-05T03:54:00-05:00",
+      "source": "2026-11-05_0354-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-05_0345-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_0345-est-0",
@@ -4284,33 +4315,6 @@
       "links": [],
       "timestamp": "Nov 4, 2026 · 8:30 PM ET",
       "body": "- **Aries launches prediction markets in its mobile app through ForecastEx, with contracts on elections, economic data and financial markets, Bitcomme reports** — Eligible customers can trade yes-or-no event contracts through Aries Futures LLC, with contracts listed and cleared by ForecastEx, the CFTC-designated exchange affiliated with Interactive Brokers. Aries plans to integrate the markets into its Aries Infinite trading canvas so event contract prices sit alongside charts, news and positions. (Bitcomme)",
-      "image_url": null,
-      "published": "2026-11-04T20:30:00-05:00",
-      "source": "2026-11-04_2030-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_2030-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_2030-est-4",
-      "title": "Kalshi December Fed combo prices a 25 basis point hike with zero dissents at 56 percent, Octagon reports",
-      "content_text": "- **Kalshi December Fed combo prices a 25 basis point hike with zero dissents at 56 percent, Octagon reports** — The combo contract pairs the rate decision at the December 8-9 FOMC meeting with the dissent count, and its main price move followed the October 28 FOMC statement. Two voters dissented in favor of a hike at the October meeting, leaving meaningful dissent risk priced into the December contract. (Octagon)",
-      "content_html": "<p>- **Kalshi December Fed combo prices a 25 basis point hike with zero dissents at 56 percent, Octagon reports** — The combo contract pairs the rate decision at the December 8-9 FOMC meeting with the dissent count, and its main price move followed the October 28 FOMC statement. Two voters dissented in favor of a hike at the October meeting, leaving meaningful dissent risk priced into the December contract. (Octagon)</p>",
-      "date_published": "2026-11-04T20:30:00-05:00",
-      "date_modified": "2026-11-04T20:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 8:30 PM ET",
-      "body": "- **Kalshi December Fed combo prices a 25 basis point hike with zero dissents at 56 percent, Octagon reports** — The combo contract pairs the rate decision at the December 8-9 FOMC meeting with the dissent count, and its main price move followed the October 28 FOMC statement. Two voters dissented in favor of a hike at the October meeting, leaving meaningful dissent risk priced into the December contract. (Octagon)",
       "image_url": null,
       "published": "2026-11-04T20:30:00-05:00",
       "source": "2026-11-04_2030-est.json",
