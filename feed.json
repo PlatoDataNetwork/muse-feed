@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-04T20:36:20.551924-05:00",
+  "updated": "2026-11-04T20:45:20.024988-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,33 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-04_2045-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_2045-est-0",
+      "title": "New attorneys general in Texas and Georgia could reopen state enforcement against Kalshi, legal experts say, Gambling Insider reports",
+      "content_text": "- **New attorneys general in Texas and Georgia could reopen state enforcement against Kalshi, legal experts say, Gambling Insider reports** — Democrats Nathan Johnson in Texas and Tanya Miller in Georgia won their attorney general races, and attorney Daniel Wallach says the wins could put two populous states back in play for state enforcement against Kalshi, bringing the Fifth and Eleventh Circuits into the federal preemption fight. Neither has announced plans to pursue Kalshi, and experts say a federal ban remains unlikely because it would face a presidential veto. (Gambling Insider)",
+      "content_html": "<p>- **New attorneys general in Texas and Georgia could reopen state enforcement against Kalshi, legal experts say, Gambling Insider reports** — Democrats Nathan Johnson in Texas and Tanya Miller in Georgia won their attorney general races, and attorney Daniel Wallach says the wins could put two populous states back in play for state enforcement against Kalshi, bringing the Fifth and Eleventh Circuits into the federal preemption fight. Neither has announced plans to pursue Kalshi, and experts say a federal ban remains unlikely because it would face a presidential veto. (Gambling Insider)</p>",
+      "date_published": "2026-11-04T20:45:00-05:00",
+      "date_modified": "2026-11-04T20:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 4, 2026 · 8:45 PM ET",
+      "body": "- **New attorneys general in Texas and Georgia could reopen state enforcement against Kalshi, legal experts say, Gambling Insider reports** — Democrats Nathan Johnson in Texas and Tanya Miller in Georgia won their attorney general races, and attorney Daniel Wallach says the wins could put two populous states back in play for state enforcement against Kalshi, bringing the Fifth and Eleventh Circuits into the federal preemption fight. Neither has announced plans to pursue Kalshi, and experts say a federal ban remains unlikely because it would face a presidential veto. (Gambling Insider)",
+      "image_url": null,
+      "published": "2026-11-04T20:45:00-05:00",
+      "source": "2026-11-04_2045-est.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-04_2030-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_2030-est-0",
@@ -4303,34 +4330,6 @@
       "links": [],
       "timestamp": "Nov 4, 2026 · 1:45 PM ET",
       "body": "- **Polymarket whale wallets moved 16.7 million dollars in large trades over 24 hours, led by 6.3 million dollars into the House control market, Rivo reports** — Rivo's Polymarket tape, updated late morning on November 4, counts 1,071 large trades in the last 24 hours, with the Democratic House control market drawing the most whale money at 6.3 million dollars, ahead of the Senate control market at 3.2 million dollars. (Rivo)",
-      "image_url": null,
-      "published": "2026-11-04T13:45:00-05:00",
-      "source": "2026-11-04_1345-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-04_1345-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-04_1345-est-1",
-      "title": "Polymarket market on Bitcoin finishing above 78,000 dollars on November 4 jumps 52.5 points to 93 percent and is flagged as likely thin-market noise, ProbCast reports",
-      "content_text": "- **Polymarket market on Bitcoin finishing above 78,000 dollars on November 4 jumps 52.5 points to 93 percent and is flagged as likely thin-market noise, ProbCast reports** — ProbCast, which scores prediction market moves for the liquidity and trading behind them, rates the 52.5 point one-day jump in the Bitcoin above 78,000 dollars market as likely noise rather than a genuine repricing, in a board updated minutes before this run. (ProbCast)",
-      "content_html": "<p>- **Polymarket market on Bitcoin finishing above 78,000 dollars on November 4 jumps 52.5 points to 93 percent and is flagged as likely thin-market noise, ProbCast reports** — ProbCast, which scores prediction market moves for the liquidity and trading behind them, rates the 52.5 point one-day jump in the Bitcoin above 78,000 dollars market as likely noise rather than a genuine repricing, in a board updated minutes before this run. (ProbCast)</p>",
-      "date_published": "2026-11-04T13:45:00-05:00",
-      "date_modified": "2026-11-04T13:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Bitcoin"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 4, 2026 · 1:45 PM ET",
-      "body": "- **Polymarket market on Bitcoin finishing above 78,000 dollars on November 4 jumps 52.5 points to 93 percent and is flagged as likely thin-market noise, ProbCast reports** — ProbCast, which scores prediction market moves for the liquidity and trading behind them, rates the 52.5 point one-day jump in the Bitcoin above 78,000 dollars market as likely noise rather than a genuine repricing, in a board updated minutes before this run. (ProbCast)",
       "image_url": null,
       "published": "2026-11-04T13:45:00-05:00",
       "source": "2026-11-04_1345-est.json",
