@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-06T02:16:52.361891-05:00",
+  "updated": "2026-11-06T02:30:13.628687-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-06_0224-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-06_0224-est",
+      "title": "Politics trades $69M in 24 hours, down 75%, as post-election category volume collapses",
+      "content_text": "Infiniti Prediction Markets\n\nPolitics trades $69M in 24 hours, down 75%, as post-election category volume collapses\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Elections #Midterms\n\nThe World Wide Technology Championship Winner market surges to $508K traded in 24 hours, with Benjamin James priced at 15c on Kalshi\nThe same DeFi Rate board's surging list, read this run with prices observed between Nov. 6, 12:25 AM and 2:23 AM ET, ranks the World Wide Technology Championship Winner…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Politics trades $69M in 24 hours, down 75%, as post-election category volume collapses<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…<br/>#PredictionMarkets #Elections #Midterms<br/><br/>The World Wide Technology Championship Winner market surges to $508K traded in 24 hours, with Benjamin James priced at 15c on Kalshi<br/>The same DeFi Rate board&#x27;s surging list, read this run with prices observed between Nov. 6, 12:25 AM and 2:23 AM ET, ranks the World Wide Technology Championship Winner…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-06T02:24:00-05:00",
+      "date_modified": "2026-11-06T02:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 6, 2026 · 2:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nPolitics trades $69M in 24 hours, down 75%, as post-election category volume collapses\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Elections #Midterms\n\nThe World Wide Technology Championship Winner market surges to $508K traded in 24 hours, with Benjamin James priced at 15c on Kalshi\nThe same DeFi Rate board's surging list, read this run with prices observed between Nov. 6, 12:25 AM and 2:23 AM ET, ranks the World Wide Technology Championship Winner…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-06T02:24:00-05:00",
+      "source": "2026-11-06_0224-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-06_0215-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_0215-est-0",
@@ -4274,34 +4304,6 @@
       "links": [],
       "timestamp": "Nov 5, 2026 · 7:15 PM ET",
       "body": "- **Philadelphia 76ers become the first NBA team to partner with a prediction market, signing a multi-year deal with Kalshi, 5 Star iGaming Media reports** — The deal makes Kalshi the team's official prediction market platform and includes the Sixers Posters program showcasing digital art from Philadelphia artists. It follows the NBA's own partnership agreements with Kalshi and Polymarket announced the previous week. (5 Star iGaming Media)",
-      "image_url": null,
-      "published": "2026-11-05T19:15:00-05:00",
-      "source": "2026-11-05_1915-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-05_1915-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_1915-est-1",
-      "title": "Sports prediction markets trade 461 million dollars in 24 hours, up 11 percent, with Kalshi accounting for 249 million dollars, DeFi Rate reports",
-      "content_text": "- **Sports prediction markets trade 461 million dollars in 24 hours, up 11 percent, with Kalshi accounting for 249 million dollars, DeFi Rate reports** — DeFi Rate reports Polymarket US traded 104 million dollars and Polymarket 50 million dollars over the same period, with open interest of 523 million dollars on Kalshi and Polymarket US. The most traded sports market was the Jacksonville against Baltimore spread on Kalshi, at 1.2 million dollars. (DeFi Rate)",
-      "content_html": "<p>- **Sports prediction markets trade 461 million dollars in 24 hours, up 11 percent, with Kalshi accounting for 249 million dollars, DeFi Rate reports** — DeFi Rate reports Polymarket US traded 104 million dollars and Polymarket 50 million dollars over the same period, with open interest of 523 million dollars on Kalshi and Polymarket US. The most traded sports market was the Jacksonville against Baltimore spread on Kalshi, at 1.2 million dollars. (DeFi Rate)</p>",
-      "date_published": "2026-11-05T19:15:00-05:00",
-      "date_modified": "2026-11-05T19:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 5, 2026 · 7:15 PM ET",
-      "body": "- **Sports prediction markets trade 461 million dollars in 24 hours, up 11 percent, with Kalshi accounting for 249 million dollars, DeFi Rate reports** — DeFi Rate reports Polymarket US traded 104 million dollars and Polymarket 50 million dollars over the same period, with open interest of 523 million dollars on Kalshi and Polymarket US. The most traded sports market was the Jacksonville against Baltimore spread on Kalshi, at 1.2 million dollars. (DeFi Rate)",
       "image_url": null,
       "published": "2026-11-05T19:15:00-05:00",
       "source": "2026-11-05_1915-est.json",
