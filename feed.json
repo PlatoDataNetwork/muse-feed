@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-06T10:01:14.598885-05:00",
+  "updated": "2026-11-06T10:04:03.518732-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -262,6 +262,36 @@
       "image_url": null,
       "published": "2026-11-06T10:00:00-05:00",
       "source": "2026-11-06_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-11-06_0954-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-06_0954-est",
+      "title": "Predict.fun launching a token by November 15 is priced at 41.7% on Polymarket, down 10.4 points in 24 hours, on $195K traded",
+      "content_text": "Infiniti Prediction Markets\n\nPredict.fun launching a token by November 15 is priced at 41.7% on Polymarket, down 10.4 points in 24 hours, on $195K traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\n\nIsrael striking 4 countries in 2026 is priced at 78.6% on Polymarket, on $7.8M traded\nWorld Monitor's prediction-market board, read this run as of Nov. 6 at 2:01 PM UTC across 50 tracked Polymarket and Kalshi markets, ranks the Israel-strike contract…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Predict.fun launching a token by November 15 is priced at 41.7% on Polymarket, down 10.4 points in 24 hours, on $195K traded<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…<br/>#PredictionMarkets #Kalshi #Polymarket #CFTC<br/><br/>Israel striking 4 countries in 2026 is priced at 78.6% on Polymarket, on $7.8M traded<br/>World Monitor&#x27;s prediction-market board, read this run as of Nov. 6 at 2:01 PM UTC across 50 tracked Polymarket and Kalshi markets, ranks the Israel-strike contract…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-06T09:54:00-05:00",
+      "date_modified": "2026-11-06T09:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 6, 2026 · 9:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nPredict.fun launching a token by November 15 is priced at 41.7% on Polymarket, down 10.4 points in 24 hours, on $195K traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Kalshi #Polymarket #CFTC\n\nIsrael striking 4 countries in 2026 is priced at 78.6% on Polymarket, on $7.8M traded\nWorld Monitor's prediction-market board, read this run as of Nov. 6 at 2:01 PM UTC across 50 tracked Polymarket and Kalshi markets, ranks the Israel-strike contract…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-06T09:54:00-05:00",
+      "source": "2026-11-06_0954-est.md",
       "matches_facebook_post": false
     },
     {
@@ -4241,33 +4271,6 @@
       "image_url": null,
       "published": "2026-11-06T03:15:00-05:00",
       "source": "2026-11-06_0315-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-06_0300-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_0300-est-0",
-      "title": "Contract on Vladimir Putin being out as President of Russia by December 31, 2026 is priced at 2.1 percent on Polymarket, up 0.3 points, with 241,000 dollars traded, Yes/No Daily reports",
-      "content_text": "- **Contract on Vladimir Putin being out as President of Russia by December 31, 2026 is priced at 2.1 percent on Polymarket, up 0.3 points, with 241,000 dollars traded, Yes/No Daily reports** — Yes/No Daily's politics board lists the Putin contract among its most traded markets in the last 24 hours. The contract resolves on whether Vladimir Putin is out as President of Russia by December 31, 2026. (Yes/No Daily)",
-      "content_html": "<p>- **Contract on Vladimir Putin being out as President of Russia by December 31, 2026 is priced at 2.1 percent on Polymarket, up 0.3 points, with 241,000 dollars traded, Yes/No Daily reports** — Yes/No Daily&#x27;s politics board lists the Putin contract among its most traded markets in the last 24 hours. The contract resolves on whether Vladimir Putin is out as President of Russia by December 31, 2026. (Yes/No Daily)</p>",
-      "date_published": "2026-11-06T03:00:00-05:00",
-      "date_modified": "2026-11-06T03:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 6, 2026 · 3:00 AM ET",
-      "body": "- **Contract on Vladimir Putin being out as President of Russia by December 31, 2026 is priced at 2.1 percent on Polymarket, up 0.3 points, with 241,000 dollars traded, Yes/No Daily reports** — Yes/No Daily's politics board lists the Putin contract among its most traded markets in the last 24 hours. The contract resolves on whether Vladimir Putin is out as President of Russia by December 31, 2026. (Yes/No Daily)",
-      "image_url": null,
-      "published": "2026-11-06T03:00:00-05:00",
-      "source": "2026-11-06_0300-est.json",
       "matches_facebook_post": false
     }
   ]
