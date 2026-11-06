@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-06T04:15:19.388126-05:00",
+  "updated": "2026-11-06T04:30:00.749945-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-06_0424-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-06_0424-est",
+      "title": "The top-50 board cools to $18M in 24 hours, with politics holding 23 markets at $8.7M against sports at $6.1M across 17 markets",
+      "content_text": "Infiniti Prediction Markets\n\nThe top-50 board cools to $18M in 24 hours, with politics holding 23 markets at $8.7M against sports at $6.1M across 17 markets\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Senate #Elections\n\nSan Antonio is priced at 90c on Kalshi for its November 6 game against Sacramento, up 5c in 24 hours, on 21K contracts traded\nPredictionMarketPicks' Kalshi leaderboard snapshot at 4:10 AM EST on Nov. 6, read this run across 338 priced contracts in 21 series, ranks the San Antonio wins contract…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>The top-50 board cools to $18M in 24 hours, with politics holding 23 markets at $8.7M against sports at $6.1M across 17 markets<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…<br/>#PredictionMarkets #Senate #Elections<br/><br/>San Antonio is priced at 90c on Kalshi for its November 6 game against Sacramento, up 5c in 24 hours, on 21K contracts traded<br/>PredictionMarketPicks&#x27; Kalshi leaderboard snapshot at 4:10 AM EST on Nov. 6, read this run across 338 priced contracts in 21 series, ranks the San Antonio wins contract…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-06T04:24:00-05:00",
+      "date_modified": "2026-11-06T04:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Senate",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 6, 2026 · 4:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nThe top-50 board cools to $18M in 24 hours, with politics holding 23 markets at $8.7M against sports at $6.1M across 17 markets\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Senate #Elections\n\nSan Antonio is priced at 90c on Kalshi for its November 6 game against Sacramento, up 5c in 24 hours, on 21K contracts traded\nPredictionMarketPicks' Kalshi leaderboard snapshot at 4:10 AM EST on Nov. 6, read this run across 338 priced contracts in 21 series, ranks the San Antonio wins contract…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-06T04:24:00-05:00",
+      "source": "2026-11-06_0424-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-06_0415-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_0415-est-0",
@@ -4264,35 +4294,6 @@
       "links": [],
       "timestamp": "Nov 5, 2026 · 9:15 PM ET",
       "body": "- **James Madison against Southern Miss trades 975,000 dollars in 24 hours across 3 venues, with James Madison priced at 89 percent, DeFi Rate reports** — DeFi Rate ranks the live James Madison against Southern Miss game tenth among the most traded prediction markets, with a spread of James Madison minus 13.5 and a total over 57.5. The leading price was listed at 89 cents on Kalshi, Polymarket US and Polymarket. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-05T21:15:00-05:00",
-      "source": "2026-11-05_2115-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-05_2115-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_2115-est-1",
-      "title": "Contract on Chuck Schumer winning the next Senate Democratic Leader election is priced at 87 percent on Kalshi, up 15 points, with 61,100 dollars in volume, PredictMarketCap reports",
-      "content_text": "- **Contract on Chuck Schumer winning the next Senate Democratic Leader election is priced at 87 percent on Kalshi, up 15 points, with 61,100 dollars in volume, PredictMarketCap reports** — PredictMarketCap lists the Schumer leader contract among its trending volume spikes and breakout markets. The contract was priced at 87 percent on Kalshi in the latest update. (PredictMarketCap)",
-      "content_html": "<p>- **Contract on Chuck Schumer winning the next Senate Democratic Leader election is priced at 87 percent on Kalshi, up 15 points, with 61,100 dollars in volume, PredictMarketCap reports** — PredictMarketCap lists the Schumer leader contract among its trending volume spikes and breakout markets. The contract was priced at 87 percent on Kalshi in the latest update. (PredictMarketCap)</p>",
-      "date_published": "2026-11-05T21:15:00-05:00",
-      "date_modified": "2026-11-05T21:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 5, 2026 · 9:15 PM ET",
-      "body": "- **Contract on Chuck Schumer winning the next Senate Democratic Leader election is priced at 87 percent on Kalshi, up 15 points, with 61,100 dollars in volume, PredictMarketCap reports** — PredictMarketCap lists the Schumer leader contract among its trending volume spikes and breakout markets. The contract was priced at 87 percent on Kalshi in the latest update. (PredictMarketCap)",
       "image_url": null,
       "published": "2026-11-05T21:15:00-05:00",
       "source": "2026-11-05_2115-est.json",
