@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-06T15:15:59.134699-05:00",
+  "updated": "2026-11-06T15:31:43.544171-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-06_1524-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-06_1524-est",
+      "title": "Polymarket moves its Protocol V2 launch to November 9, 2026, with a new pUSD collateral token replacing USDC.e",
+      "content_text": "Infiniti Prediction Markets\n\nPolymarket moves its Protocol V2 launch to November 9, 2026, with a new pUSD collateral token replacing USDC.e\nBitrue, published Nov. 6, reports Polymarket Developers have moved the planned Protocol V2 launch from the original tentative November 2 target to November 9, placing…\n#PredictionMarkets #Polymarket #Elections #Midterms\n\nJurij Rodionov is priced at 71c against Kimmer Coppejans at 30c on Kalshi, on $614K traded in 24 hours\nDeFi Rate's top-50 board, read this run with prices observed between Nov. 6, 10:45 AM and 3:25 PM ET, ranks the Coppejans against Rodionov tennis match ninth overall at…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Polymarket moves its Protocol V2 launch to November 9, 2026, with a new pUSD collateral token replacing USDC.e<br/>Bitrue, published Nov. 6, reports Polymarket Developers have moved the planned Protocol V2 launch from the original tentative November 2 target to November 9, placing…<br/>#PredictionMarkets #Polymarket #Elections #Midterms<br/><br/>Jurij Rodionov is priced at 71c against Kimmer Coppejans at 30c on Kalshi, on $614K traded in 24 hours<br/>DeFi Rate&#x27;s top-50 board, read this run with prices observed between Nov. 6, 10:45 AM and 3:25 PM ET, ranks the Coppejans against Rodionov tennis match ninth overall at…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-06T15:24:00-05:00",
+      "date_modified": "2026-11-06T15:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Midterms",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 6, 2026 · 3:24 PM ET",
+      "body": "Infiniti Prediction Markets\n\nPolymarket moves its Protocol V2 launch to November 9, 2026, with a new pUSD collateral token replacing USDC.e\nBitrue, published Nov. 6, reports Polymarket Developers have moved the planned Protocol V2 launch from the original tentative November 2 target to November 9, placing…\n#PredictionMarkets #Polymarket #Elections #Midterms\n\nJurij Rodionov is priced at 71c against Kimmer Coppejans at 30c on Kalshi, on $614K traded in 24 hours\nDeFi Rate's top-50 board, read this run with prices observed between Nov. 6, 10:45 AM and 3:25 PM ET, ranks the Coppejans against Rodionov tennis match ninth overall at…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-06T15:24:00-05:00",
+      "source": "2026-11-06_1524-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-06_1515-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_1515-est-0",
@@ -4239,34 +4270,6 @@
       "links": [],
       "timestamp": "Nov 6, 2026 · 8:30 AM ET",
       "body": "- **Jaguars against Ravens trades 6.9 million dollars in 24 hours on Polymarket, among the highest volume markets on the board, PredScope reports** — PredScope ranks the game second on its November 6 highest volume list, with 7.3 million dollars traded in total. The market leading outcome is priced at 100 percent in the tracker snapshot. (PredScope)",
-      "image_url": null,
-      "published": "2026-11-06T08:30:00-05:00",
-      "source": "2026-11-06_0830-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-06_0830-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_0830-est-1",
-      "title": "J.D. Vance leads the 2028 Republican presidential nominee market at 34 cents on Kalshi and 38.6 cents on Polymarket, with 442,000 dollars traded in 24 hours, DeFi Rate reports",
-      "content_text": "- **J.D. Vance leads the 2028 Republican presidential nominee market at 34 cents on Kalshi and 38.6 cents on Polymarket, with 442,000 dollars traded in 24 hours, DeFi Rate reports** — DeFi Rate ranks the market 13th on its November 6 top 50 board. Marco Rubio is next at 22 cents, followed by Ron DeSantis at 18 cents. (DeFi Rate)",
-      "content_html": "<p>- **J.D. Vance leads the 2028 Republican presidential nominee market at 34 cents on Kalshi and 38.6 cents on Polymarket, with 442,000 dollars traded in 24 hours, DeFi Rate reports** — DeFi Rate ranks the market 13th on its November 6 top 50 board. Marco Rubio is next at 22 cents, followed by Ron DeSantis at 18 cents. (DeFi Rate)</p>",
-      "date_published": "2026-11-06T08:30:00-05:00",
-      "date_modified": "2026-11-06T08:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 6, 2026 · 8:30 AM ET",
-      "body": "- **J.D. Vance leads the 2028 Republican presidential nominee market at 34 cents on Kalshi and 38.6 cents on Polymarket, with 442,000 dollars traded in 24 hours, DeFi Rate reports** — DeFi Rate ranks the market 13th on its November 6 top 50 board. Marco Rubio is next at 22 cents, followed by Ron DeSantis at 18 cents. (DeFi Rate)",
       "image_url": null,
       "published": "2026-11-06T08:30:00-05:00",
       "source": "2026-11-06_0830-est.json",
