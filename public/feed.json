@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-06T05:44:50.245239-05:00",
+  "updated": "2026-11-06T05:59:00.747710-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-06_0554-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-06_0554-est",
+      "title": "The S&P 500 is priced at about 86c on Polymarket to be the best performer of 2026, with gold at 8.5% after jumping 5.5 points in a day and Bitcoin at 5.5% after falling 5.5 points",
+      "content_text": "Infiniti Prediction Markets\n\nThe S&P 500 is priced at about 86c on Polymarket to be the best performer of 2026, with gold at 8.5% after jumping 5.5 points in a day and Bitcoin at 5.5% after falling 5.5 points\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\n\nKarmine Corp vs T1 in the LoL Worlds Playoffs trades $313K in 24 hours, with the Game 2 total-kills under 27.5 priced at 59% on Polymarket\nDeFi Rate's sports board, read this run with prices observed between Nov. 6, 2:13 AM and 5:56 AM ET, ranks the Karmine Corp vs T1 League of Legends Worlds Playoffs match…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>The S&amp;P 500 is priced at about 86c on Polymarket to be the best performer of 2026, with gold at 8.5% after jumping 5.5 points in a day and Bitcoin at 5.5% after falling 5.5 points<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…<br/>#PredictionMarkets #Polymarket #Senate #Bitcoin<br/><br/>Karmine Corp vs T1 in the LoL Worlds Playoffs trades $313K in 24 hours, with the Game 2 total-kills under 27.5 priced at 59% on Polymarket<br/>DeFi Rate&#x27;s sports board, read this run with prices observed between Nov. 6, 2:13 AM and 5:56 AM ET, ranks the Karmine Corp vs T1 League of Legends Worlds Playoffs match…<br/>#PredictionMarkets #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-06T05:54:00-05:00",
+      "date_modified": "2026-11-06T05:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Senate",
+        "Bitcoin"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 6, 2026 · 5:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nThe S&P 500 is priced at about 86c on Polymarket to be the best performer of 2026, with gold at 8.5% after jumping 5.5 points in a day and Bitcoin at 5.5% after falling 5.5 points\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried or held out on Nov. 5 and Nov. 6, including the…\n#PredictionMarkets #Polymarket #Senate #Bitcoin\n\nKarmine Corp vs T1 in the LoL Worlds Playoffs trades $313K in 24 hours, with the Game 2 total-kills under 27.5 priced at 59% on Polymarket\nDeFi Rate's sports board, read this run with prices observed between Nov. 6, 2:13 AM and 5:56 AM ET, ranks the Karmine Corp vs T1 League of Legends Worlds Playoffs match…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-06T05:54:00-05:00",
+      "source": "2026-11-06_0554-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-06_0545-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_0545-est-0",
@@ -4258,34 +4288,6 @@
       "links": [],
       "timestamp": "Nov 5, 2026 · 10:45 PM ET",
       "body": "- **Contract on Bitcoin being above 78,000 dollars on November 6 falls 77.5 points to 12.5 percent on Polymarket, with 93,100 dollars traded, PolymarketTrader reports** — The November 6 Bitcoin price contract was the second-largest mover in the latest Polymarket snapshot, falling 77.5 points to 12.5 cents. Trading volume was 93,100 dollars in 24 hours, with 49,100 dollars in liquidity. (PolymarketTrader)",
-      "image_url": null,
-      "published": "2026-11-05T22:45:00-05:00",
-      "source": "2026-11-05_2245-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-05_2245-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-05_2245-est-2",
-      "title": "Contract on Ethereum dipping to 2,200 dollars in the November 2 to 8 window rises 61 points to 69.5 percent on Polymarket, with 28,300 dollars traded, PolymarketTrader reports",
-      "content_text": "- **Contract on Ethereum dipping to 2,200 dollars in the November 2 to 8 window rises 61 points to 69.5 percent on Polymarket, with 28,300 dollars traded, PolymarketTrader reports** — The Ethereum dip contract for the November 2 to 8 window rose 61 points to 69.5 cents in the latest Polymarket movers snapshot. Trading volume was 28,300 dollars in 24 hours, with 32,200 dollars in liquidity. (PolymarketTrader)",
-      "content_html": "<p>- **Contract on Ethereum dipping to 2,200 dollars in the November 2 to 8 window rises 61 points to 69.5 percent on Polymarket, with 28,300 dollars traded, PolymarketTrader reports** — The Ethereum dip contract for the November 2 to 8 window rose 61 points to 69.5 cents in the latest Polymarket movers snapshot. Trading volume was 28,300 dollars in 24 hours, with 32,200 dollars in liquidity. (PolymarketTrader)</p>",
-      "date_published": "2026-11-05T22:45:00-05:00",
-      "date_modified": "2026-11-05T22:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Ethereum"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 5, 2026 · 10:45 PM ET",
-      "body": "- **Contract on Ethereum dipping to 2,200 dollars in the November 2 to 8 window rises 61 points to 69.5 percent on Polymarket, with 28,300 dollars traded, PolymarketTrader reports** — The Ethereum dip contract for the November 2 to 8 window rose 61 points to 69.5 cents in the latest Polymarket movers snapshot. Trading volume was 28,300 dollars in 24 hours, with 32,200 dollars in liquidity. (PolymarketTrader)",
       "image_url": null,
       "published": "2026-11-05T22:45:00-05:00",
       "source": "2026-11-05_2245-est.json",
