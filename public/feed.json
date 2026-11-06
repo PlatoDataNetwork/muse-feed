@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-06T12:46:21.029801-05:00",
+  "updated": "2026-11-06T13:00:07.975782-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-06_1254-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-06_1254-est",
+      "title": "Jupiter launches Combos on November 6, a Polymarket-powered parlay product on Solana where every pick has to win and a filled trade cannot be sold early",
+      "content_text": "Infiniti Prediction Markets\n\nJupiter launches Combos on November 6, a Polymarket-powered parlay product on Solana where every pick has to win and a filled trade cannot be sold early\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh product-launch read, in a category different from the previous…\n#PredictionMarkets #Polymarket #Solana #Elections\n\nWashington wins is priced at 28c on Kalshi for tonight's game against Atlanta, down 3c in 24 hours, on 206K contracts traded\nPredictionMarketPicks' Kalshi leaderboard snapshot at 12:54 PM EST on Nov. 6, read this run across 337 priced contracts in 21 series, lists Washington wins at 28c, down…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Jupiter launches Combos on November 6, a Polymarket-powered parlay product on Solana where every pick has to win and a filled trade cannot be sold early<br/>No new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh product-launch read, in a category different from the previous…<br/>#PredictionMarkets #Polymarket #Solana #Elections<br/><br/>Washington wins is priced at 28c on Kalshi for tonight&#x27;s game against Atlanta, down 3c in 24 hours, on 206K contracts traded<br/>PredictionMarketPicks&#x27; Kalshi leaderboard snapshot at 12:54 PM EST on Nov. 6, read this run across 337 priced contracts in 21 series, lists Washington wins at 28c, down…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-06T12:54:00-05:00",
+      "date_modified": "2026-11-06T12:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Solana",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 6, 2026 · 12:54 PM ET",
+      "body": "Infiniti Prediction Markets\n\nJupiter launches Combos on November 6, a Polymarket-powered parlay product on Solana where every pick has to win and a filled trade cannot be sold early\nNo new platform headline in the last 30 minutes changes the picture, so this edition leads with a fresh product-launch read, in a category different from the previous…\n#PredictionMarkets #Polymarket #Solana #Elections\n\nWashington wins is priced at 28c on Kalshi for tonight's game against Atlanta, down 3c in 24 hours, on 206K contracts traded\nPredictionMarketPicks' Kalshi leaderboard snapshot at 12:54 PM EST on Nov. 6, read this run across 337 priced contracts in 21 series, lists Washington wins at 28c, down…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-06T12:54:00-05:00",
+      "source": "2026-11-06_1254-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-06_1245-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_1245-est-0",
@@ -4257,33 +4288,6 @@
       "links": [],
       "timestamp": "Nov 6, 2026 · 6:00 AM ET",
       "body": "- **Contract on Ethereum dipping to 2,200 dollars in November is priced at 87 percent on Polymarket, up 40.5 points, with 103,000 dollars traded, PredictionBubbles reports** — The contract was among the biggest probability movers of the last 24 hours on the PredictionBubbles board. It resolves on whether Ethereum dips to 2,200 dollars during November. (PredictionBubbles)",
-      "image_url": null,
-      "published": "2026-11-06T06:00:00-05:00",
-      "source": "2026-11-06_0600-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-06_0600-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_0600-est-4",
-      "title": "Elon Musk tweet count for October 30 to November 6 is priced with the 300 to 319 range leading at 88 cents on Polymarket, with 305,000 dollars traded in 24 hours, DeFi Rate reports",
-      "content_text": "- **Elon Musk tweet count for October 30 to November 6 is priced with the 300 to 319 range leading at 88 cents on Polymarket, with 305,000 dollars traded in 24 hours, DeFi Rate reports** — The 30-outcome mentions board puts the 300 to 319 tweet range well ahead of the 320 to 339 range at 11.6 cents. The market covers Musk posts from October 30 through November 6, 2026. (DeFi Rate)",
-      "content_html": "<p>- **Elon Musk tweet count for October 30 to November 6 is priced with the 300 to 319 range leading at 88 cents on Polymarket, with 305,000 dollars traded in 24 hours, DeFi Rate reports** — The 30-outcome mentions board puts the 300 to 319 tweet range well ahead of the 320 to 339 range at 11.6 cents. The market covers Musk posts from October 30 through November 6, 2026. (DeFi Rate)</p>",
-      "date_published": "2026-11-06T06:00:00-05:00",
-      "date_modified": "2026-11-06T06:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 6, 2026 · 6:00 AM ET",
-      "body": "- **Elon Musk tweet count for October 30 to November 6 is priced with the 300 to 319 range leading at 88 cents on Polymarket, with 305,000 dollars traded in 24 hours, DeFi Rate reports** — The 30-outcome mentions board puts the 300 to 319 tweet range well ahead of the 320 to 339 range at 11.6 cents. The market covers Musk posts from October 30 through November 6, 2026. (DeFi Rate)",
       "image_url": null,
       "published": "2026-11-06T06:00:00-05:00",
       "source": "2026-11-06_0600-est.json",
