@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T10:00:36.376501-05:00",
+  "updated": "2026-11-07T10:15:33.089607-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,144 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-07_1015-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1015-est-0",
+      "title": "New Zealand against India is the most traded prediction market in 24 hours at 1.8 million dollars across two venues, DeFi Rate reports",
+      "content_text": "- **New Zealand against India is the most traded prediction market in 24 hours at 1.8 million dollars across two venues, DeFi Rate reports** — DeFi Rate ranks the cricket match first by 24-hour volume on its top-50 board, with India priced at 99 cents on Kalshi and 95 cents on Polymarket and New Zealand priced at 2 cents. (DeFi Rate)",
+      "content_html": "<p>- **New Zealand against India is the most traded prediction market in 24 hours at 1.8 million dollars across two venues, DeFi Rate reports** — DeFi Rate ranks the cricket match first by 24-hour volume on its top-50 board, with India priced at 99 cents on Kalshi and 95 cents on Polymarket and New Zealand priced at 2 cents. (DeFi Rate)</p>",
+      "date_published": "2026-11-07T10:15:00-05:00",
+      "date_modified": "2026-11-07T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:15 AM ET",
+      "body": "- **New Zealand against India is the most traded prediction market in 24 hours at 1.8 million dollars across two venues, DeFi Rate reports** — DeFi Rate ranks the cricket match first by 24-hour volume on its top-50 board, with India priced at 99 cents on Kalshi and 95 cents on Polymarket and New Zealand priced at 2 cents. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-07T10:15:00-05:00",
+      "source": "2026-11-07_1015-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1015-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1015-est-1",
+      "title": "Contract on the Federal Reserve hiking rates by 25 basis points at the December 2026 meeting is priced at 76 percent on Kalshi, PredictionBubbles reports",
+      "content_text": "- **Contract on the Federal Reserve hiking rates by 25 basis points at the December 2026 meeting is priced at 76 percent on Kalshi, PredictionBubbles reports** — PredictionBubbles lists the contract down 3 points over 24 hours with 1.3 million dollars traded, while the matching contract on a 0 basis point move is priced at 24 percent. (PredictionBubbles)",
+      "content_html": "<p>- **Contract on the Federal Reserve hiking rates by 25 basis points at the December 2026 meeting is priced at 76 percent on Kalshi, PredictionBubbles reports** — PredictionBubbles lists the contract down 3 points over 24 hours with 1.3 million dollars traded, while the matching contract on a 0 basis point move is priced at 24 percent. (PredictionBubbles)</p>",
+      "date_published": "2026-11-07T10:15:00-05:00",
+      "date_modified": "2026-11-07T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:15 AM ET",
+      "body": "- **Contract on the Federal Reserve hiking rates by 25 basis points at the December 2026 meeting is priced at 76 percent on Kalshi, PredictionBubbles reports** — PredictionBubbles lists the contract down 3 points over 24 hours with 1.3 million dollars traded, while the matching contract on a 0 basis point move is priced at 24 percent. (PredictionBubbles)",
+      "image_url": null,
+      "published": "2026-11-07T10:15:00-05:00",
+      "source": "2026-11-07_1015-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1015-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1015-est-2",
+      "title": "Kalshi and Polymarket US still accept New York traders while the state sues both exchanges, New York Prediction Markets reports",
+      "content_text": "- **Kalshi and Polymarket US still accept New York traders while the state sues both exchanges, New York Prediction Markets reports** — The updated state guide says Kalshi keeps operating in New York under an August 11 CFTC emergency order after a federal judge sided with the state on preemption, and Kalshi's appeal of that ruling is now before the Second Circuit. (New York Prediction Markets)",
+      "content_html": "<p>- **Kalshi and Polymarket US still accept New York traders while the state sues both exchanges, New York Prediction Markets reports** — The updated state guide says Kalshi keeps operating in New York under an August 11 CFTC emergency order after a federal judge sided with the state on preemption, and Kalshi&#x27;s appeal of that ruling is now before the Second Circuit. (New York Prediction Markets)</p>",
+      "date_published": "2026-11-07T10:15:00-05:00",
+      "date_modified": "2026-11-07T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:15 AM ET",
+      "body": "- **Kalshi and Polymarket US still accept New York traders while the state sues both exchanges, New York Prediction Markets reports** — The updated state guide says Kalshi keeps operating in New York under an August 11 CFTC emergency order after a federal judge sided with the state on preemption, and Kalshi's appeal of that ruling is now before the Second Circuit. (New York Prediction Markets)",
+      "image_url": null,
+      "published": "2026-11-07T10:15:00-05:00",
+      "source": "2026-11-07_1015-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1015-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1015-est-3",
+      "title": "Jacksonville Jaguars Super Bowl LXI contract rises to 11 percent on Polymarket, RG reports",
+      "content_text": "- **Jacksonville Jaguars Super Bowl LXI contract rises to 11 percent on Polymarket, RG reports** — RG reports the Jaguars contract moved from 10.1 percent to 11.0 percent over 24 hours on Polymarket, priced at +809 compared with +900 at BetRivers, FanDuel and Fanatics. (RG)",
+      "content_html": "<p>- **Jacksonville Jaguars Super Bowl LXI contract rises to 11 percent on Polymarket, RG reports** — RG reports the Jaguars contract moved from 10.1 percent to 11.0 percent over 24 hours on Polymarket, priced at +809 compared with +900 at BetRivers, FanDuel and Fanatics. (RG)</p>",
+      "date_published": "2026-11-07T10:15:00-05:00",
+      "date_modified": "2026-11-07T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:15 AM ET",
+      "body": "- **Jacksonville Jaguars Super Bowl LXI contract rises to 11 percent on Polymarket, RG reports** — RG reports the Jaguars contract moved from 10.1 percent to 11.0 percent over 24 hours on Polymarket, priced at +809 compared with +900 at BetRivers, FanDuel and Fanatics. (RG)",
+      "image_url": null,
+      "published": "2026-11-07T10:15:00-05:00",
+      "source": "2026-11-07_1015-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1015-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1015-est-4",
+      "title": "Contract on Predict.fun launching a token by November 30 falls 14.9 points to 75.1 percent on Polymarket, PredictionBubbles reports",
+      "content_text": "- **Contract on Predict.fun launching a token by November 30 falls 14.9 points to 75.1 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract among the biggest movers in its ending-soon board, with 215,000 dollars traded and about 23 days left before resolution. (PredictionBubbles)",
+      "content_html": "<p>- **Contract on Predict.fun launching a token by November 30 falls 14.9 points to 75.1 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract among the biggest movers in its ending-soon board, with 215,000 dollars traded and about 23 days left before resolution. (PredictionBubbles)</p>",
+      "date_published": "2026-11-07T10:15:00-05:00",
+      "date_modified": "2026-11-07T10:15:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:15 AM ET",
+      "body": "- **Contract on Predict.fun launching a token by November 30 falls 14.9 points to 75.1 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract among the biggest movers in its ending-soon board, with 215,000 dollars traded and about 23 days left before resolution. (PredictionBubbles)",
+      "image_url": null,
+      "published": "2026-11-07T10:15:00-05:00",
+      "source": "2026-11-07_1015-est.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-07_1000-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1000-est-0",
@@ -4125,147 +4263,6 @@
       "image_url": null,
       "published": "2026-11-07T03:30:00-05:00",
       "source": "2026-11-07_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0330-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0330-est-3",
-      "title": "Contract on Puffpaw FDV above 50 million dollars one day after launch rises 36 points to 87.5 percent on Polymarket, PredictionBubbles reports",
-      "content_text": "- **Contract on Puffpaw FDV above 50 million dollars one day after launch rises 36 points to 87.5 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract on Puffpaw FDV above 50 million dollars one day after launch at 87.5 percent on Polymarket, up 36 points, with 1.5 million dollars traded. (PredictionBubbles)",
-      "content_html": "<p>- **Contract on Puffpaw FDV above 50 million dollars one day after launch rises 36 points to 87.5 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract on Puffpaw FDV above 50 million dollars one day after launch at 87.5 percent on Polymarket, up 36 points, with 1.5 million dollars traded. (PredictionBubbles)</p>",
-      "date_published": "2026-11-07T03:30:00-05:00",
-      "date_modified": "2026-11-07T03:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:30 AM ET",
-      "body": "- **Contract on Puffpaw FDV above 50 million dollars one day after launch rises 36 points to 87.5 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract on Puffpaw FDV above 50 million dollars one day after launch at 87.5 percent on Polymarket, up 36 points, with 1.5 million dollars traded. (PredictionBubbles)",
-      "image_url": null,
-      "published": "2026-11-07T03:30:00-05:00",
-      "source": "2026-11-07_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0330-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0330-est-4",
-      "title": "Contract on the Israel and Iran ceasefire continuing through November 7 is priced at 96.5 percent on Polymarket, with 643,200 dollars traded, PredictMarketCap reports",
-      "content_text": "- **Contract on the Israel and Iran ceasefire continuing through November 7 is priced at 96.5 percent on Polymarket, with 643,200 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the contract on the Israel and Iran ceasefire continuing through November 7 at 96.5 percent on Polymarket, up 1.9 points, with 643,200 dollars traded. (PredictMarketCap)",
-      "content_html": "<p>- **Contract on the Israel and Iran ceasefire continuing through November 7 is priced at 96.5 percent on Polymarket, with 643,200 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the contract on the Israel and Iran ceasefire continuing through November 7 at 96.5 percent on Polymarket, up 1.9 points, with 643,200 dollars traded. (PredictMarketCap)</p>",
-      "date_published": "2026-11-07T03:30:00-05:00",
-      "date_modified": "2026-11-07T03:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:30 AM ET",
-      "body": "- **Contract on the Israel and Iran ceasefire continuing through November 7 is priced at 96.5 percent on Polymarket, with 643,200 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the contract on the Israel and Iran ceasefire continuing through November 7 at 96.5 percent on Polymarket, up 1.9 points, with 643,200 dollars traded. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-07T03:30:00-05:00",
-      "source": "2026-11-07_0330-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "infiniti-2026-11-07_0324-est",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-07_0324-est",
-      "title": "Coleman Wong's win contract is priced at 13% on Kalshi, on $1.61M traded",
-      "content_text": "Infiniti Prediction Markets\n\nColeman Wong's win contract is priced at 13% on Kalshi, on $1.61M traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out on Nov. 5 and Nov.…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nTrader SDTrading is twenty-eighth on today's profit leaderboard with $23.4K in profit on a 4-0 record\nRivo's daily profit leaderboard, read this run and crawled Nov. 7 at 3:26 AM ET, ranks SDTrading twenty-eighth on the day at $23.4K in profit on a 4-0 record, a 100% win…\n#PredictionMarkets\n\nOpen sports events total 9,779 on Polymarket, 627 on Polymarket US and 9,708 on Kalshi\nCoinStats' sports prediction-markets page, surfaced in this run's search and crawled less than an hour ago, counts open sports events right now at 9,779 on Polymarket,…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
-      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Coleman Wong&#x27;s win contract is priced at 13% on Kalshi, on $1.61M traded<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out on Nov. 5 and Nov.…<br/>#PredictionMarkets #Kalshi #Senate #Elections<br/><br/>Trader SDTrading is twenty-eighth on today&#x27;s profit leaderboard with $23.4K in profit on a 4-0 record<br/>Rivo&#x27;s daily profit leaderboard, read this run and crawled Nov. 7 at 3:26 AM ET, ranks SDTrading twenty-eighth on the day at $23.4K in profit on a 4-0 record, a 100% win…<br/>#PredictionMarkets<br/><br/>Open sports events total 9,779 on Polymarket, 627 on Polymarket US and 9,708 on Kalshi<br/>CoinStats&#x27; sports prediction-markets page, surfaced in this run&#x27;s search and crawled less than an hour ago, counts open sports events right now at 9,779 on Polymarket,…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
-      "date_published": "2026-11-07T03:24:00-05:00",
-      "date_modified": "2026-11-07T03:24:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "PredictionMarkets",
-        "Kalshi",
-        "Senate",
-        "Elections",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:24 AM ET",
-      "body": "Infiniti Prediction Markets\n\nColeman Wong's win contract is priced at 13% on Kalshi, on $1.61M traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out on Nov. 5 and Nov.…\n#PredictionMarkets #Kalshi #Senate #Elections\n\nTrader SDTrading is twenty-eighth on today's profit leaderboard with $23.4K in profit on a 4-0 record\nRivo's daily profit leaderboard, read this run and crawled Nov. 7 at 3:26 AM ET, ranks SDTrading twenty-eighth on the day at $23.4K in profit on a 4-0 record, a 100% win…\n#PredictionMarkets\n\nOpen sports events total 9,779 on Polymarket, 627 on Polymarket US and 9,708 on Kalshi\nCoinStats' sports prediction-markets page, surfaced in this run's search and crawled less than an hour ago, counts open sports events right now at 9,779 on Polymarket,…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
-      "image_url": null,
-      "published": "2026-11-07T03:24:00-05:00",
-      "source": "2026-11-07_0324-est.md",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0315-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0315-est-0",
-      "title": "Prediction markets trade 1.51 billion dollars so far on November 7, with Kalshi accounting for 1.38 billion dollars, DeFi Rate reports",
-      "content_text": "- **Prediction markets trade 1.51 billion dollars so far on November 7, with Kalshi accounting for 1.38 billion dollars, DeFi Rate reports** — DeFi Rate lists prediction market volume so far on November 7 at 1.51 billion dollars across all venues, with Kalshi accounting for 1.38 billion dollars. DraftKings Predictions traded 61 million dollars, Polymarket traded 51 million dollars and Polymarket US traded 21 million dollars. (DeFi Rate)",
-      "content_html": "<p>- **Prediction markets trade 1.51 billion dollars so far on November 7, with Kalshi accounting for 1.38 billion dollars, DeFi Rate reports** — DeFi Rate lists prediction market volume so far on November 7 at 1.51 billion dollars across all venues, with Kalshi accounting for 1.38 billion dollars. DraftKings Predictions traded 61 million dollars, Polymarket traded 51 million dollars and Polymarket US traded 21 million dollars. (DeFi Rate)</p>",
-      "date_published": "2026-11-07T03:15:00-05:00",
-      "date_modified": "2026-11-07T03:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:15 AM ET",
-      "body": "- **Prediction markets trade 1.51 billion dollars so far on November 7, with Kalshi accounting for 1.38 billion dollars, DeFi Rate reports** — DeFi Rate lists prediction market volume so far on November 7 at 1.51 billion dollars across all venues, with Kalshi accounting for 1.38 billion dollars. DraftKings Predictions traded 61 million dollars, Polymarket traded 51 million dollars and Polymarket US traded 21 million dollars. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-07T03:15:00-05:00",
-      "source": "2026-11-07_0315-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0315-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0315-est-1",
-      "title": "India win contract is priced at 83 percent on Kalshi, with 1.92 million dollars traded, PredictMarketCap reports",
-      "content_text": "- **India win contract is priced at 83 percent on Kalshi, with 1.92 million dollars traded, PredictMarketCap reports** — PredictMarketCap lists the India win contract at 83.0 percent on Kalshi, up 24 points, with 1.92 million dollars traded. The New Zealand win contract is priced at 17.0 percent, down 25 points, with 1.77 million dollars traded. (PredictMarketCap)",
-      "content_html": "<p>- **India win contract is priced at 83 percent on Kalshi, with 1.92 million dollars traded, PredictMarketCap reports** — PredictMarketCap lists the India win contract at 83.0 percent on Kalshi, up 24 points, with 1.92 million dollars traded. The New Zealand win contract is priced at 17.0 percent, down 25 points, with 1.77 million dollars traded. (PredictMarketCap)</p>",
-      "date_published": "2026-11-07T03:15:00-05:00",
-      "date_modified": "2026-11-07T03:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:15 AM ET",
-      "body": "- **India win contract is priced at 83 percent on Kalshi, with 1.92 million dollars traded, PredictMarketCap reports** — PredictMarketCap lists the India win contract at 83.0 percent on Kalshi, up 24 points, with 1.92 million dollars traded. The New Zealand win contract is priced at 17.0 percent, down 25 points, with 1.77 million dollars traded. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-07T03:15:00-05:00",
-      "source": "2026-11-07_0315-est.json",
       "matches_facebook_post": false
     }
   ]
