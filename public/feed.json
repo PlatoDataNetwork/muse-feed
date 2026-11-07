@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T08:27:48.954126-05:00",
+  "updated": "2026-11-07T08:29:45.556846-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,147 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-07_0830-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0830-est-0",
+      "title": "Watchdog group says CFTC told prediction markets to defy court orders on geofencing, NJToday reports",
+      "content_text": "- **Watchdog group says CFTC told prediction markets to defy court orders on geofencing, NJToday reports** — Better Markets on November 6 accused the CFTC of directing platforms to explain within 30 days why they cannot serve all 50 states and threatening enforcement against firms that comply with court-ordered geofencing. The group cited CFTC press release 9323-26 and a recent New York appeals ruling that could lead to geofencing in New York and Connecticut. (NJToday)",
+      "content_html": "<p>- **Watchdog group says CFTC told prediction markets to defy court orders on geofencing, NJToday reports** — Better Markets on November 6 accused the CFTC of directing platforms to explain within 30 days why they cannot serve all 50 states and threatening enforcement against firms that comply with court-ordered geofencing. The group cited CFTC press release 9323-26 and a recent New York appeals ruling that could lead to geofencing in New York and Connecticut. (NJToday)</p>",
+      "date_published": "2026-11-07T08:30:00-05:00",
+      "date_modified": "2026-11-07T08:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 8:30 AM ET",
+      "body": "- **Watchdog group says CFTC told prediction markets to defy court orders on geofencing, NJToday reports** — Better Markets on November 6 accused the CFTC of directing platforms to explain within 30 days why they cannot serve all 50 states and threatening enforcement against firms that comply with court-ordered geofencing. The group cited CFTC press release 9323-26 and a recent New York appeals ruling that could lead to geofencing in New York and Connecticut. (NJToday)",
+      "image_url": null,
+      "published": "2026-11-07T08:30:00-05:00",
+      "source": "2026-11-07_0830-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_0830-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0830-est-1",
+      "title": "ESPN adds prediction markets to on-air talent guidelines on insider betting, Awful Announcing reports",
+      "content_text": "- **ESPN adds prediction markets to on-air talent guidelines on insider betting, Awful Announcing reports** — ESPN talent department circulated a memo before the midterms barring on-air talent from betting on sports news where they have inside information, including on prediction markets, Front Office Sports reported. The memo specifically named Polymarket and cited awards votes, player personnel decisions and sports media deals as examples. (Awful Announcing)",
+      "content_html": "<p>- **ESPN adds prediction markets to on-air talent guidelines on insider betting, Awful Announcing reports** — ESPN talent department circulated a memo before the midterms barring on-air talent from betting on sports news where they have inside information, including on prediction markets, Front Office Sports reported. The memo specifically named Polymarket and cited awards votes, player personnel decisions and sports media deals as examples. (Awful Announcing)</p>",
+      "date_published": "2026-11-07T08:30:00-05:00",
+      "date_modified": "2026-11-07T08:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 8:30 AM ET",
+      "body": "- **ESPN adds prediction markets to on-air talent guidelines on insider betting, Awful Announcing reports** — ESPN talent department circulated a memo before the midterms barring on-air talent from betting on sports news where they have inside information, including on prediction markets, Front Office Sports reported. The memo specifically named Polymarket and cited awards votes, player personnel decisions and sports media deals as examples. (Awful Announcing)",
+      "image_url": null,
+      "published": "2026-11-07T08:30:00-05:00",
+      "source": "2026-11-07_0830-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_0830-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0830-est-2",
+      "title": "Non-trading spectators outnumber active participants five to one on Kalshi during the midterms, GazeWire reports",
+      "content_text": "- **Non-trading spectators outnumber active participants five to one on Kalshi during the midterms, GazeWire reports** — CryptoSlate data cited by GazeWire shows millions watched Kalshi congressional race odds, control gauges and maps without opening accounts or placing trades during recent midterm cycles. Kalshi reported 2.5 billion dollars in midterm trading volume, up from 1.3 billion dollars in the 2024 election cycle. (GazeWire)",
+      "content_html": "<p>- **Non-trading spectators outnumber active participants five to one on Kalshi during the midterms, GazeWire reports** — CryptoSlate data cited by GazeWire shows millions watched Kalshi congressional race odds, control gauges and maps without opening accounts or placing trades during recent midterm cycles. Kalshi reported 2.5 billion dollars in midterm trading volume, up from 1.3 billion dollars in the 2024 election cycle. (GazeWire)</p>",
+      "date_published": "2026-11-07T08:30:00-05:00",
+      "date_modified": "2026-11-07T08:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 8:30 AM ET",
+      "body": "- **Non-trading spectators outnumber active participants five to one on Kalshi during the midterms, GazeWire reports** — CryptoSlate data cited by GazeWire shows millions watched Kalshi congressional race odds, control gauges and maps without opening accounts or placing trades during recent midterm cycles. Kalshi reported 2.5 billion dollars in midterm trading volume, up from 1.3 billion dollars in the 2024 election cycle. (GazeWire)",
+      "image_url": null,
+      "published": "2026-11-07T08:30:00-05:00",
+      "source": "2026-11-07_0830-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_0830-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0830-est-3",
+      "title": "Kalshi and Polymarket election markets top 3 billion dollars in 2026 midterm trading, Binance reports",
+      "content_text": "- **Kalshi and Polymarket election markets top 3 billion dollars in 2026 midterm trading, Binance reports** — Markets on Kalshi and Polymarket recorded more than 3 billion dollars in combined volume during the 2026 United States midterms, according to PANews reporting cited by Binance. Kalshi reported about 98 percent accuracy, with 679.2 million dollars in politics open interest and 1.5 billion dollars in sports volume. (Binance)",
+      "content_html": "<p>- **Kalshi and Polymarket election markets top 3 billion dollars in 2026 midterm trading, Binance reports** — Markets on Kalshi and Polymarket recorded more than 3 billion dollars in combined volume during the 2026 United States midterms, according to PANews reporting cited by Binance. Kalshi reported about 98 percent accuracy, with 679.2 million dollars in politics open interest and 1.5 billion dollars in sports volume. (Binance)</p>",
+      "date_published": "2026-11-07T08:30:00-05:00",
+      "date_modified": "2026-11-07T08:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 8:30 AM ET",
+      "body": "- **Kalshi and Polymarket election markets top 3 billion dollars in 2026 midterm trading, Binance reports** — Markets on Kalshi and Polymarket recorded more than 3 billion dollars in combined volume during the 2026 United States midterms, according to PANews reporting cited by Binance. Kalshi reported about 98 percent accuracy, with 679.2 million dollars in politics open interest and 1.5 billion dollars in sports volume. (Binance)",
+      "image_url": null,
+      "published": "2026-11-07T08:30:00-05:00",
+      "source": "2026-11-07_0830-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_0830-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0830-est-4",
+      "title": "Denver Nuggets are priced at 74 percent against the Indiana Pacers on Kalshi and Polymarket US, DeFi Rate reports",
+      "content_text": "- **Denver Nuggets are priced at 74 percent against the Indiana Pacers on Kalshi and Polymarket US, DeFi Rate reports** — DeFi Rate prices Denver at 74 cents on both Kalshi and Polymarket US for the November 7 game at Indiana, with the Pacers at 27 cents on both venues. The game is listed as the next NBA matchup on the board, scheduled for 5:00 PM ET. (DeFi Rate)",
+      "content_html": "<p>- **Denver Nuggets are priced at 74 percent against the Indiana Pacers on Kalshi and Polymarket US, DeFi Rate reports** — DeFi Rate prices Denver at 74 cents on both Kalshi and Polymarket US for the November 7 game at Indiana, with the Pacers at 27 cents on both venues. The game is listed as the next NBA matchup on the board, scheduled for 5:00 PM ET. (DeFi Rate)</p>",
+      "date_published": "2026-11-07T08:30:00-05:00",
+      "date_modified": "2026-11-07T08:30:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 8:30 AM ET",
+      "body": "- **Denver Nuggets are priced at 74 percent against the Indiana Pacers on Kalshi and Polymarket US, DeFi Rate reports** — DeFi Rate prices Denver at 74 cents on both Kalshi and Polymarket US for the November 7 game at Indiana, with the Pacers at 27 cents on both venues. The game is listed as the next NBA matchup on the board, scheduled for 5:00 PM ET. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-07T08:30:00-05:00",
+      "source": "2026-11-07_0830-est.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "infiniti-2026-11-07_0824-est",
       "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-07_0824-est",
@@ -4129,144 +4270,6 @@
       "image_url": null,
       "published": "2026-11-07T01:45:00-05:00",
       "source": "2026-11-07_0145-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0130-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0130-est-0",
-      "title": "Prediction markets trade 4.07 billion dollars on November 6, with Kalshi accounting for 3.33 billion dollars, DeFi Rate reports",
-      "content_text": "- **Prediction markets trade 4.07 billion dollars on November 6, with Kalshi accounting for 3.33 billion dollars, DeFi Rate reports** — DeFi Rate's daily table puts all-venue volume at 4.07 billion dollars on November 6, 2026, led by Kalshi at 3.33 billion dollars, followed by Polymarket US at 443 million dollars and Polymarket at 136 million dollars. DraftKings Predictions added 65 million dollars on the day. (DeFi Rate)",
-      "content_html": "<p>- **Prediction markets trade 4.07 billion dollars on November 6, with Kalshi accounting for 3.33 billion dollars, DeFi Rate reports** — DeFi Rate&#x27;s daily table puts all-venue volume at 4.07 billion dollars on November 6, 2026, led by Kalshi at 3.33 billion dollars, followed by Polymarket US at 443 million dollars and Polymarket at 136 million dollars. DraftKings Predictions added 65 million dollars on the day. (DeFi Rate)</p>",
-      "date_published": "2026-11-07T01:30:00-05:00",
-      "date_modified": "2026-11-07T01:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "DraftKings"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 1:30 AM ET",
-      "body": "- **Prediction markets trade 4.07 billion dollars on November 6, with Kalshi accounting for 3.33 billion dollars, DeFi Rate reports** — DeFi Rate's daily table puts all-venue volume at 4.07 billion dollars on November 6, 2026, led by Kalshi at 3.33 billion dollars, followed by Polymarket US at 443 million dollars and Polymarket at 136 million dollars. DraftKings Predictions added 65 million dollars on the day. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-07T01:30:00-05:00",
-      "source": "2026-11-07_0130-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0130-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0130-est-1",
-      "title": "Yuta Shimizu win contract is priced at 17 percent on Kalshi, with 531,800 dollars traded, PredictMarketCap reports",
-      "content_text": "- **Yuta Shimizu win contract is priced at 17 percent on Kalshi, with 531,800 dollars traded, PredictMarketCap reports** — PredictMarketCap ranks the Shimizu win market among its trending contracts on Kalshi. The board lists the market at 17.0 percent with 531,800 dollars in traded volume. (PredictMarketCap)",
-      "content_html": "<p>- **Yuta Shimizu win contract is priced at 17 percent on Kalshi, with 531,800 dollars traded, PredictMarketCap reports** — PredictMarketCap ranks the Shimizu win market among its trending contracts on Kalshi. The board lists the market at 17.0 percent with 531,800 dollars in traded volume. (PredictMarketCap)</p>",
-      "date_published": "2026-11-07T01:30:00-05:00",
-      "date_modified": "2026-11-07T01:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 1:30 AM ET",
-      "body": "- **Yuta Shimizu win contract is priced at 17 percent on Kalshi, with 531,800 dollars traded, PredictMarketCap reports** — PredictMarketCap ranks the Shimizu win market among its trending contracts on Kalshi. The board lists the market at 17.0 percent with 531,800 dollars in traded volume. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-07T01:30:00-05:00",
-      "source": "2026-11-07_0130-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0130-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0130-est-2",
-      "title": "Valencia against Real Madrid trades 287,000 dollars in 24 hours, with Real Madrid priced at 79 cents on both Kalshi and Polymarket, DeFi Rate reports",
-      "content_text": "- **Valencia against Real Madrid trades 287,000 dollars in 24 hours, with Real Madrid priced at 79 cents on both Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate lists the match among its most traded markets over the last 24 hours, with Real Madrid at 79 cents on both venues, Valencia at 8 cents and the tie at 14 cents. The market traded 287,000 dollars in 24 hours across the two venues. (DeFi Rate)",
-      "content_html": "<p>- **Valencia against Real Madrid trades 287,000 dollars in 24 hours, with Real Madrid priced at 79 cents on both Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate lists the match among its most traded markets over the last 24 hours, with Real Madrid at 79 cents on both venues, Valencia at 8 cents and the tie at 14 cents. The market traded 287,000 dollars in 24 hours across the two venues. (DeFi Rate)</p>",
-      "date_published": "2026-11-07T01:30:00-05:00",
-      "date_modified": "2026-11-07T01:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 1:30 AM ET",
-      "body": "- **Valencia against Real Madrid trades 287,000 dollars in 24 hours, with Real Madrid priced at 79 cents on both Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate lists the match among its most traded markets over the last 24 hours, with Real Madrid at 79 cents on both venues, Valencia at 8 cents and the tie at 14 cents. The market traded 287,000 dollars in 24 hours across the two venues. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-07T01:30:00-05:00",
-      "source": "2026-11-07_0130-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0130-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0130-est-3",
-      "title": "Trader Bizzle333 is second among Kalshi sports traders this week with 122,800 dollars in profit on a 13 and 8 record, Rivo reports",
-      "content_text": "- **Trader Bizzle333 is second among Kalshi sports traders this week with 122,800 dollars in profit on a 13 and 8 record, Rivo reports** — Rivo reports Bizzle333 posted a 62 percent win rate and a 335 percent return on 36,700 dollars traded over the past 7 days. The board's top 10 sports traders made 963,559 dollars between them, from 1,502 qualifying traders. (Rivo)",
-      "content_html": "<p>- **Trader Bizzle333 is second among Kalshi sports traders this week with 122,800 dollars in profit on a 13 and 8 record, Rivo reports** — Rivo reports Bizzle333 posted a 62 percent win rate and a 335 percent return on 36,700 dollars traded over the past 7 days. The board&#x27;s top 10 sports traders made 963,559 dollars between them, from 1,502 qualifying traders. (Rivo)</p>",
-      "date_published": "2026-11-07T01:30:00-05:00",
-      "date_modified": "2026-11-07T01:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 1:30 AM ET",
-      "body": "- **Trader Bizzle333 is second among Kalshi sports traders this week with 122,800 dollars in profit on a 13 and 8 record, Rivo reports** — Rivo reports Bizzle333 posted a 62 percent win rate and a 335 percent return on 36,700 dollars traded over the past 7 days. The board's top 10 sports traders made 963,559 dollars between them, from 1,502 qualifying traders. (Rivo)",
-      "image_url": null,
-      "published": "2026-11-07T01:30:00-05:00",
-      "source": "2026-11-07_0130-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0130-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0130-est-4",
-      "title": "Trader uu9978 is third among Polymarket crypto traders this week with 15,900 dollars in profit on a 27 and 4 record, Rivo reports",
-      "content_text": "- **Trader uu9978 is third among Polymarket crypto traders this week with 15,900 dollars in profit on a 27 and 4 record, Rivo reports** — Rivo reports uu9978 posted an 87 percent win rate and a 39 percent return on 40,600 dollars traded over the past 7 days. The board's top 10 crypto traders made 164,512 dollars between them, from 188 qualifying traders. (Rivo)",
-      "content_html": "<p>- **Trader uu9978 is third among Polymarket crypto traders this week with 15,900 dollars in profit on a 27 and 4 record, Rivo reports** — Rivo reports uu9978 posted an 87 percent win rate and a 39 percent return on 40,600 dollars traded over the past 7 days. The board&#x27;s top 10 crypto traders made 164,512 dollars between them, from 188 qualifying traders. (Rivo)</p>",
-      "date_published": "2026-11-07T01:30:00-05:00",
-      "date_modified": "2026-11-07T01:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 1:30 AM ET",
-      "body": "- **Trader uu9978 is third among Polymarket crypto traders this week with 15,900 dollars in profit on a 27 and 4 record, Rivo reports** — Rivo reports uu9978 posted an 87 percent win rate and a 39 percent return on 40,600 dollars traded over the past 7 days. The board's top 10 crypto traders made 164,512 dollars between them, from 188 qualifying traders. (Rivo)",
-      "image_url": null,
-      "published": "2026-11-07T01:30:00-05:00",
-      "source": "2026-11-07_0130-est.json",
       "matches_facebook_post": false
     }
   ]
