@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T02:39:28.745755-05:00",
+  "updated": "2026-11-07T02:44:49.626432-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,60 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-07_0245-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0245-est-0",
+      "title": "Polymarket moves Protocol V2 launch to November 9, after its original November 2 target, Bitrue reports",
+      "content_text": "- **Polymarket moves Protocol V2 launch to November 9, after its original November 2 target, Bitrue reports** — Bitrue reports Polymarket is preparing to launch Protocol V2 on November 9, 2026, replacing its legacy Gnosis-based infrastructure with unified smart contracts and pUSD, a standard ERC-20 collateral token on Polygon. V1 orders and SDKs are not compatible with V2, so automated trading systems will need to migrate. (Bitrue)",
+      "content_html": "<p>- **Polymarket moves Protocol V2 launch to November 9, after its original November 2 target, Bitrue reports** — Bitrue reports Polymarket is preparing to launch Protocol V2 on November 9, 2026, replacing its legacy Gnosis-based infrastructure with unified smart contracts and pUSD, a standard ERC-20 collateral token on Polygon. V1 orders and SDKs are not compatible with V2, so automated trading systems will need to migrate. (Bitrue)</p>",
+      "date_published": "2026-11-07T02:45:00-05:00",
+      "date_modified": "2026-11-07T02:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 2:45 AM ET",
+      "body": "- **Polymarket moves Protocol V2 launch to November 9, after its original November 2 target, Bitrue reports** — Bitrue reports Polymarket is preparing to launch Protocol V2 on November 9, 2026, replacing its legacy Gnosis-based infrastructure with unified smart contracts and pUSD, a standard ERC-20 collateral token on Polygon. V1 orders and SDKs are not compatible with V2, so automated trading systems will need to migrate. (Bitrue)",
+      "image_url": null,
+      "published": "2026-11-07T02:45:00-05:00",
+      "source": "2026-11-07_0245-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_0245-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0245-est-1",
+      "title": "DraftKings cuts 2026 adjusted EBITDA guidance to 175 million to 275 million dollars from 700 million to 900 million dollars as prediction market spending rises, TradersUnion reports",
+      "content_text": "- **DraftKings cuts 2026 adjusted EBITDA guidance to 175 million to 275 million dollars from 700 million to 900 million dollars as prediction market spending rises, TradersUnion reports** — TradersUnion reports DraftKings lowered its 2026 adjusted EBITDA guidance to 175 million to 275 million dollars, from 700 million to 900 million dollars, citing up to 700 million dollars in prediction market investment. Its new 2027 adjusted EBITDA forecast of 800 million to 1 billion dollars also fell short of Bloomberg consensus of about 1.1 billion dollars. (TradersUnion)",
+      "content_html": "<p>- **DraftKings cuts 2026 adjusted EBITDA guidance to 175 million to 275 million dollars from 700 million to 900 million dollars as prediction market spending rises, TradersUnion reports** — TradersUnion reports DraftKings lowered its 2026 adjusted EBITDA guidance to 175 million to 275 million dollars, from 700 million to 900 million dollars, citing up to 700 million dollars in prediction market investment. Its new 2027 adjusted EBITDA forecast of 800 million to 1 billion dollars also fell short of Bloomberg consensus of about 1.1 billion dollars. (TradersUnion)</p>",
+      "date_published": "2026-11-07T02:45:00-05:00",
+      "date_modified": "2026-11-07T02:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "DraftKings"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 2:45 AM ET",
+      "body": "- **DraftKings cuts 2026 adjusted EBITDA guidance to 175 million to 275 million dollars from 700 million to 900 million dollars as prediction market spending rises, TradersUnion reports** — TradersUnion reports DraftKings lowered its 2026 adjusted EBITDA guidance to 175 million to 275 million dollars, from 700 million to 900 million dollars, citing up to 700 million dollars in prediction market investment. Its new 2027 adjusted EBITDA forecast of 800 million to 1 billion dollars also fell short of Bloomberg consensus of about 1.1 billion dollars. (TradersUnion)",
+      "image_url": null,
+      "published": "2026-11-07T02:45:00-05:00",
+      "source": "2026-11-07_0245-est.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-07_0230-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0230-est-0",
@@ -4217,60 +4271,6 @@
       "links": [],
       "timestamp": "Nov 6, 2026 · 7:30 PM ET",
       "body": "- **Sports prediction markets trade 418 million dollars in 24 hours, down 9 percent, with Kalshi handling 232 million dollars, DeFi Rate reports** — DeFi Rate reports Polymarket US traded 94 million dollars and Polymarket 44 million dollars over the same period, with Novig at 26 million dollars. The most-traded single sports market was the Rolex Paris Masters match between Taylor Fritz and Carlos Alcaraz on Polymarket, with 1.3 million dollars traded. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-06T19:30:00-05:00",
-      "source": "2026-11-06_1930-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-06_1930-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_1930-est-1",
-      "title": "Gemini Titan halts sports event contracts for Ohio customers effective November 6, NEXTPredict reports",
-      "content_text": "- **Gemini Titan halts sports event contracts for Ohio customers effective November 6, NEXTPredict reports** — NEXTPredict reports Ohio customers can no longer place new sports orders or sell existing sports positions after November 6, while open positions will be held until the underlying events resolve and settle on their terms. The move follows cease-and-desist orders the Ohio Casino Control Commission issued to Gemini and nine other prediction market operators. (NEXTPredict)",
-      "content_html": "<p>- **Gemini Titan halts sports event contracts for Ohio customers effective November 6, NEXTPredict reports** — NEXTPredict reports Ohio customers can no longer place new sports orders or sell existing sports positions after November 6, while open positions will be held until the underlying events resolve and settle on their terms. The move follows cease-and-desist orders the Ohio Casino Control Commission issued to Gemini and nine other prediction market operators. (NEXTPredict)</p>",
-      "date_published": "2026-11-06T19:30:00-05:00",
-      "date_modified": "2026-11-06T19:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 6, 2026 · 7:30 PM ET",
-      "body": "- **Gemini Titan halts sports event contracts for Ohio customers effective November 6, NEXTPredict reports** — NEXTPredict reports Ohio customers can no longer place new sports orders or sell existing sports positions after November 6, while open positions will be held until the underlying events resolve and settle on their terms. The move follows cease-and-desist orders the Ohio Casino Control Commission issued to Gemini and nine other prediction market operators. (NEXTPredict)",
-      "image_url": null,
-      "published": "2026-11-06T19:30:00-05:00",
-      "source": "2026-11-06_1930-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-06_1930-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_1930-est-2",
-      "title": "Kalshi and Polymarket price Sunday's NFL Week 9 early slate within a point or two, with the Giants-Eagles total down 6 points to 38.5, Action Network reports",
-      "content_text": "- **Kalshi and Polymarket price Sunday's NFL Week 9 early slate within a point or two, with the Giants-Eagles total down 6 points to 38.5, Action Network reports** — Action Network reports the Jets-Chiefs total moved the other way, rising 6 points from 41.5 to 47.5, the sharpest total moves in the seven-game 1 PM ET window. Dallas is favored at Indianapolis, priced near 69 to 70 percent on Kalshi and 70 percent on Polymarket. (Action Network)",
-      "content_html": "<p>- **Kalshi and Polymarket price Sunday&#x27;s NFL Week 9 early slate within a point or two, with the Giants-Eagles total down 6 points to 38.5, Action Network reports** — Action Network reports the Jets-Chiefs total moved the other way, rising 6 points from 41.5 to 47.5, the sharpest total moves in the seven-game 1 PM ET window. Dallas is favored at Indianapolis, priced near 69 to 70 percent on Kalshi and 70 percent on Polymarket. (Action Network)</p>",
-      "date_published": "2026-11-06T19:30:00-05:00",
-      "date_modified": "2026-11-06T19:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket",
-        "NFL"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 6, 2026 · 7:30 PM ET",
-      "body": "- **Kalshi and Polymarket price Sunday's NFL Week 9 early slate within a point or two, with the Giants-Eagles total down 6 points to 38.5, Action Network reports** — Action Network reports the Jets-Chiefs total moved the other way, rising 6 points from 41.5 to 47.5, the sharpest total moves in the seven-game 1 PM ET window. Dallas is favored at Indianapolis, priced near 69 to 70 percent on Kalshi and 70 percent on Polymarket. (Action Network)",
       "image_url": null,
       "published": "2026-11-06T19:30:00-05:00",
       "source": "2026-11-06_1930-est.json",
