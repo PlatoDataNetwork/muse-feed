@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T12:14:56.418750-05:00",
+  "updated": "2026-11-07T12:28:52.926863-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-07_1224-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-07_1224-est",
+      "title": "Sports holds 37 of the top-50 markets at $21M in 24-hour volume, on a $30M board",
+      "content_text": "Infiniti Prediction Markets\n\nSports holds 37 of the top-50 markets at $21M in 24-hour volume, on a $30M board\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…\n#PredictionMarkets #Kalshi #Elections\n\nBaylor is priced at 63 cents on both Kalshi and Polymarket against Iowa State, on $1.0M traded in 24 hours\nThe same DeFi Rate top-50 board, read this run, ranks the Iowa State against Baylor game eighth at $1.0M traded in 24 hours across two venues, with Baylor the leading…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Sports holds 37 of the top-50 markets at $21M in 24-hour volume, on a $30M board<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…<br/>#PredictionMarkets #Kalshi #Elections<br/><br/>Baylor is priced at 63 cents on both Kalshi and Polymarket against Iowa State, on $1.0M traded in 24 hours<br/>The same DeFi Rate top-50 board, read this run, ranks the Iowa State against Baylor game eighth at $1.0M traded in 24 hours across two venues, with Baylor the leading…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-07T12:24:00-05:00",
+      "date_modified": "2026-11-07T12:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Elections",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 12:24 PM ET",
+      "body": "Infiniti Prediction Markets\n\nSports holds 37 of the top-50 markets at $21M in 24-hour volume, on a $30M board\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…\n#PredictionMarkets #Kalshi #Elections\n\nBaylor is priced at 63 cents on both Kalshi and Polymarket against Iowa State, on $1.0M traded in 24 hours\nThe same DeFi Rate top-50 board, read this run, ranks the Iowa State against Baylor game eighth at $1.0M traded in 24 hours across two venues, with Baylor the leading…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-07T12:24:00-05:00",
+      "source": "2026-11-07_1224-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-07_1215-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1215-est-0",
@@ -4226,33 +4256,6 @@
       "links": [],
       "timestamp": "Nov 7, 2026 · 5:30 AM ET",
       "body": "- **Prediction markets trade 1.90 billion dollars so far on November 7, with Kalshi accounting for 1.69 billion dollars, DeFi Rate reports** — DeFi Rate reports 1.90 billion dollars traded so far on November 7 across tracked venues, with Kalshi at 1.69 billion dollars, Polymarket and Polymarket US at 125 million dollars combined, and DraftKings Predictions at 61 million dollars. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-07T05:30:00-05:00",
-      "source": "2026-11-07_0530-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0530-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0530-est-1",
-      "title": "Maria Sakkari win contract is priced at 48 percent on Kalshi, with 1.68 million dollars traded, PredictMarketCap reports",
-      "content_text": "- **Maria Sakkari win contract is priced at 48 percent on Kalshi, with 1.68 million dollars traded, PredictMarketCap reports** — PredictMarketCap lists Sakkari at 48 percent on Kalshi in her match against Alexandra Eala, who is priced at 54 percent with 1.45 million dollars traded. The match is among the most traded markets on the trending board. (PredictMarketCap)",
-      "content_html": "<p>- **Maria Sakkari win contract is priced at 48 percent on Kalshi, with 1.68 million dollars traded, PredictMarketCap reports** — PredictMarketCap lists Sakkari at 48 percent on Kalshi in her match against Alexandra Eala, who is priced at 54 percent with 1.45 million dollars traded. The match is among the most traded markets on the trending board. (PredictMarketCap)</p>",
-      "date_published": "2026-11-07T05:30:00-05:00",
-      "date_modified": "2026-11-07T05:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 5:30 AM ET",
-      "body": "- **Maria Sakkari win contract is priced at 48 percent on Kalshi, with 1.68 million dollars traded, PredictMarketCap reports** — PredictMarketCap lists Sakkari at 48 percent on Kalshi in her match against Alexandra Eala, who is priced at 54 percent with 1.45 million dollars traded. The match is among the most traded markets on the trending board. (PredictMarketCap)",
       "image_url": null,
       "published": "2026-11-07T05:30:00-05:00",
       "source": "2026-11-07_0530-est.json",
