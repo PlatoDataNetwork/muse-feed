@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T09:57:07.042527-05:00",
+  "updated": "2026-11-07T10:00:36.376501-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,173 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-07_1000-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1000-est-0",
+      "title": "Underdog Exchange is the fastest growing prediction market venue over 30 days, up 119 percent, DeFi Rate reports",
+      "content_text": "- **Underdog Exchange is the fastest growing prediction market venue over 30 days, up 119 percent, DeFi Rate reports** — DeFi Rate reports Underdog Exchange traded 2.1 billion dollars in contracts over the last 30 days, up 119 percent from the prior period, the biggest rise of any venue with a full 30 days of data. Kalshi remains the largest venue with 102.6 billion dollars traded over the same window. (DeFi Rate)",
+      "content_html": "<p>- **Underdog Exchange is the fastest growing prediction market venue over 30 days, up 119 percent, DeFi Rate reports** — DeFi Rate reports Underdog Exchange traded 2.1 billion dollars in contracts over the last 30 days, up 119 percent from the prior period, the biggest rise of any venue with a full 30 days of data. Kalshi remains the largest venue with 102.6 billion dollars traded over the same window. (DeFi Rate)</p>",
+      "date_published": "2026-11-07T10:00:00-05:00",
+      "date_modified": "2026-11-07T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:00 AM ET",
+      "body": "- **Underdog Exchange is the fastest growing prediction market venue over 30 days, up 119 percent, DeFi Rate reports** — DeFi Rate reports Underdog Exchange traded 2.1 billion dollars in contracts over the last 30 days, up 119 percent from the prior period, the biggest rise of any venue with a full 30 days of data. Kalshi remains the largest venue with 102.6 billion dollars traded over the same window. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-07T10:00:00-05:00",
+      "source": "2026-11-07_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1000-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1000-est-1",
+      "title": "Arsenal against Hull City trades 649,000 dollars in 24 hours on Kalshi and Polymarket, DeFi Rate reports",
+      "content_text": "- **Arsenal against Hull City trades 649,000 dollars in 24 hours on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate ranks the match eighth by 24-hour volume across venues, with Arsenal priced at 87 cents on both Kalshi and Polymarket. Hull City is priced at 4 cents and a tie at 11 cents. (DeFi Rate)",
+      "content_html": "<p>- **Arsenal against Hull City trades 649,000 dollars in 24 hours on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate ranks the match eighth by 24-hour volume across venues, with Arsenal priced at 87 cents on both Kalshi and Polymarket. Hull City is priced at 4 cents and a tie at 11 cents. (DeFi Rate)</p>",
+      "date_published": "2026-11-07T10:00:00-05:00",
+      "date_modified": "2026-11-07T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:00 AM ET",
+      "body": "- **Arsenal against Hull City trades 649,000 dollars in 24 hours on Kalshi and Polymarket, DeFi Rate reports** — DeFi Rate ranks the match eighth by 24-hour volume across venues, with Arsenal priced at 87 cents on both Kalshi and Polymarket. Hull City is priced at 4 cents and a tie at 11 cents. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-07T10:00:00-05:00",
+      "source": "2026-11-07_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1000-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1000-est-2",
+      "title": "Contract on Rafael Lopez Aliaga winning the next Lima mayoral election falls 48.1 points to 9.8 percent on Polymarket, PredictionBubbles reports",
+      "content_text": "- **Contract on Rafael Lopez Aliaga winning the next Lima mayoral election falls 48.1 points to 9.8 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract among the biggest fallers of the last 24 hours, with 226,000 dollars traded. The market is listed as awaiting settlement. (PredictionBubbles)",
+      "content_html": "<p>- **Contract on Rafael Lopez Aliaga winning the next Lima mayoral election falls 48.1 points to 9.8 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract among the biggest fallers of the last 24 hours, with 226,000 dollars traded. The market is listed as awaiting settlement. (PredictionBubbles)</p>",
+      "date_published": "2026-11-07T10:00:00-05:00",
+      "date_modified": "2026-11-07T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:00 AM ET",
+      "body": "- **Contract on Rafael Lopez Aliaga winning the next Lima mayoral election falls 48.1 points to 9.8 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract among the biggest fallers of the last 24 hours, with 226,000 dollars traded. The market is listed as awaiting settlement. (PredictionBubbles)",
+      "image_url": null,
+      "published": "2026-11-07T10:00:00-05:00",
+      "source": "2026-11-07_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1000-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1000-est-3",
+      "title": "US-Iran ceasefire market trades 1.2 million dollars in 24 hours on Polymarket, DeFi Rate reports",
+      "content_text": "- **US-Iran ceasefire market trades 1.2 million dollars in 24 hours on Polymarket, DeFi Rate reports** — DeFi Rate ranks the ceasefire market third by 24-hour volume, with the November 5 outcome priced at 99.4 cents. A separate Israel-Iran ceasefire market traded 781,000 dollars in the same period. (DeFi Rate)",
+      "content_html": "<p>- **US-Iran ceasefire market trades 1.2 million dollars in 24 hours on Polymarket, DeFi Rate reports** — DeFi Rate ranks the ceasefire market third by 24-hour volume, with the November 5 outcome priced at 99.4 cents. A separate Israel-Iran ceasefire market traded 781,000 dollars in the same period. (DeFi Rate)</p>",
+      "date_published": "2026-11-07T10:00:00-05:00",
+      "date_modified": "2026-11-07T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:00 AM ET",
+      "body": "- **US-Iran ceasefire market trades 1.2 million dollars in 24 hours on Polymarket, DeFi Rate reports** — DeFi Rate ranks the ceasefire market third by 24-hour volume, with the November 5 outcome priced at 99.4 cents. A separate Israel-Iran ceasefire market traded 781,000 dollars in the same period. (DeFi Rate)",
+      "image_url": null,
+      "published": "2026-11-07T10:00:00-05:00",
+      "source": "2026-11-07_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-07_1000-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1000-est-4",
+      "title": "Biggest prediction market trade today is 518,900 dollars on the Raptors against the Bucks on Polymarket, Rivo reports",
+      "content_text": "- **Biggest prediction market trade today is 518,900 dollars on the Raptors against the Bucks on Polymarket, Rivo reports** — Rivo reports the trade bought the Raptors at 59 cents and won 69 percent. The hottest market on the board is the League of Legends match between Karmine Corp and T1, with 1.6 million dollars traded in its first game. (Rivo)",
+      "content_html": "<p>- **Biggest prediction market trade today is 518,900 dollars on the Raptors against the Bucks on Polymarket, Rivo reports** — Rivo reports the trade bought the Raptors at 59 cents and won 69 percent. The hottest market on the board is the League of Legends match between Karmine Corp and T1, with 1.6 million dollars traded in its first game. (Rivo)</p>",
+      "date_published": "2026-11-07T10:00:00-05:00",
+      "date_modified": "2026-11-07T10:00:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:00 AM ET",
+      "body": "- **Biggest prediction market trade today is 518,900 dollars on the Raptors against the Bucks on Polymarket, Rivo reports** — Rivo reports the trade bought the Raptors at 59 cents and won 69 percent. The hottest market on the board is the League of Legends match between Karmine Corp and T1, with 1.6 million dollars traded in its first game. (Rivo)",
+      "image_url": null,
+      "published": "2026-11-07T10:00:00-05:00",
+      "source": "2026-11-07_1000-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "infiniti-2026-11-07_0954-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-07_0954-est",
+      "title": "Dallas wins is priced at 65 cents on Kalshi, up 20 cents, the biggest mover on the Kalshi market leaderboard",
+      "content_text": "Infiniti Prediction Markets\n\nDallas wins is priced at 65 cents on Kalshi, up 20 cents, the biggest mover on the Kalshi market leaderboard\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…\n#PredictionMarkets #Kalshi #CFTC #Elections\n\nSports holds 28 of the top-50 markets at $9.5M in 24-hour volume, ahead of politics at 16 markets and $9.3M\nDeFi Rate's top-50 board, read this run with quotes observed Nov. 7 between 9:24 AM and 9:55 AM ET, puts the $20M board at sports 28 markets and $9.5M for 48%, politics…\n#PredictionMarkets\n\nTrader AnibalAugustoSardinha is fortieth on today's profit leaderboard with $21.4K in profit on an 11-1 record\nRivo's daily profit leaderboard, read this run and crawled Nov. 7 at 2:58 PM UTC, ranks AnibalAugustoSardinha fortieth on the day at $21.4K in profit on an 11-1 record,…\n#PredictionMarkets\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Dallas wins is priced at 65 cents on Kalshi, up 20 cents, the biggest mover on the Kalshi market leaderboard<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…<br/>#PredictionMarkets #Kalshi #CFTC #Elections<br/><br/>Sports holds 28 of the top-50 markets at $9.5M in 24-hour volume, ahead of politics at 16 markets and $9.3M<br/>DeFi Rate&#x27;s top-50 board, read this run with quotes observed Nov. 7 between 9:24 AM and 9:55 AM ET, puts the $20M board at sports 28 markets and $9.5M for 48%, politics…<br/>#PredictionMarkets<br/><br/>Trader AnibalAugustoSardinha is fortieth on today&#x27;s profit leaderboard with $21.4K in profit on an 11-1 record<br/>Rivo&#x27;s daily profit leaderboard, read this run and crawled Nov. 7 at 2:58 PM UTC, ranks AnibalAugustoSardinha fortieth on the day at $21.4K in profit on an 11-1 record,…<br/>#PredictionMarkets<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-07T09:54:00-05:00",
+      "date_modified": "2026-11-07T09:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 9:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nDallas wins is priced at 65 cents on Kalshi, up 20 cents, the biggest mover on the Kalshi market leaderboard\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…\n#PredictionMarkets #Kalshi #CFTC #Elections\n\nSports holds 28 of the top-50 markets at $9.5M in 24-hour volume, ahead of politics at 16 markets and $9.3M\nDeFi Rate's top-50 board, read this run with quotes observed Nov. 7 between 9:24 AM and 9:55 AM ET, puts the $20M board at sports 28 markets and $9.5M for 48%, politics…\n#PredictionMarkets\n\nTrader AnibalAugustoSardinha is fortieth on today's profit leaderboard with $21.4K in profit on an 11-1 record\nRivo's daily profit leaderboard, read this run and crawled Nov. 7 at 2:58 PM UTC, ranks AnibalAugustoSardinha fortieth on the day at $21.4K in profit on an 11-1 record,…\n#PredictionMarkets\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-07T09:54:00-05:00",
+      "source": "2026-11-07_0954-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-07_0945-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0945-est-0",
@@ -4099,165 +4266,6 @@
       "image_url": null,
       "published": "2026-11-07T03:15:00-05:00",
       "source": "2026-11-07_0315-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0315-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0315-est-2",
-      "title": "Trader S-Works is second on today's prediction market profit leaderboard with 177,700 dollars in profit on a 19 and 0 record, Rivo reports",
-      "content_text": "- **Trader S-Works is second on today's prediction market profit leaderboard with 177,700 dollars in profit on a 19 and 0 record, Rivo reports** — Rivo ranks S-Works second on today's profit leaderboard with 177,700 dollars in profit over the past 24 hours, from a perfect 19 and 0 record on 496,900 dollars traded. (Rivo)",
-      "content_html": "<p>- **Trader S-Works is second on today&#x27;s prediction market profit leaderboard with 177,700 dollars in profit on a 19 and 0 record, Rivo reports** — Rivo ranks S-Works second on today&#x27;s profit leaderboard with 177,700 dollars in profit over the past 24 hours, from a perfect 19 and 0 record on 496,900 dollars traded. (Rivo)</p>",
-      "date_published": "2026-11-07T03:15:00-05:00",
-      "date_modified": "2026-11-07T03:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:15 AM ET",
-      "body": "- **Trader S-Works is second on today's prediction market profit leaderboard with 177,700 dollars in profit on a 19 and 0 record, Rivo reports** — Rivo ranks S-Works second on today's profit leaderboard with 177,700 dollars in profit over the past 24 hours, from a perfect 19 and 0 record on 496,900 dollars traded. (Rivo)",
-      "image_url": null,
-      "published": "2026-11-07T03:15:00-05:00",
-      "source": "2026-11-07_0315-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0315-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0315-est-3",
-      "title": "Contract on Stephen Miller leaving his Deputy Chief of Staff role before 2027 rises 73.8 points to 96.8 percent on Kalshi, PredictMarketCap reports",
-      "content_text": "- **Contract on Stephen Miller leaving his Deputy Chief of Staff role before 2027 rises 73.8 points to 96.8 percent on Kalshi, PredictMarketCap reports** — PredictMarketCap lists the contract on Stephen Miller leaving his Deputy Chief of Staff role before 2027 at 96.8 percent on Kalshi, up 73.8 points, with 439,300 dollars traded. (PredictMarketCap)",
-      "content_html": "<p>- **Contract on Stephen Miller leaving his Deputy Chief of Staff role before 2027 rises 73.8 points to 96.8 percent on Kalshi, PredictMarketCap reports** — PredictMarketCap lists the contract on Stephen Miller leaving his Deputy Chief of Staff role before 2027 at 96.8 percent on Kalshi, up 73.8 points, with 439,300 dollars traded. (PredictMarketCap)</p>",
-      "date_published": "2026-11-07T03:15:00-05:00",
-      "date_modified": "2026-11-07T03:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:15 AM ET",
-      "body": "- **Contract on Stephen Miller leaving his Deputy Chief of Staff role before 2027 rises 73.8 points to 96.8 percent on Kalshi, PredictMarketCap reports** — PredictMarketCap lists the contract on Stephen Miller leaving his Deputy Chief of Staff role before 2027 at 96.8 percent on Kalshi, up 73.8 points, with 439,300 dollars traded. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-07T03:15:00-05:00",
-      "source": "2026-11-07_0315-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0315-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0315-est-4",
-      "title": "Contract on Puffpaw FDV above 100 million dollars one day after launch rises 44 points to 83.5 percent on Polymarket, PredictionBubbles reports",
-      "content_text": "- **Contract on Puffpaw FDV above 100 million dollars one day after launch rises 44 points to 83.5 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract on Puffpaw FDV above 100 million dollars one day after launch at 83.5 percent on Polymarket, up 44 points, with 1.8 million dollars traded. (PredictionBubbles)",
-      "content_html": "<p>- **Contract on Puffpaw FDV above 100 million dollars one day after launch rises 44 points to 83.5 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract on Puffpaw FDV above 100 million dollars one day after launch at 83.5 percent on Polymarket, up 44 points, with 1.8 million dollars traded. (PredictionBubbles)</p>",
-      "date_published": "2026-11-07T03:15:00-05:00",
-      "date_modified": "2026-11-07T03:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:15 AM ET",
-      "body": "- **Contract on Puffpaw FDV above 100 million dollars one day after launch rises 44 points to 83.5 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the contract on Puffpaw FDV above 100 million dollars one day after launch at 83.5 percent on Polymarket, up 44 points, with 1.8 million dollars traded. (PredictionBubbles)",
-      "image_url": null,
-      "published": "2026-11-07T03:15:00-05:00",
-      "source": "2026-11-07_0315-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0300-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0300-est-0",
-      "title": "National Party lead for most seats in New Zealand's 2026 legislative election narrows to 53.5 percent on Polymarket, with Labour at 45.5 percent, PredictMarketCap reports",
-      "content_text": "- **National Party lead for most seats in New Zealand's 2026 legislative election narrows to 53.5 percent on Polymarket, with Labour at 45.5 percent, PredictMarketCap reports** — PredictMarketCap lists the National Party at 53.5 percent to win the most seats in the 2026 New Zealand legislative election, down 8 points, with 156,000 dollars traded on Polymarket. Labour has risen 8.5 points to 45.5 percent, with 117,100 dollars traded. (PredictMarketCap)",
-      "content_html": "<p>- **National Party lead for most seats in New Zealand&#x27;s 2026 legislative election narrows to 53.5 percent on Polymarket, with Labour at 45.5 percent, PredictMarketCap reports** — PredictMarketCap lists the National Party at 53.5 percent to win the most seats in the 2026 New Zealand legislative election, down 8 points, with 156,000 dollars traded on Polymarket. Labour has risen 8.5 points to 45.5 percent, with 117,100 dollars traded. (PredictMarketCap)</p>",
-      "date_published": "2026-11-07T03:00:00-05:00",
-      "date_modified": "2026-11-07T03:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:00 AM ET",
-      "body": "- **National Party lead for most seats in New Zealand's 2026 legislative election narrows to 53.5 percent on Polymarket, with Labour at 45.5 percent, PredictMarketCap reports** — PredictMarketCap lists the National Party at 53.5 percent to win the most seats in the 2026 New Zealand legislative election, down 8 points, with 156,000 dollars traded on Polymarket. Labour has risen 8.5 points to 45.5 percent, with 117,100 dollars traded. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-07T03:00:00-05:00",
-      "source": "2026-11-07_0300-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0300-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0300-est-1",
-      "title": "Contract on Wild Horse Nine scoring above 94 on Rotten Tomatoes falls 51 points to 4 percent on Kalshi, PredictMarketCap reports",
-      "content_text": "- **Contract on Wild Horse Nine scoring above 94 on Rotten Tomatoes falls 51 points to 4 percent on Kalshi, PredictMarketCap reports** — PredictMarketCap lists the contract on Wild Horse Nine earning a Rotten Tomatoes score above 94 at 4.0 percent on Kalshi, down 51 points, with 18,600 dollars traded. (PredictMarketCap)",
-      "content_html": "<p>- **Contract on Wild Horse Nine scoring above 94 on Rotten Tomatoes falls 51 points to 4 percent on Kalshi, PredictMarketCap reports** — PredictMarketCap lists the contract on Wild Horse Nine earning a Rotten Tomatoes score above 94 at 4.0 percent on Kalshi, down 51 points, with 18,600 dollars traded. (PredictMarketCap)</p>",
-      "date_published": "2026-11-07T03:00:00-05:00",
-      "date_modified": "2026-11-07T03:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:00 AM ET",
-      "body": "- **Contract on Wild Horse Nine scoring above 94 on Rotten Tomatoes falls 51 points to 4 percent on Kalshi, PredictMarketCap reports** — PredictMarketCap lists the contract on Wild Horse Nine earning a Rotten Tomatoes score above 94 at 4.0 percent on Kalshi, down 51 points, with 18,600 dollars traded. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-07T03:00:00-05:00",
-      "source": "2026-11-07_0300-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0300-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0300-est-2",
-      "title": "Trader OhWhenTheReds is seventh on today's prediction market profit leaderboard with 72,100 dollars in profit on a 14 and 0 record, Rivo reports",
-      "content_text": "- **Trader OhWhenTheReds is seventh on today's prediction market profit leaderboard with 72,100 dollars in profit on a 14 and 0 record, Rivo reports** — Rivo ranks OhWhenTheReds seventh on today's profit leaderboard with 72,100 dollars in profit over the past 24 hours, from a perfect 14 and 0 record on 49,300 dollars traded. (Rivo)",
-      "content_html": "<p>- **Trader OhWhenTheReds is seventh on today&#x27;s prediction market profit leaderboard with 72,100 dollars in profit on a 14 and 0 record, Rivo reports** — Rivo ranks OhWhenTheReds seventh on today&#x27;s profit leaderboard with 72,100 dollars in profit over the past 24 hours, from a perfect 14 and 0 record on 49,300 dollars traded. (Rivo)</p>",
-      "date_published": "2026-11-07T03:00:00-05:00",
-      "date_modified": "2026-11-07T03:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 3:00 AM ET",
-      "body": "- **Trader OhWhenTheReds is seventh on today's prediction market profit leaderboard with 72,100 dollars in profit on a 14 and 0 record, Rivo reports** — Rivo ranks OhWhenTheReds seventh on today's profit leaderboard with 72,100 dollars in profit over the past 24 hours, from a perfect 14 and 0 record on 49,300 dollars traded. (Rivo)",
-      "image_url": null,
-      "published": "2026-11-07T03:00:00-05:00",
-      "source": "2026-11-07_0300-est.json",
       "matches_facebook_post": false
     }
   ]
