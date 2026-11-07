@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T10:44:35.498546-05:00",
+  "updated": "2026-11-07T10:58:08.288266-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-07_1054-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-07_1054-est",
+      "title": "Trader alexryanb is first on today's profit leaderboard with $56.1K in profit on a 35-18 record",
+      "content_text": "Infiniti Prediction Markets\n\nTrader alexryanb is first on today's profit leaderboard with $56.1K in profit on a 35-18 record\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…\n#PredictionMarkets #CFTC #Elections\n\nSan Antonio wins is priced at 75 cents on Kalshi, down 10 cents, the third-biggest mover on the Kalshi market leaderboard\nPredictionMarketPicks' Kalshi market leaderboard, read this run on its snapshot of Nov. 7 at 10:15 AM ET across 313 priced contracts in 20 series, ranks the San Antonio…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Trader alexryanb is first on today&#x27;s profit leaderboard with $56.1K in profit on a 35-18 record<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…<br/>#PredictionMarkets #CFTC #Elections<br/><br/>San Antonio wins is priced at 75 cents on Kalshi, down 10 cents, the third-biggest mover on the Kalshi market leaderboard<br/>PredictionMarketPicks&#x27; Kalshi market leaderboard, read this run on its snapshot of Nov. 7 at 10:15 AM ET across 313 priced contracts in 20 series, ranks the San Antonio…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-07T10:54:00-05:00",
+      "date_modified": "2026-11-07T10:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "CFTC",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 10:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nTrader alexryanb is first on today's profit leaderboard with $56.1K in profit on a 35-18 record\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out today, including…\n#PredictionMarkets #CFTC #Elections\n\nSan Antonio wins is priced at 75 cents on Kalshi, down 10 cents, the third-biggest mover on the Kalshi market leaderboard\nPredictionMarketPicks' Kalshi market leaderboard, read this run on its snapshot of Nov. 7 at 10:15 AM ET across 313 priced contracts in 20 series, ranks the San Antonio…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-07T10:54:00-05:00",
+      "source": "2026-11-07_1054-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-07_1045-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1045-est-0",
@@ -4233,33 +4263,6 @@
       "links": [],
       "timestamp": "Nov 7, 2026 · 4:00 AM ET",
       "body": "- **West Virginia win contract is priced at 15 percent on Kalshi, with 947,100 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the West Virginia win contract at 15 percent on Kalshi, up 2 points, with 947,100 dollars traded. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-07T04:00:00-05:00",
-      "source": "2026-11-07_0400-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_0400-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0400-est-2",
-      "title": "Contract on the United States invading Iran before 2027 is priced at 10.5 percent on Polymarket, with 78.3 million dollars traded, PredictionBubbles reports",
-      "content_text": "- **Contract on the United States invading Iran before 2027 is priced at 10.5 percent on Polymarket, with 78.3 million dollars traded, PredictionBubbles reports** — PredictionBubbles lists the contract on the United States invading Iran before 2027 at 10.5 percent on Polymarket, down 2 points, with 78.3 million dollars traded, the largest politics market on its board. (PredictionBubbles)",
-      "content_html": "<p>- **Contract on the United States invading Iran before 2027 is priced at 10.5 percent on Polymarket, with 78.3 million dollars traded, PredictionBubbles reports** — PredictionBubbles lists the contract on the United States invading Iran before 2027 at 10.5 percent on Polymarket, down 2 points, with 78.3 million dollars traded, the largest politics market on its board. (PredictionBubbles)</p>",
-      "date_published": "2026-11-07T04:00:00-05:00",
-      "date_modified": "2026-11-07T04:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 4:00 AM ET",
-      "body": "- **Contract on the United States invading Iran before 2027 is priced at 10.5 percent on Polymarket, with 78.3 million dollars traded, PredictionBubbles reports** — PredictionBubbles lists the contract on the United States invading Iran before 2027 at 10.5 percent on Polymarket, down 2 points, with 78.3 million dollars traded, the largest politics market on its board. (PredictionBubbles)",
       "image_url": null,
       "published": "2026-11-07T04:00:00-05:00",
       "source": "2026-11-07_0400-est.json",
