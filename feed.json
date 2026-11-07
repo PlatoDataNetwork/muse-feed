@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T04:16:19.977477-05:00",
+  "updated": "2026-11-07T04:28:07.170964-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-07_0424-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-07_0424-est",
+      "title": "Suspicious bets were placed shortly before a New York Times/Siena poll release, with a Polymarket user winning more than $77,000 on a Ricketts re-election bet",
+      "content_text": "Infiniti Prediction Markets\n\nSuspicious bets were placed shortly before a New York Times/Siena poll release, with a Polymarket user winning more than $77,000 on a Ricketts re-election bet\nA fresh news item published this morning changes the picture — Vanderbilt University researchers flagged a Polymarket user who bet almost $200,000 on Oct. 31 that…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nJ.D. Vance is priced at 34 cents to be the 2028 Republican presidential nominee on Kalshi, on $1.5M traded in 24 hours\nDeFi Rate's top-50 board, read this run with quotes observed Nov. 7 between 1:32 AM and 4:26 AM ET, ranks the 2028 Republican presidential nominee market third on the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Suspicious bets were placed shortly before a New York Times/Siena poll release, with a Polymarket user winning more than $77,000 on a Ricketts re-election bet<br/>A fresh news item published this morning changes the picture — Vanderbilt University researchers flagged a Polymarket user who bet almost $200,000 on Oct. 31 that…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/><br/>J.D. Vance is priced at 34 cents to be the 2028 Republican presidential nominee on Kalshi, on $1.5M traded in 24 hours<br/>DeFi Rate&#x27;s top-50 board, read this run with quotes observed Nov. 7 between 1:32 AM and 4:26 AM ET, ranks the 2028 Republican presidential nominee market third on the…<br/>#PredictionMarkets #Kalshi #Polymarket #Elections<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-07T04:24:00-05:00",
+      "date_modified": "2026-11-07T04:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "Polymarket",
+        "Elections"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 4:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nSuspicious bets were placed shortly before a New York Times/Siena poll release, with a Polymarket user winning more than $77,000 on a Ricketts re-election bet\nA fresh news item published this morning changes the picture — Vanderbilt University researchers flagged a Polymarket user who bet almost $200,000 on Oct. 31 that…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nJ.D. Vance is priced at 34 cents to be the 2028 Republican presidential nominee on Kalshi, on $1.5M traded in 24 hours\nDeFi Rate's top-50 board, read this run with quotes observed Nov. 7 between 1:32 AM and 4:26 AM ET, ranks the 2028 Republican presidential nominee market third on the…\n#PredictionMarkets #Kalshi #Polymarket #Elections\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-07T04:24:00-05:00",
+      "source": "2026-11-07_0424-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-07_0415-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0415-est-0",
@@ -4226,33 +4256,6 @@
       "links": [],
       "timestamp": "Nov 6, 2026 · 9:15 PM ET",
       "body": "- **Contract on the Riksbank raising its policy rate before 2027 is priced at 94 percent on Kalshi, up 4 points, with 5,900 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the Swedish central bank market among its trending markets of the day. The price implies traders see a rate increase before 2027 as highly likely. (PredictMarketCap)",
-      "image_url": null,
-      "published": "2026-11-06T21:15:00-05:00",
-      "source": "2026-11-06_2115-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-06_2115-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_2115-est-2",
-      "title": "Contract on Thriller ranking No. 1 to 2 on the Billboard Hot 100 is priced at 70 percent on Kalshi, up 67 points, with 6,800 dollars traded, PredictMarketCap reports",
-      "content_text": "- **Contract on Thriller ranking No. 1 to 2 on the Billboard Hot 100 is priced at 70 percent on Kalshi, up 67 points, with 6,800 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the Billboard chart market among its biggest movers across the tracked venues. The contract rose from near 3 percent in the latest snapshot. (PredictMarketCap)",
-      "content_html": "<p>- **Contract on Thriller ranking No. 1 to 2 on the Billboard Hot 100 is priced at 70 percent on Kalshi, up 67 points, with 6,800 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the Billboard chart market among its biggest movers across the tracked venues. The contract rose from near 3 percent in the latest snapshot. (PredictMarketCap)</p>",
-      "date_published": "2026-11-06T21:15:00-05:00",
-      "date_modified": "2026-11-06T21:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 6, 2026 · 9:15 PM ET",
-      "body": "- **Contract on Thriller ranking No. 1 to 2 on the Billboard Hot 100 is priced at 70 percent on Kalshi, up 67 points, with 6,800 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the Billboard chart market among its biggest movers across the tracked venues. The contract rose from near 3 percent in the latest snapshot. (PredictMarketCap)",
       "image_url": null,
       "published": "2026-11-06T21:15:00-05:00",
       "source": "2026-11-06_2115-est.json",
