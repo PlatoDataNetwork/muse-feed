@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-07T02:14:58.550551-05:00",
+  "updated": "2026-11-07T02:30:33.537445-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-07_0224-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-07_0224-est",
+      "title": "Trader EdZachary is fifth on today's profit leaderboard with $98.0K in profit on a 50-0 record",
+      "content_text": "Infiniti Prediction Markets\n\nTrader EdZachary is fifth on today's profit leaderboard with $98.0K in profit on a 50-0 record\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out on Nov. 5 and Nov.…\n#PredictionMarkets #Senate #Elections #Midterms\n\nTennessee is priced at 66% to beat Kentucky on Polymarket, with an expanded board for tonight's 6:15 PM ET kickoff at Neyland Stadium\nRocky Top Insider, published Nov. 7 and read this run, reports Polymarket US has expanded the Kentucky at Tennessee board beyond the winner to a spread ladder running…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Trader EdZachary is fifth on today&#x27;s profit leaderboard with $98.0K in profit on a 50-0 record<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out on Nov. 5 and Nov.…<br/>#PredictionMarkets #Senate #Elections #Midterms<br/><br/>Tennessee is priced at 66% to beat Kentucky on Polymarket, with an expanded board for tonight&#x27;s 6:15 PM ET kickoff at Neyland Stadium<br/>Rocky Top Insider, published Nov. 7 and read this run, reports Polymarket US has expanded the Kentucky at Tennessee board beyond the winner to a spread ladder running…<br/>#PredictionMarkets #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-07T02:24:00-05:00",
+      "date_modified": "2026-11-07T02:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Senate",
+        "Elections",
+        "Midterms",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 7, 2026 · 2:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nTrader EdZachary is fifth on today's profit leaderboard with $98.0K in profit on a 50-0 record\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out on Nov. 5 and Nov.…\n#PredictionMarkets #Senate #Elections #Midterms\n\nTennessee is priced at 66% to beat Kentucky on Polymarket, with an expanded board for tonight's 6:15 PM ET kickoff at Neyland Stadium\nRocky Top Insider, published Nov. 7 and read this run, reports Polymarket US has expanded the Kentucky at Tennessee board beyond the winner to a spread ladder running…\n#PredictionMarkets #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-07T02:24:00-05:00",
+      "source": "2026-11-07_0224-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-07_0215-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_0215-est-0",
@@ -4244,34 +4275,6 @@
       "links": [],
       "timestamp": "Nov 6, 2026 · 7:15 PM ET",
       "body": "- **Contract on XRP being above 1.20 dollars on November 6 falls 80.8 points to 17.8 cents on Polymarket, with 13,600 dollars traded, PolymarketTrader reports** — PolymarketTrader ranks the contract as the second-largest 24-hour price fall in its November 6 snapshot built from the public Polymarket Gamma API. The contract carried 26,200 dollars in liquidity at the snapshot. (PolymarketTrader)",
-      "image_url": null,
-      "published": "2026-11-06T19:15:00-05:00",
-      "source": "2026-11-06_1915-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-06_1915-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-06_1915-est-2",
-      "title": "Fluminense win contract rises 30 points to 68.5 percent on Kalshi, with 311,400 dollars traded, PredictMarketCap reports",
-      "content_text": "- **Fluminense win contract rises 30 points to 68.5 percent on Kalshi, with 311,400 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the Fluminense contract among the top trending prediction markets in its latest update, ranked by volume spikes and breakout moves across Kalshi, Polymarket and Limitless. (PredictMarketCap)",
-      "content_html": "<p>- **Fluminense win contract rises 30 points to 68.5 percent on Kalshi, with 311,400 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the Fluminense contract among the top trending prediction markets in its latest update, ranked by volume spikes and breakout moves across Kalshi, Polymarket and Limitless. (PredictMarketCap)</p>",
-      "date_published": "2026-11-06T19:15:00-05:00",
-      "date_modified": "2026-11-06T19:15:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 6, 2026 · 7:15 PM ET",
-      "body": "- **Fluminense win contract rises 30 points to 68.5 percent on Kalshi, with 311,400 dollars traded, PredictMarketCap reports** — PredictMarketCap lists the Fluminense contract among the top trending prediction markets in its latest update, ranked by volume spikes and breakout moves across Kalshi, Polymarket and Limitless. (PredictMarketCap)",
       "image_url": null,
       "published": "2026-11-06T19:15:00-05:00",
       "source": "2026-11-06_1915-est.json",
