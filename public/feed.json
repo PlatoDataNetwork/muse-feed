@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-08T01:14:06.033986-05:00",
+  "updated": "2026-11-08T01:29:24.842011-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,37 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-08_0124-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-08_0124-est",
+      "title": "The President signing more than one executive order between November 8 and November 14 is priced at 44% in a new Kalshi market, on $2K traded",
+      "content_text": "Infiniti Prediction Markets\n\nThe President signing more than one executive order between November 8 and November 14 is priced at 44% in a new Kalshi market, on $2K traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out, including the…\n#PredictionMarkets #Kalshi #CFTC #Elections\n\nLiverpool is priced at 63 cents against Crystal Palace today, on $397K traded in 24 hours\nDeFi Rate's top-50 board, read this run with quotes observed Nov. 7 between 10:41 PM ET and Nov. 8 at 1:22 AM ET, ranks Crystal Palace vs Liverpool fourteenth at $397K…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>The President signing more than one executive order between November 8 and November 14 is priced at 44% in a new Kalshi market, on $2K traded<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out, including the…<br/>#PredictionMarkets #Kalshi #CFTC #Elections<br/><br/>Liverpool is priced at 63 cents against Crystal Palace today, on $397K traded in 24 hours<br/>DeFi Rate&#x27;s top-50 board, read this run with quotes observed Nov. 7 between 10:41 PM ET and Nov. 8 at 1:22 AM ET, ranks Crystal Palace vs Liverpool fourteenth at $397K…<br/>#PredictionMarkets #Kalshi #Polymarket<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-08T01:24:00-05:00",
+      "date_modified": "2026-11-08T01:24:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Kalshi",
+        "CFTC",
+        "Elections",
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 8, 2026 · 1:24 AM ET",
+      "body": "Infiniti Prediction Markets\n\nThe President signing more than one executive order between November 8 and November 14 is priced at 44% in a new Kalshi market, on $2K traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out, including the…\n#PredictionMarkets #Kalshi #CFTC #Elections\n\nLiverpool is priced at 63 cents against Crystal Palace today, on $397K traded in 24 hours\nDeFi Rate's top-50 board, read this run with quotes observed Nov. 7 between 10:41 PM ET and Nov. 8 at 1:22 AM ET, ranks Crystal Palace vs Liverpool fourteenth at $397K…\n#PredictionMarkets #Kalshi #Polymarket\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-08T01:24:00-05:00",
+      "source": "2026-11-08_0124-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-08_0115-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0115-est-0",
@@ -4206,33 +4237,6 @@
       "links": [],
       "timestamp": "Nov 7, 2026 · 6:30 PM ET",
       "body": "- **An 8,707-contract trade on VMI to win at 30 cents is the largest recent single fill on Kalshi at 2,612 dollars, BotForKalshi reports** — BotForKalshi lists the fill at the top of its largest recent trades in exchange data as of 3:28 PM Pacific on November 7, for the VMI against UTSA college basketball game. (BotForKalshi)",
-      "image_url": null,
-      "published": "2026-11-07T18:30:00-05:00",
-      "source": "2026-11-07_1830-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_1830-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_1830-est-2",
-      "title": "Contract on Nicholas Hoult being cast as the next James Bond rises 6 cents to 9.5 cents on Kalshi, BotForKalshi reports",
-      "content_text": "- **Contract on Nicholas Hoult being cast as the next James Bond rises 6 cents to 9.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves right now against the previous quote, in exchange data as of 3:28 PM Pacific on November 7, with 15,448 contracts traded in 24 hours for an estimated 1,468 dollars. (BotForKalshi)",
-      "content_html": "<p>- **Contract on Nicholas Hoult being cast as the next James Bond rises 6 cents to 9.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves right now against the previous quote, in exchange data as of 3:28 PM Pacific on November 7, with 15,448 contracts traded in 24 hours for an estimated 1,468 dollars. (BotForKalshi)</p>",
-      "date_published": "2026-11-07T18:30:00-05:00",
-      "date_modified": "2026-11-07T18:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 6:30 PM ET",
-      "body": "- **Contract on Nicholas Hoult being cast as the next James Bond rises 6 cents to 9.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves right now against the previous quote, in exchange data as of 3:28 PM Pacific on November 7, with 15,448 contracts traded in 24 hours for an estimated 1,468 dollars. (BotForKalshi)",
       "image_url": null,
       "published": "2026-11-07T18:30:00-05:00",
       "source": "2026-11-07_1830-est.json",
