@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-08T03:45:01.327198-05:00",
+  "updated": "2026-11-08T03:59:07.106445-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,36 @@
     }
   ],
   "items": [
+    {
+      "id": "infiniti-2026-11-08_0354-est",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#infiniti-2026-11-08_0354-est",
+      "title": "Scott Jennings being the next White House Press Secretary is priced at 22.0%, up 17.8 points, on $94K traded",
+      "content_text": "Infiniti Prediction Markets\n\nScott Jennings being the next White House Press Secretary is priced at 22.0%, up 17.8 points, on $94K traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out, including the…\n#PredictionMarkets #Polymarket #Elections\n\nLos Angeles L wins is priced at 39 cents against Detroit today, down 9 cents, on 123K contracts traded\nPredictionMarketPicks' Kalshi market leaderboard, read this run on its snapshot of Nov. 8 at 3:09 AM ET across 288 priced contracts in 19 series, lists Los Angeles L's…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "content_html": "<p>Infiniti Prediction Markets<br/><br/>Scott Jennings being the next White House Press Secretary is priced at 22.0%, up 17.8 points, on $94K traded<br/>No new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out, including the…<br/>#PredictionMarkets #Polymarket #Elections<br/><br/>Los Angeles L wins is priced at 39 cents against Detroit today, down 9 cents, on 123K contracts traded<br/>PredictionMarketPicks&#x27; Kalshi market leaderboard, read this run on its snapshot of Nov. 8 at 3:09 AM ET across 288 priced contracts in 19 series, lists Los Angeles L&#x27;s…<br/>#PredictionMarkets #Kalshi<br/><br/>https://infiniti.w3ai.io/intelligence</p>",
+      "date_published": "2026-11-08T03:54:00-05:00",
+      "date_modified": "2026-11-08T03:54:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "PredictionMarkets",
+        "Polymarket",
+        "Elections",
+        "Kalshi"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 8, 2026 · 3:54 AM ET",
+      "body": "Infiniti Prediction Markets\n\nScott Jennings being the next White House Press Secretary is priced at 22.0%, up 17.8 points, on $94K traded\nNo new platform headline in the last 30 minutes changes the picture — news search recirculated only items already carried, website-carried or held out, including the…\n#PredictionMarkets #Polymarket #Elections\n\nLos Angeles L wins is priced at 39 cents against Detroit today, down 9 cents, on 123K contracts traded\nPredictionMarketPicks' Kalshi market leaderboard, read this run on its snapshot of Nov. 8 at 3:09 AM ET across 288 priced contracts in 19 series, lists Los Angeles L's…\n#PredictionMarkets #Kalshi\n\nhttps://infiniti.w3ai.io/intelligence",
+      "image_url": null,
+      "published": "2026-11-08T03:54:00-05:00",
+      "source": "2026-11-08_0354-est.md",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-08_0345-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0345-est-0",
@@ -4184,31 +4214,6 @@
       "links": [],
       "timestamp": "Nov 7, 2026 · 9:00 PM ET",
       "body": "- **CJ Carr is priced at 36 percent on Kalshi to win the Heisman Trophy, up 28 points over seven days, DeFi Rate reports** — DeFi Rate lists the Heisman market among its surging markets on November 7, trading at 2.1 times its daily average with 251,000 dollars traded in 24 hours. Carr was priced at 8 percent a week earlier on the board's seven-day move table. (DeFi Rate)",
-      "image_url": null,
-      "published": "2026-11-07T21:00:00-05:00",
-      "source": "2026-11-07_2100-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_2100-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_2100-est-2",
-      "title": "Trader GetsOnBase is fourth on today's prediction market profit leaderboard with 129,900 dollars in profit on a 163-0 record, Rivo reports",
-      "content_text": "- **Trader GetsOnBase is fourth on today's prediction market profit leaderboard with 129,900 dollars in profit on a 163-0 record, Rivo reports** — Rivo ranks the trader fourth on its November 7 board, with 132,700 dollars traded and a 98 percent return on bets settled over the past 24 hours. BreakTheBank leads the board with 559,400 dollars in profit. (Rivo)",
-      "content_html": "<p>- **Trader GetsOnBase is fourth on today&#x27;s prediction market profit leaderboard with 129,900 dollars in profit on a 163-0 record, Rivo reports** — Rivo ranks the trader fourth on its November 7 board, with 132,700 dollars traded and a 98 percent return on bets settled over the past 24 hours. BreakTheBank leads the board with 559,400 dollars in profit. (Rivo)</p>",
-      "date_published": "2026-11-07T21:00:00-05:00",
-      "date_modified": "2026-11-07T21:00:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 9:00 PM ET",
-      "body": "- **Trader GetsOnBase is fourth on today's prediction market profit leaderboard with 129,900 dollars in profit on a 163-0 record, Rivo reports** — Rivo ranks the trader fourth on its November 7 board, with 132,700 dollars traded and a 98 percent return on bets settled over the past 24 hours. BreakTheBank leads the board with 559,400 dollars in profit. (Rivo)",
       "image_url": null,
       "published": "2026-11-07T21:00:00-05:00",
       "source": "2026-11-07_2100-est.json",
