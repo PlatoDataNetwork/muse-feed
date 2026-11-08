@@ -31,7 +31,7 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Infiniti hourly briefing pipeline + 15-minute story top-ups (website Intelligence Feed)",
-  "updated": "2026-11-08T05:32:21.187546-05:00",
+  "updated": "2026-11-08T05:52:05.751516-05:00",
   "rss_url": "https://muse-feed-psi.vercel.app/feed.xml",
   "syndication": {
     "canonical_url": "https://infiniti.w3ai.io/infiniti-feed",
@@ -127,6 +127,146 @@
     }
   ],
   "items": [
+    {
+      "id": "web-2026-11-08_0545-est-0",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0545-est-0",
+      "title": "Polymarket probes 257,000 dollars in profit on bets placed before NYT/Siena polls, FinanceFeeds reports",
+      "content_text": "- **Polymarket probes 257,000 dollars in profit on bets placed before NYT/Siena polls, FinanceFeeds reports** — Polymarket is investigating well-timed bets placed shortly before two New York Times/Siena polls, including about 191,000 dollars on Pete Ricketts in Nebraska and more than 622,000 dollars on the Democratic nominee in Michigan's Senate race, after Vanderbilt researchers flagged more than 257,000 dollars in profit. (FinanceFeeds)",
+      "content_html": "<p>- **Polymarket probes 257,000 dollars in profit on bets placed before NYT/Siena polls, FinanceFeeds reports** — Polymarket is investigating well-timed bets placed shortly before two New York Times/Siena polls, including about 191,000 dollars on Pete Ricketts in Nebraska and more than 622,000 dollars on the Democratic nominee in Michigan&#x27;s Senate race, after Vanderbilt researchers flagged more than 257,000 dollars in profit. (FinanceFeeds)</p>",
+      "date_published": "2026-11-08T05:45:00-05:00",
+      "date_modified": "2026-11-08T05:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket",
+        "Senate"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 8, 2026 · 5:45 AM ET",
+      "body": "- **Polymarket probes 257,000 dollars in profit on bets placed before NYT/Siena polls, FinanceFeeds reports** — Polymarket is investigating well-timed bets placed shortly before two New York Times/Siena polls, including about 191,000 dollars on Pete Ricketts in Nebraska and more than 622,000 dollars on the Democratic nominee in Michigan's Senate race, after Vanderbilt researchers flagged more than 257,000 dollars in profit. (FinanceFeeds)",
+      "image_url": null,
+      "published": "2026-11-08T05:45:00-05:00",
+      "source": "2026-11-08_0545-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-08_0545-est-1",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0545-est-1",
+      "title": "CFTC says prediction market firms must serve all states despite court orders, Newisty reports",
+      "content_text": "- **CFTC says prediction market firms must serve all states despite court orders, Newisty reports** — The Commodity Futures Trading Commission said designated contract markets including Kalshi and Polymarket cannot cut off customers state by state and must operate nationwide, giving firms 30 days to reopen closed regions or explain why that is not feasible. (Newisty)",
+      "content_html": "<p>- **CFTC says prediction market firms must serve all states despite court orders, Newisty reports** — The Commodity Futures Trading Commission said designated contract markets including Kalshi and Polymarket cannot cut off customers state by state and must operate nationwide, giving firms 30 days to reopen closed regions or explain why that is not feasible. (Newisty)</p>",
+      "date_published": "2026-11-08T05:45:00-05:00",
+      "date_modified": "2026-11-08T05:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Polymarket",
+        "CFTC"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 8, 2026 · 5:45 AM ET",
+      "body": "- **CFTC says prediction market firms must serve all states despite court orders, Newisty reports** — The Commodity Futures Trading Commission said designated contract markets including Kalshi and Polymarket cannot cut off customers state by state and must operate nationwide, giving firms 30 days to reopen closed regions or explain why that is not feasible. (Newisty)",
+      "image_url": null,
+      "published": "2026-11-08T05:45:00-05:00",
+      "source": "2026-11-08_0545-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-08_0545-est-2",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0545-est-2",
+      "title": "Kalshi midterm election volume exceeded 2.5 billion dollars, almost double the 2024 cycle, AiCoin reports",
+      "content_text": "- **Kalshi midterm election volume exceeded 2.5 billion dollars, almost double the 2024 cycle, AiCoin reports** — Kalshi said total trading volume for the 2026 midterm elections exceeded 2.5 billion dollars, almost double the 1.3 billion dollars for the entire 2024 election cycle, with 729 million dollars traded on November 3 alone and race accuracy near 98 percent. (AiCoin)",
+      "content_html": "<p>- **Kalshi midterm election volume exceeded 2.5 billion dollars, almost double the 2024 cycle, AiCoin reports** — Kalshi said total trading volume for the 2026 midterm elections exceeded 2.5 billion dollars, almost double the 1.3 billion dollars for the entire 2024 election cycle, with 729 million dollars traded on November 3 alone and race accuracy near 98 percent. (AiCoin)</p>",
+      "date_published": "2026-11-08T05:45:00-05:00",
+      "date_modified": "2026-11-08T05:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Elections",
+        "Midterms"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 8, 2026 · 5:45 AM ET",
+      "body": "- **Kalshi midterm election volume exceeded 2.5 billion dollars, almost double the 2024 cycle, AiCoin reports** — Kalshi said total trading volume for the 2026 midterm elections exceeded 2.5 billion dollars, almost double the 1.3 billion dollars for the entire 2024 election cycle, with 729 million dollars traded on November 3 alone and race accuracy near 98 percent. (AiCoin)",
+      "image_url": null,
+      "published": "2026-11-08T05:45:00-05:00",
+      "source": "2026-11-08_0545-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-08_0545-est-3",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0545-est-3",
+      "title": "Israel and Iran ceasefire continuing through November 15 is priced at 89 percent on Polymarket, up 8.5 points, ProbCast reports",
+      "content_text": "- **Israel and Iran ceasefire continuing through November 15 is priced at 89 percent on Polymarket, up 8.5 points, ProbCast reports** — ProbCast lists the Israel and Iran ceasefire continuing through November 15 among confirmed moves on Polymarket, priced at 89 percent, up 8.5 points, with 206,500 dollars traded. (ProbCast)",
+      "content_html": "<p>- **Israel and Iran ceasefire continuing through November 15 is priced at 89 percent on Polymarket, up 8.5 points, ProbCast reports** — ProbCast lists the Israel and Iran ceasefire continuing through November 15 among confirmed moves on Polymarket, priced at 89 percent, up 8.5 points, with 206,500 dollars traded. (ProbCast)</p>",
+      "date_published": "2026-11-08T05:45:00-05:00",
+      "date_modified": "2026-11-08T05:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 8, 2026 · 5:45 AM ET",
+      "body": "- **Israel and Iran ceasefire continuing through November 15 is priced at 89 percent on Polymarket, up 8.5 points, ProbCast reports** — ProbCast lists the Israel and Iran ceasefire continuing through November 15 among confirmed moves on Polymarket, priced at 89 percent, up 8.5 points, with 206,500 dollars traded. (ProbCast)",
+      "image_url": null,
+      "published": "2026-11-08T05:45:00-05:00",
+      "source": "2026-11-08_0545-est.json",
+      "matches_facebook_post": false
+    },
+    {
+      "id": "web-2026-11-08_0545-est-4",
+      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0545-est-4",
+      "title": "Cardiff City against Burnley more markets rise 98.2 points to 100 percent on Polymarket, with 100,000 dollars traded, PredScope reports",
+      "content_text": "- **Cardiff City against Burnley more markets rise 98.2 points to 100 percent on Polymarket, with 100,000 dollars traded, PredScope reports** — PredScope lists Cardiff City against Burnley more markets among today's biggest movers on Polymarket, up 98.2 points to 100 percent with 100,000 dollars traded in 24 hours. (PredScope)",
+      "content_html": "<p>- **Cardiff City against Burnley more markets rise 98.2 points to 100 percent on Polymarket, with 100,000 dollars traded, PredScope reports** — PredScope lists Cardiff City against Burnley more markets among today&#x27;s biggest movers on Polymarket, up 98.2 points to 100 percent with 100,000 dollars traded in 24 hours. (PredScope)</p>",
+      "date_published": "2026-11-08T05:45:00-05:00",
+      "date_modified": "2026-11-08T05:45:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Oracle",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Polymarket"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 8, 2026 · 5:45 AM ET",
+      "body": "- **Cardiff City against Burnley more markets rise 98.2 points to 100 percent on Polymarket, with 100,000 dollars traded, PredScope reports** — PredScope lists Cardiff City against Burnley more markets among today's biggest movers on Polymarket, up 98.2 points to 100 percent with 100,000 dollars traded in 24 hours. (PredScope)",
+      "image_url": null,
+      "published": "2026-11-08T05:45:00-05:00",
+      "source": "2026-11-08_0545-est.json",
+      "matches_facebook_post": false
+    },
     {
       "id": "web-2026-11-08_0530-est-0",
       "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-08_0530-est-0",
@@ -4100,142 +4240,6 @@
       "image_url": null,
       "published": "2026-11-07T22:45:00-05:00",
       "source": "2026-11-07_2245-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_2245-est-1",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_2245-est-1",
-      "title": "Contract on EC Juventude winning on November 6 rises 54.4 points to 100 percent on Polymarket, PredictionBubbles reports",
-      "content_text": "- **Contract on EC Juventude winning on November 6 rises 54.4 points to 100 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the market as awaiting settlement among the biggest 24-hour movers on its live board. The contract traded 321,000 dollars on Polymarket in the sports category. (PredictionBubbles)",
-      "content_html": "<p>- **Contract on EC Juventude winning on November 6 rises 54.4 points to 100 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the market as awaiting settlement among the biggest 24-hour movers on its live board. The contract traded 321,000 dollars on Polymarket in the sports category. (PredictionBubbles)</p>",
-      "date_published": "2026-11-07T22:45:00-05:00",
-      "date_modified": "2026-11-07T22:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Polymarket"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 10:45 PM ET",
-      "body": "- **Contract on EC Juventude winning on November 6 rises 54.4 points to 100 percent on Polymarket, PredictionBubbles reports** — PredictionBubbles lists the market as awaiting settlement among the biggest 24-hour movers on its live board. The contract traded 321,000 dollars on Polymarket in the sports category. (PredictionBubbles)",
-      "image_url": null,
-      "published": "2026-11-07T22:45:00-05:00",
-      "source": "2026-11-07_2245-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_2245-est-2",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_2245-est-2",
-      "title": "Elissa Slotkin is priced at 3 percent on Kalshi in a new market on the Senate Majority Leader election for the 120th Congress, PredictionBubbles reports",
-      "content_text": "- **Elissa Slotkin is priced at 3 percent on Kalshi in a new market on the Senate Majority Leader election for the 120th Congress, PredictionBubbles reports** — PredictionBubbles lists the contract among the newest markets on its board, created about five hours before the board was read, with about 1,000 dollars traded. The market resolves in about 421 days. (PredictionBubbles)",
-      "content_html": "<p>- **Elissa Slotkin is priced at 3 percent on Kalshi in a new market on the Senate Majority Leader election for the 120th Congress, PredictionBubbles reports** — PredictionBubbles lists the contract among the newest markets on its board, created about five hours before the board was read, with about 1,000 dollars traded. The market resolves in about 421 days. (PredictionBubbles)</p>",
-      "date_published": "2026-11-07T22:45:00-05:00",
-      "date_modified": "2026-11-07T22:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi",
-        "Senate",
-        "Congress",
-        "Elections"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 10:45 PM ET",
-      "body": "- **Elissa Slotkin is priced at 3 percent on Kalshi in a new market on the Senate Majority Leader election for the 120th Congress, PredictionBubbles reports** — PredictionBubbles lists the contract among the newest markets on its board, created about five hours before the board was read, with about 1,000 dollars traded. The market resolves in about 421 days. (PredictionBubbles)",
-      "image_url": null,
-      "published": "2026-11-07T22:45:00-05:00",
-      "source": "2026-11-07_2245-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_2245-est-3",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_2245-est-3",
-      "title": "Contract on the Riemann Hypothesis being resolved before 2027 falls 9.5 cents to 5.5 cents on Kalshi, BotForKalshi reports",
-      "content_text": "- **Contract on the Riemann Hypothesis being resolved before 2027 falls 9.5 cents to 5.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves on Kalshi right now against the previous quote, in exchange data as of 7:13 PM Pacific on November 7. The contract spread is listed at 5 cents. (BotForKalshi)",
-      "content_html": "<p>- **Contract on the Riemann Hypothesis being resolved before 2027 falls 9.5 cents to 5.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves on Kalshi right now against the previous quote, in exchange data as of 7:13 PM Pacific on November 7. The contract spread is listed at 5 cents. (BotForKalshi)</p>",
-      "date_published": "2026-11-07T22:45:00-05:00",
-      "date_modified": "2026-11-07T22:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 10:45 PM ET",
-      "body": "- **Contract on the Riemann Hypothesis being resolved before 2027 falls 9.5 cents to 5.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves on Kalshi right now against the previous quote, in exchange data as of 7:13 PM Pacific on November 7. The contract spread is listed at 5 cents. (BotForKalshi)",
-      "image_url": null,
-      "published": "2026-11-07T22:45:00-05:00",
-      "source": "2026-11-07_2245-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_2245-est-4",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_2245-est-4",
-      "title": "Contract on Nicholas Galitzine being cast as the next James Bond falls 8.5 cents to 2.5 cents on Kalshi, BotForKalshi reports",
-      "content_text": "- **Contract on Nicholas Galitzine being cast as the next James Bond falls 8.5 cents to 2.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves on Kalshi right now against the previous quote, in exchange data as of 7:13 PM Pacific on November 7. Robert Pattinson leads the Bond board at 24.5 cents in the same snapshot. (BotForKalshi)",
-      "content_html": "<p>- **Contract on Nicholas Galitzine being cast as the next James Bond falls 8.5 cents to 2.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves on Kalshi right now against the previous quote, in exchange data as of 7:13 PM Pacific on November 7. Robert Pattinson leads the Bond board at 24.5 cents in the same snapshot. (BotForKalshi)</p>",
-      "date_published": "2026-11-07T22:45:00-05:00",
-      "date_modified": "2026-11-07T22:45:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Kalshi"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 10:45 PM ET",
-      "body": "- **Contract on Nicholas Galitzine being cast as the next James Bond falls 8.5 cents to 2.5 cents on Kalshi, BotForKalshi reports** — BotForKalshi lists the move among the biggest price moves on Kalshi right now against the previous quote, in exchange data as of 7:13 PM Pacific on November 7. Robert Pattinson leads the Bond board at 24.5 cents in the same snapshot. (BotForKalshi)",
-      "image_url": null,
-      "published": "2026-11-07T22:45:00-05:00",
-      "source": "2026-11-07_2245-est.json",
-      "matches_facebook_post": false
-    },
-    {
-      "id": "web-2026-11-07_2230-est-0",
-      "url": "https://infiniti.w3ai.io/infiniti-feed#web-2026-11-07_2230-est-0",
-      "title": "Robinhood event contracts generated 173 million dollars in Q3 2026 revenue, ahead of 121 million dollars from equities, Crypto Economy reports",
-      "content_text": "- **Robinhood event contracts generated 173 million dollars in Q3 2026 revenue, ahead of 121 million dollars from equities, Crypto Economy reports** — Robinhood event-contract trading reached a record 16.4 billion contracts in Q3 2026, with revenue up from 27 million dollars in the same period in 2025. The result shows prediction-market trading outpacing its stock trading business for the quarter. (Crypto Economy)",
-      "content_html": "<p>- **Robinhood event contracts generated 173 million dollars in Q3 2026 revenue, ahead of 121 million dollars from equities, Crypto Economy reports** — Robinhood event-contract trading reached a record 16.4 billion contracts in Q3 2026, with revenue up from 27 million dollars in the same period in 2025. The result shows prediction-market trading outpacing its stock trading business for the quarter. (Crypto Economy)</p>",
-      "date_published": "2026-11-07T22:30:00-05:00",
-      "date_modified": "2026-11-07T22:30:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Oracle",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 7, 2026 · 10:30 PM ET",
-      "body": "- **Robinhood event contracts generated 173 million dollars in Q3 2026 revenue, ahead of 121 million dollars from equities, Crypto Economy reports** — Robinhood event-contract trading reached a record 16.4 billion contracts in Q3 2026, with revenue up from 27 million dollars in the same period in 2025. The result shows prediction-market trading outpacing its stock trading business for the quarter. (Crypto Economy)",
-      "image_url": null,
-      "published": "2026-11-07T22:30:00-05:00",
-      "source": "2026-11-07_2230-est.json",
       "matches_facebook_post": false
     }
   ]
